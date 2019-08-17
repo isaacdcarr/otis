@@ -1,6 +1,6 @@
 # otis
 # pulse
-> A AI built by Isaac Carr (z5062328) working towards a thesis in the School of Mechanical Engineering at UNSW
+> A computer-aided diagnosis system built by Isaac Carr (z5062328) working towards a thesis in the School of Mechanical Engineering at UNSW
 
 ## Background
 * This AI that is a part of a larger group thesis that aims to build a wearable health technology that can diagnose the number one health issue in the developing world 
