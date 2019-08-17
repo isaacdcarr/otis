@@ -1,5 +1,4 @@
 # otis
-# pulse
 > A computer-aided diagnosis system built by Isaac Carr (z5062328) working towards a thesis in the School of Mechanical Engineering at UNSW
 
 ## Background
