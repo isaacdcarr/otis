@@ -1,0 +1,69 @@
+Using TensorFlow backend.
+== Starting Otis ==
+... obtaining normal train data
+... ... Processed 1342 images
+... obtaining pneumonia train data
+... ... Processed 3876 images
+... obtaining normal test data
+... ... Processed 234 images
+... obtaining pneumonia tests data
+... ... Processed 390 images
+X_train:	(5216, 224, 224, 1)
+y_train:	(5216, 2)
+X_test:	(624, 224, 224, 1)
+y_test:	(624, 2)
+... define model
+WARNING:tensorflow:From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+conv2d_1 (Conv2D)            (None, 224, 224, 32)      832
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 112, 112, 32)      0
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 112, 112, 6)       4806
+_________________________________________________________________
+max_pooling2d_2 (MaxPooling2 (None, 56, 56, 6)         0
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 18816)             0
+_________________________________________________________________
+dense_1 (Dense)              (None, 1024)              19268608
+_________________________________________________________________
+dense_2 (Dense)              (None, 2)                 2050
+=================================================================
+Total params: 19,276,296
+Trainable params: 19,276,296
+Non-trainable params: 0
+_________________________________________________________________
+None
+... fit model
+2019-10-05 11:05:25.861264: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+WARNING:tensorflow:From /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+Train on 5216 samples, validate on 5216 samples
+Epoch 1/10
+5216/5216 [==============================] - 337s 65ms/step - loss: 28.3415 - accuracy: 0.8474 - val_loss: 0.2467 - val_accuracy: 0.9091
+Epoch 2/10
+5216/5216 [==============================] - 339s 65ms/step - loss: 0.2227 - accuracy: 0.9068 - val_loss: 0.1573 - val_accuracy: 0.9438
+Epoch 3/10
+5216/5216 [==============================] - 316s 61ms/step - loss: 0.1483 - accuracy: 0.9362 - val_loss: 0.1047 - val_accuracy: 0.9634
+Epoch 4/10
+5216/5216 [==============================] - 314s 60ms/step - loss: 0.1003 - accuracy: 0.9574 - val_loss: 0.0695 - val_accuracy: 0.9743
+Epoch 5/10
+5216/5216 [==============================] - 376s 72ms/step - loss: 0.0827 - accuracy: 0.9664 - val_loss: 0.1124 - val_accuracy: 0.9594
+Epoch 6/10
+5216/5216 [==============================] - 309s 59ms/step - loss: 0.0880 - accuracy: 0.9689 - val_loss: 0.0543 - val_accuracy: 0.9814
+Epoch 7/10
+5216/5216 [==============================] - 308s 59ms/step - loss: 0.0583 - accuracy: 0.9814 - val_loss: 0.0481 - val_accuracy: 0.9858
+Epoch 8/10
+5216/5216 [==============================] - 310s 59ms/step - loss: 0.0426 - accuracy: 0.9872 - val_loss: 0.0283 - val_accuracy: 0.9918
+Epoch 9/10
+5216/5216 [==============================] - 307s 59ms/step - loss: 0.0781 - accuracy: 0.9758 - val_loss: 0.0415 - val_accuracy: 0.9883
+Epoch 10/10
+5216/5216 [==============================] - 308s 59ms/step - loss: 0.0956 - accuracy: 0.9847 - val_loss: 0.0650 - val_accuracy: 0.9791
+Traceback (most recent call last):
+  File "src/otis.py", line 133, in <module>
+    plt.plot(history_cnn.history_cnn['acc'])
+AttributeError: 'History' object has no attribute 'history_cnn'

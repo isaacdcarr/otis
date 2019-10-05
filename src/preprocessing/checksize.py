@@ -1,3 +1,14 @@
+"""
+Isaac Carr (i.carr@unsw.edu.au)
+Developed for MMAN4020, 19T3
+Health Group 4
+---
+`checksize.py` generates summary statistics for the width and height of 
+the Kaggle, chest-xray dataset.
+It writes the results to `checksize.txt`.
+The aim is to give an indication of how to make the images of equal size. 
+"""
+
 from keras.preprocessing import image
 import os
 
@@ -11,7 +22,6 @@ if __name__ == '__main__':
             img = image.load_img(img_dir + file)
             w.append(float(img.size[0]))
             h.append(float(img.size[1]))
-
 
     output = open('src/preprocessing/checksize.txt','w')
     output.write("... summary ...\n")
