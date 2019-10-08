@@ -11,16 +11,16 @@ This file includes training, testing & validating.
 """
 
 # Imports
-#from __future__ import print_function
-
-from keras.models   import Sequential, model_from_json
-from keras.utils    import to_categorical 
-from keras.layers   import Conv2D, MaxPool2D, Flatten, Dense
-from keras.preprocessing import image
+from keras.models           import Sequential, model_from_json
+from keras.utils            import to_categorical 
+from keras.layers           import Conv2D, MaxPool2D, Flatten, Dense
+from keras.preprocessing    import image
 
 import matplotlib.pyplot as plt 
-import numpy as np # might not need
+import numpy as np 
 import os
+
+from hyperparams import *
 
 # Pre-processing
 def preprocess(target_w, target_h): 
@@ -116,10 +116,6 @@ def model(target_w, target_h):
 
 if __name__ == '__main__':
     print("== Starting Otis ==")
-    # hyperparameters
-    epochs = 10
-    target_w = 224
-    target_h = 224
 
     # Run model 
     (X_train, y_train, X_test, y_test) = preprocess(target_w, target_h) 
