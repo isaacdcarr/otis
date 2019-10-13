@@ -151,6 +151,8 @@ def main():
     (X_train, y_train, X_test, y_test, X_val, y_val) = preprocess(target_w, target_h) 
     print("... define model")
     cnn = model(target_w, target_h) 
+
+    print(">>> For epochs: " + str(epochs))
     print("... fit model")
     history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, validation_data=(X_test, y_test))
     cnn.save_weights("model/weights/weights_" + str(epochs) + "epochs.model")
@@ -171,7 +173,8 @@ def main():
     plt.ylabel('accuracy')
     plt.legend(['train', 'test'], loc='upper left')
     plt.savefig('model/img/acc_' + str(epochs) + 'epochs.png')
-    plt.show()
+    #plt.show()
+    plt.clf()
 
     # Plot loss
     plt.plot(history_cnn.history['loss'])
@@ -181,11 +184,13 @@ def main():
     plt.ylabel('loss')
     plt.legend(['train', 'test'], loc='upper left')
     plt.savefig('model/img/loss_' + str(epochs) + 'epochs.png')
-    plt.show()
+    #plt.show()
+    plt.clf()
 
     # Evalute
     score = cnn.evaluate(X_test, y_test)
     print(score)
+    # epochs += 20
  
 if __name__ == '__main__':
     main()
