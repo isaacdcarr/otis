@@ -8,6 +8,6 @@ neural network.
 """
 
 iter_num    = '2'
-epochs      = 10
+epochs      = 1
 target_w    = 224
 target_h    = target_w

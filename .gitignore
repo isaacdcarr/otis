@@ -1,3 +1,4 @@
 model/weights/
 model/model/
+venv/
 src/__pycache__/
