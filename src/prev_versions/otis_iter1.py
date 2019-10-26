@@ -13,19 +13,15 @@ This file includes training, testing & validating.
 # Imports
 from keras.models           import Sequential, model_from_json
 from keras.utils            import to_categorical 
-from keras.layers           import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU
+from keras.layers           import Conv2D, MaxPool2D, Flatten, Dense
 from keras.preprocessing    import image
 
 import matplotlib.pyplot as plt 
 import numpy as np 
 import os
 import json
-import datetime as dt
 
 from hyperparams import *
-
-
-title = str(dt.datetime.now()) + ' ' + iter_num + 'iter_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
 
 # Pre-processing
 def preprocess(target_w, target_h): 
@@ -128,26 +124,24 @@ def preprocess(target_w, target_h):
 
 def model(target_w, target_h):
     cnn = Sequential()
-    cnn.add(Conv2D(32, kernel_size=(3,3), input_shape=(target_w, target_h, 1), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
-    cnn.add(Conv2D(64, kernel_size=(3,3), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
+    cnn.add(Conv2D(32, kernel_size=(5,5), input_shape=(target_w, target_h, 1), padding='same', activation='relu'))
+    cnn.add(MaxPool2D())
+    cnn.add(Conv2D(6, kernel_size=(5,5), padding='same', activation='relu'))
+    cnn.add(MaxPool2D())
     cnn.add(Flatten())
-    cnn.add(Dense(1024, activation='elu'))
-    cnn.add(Dense(2,activation='sigmoid'))
-    cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    cnn.add(Dense(1024, activation='relu'))
+    cnn.add(Dense(2,activation='softmax'))
+    cnn.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
     
     print(cnn.summary())
 
-    with open("model/model_architecture" + title + ".json", "w") as json_file:
+    with open("model/model_architecture.json", "w") as json_file:
         json_file.write(cnn.to_json())
 
     return cnn
 
 def main(): 
     print("== Starting Otis ==")
-    print(title)
-
     print("... hyperparams")
     print("...    epochs:\t" + str(epochs))
     print("...    targ_w:\t" + str(target_w))
@@ -161,14 +155,14 @@ def main():
     print(">>> For epochs: " + str(epochs))
     print("... fit model")
     history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, validation_data=(X_test, y_test))
-    cnn.save_weights("model/weights/weights_" + title  +'.model')
-    cnn.save("model/model/entire_model_" + title + '.hdf5')
+    cnn.save_weights("model/weights/weights_" + str(epochs) + 'epochs_' + str(targ_w) + 'size.model')
+    cnn.save("model/model/entire_model_" + str(epochs) + 'epochs_' + str(targ_w) + 'size.hdf5')
 
     # show gathered data
     try:
-        json.dump(history_cnn.history, open('model/history/history_' + title, 'w'))
+        json.dump(history_cnn.history, open('model/history/history_' + str(epochs) + 'epochs_' + str(targ_w) + 'size', 'w'))
     except:
-        json.dump(str(history_cnn.history), open('model/history/history_' + title, 'w'))
+        json.dump(str(history_cnn.history), open('model/history/history_' + str(epochs) + 'epochs_' + str(targ_w) + 'size', 'w'))
         print("Saved history as str")
         
     # Plot accuracy
@@ -178,7 +172,7 @@ def main():
     plt.xlabel('epoch')   
     plt.ylabel('accuracy')
     plt.legend(['train', 'test'], loc='upper left')
-    plt.savefig('model/img/acc_' + title + '.png')
+    plt.savefig('model/img/acc_' + str(epochs) + 'epochs_' + str(targ_w) + 'size.png')
     #plt.show()
     plt.clf()
 
@@ -189,7 +183,7 @@ def main():
     plt.xlabel('epoch')
     plt.ylabel('loss')
     plt.legend(['train', 'test'], loc='upper left')
-    plt.savefig('model/img/loss_' + title + '.png')
+    plt.savefig('model/img/loss_' + str(epochs) + 'epochs_' + str(targ_w) + 'size.png')
     #plt.show()
     plt.clf()
 
