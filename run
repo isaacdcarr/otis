@@ -6,4 +6,5 @@
 # Executes model 
 
 clear
+date
 python3 src/otis.py
