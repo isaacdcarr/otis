@@ -3,3 +3,4 @@ model/weights/
 model/model/
 venv/
 src/__pycache__/
+.DS_Store
