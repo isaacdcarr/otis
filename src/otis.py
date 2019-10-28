@@ -20,10 +20,10 @@ import matplotlib.pyplot as plt
 import numpy as np 
 import os
 import json
+import csv
 import datetime as dt
 
 from hyperparams import *
-
 
 title = str(dt.datetime.now()) + ' ' + iter_num + 'iter_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
 
@@ -38,72 +38,87 @@ def preprocess(target_w, target_h):
     test_path_pneumonia     = path + 'test/PNEUMONIA/'
     val_path_normal         = path + 'val/NORMAL/'
     val_path_pneumonia      = path + 'val/PNEUMONIA/'
+    second_root_path        = 'data/rsna-dataset/'
+    second_dataset_csv      = second_root_path + 'stage_2_train_labels.csv'
+    second_dataset_path     = second_root_path + 'data/rsna-dataset/'
 
     print("... obtaining normal train data")
-    i = 0 
+    num_img = 0 
     for file in os.listdir(train_path_normal):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(train_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_train.append(np.array(img))
             y_train.append(0)
-    print("... ... Processed " + str(i) + " images")        
+    print("... ... Processed " + str(num_img) + " images")        
     
     print("... obtaining pneumonia train data")
-    i = 0 
+    num_img = 0 
     for file in os.listdir(train_path_pneumonia):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(train_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_train.append(np.array(img))
             y_train.append(1)
-    print("... ... Processed " + str(i) + " images")     
+    print("... ... Processed " + str(num_img) + " images")     
 
     print("... obtaining normal test data")
-    i = 0 
+    num_img = 0 
     for file in os.listdir(test_path_normal):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(test_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(0)
-    print("... ... Processed " + str(i) + " images")     
+    print("... ... Processed " + str(num_img) + " images")     
     
     print("... obtaining pneumonia tests data")
-    i = 0
+    num_img = 0
     for file in os.listdir(test_path_pneumonia):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(test_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(1)
-    print("... ... Processed " + str(i) + " images")     
+    print("... ... Processed " + str(num_img) + " images")     
 
     print("... obtaining val train data")
-    i = 0 
+    num_img = 0 
     for file in os.listdir(val_path_normal):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(val_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_val.append(np.array(img))
             y_val.append(0)
-    print("... ... Processed " + str(i) + " images")        
+    print("... ... Processed " + str(num_img) + " images")        
     
     print("... obtaining pneumonia val data")
-    i = 0 
+    num_img = 0 
     for file in os.listdir(val_path_pneumonia):
-        i += 1
-        print("... ... Processed " + str(i) + " images", end="\r")
+        num_img += 1
+        print("... ... Processed " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(val_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_val.append(np.array(img))
             y_val.append(1)
-    print("... ... Processed " + str(i) + " images")
+    print("... ... Processed " + str(num_img) + " images")
+
+    print("... obtaining second dataset ")
+    with open(second_dataset_csv, mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        num_rows = 0
+        for row in csv_reader:
+            img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
+            X_train.append(np.array(img))
+            y_train.append(int(row["target"]))
+            print("... ... Processed " + str(num_rows) + " images", end="\r")
+            num_rows += 1
+    print("... ... Processed " + str(num_rows) + " images")
 
     X_train = np.array(X_train)
     y_train = np.array(y_train)
