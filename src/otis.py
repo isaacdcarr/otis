@@ -119,8 +119,10 @@ def preprocess(target_w, target_h):
                 y_train.append(int(row["target"]))
                 #print("... ... Processed " + str(num_rows) + " images", end="\r")
                 num_rows += 1
-            except: 
+            except Exception as e: 
+                print(e)
                 num_fail += 1 
+                return
             print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
     print("... ... Processed " + str(num_rows) + " images")
     print("... ... Could not load " + str(num_fail) + " images")
