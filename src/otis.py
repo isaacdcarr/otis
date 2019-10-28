@@ -116,7 +116,7 @@ def preprocess(target_w, target_h):
             try: 
                 img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
                 X_train.append(np.array(img))
-                y_train.append(int(row["target"]))
+                y_train.append(int(row["Target"]))
                 #print("... ... Processed " + str(num_rows) + " images", end="\r")
                 num_rows += 1
             except Exception as e: 
