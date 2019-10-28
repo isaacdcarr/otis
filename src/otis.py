@@ -39,7 +39,7 @@ def preprocess(target_w, target_h):
     val_path_pneumonia      = path + 'val/PNEUMONIA/'
     second_root_path        = 'data/rsna-dataset/'
     second_dataset_csv      = second_root_path + 'stage_2_train_labels.csv'
-    second_dataset_path     = second_root_path + 'data/rsna-dataset/'
+    second_dataset_path     = second_root_path + 'train_img/'
 
     print("... obtaining normal train data")
     num_img = 0 
