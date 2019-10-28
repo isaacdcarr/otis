@@ -7,7 +7,7 @@ The file defines hyperparameters for the convolutional
 neural network.
 """
 
-iter_num    = '2'
-epochs      = 1
+iter_num    = '3_newdata'
+epochs      = 4
 target_w    = 224
 target_h    = target_w
