@@ -117,10 +117,11 @@ def preprocess(target_w, target_h):
                 img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
                 X_train.append(np.array(img))
                 y_train.append(int(row["target"]))
-                print("... ... Processed " + str(num_rows) + " images", end="\r")
+                #print("... ... Processed " + str(num_rows) + " images", end="\r")
                 num_rows += 1
             except: 
                 num_fail += 1 
+            print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
     print("... ... Processed " + str(num_rows) + " images")
     print("... ... Could not load " + str(num_fail) + " images")
 
