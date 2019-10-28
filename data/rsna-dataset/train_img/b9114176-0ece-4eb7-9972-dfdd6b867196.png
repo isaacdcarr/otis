@@ -1,0 +1,2369 @@
+P5
+1024 1024
+255
+
+
+	
+
+
+							
+
+
+
+							
+
+
+					
+
+  !!""##$%&&&'()((()**))*+++,,-.---../.00000111223344324335545645666677566788998888888899999988::;<<<;;<<=======>??>>>?@????@AAA?@BDCCC@BCBCDDCCDEEDDDEEEEEDCDFCDDCCDDCBDDDDEFFFEFGFEFHIHGGHIIIIJIHHHIKIIIKJHIKJJJJKKJJJKMMKJKKLKKLMMLKLLKKLMMLNMMLMMNONNNNMMOPPQQQQRSTRRSSSSSSTTSTTUVVVVVVWXXYYYYYYXXX[ZZYYYYYYZ[ZZZ[\Z[\\\\]^][[]]\\]\\]^_`a`^^__````__``aa``aaa``aaa`abcccbaccccccddceeddfggeghhhiiijklmmmmmkkllmljhhgfgfddeecbceggeeeddegfeedddddficeeddeffddeffddfdefghikmjiiikmmmlmljjkjhihhghhgfddedccddccbbaabbaa```aaaa_^`a``````_^]]\_`abcbbaa`_][[\][[[[\\[ZZZZYYXXXXYZYXWXXYXWVVVVVVVUUUUUUTUUUTTSRSRRRRRRRRPOPPNNPPPQQPPPPMOPPONNNONMMLLLLLKKKKKLLKJJKKKJJHHIHHGHHJHGGHHGFGEDDFFEDFFEDDCCDCCCBBAABBCA@@BB@????>>==?>>==>==<;;;;:86:<:7886786566445443321001100/..--.--,+***+++*)(''&%%%%%$%%$##"!!
+	
+	  !"#()+,,-../011111234566777889:;=>>ACDEGHIKKLMNNOQRRRRSUVWVYZ[\\\]^_^^^_```bbbcdeffghhiiiiimlmnonnpopqqqpqqsttuuvwwvvwwxxxyyyzzzzyyz{|}}}||~──│││─│┌┐┐└┘┘┘┘┘├├┤┤┬┤┤┴┼┴┴┴┼▀▀┼▀█▌█▌▐▐▌▌▌▐░░▐▐▐▌██▐▌▌▌▄▀▄▄▄▐░▒▒▒▓⌠⌠▓▓▓■■■∙√≈≈√√≈≤≈≈≤≥≥≤≤≤≥  ≥ ⌡ ≥≥⌡⌡  ⌡°°⌡⌡⌡°²°⌡ ⌡²²·········²·÷══÷║║═══║║╒ёёёёёё╓╔╖╗╗╘╘╘╙╚╛╜╜╜╜╜╜╜╠╠╠╠╡╡ЁЁЁЁЁЁ╢╣╣╤╣╣╣╤╤╥╥╦╦╦╧╨╨╩╩╪╨╩╩╩╩╩╪╫╬╬©©©©ююю©©юю©©юбццегиййккккййййййиииийййиииииййийклммллооооопяяяссрртуувызззэчччъАБЦДДДАААААЮчэжтсссяярпнмоясряпяррсттроннооноясррррррряпяяяпясужвьызщчщщщъАЦДДАБАъчччщьвжжввжусссрпппяонмлллллййиииййййххийииигггггфееххийкййилкифцю©©╬╫╫╫╬╬╫╪╩╩╩╨╨╧╧╧╧╧╧╧╦╥╦╦╥╤╣╢╢╢╢╢╡╡╠╠╟╟╟╟╞╞╞╞╝╝╜╜╛╛╚╚╙╙╙╙╖╔╔╔╔ёё╔╓╓╔╔╔╓╓╓║╒ёё╒║║║══÷÷······²²°°°°⌡⌡  ⌡ ≥≥≈≤≤≤≈√≈≈√√∙∙∙∙■■■⌠▒▓⌠⌠▓░▓▓▒░▐▐▐▌▀▀┼┴┴┴┬┬┬┴┬├├┬┤├┘┘┘└└┐┌┌││─~~~~~}|zyxzxuvvtutrpqpnmnjjiihgfeccbba`_____^]\\[WWWWVUTSQPONNMMLKKJJIHGGEDCBA@?><;:9987654443322210//.//----,,++(('&%$#" 
+	
+
+
+
+
+
+
+
+	!##$%&%&())*+,,-..../011234566789:<=>??ACDFGIJIJLMNOPQQQRSTUVVVWXXXYZ[\\[\]^__```abcdeeffgghiihhhjjjjkklmmmlmmlmmnooppoppqqrssssttttttuvwwxxxwxxyz{|||z{|}~~────│││││└┐┐└┘└└└├┤├┘├┬┼┼┴┴┬┤┤┤┴┼┼┴┬┬┤├├┬┼┼┴┬┤┴┴┴┬┼▀┼▀▄██▄▀▄▌▐▐▐░▓▒▒▒▓▓▓▒▒▓▓▓▓▓▓⌠■⌠⌠■■■■■∙∙■∙√√∙∙∙√√∙■■√≈√≈≥≥≈≈≤≥≤≤≥≥⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡  ⌡°°²²═║╒╒ёё╓╓╔╕╖╖╕╕╕╖╗╗╘╘╘╘╘╘╚╚╛╛╜╝╞╞╝╝╝╞╟╠╡╡╝╞╟╡ЁЁ╢╢╡ЁЁЁЁЁ╢╣╣╤╥╥╤╤╥╥╦╦╦╦╦╥╥╦╦╦╧╩©ацдцццббааабаю©©©юа©©©©©ююю©юбцддддддеефгхииккййклллнооорстуувьзшшшыььввусролйийиииедцегхгфгилллкйифеегхгфгйххклйхххгггггикййклмояссттжышээызыжттттряпооннмллкйхгггфецбааббюю©©©©юю©╬╬©ю©╬╬╫╬╬©©©╬╬╬©юааюю©ааю©╪╧╤╣╤╣╣╣╣╣╢╢ЁЁЁЁ╡╡╡╠╟╠╠╟╞╞╞╞╟╟╞╝╝╜╝╝╜╛╛╚╚╙╙╙╗╗╗╗╗╖╖╖╕╔╓ё╒╒║║ё║║║═÷÷÷÷÷÷÷═÷÷÷²²··²°°°⌡⌡  ≥≥≥≥≤≤≤≤≈√√∙∙∙■■■■⌠▓▒▓▓▒░░░░░░░▐▌▌▐▐▌█▄▄▄▄▀┼┼┼┼┴┬┬┤├├├┘└└┐┐┐┐┐┌││┌│─││──~}}}|{zzzyyxwwwwvtstvtqrrqqqommljiiiihgfedcbba`_^]]\\\[[ZYYVVVUUSRRQPONMLKJIHHGFEEDCB@?>=<;;:98876533322211/.-,,,,,****))(()((&%#"!#" 
+
+ "#$%&&)*,,-./0/000012233456788:;<>?ABCEFGHIJKLLMNOPQRSSTTUUUUUWXYYYZ[\]\\]^```aaaabcddeefffhijkklmmnnnnoooooooppqrrsstssstuuvvuvvwwxxxxyzzz{{zyz{|}}~~}~────││┌┌┌┌┌└└└┘┘┘┘┘├├├├┤┬┴┴▄▀┼┼┴┼┼▀▀┼┴┴┴┬┬┴┤┬┬┤┤┴▀▀┼▄█▄▄█▌▌▌██▐░▐▐▐▓▓▓▓⌠⌠▓▒▒▒▓▓▓⌠⌠⌠⌠▓▒⌠■∙■■■■⌠■∙∙∙■■∙∙■■■∙√∙√≈≈√√√≈≈≈≤≤≥   ≥       ⌡ ⌡°²··²═║╒ёёё╓╔╔╔╕╕╔╔╕╕╙╙╚╚╚╚╚╙╗╘╘╘╙╚╛╜╝╜╜╜╜╝╞╞╠╠Ё╢╢╢ЁЁ╢╢╢╢╢╣╤╥╤╤╥╥╤╤╤╥╧╧╧╧╧╦╦╧╨╧╨╬бегхдцццццббцбааааббюююаааббаббддеееддеефххииккййлллнппооястжжвьыззззыьвжусролиххихгдццегхгехкмлккйихгиклкйииффкмйхххххггхикмммноястстувышэщшшзьутужсряпомлкмлкйхггггфдцббббааюю©©юаю©©аа©╬©©юаббббааббцццббюабба╬╨╦╥╥╤╤╤╤╣╣╣╣╢╢╢╢ЁЁ╡╡╡╡╠╠╠╠╝╝╜╛╛╚╚╚╛╛╚╙╘╘╘╘╖╖╖╖╖╕╕╕╕╔╓ё╒║║║║═÷÷·²²²²²²²··²°°²²°°⌡  ≥≥≤≤≤≤≈≈≈≈≈≈≈≈√√∙∙■■■■⌠▓▓▓▓▓▒░░░░▒▒░▐▐░▒▐▌████▄▀┼┼┼┼┼┴┬┬┤├┘┘└┐┐┐└└┐┐┌┌┌│┌┌┌│─~~~}}||{{zyyxxxvutvtrssqrsqponmlkiihgfdcbdcba`_^^]]\\\[ZYWWVUTSRRSRQPONMLKJJIHGFFEDBAAA@@>=<;;:98665554442210////...--,,,,++*('&%#"!
+
+
+
+
+ !"#%''())+,----././///01234456778;<=?@BCDFGHIIJKLNOPQQRSTUVVWWWWWZ[[\\\^_^^^_`bbbbbbccdefghhiijlnjkkllmmmlmnnnmmnpppqrrssrssstttuuuvvwwwwwxyxyz{yz{{|}}}}~─~~││┌┐┐┐┐┌┐└└└└┘┘├┘┘├┤┬┬┬┬┼┼┼┼┼┼┴┴┴┬┤┬┬┬┬┼┤┬┬┤┬┼▀▀▀█▌██▐░▐▐▌▌░▒░▐░⌠▓▓▓⌠⌠▓▓▓⌠⌠⌠■■■■⌠⌠▓⌠∙≈√√∙∙■■∙√∙∙∙∙√≈√√√√≈√√≈≤≥≤≈≈≤≥≥≥≥≥≥⌡⌡°°°°°°°°²·÷══║╒ё╓╓╓╔╕╕╖╗╗╗╖╖╗╘╕╖╖╗╗╗╖╖╙╙╚╚╛╜╝╞╠╟╞╞╟╟╟╟╞╟╠╡╡╠╠╟╡╡╡╡╡Ё╢╢╢╣╣╣╣╢╣╤╥╦╦╥╥╦╦╥╧╦╧╫бдефцццбббаааааббббб©©юююаааааббццддеееффгхиийккклмлоппппртувжвьыззыыьввжтрянлхфггфедддеггфегйкйийккййлоонллйфгкмйгхфгхххиииоооопртутувьызшшшшзьуттурряпнмлллкйихггхигедббббююю©╬╬©ю©╬©юю╬╬╬╬╬©юаааюбббцццббааабю╫╦╢╥╤╣╣╣╣╢Ё╡╡╡╡╡╠╠╠╠╟╟╟╟╟╞╞╠╠╟╞╞╝╝╝╝╝╜╛╚╚╚╚╘╘╘╗╗╗╗╗╖╖╕╔╓╓ёё╒╒║═÷÷·²·²²····²²²°°⌡⌡  ≥≥≥≥≤≤≤≤≤≤≤≤≤≈≈≈√∙∙∙√√∙■⌠■■⌠▓▓▓▓░▒▒░▐▐░▒░▐▌███▄▀▀▀▀▀▀▀▀▀┤┤├┘└└└└┘┘└└┐┌┌┌┌││──~}~|||{{z{zyyyxwvtvtqrrpqoonnmmlkllkjhgfeffedcaa`_^^^^]\[ZZYXWVUUSRQPPONMMLKJIHHHFECBBBBB>=<<;;:955543332210//.////.--,,,+**)('&&&%%#"!  
+
+
+
+
+ !#$&(())*..////0111122245667789::>?@ACEFGGHIJJKLMPPQRRSTUUVWXYYZZZ[[[[\]_^]]^`aaa`aabcefgfhiiijkmmnoooppoopqqqpqqpqqrsstttttuuuvvwwxxxxxxxzzyz|}{|}}~~~~~──│──││┐┐┐└└└└└└┘┘┘┘├┤┤┤┤┴▀▀┼┴┼┬┬┬┴┴┴┬┤┬┤├┤┬┬┬┴┼▀▀┼▀▄▄▄▀█▌██▐░▐▌▌▐▒▒░░▓⌠▓▓▓▓▓▓▓⌠▓▓⌠⌠■⌠⌠⌠⌠■■∙√≈√∙■■■∙∙∙∙■∙√≈≈√√√√∙∙√≈≤≈√≈≤≥≥≥≥≥≥  ⌡⌡⌡°°° ⌡⌡°°·÷║║╒╒╒╒ё╓╔╔╔╕╔╔╔╕╖╘╘╘╙╙╙╙╙╗╗╘╘╙╚╛╛╜╛╛╜╝╞╞╝╠╡╡Ё╢╢╢Ё╣╢ЁЁ╢╣╤╤╤╥╥╥╥╥╥╦╧╨╨╧╧╨╨╨╨╦╨©деефффедцббааббцццццююююааааббббццддфффггхиииклллмннлнооясужвжжвыззыввжжуспнмлиффффдфеефгггффгхгхкмммнпряооомкйллиххфхиииййинмммоясттувьыыыызьвжусссррряпоооккйихххиихгецбббюааю©╬©аю©ююю©©юююааббббббццццццбббцб©╨╤╧╦╥╤╤╤╣╣╢╢╢╢╢╢ЁЁЁЁ╡╡╡╡╡╠╟╞╞╝╝╜╜╜╜╛╛╚╙╙╘╘╖╖╖╕╕╔╔╔╓╓ё╒╒║║║║╒║═÷÷·°²°°²··²°²°°⌡⌡⌡ ≥≥≥≥≥≥≥≤≤≥≤≤≈√√√√■■■■∙∙■■⌠⌠⌠⌠▓▒▒▓░░▐▌▌▌▐░▐▌▌██▄▀▀▀▀┼┼┼▀▀▀┴┴┬┤├├├├├├├├┘└┐└┐┐┐┌┌│─│─~~~~}}}|{{{zzyxzxuvuttqrqpqqpollkjhgeeeedcba``^]\]]]\ZZZYWWVVVSRQQQPONNMLKJIIIHGEDDCBAA@?>>=<;887765443221000000//.......--,++'&&$"!  
+
+
+
+
+
+
+
+
+
+		 "#$%&(*+++,,..///0121222235666789;<<?@ABDEFGJKLMNNPQQRSTTUVWVWYZZ[[\]^^^^_`ba``abdddddefghijijllkkmnlmnmnonmnnopooppqqrssttuttuuvwwwxxyyyxxxxz{yz}}||}}~~~~~~─││││┌┌┌┌┌┌┌┐┐┐┘┘└┐┘├┘┤┤┤┴┴┬┬┴┼┴┬┴┴┼┼┴▀┴┬┴┴┴┴┼┴▀▀▀▀▄▄▀▄▌▐▐▐░▒▒▌▐▓⌠▒░▒⌠∙■⌠▓⌠⌠■⌠■■⌠⌠⌠■■■⌠∙√■■∙√∙√∙■∙∙√√√∙∙√√√≈≈≈■∙∙√√≈√√≈≤   ≥  ≥≥≥≥≥ ⌡°°²···÷╒╔╔╔╔╓╓╔╕╖╕╕╕╕╕╕╖╖╗╗╗╗╗╘╘╘╙╙╙╙╚╛╛╜╛╛╛╝╟╠╟╞╞╟╟╠╠╡╡╡╢Ё╡╡Ё╢╣╣Ё╢╣╣╣╣╣╤╤╥╥╤╥╦╧╦╨╦╨юееефффедцббаббббббббюююаааююююаабцддеееефгххгиййклмммоярсуввьввьыззывввжуролккифеедцеддддеедддддфийймнопнккммлйихгггеггффхиимллмпртуувыззызззьжвьжттяряпонннййихггххихгецбюю©юю©╬╫╬юю©©©©╬©аццббббббааббббббцббцца╪╦╤╣╢ЁЁЁ╡╡╡╡╡╡╡╡╡╡╠╟╟╟╟╟╟╞╟╟╟╞╝╝╝╜╝╜╜╛╚╚╚╚╘╘╗╖╖╕╕╕╔╔╓ё╒╒╒╒÷══·²·²⌡²°⌡°²·°⌡²°°⌡°⌡⌡ ≥≥  ≥≥≥≥≥≤≈√√√√≈∙∙∙∙∙∙■⌠▓⌠⌠⌠▓▓▓▓▓▒░▐▐░░░░░▐▌▌████▄▀┼┼┼▀▄┬┤┤├├┘┘┘┘└┘├┘┐┌└┐┐┐┌┌│──│─~~}}|{zzzzywywtttrrqrqoopnlnmmljihgggffedcca`_```_]ZYXWVVVVUTSSRQPOPONLKJJJKJIHGEDBA@?>>=<;;;:987664321111100//....--,,+**)**)'%$$$#!
+
+
+ !#$%&')+,,,,-//00013433333467889:<>?@ABCEFGIILMNNOOPQQRSTUVWXYZ\\\[\\]]]]]^`aa``abcddeefffghhhjllkklmoqqppqqoppqrrrrssstuuvvwuuvwxxyzyyyyyxxxx{{zz}~|}}~────││┌┌┌┌┌┌┐┐┐┐┐└└┘├┬┬├┘├┤┤┴┤┤┴┴┬┬┼┼┬┤┤┬┴┴┴▀┴┬┬┴┴┬┴┴┼▄▄▄▌▌▄█▐▐▐▐░▒▒▐░⌠⌠░█▌▒∙■▓▒▓⌠⌠■√∙■⌠■∙∙∙■≈≈∙■■∙■√√∙∙√√√√√√∙∙√≈≈≤∙√≤≤≈≈≤≥√≤     ⌡≥≥≤≤≥ ⌡°⌡²·²°·╒╕╓╓ё╒╒ё╓╕╔╔╔╔╓╓╔╕╘╗╗╗╘╙╙╚╙╙╙╙╚╛╛╜╜╛╛╝╟╠╞╜╡╠╠╠╡╡╡Ё╣╢ЁЁ╢╣╤╤╣╤╥╥╥╥╦╦╥╧╧╦╧╩╩╨╧╥╨юееееддддццццдцбаааббабббббааюююабцееееффгхийфхййкмнмнпррсужжьвжжввжужжжусплилмлиффедфееддеееффеефииглмннйгхкллкхгхиифххффхййкййлоружтжьыыыыыывувьвтстттромммлкйиххийййигецба©юю©╫╫╬юю©©©©╬юбддцббббцааббццццедбццю╪╦╧╦╥╤╤╣╣╢ЁЁЁЁЁЁЁЁ╡╠╟╟╠╠╟╞╞╞╞╝╝╜╛╛╛╚╚╙╘╘╘╘╘╘╗╖╕╔╔╔╔╓╓╒╒║══·══·²·²⌡·²°²÷÷·°²°⌡⌡⌡⌡⌡ ≥≥≥ ≥≥≥≤≤≈√∙√≈≤≥≈√√√√∙■⌠⌠⌠■⌠▓▓⌠⌠■▓░▐░▒▒░░░░▐▌▌██▌█▀┼┴┴┼▀┬┬┬┤┤├├├├┘├┤├└└├└└┐┐┐┌││─~~~~~~~|{{{{{zz|zwwvtuuutrqqommmlkjihgggfeddcca`__``_]\\ZYYYYYVUTTSRPOQPOMLKKKJJIHHFDCCBAA@@?>>==;:98865433333100////000//.-,+***('&&''$" 
+
+
+
+ "#$$&(+++,----..1222232335677778:<=>@AACDEFGIKMNNOPQRRRUUUVWXXYXZ]^]]^___``aabcbbcdddddgfffghijjklnnnnnppppqpppqqsuuttvussvxwvvvwxyxwwwyz{{zzz{{{{{|~|}──~~─││┌┌┌┐└┐└┘┘┘┘┘├┤┤┤┤┤┬┬┴┤├┤┴┴┤┤┬┬┴┤├├┬┼┼┴┴┼▀┼┬┬┼▄▄▄▀▀▄▄▄▌▌▌▐▒⌠▒▌▐░▓⌠▓▒▒▓√■▓▓▓⌠■∙∙∙■⌠⌠■■■√√√√√≈∙▓■■■∙√√√∙√√∙∙∙√≈≈√≈≤≤≈√≈≤≤≥  ≥≥ ⌡⌡  ⌡⌡  °°°²·÷║ё╓╒╓╔╓ё╓╔╔╔╔╔╔╕╕╕╕╕╖╗╗╖╗╘╚╗╗╘╙╛╝╝╝╜╝╝╞╟╟╟╟╡╠╠╠╠╡Ё╢ЁЁ╢╢╣╣╣╣╥╤╤╤╥╥╥╤╦╦╦╧╧╨╨╨╧╧╩юцегхдеедцбцдюбдедцццбдеебаааюааббцефеццдфхиийклммнпрпястужвьвуувыьвжвжжутянкйиххгедееффедццбеефгххггхийхцацфйклйгегихфеехийийклнпястжжьыыьььзвжвыывжясспоппнлкййклйикихххфцюю©©©©©╬╫аю╫╫юдедбббббббббцдцдфецецбцц©╪╧╥╦╦╥╤╤╥╦╣ЁЁ╢Ё╡Ё╢╠╡╠╟╞╝╞╞╜╝╝╛╛╛╛╚╚╛╛╛╚╙╙╚╙╗╗╘╖╓╓╕ё╓╓ёё╓ё║÷÷═÷²°°°°°²²²²²²⌡°°°°⌡ ≥  ⌡  ≥≈≈≈≤≤≈∙∙≈≥≈√■■∙∙■⌠⌠▓▓⌠⌠▓▓⌠⌠⌠⌠▓▓▒▒▒░░░▐▌▌▌▌█▄▀▀▄▀┴┤┼┬┤┴┼┬├┘┤┬┬┘└┘├├├┘└┐└└┐┌│┌│─~}~}~}zz{{zyyyyxwvuutsssqonoonlkjihhggggfdbcba`___^]\[ZZZZYVVVUTSRQSRPONNMLLKKKJIHGFECBBA@?>>=<;;:9975444333210000/.//00/.--,,,*(()(&#""!
+		
+
+	
+ "$%&&(*,-....--.02333343456789999<>?@BCCDEFGIKMOOOPQRSTTVVWXYZZ[Z\^^^]^_``abbccdccddefffhhiijjkklmnoppppppqqqqqqrrsuuttvutuwxwvvvwxyyyyy{zz{||{zzz{|}~─~──│──││┌┐┐┐└┘└┘├├├┤┤┬┬┤┤┤┤┤┤┬┴┤┤┤┤├├┬┴┼┬┤┤┴┼┼▀┼┼┼┼┴┴▀█████████░▒░░▒▒░▐░▒▓▓▓▓▓∙■⌠▓⌠■■■∙∙■■■■∙∙√√√√√√∙■≈√∙∙√√≈√∙∙∙∙∙√≈≈≈≈≈≈≤≤≤≤≤≤≥≥≥≥ ⌡°  °°⌡°²²²·÷═╒ё╓ё╔╕╔╓╔╕╕╔╔╔╕╕╕╕╕╕╖╖╖╖╖╗╘╘╘╘╙╛╜╜╜╝╝╞╟╟╟╟╠╠╠╠╡╡ЁЁ╢ЁЁ╢╢╣╣╣╣╥╤╤╤╥╥╥╥╧╧╧╧╨╨╨╨╧╧╩афгеецддцбабцабццббцддефедццдбббббцегггфгхйкклмннноппяртууужжвутвьвжужжууспмйхггхгффгфецццццбеефгихгебцб©╪╩╫юеиллгдегфдцдфхиимммнопсуьжжввуужьжжвыьввсссяппполмммлккйлйхххгцю©©©ююю©╬©юююбдфедццбббццццбабееддцбббю╪╦╤╥╥╥╤╤╤╥╣╢ЁЁЁ╡Ё╢╡╡╡╠╟╞╟╟╝╞╞╜╜╜╜╛╛╛╛╛╚╙╙╚╙╘╘╘╖╔╔╕╓╓╓ёё╓╒═···²°⌡⌡⌡²²······²°°°⌡⌡⌡ ⌡  ≥≥≤≤≤≤≤≈≈√√≈≤≤√∙∙√√∙■⌠▓▓⌠⌠▓▒▓⌠⌠⌠▓▓▒▒▒░░░░▐▌▐▐▌▌▌▌█▄▀┼┼┬┬┴┼┬├┘├┤┤┘┘├┤├├┘└└└└┐┌┌┌┌│~~}{{||{zzzyxwvvvuuttsqpoonmlkjjjiihgfedccbaa```_^]\[[ZYXWWVVTSSTSQPPONMMMLLKJIHHFEDCCBA@?>>=<;;9865544343111100//000//..---+))+)'%$##!
+
+		!"#$&()**,-./00////135445657789:;;<<?AABDEEEFHIKMOQQQRRTUVWXXYZ[\]]^_``__`aabcdeeeeeeeefghiijlllklmnnnnpqqpqqrrrrrrsstvvuuvvvwxxwwxwxyyyz{{|{z{}~}{z{|~──│──││┌┌┌│┌┐┐└└└┘├┘├┤┬┬┬┴┼┬┬┬┤┤├┤┤▀┴┤├├├┤┴┼┼┴┬┬┼▀┼▀┴┬┴┼┼┼▄▌▌▌▌▌▌▌▌█▒⌠▓░░▒▓▒░░▒▓▓▓▓∙■⌠⌠■■■■∙■■■∙∙√≈√≈≈√∙√√∙≤≈√∙∙√≈≈∙∙∙∙∙√≈≤≤≈√≈≥ ≥≤≤≤≤≥    °⌡⌡°²²²÷··÷║╒ё╓╓╓╔╕╔╔╕╕╕╔╔╕╕╕╕╖╖╗╗╗╗╘╘╙╘╙╙╙╙╚╛╛╛╝╞╟╟╟╟╠╡╠╠╡╡Ё╢╢╢ЁЁ╢╣╣╣╣╣╤╤╤╤╥╦╦╦╦╧╧╨╩╩╩╨╩╧╩афхецддддцццддддцццефееееееееббааацфххххгхийлмммнппппртужжжуувжжвьвжутуууролйгффггфгххецбдддцеефгхфца╬╬╪╦╤╥╧╩╫цйлхедфдццдфхиинннмнятвьусстттужжжььввьжтррряполнпомккклкииигда©©©юааю©╬бееддееедбаабцдццаюацееццбабб╬╦╤╤╥╥╥╤╣╣╣╢ЁЁЁ╡Ё╢ЁЁЁ╡╠╠╠╠╞╞╞╝╜╝╝╛╛╛╛╛╚╙╙╚╙╙╙╗╕╕╔╓╔╔╔╓ёё╒═÷÷÷·°°°²²²···÷···²°°⌡⌡⌡°⌡ ≥≥≤≥≥ ≥≤≈≈≈≈≈≈≤≈√∙√√∙∙■⌠⌠■⌠▓▓▓⌠⌠⌠▓▓▓▒▒░▒▒░▐▐░░▌▌▐▌█▄▀▀▄┼┴┼┼┴┤├┘┤┤├├┤┤┤┤┤├┘┘└└┐┐┌┌││││─~||}}|{{zzyxwwwwvvvusrpponnmllllkihfffeddcbbbba`_^]]\[ZYYXWVUUUTSRRQPOOONMLKJJIHGFFEDCAA@?>==<;:9887656432221111000000//..-++,+*('&%$""!
+
+	!"#%&'(*,,--../0111222466688889:;<==>?ACCDFGGHIJLMOQRSSSSUVXYYZ[\]^^_aabaaabcbcdfffffgfffghjkikmlkklnponnprrqrsstttttttvvvuuvwxyyxwxyxxyyyz{|}|{}~~}|}──││┌┌┌┌┌┌┐┐┐┐┐└└└┘├┤┘├┬┬┬┬┴┴┬┬┤├├├├┤┼┴┤├├┤┬┴┴┼┼┴┴▀▀▀┼┬┤┴┼▀▀▄▐▐▐▐▐▐▐▐▌▒⌠⌠░░▒⌠▓▒░▒▓■■⌠■■■∙∙∙■■■■∙∙√≈≤≤√≤≤√∙√≈≈≈√∙∙√√√√√√∙∙√√≈≈≈≈√≈≤≥≥≤≥≤≤≥ ⌡  °⌡°²²²·÷÷═║╒ё╓╓╓ё╓╓╔╔╔╔╔╓╔╕╕╕╕╕╖╘╗╖╗╙╚╚╙╙╙╚╚╛╛╜╜╜╞╠╠╟╞╠Ё╟╠╡Ё╢╢╢╢Ё╢╢╣╣╤╤╤╤╤╤╥╥╦╧╧╥╦╧╩╩╪╪╪╬╩╨©фхгеддддддддеедццдефедддефффббаюадгигхххгхикллмояррясужььвжжььвььвжжсужурнкйфееффееггфддддцбдфггда╬╪╪╩╧╤╣╤╦╦╤╫диихгхдццдфхййлмнносвьурпястужжжьыьввыьтрстяоомояяомкйлкииигебаю©©юаааадгфддцбццбааабццбаюацдецдбацеа╨╥╥╥╥╥╤╤╣╣╣╢ЁЁЁЁЁЁЁЁ╡╡╠╠╠╝╞╝╜╜╝╜╛╜╜╛╛╚╚╙╙╘╚╙╖╕╕╕ё╔╕╔╓ё╓╒═══÷·²²²·²²²²····²²²°°°⌡⌡   ≥≥≥  ≥≥≤≈≈≈≈≈≤≈√√√√√∙∙■■∙∙⌠⌠⌠⌠⌠⌠⌠▓▓▓▓▒▒▒░░░░▒▌▐▐▐█▄▄▄▌▄▀▄▄┼┴┬├┤┤┤┤┤┤┤┬┬┤┤├┘└└└┐┌┌┐┐┌│──~}}}}{{{zyyxxwwwwvuttqqpponmmmmljhghiffeddccca``___^^\[[ZYXWWVUUUTSQPPPONMLKKKJIHGGFEBBA@@?>>>=<<;:877654433222111111000//.-.-,*))('&$#"! 
+	
+ !#$%'()*,....../12223435778:;;::;<=>??ACEEFHIIJKMMNPQRTTTUVXYZZ[\]^_``aaabbcdecdefgggghhgghjkmklmlklnprqpqrtttsttuuuuuuvwwwwwwxyzzyxyzyyzzyz{|}}~~~││││││┐┌┌┌┐┐└└└└└└└┘├┤├├┤┤┤┤┤┬┤┤├├├├┤┤┬┬┤┤┤┬┴┴┬┴┼┴┼▄▄▀┴┬┬▀██▄▄░░░░░░░░░▒▓▓▒▒▒▓⌠▓▒▓⌠∙∙∙■■∙∙√√∙■∙∙∙√≈≈≤≥√≤≥≈√√≈≈∙∙√≈≈≤≈√≈≈√√√√√√√≈≤≤≈≤≤≥ ≥≥ ⌡°⌡ °⌡°²²²²÷═║╒ё╓╓╓╓╓ё╓╔╔╔╔╔╓╔╕╕╔╔╕╕╕╕╕╖╘╙╙╘╙╙╙╚╚╛╜╝╜╞╠╟╞╞╠Ё╠╠╡Ё╢╢╢╢Ё╢╢╣╤╤╤╤╤╥╥╥╦╦╧╨╧╧╨╩╩╪╪╩╬╩╪агигеццббццццдцццццццддддефффддцбцдгииййихийлллмпртссстжьыыьвьььввввжтужурнкйгееедццдефффдбббегифю╩╨╨╨╨╨╦╥╧╧╦╥╨юеийииддддфхйккмооятввспоятууужьззьжвыыусттрппппярролйкйиххгецаю©╬юбцддеедддцабббббббабаабцдддбцбацфц╫╧╧╥╤╤╤╥╥╤╣╢ЁЁЁЁЁЁ╡╡╡╡╠╠╟╝╞╝╜╜╝╜╚╜╜╛╛╚╚╙╙╘╙╘╕╔╕╕ё╔╔╓ёё╓ё║÷÷²°°°°²²°°²···²°°²·²°⌡ ≥   ⌡   ≥  ≥≈√≈≤≤≤≈√√√√√√∙∙√∙■⌠⌠▓⌠⌠⌠⌠⌠■■▒▒▒▒░░░▒▐░▒░▌█▌▌▌█▄▄▄┼┴┴┬┬┬┬┬┤┤├┴┴┴┬┤├┘┘└┐┌┐┐└┐┌│─~~~~||{{zyyywwxwwvutsrrponmmmmljihikhggfeeddcbaaaa`_^]\[ZYYYWWVVVUSRRQPONMLLLKJIIHGFDCCBA@??@?>>=<;:9876654343221122110000///.-,+*))&&%$#!
+
+
+		
+
+ !"$%&(*++,./00001233334457999;==;<<=?@AACEGGHJKKMNOPPQRSUUVWXYZ[[\]_``aaaaabcdefeefghhhhjiiijkmnmnnmmnprqqqrstuutuuvvvvvvwyxxxxxxzzyyzzzyz{{zz{{}~────││──│┌┐┐┐┐┐┐└└└┘┘└└└├┤┘├┤┤├├├├┤├├┘├├┤┬┘├┤┤┤┴┼┴┬┼▀┼▀▄▄▀┼┴▀█▐▌▌▌░░░░░░░░▒░▒▓⌠▓▓⌠⌠⌠⌠⌠■∙√√∙∙∙√√√∙■∙∙√√≈≤≤≤≈≤≥≈≈≤≤≈√√≈≤≥≥≤≈≈≈≈≈≈≈≈≈√≈≥≤≈≈≤ ≥≥ ⌡°°⌡⌡°⌡°²·²·═║╒╒ё╓╓╔╔╔╓╓╕╖╕╔╕ё╔╕╕╔╓╔╔╕╕╖╗╘╙╙╙╘╙╙╙╚╚╜╝╝╞╟╟╟╟╠╡╠╡╡Ё╢╢╢╢Ё╢╢╣╤╤╥╥╥╥╥╥╦╦╨╩╩╩╩╩╩╨╨╨╩╩©ейифцццббцддцдцддддцбддеефффгххгфеефгиииххийкннопрсссрсувьыыьжввжжвжуужжурнкигфддцббцегххеццдгххд╬╨╨╩╩╬©╫╫╬╫╩╫╫©бгиихдддефхйккнппятуттрясттттвьзшыжвыьжтттряпрярссямйиихггфецю©©юбдфгедббдфеббццдццббааацддддаааюбдц©╩╨╦╤╤╥╥╥╤╤╣╢Ё╢╢╢╡╡╠╡╡╠╠╟╞╞╝╜╝╞╝╛╝╜╛╛╛╚╙╙╘╘╗╖╕╖╕╓╔╔╓ёё╓ё║═÷·²²²²²·²°²·÷··⌡°²··°⌡≥≥  ⌡⌡⌡  ≤ ⌡ ≈√≤≥≤≤≈≈√√√√∙∙∙√∙■⌠■⌠⌠■■■■■■▒▓▓▒░░▒▒░░░▐▐▌▌▌▌▄▄▄▄┼┴┼┼┴┬┴┴┬┤┤┴┼┴┬┤├├├└└└└└└┐┐┌│──~~}}||{{zzwxxxwvuutsrqponmnmmkjjkkjihgfffeedccba`_`_]\[[[[YYXWWVUTSSRQONNMMMLKKJIHFFEDCBBAA@?>>=<<<;988765554332331110121000/.-,++)('&%#! 
+
+
+	
+
+
+!"#$%'()+-../001211345556678:;;;<>=>>>?ABCDFHIIJLNNOPQRSTUVWWXYZ[\\]^_`abbbbbcceffggghhijjjkkkklmnnnnoopqrspqssstuwuuvvwwwwvxzyyzzyyzzyz|{zz{|}|||}──────│┌┌││┌└┐┐┐└└└└└┘┘┘┘└└┘├┘┘├├├├├├┤├├┘┘├┤┬├┤┤┤┬┼▀┼┼▀▄▄▄█▄▀┼┼▄▌▌▌▌░░▒▒▒▒▒▒░▓▒▒⌠⌠⌠⌠■▓⌠■■■∙√≈∙∙∙√√√∙∙√√√≈≈≈≤≤≈≤≤≤≤≥≤≈≈≈≈≤≥≥≤≈≈≈≈≈≤≤≤≤≤≤≥≥≥≥≥≥≤≥⌡⌡⌡⌡⌡⌡°⌡°·÷÷═╒ёёёё╓╔╔╔╕╔╔╖╗╖╕╕╓╔╖╖╔╓╓╔╗╘╘╙╙╙╚╚╚╚╛╚╚╚╜╝╞╟╟╟╟╠╡╡╡╡╡╡ЁЁ╢╢Ё╢╣╣╤╥╥╥╥╦╦╦╦╦╨╩╩╩╨╨╨╨╩╩╨╪бгигцбццбцддддеедееедбцеффееефгхххгфффхгффгхииллмнопрсяястжьввужвужввжжжжусойггеддцббддфггфеефгфц©╪╩╪╬юцецбддбаююадгххффффгхйккнпппстстсрстстужвызыввывввутсряппяряолйхггффеддююацегггедбацфецццццццббаюацддцдбаюююааю╩╨╦╥╥╥╥╤╥╥╤╢╢╣╣╢Ё╡╡╡╡╡╠╟╟╟╞╝╞╟╝╛╝╜╛╛╛╚╙╘╙╘╗╗╗╖╕╕╔╔╓ё╒ё╒══÷÷·÷÷·²·²°°·÷·²°²···²⌡    ⌡⌡⌡⌡⌡≥≥ ≥≤≤≤≥≥≥≤≤≈≈≈≈√∙√≈≈∙■∙∙∙∙∙■■■■▓⌠▓▓▒░▒▒░░▐▐▐▐▌█▌█▄█▄┼┼▀▀┴┬┴┴┴┬┴┴┼┼┴┬┤┤┤┘├├├┘└└└┐┌││─│~~}}||||yyzyxwvvttsrqponponmmllllkjihggffeedcba`a`_]\\\\\[YYXXWWVUTSQPPPOONNMMKJIHHGFEDDCB@@???>>=<;:9877765443322212331210/.----+*('&$#! 	
+ !#$%&')*+-/0011223333467789:;<=<<=>=??@ABDEFHJKKLNOOOQRTTVWXXYZ[\]]]__abccccddefghhhiiiijkllllllmnnonnoqrsssqsuvuuwyuuvwwwwwwyzyyz{yyzyyz||z{|~~~~~~│~│┌─~┌┐└┐┌┐┘┤┐┐└└┘┘└└├├├┘└└┘├└┘├├├├┤┤┤┤├┘┘├├┤┬┴┴┬┬▀▄▄▀█████▄┼┼┼▀▄▄▄▌░▒▒▓▓▓▓▒▒▓▒▓■⌠▓⌠√▒⌠■∙■■√≈√∙∙√√√√∙√√≈≈≈≈≈≈≈≤≤≤≥ ≥√≤≈≈≈≈≈≈≈√√≈≤≤≥≥  ≥≤≥ ⌡ ≥≤≥⌡⌡⌡ ⌡⌡°⌡°÷═║╒╓╓╓╓╓╓╔╕╕╕╓╔╖╗╖╕╕╓╕╖╖╔╓╓╔╗╘╙╙╘╘╘╙╜╝╝╜╛╛╝╞╟╟╟╟╠╡╡Ё╡╡╡╡╡Ё╢╢Ё╢╣╤╤╥╥╥╦╦╦╦╦╦╨╩╧╧╧╧╨╩╫╬╩╬цггдбббааабцццедццддцббдффеддедфгххгггхгеегххххиклмнясппяружжууввжжььвжжутсойффддддцдеббббцдддфц╬╩╩╪╬©бфхедффебааацегххххххиклймооптуттссссствужьзыввывыьусттрмоппнкйифффеееддбцдфхгфдфедбцедбццбааббббююбдццецбаюю©юа╨╧╦╦╦╥╤╣╥╦╥╢╢╣╣╢ЁЁ╡ЁЁЁ╡╠╟╟╝╜╝╟╝╛╝╜╛╛╛╛╙╘╚╗╖╘╘╖╕╖╕╕╓ё╒╒║÷÷·····²°²° ⌡²·²°····²²°°⌡⌡    ⌡° ≥≥≥≥≥≥≤≥≥≥≤≤≈≈≤≈≈≈≥≥≈√≈≈≈√∙■■⌠⌠⌠⌠⌠▓▒▒▒▓▓▒░░▒▒░▐▐▌▌▌█▄▄█▄┴┬┴┼┴┼▀┴┼┼┴┬┤┤┬┘┤┤┤┘└└┘└┌│┌│──┌~~}}}}z{{zywwwttsrqqpprqooonmkmmkjihggfeeeedcbba_^]]]]]\ZYYYYXXWVTSRQQQPOOONMLKJJIHGFFEDBAAAAA@?>=<;9888876543233234422210/.../.,*)'&%'$!	
+
+
+ !"#%'(**+-//012233444466789;;<;<=<=>??ABBCEGHIIKLLMQRQPRSUVWWX[[ZZ\^`abbbccdddeefgijiiijkkklmoomllnonmqqrstuuurtuutuwywz{ywxyyzyy{{zz|z{{}~~~}~}│┌│──││┌┌┐┐└└└└┐└┘├┐┐┐┐┐┐└└└└└┘┘┘└└┘┘├├┘┘┘┘┘┘┘┘├├┤┬┤┬┴┼▀▀▄▄▀▄█▄▀▀▀▄┼▄▌▐▐▌▐▓⌠▓⌠■⌠▓▓⌠▓⌠■■⌠⌠⌠■⌠■∙√√√≈≈≤≈√√√√∙■√√≈≤≈≈≤≤≤≤≥≥≤≤≤≥≥≤≤≥  ≥≤≈≤≤√√≤≥≥≤≤≥ ⌡⌡⌡ ⌡⌡⌡⌡⌡°°° °·÷═╒╓╓ёёё╓╔╔╕╖╗╗╗╕╕╖╖╕╖╖╕╔╓╓╔╕╗╗╘╘╙╙╚╚╛╛╛╜╜╝╝╝╞╞╞╡Ё╡╠╠╡╡╡╡╡Ё╣╤╢╣╣╤╥╦╧╩╩╩╨╨╧╦╧╧╨╨╧╧╨╩╩╪╫цгецццбюббббццбббцддцдффедффддееддфхййиигеегххгииийлнопярсссстужжжжжввьввжтямигефффедццдаюаццддю╬╪╪╩╪╬аеабеедееебббацецикллккйййлнопяяррсррртжвзььыывжжвжтсряпокммкийиххедеедцдгфффффедедбаабцдбццббццбббббццддбба©╫╫╬ю╩╧╥╦╧╥╤╣╥╤╢╣╤╤╣ЁЁЁ╡╟╠Ё╡╠╟╟╞╞╞╞╞╝╜╛╚╚╚╚╚╙╙╙╙╙╙╘╗╕╔╔╔ё║═══÷══·²²²°·° ≥ ⌡²······°⌡ ≥ ⌡⌡⌡⌡⌡⌡⌡⌡  ≥≥≥  ≥≤≈≈≈≤≤≈≈≈≈≈≈≈≈≈≈√∙∙■■■≈∙■⌠⌠⌠▓▒▓▓▒░░▒░▌▌▌▌███▌▐▀▀┼┴┬┼┴┬┴┼┼┴┴┬┴┴┬┤┤┬┤┘└┘┘┐┌┌┐┌││─~}}~~~|{z{{zxuuuttsrqoqqqpnmnnklmljhikgfeeddeedca_^^^^]\ZYYYYYXXXWVUUUSRQPPONMMLKKJIGEGFECCCCC@@@@?><;99998765322332344433210/00/-,+)&('%$" 
+
+
+ !!"#$%')*-,-/00013334455578:;<==<<===>@AACCDEGHJJLMNNORSRRSUVWXYZ\\\]^`aabccddeefhhhikkkjjkkllmnonmlmnooorssttttttuvvvvxywy{yyz{{zzz{|{{}|||}~~~}}}~────│││┌┌┌┌┌┌┐┐┌┌┌┐└└└└└└└┘┘┐└└└└└└┐└└┘┘┘┘┘┘┘┘┘├├┤┬┬┬┴┼▀▄▄██████▄▀▀▀▄▄█▐░▐░▒▓▓⌠■⌠▓▓⌠■■∙∙■■∙∙■∙∙∙∙∙≈≤≈√√√≈≈≈√∙√≈≤≤≤≤≥≥≥  ≥≥≥≥≥≤≤≥≥≥≥≤≤≥≥≈√≤  ≥≥≥≥ ⌡⌡ ⌡⌡⌡⌡⌡°°²⌡·═══╒ё╓ёё╓╓╔╔╕╕╖╖╖╕╕╖╖╕╔╕╔╔╓╔╖╗╕╖╖╗╘╘╘╙╛╛╛╜╜╝╝╝╠╞╞╠╡╠╠╠╡╡ЁЁЁЁ╢╣╢╣╤╥╦╧╨╩╫╬╬╬╫╪╪╪╩╩╩╨╨╩╪╫юдфддддааццббдцбббцддцдфеддеедефефффгхйкигфффггфииийкмнояярсссттууууужжжжжутянйиххгфедцбцаююаю©©╪╩╩╨╧╧╫ацадфеегфецца╬©ццегйлкйииклнпяярсярссстужутужжттуутряпонмйккиххиихедефееффеддееедддццццццдедцбббаббббббццбба©╬╬©©╪╨╧╨╩╧╥╥╥╤╤╤╤╣╢ЁЁЁ╡╠╡ЁЁ╠╟╟╞╞╞╞╞╝╜╛╛╚╚╚╚╙╙╙╘╘╘╘╖╕╔╔╔╓╒║║║÷║═·²²²°²°⌡  ⌡²·····²°⌡⌡   ⌡⌡⌡⌡⌡   ≥≥≥≥≥≥≥≥≤≤≤≤≤≈≈≈≈≈≈≈≈≈≈≈√∙∙∙■√∙■■■⌠⌠▓⌠⌠▓░░▒▒▐▐▌███▌▌▌▀▄▄┴┬┴┴┬┴┼┼┼┴┴┴┴┤├├┬┬├├┤├└┐┐┐┐┌│┌─~~~~}~}{zzzxvvuuutsrpqqqponnolmnmkjkkihgffeffddba````_^]\\\[[YZZYWVVWTSRRRQPONNMLLJHGIHGEDCCCBBBA@?>=;;;:98776544434522333222110.--+))('&%#" 
+
+	
+
+
+ "##$&'(*+-0//111124444567789;<==<<=>??@CDDFFGHIJLLOPPPQRSSTVWXXY[]]^_`abbcddeefgghkjjjkkkkkllmmnopoooppqrstttuuuttwwwwxyyzyzzzz||{{{{|}|}}~}~~~}~│┌││┌┌┌┌││┌┌┌┌│┌┐└└┐┐┐└└└┐└└└└└└└└┐└└┘┘├├├├├├┤┤┬┴┴┴┼▀▄██▌▌▐▌█▄▄▄▀┼█▄▄▐▒▒▒▒▓▓⌠■⌠▓▓⌠■∙∙∙∙■∙√√∙∙■■∙√≤≈√√≈≈≤≈≈■√≈≈≤≤≥≥≥ ⌡⌡ ≥≤≤≤≥≥≥≥≤≤≥≥≥≥≤≈≤   ≥≥≥ ⌡⌡⌡⌡⌡⌡⌡°°²²²═╒╒║╒ё╓╓╓╓╔╔╔╔╔╕╖╖╕╕╖╖╕╔╕╔╔╔╔╖╗╕╖╗╘╘╙╙╙╛╛╜╜╜╜╝╝╠╞╞╟╠╠╡Ё╠╡Ё╢╢ЁЁ╢╢╤╦╨╩╩╪╪╫╬ююю©╬╬╬╬╫╪╩╪╫©бццбцецюбццццдцбббцддддфдцдеееефеффеефхкххггффееииййклллпярсссстссттттттууусянлйихгфдццбцю©©©╫╨╨╧╧╧╦╥╥╪а╬юцецдфедцдц╬╬юююбеггфгхйлнопястпрттттссрсттсррссряппомлйкйхгхиигфефггхиедццдееецддддцббдддбабаюааааааааюю©╬╬╫╫╪╫╩╨╪╪╩╨╧╤╤╥╤╣╢╢╣╡ЁЁ╡╡ЁЁ╠╠╟╟╟╟╟╞╞╝╝╜╛╚╚╚╚╙╙╘╘╘╗╗╖╔╔╕╔╓╒╒║║╒║÷···²°°°°⌡⌡²···²²°°°°⌡⌡   ⌡⌡⌡  ≥≥≥≥≥≥≤≤≥≥≥≤≈≈√√√≈≈≈≈≈≤≤≈≈√√∙∙√∙∙■■■■⌠⌠⌠▓░░▒▒▐░▌██▌▐▐▌▄██▀┴┬┴┬┬┴▀▀┼┴┴┴┬┤┤┬┬┤├┤┤├└┐└└┐┌┐┌─~~~}─~|zzyyxwvvvvusrsssqpooommmllkkkkjihggggedccbbbc`_^^]]\[[[[ZYXXXVUTTTSRQPPOONLKJJIHGEDDDDDCCBA??>>=<;:999765545633344443232000.,+*))('&$%"
+
+ "#%&')*+,./101232235555679::;<====<>@AACEGGHHIJKLMNPPPPQRSTVWYYYZ]__`abbcddeefghhiilkjjkllllmmnnopppqrrrrsuuuvvvvvvxxxxyzzz|{{{|||{|||}}~~~~──││││─││┌─│┌┐┐┌││┐┐┐┐┐┐└┘└┐┐┐┘├┘└┘├├├┘┘┘├┘┘├┤┤┤├├├├┤┤┬┴┼┼┼▀▀▄█▌▐▐▐▌█▄██▄┼▌█▌░▒▒▒▓▓▓⌠■⌠▓▓■⌠■∙■■■■∙√√√∙■∙√≈≤≤≈≈≤≈≈√∙√≈≤≤≤≥≥≤≥ ⌡ ≤≤≈≤≥ ≥≤≤≤≥≥≥≥≤≈≤≥ ⌡ ≥≥ ⌡°°⌡⌡⌡⌡°²··÷║╒╒ё╓╓ё╔╔╔╔╔╔╔╔╕╖╖╕╕╖╖╕╖╖╕╕╔╔╔╕╕╖╗╘╙╙╙╙╛╜╜╜╜╝╝╞╞╝╞╠╡╡Ё╢╠╡ЁЁЁ╢╣╣╥╧╩╫╬╫╫╫╫©ююю©©ююю©╫╪╪©аааююбцбюцццццццббббдедефдддеееффееедддеггхххгфффхииййкккопрсссссссттутттжутсянлкхфедцццба©╬╬╫╨╧╦╧╦╥╥╥╥╩╬╪╬аббфифдцееа©©╬╫╬╬©╬©цфгикмопстрстттсррсужусяяртсряппнмлккйииййгггхииииеедеффффцддедцбааббааббааааююююаю©╬╬╬╬╪╩╬╪╩╪╪╪╪╪╥╤╣╢╢╢╣╤╡╡ЁЁЁЁ╡╡╡╠╟╟╠╠╟╞╞╞╞╝╛╚╚╛╚╙╘╘╘╘╗╗╕╕╖╕╔ё╒║ёёё║═══÷⌡²·²°⌡²···²°°°°²°°⌡⌡⌡⌡⌡°   ≥≥≥≥≥≤≤≥≥≤≤≤≈≈≈≈≈≈≤≤≤≤≤≤≈≈√√∙√√∙∙∙∙∙∙⌠⌠▓░▒▓▒░▒▐█▌▐░▐▌▄██▀┴┬┴┴┬┼▀▄▀┼┴┴┴┴┴┬┬┤├├┬├└└└└└┐└┌│─~─~|{zzzyxxwwwvutuutsrqqqonmmmmlklkjiihhhgfeedccdaa`__^]\\\\[[ZZZWWVUUUTSQQQPONMLKIIIHGGGEEEDCBAA@@?>=<;;;9876556555554443442110/-,++**(''%# 
+
+
+ !"#%&'(*+,-.011013433466678:<=>>>>>??@@ABCEHIIIJKLMNOOPPQRSTUVWYZ[Z\^`aabbbceggghhijkkmlllmnoonnnoppqqpqrrqqrtvvvwwwxxxxxyz{{{}|{|}}}|}}}}~~──│││┐┌─│┌┌│──│┌┐└┐┐┌└└└└└└├┤┘┘┘┘┤┤┤├┤┤┬┤├┘├├├┤┤┬┬┤├├┤┤┤┬┴┼▀▀▀▀▄█▌▐░░▐▌▄▄███▄▌▌░▒▒░▓∙⌠⌠⌠∙■⌠⌠∙■■∙∙■■∙∙√√≈√∙∙√√≤≈≈≈≤≤≈√≈≈≤≤≤≤≤≥≤ ⌡⌡ ≥≤≤≤≥ ≥≤≤≥ ≥≥≤≤≤≤≥⌡°⌡≥≥ ⌡°°⌡⌡⌡⌡°²·÷║║═║╓╕╔╒╔╔╕╕╕╕╔╔╗╘╘╖╖╖╖╕╖╖╖╕╔╔╔╕╔╔╕╖╗╗╗╗╛╜╝╝╝╝╞╟╞╞╟╡Ё╡╡Ё╠╡╡ЁЁ╣╥╦╩╪╬©©╬╬╫юааааабцааю╬╫╫©а©ююююбббцбццццббцббдееефффффффффггффгфедгхииихххххииййккопярррссстууууттжжусянкйгфдбббба╬╪╨╨╨╧╧╨╩╦╤╤╦╧╨╩╬©адхорохцбцю©╬╪╪╨╨╨╨╩╬ббдгйлнртттттрряртжвжтсссутсряяонмллллкиихйкккййиггггххгфддддццббаббабццббааюююююаююююю╬╪©╫╩╩╩╩╫╬╩╦╣Ё╢╣╣╣╡╡ЁЁ╡╡╡╡╡╡╠╠╠╠╠╟╟╟╟╞╝╜╛╛╚╚╙╘╘╙╘╘╗╗╗╖╕╓╒║ё╓ё║║║═÷°²÷·°°²···²°°°²²²²°°⌡°°°      ≥≥≥≤≤≤≤≤≤≤≤≤≤≤≤≤≤≥≤≤≤≤≈≈√√√√√√∙∙∙√■■⌠▓▓⌠⌠▒▓░▐▐░▒░▐▀▄▄▄┼┴┴┼┴┼▀▄▀┼┼┼┼┼┴┬┬┤┤├┴┤┘└└┘└┐└┐┌│││──~~}}}|{zyyxxxwvuvutsrrqqqpoooonmlkkjjjjjhgfffdcddccbba_^^]]\\\[[YXWWWVVURRRQPONNMKKLKIHIGGFEECCBBBA@?>==<;::97666665555455532210/.--,+*)''&%"
+
+
+  !#$%&()+,-./012112455567889:<>>@?>>>?ABBDEEGJKKKKMNOPQQSSSUVWXYYZ[\]^`accdddegihiijkklllllmnopooopqrrrrrssssstuwwwwxyyzyyyz{{|}}||}~~─│││──│┌┌┌┐│──┌┌─~─│┌┐└└└┐└┘┘┘┘┘┤┬├├├┤┤┤┤┤┬┴┴┤├┘┘├├┤┤┬┬┤├├┬┬┴┴┼▀▀▄███▌▌▐░▒▐▌██▌▌▌▌▌▐▒▓▒░⌠√■■■√∙■■√∙∙√√∙∙√√≈≈≈≈√√√≈√√≈≤≥≥≤≈≤≤≥≥≥≤≤≥ ⌡°°⌡   ≥  ≥≥≥≥ ≥≤≤≤≤≤≥⌡°⌡   ⌡°°°°°°²·═║║║║╒╔╖╕╒╔╔╕╖╖╖╕╕╘╙╙╗╗╗╖╕╔╕╕╕╔╕╖╗╕╕╖╖╗╗╘╘╚╛╝╝╝╝╟╠╟╟╠ЁЁ╠╠╡╡ЁЁ╢╣╥╧╩╫╬©©╬╬╬╬юааааабдаю©╬╬╬©ю╬юааюацдбббццббццббдеееффггффффейихиккигиийкклккййиийкклопярррстууууууууууусянйххфцбаю©╬╨╦╥╥╦╦╦╨╩╥╣╥╩╪╪╪бюдиовзьпхцб©╬╬╫╪╧╧╨╩╨╩╫╬адгилпсуутсрярсртжутуууутсряпонмммммкихйлммллйиииххихгфеддццццццддцбццббаааааааююююю©╫╪©╪╨╨╨╩╪©©╪╥╣╤╤╢Ё╢ЁЁЁ╡╠╡ЁЁ╡╡╡╡╡╠╠╠╠╟╞╞╝╜╛╛╚╙╙╚╚╙╘╘╗╗╖╕╔ё╒ё╓ё║║║═·²·÷·²°²·÷··²²²²²··²²°°°°⌡⌡⌡⌡⌡   ≥≥≤≤≤≤≥≥≥≥≥≥≥≥≥≥≤≤≤≤≤≈√√≈≈≈√√∙√√√√∙■■∙∙⌠▓▒░▒▒▓▒░▄▄▀▄▄┼┼┼┴┼▀▄▀▀┼▀┴┼┴┬┬┴┴┬┴┤├┘├├┘└┘└┐┌┌┌┌│~~~|{{zyyyxwvvutssrqqqpoooonmllllkkkkjhghhedefedccbaa_^^^]]]\[ZYYYXWWTTTSRQPQPNNONJIJIIHGFEEDEDCBA@@?==<=<9886665555657753321210//-,+***(&$!	
+!""#%&'(*+-./0112333467678:;;<=>????>>?@BBEFGGIKMMMMOPRSTTVUVXYYZ\[\\^`abbdeggfghjjkkllmmnmmmnopppqqqrsttsttuuuvwxxxxxyzz{yz{||}~─~}}───│───│┐┌─┌│──│┌┌┌───│┌┌│─┌┌┐└└└└└┘├├├├├┬┴┬┴┼┴┬┤┤┬┼┼┼┴├┘├┤├┤┬┴┴┬┤┤┼┼┼┼▀▄▄█▌▌▌▐▐░▒▒░░░▐▐▐░▒░░▒▓▓▓⌠√∙■∙≈√∙√≈√√≈≈√√≈≈≤≤≈≈√√≈≤≈≈≈≤≥≥≥≤≤≥≥ ≥≥≥ ⌡°°°°⌡⌡⌡⌡ ≥≥    ≥≤≤≥≥≤ ²°⌡  ⌡°°°²²²²·═║╒║╒ё╓╔╕╕╓╔╔╕╖╗╗╗╗╘╙╙╘╗╗╗╕╔╕╕╕╕╕╖╗╗╗╗╗╗╘╘╙╙╛╜╝╜╝╟╠╟╟╠╡╡╠╡Ё╢╣╤╥╦╧╩╪╬╬╬╫╫╫╬©©ююаююаба©╫╫╬©©©©юабаюаццббддццддцбдееееефгееггфииийкллллкклмннммлкййклмпяяяяртуууууууууттутянйхфдаю©╬╪╩╦╥╥╦╦╥╦╨╧╥╥╩©аабгейяузэшзялицю©©╫╧╥╨╪╩╨╩╪©бегйнрсттсссстястттуутутсряпоннмлннлйймномлллклйхгфффееедддддддедцбцбабааааааа╬©©©╫╪╪╪╫╪╩╩╩╨╩╫©╫╩╨╧╥╣╢╤╢╢Ё╡╠╡╢ЁЁ╡╡╡╡╡╠╡╟╞╞╟╟╝╚╚╚╚╚╚╚╙╘╘╗╖╖╕╕╔╓╓╓ё╒╒╒║÷÷÷÷··²²²÷÷···²²²···²²°°°⌡⌡⌡⌡⌡              ≥≥≥≥≥≤≤≥≥≥≤≈≈≈≤≤≈√√√≈√√√■∙√√■⌠⌠▓▓▓▓▒▒▐█▄██▄┼┼┼▀▀▄▀▀▀▀┼▀▀┴┴┼▀┼┼┴┬┤┬┬├┘┤├┘└┐┐┌│─│││─}}}|{zzyxxwvutttssqqpppoonnnnnmmllkiikjgfhhgeddddca`_____^^]\\[[ZYVVVVTSSTSQPRQMKMLKJJIHGGGFEDDCCB@???><;<9887766767865554443221/...-+)'%$"	 "#%&()*,-/./11223354578889==>>????@@@ABCDDFHIIJMNMNOPRTUUVXWWYZYZ\]]]`bdcbdfiiihijlllmmnnnoppqrrrqrrrsuuuttttuvwxxyyyyyzz{y{}}}}─┌──││──┌│││─┌└└│┐┌│─││││~─┌┐┐┐┌┌└└└└└└└└├┤┤┤┤┬┴┼█▌▐▌▀┴┼▀▀▄▄┼┤├┤┬┤┬┴┼┼┼┴┴▀▀▀▀▄██▌░▐▐░░▒▒▓▒▒▒░▐▐░▓▒░░▒⌠⌠■∙∙∙√≈≈√√≤√√≈≈√√≈≈≥≥≈√∙√≤ ≤≤≥≥ ≥≤≈≈≤≥    ⌡⌡⌡°⌡⌡⌡⌡°⌡ ≥≥ ⌡⌡ ≥≤≤≥≥≥⌡·°°⌡⌡°°°°····÷║ё╓═ё╕╔╓╔╔╔╓╔╕╗╗╘╘╗╗╘╘╗╗╘╗╖╖╖╖╕╕╔╕╕╗╖╖╕╕╖╗╘╘╚╜╜╜╝╟╠╝╝╟╠╡╡╢╥╣╤╦╧╨╩╪╪╬╫╫╪╪╪╬©╬©абааааю╬╪╫©ю©╫юююааюююцббдеццедцбдеееедффееггффгиииймннмлмопонпомкклмняяяяяртжууттттуустттрнйхбю╬╫╫╫╩╧╦╥╦╧╧╦╦╧╦╦╨©бдфхлкяьззшшЮзжскцаюю╧╣╥╨╨╨╪╪©бдфимяррстттуурттстутржутсряонпмлннмлмноолклмммкгедддеееееееддцццбаббюаааааааа╬©ю©╫╪╪╫╪╩╩╪╩╨╩╪╪╫╬╫╪╧╥╤╥╣╢╢╡╠╡╣╢Ё╡╡ЁЁ╡╠╡╟╝╝╟╟╝╚╚╚╚╚╛╚╙╘╗╖╕╕╕╖╕╔╕╕╓ёёё╒═║═÷··²²²÷÷÷÷··²²²···²°⌡⌡⌡⌡⌡⌡⌡  ≥≥ ⌡°°⌡      ≥≥≥≤≤≥≥≥≥≥≤≈≤≤≤≈√√√≈√√∙■■∙∙■⌠⌠⌠⌠▓▓▓▓▒▌▄▌▌█┼┴┼▀▀▀▀▀▀▄▄█▄┼┴┼┼┴▀┼┴┴┼┴┬├┬┤├┘└┐┌│┌┐┐┌│~~~}|{{zyxyxwvvvuuttssrrqqppponnmmkijllihjkihgggggba``aa`_`_^]]\[ZXYYXVUVVSQQTSONPMMLKJIIIIHGFEEEECA@@?>>?=<;:8777689767776544432100/-+)(''%!	
+   !#$&'')*+,///23322456679:;<<;=>????@@AAABCFGHIJKLLNPRQRSSTUVWWWXZZZ[^^_`bcdeegghjkjkmnnmnopppqqqqrrsttuvuuuvwuvvwwxxxxyz{{zzz}}}}~─│─│┌│──┐┐┌┌┌┐┐└┌┌┌│─│┌┐│┌┐└┘└└┐└┘┘┘└└└┘├├├┤┴┼▄█░▒▒░░▐▐░▒░▐▌▄┼┬┤┼┴┴┬┬┴┴┼┴┼▀▄▌▌▐▐░▐▐▐▐░▒▓░░▒▓▓▓▒▒⌠▓▒▒⌠∙∙∙■∙√√√√≈≈≤≈≈≈≤≤≤≈≤≤≤≤≥       ≥≥≤≤≤≥      °°⌡     ²°      ≤≥  ≥≥  °⌡⌡°⌡ ⌡²⌡²·═║╒ё╓ё╓╔╕╕╕╔╔╕╗╘╖╕╖╘╙╗╗╘╘╗╖╕╕╕╖╗╗╖╖╖╗╙╙╙╙╘╘╘╗╚╛╛╛╛╜╞╟╞╞╞╟╡╣╥╧╪╩╩╨╨╨╩╩╫╪╩╩╪╫╬╬юююаааюююююююююю╫╫╬аа©юцццдцббцдцццдеедббдфгггхххггххгикммнпяоннопонмннмопяррясжстттттужсуусянкхюю©©╬╪╨╦╥╦╥╥╨╨╧╩╪╩╫афймооузшзыьжьшэьрмгдд╪╦╨╪╨╨╫╬юбдгйнпярстссстуужутстутутрппомонннмлмопнлмонкхиихгедддфеееефедедддцббцбаю©ююаб©юю©╬╬©ю╪╪╩╨╨╩╪╫╫╬©©©╬╫╪╩╨╦╥╢╠╡╢ЁЁЁ╡╟╡Ё╟╡╠╟╟╠╠╝╙╛╙╚╛╜╚╙╙╙╙╘╗╖╕╕╕╓╔╕╔╓╒╒╒║════÷·²·÷═║═÷²°²²···²²²⌡⌡⌡⌡⌡⌡⌡°≥⌡°°⌡   °°⌡     ≤≤≥⌡⌡ ≤√ ≤≈≥  ≥≥≤≈√∙√√√√⌠■∙∙■⌠⌠⌠⌠▓░▐▐▌██┼┴┴┴▀▄█▄▀██▄▄▄▀┼┼┼▄█▄▀┴┬┴┬┤┤┬┤├└└└└└┐┌──~|}~}}{w{yxwwxxxwvutssstrqpppomlnmllmlkjjjiihgggfedeeecbaa``a`^\]\[ZZYXWUUUUSRRRQPNMLLKKKJIHHHGFDDDCBAA@?>==<;97679;:777876555541220.,++*(&#!	!!"$%'()+-../1212443357768:;=>>>>?@@@@ABBBCDEGHIKLMNOPRSSTUUVVWXXXY[[[]_`abdefggghikllmooonopqqqssrrsstttuvwwwwwwwxyyzzz{{|||{zz|}~──────│┌┐┐┌┌┐┐┐┌┌┐┐└┐┐┐┌┌┌┐└└┐┐┐┐└┘├┐└└└└┐└└├├┬┴▄▌░▒▒▓⌠⌠⌠▓⌠⌠∙■⌠▒▌▀┴┬▄▄▀┼┴┴┴┼┼▀▄█▌▐▐▐░░▐▐▐░▒▒▓▒▒░░▒▓⌠⌠▓▓▓⌠∙∙√∙√≈≈≈≈≈≤≤≈≈≈≈≈≈√≥≤≈≤≥ ≥≥     ≥≥≤≤≥     ⌡⌡⌡⌡⌡⌡⌡⌡⌡°⌡  ⌡⌡°⌡≤≥ ⌡   ⌡°⌡⌡°°°²÷²÷═║╒╒ёё╓╓╔╕╕╕╕╔╔╗╘╖╖╗╘╙╘╘╘╘╗╗╖╕╕╖╗╗╗╖╗╗╚╚╚╚╚╙╙╘╗╙╛╜╜╛╛╛╜╞╟Ё╣╥╦╧╪╩╩╨╨╩╩╪╪╩╩╪╫╬╬╫©©©©©ююю©©©©©ююа©╬╬©юююаббббццддцбццдддцбцеефффгхггххгхккклоппооноооопяпопртсрсуттутттужтуусянйфцбю©╫╪╨╧╦╨╦╥╧╨╨╫©юцгймяттьзывусяяжшэытмхиц©©╬╨╧╪╬юбдфимопртуутттуууттттутутрппомпоопомноомллмлйхффффееефеддддддцдддцббббааааюююа©ю©©╬╬╬©╪╩╩╨╨╨╩╩╫╬╬╬╬╬╬╬ю╬╫╨╥╢Ё╣╢Ё╢Ё╠╡╢╠╡╡╟╟╠╠╝╚╛╚╚╜╜╛╚╚╙╙╘╗╖╖╕╕╔╕╕╕╓ёёёё╒║═══÷·÷÷÷══÷÷·²²··²²²°°°°⌡⌡°°° ⌡⌡°⌡   °°⌡⌡     ≥  ⌡ ≥≤ ≥≤  ≥≤≥≤≥≤≈√√≈≤■∙∙∙■⌠⌠■■▓▒░░▐▌▌▀┼┴┴┼▄▄██▌█▄▄▄▄▄▄▄▄▄▀▀┼┼▀┴┬┬┴┬┤┘┘┘┘└┐┌│─}~~~}y|{zyzzzyyxwuttuutsrrrqononmmnnmmllkkjiiihggfgfeddcaaaa`_^]\\[[YXXXXWVTTTTSQPOONNMLKJJIHGFFFEDCBBA@@??=;:889:97898776776644430.--.,*(&# 	
+ !#$%')*+,-/0012323554579:9:<=?????@ABBBCCDEFGHIJKMNOQRSTUUVWWXYZ[ZZ\]^^`bbcdfghiiiikmnmopqppqqrsruutttttuuvvxyxwwwxxyzzzz{||}}}||}~─│┌┌│─│┌┐└└└└┐┐┐┐┐┐┐┐┐│┌┌│││┌┐┘└└┐└┘├┤└┘┘┘└└┘┘┤┬┼█▐▒▓⌠▓■√≈√∙√≈≈≈√∙▓▐▄┼▌█▄▀▀▀▀▀▄▄█▌▌▐▐▐░░░▐▐░░▒⌠▓▒▒▒▓⌠⌠⌠⌠■■■∙√≈√≈≤≤≤≤≤≤≤≤≈≈≤≤≈≈ ≤≈≈≥ ≥≤≥  ⌡  ≥≤≥≥     ⌡⌡⌡⌡⌡⌡°°°°⌡  ⌡°°°≥ ⌡°⌡⌡⌡⌡⌡⌡⌡²²²÷║═║╒ёёёёё╓╔╔╕╕╕╕╔╔╖╗╖╖╗╙╙╙╘╘╘╘╘╖╕╕╖╗╗╗╗╗╘╙╙╘╙╚╚╚╙╘╙╛╜╜╜╜╜╞╠╢╤╦╦╦╦╩╨╨╨╨╩╩╪╩╩╩╫╬╬╬╫©╬╬╬╬╬©©©©╬╬©юабюю╬╬юаа©баюацддцббццдддцццдддеефхгхххгхйййкнооннмноопяяппясттсстттутттуужжусямхддбю©╫╪╩╨╪╫╨╧╪╫╬абдхмоясжьзыжромклявшщзтнкгедб╬╬ююабдфймооястуууужутттттсуутрппонпоопоннонмлкййихееееедефеддддддццддбаццаабббаюююю©╬╬╬╬╫╫╪╩╩╩╩╨╩╩╫╫╫╫╬©юабаю╬╨╥╤╦╤╢╣╢╠╡Ё╠╡╡╠╟╠╠╞╚╜╛╚╜╜╛╚╚╙╙╘╗╖╖╖╕╔╕╕╕╔╓╓╓╔ё╒║══÷·÷÷÷÷÷÷══····²²°°²°°°°°°°⌡⌡⌡⌡⌡⌡ ≥°°°°°⌡  ⌡⌡     ≥⌡  ⌡ ≤≤≥≥ ⌡≥≈√≈≥√√√√∙■■■■⌠▓▒▒▒░▐█▄┼┼┼▀▄█▌▐▌▄▄█▌█▌▌▄▀▀┼▀▀▄┼┴┴┴┬┤┘┘┘┘┘└┐┌││─│──{}|{{||{{{zxwvvvvvuuttsrqpoooppponnmmlllkjihhhgfefecbbbbb`_^^]]\[YZZYWVUUVUSRQPPONNMMMLJIHHHGGFEDCCBBA@?>;:99989;99888887777631000/-,*(%$ 	 !"#%&(*+,--/0112332467679;<==>?@@???@BCCCDEFGHIJKLMNOQSTUUVVWXYYZ[\]^_`abdedefghjjkkkmooopqrrrrssttuuvvvvvvvvvwyyxwxxyz{{{{{{|}~~│┐┐┐┌│┐┐└└┘└└┐┐┐┐┐┐┐┐┌││┌┌│┌┐└└└┘├├├├┘├┤┤┤┤┤┤┬┼▄▌▐░▒▒▓▓∙≈≤≈√√≈≤≤≤≈∙⌠░▐▌██▄▄▄█████▌▌▐▐▐░░░░░▒▒▒▒▓⌠■■⌠⌠▓⌠■∙∙∙∙≈≤≤≤≤≥≥≥≤≤≥≥≤≥≥≥≥≤ ≤≈≈≥ ≥≤≥ ⌡⌡⌡ ≥≥≥ ⌡⌡  ⌡⌡  ⌡⌡⌡°°°°°°⌡⌡⌡⌡⌡≥ ⌡°°⌡⌡°⌡⌡°²··÷║═╒ё╓╓ёё╓╔╔╔╔╕╕╔╔╔╖╗╗╖╘╙╙╙╘╗╘╙╙╖╔╖╗╗╗╘╘╘╙╙╘╗╘╚╛╜╛╛╛╜╜╝╟╡╢╣╤╥╦╦╦╥╥╧╧╧╧╧╨╩╪╩╩╩╪╬╬╬╬©╬╫╫╫╬©©ю©©╬©юабааю╬╬аа©ааюабццбббцддддддддддеефггггггхййиймнмлллноооппоппрттссутуутттттжжжспмгббаююю©©╬©а©╬абцфефйоярсуыьуямкихлосвзшвслйххфддеццдфикнпопрсстуужтссттсрутсяпонннннонллмммлйиххххгфедцдегфеееедцбддааццаабцбю©©юю©╬╬╬╬╫╩╪╪╩╩╩╩╪╪╪╪╫╫©юааююю©╪╨╧╩╧╤╥╤Ё╡Ё╠╠╠╟╞╟╠╞╛╛╚╚╛╛╚╙╙╙╙╘╗╗╖╖╖╕╕╕╕╕╔╔╓╔╓║═÷÷··÷÷÷÷÷÷══···²²²°°²²²°°°°²°⌡ ⌡°°⌡≥°°°°°⌡  ⌡⌡⌡    ≥⌡⌡⌡⌡ ≤≥  ⌡⌡ ≤≈≤≥≈≈≈≈√∙∙■∙■⌠▓▓▓▒░▌█▀┼┼┼▀▄▌▐▐▌▌▐▐▌░▐█▄▀▀▀▀▄▀┼┴┴┬┤├├├├├┘└┐┌┐│┌┐││─}}}|}}}|{|{zyxwwwwvvvuttsrrqqqqqqooonnnmmkjjihgffgfedddddaa`__^]][[[ZYXWWXWUTSRQPOOPOOMLKJJJIHGFFEEEDDBA@>=<;:99;:99999999998643310/.,*('$"	 !""$$()*,-...1233455468989;=>>??@@@@@@ABDDEFGGHJKLMNOQRSUVWWWXXZZ[[\]`abbcdfgffghikllmmnpppprssstttuuvvvwwwxxyxwwyzzy{{||}}}}|||}───││┌┌┐┐┐┐└└└└└└┐┐┐┐└└┐┐┐┌┐┐└└└└┘├┘┘├├┤┤├├┬┴┴┴┴┴┴┼█▌░▒▒▒▓▓⌠√≤≤≈√√≈≤≤≥≥≤∙⌠▓░▐▌████████▌▌▌▐▐▐▐░▒▒▓▓▓▓▓⌠■∙■■⌠■∙√√√√≈≤≤≥≥≥≥≥≥≥≥≤≤≥    ≥≤≈≤ ⌡ ≥  ⌡⌡⌡⌡ ≥  ⌡⌡⌡⌡⌡°⌡⌡⌡⌡⌡⌡⌡⌡°°°°⌡⌡⌡⌡≥ ⌡⌡⌡⌡°°°°²···÷║═║ё╓╓╓╓╓╔╔╔╔╔╔╔╔╕╗╗╗╗╘╙╘╙╘╗╗╙╙╗╕╗╗╗╘╘╙╙╙╛╚╙╙╛╜╜╜╜╝╞╟╡╢╥╧╨╧╦╥╥╥╥╦╦╦╦╦╧╨╩╪╪╪╩╩╫╬©©©╬╫╫╫╬©©юю©╬╬©©ююбб©╬юааааббааббббцдддддедддееееефффггиийииклккккмнннппопопярртжттттуттттуурокгццццдддцббцццгххййийнрсссьуянкйиилморвзьурпмкйигфггхйлоясрррррсужутссттсртсяпоннннмлммкккнмлкиххийигеццефхгффеедцбдцааццаццба©©юааю╬╬╬╬╫╩╪╩╨╨╨╩╪╫╨╩╪╬©юаа©©©©╫╩╩╫╩╧╦╦╢ЁЁ╡╠╠╟╞╞╟╞╜╛╚╙╛╛╚╙╙╙╘╘╗╖╖╖╖╕╕╕╕╕╕╔╔╕╓╒═÷÷··÷÷═══÷÷·÷···²²²°²²²°°°°°°⌡⌡⌡°°⌡ °°°°°⌡ ≥  ⌡⌡⌡ ≥≥  ⌡⌡ ≥ °⌡⌡ ≥≥≥≤≤≤≤≤≈≈√√∙∙■⌠⌠⌠⌠▓▒░▐█▀┼┼▀▀█▌▐▐▐░▐▌▐▐▐▌██▄▄█▄▀┼┴┴┬┤┤┤┤┤├┘└┐┘┐┐└│││~~~~~~~}|||{zyxxxwwwvvuttuttsrrrrooooonnmllkjihhgffffeeddbbba`___]^^]\[[[[ZXVVUTSQQQQPOMMKKKJIIHGFFFFEDCBA@??=;::;:99:::9:::986554331/-+*(&$"	 "#$%&'++,-.///134456769:;;;=??>?@AABBBABDEFGHIIKMNNOQSVVWXYZZZYZ[\\]^_acccdegghhhiklmmnnpqqqqstuuvuuvvvvwxxyyy{zyyz{|||||}}}}}~}}~─│─┌┌┌┌┌┐└└└┘┘┘└└┐┐└└└└└└└└└┘┘├┘├┤┤┬┤├┘├┤┬┴┴┴┼┼┴┴┼▀▌░▓⌠⌠⌠■∙∙√≤≤≤≤≤≤≥≥  ≥≈√∙⌠▓▒▐▌█▄▄▌▌▌▌▌▌▐▐▐░▒▓▓⌠⌠⌠■■⌠⌠■∙√≈∙√√≈≈≈≤≤≥≤≥≥  ≥≥≤≤≤≤≥  ≥≥≥≥≥ ⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡  ⌡⌡⌡⌡⌡°²°°°°⌡⌡⌡⌡≥ ⌡°°⌡°°≥  ⌡⌡⌡°²²²²÷÷·÷║═║ё╓╓╓╓╓╔╔╓╓╓╔╔╕╖╗╘╗╗╘╘╘╘╗╗╘╙╙╗╖╙╘╘╘╙╚╚╚╜╛╚╙╙╚╛╜╜╟Ё╤╦╧╧╨╪╩╧╦╦╦╨╩╨╨╧╧╨╨╩╪╫╪╩╩╪╬©©©╬╬╬╬╬©©©©╬╬╫╫╫╬юабю©юабюбцбаюабббддддддддддееедцефефгхххгхйлкккйклмнпяяпоопяясуттттууттрттямкхфххииихфедфффййймнлкнртттжромлййййклпжзыжтромммкикклмпсужжжутстужсссссссртрпонмноомлммлклммлкиххиихгфддфггфедддцббббаааабцба©©©юаюю©©╬╬╫╪╩╨╨╧╨╩╪╪╧╨╪╫╬©ююююю©╫╨╩╫╫╨╨╧╤╣╣╢╡╡╠╞╞╞╝╜╜╚╚╛╛╚╙╙╘╘╗╗╖╖╖╖╖╕╕╕╕╕╕╔╕╔ё╒║║══÷÷════÷·÷÷··²²²²·²²²°°°°°°°°°°°⌡°°⌡⌡⌡  ≥≥ ⌡⌡  ≥≥ ≥ ⌡⌡ ⌡°⌡ ≥≥ ≥≥≤≥≤≤≤≤≈√√∙■■■■⌠⌠▓▒▒▐█▀┼┼▀▀█▐▐░░░▌▐▐░░▐▌█▄▌██▄▀┼┼┴┬┬┬┬┤├┘┘├└└└┌│┌│─~~}||{zzzzxxxxwuuuwvvtssssppqpponnonnmkjjjgghgffeecdccaa`a____]\\\\[YXWVVUSSSSQPOOMMMLLKJIGHHHFEDDCBABA><;<;:::;:::;;;987766541/--,*(&$!	! "#%&'(*+,--./12224556898;=>=>?@@@@ABCCDDCDFHIJKLLMOPPRTWZYYY[\\[\]^__`abcefeeghhijjklmnoooprsrsuuvwwwwwxwxxyyyyy{{{{{|}~|||}}}}}~~─││─┌┌┌┌┐┐└└┘┘┘┘┘┘┘┘├┘┘┘┘┘├├┘├├┤├├┤┬┼┴┬┤┤┬┴┼┴┼▀▀┼┼▀▄▐▒⌠■⌠■∙√√√√≤≥≥≥≥≥≥    ≥≥√∙⌠▒▐▌██▌▌▌▌▌▐░░░▒▓⌠⌠⌠⌠⌠■■⌠⌠■√≈≤√√√≈≈≤≤≤≤≤≤≥   ≥≥≥≤≤≥≥≥≤  ⌡⌡⌡⌡°°⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡°²°°°°°°°⌡≥ ⌡°°⌡⌡°     ⌡²·²²·══÷═╒║╒╓╔╔╓╓╓╔╔╓╓╓╔╕╖╖╗╘╗╗╘╘╗╗╗╘╙╙╙╘╘╚╙╘╙╙╚╚╚╚╛╛╚╚╛╝╟╢╥╨╫╬╫╫╪╫╫╫╫╫╬╬╬╬╫╪╪╩╩╩╩╫╪╪╪╫╬╬╬╬╬╬╬╬©©©╬╬╬╬╬╬╬╫юююааюабюаббббббабцдццццдддеффедцефеефгфхгхйкййййккклояяяпояяярсттттууутятжснлллммллккиххиххкклнолйлорувуямлкйииииймсььжппомлноннннпрувььььвутттррсссссссяпонмнпянмммллмллкйиихгфгггфееедццццццббююаа©юббю©©юаю©©©ю©╬╫╫╫╩╩╩╪╪╩╩╩╨╨╩╪╫╬©©аю©╬╪╨╨╪╫╨╨╩╦╤╥╥╣╣Ё╟╞╞╜╛╜╚╙╚╚╙╘╙╗╗╖╖╖╖╖╖╗╖╕╕╖╖╕╔╕╔╓ёёё╒║════════÷÷·········²²²²²°²²²°°°°°°⌡⌡    ≥   ≥≥ ⌡ ≥≥ ⌡⌡⌡⌡    ≥≥≥≥≥≤≤≤≤≤≈√∙∙■■∙■⌠⌠⌠▓▒▐█▀┼▀┼▄█▌▐░░▐▐▐░░░▐▐▌▌▌█▄▀▀▀▀┴┴┴┴┴┬┤├├└┘┘┌┌┐┌┐┌│───~~}}||||zz{zxwvwwwwvttturssrrqpopponlllliiihgfgheffecbbcaaa`^]\\]\ZYXXWVUVVUSRRRPPPONMMLJKKJIGGGECCCCA?>=<;;;;;:;<<<;:99777531///.+)'%"!	#!$%')*+,--../024546789<<<=?@??@AABBCCDDDDEFHJKLMNNOQQRTWY[ZYZ[\\\^_`aabcdeghfgijikkklmnppnopsttuwvwxxxwxxyyyzzzyyy{|||{|}~~~~~~~~~}│┐┐┌┌┌┌┐┐┐└└┘┘┘├├├├├┤├┘┘┘├┤┬┤┬┴┴┴┴┴┼┴┴┴┼┼┼┼┴┼▀▀▄▀▀▄█░▒⌠⌠⌠⌠■√√∙∙√≥  ≥≤≤≥⌡°²²²≈√■⌠▒░░▐▐▐▐▐▐░░▒▒▒▓⌠■⌠⌠⌠▓⌠■√≈≈≈≈≈√√≈≤≥≤≈≤≈≈≤   ≥⌡  ≥ ≥≥≤⌡°°°⌡ °²°⌡⌡ ⌡⌡°°⌡⌡°⌡⌡⌡°²°°²²²²²°≥⌡°°⌡   ⌡⌡   ⌡²÷²²·═══║ё╒ё╔╕╕╔╓╓╔╔╓╓╔╕╖╖╗╘╘╗╘╘╘╖╗╘╙╙╙╙╙╙╚╙╙╙╚╚╚╚╙╛╝╝╝╟╢╦╪╬юааююююабццбаюба©╫╪╩╩╩╪╪╪╫╬╬╬╫╬╬╬©©©╬╬╬╬©ююю©©а©╬ацбабаююацдцбабццббббееефхгфедффедеедйххййиххйкййймнняппрряяятсстужутржьуяопяонлллккйклйиклломкийлотьтплкйхггйиийнтввмоолйлнооооятвьыьыыьжсряярсссрстсяооонояроллмллмкйиииигфдфгхгецбббббцдццб©╬аа╬╬ба©╬©абю╬╬©ю©╬╪╪╫╪╫╬©╬╫╩╨╨╨╨╨╩╫©юю©╬╫╩╧╨╫╫╧╨╩╧╦╧╧╥╥╢╠╞╝╜╚╛╙╘╙╙╘╗╘╗╗╖╖╖╖╖╖╘╗╖╖╖╖╖╕╔╓╓╓╓ё╒║║════║╒ё÷÷÷···÷÷÷÷··²²²²°²·²°°°²²°⌡⌡   ⌡   ≥≥≥⌡²⌡≥≥ ⌡⌡  ≥⌡°⌡≥≤≥ ≥≤≤≤≤≤≈√√∙∙∙∙∙■⌠■■⌠▒▌▄▀▀┼▀▄▄█▐░░▐▐▐░░░░░▌██▄▀┼▀▀┼┼┼┼┼┴┬┤├└┘┘┐┐┘┐└┌│─~~~}}}|||{zxxxxxwvuuvwttttsrqppppnmllmkkjhggijgggfeddedddb`^]]`^][[[ZYWWWVTSTTRRRQQPONLMMLKIHHFDCDDBAA>=<;<<;;;<==<;;;899853220/-+)'%$" 	 "!$$'%'*,--..10013577679<>?>=@@A@@@BCCDEDEFECIJKLMNOQPRSUVWYZ[[[\]^_```acdfggiggijjjkklmopqqqrsstuvvvwwxyyyyx{{zz{{{zz{}}}~~~~──~─│┌┐└└└┘└┌┌└┘└┤├├├┤┤┤┤┬┬┬┬┬┬┬┴├┬┴┴┴┴┼┼┴┼┼┼┼┼┼┬███▄▄▄▐░░⌠■■■≈≤≤∙≈≤≤√∙≤ ≥ ⌡°²²·÷° ≈√≈≤∙▓░░▒▒░▐░▓▓▓⌠⌠⌠■■■⌠■∙≈≤≤≤≤≤≤≈≈≈≤≤≥⌡  ≥≥≥ ⌡        ⌡⌡⌡⌡°°²²°°⌡⌡⌡⌡°°⌡°²°°²°⌡°°²²°°°°⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡   ⌡²÷²·÷═╒╒╒═╒ё╓╔╔╔╓╓╔╔╕╖╖╗╗╗╙╘╗╗╗╘╗╖╗╘╘╘╘╙╚╛╛╛╚╚╚╚╚╚╛╞╠Ё╥╪╬╬бббббцддббццццццдцаааа©╫╩╩╪╪╪╪╫╫╫╬╬╬╬╬╬╬©©ю©╬╬╬©ююбццббдюаббцдцаацдццдеебдфффффдфееефффггхиххихгикммйиймппяяяяррстжввжуужвыьтяононмнонмкммннмлккхигейсьжнкийлкииххгглсжжпмкммклпоярсствзшзыывжутттсстсрпсряпоонмяпнлкйхгхиккйиххххгггфдцбббццццццбаюаю©╬ааабба©╬©юю©╫╩╩╩╩╪╫╫╪╪╪╪╪╩╩╩╪╫╫╫©©╬╪╩╨╨╩╪╪╩╨╨╧╧╧╨╨╧╦╤Ё╞╛╚╚╙╘╘╗╖╖╕╖╗╖╔╓╖╙╙╘╘╗╖╖╖╕╖╕╔╓╓╓ёё║═══║║║╒··÷══÷÷·═÷·²°²···²°°⌡ ⌡²°⌡   ⌡  ⌡    ⌡°°⌡⌡⌡⌡⌡⌡°°⌡°°°⌡⌡      ≥≥≤≤≥≤≈√≈≈√∙■■⌠▒░▌█▄▀▀▀███▌▐▒░▐▐░░▐▌▒░▐▌█▄▄▄▀┼┼┼┴┴┴┴┘┘┤┬┤└┐┐└┐┌└┐│─││─~}}||{{}}zyzzyyyyxwvvvwvutttqrrpppnllkiijjkjiihhhggfdddcbaa`aa`_^\[[XWVWXXWUTUTRQRQNMNOONMKKHGGFFEDCCA?<;<=><<<<<<;:<;:9864242/.,+)(%#!"!$#&&((*,..//01123678889;=?@@?@AAAABDECEFGHKLKKLMNNOQRSTVWXY[\]]]^_``aabcdegghihikkjklmnoprrsruttuuvwxxyzz{{zz{{zz{{{z{|}~~─││││─││┌┐┐└└┐└└┐┐┘├┘┬┬┤┬┬┴┬┬┬┴┴┴┴┬┴┴┴┼▀▀┼┼┼┼┼▀▀┼┼▀▀┼▄▄▄▀▀▄▌░░⌠√√√≈√∙∙≈≤≈√√≤⌡⌡°²²²²·÷²° ≤≤≥≈■▓▒▓▓▓░▒⌠⌠⌠⌠■■■∙∙∙√≈≤≤≤≤≤≤≤≤≤≤≤≤≥          ⌡⌡⌡⌡⌡⌡⌡⌡⌡⌡°°²²°°°⌡⌡°°°⌡²²°°²²⌡°²²²²°°°°°°°°°⌡⌡⌡⌡°°°°²·═÷·÷═╒ёё╒╒ё╓╔╔╓╓╔╔╔╕╖╖╗╗╚╙╘╘╘╘╘╗╙╙╚╙╙╙╚╛╘╙╙╚╜╝╞╟Ё╥╩╪╬юббцццццддеддддццццедцццца©╬╬╬╬╬╫╫╫╬╬╬╬╬╬╬╬╫╬©ю©©©©ююаццбцдббббццбюбцддегфеефггфгфдеееееефффгхгхиихийллккклморряпяяссужввжжжвыьурпооооппонммммлкйихгфццкуьтнйхйккииггффйосурнклмлмопястувышзззывжжжтсррстссрррпнмннпнмккйихфхйййиххххгггфдцбббццццццбааююююаааабаю©ююю©╫╪╪╪╪╫╫╫╪╪╪╪╫╪╪╪╪╫╫╪╬╬╫╪╨╨╨╩╩╩╨╨╨╧╧╨╩╨╨╧╦╤Ё╟╜╛╙╙╚╙╗╖╖╗╘╗╕╕╗╙╙╘╗╗╗╗╘╘╖╕╔╓╓╓ёё╒╒╒║║════════÷·²÷÷·²²²²·²²²²°⌡⌡²°⌡     ≥⌡    ⌡°°°°°°°°°²°°°°⌡⌡       ≥≥≤≤≤≈≤≤≤≈√∙∙■⌠▓░▐▌▄▀┼▀▀▀▄▌▓▒▒▒▒▓▒▒▒░▐▌██▄▄▄▀▀┼┼┴┴┬┬┬┬┴┤┘┘├┘└┐┘┘┐││┐┌│─~}~~|z{{zzyyywvvvwvutstrssrrrrponmllllkkjiihhgfgfffedccbbba_^]\[ZYYZZXVWXWUTUTROOPPONMLKJIIIHGEDCA@>====<<<===<=<<;:9766420.-+*)'%#" $#'&((**+-../0123469:99;<>@ABBAABBCCDFGFHIIJLMMMNOPQRTUWXYZ[\^_````abbccdefghiikklmlklnnoqrssttwwvvvwyzyzz{|||{{{{{{|{{}}~──││───┌┐┐└┌┌┐┐└└└┘└┘┘┘├┤┬┬┴┬┬┴┴┼┴┴┴┼▀▀┼┴┴┴▀▀▀▀▀┼┼┼┼▀▀▀▀▄▄▄▄▄▄▄▄█▐▒▓■√≈√√∙■√√√√√≤ ⌡²······÷÷÷²⌡  ≤√▓▒▒▓▒▒▒⌠■■■■∙∙√√≈≤≤≥≥≥≥≤≤≤≤≤≤≥≥≥≥  ⌡⌡⌡  ⌡⌡⌡⌡°°°°°°⌡°°°²²²°°°°°°°°²²°°²²°²²²²²²°°°°°°°°⌡⌡ °²·····║═÷═║╒ёё╒ё╓╓╔╔╔╔╔╔╔╔╕╖╗╘╘╘╘╘╘╘╘╗╙╚╚╚╚╚╛╜╛╜╝╟Ё╣╥╦╨©цдццццддддддеееддццццдфеддеецбцбаю©©©©ю©©╬╬╬╬╬╪╫©юю©©©ю©юбцццдцдцббббюцдефхйхфхиихгггееффеддеффггггииииийкллллйнрсяппятттжььвужьывурппопяяпоонллкйигедееделтжслйхикйииигггимржтокклклмпярсжьзэзшзыьвьыутсрстттяссянлмоммлкииийгхийииххгггггфедбццццццццббаю©юаюаббаааааю©╬╫╫╪╪╪╪╪╩╩╩╩╪╬╫╫╫╫╫╪╩╪╪╪╩╨╨╩╩╨╨╨╧╧╧╨╨╨╨╨╨╨╧╤╣╡╞╜╚╛╛╙╘╗╘╘╗╕╕╗╙╘╗╖╖╖╗╗╘╖╕╔╔╔╔╓ёёё╒╒║║║║║║║══÷··÷÷÷··²²²²²²·²⌡⌡°°⌡     ≥   ⌡⌡⌡⌡°²²²²²²²²°°°°⌡⌡       ≥≥≥≤≥ ⌡°°⌡⌡   ≥≤≈√√■▒▐▐▐▐▒⌠⌠■■■■■∙∙∙■⌠⌠▓▒▒▒░░░▐▌██▄▀┼┴┴┬┤┤┬┴┤┤┬┬┤├┘├├┘└└└┐┐┐┐┐┐┌─~~~}}}|{yyyzyxwvvvwvtsssrqponmlkjlkjjjihgggggfeededdcb`___^]\\\ZXYYXVVVUTRQQQPPOONMLKKJIHFFEDB@?>>=<<=>>>=<<;;:98875310.-,*(&%$!&&)(+*,,,../0235568;<<;>>@ACCCCDDDDEFHIIJLLLLLMNOPRSUWXZ[\]^^`abbbcddeeffghijjklnoomlnopqrssttuwxwwwxyzzz{{||||||||}}}|───┌┌│──┌┐└└┌┐┐└└┘├├├├┤┬┴┼┼┴┴┴┴┴┼┼┼┴┼▀▄▄▀┼┴┴▀▀▀▀▀▀▀▀┼▀▀┼▀▄█▄████▌░▓⌠√√√∙∙∙√√≈√∙√≈≥⌡°·÷÷÷··÷÷═║║·²° ≥▓▒░▒▓▓▓⌠■■∙∙√√≈≈≤≥≥   ≥≥≥≥≥≥≥      ⌡⌡⌡⌡⌡°°°°°°°°°°°°°²²²²²²²²²²²°²²°°²²°²²²·²²²°°°°⌡⌡⌡⌡⌡⌡°······══║╒ёёё╒╓╓╓╔╕╖╖╗╕╕╔╔╕╖╗╘╗╗╗╗╘╘╘╘╗╘╚╛╛╜╞╟Ё╢╣╥╨╪╫╬юбефедцбдддццддддцббббцдееееффедфедббаабаа©╬╬╬╬©╫╫╬©©©©©ю©©аццццдедббббабегхийигиййхгххгефгфддефгггффхихииййккккймпряппяуттжььвувььвтряямояяомлмййихфдцббегхлртткиххийихйхгхикявтойийкккнноятжьызззьввышжжутттссрссяоммнлмлйххийииййихгфффггффедцццццццццбююююааааббаюаббю╫╪╫╫╫╪╫╫╫╪╩╪╫╬╬╫╫╫╫╫╪╨╪╫╪╪╩╨╩╪╨╨╨╧╧╧╧╧╦╦╧╨╨╧╥╤╥╢╟╜╚╚╚╚╘╘╘╗╖╖╗╘╘╘╗╗╗╗╗╗╗╖╕╕╕╔╓╓╒╒╒╒╒╒╒ё║║║═════÷÷÷÷÷·²²²²²··°⌡°°⌡        ⌡⌡⌡⌡⌡⌡²²·····²²²°°°⌡    ⌡   ≥≥≥⌡²÷║╒║║══÷÷÷·²²⌡≥≈√√∙√≤≈≤≥≥≥≥ °⌡  ≥≥≥≤≤≈≈≈√∙∙■■■⌠⌠⌠▓▒░▒░▐▐▐▐▐▌███▄▄▄▄▄▄▀▀▀▀┼┬┤├┤├├┘┘└┐┌┌┌┌┌│─~─|wtsssqpponlkjnmlkkjihiiihhgffgffedcbab`__^^\[[ZYXXXWVUTSRRRQQPONMLKJIIHHGECA@@?>=>???==<<<;:9:9864310.,*((&$" ((*)-,,./012467888:<>>>?@ABCDDEFFFFGHIIIKNOONOQPPQSVXZ[\]^__`abccdeffgghiijkllmnpqponpqrstuuuvwwxyyxxyz{{||}}}}~}}}~~~─────┌┐┌│─│┐┐└┌┐┐└┘├┤┤┤┬┴┼┼┼┴┴┼┼┴┼▀▀▀┼┼▀▄▄▀┼┼┴▀▀▀▀▄▄▄▄▀▄▄▄▄▌▌███▌▐░▓⌠■√√√√√√≈≈≈√√√≤ °°··÷÷·÷═║║╒╒═·²°⌡∙⌠▓⌠■■■∙∙∙∙√√≈≈≤≤≤≥  ⌡⌡⌡    ⌡⌡⌡⌡⌡⌡⌡ ⌡⌡°²°°°°°°²²°°°°²²·······²²²°²²°°²²°²²···²²²°°°°⌡⌡⌡⌡°²··²··÷═║╒ёёёёё╓╓╓╔╕╖╗╘╖╖╕╕╖╗╘╙╙╙╘╘╘╘╙╙╘╙╛╞╠Ё╣╤╧╧╩╪╬©аадццееецбццббббббббаабцдееееефффеффедддддцба©©©©©©©╬╬©©ююа©©аццццдедбббббафййииииийиххиихфггфедефгхгффгхгхиййиийклмнопяяпуттжьыьжвььжсппплнонкихигггфецбаацегмстяихггхихгигфгхиожтойийккймммоясужььвжужьыужжжжтсстсряпнмллллйхгхиииииихгфееффееддццццццббца©©аббабцццаабба©╫╪╪╫╫╪╬╬╬╬╫╬©а╫╫╫╫╬╫╪╩╫╬╫╫╩╩╩╪╩╩╨╧╧╧╦╦╥╦╧╧╧╦╥╥╥╥╣╡╝╚╚╚╚╙╙╘╗╗╘╘╗╘╙╙╙╙╘╘╗╖╕╕╕╕╔╓ёёё╒╒╒ёё╒╒║║════÷÷÷÷÷·²²²°²··°⌡⌡°⌡   ⌡⌡⌡ ⌡⌡⌡⌡⌡⌡⌡²²····²²²²²°°⌡⌡⌡⌡⌡⌡⌡⌡  ≥ °÷║ёё╒╒÷÷÷÷÷··²²⌡  ≥≈≈≤≥ °°°°²·²²²²°°°⌡  ≥≥≥≥≥≥≤≈≈≤≈√■∙∙∙■■∙∙■⌠▓▓▓▒▒▒▒▒░▒▒░░▐▌▌██▄▄▄▄▀▀┼┼┼┼┴┬┤├┬├│zutuusssrqpooonmmllkjkkkkkjiihhggfdccbba``__^^][[[ZZYXVTTTTSSRQONNMLKKKJHGFEECB@?????@?>>>=<;<;:8754320.,,+('#" **,+/--/0134689:::<>@AAABCDDEFGHHGHIJKKKMOPONPSSSTVX[\]^^``aabcddefghiijjklmnnoprrqpqrrtuwwvvxywxzzyyz{}}~~~~~~~~~──│──││──┌└┐││┌┐┐└┐┐└┘├┤┬┴┬┬┬┼┼┴┴┴▄▀▀▀▄▄▄▄▀▄▄▄▄▀▀▀▄▄▄█▌▐▐▐▄█▌▌▌▐▐▌▌▌▌░▓■■∙∙∙√≤≥≤≈√≤≈≤≥ °²··÷÷÷÷═║╒═╒ё║═÷·°≈■▓⌠■■■■∙∙√√≈≤≤≤≤≤≥ ⌡⌡°°⌡⌡°°°°°°²°⌡⌡⌡°²·°°²²²²²²²²²²²··÷÷÷÷÷···²°²²°°²²°²²··²²²²²²²²²²²²··²²²²÷═╒╒╒║║ё╔╕╓╓ёё╓╕╖╗╗╖╖╖╖╗╘╘╙╙╘╗╖╗╘╙╝╟╡╣╥╧╩╪╫╫╬юабццдаюбддбаааююююааааббцдеедеефффффффффффффедцбаааабаю©юаабцаабцббццеецбццбаглкихийийиххййихггфффффгххффггфгиййииикнмлмояяпррсуьыыьььвтянннклмкхфефееееедцбцю©епвтниихггихгхгггхйпусокййкккллмнпртужутттужжстжвжутттсяппнлклккйхгггггххиихгдефеедцццддццбббцаюабццбцдддцбббю╬╫╪╪╪╫╫╫╫╫╫╫╫╬©╫╪╪╪╫╫╪╪╫╫╫╫╪╩╩╪╪╪╩╨╧╧╧╧╦╧╨╩╨╧╧╦╤╦╨╧╣╠╜╛╛╚╙╙╘╘╘╘╖╗╘╘╙╙╘╘╗╖╖╖╖╖╕╔╔╓╓ё╒╒╒╒╓ёё╒║═÷···÷÷÷·²²²°°··°⌡⌡²⌡  ⌡⌡°°⌡⌡⌡⌡⌡⌡⌡⌡²²···²²°°²²²°°°⌡⌡⌡⌡⌡⌡⌡   °÷║║═÷÷·····²°°⌡ ≥ ≥≈∙√√≈≤≤≤≤≥         ≈≈≈≈≈≈≈≈∙■■∙∙⌠▒▒⌠⌠⌠▓▓⌠⌠▒▒░░░░░░░▐░░▐▐▐▐██▄▀▀▄▄▄▀▀┼┼┼┼┴┤├┬├│zutvvttttsrrrqponnnmlmmmllkjjiiihgfedccbbaaaa`^\\\[[[ZXVUVVUTTSRQPPONMMKJIIIIFDCBA@@?A@?>>=<;<<<:87665310/.+*'%#!,,.-1//0135678:<<=?ABCBBCDEFFHIIIHIKLMMOOPQOOTYWWWY[]^^_`abbcdeefghiijjkklmnoppqssrrssruwxxwwxzxz{{zz|}~~~~~~────│││┌┌──┌└┐┌┌┐└┘┘┘┘├├┤┬┴┴┴┬┴┼┼┴┴▀▄▄▀▄▄█▄▄▄▄██▄▄▄▄▌█▄█▌▐░▐▄▌▐▐▐░░▌▐▐░▓■∙√√≈√≈≥ ≥≈≈≥≥ ⌡°²·÷══════║ё═╒╒╒╒╒═·≈■▒▓■■■⌠√√≈≈≤≥≥ ≥≥  ⌡°°°°°²²²²²²²²²°²²²·²²²²··········÷÷÷÷÷÷÷···²²²°°²²²²²²²²²²°²²²²²··÷····²·÷═╒╒╒║║ё╔╖╓╓ёё╓╔╖╗╗╗╗╗╗╗╗╗╘╘╗╖╗╙╜╟╤╥╧╩╪╫╬©©ююабббба©©юбаюююю©©©юююааабццддццдееееефггххггфффееддцццбабцдддедддцбцдцефдццбацхлкихиииййииййиихфггхгффггффггфхиийййккмллмноппрртужвввььжсолллйкйифедееееееедцдбагпжснийигхииггггфхлятпнкииййййлмопрувжусстуутстужутттрррпнлкййииихгфефффгххгфдеффеццццццццбааабцдцццдеееедцаю╬╬╬╫╪╪╫╫╪╪╫╪╪╪╪╫╫╫╪╪╪╪╪╪╩╪╪╪╩╩╩╩╪╪╩╩╨╨╨╨╧╩╪╪╩╩╨╨╧╨╪╬╬╩╤Ё╠╟╝╝╝╝╜╜╙╙╘╘╗╗╗╗╗╗╖╖╗╖╕╔╔╔╓ё╒╒╒║ёёё╒║═···········°°²·°⌡⌡°⌡   ⌡°°°°⌡⌡⌡⌡⌡°²²···²²°°°²²²°°°⌡°°°⌡⌡  ⌡°÷══÷÷÷÷÷÷÷·²²° ≥≥ ≥≈√√∙■■∙∙√√∙≈≤≤≤≤≤≤≤√√√∙∙∙∙∙≈∙■∙∙■⌠⌠▒▒░▐▐▒░▌▐▌▌▌██▌▌█▌▌█▄██▀▀┼┴┴┴┴┴┬┬┬┬┬┬┤┘└┘└─zvuvwuuutsrstrqpppponnnmmlkjjjjjihgffeedccbbca^]]]\\]\ZXXXXWVVUSSRRQPOONMLKKJHGEDCCA@@?>>>=<<<==<:88875311/-+)'%#!--/.210346889:;<=?ACDCCCDFFGHIKJIIJLNOOPPQRRT[cZZZ[]___`abccdefgghiijjjkllmoppqrssrsttsuvxwvvxyz{|{z{~─~~~~~~~~~────││┌┐┌││┌┐┐┐┐└┘├├├├┤┤┬┬┴┴┼┴┴▀▀▀▀█▄▀▀▀▄▄▄▀████▄▄█▌▌█▄█▌▐▐▐▄▌▐▐░░▐█▒▒▒⌠√≈≈≈ ≈√≤≥≤≤≥≥⌡°²··÷═║║║║═║╒ё═║╒╒ёё║·≥√⌠■√√∙■≈≈≈≤≥      ⌡⌡°°²²²²···²²²²····²²·······÷·····÷÷═÷÷══÷÷··²·²°°²·²²²²²²²°°²²°°²²·÷··÷÷··÷══║╒ёёё╓╔╔╓ёё╓╔╖╘╖╗╗╗╗╖╖╖╘╘╘╙╛╞╢╦╪╫╬╬╬╬╬©©©ю©©╬╬╫ю©юббююаю©©©©юююююааббббабццццддггхиихгфхгггффедцбцдеффеффффдбцедффецббюеилкйиихийкййййхйхфгхихфефгггхгфиххилмлкклммммнпстууутттьвжрнкйкййигфееееефффеддефикояяпйкйххиигдффдфлпямлйхххииикмопруььжтужвжтууутсррспррпмйййххгхххфдгффгггфеефффеццццццццбааюцффцбдгффеееда©╬╬©╬╪╪╫╬╬╬©╬╫╫╪╫╬╫╪╩╪╪╪╩╧╨╩╩╨╨╩╩╪╪╩╩╩╩╩╩╨╩╪╫╪╩╩╪©╬╫юцц©╪╦╥╣╣╣╣╢Ё╠╞╜╙╘╗╘╘╗╗╖╗╗╖╕╔╓ёёё╒╒ёё╒╒╒╒╒═÷···²²·····°⌡²²°⌡⌡°⌡ ≥ ⌡⌡⌡°°⌡  ⌡°°²²···²°°°°°²²²²°°°°°⌡⌡⌡  ²÷║╒║╒╒═══÷·²²°⌡ ≥≥≥≈√≈≈√√√≈≤≈√≈≈≤≤≤≤≤≤≈≈√√∙∙∙■√■▓▓▓▓▓▓▓⌠▓░░▓▒▐░░░▐▐▐▐▐▌░░▌▌▌▌▄█▄┼┼┼┼┴┴┬┬┬┬┴┬├└└┘┐}yxxxwwvtsstusrqqqqppppponmllkkkjihgfggfedccdca_``_^_][YYZYXWVUTSSSRRPPPONLKKIHGFEDCAAA@?@??><===;999975331/-+*(&$#!/,01344468889<>?@ABBCDDEEFGIJKJJKMMNNOPNQUPRVZk[]^^_ab``cddeghhhijklmmnppqqrqqqrrsttuvvxxyyxyzz{}~||~}}}~─││~──│││││┐┐└└└┐┐┌┐└┘┘┘├┤┬┴┬┬┬┬┴┴┴┴┴┴┼┼▄██▄▄▄▄██▄▄▄▄██▌▌▌▌█▄█▌▐▐▌█▌▌▐░▒▒░▐░▓⌠■√≤≥≤≈ °⌡≥≤≥  ⌡°²²·═║ё╒╒║║╒╒╒║══║╒║║╒║ ■⌠∙√≈≤≤≤≥     ⌡°²°°°·÷⌡°²··÷÷·÷·²²÷÷·²÷÷÷··÷═÷²²··÷÷÷÷÷÷═══··═²·÷÷···÷°°²··÷÷÷°²·÷÷÷·²═÷÷÷══÷÷║║║ёёё╔╖╔╔╔╔╕╖╗╘╗╗╗╗╖╖╗╗╘╚╞╡╢╥╨╪╪╫©юю©╬╬╫╬©©╬╫╫╫╫╫©аа╬╬©ю©╬╬©ю©╬ююю©юцццббббццддхгфгхиихгфффффффдеееддфггффееедддддддцбахйллкииийиикйиикххххиигффггххггфгххххкллкклмнооосттстжввутрпонкгхххгффедддцццегххггймпонхккхгихехгффгимяпкхййхгхмллнрттсууутттужуужутссроонлллкйиййхггфдхгфффгффеффецццдедбацдцбацеедцдеифддееб©©╬╫╫╬╬╬╬©©╬©©©╬╫╪╫╬©╬╫╪╪╩╪╪╩╨╧╧╧╬╪╧╦╦╧╨╨©©ю©╬╫╫╬©╬╬©аццц╫╪╧╥╦╨╦╢╥╤╢ЁЁ╠╞╝╚╙╙╘╗╖╕╕╓╕╕╔ё╒║╒ёёёёё╒═·÷÷÷══·°²²°°²²²⌡ ⌡ ≥≥≤≥≥≥      ⌡⌡°°°°°°⌡⌡÷·°°²²°°²²²²°°⌡⌡≤·╒║═║╒║²ёё═÷·²²⌡² ≈ °≤∙≈≈■≈≥≈≤√≥▓≈√≈²≤≤≤≥≤∙∙≈∙▓∙∙∙⌠▓▒▒▓▒▒░░░▒▒▓▐▒▒▐▌▐▌▄▐▌▐░░▌█▌▄▀▀▀▀▀▀▄┼┼┴┬┬┤┤├┘├└─|zzywxxwuuuvusrrrqpqqponopnlllkjjiiihhgfeeeedcb`_^_`^][[\\[[XWVUTSSRPPPONMLMLJHGGGEDA@@@AA?=>==<<;9897667530..,*('$!2.12344579:;<>@AABBCDEGFFGHJKLKLMNNNNOPTUXTTUT_^_`abcdcbdfffhiijjkmnnooppqrrrrrssttuvvvxyyyyyz{{~~|}─~─│────││││││┐┐┐└└┐┐┌└┘├├├├┤┬┬┤┤┤┬┴┴┬┼┼┼▀▀▄▄█▌▌▌▌▐▐▌▌█▌▌▌▌███▌▌█▌▐░▐▐▐▐▐░▒▒░▐▒⌠■∙√≤≥≥≈≤≥≥≤≤ ⌡⌡⌡°²÷═║║╒╒╒╒║║╒ё÷÷║╓╔╓╓╓╔·≤√≈≤≤≥≤≥≥  ⌡⌡ °°²²°²·÷°²²·÷÷÷÷÷·²·÷═÷··÷÷²²·····÷÷÷÷÷÷═══║═÷÷║÷═══÷···²²··÷÷÷÷···÷÷÷÷÷║═══║║║═║║║ёёё╔╖╔╓╓╔╖╗╗╗╖╗╗╗╗╙╛╜╠Ё╤╦╨╩╪╫╬╬╬╬╬╫╫╪╫╬╬╬╬╫╬╬╫╫©юю╬╫©╫╬╬╬╬╬╬©ююю©юаю╬ююююаабцгфефггггххххггггффгггггхфеееддееддцдддбафилмкиийлиийккййййййккйхеефффггггххгхйккккклнооорссрсужжжуспнмлйхххггггфбцддддегфефилнмкгийххйиггффггхкннйиклййкллкморссттутттуутттттсррннмлллкииййиххгфгфеефгффдеффдцццецццеееццддееефгхгедедбю©╬╫╪╫╫╬╫╫╫╫╬©©©╬╪╪╫╫╫╫╫╬╨╩╩╩╨╨╨╩╪╩╨╧╨╩╪╪©юааюююаю©©©юааа©©╪╨╨╩╨╧╦╦╥╥╥╤╢Ё╡╟╝╜╛╚╗╕╔╔╓╓╓ёё╒║║║║╒╒║═÷÷÷═÷·²·²°°²²°⌡ ⌡⌡ ≥≥≥≥         °°°²²°°°·²°°²²²°²²²²°°⌡⌡ ÷╒║║╒╒═ё╒·°··²·⌡·÷²°≥≤⌡∙≥≈≤√▒∙≥≤√≈∙∙≤√≈▓■√≈≈√■⌠∙∙■⌠▓▒▓▓▒▒▒▒▒▒▒▒▐░░▐▌▐▌▄▐▌▌▐▐▌████▄▄▀▀▀▀┴┴┴┴┬┬┬┬┤┤┘─|zyywxxwvuuuusrssrrsrrqppqpnmmlkkkkkjiihgfffeedba``a`_]\\]\\ZYXWWVTTSSSQONMMMKIHHHGEDCAABB@??>>==<:9:988874200/,*)&#" 303345678:<>@AACCCCDEGIHHIKLMMMNOOOOOPQQRVVY[Z````bcddedfhhhijjlmnoppqqppqrstttuuuvvwwwyyzzzz{|}~~~││┌│─│┌┌││┌┌┌┌┌┌┐┐└┘┘└└┐┘├├├├├┤┤┬┬┤┬┴┴┴┴▀▀▀▄▄▄▄▄▌▌▌▌▐▐▌▌▌▌▌▌▌▌██░▐▌▌▐░░▒░░░▒▒▒▒░▒■∙∙√≈≥≥≤≤≤≤≥⌡°²°⌡°·║╒╒║╒ёё╒║║ё╓══╒╔╖╕╕╖╗╒⌡≤≈≈≤≤≥≥  ⌡⌡⌡⌡°²²²²··÷····÷÷═══÷·÷═║═÷·÷÷·²··²÷÷÷═════║══║═÷═║══║══÷÷÷···÷÷÷··÷÷÷·÷÷═║║║║║╒╒╒║║║║ёёё╓╕╕╔╓╔╗╘╗╖╖╗╘╙╛╝╠╢╤╦╩╫╫╫╫╫©╬╪╩╩╩╩╩╫╫╫╫╫╬╬©╬╬╬©╬╫╫╬╩╫©©╬╬╬©абббббю╬аююююабцееддефффхххххххххххиииххеедццдеедцбцеецадхклйийклихиккйийййкккййгфедефхигххххйлккййлнппоррряртууввтоллллххггггггацееддефддфиллйхдфхххгхххггхххйлмкйлмклнллклмоясттууутужтсррссрплммлллкхиййихихгффееффффдеффедццццдефгфдеддефхххгфеддцба©╬╪╩╪╫╫╫╫╫╫╬╬©©╬аюю╬╫╪╪╫╪╪╪╩╩╩╪╫╫╫╪╫╬ююююацццбббюю©©©©©╬а©╫╪╩╧╧╨╧╧╨╩╩╩╨╧╧╤Ё╡╡╟╜╘╖╕╓╓╔╔ё╒║║═║║╒╒╒═÷÷═÷·²·²°°°°°⌡   ≥≥≤≥≥≥        °°°²²²²²²°°°°²²²°°²²°°°⌡⌡÷║║║╒║÷║═°²÷°≥ ⌡≥≤⌡· ∙≈≥≤▒∙ √∙⌠▒■⌠∙≥√√∙≥≈≈≤≈∙∙≈■■■⌠▓▓▓⌠░▒▒▒▒▒░▐░▌█▌▐▌██▌██▐▌█▄▄██▄▀▀▀┼┼┴┴┴┴┴┴┴┴┬┬┘─|zzzyyyxwvvvvtttutttstsrqrqponnmmlllkkkkjihgggfecbaaba_^]^^^[[ZZYXVUUUUSQPOOONLKKJIGGECBCCBA@???>><;;:99:975331/-+)&$" 30446899:<>ABBBCDDEEFHIJJKLNNNNPPPOOPRSVWXY[]^ababdedegfhijjjkknoopqrrrqrrstuuvvvwwwwxxzz{{{{|}~─┌┌│┌┌│──│┌┐┌┌┌┌┌┌┌┌└└┘├├├┘┘┤┤┬┤┤┤┤┬┴┴┬┴┼▀▀▀▀▀▄███████▌▌▌▌▌▌██▌▌▐▐▐▐░░▐▐░░▒▒░░░░▒▒▒▒▓■√∙∙≈≤≤≥≥≤≥⌡²·²°²·═╒ёёё╓ёёёёё╓╓ёёё╓╔╕╗╙╘╔· ≤≈≤≤   ⌡⌡⌡°°²²···÷÷÷÷÷··÷÷═║═÷·÷════÷══÷÷══÷÷═══║═══╒║║║═÷═╒÷═══════··÷÷÷÷÷·══÷÷÷══║╒║║╒╒ёё╒║║╒ё╓ё╓╕╕╕╕╖╗╘╗╖╗╙╛╝╠╢╥╧╧╨╪╬╬╬╫╪╫╩╧╦╦╨╩╪╫╫╫╫╫╬©©╬╬©©╬╫╫╬╫╬ююю©©©юббцддцацббббцддддддддедффггхххххххиййхффедцццдедцбцефдбцгклйхикйиххииихййййккккйигеегийхииииклллкйлояпорряярстуьжсомлллггфеееффбдффдцдфеегймлифдегихгхйихгххийлнлклкйкнйккллнясжжжуттужусррррпнклллллкхийиххххгггффффффдееееддцдддефффеееефгхххффедцббб©╬╪╩╪╫╫╫©©©©©©©©ддцбю╬╬╬©©╬╫╪╪╫╬©©©юбцццббцццаю©ю©╬╬╬╬╫╪а╬╫╫╩╥╣╤╥╦╧╩╪╪╩╨╨╦╤╤╤╣╡╞╛╙╗╕╔╓ё╒╒╒║╒ёёё╒╒║══÷²²·²²°°°⌡   ≥≥≤≤≤≤≤    ≥≥≥≥⌡⌡°²²²²²²²°°°²²²°°°°°°°°⌡·══║║═·°··²·° ⌡≈ ⌡°⌡√∙≤■≥∙∙■▒▓▓▓∙█▓√▓⌠░⌠▓▒▒▓⌠⌠■⌠⌠⌠⌠▓▓▓⌠▒▒▒▒░░▐▐░▄▀▌▐▌███▄█▌█▄▀▄▀▀▀┼┼▀▀▀┬┬┴┴┴┴┴┴├┤┘─}|||||{{zyxxwvuvvvuutuusrssrpoonnmmmlmmmljihiihgfdcbdca_^^^_\\[[[ZWVUUUTSRRRPONMLLJIHGEDDDCB@@????=<;;;;;:876641/.+)%$" 415579;;<>@BCCBCDFGGGHHLLLMNOOOPPQQQSTVVXZ\\^abddefgghighjkkkkloppqrssstttttuvwwwxxxxxxz{||||}~───│┐┐┌┌┌┌┌│││┌┐┐┐┐┐┐┐┐└└┘├├├├├┬┬┴┬┬┤┬┬┼┼┴┼▀▀▄▀▀▀▄█▌▌▌▌▌▌▐▐▐▐▐▐▌▌▌▐▐░░░▐▐░▒▒▒░░░░░░▒▒▒▓⌠∙≈√√≈≥≥≥≤≤ °²°⌡°·║ё╒ё╓╔╕╓╒ё╔╕╔╓╓ёё╓╔╕╘╛╙╖║°≥≥≥   ⌡⌡⌡°°°····÷÷÷÷÷÷÷·÷÷══÷÷··÷÷÷÷·÷═÷═║║║═══║║║══╒║║║═÷═╒═══║║║║═··÷÷══÷÷÷═══════╒║║╒╒ёё╒║║╒╓╓╓╔╕╔╕╖╗╖╖╗╘╚╝╠╢╥╧╨╩╪╫╫╬╬╫╪╩╨╦╥╤╦╩╪╫╬╫╫╫╫╬╬╬╬©©©╬╬╬╬©©©юаа©╬©юююаццацццццддецдддддддцдефгххихххийихфффдцццццдцбцефецдхллйиикиййихххийкккклллмлигффхииййиикллмкклопяпрряррстуыуяпонлйххгфеддддефдаюцеефхкмлхеефхккккмигффгикмнлйихиймгхкллнпрьвутсстжжтсрсромкллллмкийййххххфхххггфффедддддееффефффффдфггфефгееедцбаа©╬╫╪╪╫╬╬юююююаааабдддцццбааю©©юаюююабцббдддцбю╬╪╬╬╫╫╫╫╫╪а╬╪╬╬╨╤╢Ё╢╤╦╦╦╦╦╧╧╧╧╦╥╤╣╠╟╞╚╗╔ёё╒╒╒╒ё╓╓ё╓╒║║÷·²·²²²°°⌡    ≥≥≥≥≥≥    ≥≥≥≥ ⌡⌡°°²²²··²²°°°²°°°°°°°°⌡²÷║║║║÷°═· °²°°≥⌡≥≈ ⌡≥≤√≥≥·ёё÷▒▓■▌▓⌠░≈≈⌠■■⌠■√⌠▐▓⌠⌠▓▓▓▓⌠▓▒░▐▌▐▐▐▐▄┼█▐▌███▄▄██▀▀▀┼┼┼┴┴┼┼┼┬┬┴┴┬┬┤┤├┤┘│}|||}}}|{zyyxxwwwwvutvvtsssrqpppoonnmmnnmljijjjihfededb`____]]]]][YWVVVUTSSSQQPONMKKIHHGFEDCAA@@@?>=<;<<<;98875310.+)'%#" 
+63778:<>?@ABCCCCEGHHHIINMMMNOPPQQRSTUWYUX[_^_ecefffgijiiikmmlmnpqqssttuvuuuuvwxxxxyyyyy{|}}}}~│──│┌└┐┌│┌┐┐┌│││┐┐┐┐┐┐└└┐└┘├├├├├┴┴┴┴┬┬┬┴┼┼┴┼┼▀▀▀▀▀▄█▌▐▐▐▌▌▌▐▐▐▌▌▐░░░░▐▐▐▌▐░▒▒▒▒▒░▒▒▒▒▒▓⌠√≈≈≈≤      °··²°·║ё╓╒╒╓╕╕╔ёё╔╖╕╔║╒╓╕╖╗╙╜╘╖ё²≥≥ ⌡⌡⌡⌡°°²²²···÷÷══÷══÷÷÷════÷···÷÷÷·÷═÷═║║║═║║║║║║║║║║╒║══║╒╒║║║║═÷÷÷════════║║║║══╒║║║╒ё╒╒╒╒ё╔╔╓╔╖╓╕╗╗╗╗╚╜╟Ё╤╧╩╪╪╪╬╫╪╪╩╨╧╦╥╤╤╥╨╪╬╬╫╫╫╫╫╬╬╬╬юю©©©©╬ю©©©аа©╫ааю╬©ааабббццццццдееддддцдефгхххххххиихггфеддцццдццддеедеилмлкйкиклйххийййййййклмлйиггггхиихикккллллноппрррссстуьтппяолийихгфеддддца©©бдеегиккгдбдгикмммхедефхйлкйхггийлегиклмопвжусррсужуттсянллмллллкиклкихиигххххгфффедццдфггиххгггггдфгфдццееееецбаю©╬╫╫╬╬╬╬╬©©юабцдацдеедддбцццццефддцддддцфедцб©╫╩╫╫╪╫╬╬╫╫╬╪╩╫©╫╧╤╡Ё╢╣╣╢╢╢╦╦╧╨╧╧╦╦╣╣╢╠╛╗╖╕╒╒║╒ё╓╓╓╔ё╒╒║·²·²··²°⌡⌡⌡⌡⌡⌡               ⌡⌡°°°°···²°°°°⌡°°°²²°°⌡·═╒╒╒║║══²°÷·≥∙≈²°≥ ⌡≥≤⌡≈╓асуд╒▐▐▒∙▒▌⌠⌠⌠⌠▓▒▓■■▓▓▓▓▓▒▒▓⌠⌠▒░▐▌▐▐░▐█▄█▌▌▌▌█▄█▌▌▄▀▄▀▀┼┼┴┴┴┴┴┴┴┴┬┬┤├┤┬├┌~}||}}|||{zxzzyxxxwuvvvttutsrrrqqpponnoonmkklkkjihgefedba```_____^\ZXXXWUTSSSRRQPNMLJJJJIGFECBAAA@?>=====<:99974320.,*(&$#!  7599;=??ABCCDEFEFHIIJJKONMMNPQQRSUVWXYZ]`_c``hcehhffjkijkmoonnpqrstuvvvwvvuvwxyyyyzzz{{|}}}~~─┌──│┐└┐┌┌┐└┐┌┌│┌┌┌┌┐┐└┘┘└└┘├┤┤┤┤┴┼┼┼┴┴┴┴▀┼┼┼▀▄▄▀▄▄▄██▌▐▐▌▌▌▐▐▐▌▌░░░░░░▐▐▌▐░▒▒▒▓⌠▒▒▒▒▒▓■∙≈≈√√≤⌡⌡≥⌡⌡°²·÷═══╒╓╓ёё╓╕╔╔╓╓╓╔╕╖╒ё╔╖╗╘╚╞╘╗╓²≥≤ ⌡²°°²²··÷···÷═══÷════════║══÷÷÷÷═÷═║══║║═║╒╒╒╒╒║║║║╒ё╒══║ё╒╒╒╒╒║═║╒╒╒╒║║║╒║║║║║║║╒╒║╒╒ё╒╒ёё╓╔╕╔╔╖╕╖╘╙╚╝╠Ё╢╤╧╪╪╫╫╫╬╪╧╥╥╥╤╤╥╤╥╧╪╬╫╫╪╪╪╫╬©╬╬╫©аю©ю©╬©©©©юю©©бба©юббаабццццббцдееддддцдефггггфггхггххффффедццбцддццддегйллкйййккихиййииихххйклллкйихххииххйккллллммопрярттсстьтяяяолкйййихфеддцбююацефефхйигдадефилкхгедефгиййхггхйййххиклнпяууутсстууужусянлммлкклкикккиииихфгххгффгеддефххххиииихггеедцаабдееффеца©╬╫╫╬╬©©╬╬©юаацдфдеффедддцдееефггхгггггфеедцбаю╬╫╪╪╪╫╬╬╬╫╩╩╩╩╫╫╩╧╣╣╣╢Ё╡╡Ё╣╣╤╥╧╧╦╥╤╤╤╢╡╞╜╛╖╔╒║║ё╓╔╓ёёё╒═·÷···²°⌡⌡⌡⌡⌡⌡⌡              ⌡⌡⌡°°°°²²°⌡⌡°°⌡⌡°°²²²²⌡·║╒║═══║÷·═║²·╓╘╨е╫╚⌡≤·√≈╦ДНЙДл·▐▒■▓≤°≥°≥ °≥⌠▒■▓▓▓▓▒▒▓▓▓▓▒░░░░▒▌▐▐▌▌▐▐▐▐▌▌▐▐███▄▄▀▀┼┼┼┼┴┼┼┼┴┴┬┤┤┬┤└─~}|}}||||zyz{zyyzywxwvuvwusttttsrrqopppoonmnmlkkjigfgfecbaaaa```_^\ZZZYWVVVUTTSRPOOMLLKJIIHEECCCBA@>???>=<;::865420.-*(&$"! 76:;=@C@BDDDDGIGHIIJKLMQOMMNPQRTUWXXYZ[__^cchupfkkghmnjllnqqppqrstuvwxxwvvvvxyzzzz{{{|||}~~~─│┌│─│┐┐┐┌┐└└┐┌│┌┐┌┌┌┐┐└┘┘┘├┤┬┬┬┬┬┴┼┼┼┴┴┴┼▄▄▀▀▄▄▄▄█████▌▌▐░░░▒▒▒░░▐▐░░▒▒▒▒▐░░░░▒⌠■▒▓▓▓▓⌠∙√√√∙∙≤  ≤ ⌡⌡°²·═║ёёёёё╓╓╔ё╔╕╔ёё╔╗╖╕╕╕╕╗╛╟╚╙╖÷  °²²²²²··÷═···÷═══÷═║║╒║║══╒╒║═÷÷══║╒╒╒║╒╒═╒╒╒ёё╒╒╒║║ё╓ё║║║╒╒║╒ёёё╒ёёёёё╒║║ёё║║║║╒ёё╒╒╒╒ё╒╒ёё╓╕╕╔╕╖╘╘╘╛╞Ё╤╦╥╧╩╪╪╫╫╬╫╨╥╤╤╥╦╦╥╥╦╩╫╬╫╩╩╩╩╫©©©╬╪©аю©ю©╬╬©юю©©абааюююббабцдеедцбцдееддддцдеефеедефгфффгхеффффеддбцдцббцдцехйккихйкйххиихйййииийлклмнмлкйийиииклкклмлллнпяяруусрсьуррянммиийихгеддцбаацеффеегиигедфффхлйдгеефхххиихххйкигккйкмояртужжжууусужжтянлммлкклкииййххиииефгггфггедефхииифгийихгффда©©абцфффгфда╬╫╫╫╬©©©╬©юаббцдфддееефгхефггфффгххггггффдцаааю©╬╫╪╪╫╬╬╬╫╪╫╫╩╩╫╫╩╥╦╥╣Ё╡╡Ё╡╠╠╢╦╨╦╤╤╤╣╤╤╣╡╟╜╘╔║═║ё╓ёёё╓ё║÷÷·÷÷²°⌡⌡°    ≥≥≥≥      ⌡⌡  ⌡⌡°°°⌡⌡°°°⌡⌡°²⌡⌡°°²²²² ²║╒═··÷╒·°÷··╝гЮЕГДу╧═∙²■╢БХГНА╡⌠▌■║╪ййкгий╩║▓▓▓▓▓▓▒▒▓▓▓▓▓▓▒▒▒▒▐▒▒▌▌░▒░░▐▐░░▌▌▌▄▄▄▀▀▄▄▄┼┼┼▀▀┼┴┴├┬┬┘│─~~}}}}}{zz{{zz{{xyxwvwxwtvvvuutsspqqqppooonllkkjighhgecbbba```_^][[[ZYYYYVVVUSRQPOOMLKKKKGFEDDCBA@@AA?>=<;;9766421/-*(&$##!"<9<?ABDABCDEFHIJMMKKNOMNOPPQRSTVWWY[]^_b`dfdjqoijkkllnoqqrtuuvvvutuvwxxxwvwxz{{{{{{{{{{~~───┌┌┌┌┌┐┐┐├┘└└└└┐┌┐└└└┐┐└├┤├├┤┴┼┼┼┴┴┼▀▀▄▄▀▌█▀▄█▌██▄▌▐▐██▌░▒░░▐░░▒▓░░▒▓⌠■▓▒▐░▒▓▒▒▓■⌠■⌠⌠⌠■∙∙≈√∙∙√≤≤≤ ≥ ⌡·═║║╓╓ёё╓╔╔╓╕╓ё╔╕╕╕╕╖╔ё╔╖╗╙╛╗╘╘╓·  ⌡°²··²·÷══÷÷════╒═╒ё║║╒╒║║╒╒╒ё╒╒╒ёёёёё╒╒╒╓╓ёёёёёё╓ёёёёёёё╔╔╓ё╒╒╒╒╒ё╓╓ё╒╒ё╒╒ёёё╒║═║║╒╒╒╒╒╒╓╔╔╔╕╕╗╘╘╛╠╢╤╦╨╪╨╪╫╪╩╩╨╦╤╤╢Ё╣╤╤╦╦╥╧╪╫╪╪╫╪╫╬╬╬╬©ю©аю╫╫юа©╬аа╬©бю╪©абаю©юбаббццддецдефеццефффеедддфеддеффеффффеееебддбааццфццгклккйиххийййххиийкллйклммлкйкйииййкмоолмоммоярррсууржтряяяполихифеецееедццдееддеггедфггедфхгффффееффгфгйкиггйклммоясужужвыьжтжжтяпнлмлйкллкйхиййхгггефгххггфефгххиииггггххфееа©ацдцдффгххеа╬╬╬╬╬╬╬юбабццбццддефгггхигфгххггхфгфеефеццбюююю╫╩╩╨╨╪╪╩╩╫╨╩╪╩╩╪╩╨╪╦╣╣╢╡╠╠╡╠╠╡╢╢Ё╡╢╣╥╧╦╣╢╣╡╟╛╗╔╓╓╓╒╒ёё╒╒║║═÷²°°°°°²²°⌡⌡⌡°°  ⌡°⌡   ⌡⌡°²²²°°⌡°²°⌡⌡°²²°°⌡⌡⌡°°²·═║║║═÷═··╓°╙сГКЙЛЛГА╦²≥≈ёяКХИИц▌▒▐╫ЦГФДЕЕЦэ╞▐░▒▒▒▒▒▒▓▓▓▓▓▓▓▓▒▒▌░░▐▐░░▐▐▐▐░▒░▐▌██▄▄▄▀▀▀┼┼┼▀▀┴┴┼┴┴┤┐──~─}|}~}{{|{{{zzyyyyxxxxwvywvuuutssqprsqooomlmmlkkjihhhfc`cbaa``_^_^^]\[ZYXXWVUTRRPPPONLJIJIHGGEC@AAAA@??>><:9876531//-)&%&%#!
+"=;>@ABCBCDEFGIJJLLKKNOMNOPQRTVWXYZ[]_``baefdhljllklmqtwyyz{||||zyxxxxxwyxxyz{|{||{{{|}~~~─│┌┌┌┌┐┐┐┐┐┐┘┘└└└└└┐┐└└└└└┘├┬┬┬┬┴┴┴┴┴┼┼▀▀▄▄▄▄▄▄▄▄▀▀▀█▌▐▐▌█▐░▐▐▐▐▐░░▒░░▒▓⌠⌠▓▓░▒▒▓▓▓⌠⌠⌠⌠⌠▓⌠■∙∙√√√≈≤≥≤≤  ⌡²═╒ёё╔╔╔╔╔╔╔╔╕╓ё╓╔╔╔╔╕╕╔╕╖╘╙╙╖╘╘╔═°°²°°°²²···║══║║═║╒═╒ё╒║╒╒╒╒╒╒ёёёё╒╓╓ёёёё╒╒╓╓ёё╒╒╒╒ёёё╒╒╒ёё╓╓╓╓ёёёё╒ё╓╓╓ё╓╓╒╒ёёё╒╒║╒╒╒╒╒╒ёёё╓╕╖╖╖╗╘╝╠╣╥╦╧╨╩╩╪╪╨╧╧╦╤Ё╣╢╡╢╢╣╧╨╨╩╫╫╪╪╬©©ю©©╬©©©аю╫╫юа©©юю©©аю╫юабаю©юабббццдддддефеццдееееедццееддеффффгггфффгеедбцдддддехийклкйххийййииййккккллммммллмкйййийкнонннммяттсрсттржтсррряолххигеецдеееддддцццеггфдеффццефгфггфдцдегффгхгггииийкмоотжьыыззьжьвурпнлмкйкллкиииййиххифггххггфдгййхгикхгфеедцабююбддддффхихфб©╫╬©©©©юабббааацддефгггхиффгххгффееедддцабаююаю╬╪╫╪╪╫╫╩╩╪╧╩╩╨╨╩╩╨╩╨╧╦╣╡╠╠╡╡╠╠╡ЁЁЁ╢╣╤╥╥╣╣╤╣╢Ё╟╛╗╓╒ёёёёё╒║║║÷·²°°°⌡·²°⌡⌡⌡⌡⌡ ⌡⌡⌡⌡    ⌡°°°°°°⌡°°°⌡⌡⌡⌡°°°°°°°°²·║╒╒║══║║²°╕гГЛКЛКГИЛт╗⌡■≤╟лАПХл≤▄▌╫ФИЙХИХФъ╠▒▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▒▒▐░▒░░░░▐░░▐░░░▌██████▄▄▄▀┼▀▄▀┼┼┼┼┼┬┘│─~│}~~||||||||{{{zyyyyyxyxwvvuuttqqrsrppommmnlllkjiiihfcdcbbaa`____^]\[ZZYXWVUTSSSSRPOMLKJIHHGECBBBBAA@@?=<:98764200/,))('%#!#?=@BBBCCDFGHIJJJLMLMOPOOPQSTVXYZ[]_`abccdghfikipooqswz|}}~~~}|{zxwyyz{|}}|||{{{}───│┌┐┐┌┐└└└└┐┐┘└└└┘┘┘└└┘├├├├┤┤┬┴┴┴┴┴┼┼┼┼▀▀▄▄▄▄▀█▐▌█▄▄██▌▐▐▌▌▐░▐▐▐▐▐░░░▒▒▒▒▓⌠⌠▓▒▒▒▓⌠⌠⌠⌠▓▓▓⌠⌠■∙√√≈≤≥  ≤≈⌡°²═╒╔╕╖╕╕╕╕╔╓╓╔╕╓╓╔╔╓╓╓╕╗╗╕╖╙╙╖╖╗╘╖ё÷·÷·²°²═║═÷║║║╒╒║║╒║╒ё╒╒ёёё╒ёёёёёёё╓╓╓╓ёёёё╓╓ёё╒╒╒╒ёёё╒╒╒ёё╒ё╓╔╔╔╓╓ё╓╔╔╔╔╔╕ёёё╓╓ёё╒╓ё╒║╒╒ё╓╓╔╕╖╗╙╛╝╣╥╨╩╪╩╩╪╪╩╧╥╥╥╤╢╡╢╢Ё╢╢╤╩╨╨╩╪╪╩╪╫юююю╬╬╬╬©юю╬╬юю©©©©ююю©╬юаааюююабббццццдееефецбццддеддцбддееееффффггффггфецбцфедцдфхххйнлйиххийкййкклкккнмлкклмнмлккйийкмооннлмррсррсжжжвутттсрпйгхйхффццдфффеддбабдфгфдеедбабдегххгдццдхфеефффгйихилнонсвшэшшшшьыьурпнлмлккллйийййиииийхххххгггфхккихийгфедцбю©аюацддддфгикйхдб╫╬©©©©©©ббаю©юбццдефггххфффггедедддббца©юю©ююю©╫╬╫╫╬╫╪╩╪╨╨╨╨╨╩╩╩╨╩╪╩╦Ё╠╡╡╡╠╟╟╠╡╢╢╢╢╤╤╣╣╥╢╣╣╣╡╝╘╕╓ё╒╒ёё╒║╒═÷²²²°⌡²²°⌡⌡⌡⌡⌡⌡°°⌡  ⌡⌡⌡⌡°°°°⌡⌡²°°°°°⌡⌡°°°°°°°°°÷╒ё╒║║╒═║÷²╥ъНХКИГЕКМКд²⌠≈∙ёеКГэ╞▄▌╪ФИЙКККИА╡▓⌠▒▒▒▒▒░░░▒▒▓▓▓▓▒░░▒▒░░▒░▐▒▒▒▒▒░▐▌▌▌▌▌▌██▄█▄▄█▄▀┼▀▀▀┼├┐│─~┌──~}}|||||||||{zz{{zzzyxwvvuuusrrsrrqponoonmnlkjiiigfedccccba``a`^\\\\[YXWVVUTTSRQPNMLKJJJJHFDDDDCBBA?>==<;9853222/--*)(&#"! %A?ABCBCDFHIJJJKKMNNOQRQQSTUVWYZ\^`bcddeegijkmpostvy{|{z|}}~~~~~┐┌││─~|z{{{|}}~~}}|}}│┌│││┌┌┌┌┌└└└└└└└└┘└└└┘┘┘└┘┘├┤┤┬┬┬┤┬┴┴┴┴▀▄▀▀▀▄▄▄▄▄█▌▐▐▌▌▌▐▌▌▐▐▐▐░▒▐░░▒▒▒▒▒▓▒▒▒▓▓⌠⌠▓▓▒▓⌠■■⌠▓▓▓⌠■■∙≈≤≤≤ ⌡ ≥≤°·═╒╓╕╖╗╕╔╓╔╔╔╔╓╕╓╓╔╔╓╓╔╕╗╗╕╖╙╙╖╖╗╘╗╓═·÷···÷║╒╒║╒║║ёё║║║║╒ёёёёёёёё╓╓╓╓╓╔╔╔╔╓╓╓╓╓╓ёё╒╒╒╒╒╓╓ёёёёёё╓╓╔╔╔╔╔╔╓╔╔╔╔╕╕╕╓╓╔╔╓╓ёё╓ё╒╒╒ё╓╓╕╕╖╗╚╞Ё╤╧╨╫╬╫╫╪╪╩╧╤╢╢╣╢╡Ё╣╢╢╤╥╧╫╨╩╪╪╩╩╪╬©©©╬╬╫╫╫╬юю╬╬юю©ю╬©аа©©юююааююабббццццццеддеецббббддддббцдееееефефффееефеецбцеедцдфгггймлйиггхийийклмлллмлкккклмлкккккклмнммнммяссрстжвьвжжжжурпйгхйхгфдцдефффеебаабдеедееца©юбцггггфеддхгффффгхйййклнпяуыэээщээььвуронмннмммлкйййииххийииххххххкихйммиффедцбааюабццццдефгиййхец╬╬╬╬╬©©©аааюююбцццдеффгггфефеддедедцбца©ю©©ююю╬╫╫╫╫╬╬╫╫╪╩╩╩╩╩╩╪╪╧╨╪╫╨╣╡╡╠╠╠╟╞╞╠ЁЁ╡Ё╣╣╢╢╣╣╣╣╣╢╡╟╞╖╔ё╒╒ё╒╒╒═÷··²²°°°⌡⌡°°²²°°°⌡  ⌡°⌡°°°°°°⌡÷²²²²²°⌡⌡⌡°°²°°°°÷╒ё╒═║╒║÷║╒дЕЙФълфтЕИЛЮ╛■ ▒▒╘щЙХф▐▌╦ГЙИКККИА╡▒⌠▒▒▒▒▒░▐▐░▒▒▓▓▒░░▒▓▒░░▒░▐⌠▓▓▓▓▒▒░▌▌▐▐▐▌███▄▄██▀▀▀▀▄▀┤└┌│┌─~}}|||||||||{{{{{{zzzyxwwvvvutsttssrppqqpoomlkjjihgggeedcbaabba_^^^]\[YXWWXTTTSQPONNMLLLKIGFFFEEDCC@@??>=;97544410/-,*(&%##  
+&B@AACDEEGIJJKKKLMNOPRSSSUVXYZ[\^`bdeefgfjklortuvwz}~}{z}}~─│││┘┘┘├├┘┐│──~~~~─│││┌┌┌┌┌┌┌┌┘└└┐┐└└┘┘└└└┘┘┘└┘┘┘├┤┬┬┬┤┬┴┴┴┴▀▄▄▄▄▄▄▄▄█▌█▄▄█▐▐▐▌▐▐░░░▒▒░▒▒▓▓▓▓▓▓▓▓▒▓▓⌠■⌠▓▒▓⌠■■⌠⌠▓⌠∙√√≈≤ ≥≥≥ ⌡⌡⌡·═╒╓╓╔╕╖╖╔ё╔╖╗╕╓╔╓╔╕╕╔╕╖╕╗╖╔╕╙╚╘╗╖╗╗╔═··²·÷÷÷═║╒╒║╒ёё╒║╒║╒ёёёёё╓ё╓╔╔╓╓╔╕╕╕╔╔╓╓╔╔ёёёёё╓╓╓╔╔╔╓╓╓╓╔╕╕╔╔╔╔╔╕╕╕╔╔╕╕╕╕╕╕╕╔╔╓ёёёёё╓╓╓╓╓╓╕╘╛╟╢╦╨╩╪╫╫╪╩╨╨╦╤Ё╡Ё╢╢╡╢╣╢╣╨╩╩╫╩╪╫╫╫╫©ю╪╪╫╫╫╬╬╬╬©©©©юю©ю╬©бб©©аююаааабцццццццццдцдеецббабцддцбббдееедефеефедддддеедцдеедцдефгиккйхгффгххиклммммллллллллмллммллмммклоонпвжутстужьвжжжуспйгхйхгфдедддееффецаабцццедбю©©абгфффгхфеггггггххгийккмпсьзшшэщэшььвжсяппппоннмллмлйихииийиххиййймйийллиеддцбаааацддцббдедфгхгфдб©╬╫╫╫╬©ююабббббцббцдеееегедддцдфдддббца©юююю©©╫╪╪╫╬╬╬╬╫╪╩╩╩╩╩╩╪╪╧╧╨╪╪╦╢Ё╟╠╠╠╟╞╟╠╡╡Ё╢╢╡╠╠╤╤╤╤╤╣╢╢╜╙╖╓╒╒║║║═÷÷÷÷··°°°°°²²·²²°⌡⌡⌡°²°²²²²²°°÷·²²··²°⌡⌡°°²°°°⌡÷╒ё║═║╒ё÷═║иХЙЕ╬╕⌡╝оИХЙк⌡⌠∙∙²рЛЙу■▌╢ХМЙЙЙИХА╠░▓▓▓▓▓▒▒░░░░▒▓▓▒▒░▒▓▓░░▒░▐▓▓▓▓▒▒▒▓▐▐▐▐▐▌▌█▌██▌█▄▀▄┼▀┼┤┘┐┌│┌│──~}~~~}}}||||||{{{zyxxwwwwvuuuuusqqrrqppponmlkjjjigfedbabccba___^]\ZYYYYWWVUTSRQQONMMLJHHHGGFEDDAAA@@><:97665311/.,*)'&%""&DBABDEFGHJJKKLLLMNPQRSSUVXZ\]_``beffghiimnnrtuxxy{}}}~~─│┌┐└┘├├┬┴┴┼▀▀┼┴┴┬├└┌││┌───────│┌┌┐┐└└└┘└└┐┐┐└└└└└└┘├├┘┤┤┤┬┴┼┼┼┼┼┼┼┼┼┼▀████▄███▐▌▄▄▌░▒░▐▐░░░▒▒▓▒▒▒▒▓▓▓▓⌠⌠⌠▓▓▓⌠■⌠▓▓▓⌠■■■⌠▓⌠√≈≈≤ ⌡ ≤≤ ⌡°²÷╒╓╔╔╓╔╕╗╕╔╕╘╙╗╔╔╔╕╖╖╕╖╗╖╗╖╔╖╙╚╙╘╖╖╖╔═···÷║║══╒ё╒║╒ёё╒╒ё╒╒ё╓╓ёё╓╓╔╔╔╔╔╕╖╖╕╔╔╔╔╔╔╓╓╓╓╓╔╕╕╕╕╕╔╔╔╕╕╗╖╕╕╔╔╕╕╖╕╕╕╕╕╕╔╖╕╕╕╔╓╓ёёё╓╔╕╕╕╕╓╗╜╡╤╦╧╨╫╪╪╨╦╥╤╣╣╢Ё╡Ё╣╢Ё╣╣╢╤╪╫╩╪╩╪╫╫╫©©©╪╪╪╫╬©©©╬╬©юююююю©аццаацаааббббцццццццццеддеедццббцддццббцдееееееффееддедгхфееггфдцдфгхиййигфффггхиклмммммннннммонмннлллнмкляяояжуууттувьвжжжурплхххфффефеццдефгфдаюаббацбааююбдгффгххгеефггфгггфхкккмятызшшшэшыыьвжуррсряпонннннмкййййййихийкккйклкигффццбаююааефецбцдефгххгеддю©╫╫╫©юаюаццццццбббцдддцфдццццдфбцбаббаююююю©╬╪╪╪╬©╬╬╫╪╨╩╨╨╩╩╨╨╩╧╦╦╨╩╧╤╣╠╡╡╡╠╟╠╠╡╠╡╢╢╠╞╝╟╡Ё╣╤╤╤╣Ё╠╝╙╕ё║═║══÷══÷÷·²²²²²²°²²²°⌡⌡°²²²²²²²²²··²²²²²°°°°²²²²°°÷╒ё╒║║╒╒║══нЛЙс═≈░∙╟ЮИЛБ╝▓■■√лЙКш≥▌╠ФЛХЙИИИА╟░▓■■⌠▓▓▓▓▓░▒▒▒▒▒▒▒▒▓▓▒░▒▒░▒▒▒▒░░▒▓░░▐▐▐▐▐▌▌██▌▌▄▄█▀▄▀┬┘└┐┌┌┐┌││││─│───~~~~~~~~~}||{zyxxyxxxvvwwvtrrrrqppqponmlkkljihfedbddccbaa`__^\[[ZZYYXWVUTSSRPNNMKIIIIHGFFECCBBA?=<:877642210/-+*)(%%!!&DCCDFGGHIJKKLLMNNPQSTTUXY[]_`bcceghhhjllrrrwxwzz|~~~┌└┐└┘├┬┬┴┴▀▀▀█▌▐▐▌▌▌█▄┼┴┴┼├┘└┐┌│││┐┐┐└└┘┘┘┐┐└└└└┐┌┐┐┐└├┤┤┤┼┴┬┬┴▀▄▄▄▀▀▀▀▄▀▀▌▌██████▐▐▌▌▌▐░░▐▐░░▒▒▓▓▓▓▒▒▒▓⌠⌠⌠⌠■■⌠⌠■■⌠⌠⌠▓▓⌠■■⌠▓⌠√≤≈≤⌡⌡ ≤≥ °²·═ё╕╖╕╔╔╖╖╖╗╗╘╘╗╖╕╕╖╗╖╕╕╗╗╗╗╗╘╙╚╚╙╖╖╗╕║÷÷═║║╒╒ёё╓ё╒╒ёёёё╓╓ё╓╔╔ёё╔╓╔╕╔╔╔╕╗╖╕╕╔╔╔╔╔╔╔╔╔╕╕╖╖╖╖╕╕╕╕╕╕╗╗╖╖╖╕╕╕╖╕╕╕╕╖╖╕╕╕╕╔╔╔╔╔╓╔╔╕╕╖╗╗╙╜╡╥╧╨╨╨╩╨╦╤╣ЁЁЁЁ╢╣╢╣╣╣╢╢╤╥╧╫╫╩╪╩╪╪╪╬©╬╪╫╪╪╫╬©©╬╫╬©юааааюабццбцццццбббббццццддддфееффдцццццддцццццдееедцдеееееефегхггххггецдфгхийййигффгффгийкллннноонннонноомммоомнрряттссууувыьвжуутрпниггддфефецбцефффдбаааю©ю©юббцдггхихгееедфгффгхххйллморувзээшшзыывжжтрртряпннноонмлкккййкйийкллкйййифддеааааюабдеффддееегххгедддю©╬╬©ааббццццббццббцддцбцббцдцдеаббабцбююююю©╫╪╪╪╬©╬╬╬╪╨╩╨╩╪╪╨╧╨╨╧╦╧╧╦╥╦╣╢╡╡╡╡╡╡Ё╡╡ЁЁ╠╞╞╛╝╟╡╢╣╣╣╣╤╣╡╛╖ё╒╒║════÷÷····²²²²²·²²°°²²²²²²········²²²····²²²··²÷║ёё╒╒╒÷╒║╔сЛГб≥≈ √°гИКИмё≈⌠÷уЙЛз ▌╞ДЙХКЙИИА╞▌▒■⌠▓▒▒▒▓▓▒▒▒▒▒▒▓▓▓⌠⌠▒▒▓⌠▓▓▓▓▒░░▒▓▒▒░▐▐▐░░▐▌▌▐▐██▌██▄┬├┘└┐┐└└┌┌┐┐││││─────~~}}|{zyyzxyyxwxxvwutttsrrqqponmlllkjihgfdedccccb```_^]\\\ZYYXWVUTUTQPPOMKKJJIIHGFEDCCB@>=;98886554320.-,+(($#""%DDEEHHGJJKKKLMNPPRSUUVV[\^_`abceghiijlnnuvv||{}|┌┌│┌┘┬┤┤┬┴┼▀▀▀▄▄▄█▐▐░▐░▒▓▓▒░▒▒▌▄┼┬├├├├┘┘┘┘┘┘└└│┐└┘┘└┌─┌┌┌└├┤┬┬┴┤├├┤┴┼┼▄▀┼▀█▌██▌▌▌██████▌▐▌█▄█▌▐▐░░▒▓▓▓⌠▓▓▓▓⌠■■⌠■■■■⌠■■▓⌠⌠▓▓▓⌠∙⌠▓⌠≈≤≈≤⌡ ≥≥≥⌡°²·║╓╗╗╖╔╕╗╕╗╙╘╖╕╕╖╕╕╖╗╖╔╕╖╘╗╗╙╚╚╙╙╙╖╕╗╖╒═║║═÷═╒ё╒╒╓ё╒ёёё╓╔╔╓╔╕╕╓╓╕╓╔╕╔╓╔╕╗╖╕╕╔╔╔╔╕╖╖╕╕╕╖╖╖╖╖╖╕╕╕╕╕╖╖╗╗╗╖╖╕╖╕╔╕╖╗╗╗╔╔╔╔╔╕╕╕╕╕╕╕╖╗╙╚╡╢╤╦╧╩╪╫╧╥╣Ё╡╡╡╡Ё╣╤╤╤╤╣╢╢╥╧╩╬╫╩╫╬╬╫╫©а©╩╬╫╪╫╬╬╫╫╫╬©абаааюбццццддеддцббаюцццдддддхффггеццддддцццццццеффдбццдееефгфгггийхегфееффхйкккйхгггеффгхиккнннннннннмнопоноопопсрсвуттжутуььвууттрпойгфццфффдццдееедцббббю╬╬╬©бдегйгйкиебцдеггффхиииййкмоястыччшзыыьжуусяясряонммопмлккккйикйййллкйкифеееца©ююаацегдефееффдфффдцббцю©©юабббдддцбабцццбцддцбаабддццдаббабдцб©©ю©©╫╫╪╨╫╬╬©©╬╪╪╩╪╬╬╩╨╨╨╨╨╧╦╤╦╨╥╣Ё╡╡Ё╢╢╢╡╠╡╡╠╟╟╠╠╠╠╠╡Ё╢╢╤╧╥╡╚╖╔ё╒║║║═÷·²²······²··²²°²²²²²²·····÷÷÷··÷÷═÷·····÷·÷║ё╓ёё╒║╒═╘уИИд÷⌠ ²≈╠ФХИФ╣·²╦ИНЙс√█╟ЦКМЛЙЙИА╝█▐⌠▓░▐▐░▒▒▓▒▒░▒▒▓▓⌠⌠⌠▓▓⌠■⌠■■■▓▒▒▓⌠▓▓▒░▐░░▒▐▌▐░░▌▌▐▐▐█┴├┘└└┐└└┐┌┐┐┌┐┐┐┐┐┐┌┌│─~~}}}|zyzzxzzyxyxvywvwvuttrrrrqpoomljjihgffdccddb`aa``_^]\[[ZYXWVVVUSRQQOMKKKJIHHGGFDCBA?><:99976765420/.-++&%$$!(DBEFHHIIJKKKMNOQSUVVWZ\]_abbdgiljiklmoruy|}||~─│┌│─┌┘┤┤▄▀┼┴┴┼▀▀████▌▐▒▒■⌠⌠⌠∙√√√■⌠▓░▐█▄▀┬┬┤└┐┘┘└┐┐┐└└└┐┌┌┘┤┬┬┬┴▀┬┬┬┴┴┼▀▄███████▌▌▌▌▌██▌▐▌▌████▌▌░░▐▐░▒▒▒■⌠▓▒▓⌠■■■■■■■■■■▓⌠■∙√√∙⌠■⌠■√≥ ≥≈≤  ≥⌡··°╒╘╘╖╘╚╘╕╖╗╘╗╖╖╖╖╖╖╖╖╗╗╖╖╙╚╛╚╚╙╚╜╚╘╖╗╗╔╒║║══║╒╓╓ё╒╓╔╓╒╒╓╕╕╕╔╔╔╔╕╕╓╔╕╕╖╕╕╕╕╕╕╔╔╔╖╗╖╖╕╕╕╕╖╖╘╖╕╕╖╗╘╘╗╗╘╘╘╗╖╕╘╗╖╖╘╘╖╕╖╖╕╔╕╕╖╗╘╕╓╔╗╙╞Ё╣╥╨╩╩╨╨╧╧╣╡╡╡╡Ё╣╡╢╣╢╢╤╥╣╤╩╬╬╬©╬╪╬╬╬©ююю©╬╬╬©©юабццдддефффффффееееддцццццдддддеффхфеддеедцдеддддддееффеедедццдефедфхххигегфеегийиклкхффггхгффффгхйлнопонмпоннопппоппппятжусстууужьвусряпонкиггфедцеффедеффеддддбю©аццдгххгкнлгббдгфффгхийиййикоррьызшззззвжутссстяяппярянккййййкккклнннлйигдбббббедццдеффддееффеефедбааааю©©ацеедцдддццддцбббцдццабцддццббддббцбю©©юю©╬╫╪╬╪╪╪╬╬╫╩╪╩╩╪╬╬╪╨╧╨╨╦╥╥╦╦╨╦╢ЁЁ╢╢╢╣Ё╠╠╠╡╠╟╟╟╠╟╟╟╠╡╡╢╤╦╦╣╟╛╕╓ёё║··═···÷÷÷÷÷²°°°°²°°····²²·÷═·²·══÷²÷÷÷÷÷÷÷÷·÷║ё╓╓╓ё╒╒╓╒вЙХм═ ║ ≥║сКККЮлпЦФЛЛг≈■╘ЕЛХЛХИЙД╜⌠▒▒░▒▓▒▌█▌▐▐▐▐░▒▓⌠⌠⌠▓▓▒▒▒▒∙∙■⌠⌠■⌠▒░░▒▒▒▒▒▒▐▐▌▐░░▐▌▌▐█┼┤├┘└┘└┐┐└└┐┌┐┌┐└└┌││┌┐└┐──~}||||zzzyxxxxwvwyxuttusrqqpponljjkjhfgeeefecbcdca_^_`\[ZZZYWVWVUTSRQPLMMMLJHFGFFFFDA?><;<;97875543100-)*('%&)EDFGIIJJKLLMOPQSUWXY[]_bbccdgjlmllnprtw{}~~||}~┌└└┘┬▀▄▄▄▀▀▀▀▀▄▒▒░░░▒▓⌠■⌠⌠∙√≤≥≥≈≈√■⌠▒░░█▌▄┼┬┬┤├┐┐┌┌┌┐┌┌┌└┤┬┬┬┴┼┴┴┴┼┼▀▄▄████▌▌▌▌▌▐▐▌▌▌▐░▐▐▐▐▐▐▐▐▒░░░▒▓▓▓■⌠▒▒▓⌠■■∙∙■■■■■∙■⌠⌠■∙∙∙∙■■■√≥ ≥≤≥   °·÷÷╓╘╘╖╘╙╗╖╗╗╘╗╖╕╔╕╖╗╗╘╘╗╗╖╘╙╛╛╛╚╚╛╚╗╗╙╙╖ё║╒║║║╒ёёёё╓╓╓ёё╓╕╔╔╔╔╔╕╕╕╕╕╖╗╗╗╗╖╕╕╕╕╔╕╖╗╖╖╖╖╖╗╗╘╙╘╖╖╗╘╘╗╗╗╘╘╗╗╖╖╘╗╖╖╗╗╖╔╔╔╔╔╕╕╖╖╗╕╖╘╛╞Ё╥╦╨╩╩╨╦╥╤╣Ё╡╡Ё╡╡Ё╡Ё╢Ё╢╤╤╤╧╫©╫╫╬╬╪©©╬╬©юю©бббццддегггггххххххххххххггфффффдеффддфххфедеееецццбббцдееееееддедццдееедфххийиггфедфгххйккиггггхгффффффгхйкмноппоннопяяппяяяртжутсужуужзьжтрпнмкигфгггфеффффедцеддццбаююацдгххгхйлкгддеефгххииийкййлпрстжвььыыызывутсрррряярсромллкккккллмннмкифдцццдддгфедееееццддееедфецбааааюабдееедбцдддцббббабцдццаббцццббцддбббаю©юаааю©╬╬╪╩╨╪╫╫╫╪╪╩╪╬╬╪╩╨╩╨╦╥╥╥╥╧╦╤╢ЁЁ╢╢╢Ё╡╡ЁЁ╡╠╟╟╟╟╞╞╞╟╞╟╡╣╦╦╣╡╝╗ё╒╒║÷²÷══════÷·²°°²²²²··÷·²²·÷÷···÷═÷····÷÷÷÷÷²═ё╓ёёёё╕║═╓тХМъ╤╔⌡ ··╨ЦИЙКЕИМИНЙ╬⌠░╗ЦМОЛИЙЙЦ╛▓▒⌠▒▒▓▓░▐░░▐▐▐░▒▒▓▓▓▒▒▒▒▒▒⌠■■⌠⌠■■▓■■⌠▓▒▒▓▓░▐▐░░░░▐▐▐▌┼┬┤├├┘┘┘┘└└┐┐┐┌┐└└┌┌┌┌┐└┐│──││─~}}}}|||{{{{{yxxyxvtutsrqqqqqomkklljhhgfgggecddcb`_``]\[[[ZYXWVUTSSQPNOOONLJIHGFFFEB@@=;;;99:876642220,-**()*GFGHJJKKMNNORSTUWZ\^_acdeeghjlmooqtvxz||}}~~─│─┘┴┴┴┴▀█▄▄▄▄▄▄▄█▌▐▐░▒⌠∙√■■■√≤ ⌡⌡  ≥≤≈≈√∙⌠■⌠▒▐▌▄┼┤├└┐┐┌┌│┌└├┬┬┴┼▀▀▀▀▀▀▄█████▌▌▌▐▐▐▐▐▐▌▐░▒▐▐▌▌▌▌▐▐░░░▒▓⌠▓▓∙⌠▒▒▓⌠■■√∙■■⌠■■∙∙■⌠⌠■∙√√■■∙≈≥ ≥≤  ⌡°²·═ё╘╙╘╗╙╘╖╗╘╙╘╗╖╕╔╔╕╖╗╘╘╗╖╖╖╙╛╜╛╚╚╛╚╘╗╙╛╙╔╒╒╒ё╒╒╒ёё╔╓╓ё╓╓╔╔╓╓╔╔╕╕╕╕╕╕╖╗╗╗╗╖╖╖╖╕╕╕╖╗╗╗╗╗╘╘╙╙╚╙╘╘╘╘╘╘╘╘╘╗╗╗╗╖╘╗╖╖╗╗╕╔╓╓╔╕╕╖╖╖╖╖╙╞Ё╤╦╨╪╪╩╨╥╣╢Ё╡╡╡Ё╢Ё╡╡╢╡╡Ё╢╣╥╧╫©©╫╪╬╬╫╫╫╫╬юбдефффффгггййииииииииииййййииххггггдфхгедфихгффффффеедцбцефффееддддддддеееедфгхийййихфееффгхккйхххххххггффееефгйлопяпоопярсрррррсужжттужжжвшывтрпмлигффгхгфдддеффцабццбаюююаацфххфеийййихгфефгггхиййккклпрстувььььыыыьжусрярсррстрпонмлккклммнннлигцббцефффхгфффедцццдддеееедбаююююбцфггфдцабддцбаюбаабццдцббббббцццддбббаю©юаббаю©╫╪╩╩╪╫╫╫╫╪╩╪╫╫╫╪╩╪╪╧╦╥╥╤╥╥╥╤╢╢╢╢╡╡╡╢╣╣Ё╠╠╠╟╞╝╜╜╝╝╜╝╡╥╧╧╥╣╝╖╓ё╒÷·÷═════÷··²²²²·²²÷÷÷÷···÷·÷÷÷÷÷÷÷······÷÷²║╓╔ё║╒╓╓╒═╖нГМЕэг╗⌡╒²╒яЙЛМХЙМЙМэ╞■░╖щФЙКИКИА╙▓▓■⌠▓■■⌠▓▒▒░░░░░░▒░░░░░▒▒▒▒⌠⌠▓▓⌠■⌠■⌠▒▐▌▐░▒░░░░▒▒░░░░▐▀┴┬┬┤┘┤┬┤┘└└┘┐┐┐└┘└┐└┌┐└┐┌││┌┌│─~~~|{{{||{{{zyyywvvttsrrrrqqommnnljjjiiihfdddcbbba`^^]]\\[ZXWVUUTRQQQQQPONMJHGGGFDBC@>=<;<<987764343//--+,+HGHIKKKLNPPQTVWY[^`bcdedfikklmnstvxz{|}{{|}│┐└└┤▀▄▀┼▀▄▄█▌▌▌███▄█▐▒⌠■∙∙■■∙√≤ ⌡°⌡⌡⌡⌡⌡  ≥≈≤≈√∙⌠▓▒▐█▀┴┤┘┐┌┐└┤┬┴┼▀▄▀▀▀▄▄██▌██▌▌▐▐▐▐▐░░▐▐▐░▒▐▐▐▌▌▐▐▐░░░▒▓⌠▓▒■⌠▓▓⌠⌠⌠⌠√∙■■⌠■∙∙√∙■⌠⌠■∙√■∙√≤≥ ≥≥  °···╒╖╜╛╘╘╚╘╖╙╙╙╙╘╗╕╔╔╕╕╖╖╖╖╖╖╗╙╛╜╛╚╛╛╚╘╗╘╚╚╖╓╒ёёё╒╒ё╔╕╔ёё╓╔╔╔╓╔╔╕╖╖╖╕╕╕╖╖╗╗╗╖╖╗╗╗╖╖╗╘╗╘╘╘╙╙╙╚╙╙╙╙╙╙╙╘╙╙╘╘╘╘╘╘╘╗╗╗╗╖╕╔╔╕╖╗╖╖╖╖╖╙╞╢╦╨╩╪╪╩╨╦╣Ё╡╡╠╡Ё╢╢╢ЁЁ╢╡╡╢╣╤╦╪╬©©╬╬©ю©╫╬©ацегхгффффггфиххгггггххххииййииххггффегхгфегххгггггггггфеддефффеддддедддеееедеффгхиййлйихгффггйлкйиииииииихггфеефгикмппппярстттттттужжуужвввьыьжсяпнкигфеффецююацедбаббцаю╬╬©юадггеддггхиклифеефеефикййййлояружвввввввввжжутсрссрссрпоонмллллммннлйфдцццдфгффгфффффдцдддееееедца©©©ююцеххгедцабццбаююаааббцццццббццдддддццбба©©аббю©╬╩╩╪╫╬╫╩╧╪╩╨╩╪╫╫╫╫╬╫╩╨╨╧╦╥╥╥╥╤╣╣╢╡╡╡Ё╣╢Ё╠╠╠╠╟╞╝╝╝╞╝╝╟Ё╤╦╧╥╣╟╚╔║║║══║║║═····²²²··²═══÷÷÷÷÷·÷═÷÷÷÷═····÷÷÷÷·║╓╓ё╒╒╓═╔║╓юАКЕМЦд·╒╒ ╣эИНГХПЛА╫°■▒╗ъХМКЙКИъ╗▒⌠∙■⌠■√∙■⌠▓▓▒░░░░░▐▐▐░░▒▒▓▒⌠■⌠▓▓⌠▓░▐█▄▄█▐░▒▒▒▒▒▒▒▒░░▐▄┼┴┴┴┤┤┬┬├┘┘┘└└└┘┘└└└┐┐└└┐┌┌┌┌│──~~||||||{{|{zzyxwwwvuttsrqrpoooonllkjjjigeedbcdcb`__^^^]\[ZYWWVUTSSSSRQPPOMKIHHGDCDB@?>>>>:9887556401..--+IIIILLLNPRRTWYZ\^`cdefgfilmmnqtwxz{|||{~}~│┐┘┘├┬┼▄██▌▌█▌▐░▐▌▌▐▒▓■∙√∙⌠▓√√≈≈≤≥ ⌡⌡⌡°°°°°°⌡  ≥≤√√√■⌠▓░▌▄┴├┤┬┴┼┼┼┼┼▀▀▄▄██▌▐▌▌▌▐▐░░░░░░░▐░▒▓▒▒▒░░▒▒▒░░░▓⌠⌠⌠▓⌠⌠⌠■■■⌠▓√∙∙■■■∙∙∙∙∙■■■∙∙■∙≈≤≥≥≥≥⌡⌡²÷÷÷╓╚╝╛╘╘╚╗╕╙╘╘╘╗╗╖╕╔╖╖╖╕╕╕╖╗╘╙╚╛╚╚╛╜╛╘╖╗╙╚╘╕╒ёёёёё╔╕╕╔ё╓╔╕╕╔╔╔╕╖╗╗╖╖╖╗╗╘╘╘╘╘╘╘╙╙╘╘╘╘╘╘╘╙╙╙╙╙╙╙╙╙╙╙╙╚╚╚╙╙╙╙╙╙╘╘╗╗╗╖╕╔╖╗╘╗╗╖╖╗╛╞╢╧╪╫╪╩╧╧╥╣Ё╡╡╡╡╡ЁЁЁ╢╢╢╢╠╠Ё╣╤╨╫╫©©юаббббцдефффегфеефффеффффффггггххииийххххгггфгггггггфгхххххххгггфеддеффееееефдееееееефффггхиймлкйхееггйлкйййииииййиххггффгххимнпярсттввжжуууужжжжвьььььжрпомйигееедцб©юбццбаюбцца©╫╫╬юбефеббцдеегкмйфдеееефхйихийкмоятужжууужжжвввжжустттттсяяпонннннммммйхецееефффедддееффедддддеееецаю╬╬©юафгггедцдцццбаюааюааббцццццббццдеццдддцццююааа©╬╫╪╫╫╬╬╫╩╧╩╨╨╨╩╪╫╫╫╫╫╩╩╩╩╧╧╥╤╥╧╦╤Ё╢╡╡╡ЁЁЁ╠╟╠╠╟╞╝╝╝╞╟╟╞╟╡╣╦╧╧╥╠╚╔╒║╒╒ёё╒║═÷÷·²²···²÷÷÷÷÷÷÷÷·÷══÷·÷═÷÷÷÷÷÷÷÷÷═╒ё╓╓ёё╒╖║·╛лЦМХЙы╓═╒²║╩уХЛЛКша╔■√░╕ЮЛПЙИКИч╖▒⌠■■■∙√√∙■⌠⌠▓▒▒░░░▐▐▐░░▒▒▓▓■■⌠▒▒▒▒███▄██▌▌░▒▒▓▓▓▒▒░▒░▄┼┼┼┴┬┬┬┬┬┤├└├├├├┘┘┘└└┘┘┘└┐┌┌┌┌│───~}|}|{zyyxxxxwvvutssqppppnmllkkjigffdcceecaa`___^]\[ZYXXWVUTTSSRQQPQOLKIHECDCBA@@>=;:998667523/0//+KJJJMNNPRTUWZ\]`acdfghhkmnoprw{z{|||}|{│┐┘┤┴┼▀▀▄█▌▌▌▐▌▐▒▒░░░▒▓⌠∙√≈√∙■≤≤≤≤≤≤≥≥  ⌡°²²²²·²°° ≥≤≤≈≈√√∙⌠░▌▐▐▐▌█▄▀┼████▌▌▐▐▐▐▐▐░░░░▒▒▒░░░▒▓▒▒▒▒▒▒▒▒▒▒▒▓⌠■■■■■■∙∙∙■▓∙∙∙■∙∙∙∙∙∙√∙∙■■∙∙√≥ ≥≥  °°·÷═╒╗╜╜╚╗╖╘╖╕╘╖╖╖╖╖╖╕╔╖╗╗╖╕╖╗╙╘╙╚╚╚╚╛╜╚╙╗╖╗╙╙╗╒ёё╓╓╔╕╕╕╔╓╓╔╕╕╕╕╕╖╖╗╗╗╗╗╗╗╗╘╘╘╘╘╙╚╚╙╘╘╘╘╙╙╙╙╙╘╘╘╙╚╚╚╚╚╚╚╚╚╚╙╙╙╙╘╘╘╗╗╖╖╕╖╗╘╗╗╗╙╚Ё╤╨╪╬╬╪╨╥╤╣Ё╡╡╡Ё╠╡Ё╡╡ЁЁЁЁ╡╡╢╤╦╪©╬©абдеедцефгггффгфеефгфефеефффггггхххиииииииихххгфефггфдфгхххххххиихгфффгггфффффефффеееффффгггхилкллиедффиккйййихххиииихгггггхххклнпярстььвввжжувввжвььвыыжрполххгдддддцабцццаююцббю©╬╫╫ацдбююабюбцехлйгцдеффггфхххиклнпттужжжввьььььвжжжввжжжустсрппооомммкигедггфггфдцццдеффееццццдддеба©╬©юбдггфедццдццбаююабюаабббццбббббцдддццееддебццбаю╬╫©╬╫╪╪╪╪╪╩╩╩╩╩╪╫╫╪╫╪╩╩╪╩╧╨╦╤╥╨╨╥╢╢Ё╠╠╡ЁЁ╡╟╟╟╟╞╝╝╝╞╟╠╞╝╝╡╣╩╨╦╣Ё╝╖═ёёё╒╒║║══÷·····²²²²·÷÷÷·÷═══÷·÷═÷÷════════╒ё╓╔╓╓╓╔╓╒║╝иЮЙХэ╙·²╒÷╒╢фой╬╠·≥≈√▐╕АИЙЙИКИъ╗▒■⌠∙∙∙∙√∙■■■⌠⌠▓▓▒▒░░░░░▒▒▓▓■■▓▒▒░▐▄▄▄▄▄▄▀▀▐░▒▒▒▒▓▓▒▒░█▀┼┼┼┼┴┬┴┴┴├└┤┬┤├├├├┘┘┘├├┘└┐┌└┐┐┌┌││─┌││││─~}}}}{zzzyyxxxxwvvtsrqqponmmllkihggeddeedbbaa``_^]]\[ZZYXWVUUTSRRQSQOMLJGECCBA@@?==;::97787451222-MLKLOPPSUWXZ]`abcdfhijknoprvy|~{||||│┌└├┬┼▀▄▄█▌░▐██▌░▒▓▓▒▒▓⌠▓⌠■∙√≈≤≤≈≈≈≈√∙√≈≤≤ ⌡⌡°°°·²²÷·°⌡⌡⌡⌡   ≤√∙√√∙∙⌠▓░▐░▐▐▐▐▐░░▐▐░░░░░░▓▓▒▒░░░▒▒▒░░░░▒▒▓▒▒▓⌠■∙■√∙■■■∙■■■■∙∙∙∙∙∙√√√∙■■■∙∙≤ ⌡  ⌡°²·÷÷║╕╚╞╛╛╗╖╘╗╖╗╗╖╖╖╗╖╖╕╕╖╘╘╗╖╗╘╘╙╛╛╚╚╚╛╙╙╘╗╗╙╙╘╓╓ё╓╔╔╕╕╔╔╓╔╔╕╖╖╖╖╖╖╖╖╗╗╗╗╗╗╗╘╘╘╘╙╚╚╙╘╘╘╘╘╙╙╙╙╙╙╙╚╜╜╛╚╚╛╙╚╚╚╚╙╙╘╘╘╘╘╗╗╖╖╖╗╘╘╘╛╞╡╦╩╫╫╫╫╩╦╣╣╢Ё╡╡╡Ё╠Ё╢Ё╡ЁЁ╡╢╢╣╣╦╪©абббдефеецдфггфггфеддефедедддееффеффффгггхххххххгфффффеедефгхггггииихххииииххгфееффффеефгфееггггиккмнйдцеегйихииххххиииииххгггххихйклнпсуьвввььвжвьвжвььвьыврппмиигдцдеедццббцбю╬баю©©©╬╫абю╩╩╬©╫╫юаадийхфеддфгггиххйклнптужжжжвььььвввжжвььвввжуутсяпоннммлкхфеегфффггфеедддееедцццццддебаю©юбегхгфеедддббббаюааюаббаабцббббццдддццееддедддцбаю©©©╬╫╪╫╫╬╬╬╫╫╫╫╫╫╪╫╪╩╪╪╩╧╨╦╥╧╩╩╦╤╢╡╠╠Ё╢╢Ё╠╠╠╠╞╝╝╝╞╟╟╞╜╜╝╟╣╥╦╧╦╣╜╕ё╒╒║║║║║╒║═÷÷÷···²·÷═══÷════÷÷÷÷═════════╒╓╓╓╓╓╓╔╒╕╖╒═╝╫трф╘═°ё╓·║ё╖÷°╘╝╝╜≥░╖ДККЙЙЛЙЮ╘▓■⌠∙≈√∙∙∙∙∙∙■■⌠⌠⌠▓░░░░░░▒▒▓▓▓▒░░▐█┼┼┼┼┼┼┼┼▌▐▒▒▒▒▓⌠▓▓▒▌▀▀▀┼┼┼┼┼┼┴┤├┤┬┬├├┤┤├┘┘├├├┘└┐┘└└┐┐┌┌│┌│─│││}}~~|{|{yzyyyyyxwvutsrqponnnmljiiigfeefedccbaa`_^^]\\[[ZYXXWWVTSRSRPONLIFEECA@A@>?=<;:8899673444.NNMMQRRUXZZ\`bcddegiklmnnpv|~|{|||}│┐┐┘┤┬┴┬┬┴┴┬┼▌░▐█▌▒▒▓⌠⌠▓▓⌠∙≈√∙∙∙√≤≥∙√√∙■⌠■∙√√≤≥    °°·║║÷··═÷·²°⌡ ≥    ≥≥≈≈▓▓▒▒░░░░░░░░░░░░▓▓▓▒░▐░▒▓▓▓▓▓▓▓▓▓▒░▒▓■■■≈√■⌠⌠■∙√⌠■∙√√√∙∙√√√∙⌠⌠■√√≥⌡°⌡ ⌡²²══÷╒╗╝╟╛╛╘╖╙╙╗╗╘╗╗╗╘╘╗╕╓╕╘╙╗╖╖╖╗╙╛╜╛╚╚╚╘╚╚╘╘╙╙╘╔╓ё╓╔╕╔╔╔╔╔╔╔╕╖╗╖╖╖╕╕╖╖╗╘╘╘╙╙╙╙╚╘╙╚╚╙╘╘╘╗╘╘╙╚╚╚╚╚╜╝╝╜╛╚╚╙╙╚╚╚╙╘╗╘╘╘╘╘╗╗╗╖╗╘╙╚╞╣╧╨╫╫╪╩╩╧╤╤╣╣Ё╡╡╡Ё╡╢╤╣╢╢Ё╡╣╥╦╥╨юццеддеффеефггфеддедцаацдцбццццццццццццддддеффггфффефффедддцефггффггггффгикйййихфедгггфеегхфеегхгхиккнокецфдфххгхххййиииииййихгггхигхийкосжвжвьыыьвььвжвььжжьжряяоккиедддедца©юбца╬аю©╬©©©╬юю╩╣╤╫╫╦╪©ю©афиикгбацфиййхиклмняууууттуужжжжжжжжвььвжвжужуспнмллммлйхгфгееефгххггфедддццддддддеебаююадгиигффффецааббаююююаббаабцббццддддецдееццдеддцбааю╫╬╬©╬╬╬╬ююю©╬╬╫╫╬╬╫╪╫╫╪╨╧╧╧╨╨╨╧╥Ё╡╠╡╢╣╣╢╡ЁЁ╡╟╞╝╝╠╠╟╞╜╛╛╛╛Ё╨╩╧╤Ё╟╓╓ё╒╒╒╒ёё╒║═══÷·÷÷÷═╒╒╒║║═══÷÷÷·÷════════ё╕╔ё╒ё╔╗╒╔╔╕╒╔╓╕╛╕ёё║║ё╒║°² ╖мАЦв╖▓╓АИЛКЙЛКБ╚⌠∙▓√≤√■∙∙∙∙∙∙∙■■■⌠░░░░▐░░░▒▒▒░░░▌▄┴┴┴┼┼▀▄██▐░▒▒▒▓⌠▓⌠▒▌▄▀▀┼┼▀▄▄┼┬┬┬├┬┬├┤┬┬┤┘┘├├┤├┘└┘└└└┐┌┌│┌│││┐┌─~}}}}|z|{{zzywvwvutsrqpnoonmkjjjigfffffddcbba_^_^]]\\ZZYYYYXVTTSRQPPNJHGGDAABBAA?=<;99:9773554.QNNPQUWXZ\_acefcfhikjjorpu~┐─}|┌──│┌┌┌┬┬┬┤┤┬┼▀▄▌▐▐░▒▒░■■⌠▓▒▓⌠■≈√∙√√∙∙≈≤∙⌠∙∙■⌠∙▓■√≈≤≥ ⌡°°·║ё╓ё╒═║║÷²²·÷²··²°°°² ≤≈≈√⌠⌠⌠▒░▐▐░▓⌠⌠■⌠▒░░▒▒▓▒▓▓⌠⌠⌠⌠▓▓■∙∙■■■■√√∙■■√∙■■⌠■∙√≈≈√∙■■■∙√√√≥°²⌡⌡²·²═÷÷═╖╜╝╚╞╜╚╘╘╘╚╚╜╘╕╖╗╖╖╖╘╘╘╗╖╖╗╘╚╚╛╛╛╛╜╜╗╘╚╜╛╙╘╚╘╔ёё╓╔╖╗╓╔╕╖╖╗╗╘╕╘╚╙╘╙╚╛╘╙╙╚╚╙╙╘╙╙╚╚╚╚╙╘╚╚╚╚╛╜╛╛╛╜╛╙╙╛╛╚╙╚╚╙╙╚╙╗╖╖╗╙╙╗╗╘╘╗╗╚╠╥╨╩╫╬╫╧╦╧╥╢╣╢╢Ё╡╡╡╡╢╣╤╥╥╤╤╣╟╣╩©бцдефггфеддегеееецбббаююаббаааааюю©©╬╬©юююабдееееееедддддддцбдедееецедефгффгихйкиффххгфедеефефхххххиийлннлхеефийиффххиииххххйихххххихгхйлмптувьввьвжтуужжвввввжтяпмкййхфццдецббааааа©ааююббю╬╨╣Ё╤╨╪╪©©©юююбфихфдцдфхййкннлмотуввжуужуттужжужвызывутужтянмлккмлйхгффгдегхххгффееддццбббббцееддббцегххгфееееддбббццбббаюаццбббцццддеффффдбдддгдедабдцюбююаю©©юююаццю©аю©╬╫╫╬╬╬╫╨╧╨╨╧╨╩╣╢╡╠╡╣╣ЁЁЁ╡╠╟╞╟╟╞╟╟╟╞╝╜╛╙╝Ё╥╩╪╧╣╞╖║═ё╓ёёё╒╒╒║══÷║═══║║║║÷══║║║══║══÷÷══║═ё╕╕╔╔╓ё╓╓╔ё╕╖║╒ё╒║║╒ёё╒═╓═²≤ЁДКМЕ╣⌠╓чЙЛМИЛХД╠√√∙√≈≈√√∙∙∙√∙■∙√∙⌠⌠▒░▒░▐░▒░▐▓▓▓▌┼▌┼▀▀▀▀▀▄██▐▒▓▓▓▓▓▒▓▓░█▄▀┼█▄▀┼▀▀┼┼▀┼┬┬┤├┤┬┤├├┤┬┬├└┘┘┘┘└└└└┐┐┐┐┐┌┌││──~~}}}|{z{{zzxwvuttttrqomllnnlkiffggfdeedcaaaaa`^\[\\][ZYYYXWWUSRRPMJIHFECBBBA@>=<<;;8665548-QNPSUY[^_abbcdefhiknnnqqy│┐┌───│││││┌┐┘┘├┤┬┼▄▌░▐▒▒░▒⌠⌠⌠⌠■■■■■■∙√∙∙√√∙√≈√∙■∙∙■■■√≈≤≥ ⌡°²²·═╒╓╓╓ёё╓╓ё║═║╒║╒╒║═══║║÷·²⌡≤≈≈√∙⌠▒▒▒▒░▒▒▓▓▓▓▒▒⌠⌠⌠⌠■⌠⌠⌠⌠■∙∙■■∙∙∙∙■⌠■∙∙■∙∙∙√≈≈≈√∙∙√√√∙∙∙ ²²⌡⌡·═÷÷÷÷ё╘╝╝╚╜╛╙╘╙╚╛╜╚╘╗╗╗╖╗╘╘╘╘╗╖╖╘╙╚╚╛╛╜╜╜╜╙╙╚╛╛╙╙╛╘╔ёё╔╔╕╖╔╔╕╖╗╗╗╗╖╘╙╘╘╙╚╚╙╙╙╚╚╙╙╘╛╚╙╙╙╚╛╛╚╚╚╛╛╛╛╚╚╛╛╚╚╛╜╚╚╚╙╘╙╚╙╘╘╖╖╗╗╖╗╚╗╘╛╠╤╨╩╩╬╫╩╧╥╤╢╡╢Ё╡╠╠╡ЁЁ╤╣╣╣╥╥╤╣╤╨©бцддеееедцццдецбццбабю©╬╬©©╬╬╪╪╩╩╨╨╩╩╨╩╪╪╪╫╬╬юаабббббццдееедддееддддцбабдеефгиххййиххххфеееффефггггхиихилнмйфгхикйххигхиихххииииииииихгхйклортжвввввутттужжввввжспонлииигфдццдццбааюю╬©юабб©╩╥╢╡╡╥╩╬╬©╬©юю©адихфдцегиййклмлнпсужвжуужжттужжужввввжжжусяоммллклкйхффффефгхггфефеееддддддцабццбдддегиййхгееееддбббццббббаабцбцдбббббдеефгедффегефецдфецбю©юю╬©ю©╬юбцббббаююююююю╫╪╪╪╨╧╨╩╦╢╠╠Ё╡╞Ё╡╠╟╟╞╞╞╞╞╞╞╞╝╜╜╙╜╞╡╣╦╦╥╢╜╕ё╒║║╒╒╒╒╒║║════÷÷═║║║÷══║║║═════════║÷ё╔╔╔╔╔╓╕╓╕ё╒ё÷╒ё╒╒╒╒╒║═╓ё·²°╨ИНМИ╨√╔чКМЙИМКФ╟▒▒■∙√√∙∙√√≈≈√∙∙√√∙∙⌠▒▒░▐░▒⌠▒▒░▓⌠▐▄▄▄▄▀┴┬┬┴▄▌▒▓▓▒▓▓▒⌠▓▐▄▀▀┼▄▀┼┼┼┼┼┼▄┼┴┴┴┬┬┴┴┬┬┬┴┴┬┤├├├├┘└└└└└└└┐┐┐┌┌│─~~~}|{z{{zzzywvutsssrqponnnmljhhhhgeefecbbbaaa_^]]]^][[ZZYYXVTSSROMKJHFEDCCBA?>>=<<:887658/TRSUW[\`abccdfghiikpporu│┴├┌┐┐│─┌┌┌┌┐┘┬┤┬┴▀▄█▌░▓▓▓░▒⌠■■⌠■√√√√√√∙■■∙∙■∙√■∙∙■∙√√■≈≈≤≤≥ ⌡°²·║ё╓╓╔╔╔╕╕╔╓ё╓╓╔╔╔╔╓ёёёё╒║║═÷··²⌡≥√∙⌠▓▒▒▒▓▓▓▓▒▒⌠⌠⌠⌠⌠⌠⌠⌠⌠■■■∙∙√≈■∙∙■■∙∙∙√√√√≈≈≈≈∙√≈≈√∙∙√²²²⌡°═║═··╒╗╝╞╝╜╜╛╙╙╛╜╜╛╘╘╘╘╗╖╗╙╙╙╘╗╗╗╘╙╚╚╚╛╜╝╜╛╚╚╚╛╚╚╚╜╗╕╓╓╔╔╕╕╕╕╖╖╗╗╗╗╖╘╙╘╘╙╚╚╙╙╚╚╚╚╙╙╛╚╚╙╚╚╛╜╛╚╛╛╜╛╚╙╚╛╛╛╛╜╜╛╛╚╙╘╙╛╚╘╘╗╗╗╗╗╘╚╚╝╡╥╩╫╫╫╫╩╧╧╥╣Ё╡Ё╡╠╠╠╡Ё╢╤╢Ё╢╥╧╧╦╫юбддддеееедцццдцаююю©©©╫╫╫╫╪╩╨╨╧╦╥╥╥╥╦╧╦╧╨╨╩╩╪╫╪╫╫╬╬©©©юабдддццдддббццц©©юбццдефгггйккиххгффффффееефгххиггйнолхиххиихгхгхииихиииииийиииихийккнясужжввжутсстужввьвуроонмйихгфецбддцбаю©©╪╫╬юба╩╣╣Ё╠╢╦╪╫╫╫╫╬©©©юбггфедегийийкклоясужжууужжттужжжввжтужжутпонннмммнмкихггггххиихфеффееееееццаюадддцегхиййкигфеддддцццццццццбабббцедццццдеффхфеггфгфггееффцбю©ю©©©абаабцбаюбааююююабю©©╬╫╩╩╬╩╣╡╡Ё╡╠Ё╡╠╟╠╟╞╝╝╝╞╞╞╝╝╜╜╝╞╞╠╣╦╧╧╢╝╗╒÷═╒╒╒╒╒║║║║═÷÷÷═║║║÷══════════║║║║║·╒╔╔╔╕╕╕╔╒╗╖ёё╒╔║║║╒╒║═÷╒÷²²⌡╦ЕИКЛ©≤╓щКМЙКЛЙГЁ⌠√■∙∙∙∙∙∙√√√√∙∙√∙⌠√∙⌠⌠▓▒▒⌠▓▓▓▒▒⌠░┬┼▀▀▀┼┴┼┼┼▌▒▓▒▒▒⌠▓⌠▓▐▄▀▀▀▀┼┼┼┼▀▀┼█▀▀▀▀┼┼▀┼┴┬┬┴┴┴┬┬┬┤├├┘┘┘┘┘└└└└└└┐┌│──~}|{{{{{z{zxwvuutsssrqpnmnnljjkjhffffedccabba`_^^`_]]\\[ZZXUUUTROMLJHGFEEDBA@??>==;:97691XVWYZ^^abcdefhjmnnpsssw}┘┬┘┐├└┌┌┐┐└┘┤┴▀▄█▌▌▌▌▐⌠⌠▓░░⌠■∙⌠■∙√√∙√√■⌠▓■■⌠■∙⌠∙√∙∙≤≤√≈≈≈≈≈≤ ⌡°·═╒ё╓╔╕╕╖╖╖╕╕╕╖╗╗╗╖╖╕╕╔╓╓ёёёё╒ё╒═·°⌡ ≥≤√∙■▓▓▓▓⌠⌠⌠■■■■∙∙■■■■∙√≈≤∙√≈√∙√≈≈√√√√≈≈≈√∙√≈≈√∙≈≥··²°·║║═·═╕╝╡╠╞╞╞╜╛╛╜╝╜╚╗╗╗╘╘╗╘╘╛╚╙╘╗╘╙╙╛╚╚╛╝╝╜╛╚╙╙╛╛╚╚╛╗╕╓╔╕╕╔╔╖╖╖╗╗╗╗╗╗╘╙╘╘╙╚╚╙╙╚╚╚╚╚╙╙╙╛╛╜╛╛╚╚╚╛╛╜╜╚╙╛╛╜╜╜╜╜╛╜╚╘╗╘╚╚╘╗╗╙╚╚╙╙╚╟Ё╥╩╫╬©ю╩╦╥╦╦╣╢╣╡╡╡ЁЁЁ╢╢ЁЁЁ╣╦╩╪╫абцддцддфеецббббб©╬╬╫╪╪╪╩╪╪╩╧╦╥╥╦╥╥╥╥╥╦╦╦╧╨╨╨╨╪╫╨╩╩╪╪╪╪╩╪╫╬юаааабба©юбццю©©юю©юабдеегклиххггффгггфддфгххиггимнмкйихииггхгхийииййиийййййийиийккмортжжжвжууутттужвввурпонмлйгедддцццббаю©©╬╬╬╬╬╪╤╠╣Ё╡╤╨╫╫╫╬╬╬╬╬©юацдеееефхиииййлнпсжвжттуужттужжжввжууутрпоооооонннмкйихггххииихгфффффееееббаюадфецфхйихийигеддддддддддддддцбццббцддддееееегффхгеггххфффеццбааааббецбцддбюбббаююабцбююю©©╬©╫╧╤╣╢╢ЁЁ╡╠╠╡╡╟╞╝╝╝╞╝╝╝╜╞╟╟╝╞Ё╤╦╦╥╣╞╖║║╒╒╒╒╒╒╒╒ё║═÷══║║═÷÷÷÷════÷══║║║║║÷╒╔╔╔╕╕╕╔║╖╖║══╒║║║║║║══╒÷÷·≥╥ДНЙМа≤ёчККЛМКХЕ╢▒▓⌠∙√√√√√√■■■⌠⌠■⌠▒■⌠⌠⌠⌠▒▒▓░▓⌠■░▐░┴▀▄▄▄▀▀▀▄┼▌▒⌠▒░▒⌠⌠■▓▐▄▀▀▀▀▀▀▀▀▀▀▀▄▀▀▄▄▀▀▄┼┴┬┬┴┴┴┴┴┴┤┤┤├├┘├├┘└└└└┘┐┐┌│──~}||||{{zyxxwwwwttssrqonnonlllkigggffeddbbbba``_a`_^^]\\\YWVVUSQONLKIHGGEDBA@@?>><;:87: 2YYZ\^bbdeffghjlmpqrttv|┤┬┬┤┤┤┘┌└└└┘├┬┬┬┴▀█▌▐▐░▒■⌠▓░░⌠■■⌠■■⌠⌠■∙√■⌠⌠■■⌠■∙⌠√≈√√≥≥≤≥≥≥≥≥≥⌡°°·÷══║ё╓╖╖╗╗╗╘╘╙╚╙╙╙╙╙╘╗╘╘╗╖╕╔╓╓╔╓╒╒║═÷·°⌡≥√∙■■■■■■∙∙∙∙√∙∙∙∙√≈≤≥√≈≈√√≈≤≈√√√√√√√√∙√≈√∙≈ ²÷÷÷÷═║═·÷╒╙╠╢╠╞╟╟╞╜╝╝╝╜╚╙╘╗╗╙╚╙╘╚╙╘╗╘╘╙╚╛╚╛╜╝╝╜╛╚╙╙╛╜╛╙╙╘╕╔╕╖╕╔╔╗╗╗╗╗╗╗╗╗╙╙╘╘╙╚╚╙╙╚╚╚╚╚╚╙╙╚╛╜╛╛╚╚╚╛╜╜╜╛╛╜╜╝╝╝╜╛╛╛╚╘╗╘╚╙╘╗╘╙╙╚╛╜╜╣╦╪╬©©©©╧╥╤╥╥╢Ё╢╡╡Ё╢╢╢ЁЁЁ╣╥╧╨╪╬юббцццддеедбаю©©╬©╫╩╪╪╩╩╪╨╩╩╨╦╥╤╤╤╤╥╥╥╥╥╤╤╥╦╦╦╦╨╩╩╩╪╪╩╨╨╧╨╨╨╩╩╪╬╬юю©╬╬юааю©╬╬╬╫╬©╬бдцеиккхххххххххгеефгххххииклмнмкйййихихиййййккиийккйййкййкккмоясуужввувжуттужжжжусяпнллйгедддццццббаааба©╫╨╥╢Ё╡╟╠╣╧╫©бддцю╬╫╬©©бдфееефхийййклмружутужжжттужжжвжжжутяоноопппоонлкихггфефффгхгфегффеедддддцабдедегййиггххгеддддддццццццдцбцддцбцбцддддцбцееегфдфгххггфедеедцццдддцбцефецддддццдеедаюююаююю©╫╧╣╢╣Ё╡╠╠Ё╡╠╞╞╞╞╞╝╝╜╜╜╞╞╝╝╞╠╡╢╥╧╤╝╕╒║╒╒╒╒╒ёё╓ё╒║║║║║║══÷÷÷═══÷═║║╒╒║║═ё╕╕╔╕╕╕╖╒╓╒║╓ё╕╒║║══║╒ё╕ёё══╩АНИЛю≈ёчЛЙЛНЛЙФ╨⌠█▒⌠√≤≤≤≤≈°⌡≤√√≥ ≥≥≥ ⌡⌡ ≤≥═⌡⌠■⌠▐▓▌███▄┼┴┴┴▀▌▒▓▒▒▒⌠⌠■⌠▐▄▀▀▀▀▀▀▀▀▀▀▀▀┼┼▄▄▀▀▄▄▀┼┼▀▀▀▀┼┴┤┤┤┤├┘├├┘└└└┘┘┐┐┐┌│───~}}}}|zzyxxxwwutsrrrqpoonmlmkihhhggfedcccccba`ba`___]]][YXWVSQPPNMKJIIFECBA@??><<;98;!4]\\^`ddgijlnprstxz{}~┌┴▐▐░▐█┼┼▄┴┴┬┼▄▄▀┼┴┼▀▄▄▄██░▒░▐▐▒▓▓⌠▓▓▒▒▓■√∙■■∙∙■∙√■√≈√≈≥  ≥≥   ⌡°²·÷÷÷÷÷═║╓╔╔╕╖╗╙╚╚╚╚╚╛╚╙╘╘╙╙╗╗╗╗╖╖╕╔╔╔╓ё╒║═÷·°≥≈√∙∙■■■■■■∙∙∙√≈≤≤≤√≈≈√≈≤≈√√√√√√√√≈≈≈√√√≥²═══║║║║═÷║╕╝Ё╢╡╟╠╟╟╞╞╞╞╝╜╛╙╘╘╚╜╛╙╗╖╖╗╘╚╛╛╛╜╝╝╝╜╜╛╚╘╙╛╝╜╙╘╘╖╕╖╖╖╕╕╗╗╘╘╘╗╗╗╘╙╙╘╘╚╛╚╙╚╚╚╚╛╛╛╛╚╚╙╚╚╛╜╛╛╛╜╝╝╝╜╞╝╝╝╜╛╚╛╚╚╙╘╘╙╙╘╙╙╘╗╘╜╡╢╧╪©аю╬╩╨╥╤╣╣╣Ё╡╡╡╡╢╣╣╢╢Ё╤╦╩╪╩╪╬абццццддддца©╬╫╫╪╩╧╧╩╪╩╩╪╧╧╧╧╦╥╥╥╥╥╦╦╦╥╤╣╤╤╥╥╥╦╧╨╩╩╪╩╨╧╦╥╦╥╤╤╤╥╦╧╪╫╫╪╪╬╬╫╬╫╪╪╪╪╫©╪©аабехйхиииййййихфффггхххииикмнмлккйххххиййййккййййййййккклккмоясттуввжьвжутуужжжусяомкйихгфдцаццццццццда╬╩╥╣╣╤╡╟╟Ё╤╨юемнлфю╫╫╫╫юцддцдехийййкллосуттжьвуттжвжжвтууусяонопппоннмлйихххгффффгххгфггфеедццццццдфгфгикйигххгфеддеееццццццццбабееддебцдедцбааццдфедфегхиххггфффддеееедцбцддбддедццдефецаюааю╬©аю╫╧╦╧╢ЁЁЁЁ╡╟╝╟╞╞╞╝╝╝╜╛╝╞╝╝╝╝╛╠╤╨╧╢╜╕║╒╒╒╒╒ё╓╔╓ё╒╒╒ё╒╒║║════║╒║║╒╒╒╒╒╒╒╓╖╕╔╕╕╕╕╓ё╓ЁадииихххикломмлнэЙНЙК©≈ёъЛЙКМЙЙИнЁ╜╧╩╬абббба╬╨╤╤╨╬юеефхигффд╣≤▓∙░▒▌▀▀▀┼┴┴┼▀█▐▒▓▓▒▓⌠⌠■⌠▐▄▀▀▀▀▀▄▀▀┼┼┼┼┼┼▄▄▀┼▀▀▀┼┼▀▀▀▀┼┴┤┤┤┤┤├├├┘┘┘┘┘┘┐┐┐┐┌│──│─~~~~}||{zyxwwwusrrsrrppommmljjjiihgfeedddccbacbaaa`_^_]ZZYXTRRRPOMLKKHGECBA@@><=<:9<"8bbceinntuxz}│┌┤┴┼▄▌░⌠ √≈≤≤∙⌠⌠■▒▒▓⌠■⌠▒░▌▌▌▌▄▀▀▄▌▐░▐▐░▒░▒▒░░░▓∙≈∙■■∙∙■∙√√∙√≈≈≤ °≤≥  ⌡°²·÷····÷══║║║ё╔╖╙╚╛╛╛╛╜╜╛╚╘╙╙╘╘╚╚╙╗╖╖╖╖╕╔╓╔╔╓ё║÷²° ≥≤≈√∙■■√√√≈≤≥≥≤≤≈√√≤≥≤∙≈≈≤≈≈≈≤≥≤≤≈≈≥°÷║║║╒╒╒║║╒╕╛Ё╣╢ЁЁ╡╠╡╠╟╞╝╜╝╛╛╚╙╚╜╜╛╘╘╘╙╚╛╛╛╜╞╟╟╞╜╜╝╛╙╘╛╝╜╚╙╙╖╕╖╗╖╖╖╗╗╘╘╘╘╘╗╙╚╙╘╙╚╛╚╚╚╚╚╚╛╛╛╜╛╛╚╚╛╜╜╝╜╛╜╜╝╝╝╝╜╛╜╜╚╚╛╚╛╛╚╙╙╚╙╚╚╚╙╛╡╦╩╫©юа©╩╦╤╣╣╢ЁЁ╢Ё╡Ё╢╢╣╤╤╥╥╨╩╪╪╪╫юаццббббббба╬╫╫╪╪╩╨╧╧╩╪╩╨╨╦╦╥╥╥╥╥╥╦╦╦╦╥╥╤╣╤╤╥╥╥╦╧╨╨╨╨╨╧╥╤╣╢Ё╡╠╠╠╠╡╢╤╥╦╧╩╩╨╪╨╧╨╨╨╪╬╨╨╩╫©ацффгхииииииххгфффгггггиклмлллкигфххийййййкййййййййкййккклоярсстжввьвжуууужввурпомкййихецбббббббббба╫╧╦╥╣╣╤╢╡╠Ё╣╨цлтвжофю╬╬╬юбцббдфиййийлннпсуссжввуттжьвжвутсрряпоопппонмнлкиииихгггфгиихффффеедддабцдфийииййихххиффееффффеддддддедцдееддецццццбббюббцффефегхихгффеффедеецдедаюаа©абббююбцдедббцбю╪╪╬юю╫╪╪╥╥╥╤╣Ё╟╞╞╞╞╞╞╞╞╞╝╞╞╝╝╝╜╚╝╡╥╧╦╢╜╕╒╒╒╒ёё╓╔╓ё╒╒ё╓╓ёё╒║║║╒ёёёёёёёёёё╒╔╖╖╕╕╖╖╓╕ё╘хБДИГГГГФГХИХККИЛМИХЙК╬≈ёщЙКККИИЙЦзычъААБББЦФДАчъБЕЕАЮАЦЦААББо╒▒∙▒▒█▀▀┼┼┼▀▌▐░░▒▒▓▓⌠⌠▓⌠⌠░█▄▄▀██▌█▄▀┼▀┼┼▀▄▄▀┼▀┴┴┼┼┼┼┼┼▀┴┤┤┬┬┬┤├├├├├┘┘┘└└└┐┐┌┌│┌│~}}||{zyxxywttttsrqqpnnnmlllkjjigfgfedddccddcccb`__^\\\ZWSTSRQONMLKIGEDCBA@>>=<:=#:ehkpw─├┤┴▀▄█▌▌▐░▐░⌠■≈°°²²°²² √≈≥⌡° ≤≈≈■■■⌠▓▒▒▒░▒▓▓▓⌠⌠▓▐▐░░▒⌠√≤∙■⌠■■⌠⌠∙√∙∙≈≈≈≥²≤≥⌡°°²·÷·²°²÷║║║║║║╒╔╗╚╜╝╝╝╞╟╟╞╜╜╝╝╛╚╚╚╘╗╖╖╗╘╘╗╖╘╗╕╓╒╒╒╒║═·° ≥≤≤√√√≈≥≥≥≤ ≤≈≈≥⌡≥∙≤≤≥≤≤≤≥ ≥≥≤≥⌡·═║╒╒╒╒║║ё╓╙╠╥╥╣╣╣╣╢╢Ё╠╝╛╛╜╚╛╛╙╘╚╜╜╛╛╛╛╜╜╛╚╝╟╡╡╞╝╝╞╝╚╘╚╜╜╛╚╙╗╕╖╗╗╖╗╗╗╘╘╘╘╘╘╚╚╚╙╙╛╛╛╚╚╚╚╚╛╛╛╛╛╜╜╜╜╛╚╞╝╜╜╜╝╝╝╜╚╚╛╛╚╚╜╙╜╜╛╙╙╚╚╙╛╜╜╠╥╫©ааю╬╪╧╤╣Ё╣╢Ё╢╤╤╢╤╣╣╣╤╦╨╩╪╩╨╩╪©аццббааю©©©╫╩╨╨╨╨╨╩╧╨╩╩╧╥╥╦╥╣╣╥╦╥╥╦╦╥╤╣╢╢╢╣╣╤╣╤╤╦╧╦╦╦╦╥╤╢Ё╟╟╞╝╜╛╛╛╚╝╠╢╤╧╧╦╩╧╦╦╧╧╨╪╦╣╣╧╪╬©адефгхххххиигфефггедфикллммнмйггихиийииййккйииийййийккклняррясувввжжжуужжьвуяонмлккифцбцдююаааююю╪╦╢╣╥╤╣╣╢╡╡╢╥╬кввшэуйдаю©юааюадгикйиимппяужсружутствьвжжьуяпярпоопяпонннкиххиихфгфефххфефффееееецдефгиихииххггхиффефгггггффффффгхфееецдецбаююююаюббцффегфгххгдццдефдддцаюбб©©юаююааю©©абацдддеда©╫╫©ю╬╩╧╩╩╩╨╥╢╠╟╞╞╞╞╞╞╟╟╞╝╜╛╜╝╜╚╛╞Ё╥╨╧Ё╛ё╒╒╒ё╓╔╔ё╒╒ё╓╔╔╔╓ё╒╒╒ё╓╔╔╓╓ёё╓╓╔╒╔╖╖╕╖╗╗╓╗ё╙пКИЙЙКККЙЙЙКХНМГЛМИПЙЙ╬≈║зХКЙКЙЙХИХГЙЙИХГФГГФГГГХИХФЙХХХХГХИХш╗░∙▓⌠▒░▐▌▄▄█▐▒▓▒▒▒▓⌠■⌠▒⌠⌠░█▄▄▀▐▐░▐█▄▄▄▀┼▀██▀▀▀┼┼▀▄▀▀▀▀▀┴┤┤┬┴┬┤├├┤┤├├┘└└└└└└┐┐┌┌│─~~}|||{{{zzzxvvvutrssqoooomnmlkkjhghgeeeeddfeeddcba`^^^^\XUUTSRPONMMKIGEDCBA@@?=;>$@wy─├▐▌██▌░▒▓▓⌠■■∙√∙√≤≥≥≤⌡÷║÷°⌡  °··⌡ ⌡²°°⌡≥≈√√√▓░░▓⌠▓░▐▒▓▒▒■√■▒∙∙■■∙∙∙∙√∙∙≈≥≥ °≥≤≥°··═╒·═╒╒║║╒╓ёёё╔╕╘╛╜╝╝╞╟╟╠╠╠╞╞╞╝╜╚╙╘╙╙╙╙╘╘╗╗╙╘╘╗╖╕╕╕╔╓ёё╒═²° ≥≤≈≈≤≥   ≥ ⌡⌡ ≥≥≥   ≥≥≥⌡ ≥≥⌡·║╒══║ёё╒ё╔Ё╦╨╦╣╣╤╥╥╤╢╡╟╞╝╜╝╝╜╛╚╚╜╝╛╞╞╜╝╟╝╘ЁЁ╡╟╜╜╝╞╜╜╜╜╝╝╜╛╚╘╗╘╘╘╘╘╗╘╘╘╘╘╘╘╙╚╚╚╚╚╚╚╛╚╚╚╚╛╜╜╝╚╙╚╛╛╛╝╞╜╛╛╝╞╞╝╝╜╜╛╚╚╜╝╛╝╝╚╚╛╛╛╚╙╜╢╨╪╬а©ю©╩╦╥╥╤╤Ё╠╠Ё╣╣╢╣╢╣╥╨╪╪╪╪╨╦╩©ббаююю©╬╫╫╫╫╩╨╩╩╨╨╩╪╦╦╩╪╧╤╤╥╤╤╤╥╥╥╥╧╥╤╢ЁЁ╢╢╢╢╢╣╤╥╤╣╤╣╣╣╣Ё╠╟╛╛╚╚╙╘╘╘╙╘╙╝╡╢╤╤╥╥╦╧╧╧╧╦╩╧╥╥╦╨╫╬юацдефффффггхгфееефххгхйкнокиййхгийиииихйкйииййййййкккллмпссрсуьвввввжжутуусяомклкйхфдцб©©╫╩╪╬╫╨╩╨╧╦╤╣╢Ё╢╣╥╧©йтзшэчщыпгаю©юбю╪╫аефхийлнпртжжуссттуужвыьуттрпясямяппооооомкйххггффеффгхххееееееефегиийкйиггххгффгедеххггггфффецегффффедбабю©╬©юаабббдфгххцдеедбююю©©аббю╬©©©╬╬╫╫╪╬юаю©юююабббббцдбю╫╬©©╫╨╩╧╨╩╩╦╣╣Ё╟╜╜╟╠╠╞╟╞╞╝╝╝╜╜╛╜╟╣╨╩╧╥╛╓÷╒╓╓╓╖╔╔╓╓╓╔╕╕╔╔╓╓╓╓╓╔╓╓╓╓ёё╓╓║╔╖╖╖╗╗╗╖╙ё╝тИХКЛККЙЙЙЙЙЙКЙИЙЛХККГб≈╓эЙЙЙЙЙЙЙЙИИЙЙЙЙЙИИИИИИИИИИИЙИИХХХИИХБ╞▓▓≈■∙⌠▓▒░▒▓▓▓⌠▓▒▓⌠■⌠⌠∙∙⌠▒▐▌██▌▐▐▐▐▌▌█▄███▄▄▄█┼┴┼▀▀┼▀█▄┼┴┬┴┴┴┬┤├┤┤┤┤├┘┘┘┘└└┐┐┌┌││││─~}~|{z{{{{zxxyxusutsrrqpnnmmmmljghhhgeeeefeddefdcba`^]]ZWWUTTSQPQONLJIHGFDBAA?=?$L├┴█░√√√≤≤≥≤≤≤≤≥≥≤√■∙≥°²²÷╒╓ё═·²²°⌡⌡°°⌡≥≥≥≥≤≈≤≥⌡≈⌠░▐░░▒▓⌠■⌠▓⌠■■⌠√√∙√≈≈≈√≥≤≥⌡°°²÷°⌡°·÷÷═║ё╔╕╕╔╓╔╕╖╖╖╖╗╙╚╛╜╝╝╝╞╟╟╠╟╟╟╟╞╝╜╜╛╛╛╛╛╚╚╙╚╚╙╙╘╘╗╗╘╗╗╖╕╔ё╒·²°⌡ ≥≥≥⌡     ≥≥  ⌡⌡⌡    ≥≥ ²═╒╒╒╒╓╓╓╓╗╜╦╨╩╧╧╧╧╦╤╤╣╢╡╠╞╝╚╛╜╝╝╝╝╞╝╝╠╢╡╜╜╟╢Ё╡╟╞╝╞╟╜╜╜╜╝╝╜╛╛╙╘╘╙╘╘╙╘╘╙╙╙╙╙╙╛╛╛╛╚╚╚╚╜╛╛╛╛╛╜╜╝╛╚╛╜╛╜╝╞╜╛╛╜╝╝╜╚╛╛╛╛╛╜╝╛╝╝╛╚╚╚╚╛╞╢╩╬©©ю╬©╫╧╥╤╤╣╢╢╢╢╣╣╣╢╤╦╧╨╩╩╩╩╨╧╨╪юццбююю©╪╨╩╩╪╨╨╩╪╩╨╩╪╧╦╩╨╥╢╣╤╤╤╤╥╥╦╦╦╥╤╣╢╢╢╣╤╣╣╤╤╤╣╢╢Ё╠╟╞╜╚╙╘╘╘╘╘╘╗╗╗╕╕╙╜╞╟╟╢╣╥╦╧╨╨╨╨╦╤╤╥╧╨╩╫╬©ацдеедддееееееефггфгиилмкйкйххийииййийккйийййййкклмммнпрсссжьвввьььввууурпнлийиихфецб©©╫╩╩╪╩╦╧╦╦╥╤╣╣╣╥╩©циявзззшщщвохфцаа╬╩╫аабцефикмпсужуттттууувьвттсрррсрорряпнммммкиххггффгггггггфффееефффхихиййхгххггфггфффхгфеегффффдегедцццбаюю©╬╫╬©ююцццдефеецццбю╬╪╪╪╩╩╪╬╬╫╩╨╩╩╩╩╨╧╦╨╪╫╪╪╫╫╫╬©юааабббю╬╬©ю╬╫╨╧╧╨╨╦╤╤╢╡╞╞╠╡╡╡╞╝╝╝╜╜╜╜╜╜╞Ё╥╧╨╨╢╛╓╒ёё╔╖╕╔╔╔╔╕╕╖╖╖╖╖╕╕╔╔╓╔╔╔╓╓ё╓╒╔╗╗╗╗╘╗╖╚╔╜мФИЙИИИИЙЙККХХКИХКЛКМИц≈╓эКЙКККЙЙЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙИИИИИИЙФЁ■▓≈■∙▓▓▒▒▓⌠■■⌠⌠⌠⌠■■■⌠∙∙■▓▐▌██▌▐▐▐▐▌▌█▄███▄▄██▄▀┼▀▀▀▀▄▀┼┴┴┴┴┴┴┬┤┤┤┬┬┤├├├┘┘└└┐┐┌┌│││─~─~}||||{zyyyywvutsrrrqpmnnnmllkjjjiggghgfeeffeddca_^]ZWXWVVUSRRQPNLKJIHFCCBA>@%T⌠∙≤≤⌡⌡°⌡⌡⌡   °²·°≥√≈⌡═║═║ё╓╓ё÷²·²°°°° ≥≈≤≤≤≤≤ ⌡≤√∙√≈√∙∙∙√√■⌠■∙√≈≈≈≤≥≥≤≤≤≤ °°°·÷÷·÷║║══║╕╕╕╕╕╕╕╕╖╖╗╗╗╘╙╙╛╛╛╜╝╞╞╟╠╠╡╡╡╠╟╟╟╟╞╞╞╝╝╜╜╜╜╛╛╚╚╚╛╚╙╘╘╗╖╕╔╓ё║÷²⌡   ⌡⌡ ≥≥ ⌡⌡⌡⌡⌡⌡⌡⌡ ≥≥⌡÷╒ёё╒ё╓╓╓╖╝╤╩╩╨╨╨╩╧╤╢╢╢╢╢Ё╡╠╝╞╟╠╡╡╠╟╠╡╣╤╡╜╟╤╢Ё╠╟╟╟╟╟╜╜╜╜╝╝╜╛╜╚╙╙╙╘╘╙╙╙╙╚╚╚╚╙╜╜╜╛╛╛╛╛╝╝╜╛╛╛╜╜╝╜╛╜╝╜╝╝╝╜╛╛╜╜╜╛╙╚╛╜╜╜╜╜╝╞╝╜╚╛╛╚╟╣╪©юаю©╬╫╨╥╤╤╣╢Ё╢╤╤╣╣╤╥╧╨╪╪╨╧╧╨╧╨╪©бцба╬╬╬╫╨╧╨╩╩╧╧╩╫╪╩╨╩╧╦╧╦╣╢╣╣╤╤╤╤╥╥╦╦╥╤╣╣╣╣╣╣╢╢ЁЁ╡╠╟╠╞╛╙╗╖╕╔╕╕╖╖╖╖╖╗╗╕╕╗╙╚╚╛╝╟╡╣╥╦╧╧╨╧╥╦╧╨╧╥╧╧╨╪╬ацдеддддефффефггееггйкккмкхийкиийкййккййккиййклмнооопярстжвуужжввьвжжуромкхххгггфца╬╬╫╩╨╨╨╦╨╨╨╩╩╩╩╩╬бгкяжзшвжжзчщжплифдю╪╫юааббдфхйоятжжууууууувьвутссттрррсряпнммллкиххггфгхххфффггффееффгхииххиихххххггххгфгггееегфефгфефцбююююююю©╬╬©юааццццддцбааю╫╩╧╦╦╥╤╤╥╧╨╨╨╧╧╨╩╨╧╦╥╥╧╧╧╧╨╩╨╨╩╫╬©©©©аю©©©ююю╩╧╦╧╧╦╥╥╥╣ЁЁ╡ЁЁ╡╞╝╝╜╜╜╜╝╝╝╝╞╡╣╧╩╨╣╛╕╒ё╔╖╕╕╕╕╕╖╖╖╖╖╗╗╗╕╔╓╓╔╕╖╕╓╓ёё╕╘╘╗╘╘╘╕╙╗╛цшЦБЦЦБАЮЮЮЮЮчАщзБМКМКе≈ёэКЙККККЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙЙИИИИИИИИГ╣∙▒∙■■⌠⌠⌠⌠■∙■■⌠■∙∙∙■■■∙∙■▓░▌▌▌▐▐▐▐▐▌▌███▌█████▌▄▀▄▄▀▀▀▀┼┼┴┬┬┴┴┴┴┬┬┬┬┬┬┤├├├┘┘└└┐┐┌│││─││─~}|||{zzz{zyvutsssrropqpnlmnlllkjjjjihgghgfdfec`_^[XYXXXVTSSRQONMLKJHFFDCAB'W ⌡²·÷══²°⌡  ⌡°·══·°²═ёё║║╒ё╔╔║²·══÷⌡≥ ⌡≤≤≥≥≤≈√√≈√≤ °°⌡⌡≤≤≤≈√√≈≈≤≤≤≥ ≥≤≈≤ °²²²÷═══║╒╒║║║╔╓╓╔╕╖╕╕╕╖╖╗╗╘╘╘╙╙╚╛╜╝╝╝╠╡╡ЁЁ╡╡╡╡╡╡╠╠╟╟╞╝╝╝╝╝╝╝╝╛╚╙╙╙╙╙╘╙╙╘╖╔╒═· ⌡°⌡   ⌡⌡⌡⌡⌡⌡⌡⌡⌡≥≥ ·║╓╓ёёёёё╕╛╣╫╬╫╩╩╨╧╥╢╣╣╢╢ЁЁ╡╠╢Ё╡╡╢╣╣╣╤╦╥╠╝╠╣╤╢╡╟╞╟╠╟╞╝╝╜╝╝╝╜╜╜╚╙╚╙╙╙╚╚╚╚╛╛╛╛╚╜╜╜╜╛╛╛╛╞╝╝╜╜╜╜╜╝╜╜╜╝╝╝╝╜╜╛╛╛╜╛╛╙╚╛╜╜╜╜╜╞╞╝╜╛╜╝╟╤╩╬©юаа©╫╩╦╤╣╣╣╢╣╣╣╣╣╥╧╩╨╨╩╨╧╧╧╨╨╪©абаю©╩╩╩╨╨╨╩╪╨╦╦╩╫╪╨╧╨╦╦╦╥╣╣╥╤╤╤╤╣╤╤╥╥╥╣╢╢╢╢╣╢Ё╡╠╟╞╝╜╝╚╗╔╓╓╓ё╓╓╔╔╔╕╕╕╗╕╕╖╘╘╘╙╙╛╝╡╢╤╥╥╧╦╥╦╧╧╤╢╢╢╣╥╧╪©аддеедддегфгхгфефгхийкмлийккихийййклккккиййклноппппярсуужууужвььвжвуромйгхгффгфцю╪╫╫╪╩╩╪╪╬╬©юабццехкнсвыьрппсыэыуяомкга╬╬юююацехйнпсужутттууувььусрсутрртсрппоонммкиххггффхихфефгффеефггхиииххийиииихххийгфгхгффггедфгфедбю©╬╬ююа©©©©ююаабббббаю©╫╫╪╨╦╤╣╣╣╣╢╣╤╦╧╨╧╨╨╩╩╨╧╦╥╧╧╦╦╧╨╧╦╧╨╩╪╪╪╩╬©юююююа╪╨╧╦╦╦╥╥╦╦╥╤╣Ё╡╠╟╞╞╝╝╝╝╝╞╞╝╜╝╠╣╦╨╨╣╛╔╓╕╖╖╖╖╗╗╗╗╖╖╗╗╘╗╖╕╔╕╕╖╖╕╔╓╓╔╗╙╙╘╙╙╘╚╙╗╖╝╨©╩╪╩╧╥╤╢ЁЁ╢╟╢╡ЁгГИКЛи ёэКЙКККЙЙИИИЙЙЙИИИИИЙЙИИИИИИИИИИИХХХГГ╤√▓√∙√∙∙∙∙∙∙■⌠⌠∙√≈√∙∙∙√∙∙⌠▒▐▐▐░░░░▐▐▌▌████████░█▀▄██▀┼┼▀▀┴┬┬┬┼▀┼┬┬┴┴┴┴┤┤┤├├┘┘┘└┐┌┌┌┌│││││──~}}}|{z{{{{xwvttsssssrqnmmnnnnmlklljihhihgeffdba`^[[ZZYXVUTSRQPONMLJIHFECD']ё║ё╔╔╕╓ё╒═÷÷÷═║╒╒║÷═╒╓╔╓╓ё╓╖╗╕║÷║║÷⌡≥ ° ≥≤≈≈√√√ ≈√≈≥ ²═    ⌡ ≥≤      ≥≤⌡²÷║║║║║÷═║║╒╒╒║ёёё╔╗╘╘╗╗╗╗╗╘╘╘╘╗╘╚╜╝╝╜╛╟╠╡Ё╢╢╢╢ЁЁЁЁ╡╠╠╟╟╟╟╟╟╟╟╟╝╜╛╛╛╜╜╛╛╛╚╚╘╖╔ё··÷²°⌡⌡°⌡⌡⌡⌡⌡⌡⌡⌡ ⌡²═ё╔╔╓╓╓╓╖╛╢╫баю╬╫╨╥╤╤╦╦╥╤╣╢ЁЁ╦╤╣╤╦╧╨╧╥╥╢╞╠╤╥╣╢╡╟╟╠╡╠╞╞╝╝╝╞╝╝╜╜╚╚╚╙╙╙╚╛╛╛╜╜╜╛╛╛╛╛╜╜╜╜╝╞╝╝╜╜╜╜╜╝╝╜╝╝╞╝╜╜╜╛╛╜╜╛╚╜╜╜╜╝╝╝╝╞╝╛╛╛╝╡╣╩╫©©юбю╫╪╧╥╤╣╣╣╢╤╤╤╥╧╩╪╪╩╨╦╦╧╩╩╩╪╬юаю╬╪╩╨╧╦╧╩╫╫╪╨╧╧╩╪╩╧╦╧╦╥╥╤╣╤╥╤╤╤╣╢╢╣╣╥╤╢Ё╡Ё╢╢ЁЁ╡╠╟╝╛╚╗╕ё║║╒╒ё╓╓╓╓╓╓╓╓╔╓╓╔╕╕╖╖╘╚╜╞╠ЁЁ╢╢ЁЁ╢╤╣Ё╟╟╟╟╠╢╤╧╩╬юбццбббгфгххфефххххйллккллихииийллкклкйийклмопппппястууввввьыыьввуромкххфеееда╬╩╩╪╫╫╬©юаацдефггикмпсжжтннмнрьыьтсяпмгца╬╬╬юцфикморстсрясстувььусрсутярусрпппоннмкйиххгффгххфефхеффгхиийиииххйккиййиииййиггххффггдцдфецбю©╫╪╫╬©ю╬╬©©©©юююю©©╬╫╪╨╦╧╧╧╦╤╣╢╣╢Ё╢╣╥╧╨╨╧╧╧╧╧╧╧╧╩╩╨╧╧╨╧╦╦╦╦╦╦╦╦╨╪╬©юююю╬╪╨╦╦╦╦╥╤╦╦╦╥╢Ё╡╠╟╞╝╝╜╝╝╝╝╝╜╛╝╠╢╥╪╪╢╚╖╕╔╖╖╗╗╗╘╗╗╘╘╘╙╙╙╙╘╗╗╗╖╕╔╕╕╕╘╚╚╙╙╙╙╛╗╗╗╔╕╖╔╖╕╕╔╔╔╔╔╓÷╒÷ё╩ХНИМл·╕эКККККЙЙИИИЙЙЙЙЙЙЙЙЙЙЙИИИИИИИИИИИИИИГ╥≥∙≤≈≥≈√√≈≈√∙■■√≈≤≈√√√≈√∙■▓░░░▒▒▒░░▐▐▌▌▌██████░█▄█▌█▄▀┼▀▀┼┬┬┴┼▀┼┴┬┴┴┴┴┤┤┤┤├├├├┘└┐┐┐┐┌┌──││─~~~|{{{||zyxwutttvtrqpponooonmllmlkjijihfffdccca_]]\[ZYWVVUTRQPOOLJJGFEF(a╙╓╔╗╖╗╔╒╒╒╒╓╔╕╕╔╓║··╒╔╖╖╕╔╓╖╚╘╔ё║÷··²⌡ ⌡≥≈√√≤ ⌡⌡≥≤≥  ⌡²°⌡⌡²·²°°·²°°°°⌡ ⌡²÷═║║═÷÷═══║ёёёёёё╔╗╘╙╘╘╘╗╗╖╖╖╖╗╘╚╜╝╜╜╛╝╞╠Ё╣╥╥╦╣╣╢╢ЁЁ╡╠╠╠╠╠╠╠╠╠╟╞╝╝╝╞╞╝╛╛╛╛╛╙╘╗╔╓ё║÷²°°⌡⌡⌡⌡⌡⌡⌡⌡⌡²═╒╓╓╓╔╓╔╗╛Ё╩юбюю©╪╧╤╥╧╦╧╧╧╨╨╨╩╫╫╪╩╩╧╦╤╣╟╟╢╦╥╣╤╣Ё╠╠╡Ё╠╟╟╞╞╞╞╞╝╜╛╚╚╚╚╙╚╛╛╛╜╜╜╜╜╜╛╛╛╜╜╝╝╝╝╝╝╝╝╝╝╝╜╝╝╝╞╟╞╜╛╜╜╜╜╜╛╛╞╞╝╝╝╝╝╝╝╛╚╛╝╠╤╨╬©юаба╫╧╨╦╥╤╤╣╢╣╤╥╨╪©©╫╩╪╨╦╧╩╫╬╬╬╬©╬╪╩╧╦╨╧╧╨╩╪╪╩╨╧╧╩╩╧╥╤╧╦╤╣╣╢╢╢╣╣╤╣ЁЁ╢╣╥╤╢Ё╡╡Ё╢╡╠╟╟╝╛╘╖╒═÷·÷═║║ёёёёёёёё╓ёё╓╔╔╔╖╖╗╘╙╚╛╜╜╞╞╟╡ЁЁ╠╟╝╝╜╜╞╟╡╢╥╨╫юаабцфеегхфеехггхийкккллйхиихкллккккйийклмноооопяртттьвжжвььвввжсяомкигеддцаю╫╪╫©юабцдефгхииийлнпсуролмлкнтььжтрпнлихддддфийкмопрряппяртувьвтсссссрсутряппонммлйиххггфгхгффгхфгхийкккхииххйкйииййиийййхггфеефецбцдб©╬╫╪╩╩╪╫╫╫╬╬©©╬╬╬╬╬╪╩╨╧╦╥╤╢╤╥╦╥╤╣╢╣╢ЁЁЁ╣╥╦╨╧╧╦╦╧╨╨╩╪╪╨╧╨╨╧╧╦╥╤╤╤╤╣╤╦╨╪╫╬╬╬©╬╪╧╦╧╧╦╣╤╥╥╥╤╣╣╡╠╟╝╜╜╜╜╜╜╜╜╜╝╟╡╢╨╬╩Ё╜╗╓╖╖╖╗╗╘╘╙╘╘╘╘╙╙╙╙╘╘╗╗╖╕╖╗╖╙╛╚╚╚╚╙╘╕╘╛╙╗╘╘╔╔╓╓╓╔╔╔╖╒ё·÷╡АХИЛл║╘щКЛККККЙЙЙИКККЙЙЙЙЙЙЙЙЙЙИИИЙЙЙЙЙИИИИДЁ≤√≤∙≤≈≈≈≤≥≥≤≤√≈≤≤≤≤≤≤≈≈√∙⌠▒▒▒▓▓▒▒░░▐▐▐▌▌█▌▌██▐█▄▌▌█▄▄▀▀▀┼┴┴┴┼┼┴┴┴┴┴┴┴┤┤┤┤├├├├┘┘└└└└┐┌──││───~||||||{{ywvuuusrqrrqppppommmmmlkkkkiggfedeeca]]\[YYYWVVUSQPPPNLKIHHH)b╞╖╖╙╗╙╖ёё╓╔╖╗╗╗╖╔║²·╒╕╘╘╘╕╔╖╚╚╖╓ё║══÷·°°⌡≥≥ ⌡°²°⌡°²²⌡ ⌡°°²÷÷÷÷║╒║═÷════°·÷═╒ё║²═║║═║╓╔╓ё╓╔╕╖╗╗╗╘╗╗╖╖╖╖╗╙╚╚╛╛╜╜╜╞╟╠Ё╣╤╥╥╥╥╤╤╣╢╢ЁЁЁЁЁЁЁЁЁ╡╠╟╟╟╟╟╞╝╝╝╞╝╜╛╛╙╗╕╓ё║═÷°°°⌡⌡⌡°°°÷ё╓ёё╓╔╓╘╞╢╨©бб©╬╫╪╨╧╨╬╨╩╫╬©©╬╫╪╩╨╥╢╠╟╞╠╟╡╦╧╤╢╣╣╢╡╡╡╡╠╠╟╟╞╟╟╟╞╝╛╛╛╛╚╚╛╝╛╜╜╜╝╜╜╜╜╜╜╝╝╝╝╞╝╝╝╝╞╞╞╞╝╞╞╞╞╟╟╜╛╜╝╝╝╝╜╜╞╞╞╞╟╟╝╜╝╜╜╞╡╣╨©аююа©╪╧╦╦╥╥╥╤╢╢╣╥╧╫©ю╬╪╩╩╩╩╪╫╬╬╬╬╫╩╨╧╧╦╦╧╨╩╪╩╨╩╩╩╨╩╩╧╤╣╣╤╣╢Ё╢╢Ё╡Ё╢╣╢Ё╡╢╣╤╤╤╣╢╢Ё╡╠╟╟╞╜╘╔ё══÷÷════╒╒╒╒╒╒╒╒ё╒╒╓╓╓╓╕╓╓╓╓╓╔╕╕╙╛╜╞╟╟╠╡╞╝╜╜╜╜╝╞╡╣╧╪╫©абцбцегфеефгххххийкллкййииклкййккйййклммнонопяярстжуттжввжжвжтряпнмкигееффецбцеддегххиииххйййлояпмиййилржутроннонммлллмноопярсссррстжвыывтттсрястусяоооонмнлкииихгггггггггфгиклкййхииххийихиййииииигфееццедбаба©╪╩╩╨╨╩╪╪╪╩╩╪╪╪╩╨╨╨╦╥╣╢╢╣╢╢╢╣╤╤╣╢╢╢╢Ё╡╡╡Ё╣╤╧╧╧╧╧╧╨╨╨╪╪╨╧╨╨╧╧╧╥╥╥╤╢Ё╢╢╣╥╨╪╫╫ю©╫╨╧╨╨╧╤╤╣╣╤╤╤╤╣╢╡╟╝╜╜╜╝╝╝╝╝╞╞╟╡╤╩╫╩╤╝╗╕╕╖╖╗╘╙╚╗╗╘╙╙╘╘╗╗╘╘╘╗╗╗╗╖╙╛╛╚╚╚╙╚╙╙╙╘╕╕╖╗╖╖╕╕╔╔╔╔ё╔║╔╠АКЙИг÷╙щЙКЙЙЙИИИИИИИИИИИИИХХХИИИИИХХИИИХХХГъ╜√≈≤■≤≤≤≤≥ ⌡  ≥≥≥≥≥ ≥≥≤≤≈√■▓▓▓⌠⌠▓▓▒▒░░░▐▌▌▐▐▌█▐▌▌▌▌█▄▄▄▄┼┼┼┼┼┼┴┴┬┬┴┴┬┤┤┤┤├├├├├├┘┘┘┘┘└┐┌┌┌││────~}}}}|||{ywvvuttsssrrqqqpnmmnnmllmlkiihgeeec`^^][Z[[YXXWURQQQOONKKJK+dЁ╚╚╜╚╝╜╚╚╚╚╚╙╖╕╗╕ё÷═ё╖╘╛╛╘╕╗╛╛╙╓╔╕ё═·÷║·²²··²⌡ ÷²⌡   ⌡·²²÷═÷÷╒╕╔╓╒╒ё╓╔╔╒ё╓╔╖╗╔║║╒╒═║╓╕╔╕╕╖╗╗╗╗╗╙╘╗╗╗╙╚╛╛╛╚╚╚╜╝╞╟╠╡Ё╢╢╢╢╦╦╦╦╥╤╣╣╣╣╣╣╣╣╣╢╢╢ЁЁЁЁ╡╠╠╠╠╠╟╞╞╝╚╙╖╕╕╔╓ё²²²°°°²²²║╓╔ё╒ё╔╕╝╤╪юцдцю╬╫╫╫╫юцабцца╫╨╥╡╠╝╚╘╗╙╛╝╣╦╥╣╤╤Ё╢Ё╡╡╠╠╠╟╠╟╟╟╟╟╞╝╛╛╛╜╛╚╜╞╜╜╜╝╝╝╜╜╝╝╝╝╝╝╝╞╝╝╞╞╞╟╟╟╝╞╟╞╟╠╟╝╛╜╝╞╞╝╝╜╜╝╞╟╠╟╝╛╞╝╟Ё╤╧╫ада©╬╨╥╥╧╥╤╥╦╤ЁЁ╣╦╩╬©╫╩╩╩╨╩╫╬╫╪╫╫╫╩╦╥╥╦╦╦╥╨╫╫╨╧╨╪╩╩╩╨╥╢Ё╣Ё╡╠╠Ё╢Ё╡╡Ё╢Ё╡╡╢╣╤╥╥╦╥╣Ё╡╡╡╠╟╜╘╔║╒╒║╒╒╒║║║║║║║╒╒╒║║║╒╒╒╒╓ёё╒║║╒ё╓╕╗╙╛╛╝╟╡╠╟╞╝╜╜╜╜╞╠╣╥╦╨╫©аюадфеддефхихггхйлмкккййклкйиккйййклммнннопяярстжутувььвжвжтссрпяолйххйллигхигфегххххгффйхеехмнмегггкясрпомноппннмнпртужсстуууууувьзшшьттусяятутпомнопоннмкйиихххгггггффегиккйигхииххххгфхийииххфдцдцццецбааю╪╨╧╨╨╨╩╪╪╩╨╤╥╦╥╤╢╢╢╡╠╟╟╡Ё╢╣╢╣╣╢ЁЁЁ╢╢Ё╡╡╠╡Ё╢╥╥╦╦╧╦╦╦╨╪╪╩╨╨╩╨╧╦╦╦╦╤╢╡Ё╡╡╢╥╨╪╫©©╫╩╨╪╩╨╧╥╣╢╢╣╤╤╦╤╢╠╟╝╝╝╠╟╞╞╝╝╝╝╠╡╤╫ю╫╢╜╕╕╕╕╖╘╙╚╘╙╚╛╛╙╘╗╖╘╙╙╘╗╗╗╗╙╛╛╚╚╚╙╙╜╚╗╘╙╙╚╘╗╗╗╖╖╖╗╕╓╔║╔╜щХКЕб°╙щХИХХХХХХГГГГГГГГГГГГГГГГГГФФГГГФФФФш╙√≥ √ ⌡   ⌡⌡⌡ ⌡ ≥≥ ⌡⌡ ≥≥≤√■⌠⌠⌠⌠⌠⌠▓▒▒▒░▒░▐▐▐▐▐▌▐▌▐▐▌▄▀▄█▄┼┼┼▀┼┼┬┬┬┬┴┴┬┤┤├├├├├├┘┘┘┘├├┘└┐└└┐┌││──~~~~{|}|{yxwuvvusrrrrrrponnnonmmmmljkjhfeeb_ab`]]^^][[ZXVTTTQPOLLLL-dЁ╝╜╠╡╣╢╢Ё╠╟╞╚╘╛╚╕╒║╒ё╗╝╚╚╙╗╖╙╚╚╙╕╒══÷═╒║════÷·°⌡⌡°·÷·÷═²÷══·²÷╒══║╒╓╕╖╗╗╗╗╖╗╘╘╖╔ё╒╒╓╔╕╕╖╖╕╔╖╘╘╗╗╘╙╙╙╙╙╙╘╙╚╛╝╞╞╟╝╝╞╠ЁЁ╡╠Ё╥╩╩╩╩╨╧╦╥╤╤╤╤╤╤╢╣╣╣╢ЁЁ╢╢Ё╠╠╠╠╟╟╝╜╛╚╚╙╘╗╓╓╒═²°°²ё╓╔╓╒║╔╘╟╢╨юдддцю╫©бдффцда╩╤╡╝╙╖╕╕╗╙╘╗╛╠╦╦╣╡Ё╤╣╡Ё╡╠╠╡╡╠╟╡╠╞╞╟╟╟╞╚╚╚╛╜╜╝╝╜╜╝╞╞╝╜╛╜╝╝╞╞╞╟╞╞╞╞╞╞╞╞╞╞╞╞╟╠╠╟╞╞╞╞╞╞╞╞╞╠╟╟╠╟╝╝╞╞╜╞╣╨╫юцеа╫╩╦╥╦╨╧╦╤╤╥╦╧╧╫╬╬╫╩╩╪╬╬©©╬╫╪╩╩╪╦╥╦╧╧╧╨╦╨╩╩╪╫╬╫╨╨╧╥╣Ё╡╡Ё╠╟╠╠╟╟╡╡╢╤╤╣╤╦╩╨╧╧╨╨╧╥╤╤╤╢╟╚╖╖╗╔╓ё╓╓╔╓ёё╒║║║║═·═÷÷÷═║══··²·÷═══÷║╓╗╚╜╝╞╠╡╡╠╞╜╜╜╝╠╢╣╢╣╦╩╫╬юбцдцццдгикифдхкмнмкйийййииииииклммлммнопряпртжвьжжжвжжвыьусрсяонммлмномкйккйифхиигедддефиллйгегииилятомкклмнооояртжьыуьзыввьвыььзэщзьжвжрсжвуряпоопяяомйхиихххххххггфкккйииийййихххххиххгггххдццбцдефаю©╬╫╪╩╪╩╪╪╪╫╫╨╥╦╣Ё╡╠╞╜╜╛╜╝╞╟╟╡Ё╣╢╢Ё╡╠╠╡╢Ё╡╠╟╠╢╤╤╥╥╦╦╧╨╩╨╪╫╨╨╩╪╨╨╧╦╦╧╧╦╤╢ЁЁЁ╣╤╥╥╨╫╫╩╨╪╪╩╧╦╥╤╣╢╣╤╥╥╤╣╡╟╞╞╡╡╡╠╠╟╟╞╞╟Ё╥╫©╩╣╙╗╖╖╖╕╗╙╙╙╙╙╙╙╙╘╘╘╙╚╚╗╗╙╗╙╜╝╜╚╛╜╛╚╚╙╙╘╘╘╘╙╙╘╙╚╘╕╖╕╔ё╔╢яЙГщ╬║╙оЕБААЮЮЮАААЮАААЮъъъъъчъъъчщччщщэшыьз©╒√≤°°⌡ ⌡⌡°°⌡⌡⌡⌡ ≥≥ ⌡≥≤≥  √⌠▓▓▒⌠⌠▓▓▓▓▒▒▒▒▒▐░▒▒▌▐▐▌▌█████▀┼▄█▄┼┴┼┼▀▀▀┼┴┴┬┬┤├├┘┘┘┘┤┤├├├┘┐└┐┐┘└│─│──│┌─~{}~|{{zywwwvtsssttsrrrssqponnnmmjkkjgeccbabddbbcba_][YVTSQOPOMP-f╡╛╝Ё╠Ё╢╣╣╡╟╞╛╙╛╛╖╓╓╔╔╗╜╜╝╝╛╙╚╜╝╚╗╕╓╒══╒╒╒║║║║═÷═÷÷║║══╒÷÷÷═══║╒ёёё╓╔╕╕╖╕╗╗╗╘╚╚╚╙╘╘╗╖╖╗╗╖╖╕╕╖╙╚╙╗╘╘╙╙╙╙╘╗╘╚╛╝╞╟╠╛╜╞╟╠╠╡╡╢╥╧╧╨╩╩╨╨╧╦╦╦╦╦╥╣╤╤╤╤╣╣╣╤╢Ё╡╡╡╡╠╠╟╞╝╝╜╛╚╗╗╖╔╒═══╓╕╔╒╒╖╛╞╤╦╪аефдбю╬юдфгеа╤Ё╝╙╖╖╖╖╖╕╕╗╚╞╢╥╥╥╢╠╠╢Ё╟╟╞╞╞╠╠╟╝╠╟╟╟╠╟╞╝╚╛╛╛╜╜╝╝╝╝╞╞╞╞╝╜╜╝╝╞╞╟╟╟╟╟╟╟╟╟╟╟╟╞╟╟╠╠╟╞╟╟╟╞╞╞╞╞╟╞╞╟╞╝╜╞╝╞╢╨©юааа╬╩╧╥╤╥╨╥╤╤╥╧╩╪╫╬╬╬╪╩╩╪╬╬╬╬╬╫╩╨╧╨╦╥╧╩╨╧╧╨╩╫╪╪╫╪╨╧╦╥╢╡╠╟╠╡╠╠╡╡╠╡Ё╢╣╤╥╥╦╨╪╩╩╩╩╩╨╧╦╥╣╡╞╚╘╗╖╖╕╔╔╕╕╔╓╔╓╓╓╓ё╒║÷···÷÷··÷·²²²·²²°²═╓╖╙╜╝╞╟╡Ё╡╟╜╚╞╠ЁЁ╡Ё╣╤╨╪╬ацццццдегиихгиймнмлкййййииййкийклллмноопрсрствььвжвьвызшзьжууряоооноппомлккййхиигецббццехйкйхдеффгкяурнкйййкнпярсужвввзшшыззышззэщщзьвьвттввурссяоннннлйиййиггхихгггхклллкйййииииихгггггфффффдцццццццю©©╬╬╫╫╫╬╬╪╩╩╩╧╤╢╠╞╝╜╛╚╛╚╛╛╜╜╞╡╢ЁЁЁ╡╠╠╠╡╢Ё╡╠╠╡╢╣╣╤╥╥╥╦╧╧╪╫╫╪╩╪╪╩╩╨╧╧╨╧╦╤╣╢ЁЁ╢╣╤╤╣╦╩╪╪╪╩╨╧╧╧╦╥╥╦╦╤╤╤╣╢╡╠╞╡╠╠╟╟╟╠╡╠╠╡╢╧╫╫╨╠╛╗╖╖╕╖╗╙╙╚╚╙╙╙╙╘╘╙╚╚╘╘╙╙╙╛╜╝╜╛╛╜╜╛╚╚╙╙╙╘╙╙╙╙╙╘╕╗╗╖╕╔╙╨хд©╞÷╓╨ецгфеефггфццццбаюю╫╪╩╨╨╨╧╦╡ЁЁ╠╟╞╟╠╝ё ≥²² ≥°°°°°°°°°⌡  ⌡⌡ ≥≥  √⌠⌠▓▓▓⌠■⌠▓▒▒▓▒▓▒░░▓▒▐░░▐▌▌▌▌▌█▀┼▄█▄▀▀┼▀▀▀▀┼┴┴┬┤┤├├├├├┘├┤├├├├└└└└┘┘┐┌┌┌│─│┌┌─}~~{z{||xxxxvvvvtttrqqrssrppooonnnmkhfddfefggeefdca`^[YWUSPQPOR.g╟╚╞╢╞╟Ё╤╥╢╡╠╝╛╝╝╘╔╔╕╕╘╛╛╞╟╜╙╙╜╞╚╙╘╗╕ё╒ёё╒╒╒ё╓╓ё╔╓ёё╒║╒╒ё║═║ё╔╓ё╔╔╔╔╔╕╕╖╔╕╖╖╗╙╚╙╛╜╝╜╚╘╙╚╚╚╙╗╗╘╘╗╘╘╘╙╚╚╘╗╗╘╚╜╝╞╞╞╚╜╞╞╝╞╠╡╢╤╥╥╦╨╪╩╪╪╪╪╪╪╩╧╥╥╥╦╦╦╦╥╦╥╣╣╣╢╢╢Ё╡╠╟╟╞╝╜╚╚╙╘╖╔╓╓╖╘╖╒╓╜╢╣╪╫юдхгцюбацец©╧╡╙╗╕╓ё╓╕╗╕╕╖╙╟╥╨╨╣╣╡╞╞╠╠╞╟╟╟╠╡╡╠╟╞╟╠╡╡╠╞╜╛╛╜╜╜╝╝╝╞╞╟╟╟╞╞╞╝╝╞╟╟╟╟╟╠╠╟╟╟╠╠╡╟╟╟╠╠╠╠╟╠╠╟╟╞╞╞╝╞╞╞╟╞╝╝╞╟╢╧╬бцбю╫╩╧╦╦╥╧╨╥╤╥╧╩╫╬©╬╬╫╪╨╩╫©╬╫╫╪╩╨╦╦╧╦╧╩╪╨╦╥╩╫╬╬╫╪╧╤╤╤╢╡╟╞╟╠╡╠╡╢╣╣╣╤╦╦╦╦╧╨╩╩╩╩╨╨╨╨╧╦╤Ё╞╜╛╚╘╗╘╗╗╖╗╖╖╕╖╕╕╕╕╔╓╓║═··²°⌡ ·²°°°²°° ⌡°÷╒╕╘╚╝╝╟╡╢╡╞╛╞╟╟╠╠╠╡Ё╤╦╩©абццбцдефгикйклмннмлййиийкллйккллмнояппртттуьыьжжвььзззыьжтстряяяппяяполйиххихгдцаааабдфххххддддеиотсмииигимопртужввьшщэшшшшэшшэщщзввьвууьвурттсоммнмлккккихгхихфгикклмммкййхиииигфефффеееддццддцбаююююююююю©╬╩╧╦╦╥╢╟╜╚╙╙╙╙╛╙╙╘╗╘╚╝╟╠╠╠╠╟╟╟╠╡╡╡╡╠╡Ё╢╣╤╤╥╥╥╥╦╫╪╫╫╪╩╪╫╪╩╨╨╩╨╧╥╥╤╢Ё╢╣╣╤Ё╢╥╨╨╧╧╧╧╧╧╧╦╦╦╦╤╣╣╤╤╣Ё╠╟╟╟╠╠╠╡╡╡╠╠╠╣╨╫╬╧╡╚╗╖╖╖╖╘╙╚╚╙╙╙╚╙╙╚╛╚╙╙╚╚╚╛╜╝╝╜╛╜╜╜╛╚╚╙╙╘╙╚╙╘╘╗╖╘╗╗╗╕╓╕╙╖╕ё═╒╖╘╘╔╓ёё╔╔ё╒╒║║═÷·²°²° ≥≥≤≤≤∙√√■⌠⌠√≥≤≈≤°²°°·°°°°°°²²²°⌡⌡⌡⌡ ≥≥  ≈■⌠⌠⌠▓⌠■■▓▒▓⌠▓▓▓▒▒▓▒░▒░░▐▐▐▐▐▌▄▀▄██▄▄▀▀▀▀▀┼┴┬┬┬┤┤┤┤┤┤└├├├├┤├┘┌└└└└└┐┌│││││───|}}|{{||zzzyxwwwuutsrrrssrpppponnnnmlllmomllkihiffecb_\ZXVSTRQT0e╟╚╜╟╚╛╝╡╢╢Ё╡╞╛╝╟╙╔ё╓╕╙╜╛╝╝╚╘╙╜╞╛╘╗╘╗╖╔╔ёё╒ё╓╔╕╕╖╕╓ё╒╒╒╒╖╔ё╓╕╖╕╓╓╓╔╔╔╔╕╕╕╖╗╖╖╗╘╗╚╛╜╜╛╛╛╛╝╝╜╚╙╚╙╘╚╙╙╚╛╛╙╖╙╚╛╛╜╜╜╛╜╝╝╝╝╝╞╠╡╢╤╤╤╦╩╪╫╫╫╬╬╫╪╩╨╧╦╧╨╨╧╦╨╧╦╥╥╥╤╤╣╢Ё╡╡╠╟╞╝╝╜╚╙╙╘╘╝╜╘╕╘╠╦╨©бфихеа╬баца╧╠╙ё╔╖╗╗╕╕╖╗╔╗╛╟╣╨╧╤Ё╡╟╜╜╞╟╞╡╡╡╢╣╢Ё╡╞╟╠╡╡╟╞╜╜╜╝╝╝╝╝╝╞╟╟╟╟╟╟╠╞╞╟╟╠╠╠╟╡╠╠╠╠╠╡Ё╠╟╟╠╠╠╠╟╡╠╠╟╟╞╞╞╟╟╠╠╟╞╟╡╣╨╬©бдб©╩╨╧╦╦╧╨╩╨╨╨╩╫╬╬╫╫╫╫╫╪╫╬©©╫╩╧╧╦╦╦╧╧╧╩╪╩╧╦╪╬╬╫╩╨╥╣╢╢Ё╡╡╡Ё╢╡╡╢╤╥╦╦╧╩╨╧╧╧╧╧╦╧╦╥╥╥╤╤╣╡╟╛╙╙╚╙╘╘╘╘╘╘╘╘╗╗╗╗╖╖╕╔╔ё╒═·²⌡≥≤    °²²²⌡⌡⌡⌡·║╓╕╜╜╝╟╡╡╠╟╜╜╝╞╟╠╡╡╢╤╧╪©аааабцддфхйкккмннмлкйиийклллллммнопрппружуувьвутуввыыььвусрсряяпоояоонкхфефгфдцбааа╬юцеффффедцбцфмррлхххфхлкмпсужжжвзээшшэшэшшээшыжжжуужвжтрссрпооонмлкккйихххггхкмклммлкккххххгфеееееддцббааббаю©©юабаабаю╬╪╨╥╤╣Ё╟╛╙╘╘╙╙╚╜╚╙╗╖╕╖╘╙╝╞╟╟╟╟╟╠╡╡Ё╡╡╡Ё╢╤╥╥╦╥╥╦╦╪╩╩╫╫╩╪╬╪╩╨╨╩╩╨╨╧╦╤╣╢╣╤╥╢ЁЁ╤╤╣╤╦╦╧╧╧╦╥╤╤╤╣╣╤╥╦╤╢╞╟╠╡Ё╡╠╟╠╠╟╠Ё╥╩╬╬╦╟╚╘╗╗╗╘╙╛╚╚╙╚╛╙╙╚╛╚╚╚╚╚╜╝╝╝╝╝╜╜╜╜╛╛╚╙╙╘╙╚╚╘╗╗╗╗╗╗╘╗╔╓╔╓╒╒ёё╒ё╔╓ё║╒ё╒═·╒║║══÷²°°⌡≥≤≈≤≤≤∙∙∙∙■√≤⌡°°²²⌡⌡·╒⌡°°²²²²²²°⌡⌡⌡⌡ ≥ ⌡ ≈∙■■■⌠⌠■⌠▓▓▓⌠▓▓▓▓▓▓▒░▒▒░░░▐▐░▐█▄▄████▀▀▀▀▀┼┴┴┴┴┬┬┬┬┬┬└├├┘┘├├┘┌└┘┐┐└└│┌┐┐┌│──│}~─~}{||{zyxwwwwwvuuvvutsssssrrstuuvwxvtromljjihhgec`^[ZWVTSV2a╟╛╘╙╖╘╘╚╞╡╡╡╞╛╜╟╛╕╓╔╖╚╝╞╞╜╚╚╜╞╟╞╚╗╘╙╘╗╕╕╔╓╓╔╕╕╔╕╔╓ё╒╒ёё╗╖╕╕╕╕╔╔ё╓╔╔╔╓╓╔╖╘╙╘╗╘╘╘╛╛╛╜╝╝╜╛╛╝╝╜╜╞╞╝╝╜╛╜╝╜╚╗╙╚╚╛╛╛╛╛╞╝╜╝╞╟╟╟╟╢╥╥╣╥╨╪╪╪╪╫╬╬╫╪╪╩╨╨╩╩╧╦╩╨╧╧╧╧╦╦╦╥╤╣╣╢Ё╡╡╠╞╝╝╞╟╠Ё╞╜╟Ё╤╩юбфихц©╬ю©╫╪╤╜╖╔╒╔╖╘╘╖╕╕╖╙╝╡╢╤╥╣╠╟╟╞╜╝╞╟╟╡╡ЁЁ╢Ё╡╡╟╠╠╠╟╟╞╝╝╝╝╝╝╞╞╞╞╟╟╟╞╞╟╠╟╟╠╠╠╠╠╠╡╠╠╠╠╡╡╡╠╠╠╠╠╠╠╟╠╠╠╟╟╟╠╠╠╠╠╡╠╟╡╢╨╬ааббю╪╨╨╧╦╧╨╩╪╫╪╪╫╫╫╫╪╩╪╬╬©╬╬©©╪╧╥╥╦╧╨╧╨╨╨╩╩╨╨╫╫╫╨╧╦╥╣╢╣╤╤╣╣╣╣Ё╢╤╥╦╧╨╨╨╧╥╥╥╥╤╣╥╤╣╢╢Ё╡╠╛╚╙╗╗╗╘╚╖╖╗╗╗╘╘╘╗╘╘╘╗╖╕╔╔ё╒═÷²° ≥≤≤≥ ⌡°°  ≥≥ ²═╒╗╙╜╞╟╠╡╡╜╜╝╞╠╡Ё╡╢╣╦╨╫╬©©абцццдфгккклннмллкиийкккллмллмнорпоружуужжжтсужвыыыьвусрсяпппнноннмкхфееедцццбю╬╫юцефедцфдббцфкяялхххефихкнястссжышшшшшшзззшэшьжуууужвжстсяпяяяппомкйййййхггикллллллкййкххгфеееедддцбааю©©©©©©©©юабююю©╫╫╩╧╣Ё╡╝╚╘╗╗╙╙╙╚╜╚╙╘╖╕╕╕╖╛╜╞╟╟╟╠╡ЁЁ╢╣╣╣╣╤╦╦╧╨╧╧╧╧╩╨╩╫╬╪╫юю╬╪╩╨╩╩╪╨╧╥╤╣╣╤╥╤ЁЁ╢╢╡╡╢╥╦╧╨╧╦╦╦╦╤╣╣╥╦╦╥╡╡╡╡╡╡╠╠╟╟╠╡Ё╢╥╧©╫╦╠╚╗╗╗╘╙╚╚╚╚╚╛╙╚╛╛╚╚╛╛╙╝╠╞╜╝╞╞╝╝╝╝╜╛╚╚╚╛╛╛╚╘╘╙╘╘╙╚╙╘╙╚╗╖╕╔╔╔╕╖ё╒║╒ё╒║÷║════÷·²²⌡ ≤√√≈≈≤≈≈≤ °°°⌡°·÷÷²²·⌡°·÷÷÷·²·²²²²°°⌡⌡°°≤√∙∙■■⌠⌠⌠■■⌠▓▓▓▓▓▓▒▒▒▒▒░░░░░░▐█▄████▌▄▄▄▄▀▀┼┼▀┼┼┴┬┬┬┬┘├├┘┘┘┘└┐┘┘┐┐┘└┌┌┐└┐│─│┌──│┌┌─~}}||{zzy{|||{{||}||||}||}}~~~|{ywtqonlkkkjihfca_^ZYWVX2_╞╘╕╕╓╖╕╗╝╡Ё╢╡╞╟╞╝╚╘╘╘╚╜╟╞╜╚╚╜╞╞Ё╞╚╙╚╙╗╖╙╘╗╖╕╕╔╓╔╔╔ёё╔╔╓╕╖╖╕╓╓╓╔╔╕╖╕╓ё╒ё╕╗╘╗╗╘╙╙╞╝╜╝╞╟╝╜╝╟╟╟╞╟╟╞╠╟╟╟╠╟╜╛╚╚╚╛╛╜╝╝╟╝╜╝╟╡╡╠╟╢╦╥╤╥╧╩╪╪╫╬©ю©©╬╫╫╪╪╪╩╨╪╩╨╨╨╨╨╧╧╦╥╥╤╤╢╢Ё╡╟╟╟╡╢╣╤Ё╢╧╫╫юефггб╪╨╫а©╧Ё╛╓ё╕╖╕╖╖╖╕╖╙╛╡╢╤╣╢╡╠╟╝╝╝╝╞╟╠╠╡╡╡ЁЁ╡╡╡╠╡╠╠╞╞╝╞╞╞╞╞╞╞╞╞╞╟╠╟╟╟╠╡╠╠╠╡╡╡╡╠╡╡╡╡╡╡╡╡╡╡╠╠╡╡╠╠╠╠╠╠╠╠╠╡╠╠╠╡╠╠╣╧╪юццб©╪╧╧╧╧╥╦╨╪╪╫╫╫╫╬╬╫╪╩╫╬©ю©╬╫╫╨╥╤╥╧╨╩╨╨╨╨╨╪╪╪╬╫╪╧╥╦╦╥╥╦╧╦╥╤╣╣╢╣╤╤╥╦╦╦╣╣╢╢╣╣╣╢╣╢ЁЁ╡╟╝╜╔╖╖╕╓╓╕╘╓╔╔╕╕╕╖╗╗╗╘╘╗╖╖╕╓ё╒╒╒║══⌡  ≥   ≥≤≤≈≈≤⌡²÷═╓╘╜╝╞╟╠╞╞╟╟╠╠╡╡╢╣╤╦╨╪╫╫©юбцццддиийлмммллкйййкйийкллллмняооятттттуутсужвьььвжтрясяппомммнмлкигффдцццдб©╪╬юцфгфедфцбцдфкяройхфддехймояяпотьзшзшшшзззшшзьжжуттжвжтжспппяпопомкйййкйхгхкмлкллкйииийгфедццдддцбаю©©©╬╫╪╪╫╬©юаццю©©╫╨╨╧╤Ё╟╝╙╖╖╕╖╘╘╘╙╛╖╖╗╖╕╔╕╕╚╛╞╟╠╡╡Ё╢╣╤╥╥╦╦╧╧╨╩╩╩╩╩╩╩╩╪╬©©юбцб©╫╪╪╫╫╨╧╦╤╣╢╣╣╣╢╢╣╢╡╞╝Ё╣╦╧╨╩╩╪╨╦╤╤╥╦╦╦╥╣Ё╡╠╡Ё╢╞╟╡ЁЁЁЁ╣╫©╬╦╟╙╗╖╘╘╙╚╚╚╚╚╙╚╛╚╚╛╛╛╚╟Ё╟╜╝╞╟╟╟╟╟╞╝╜╜╜╜╝╝╝╛╛╜╚╛╜╜╚╙╚╛╘╘╘╗╗╘╖╔╔╔╔╕╖╖╖╕╔╓ёё╓╓ё╒╓ё║÷²°°° ≥≥⌡·÷·°··÷═╒║÷²²·═║╒║═÷═÷÷÷÷÷··²·² √∙∙∙∙⌠▓⌠∙∙■▓▓▓▓⌠▓▒▒▒▒▒░░░░░░▐▌█▌▌██▌████▄▄▄▄▄▄▀┼┴┴┴┴├┤┤├┘├┘└┌┐└┐┐┐┐││┌┌│──││~~─││││┌┌┌┌┐└└└┐┐└└├┘└└┘┘┘┘┌┐┐┐┌─~|yxurqqpnonmljifebc_]ZYZ3`╚╓ё╕╓╔╕╗╞Ё╢╣╢Ё╢╠╠╞╜╙╙╚╛╝╞╞╛╚╚╛╛╡╟╜╛╚╘╗╗╙╘╗╖╖╕╔╓╓╔╔╓╔╕╖╕╕╕╕╔╓╓╔╔╕╗╘╗╕╓ё╓╔╖╘╗╖╘╙╚╞╞╞╞╞╞╞╞╟╡Ё╠╟╟╞╝╠╡ЁЁЁ╡╠╟╝╜╜╜╝╞╟╠╠╠╟╟╟╠╟╟╠Ё╣╣╣╤╦╦╨╨╩╪╬©©©©©©©╬╫╫╫╪╩╩╩╪╪╪╩╨╧╦╦╥╥╤╣╢Ё╡╠Ё╣╤╤╧╧╪ацдфийфа╫╨╩╪╫╩Ё╛╕ё╔╖╕╗╗╖╕╖╚╟Ё╤╣╢Ё╠╞╝╞╜╜╝╞╟╟╠╠╠╠╠╠╡╡╡Ё╡╡╡╠╞╝╝╝╞╞╞╞╟╟╟╟╞╟╠╠╟╟╠╡╠╠╡╡╡╡╡╡╡╡ЁЁЁ╡╠╠ЁЁ╡╡ЁЁ╡╡╡╡╡╠╠╠╠╠╠╠╠╡╡╢╧╬юабцю╪╨╧╧╧╦╥╦╩╫╫╫╫╪╪╫╬╫╫╫╬╬©©╫╪╩╧╥╤╤╦╨╨╨╧╩╩╨╩╫╫╫╬╬╪╨╦╧╧╧╧╧╧╦╥╤╤╤╢╣╣╢╢╣╣╢╡╡╡╡ЁЁЁЁ╡╡╠╟╝╛╘╖╒╓╔╓╒║ё╔║╒ёёёё╓╔╓╕╖╗╗╖╖╖╔╓ёё╓╓ё╒═÷²°°⌡⌡ ≥≤≤≤≤ ⌡°²÷╓╗╚╜╝╞╟╟╠╠╠╟╠╠╢╢╣╤╥╧╩╪╫╬©ацддцегикллммлкййккйхийклммнопонпррссрстсстжжужвжтряярпоомккккйиихгффдцбцдцю╫аацехихгфцбдефйосялфддддхйлнооонсжызызззыызззывужтрсужуттсяпппоннмлкйййкииийлмлккккйихххеедццццццбю╬╫╫╫╫╫╪╪╪╪╬©ю©бб©╫╫╩╥╢Ё╟╜╛╚╘╖╕╔╕╖╖╖╘╚╕╖╖╖╕╕╖╗╚╛╞╠╡Ё╢╣╣╣╤╥╦╧╨╩╨╩╪╪╪╪╪╪╩╫╬╬╬©юаддцаюююю╪╪╩╧╤╢╢╢╢╣╢ЁЁ╡╟╜╞╠╢╤╦╨╩╪╨╧╦╥╥╥╦╦╧╦╤╣╢╢╢╣╟╟╠ЁЁ╡╡Ё╦╬а╫╤╞╙╖╘╘╘╙╚╛╛╚╙╛╛╚╚╛╜╛╛╟Ё╟╝╞╟╟╟╟╠╠╟╟╞╝╞╜╜╞╞╝╜╝╛╜╜╜╛╚╚╚╙╙╚╚╚╙╗╕╔╕╕╕╕╕╖╖╕╔╓╓╔╔╓ё╒╒║÷²°°²÷÷÷═║╒║═ёё╒║═║║║══║║╒╒╒╒═║║║════÷═÷⌡≈√∙■∙■⌠■■∙■⌠⌠▓⌠■⌠▒▒▓▒▒▒░░░▒▒░▐▐░▐██▌▌▌▌▌▌▌▌▌▄▄▀▀┼┼┼┼┤┬┬├├┤┤├┐┐┐└└└┐└┐┐┐┌┌┌┌┌└│─│┌┐└├┴┴┴┼▀▄▄▄▄██▄▀▀▀▄█▄▀┼┼┼┴┴┘┘┘┘└┐─~}zwvvsprqonmkihfgda^\\4a╗═ё╗╓╔╖╗╞╡╡Ё╢Ё╣ЁЁ╠╛╗╗╚╜╝╠╡╞╛╙╙╚╞╝╝╜╙╖╗╙╕╕╕╖╖╖╕╔ё╔╕╔╔╖╖╕╕╕╔╔╕╕╕╕╕╗╙╘╗╕╕╕╖╘╚╙╘╙╚╚╛╝╞╝╝╝╞╟╝╟╡╠╠╠╠╟╠Ё╢╣╣╢╢Ё╠╟╞╝╝╟╠╡ЁЁ╢╡╟╝╝╝╡╡╠╠Ё╣╤╣╣╣╤╥╧╩╪╪©юаю©╬©©╪╪╪╪╫╫╫╪╫╪╩╨╨╧╦╥╤╣╣╣╤╦╦╦╩©бдфийййд╫╩╫╬╩╥╡╙╔╔╕╘╘╓╘╗╗╗╚╞Ё╥╣╡╠╡╠╝╜╝╜╜╞╟╟╟╟╠╞╞╞╞╟╠╡Ё╠╡Ё╡╟╝╜╜╞╞╞╟╟╟╟╟╞╟╡╡╠╟╠╡╡╡╡╡╡╡╡╡╡ЁЁ╢Ё╡╠╟╢ЁЁЁЁЁЁ╡ЁЁ╡╡╠╠╠╠╠╠╡Ё╢╥╫цдаюю╫╨╨╪╧╧╦╥╦╪©©╬╫╪╪╪╫╫╫©©╬╬╫╪╨╧╤╣╣╥╧╩╨╧╦╩╪╩╪╬╬╫©©╬╩╨╨╨╧╧╧╦╥╤╤╤╥╢╣╢╡╠╡╡╠╠╡╡╡╡╠╠╠╞╝╝╜╚╗╓╒║╒ё╒═÷═║═║╒║║║╒ё║ё╔╕╕╕╖╖╕╔╓╓╓╓ё╒╓╒║═÷·²°⌡⌡  ≥   ²²·╒╖╛╝╝╞╟╠╠╟╟╠╡╢╢╢╢╤╦╩╪╩╩╫юцеедцеикллмнкййкллйххйлмнопяоннпяярспррррстттжвжсяяяяонмлйиихгффффедцбабеебюцббехкккгдцефехлсякдбефехилноппоятьььыыььььыьвтсуряртутсяяяяпоннкккккйййхиклллккйклкйхгфддддццбббю╬╪╩╩╩╩╪╪╪╪╫╬©ю╪╬©╩╨╨╥Ё╜╛╘╖╗╙╙╗╖╕╔╕╔╕╗╚╙╙╙╙╘╘╙╚╚╜╟╡Ё╢╣╤╢╢╣╤╥╦╨╩╨╩╪╫╪╪╪╪╩╬╬╫╫©ю©ццдедддд©©╬╩╦╣╢╢╣╤╢╠╠╡╡╞╛╝╠Ё╣╤╦╧╨╨╧╧╥╥╥╥╥╦╧╧╦╥╣Ё╠╟╟╡╡╠╡ЁЁ╩аю╨Ё╜╘╘╗╗╘╛╜╛╙╙╛╛╚╚╛╜╛╜╠╡╟╞╠╠╞╞╟╟╠╟╟╞╞╞╜╛╝╞╝╝╝╛╛╛╚╚╜╝╝╜╛╙╚╙╘╘╙╗╗╗╖╔╔╕╖╗╕╔╕╖╖╔ёёёёё╒║╒ё═║║║║║║╒═╒╒║÷÷║╒║║══║╒ё╓══║║║║║║═║═⌡≤√∙■■■■■■■■∙⌠⌠■∙■▒▒⌠▓▒▒▒▒▒▒▒░░░▒░▌█▌▌▌▌▌▌▌▐▐▄▄▀▀▀▀▀▀┤┬┬┤┤┬┬┬┤┘├┬┴┤┤┴┬┬┤┤┤┤┤┤┼┴┴▄▌▌▐░▒░░▒▓⌠⌠▓▓⌠⌠▓▒░▐░▓▒▐▌▌█▄▀▄▀┴┬┤┘┐│┐┌{zyvrusqonmkjijgda^^5a╔÷═╓╕╖╘╛╞╟╠╣╢╠╞ЁЁ╠╝╛╛╛╛╝╠╡╞╜╛╚╙╝╟╞╛╙╚╙╕╔╔╔╔╖╗╗╗╕╖╕ёё╕╗╖╖╗╘╘╗╖╗╘╘╗╗╘╚╛╛╛╙╗╗╙╚╚╚╛╛╚╚╜╝╛╜╞╟╠Ё╤╢╠╡╣Ё╢╢Ё╡╡╡ЁЁ╡╡╢╢ЁЁ╣╥╣ЁЁ╢Ё╡╟╡╡╡╠╟╟╡╢╤╣╣╤╥╧╨╨╨╩╫╬©юаба╬╫╬╬╫╫╫╪╫╫╫╪╩╩╨╦╦╦╨╨╧╩╫бдгйкййигц©©ю╫╥╠╕╕╕╕╕╕╕╕╕╗╙╝Ё╥╤Ё╟╟╠╠╟╝╝╞╝╟╟╞╞╟╟╟╠╟╞╝╟╠ЁЁ╟╡Ё╡╞╝╝╞╝╝╞╟╠╡Ё╢╠╠╠╠╡ЁЁ╡╟╠╡ЁЁ╡╠╟╟╠╡Ё╢╢Ё╡╢╣╣╣╢ЁЁЁЁ╡╡╠╡╡╠╟╟╠╡╢╧╬ббда╫╩╩╨╨╨╩╨╧╨╫©©╬©╬╪╪╫╫╬╬а©╬╫╪╧╤╤╢╢╤╧╩╨╨╩╪╩╩╪©аю©©╬╪╨╩╪╩╧╧╧╥╢Ё╢╢Ё╠╟╞╞╞╟╟╟╝╞╟╡ЁЁ╠╟╝╚╘╚╙╕║÷·═╒╒═··÷·²·═║÷··║║║══╒╓╕╔╔╔╔╔╔╓╓╓╓ё║═══÷²··°≥≤≥⌡  ⌡²═╓╘╛╝╝╠╣╢╟╟Ё╣╣╣╣╣╥╧╩╨╨╩╫адееггхилмнмннмллкккйлмннноппннпяяярсрррсттсууусрпоонммннйгфгеццдеффцбабцдбюцдеехлкгффеефдгмврлфеффеккллммнопсвьвжжвввжвыжяяряясттсрпяяоннннккккйииихлнлйкллйххихфццбцбабца╫ю╬╫╩╧╥╧╩╥╨╪©абю╫╩╩╩╨╦╢╟╜╗╖╖╗╖╔╔╔╔╕╕╖╘╚╛╜╝╜╜╛╛╛╚╚╙╛╟Ё╢╣╣╣╢╣╣╣╥╧╧╦╨╨╨╩╩╪╪╪╫╫╬╬©юююцдеееффгбцца╫╧╦╥╤╣ЁЁЁЁЁ╡╝╛╜╠╣╤╤╥╦╧╨╨╦╥╥╥╥╤╤╥╦╦╣Ё╠╠╠╡╢╢Ё╡╣╦╫ю©╨Ё╝╚╚╙╘╙╚╚╙╚╚╚╛╛╛╛╛╜╟ЁЁ╟╝╝╟╝╞╟╟╟╞╝╝╞╞╞╟╞╞╝╝╛╝╝╜╜╝╝╜╚╚╚╙╘╘╙╚╘╘╗╖╖╕╕╔╔╕╖╖╖╔╓ё║ё╒÷÷╓╘╚╚╖╕╗╗╓═║║║═÷═║╒ё╒║═÷═║╒╒║╒╒╒║═║╒══÷² ≈√∙√≈≈∙∙√√∙⌠⌠▓⌠⌠⌠▓▒▓▓▓▓▓▓▒▒░░░░▐▐▌▌░▐▌▌▐░▐▌▀▄██▄▀▀▀┴┴┬┤┤┬┼┼┼▀▄█▌▐▐▐▐▐▐▐▐░▓⌠⌠⌠■■∙∙∙∙√■⌠⌠∙√√∙■∙√√∙⌠▒░▒▒▒░▌▄▄▌▀┬┤┬┼┬┘┌├┐}zvxwtqnnnmnlkheaf4`╕║║ёё╔╗╙╝╟╡╥╦╣╢Ё╡╟╝╛╚╛╛╛╞╠╟╞╝╝╝╜╞╝╚╘╙╘╖╖╕╕╖╗╗╗╗╖╖╕╔╕╗╘╘╙╙╙╙╘╘╙╙╙╙╘╙╚╜╜╜╚╙╘╛╜╜╝╞╞╝╝╟╟╟╟╠╟╟╡ЁЁЁЁ╢Ё╢╣╣╣╢╢╣╢Ё╢╤╥╣╢╣╤╣╢╢╣╢Ё╠╡╡╠╟╟╠Ё╣ЁЁЁ╢╣╥╥╥╦╨╩╫╬╬©юаю©юю©©©©©╬╬╫╪╩╩╧╧╨╩╩╩╬бхийккйихфдба©╨╡╚╔╕╖╖╗╗╗╗╙╞╢╣╢╢╡╠╠╟╞╟╟╞╞╞╝╟╟╞╞╟╟╟╠╟╞╞╟╡Ё╢ЁЁ╡╟╝╜╝╞╜╜╝╝╞╟╠╡╡╡╡╡╡╡╡╡╠╡ЁЁЁЁ╡╠╡╡ЁЁ╢╢╢╢╢╢╣╣╢ЁЁЁЁЁЁ╡╡╡╡╡╡Ё╣╥╪бддца╬╩╨╨╨╨╨╨╩╪╪╫╬╬©╬╫╫╬╬©©©©╬╪╧╤╣╤╣╤╦╨╨╧╧╨©╬╬юббба©╬╪╨╨╩╨╦╤╤╣╡╡╡Ё╡╟╞╝╝╞╞╟╞╞╞╞╞╟╞╝╜╚╙╙╘╕║·²²·÷÷²°°²·²²··°⌡⌡°°°²²···÷═║╒╓╔╔╕╓╔╓╒║╒╒║·÷÷·°⌡⌡°   ⌡°÷ё╕╚╝╡╢╢╢ЁЁ╢╢╢╢╢╤╦╨╨╩╩╫юцееииийкмммммлллкккйклмммнноммнппярттстууутууутрпоонллммйхгфееееедцдцббцццббццдгмнлдеефхефлурлхгийикккклнооясуввввьььжвьуррпппрттсряррпнннмклллйиииймнлклллкиггфдбцбдееедю╩╫╪╪╩╨╦╧╨╩╫©юаа©╪╨╧╥╣╡╞╛╙╖╔╔╕╕╔╕╖╖╗╘╙╛╜╝╝╟╞╞╝╝╜╛╚╚╛╞╡╢╣╣╣╡ЁЁ╢╣╥╥╤╦╧╨╩╪╪╪╪╩╪╪╪╫╫╬╬абдеееффеффда╬╪╪╨╦╤╢ЁЁЁ╡╡╞╜╝╠╡╢╤╦╦╧╧╧╦╥╤╧╥╤╤╥╦╥╤ЁЁЁЁ╢╣╢ЁЁ╣╧╬а©╧Ё╙╙╙╙╙╙╘╙╚╚╛╛╜╜╜╜╜╞╡Ё╠╟╠╡╠╠╡╡╡╠╟╟╠╠╟╟╟╞╞╝╝╞╞╝╜╝╜╛╛╛╛╚╙╙╚╛╙╙╙╘╗╗╖╖╕╖╖╖╕╔╓ёё╓ё║ё╚╡╣╣Ё╞╛╚╙╗╔╓╓ё╒╒╒╒╒ёё╒╒ёё╒╒║╒╒╒║║║╒║║═²⌡≤≈≈√≈≈√∙√√∙■⌠⌠⌠■■⌠▓⌠⌠⌠⌠▓▓▒▒░░░░░▐▐▐▐▐▌▌▐▐▌▌▀▄██▄▄█████▌▌▌▐▐▐░▒▓▓⌠⌠⌠▒⌠■■■■∙∙≈≈≤≤≤≤≥≥≥≤≈≈≤≤≤≈≈≈≤≤≈√■■⌠⌠⌠⌠▒▌██▀┬┤┤┤┘┐┐├┐││┐┐─}{{yvuuutpooljfk9_╖╓╒╒║ё╖╗╛╝╠╥╧╥╤╣╢Ё╟╜╚╚╚╞╟╠╡╟╜╛╜╝╟╟╛╙╙╙╗╘╘╗╘╘╘╘╘╘╖╕╕╖╖╖╗╚╙╘╘╘╙╙╙╛╚╙╚╛╜╝╞╝╜╛╝╞╞╞╟╞╞╞╟╠╡╠╞╟╠╠╠╡╢╢Ё╢╣╤╥╥╥╥╥╥╣╣╤╥╥╤╤╤╤╤╥╤╣╢ЁЁ╡╟╟╠Ё╢╣╡╡╡Ё╢╢╢╢╤╥╧╨╩╪╫╬юююааюабюю©╬╬╫╫╫╨╩╫╫╫©цхлллккйххееец╬╥╞╙╗╗╗╗╘╙╛╜╡╤╦╥╢╡╟╞╡╟╝╞╠╠╟╟╞╟╠╟╞╟╠╟╡╠╟╟╠Ё╢╢╣Ё╠╝╜╝╞╟╞╞╞╟╟╠╡╡╠╡ЁЁ╡╠╡ЁЁЁЁЁЁЁЁЁ╢╢ЁЁЁ╢╣╣╢╢╣╣╢╢╢╢╢╢ЁЁ╡╡Ё╢Ё╣╦╪аеедаю╬╪╨╧╨╩╧╩╬╫╪╩╫©╬╬╫╬©ююю╬╬╫╩╥╢╢╤╣╥╨╪╩╨╩╫аабцццаю╬╫╨╥╥╦╥╣╡Ё╡╟╟╠╠╟╝╜╜╜╜╝╞╞╝╜╛╛╛╛╚╚╘╚╙╕║·°⌡⌡°²°⌡ ⌡°·°⌡⌡⌡≥≥≥≤≤≤ ⌡ ≥≈≥ °·═╒╓╔╓╔╓ё╒ёё╒÷════÷·²°°⌡  °·═╕╛╠╡╢╤╤ЁЁЁЁЁ╢╣╥╧╨╩╪╬©бдфиииийкллккккккллиийкммллмлклнопрттттууутужжурпонмллллйиифффгфебаддббббцдбцццфлонффддфегмрплииклккйийлноорртувььыыыжжьурсоопястсрппомллкийкллйиийлммллллкйхеддццдфгххгею╪╩╨╨╨╧╥╥╦╬©юююю╫╨╧╥Ё╟╜╚╘╗╘╗╖╗╗╘╙╛╙╚╛╝╞╟╟╟╟╟╞╞╞╝╜╚╛╛╜╞╡╢╢Ё╡ЁЁЁ╣╥╥╤╤╥╧╨╩╪╪╪╩╩╨╨╩╩╪╪©юбдеефффгхфдаюю©╫╨╥╤╣ЁЁ╢╠╜╜╝╟╡╢╥╥╦╧╩╨╥╣╧╥╤╤╥╦╦╦╣╢╢Ё╢╢╢ЁЁЁ╣╩ац╬╧╝╚╙╚╚╘╘╙╙╚╛╛╜╜╝╝╛╝╟╡╡ЁЁЁ╡╡╡╠╠╠╠╟╠╠╟╞╞╞╞╞╝╞╞╜╜╜╜╛╛╛╛╚╙╙╚╛╙╙╙╙╘╘╗╗╖╖╖╕╕╔╔╓╒╓ёё╖╟╦╨╬╫╦╟╝╞╝╙╖╕╔╓ё╒║║ёёёёёё╒║╒╒ё╒╒║╒╒║═÷°≥≤≈≈√≈≈√∙√√∙■■■■∙■■⌠⌠⌠⌠⌠⌠⌠▓▓▒▒░░░░▒▒▐▐▌▌▌▌▌▌▄█▌▐▐░░▒░▒▓⌠■■⌠⌠■■∙∙√√√√∙≈  ≥≤≤≤≥     ⌡⌡°°°°°⌡  ≥≥≥≤≤≈√√▓▒▓■■▓░▐▌▄┼┴┤┘┘┤┘┐│┌└┘┐─~~|xvutsrqrpokp=_╕╓╒╒╒ё╖╘╜╞╡╥╧╥╤╧╦╥╢╟╛╚╚╠╟╠Ё╠╛╙╚╝╠╡╟╝╜╛╙╚╚╚╚╚╙╙╙╛╗╖╗╘╖╕╕╚╙╘╙╚╚╚╙╛╚╚╛╜╜╝╝╟╟╞╞╞╝╝╞╞╟╟╞╟Ё╠╝╠╡╡╟╠╢╢Ё╢╢╣╤╤╥╦╧╧╥╣╣╥╦╦╦╤╦╧╧╦╥╤╣╣╢╡╡Ё╢ЁЁ╡╡ЁЁЁЁЁ╡╣╤╥╦╦╧╨╪╪╬юааабцюю©©╬╬©©╪╫╬©аеймнмкййиихефец╫╥╡╟╝╜╚╙╛╝╠╢╧╤Ё╠╡╡╠╟╡╟╞╟╟╟╠╡╟╡╡╠╟╠╡╡╡╠╠╠Ё╢╣╣╢╡╞╝╝╟╠╠╟╠╠╠╡╡ЁЁ╟╡ЁЁ╡╡╢╤ЁЁЁЁЁЁЁЁ╣╢╢╢╢╢╣╣╢╢╣╣╣╢╣╣╣╢Ё╢╢ЁЁЁЁ╤╩юдфда©©╬╪╨╧╨╩╨╪╬╫╩╩╫ю╬╬╬©юааа╬╪╩╧╤╢╢╤╣╦╪╬╬╬юббцееда©╬╪╩╦╣Ё╢Ё╡╟╠╠╞╞╞╝╜╜╜╛╛╛╛╜╜╚╙╙╚╚╛╚╙╗╘╕═⌡⌡⌡  ⌡⌡ ≥≥ ⌡° ≤≤≤≈≈≤≤≈≈≤  ≤∙≈≈≥⌡²·══╒ё╒║╒ё╓ё╒║║║╒║═÷÷÷·²°²·÷ё╘╝╠╢╤╤╢ЁЁЁЁЁ╣╥╦╨╩╫╬©ацеххгххийййййккклмхггикллллкййлнпясрррссссужжуспоннмлкййииффггфдбюцддцббцецддцфйммфедегфглполихийикййкноомррсувыыьвьжжвурсоопясутронлйййигхйлкиийлмлкккккигфддефггихфдцба©╩╧╦╦╦╤╤╥©юаю©╬╪╧╦╤╡╞╜╛╚╙╛╚╙╚╛╛╜╞╛╛╜╞╟╠╡╡╞╞╞╟╟╞╜╚╛╙╙╚╝╟╟╟╟╠╠╡Ё╣╣╣╢╣╥╧╨╨╨╧╩╨╧╧╧╨╩╩╫©юабдегфгхгецааба╬╪╨╦╤╢Ё╠╞╝╞╟╠╡╣╤╥╨╩╨╦╤╥╥╦╧╨╨╧╦╦╥╣╢╢╢╢╢╢ЁЁ╥╬аю╬╥╟╚╚╚╙╘╚╙╚╚╛╜╝╝╝╛╜╝╟╡ЁЁЁЁ╡╠╠╟╟╟╟╠╠╟╞╞╞╞╟╜╝╝╜╝╞╞╝╛╛╛╚╚╚╚╛╚╚╚╚╙╙╙╘╘╘╗╗╖╖╕╕ё╓╓╔╚Ё╧╨цц©╦╢Ё╠╝╚╘╖╕╓ё╒ёёёёё╓╓ё╒ёёёё╒╒╒╒╒║·⌡≥≈≈≈√√√√∙∙∙■∙∙■∙∙∙■⌠■■■■■⌠⌠⌠▓▓▒▒▒▒▒▒▐▌▐▐▐▐░▐░▒▓⌠⌠■∙√∙√≈≈≤≈≈√≈≤≤≤≥≥≥≥≤⌡²²⌡  ⌡⌡⌡⌡⌡⌡⌡°°·÷÷÷·²°° ≥≤≈√√√√▒░▒⌠■⌠▒░▒▐█▄▀┴┴┴┘┐│┌┐┐┌─┌┌─|zxwuututsos@^╓══ёё╓╕╛╟╠╢╧╩╦╥╨╨╨╦Ё╝╛╛╝╝╞╡╠╜╚╛╛╞╠╠╞╝╛╙╚╚╚╚╚╙╙╘╝╚╘╚╚╘╗╘╚╙╚╜╝╝╜╛╚╚╛╜╝╝╝╝╟╠╟╟╞╞╟╟╠ЁЁ╡Ё╣╢╠╡╢Ё╠╟╡ЁЁ╢╢╢╢╣╤╦╨╦╥╥╥╧╨╩╨╦╨╩╩╨╧╥╥╥╥╤╤╥╣Ё╠╠╡Ё╢╢╢╢Ё╢╣╣╤╤╥╧╨╨╪╬ююацдаааююю©©╬╬©бглоонмкииххгфец©╨╥╤╤╢Ё╡╡╡╢╤╥╦╢╞╝╞╟╠╡╠╠╠╠╟╞╠╢╠ЁЁ╡╡ЁЁЁЁ╡╡Ё╢╣╤╤Ё╠╞╞╟╠╠╠╞╟╟╠╠╠╡╡╠╡╢╢ЁЁ╢╤╢╢ЁЁЁЁ╢╢╢╢╢╣╣╣╣╢╢╣╣╣╣╣╤╤╥╢Ё╣╤╣Ё╡╣╨©дффб╬╬╬╬╫╩╨╩╪╫╫╫╪╩╪╬ю╬╬©юааюю╫╨╥╤╤╣╤╤╦╩©аабегеффецю╬╪╧╧╤Ё╡╡╠╟╞╟╟╝╝╝╜╚╛╛╚╙╙╙╙╚╘╙╙╚╛╚╙╘╖╔═≥≈≥ ≥≤≤≤≈≈≈≤≤≈∙■∙∙∙∙√≈√√≈≥≥≤√√√≈≤≥ ⌡°÷═══║ё╓ё╓╒║║║╒║═║║║═══║╒╓╕╚╡╢╢╢╤╢╢╢╢╢╣╤╦╨╩╫╬©ацдффггххийийккклмнйиггийкклкйийлнппяяяяяяятжвжспооонмкииииггггфдцбцдеедцдецдеефиклддеилифхппмиггффкйкмопнляясжызьвуввжьжрропяясутромкхиккйийллкклнмкйиййихгфффгхихгебюю©юю╪╧╥╥╦╦╧╨╬юаю©╬╪╧╤╣╡╠╟╞╝╜╜╛╚╛╛╚╛╜╜╜╜╜╝╟╡Ё╠╟╞╟╟╞╛╙╙╗╖╗╙╛╛╚╚╜╝╝╞╠╡╠╡Ё╣╤╥╥╤╤╧╦╥╥╥╦╦╧╪╫╬╬юбдфггхгфдцбцбаю©╪╧╥╣╢╠╞╝╞╞╞╠╢╥╧╨╨╨╨╥╦╦╧╨╨╧╧╩╨╧╥╤╤╤╥╣╢Ё╢╦╫юаю╥╝╙╙╙╙╚╙╙╚╛╜╜╝╝╜╜╝╞╠╡╡╠Ё╡╠╟╟╟╟╟╟╟╞╞╞╟╟╠╝╞╞╝╝╞╞╝╛╛╛╛╚╚╚╛╚╚╚╚╚╙╙╙╙╘╘╗╖╖╖╖╓╓╓╔╛╤╪╫ефеб╫╤╡╠╞╛╘╗╕╓╓╕╔╓ё╓╓╔╔╔ёёёёё╒╒╒╓╒÷° ≥≤≤≈≈≈≈√√∙∙∙∙∙∙∙∙■■■∙∙∙■■⌠⌠▓▓▓▒▒▒▒▒░░▒▒▓▓⌠⌠∙√√≈≈≤≥ ⌡⌡⌡   ⌡⌡⌡⌡⌡°²²··°·÷·°°²···²²²···÷═║║═÷·²⌡ ≤√∙∙∙∙■▓▒▒▒▐█▄▒▐█▌█▄┼┴┤┘┐┐└└┌─│┌│}}|zyxyxwswC]╒²·ё╓╔╕╜╠╡╣╨╩╦╥╥╥╧╨╤╞╛╜╝╞╟╡╠╝╚╙╙╛╝╞╞╜╚╘╙╙╚╚╚╙╙╙╛╚╙╙╙╙╙╚╚╚╛╝╞╞╝╜╛╜╝╞╞╞╟╠╟╠╡╠╠Ё╢╢╢╣╣╣╣╤╤╤╣╤╣Ё╠╡Ё╢╣╣╣╣╣╤╦╨╤╦╨╩╪╫╪╩╨╩╪╫╪╩╨╧╧╨╨╨╧╦╣Ё╡╡Ё╢╢╢╣╣╢╢╢╢╣╤╦╧╧╩╪╫©абцццббааю©аацгмяяоомкййигегею╪╧╦╧╨╧╧╩╩╩╧╥╤ЁЁ╡╠╝╝╟Ё╠╠Ё╡╟╞╠╢╡Ё╢Ё╡Ё╢ЁЁЁЁ╢╤╥╥╥╢╡╠╟╠╠╠╠╞╟╟╠╠╡╡╡Ё╢╣╢ЁЁЁ╢╢╢╢╢╢╢╢╢Ё╢╢╣╣╣╣╢╣╣╤╣╣╣╤╥╥╢Ё╤╥╣╢╢╩©дффдю╫╫╫╫╫╪╪╫╫©╬╪╪╫╬©ю©©©юаю©╫╨╥╢╣╥╦╦╧╫ацддегххгфда╬╩╨╥╥╣╡╠╠╠╞╝╞╞╜╛╛╛╙╚╚╙╙╘╘╘╙╚╚╚╚╚╘╖╔╖╒⌡√∙≤≤≤∙∙∙■■■∙∙▓▒▒⌠■⌠⌠■∙■■■√√√∙■∙∙√≈≤≥≥°··÷═╒╓ёё╒║═║╒╒╒╒╒ёё╒╒ё╓╕╕╘╟ЁЁ╢╥╣╤╤╣╣╣╥╦╧╩╫©юабцдегххииийкллклмомлйиииийллкиикмнопппппяясувжспооппнкииихиихфеддедефффеефацефгиклигдеиххляяойгфеейклмоонлпясжыыьвтвввьжсрпрррсжтямлйххйлкллмммнопмйииихххииххххгедбббаююю╫╧╥╦╨╪╫©╫©аю©╫╨╥╢Ё╡╡╠╠╟╞╝╜╛╜╛╙╙╚╛╚╚╚╜╞╠╡Ё╠╟╞╞╝╚╗╘╖╕╕╖╗╗╖╘╚╛╛╜╞╟╟╠╡Ё╢╢╢╢Ё╣╣╣╢╣╣╣╤╨╩╩╪╫©бдфггхгфедццццбю╫╩╩╧╣╟╝╝╞╞╞╡╣╥╦╦╨╩╨╧╦╦╦╧╨╩╩╨╧╦╤╤╤╥╢╢ЁЁ╣╧╬бц╪╡╛╙╚╚╙╚╚╛╛╜╜╜╜╜╜╜╝╞╞╞╞╟╞╞╝╝╝╝╝╜╜╛╛╛╜╜╜╛╜╜╚╚╛╚╙╘╘╙╘╗╗╗╗╖╖╖╗╖╖╕╕╕╔╔╓╓ёёё╒║÷║╚╥©абцффб╨╢╠╝╚╗╖╔╒╒╓ё╒║║╒ёёё╒║║║║║║═╒═·⌡ ≥≥≤≥≤≤≥≤≈√√√∙∙∙√√∙■∙∙∙∙∙■■⌠⌠▓▓▒▒▓▓▓⌠■∙∙√√≈≤≥≥    ⌡°·²°⌡⌡°²·²²··÷══║║║═÷÷÷═║══÷÷÷÷══║║║║║═÷·²⌡≥≤√√√≈■▓░░▐▌█▌▒▐▌▐░█┼┴┤├└└└└┐│┌┐┐│─}{{zzyyuyE^╒²·ё╕╖╗╞╡Ё╣╨╩╦╤Ё╣╦╨╥╟╛╜╞╠╡╡╠╟╛╙╚╚╛╝╞╝╛╙╚╛╜╜╛╛╛╛╙╚╚╘╗╙╛╛╜╜╜╝╜╝╝╞╞╞╟╟╟╡╢╣╡╢╣╢╣╥╧╧╤╤╥╥╥╤╦╨╨╦╥╥╥╤╤╥╥╦╧╧╧╧╧╨╥╨╪╪╩╫╫╫╩╩╪╫╬╬╫╩╩╩╪╪╩╨╧╧╤╤╤╣╢╢╢╣Ё╢╢Ё╢╣╥╦╦╨╨╨╪©ю©ююаббаююцеимясямнмлллкигхдю╫╫╬©©©©юю╬╩╦╣╡╡╡╡╟╝╟Ё╡╡ЁЁ╠╞╟Ё╡Ё╢Ё╡Ё╢Ё╢Ё╢╣╥╦╦╦╢Ё╠╟╠╠╡╡╠╠╡ЁЁ╢╢╢╣╣╣╢╢╢ЁЁ╢╢╣╣╣╣╢╢╢╢╢╢╣╣╤╤╣╤╤╤╣╣╤╥╤╢╣╤╤╢╤╧аехфца©╫╫╪╪╫╫╬╬╬╬╬╬╬╬©юю©©ююю©╪╩╧╤╣╥╨╩╫╬бефффххххеб©╫╨╥╣Ё╢Ё╠╟╟╟╝╜╜╜╚╚╚╚╙╘╘╘╘╗╗╘╙╛╚╙╘╗╕╓ё╓·≈■■■■■⌠▓▓▓▓⌠⌠⌠▐▐░⌠■⌠▓▓■■■■■■⌠⌠■■■■∙√≈≤≥⌡°°·║ё╒║║║║╒ёёё╒ёёёёёё╓╓╔╗╛╞╡╢╤╥╥╥╤╣╤╥╥╦╨╪©бцббцегххххххиййийкмннмлкйййммлйхйккноппппярртвжспооопокиииикйигедефддеедееебдфгхикнмиццггиоопнйгфггййклмноояртжььььжыыввжсряссрсжтплллйийккннммнооомкиииххиййигффеббаацбююю╬╨╦╧╩╫╫╬╩╬ю╬╪╧╣╡╡╠╠╠╠╠╟╞╟╝╜╛╚╙╙╚╙╙╙╚╛╝╟╠╡╟╜╜╜╛╘╖╗╖╕╔╔╔╔╔╗╚╛╛╛╝╟╟╟╠╠╡╡╡╡╡╡╡ЁЁЁЁЁЁ╥╦╧╨╩╫╬юддеффффееддццбю©©╬╩╤Ё╡╠╟╟╠╡╢╣╥╧╨╩╨╧╦╦╦╧╨╧╧╧╥╤╣╤╤╣╣╣╢╣╦╪©ю©╨╡╜╛╛╚╛╛╛╜╜╜╜╛╜╜╝╜╜╜╝╝╜╜╛╛╛╛╛╛╙╙╙╙╙╘╘╘╘╙╙╗╗╗╗╖╖╖╖╕╔╔╔╔ё╓╓╓╓ё╒╒╒║║║══÷÷÷·²═╙╣╪╪╩╫юбца╨╡╛╘╖╖╓═·═÷÷··÷÷·²÷····÷·²·°⌡ ≥≥≥≤≥≤≤ ≥≈√√√√√√≈√√∙∙∙∙∙∙■■■■■■■■∙∙√≤≥    ⌡°°°²²²²·÷÷··²·÷═║════║║╒╒ё╒║║║╒╒╒║║════║║ё╒║═══·°⌡ ≥≈√√≈≈⌠▓▒▒░▐░▓▓▒▒▒░█▀┼┴┤┘└└└┌│┤┬┬├└┐│|{zyzvzG_╓÷═╓╖╘╚Ё╤╥╦╪╪╦╤Ё╢╧╩╥╞╚╛╛╟╡╡ЁЁ╠╜╜╛╛╝╟╟╝╜╛╝╞╞╞╝╞╞╛╞╝╙╗╙╜╜╟╠╟╞╝╝╟╡╡╡╠╠╠Ё╥╨╣╥╦╥╦╨╩╩╧╦╧╨╧╦╨©╬╨╦╨╪╩╨╨╧╨╪╪╪╩╨╨╧╩╩╧╦╨╬ю╪╩╩╫©ю©╫╩╪╪╪╩╪╫╬╩╩╨╥╢ЁЁЁЁЁЁЁЁ╢╤╦╦╦╦╥╨╫╫╪╩╪╬юабаадхмясспллллмонлйиеаюбддцддбю╫╨╦╥╣╠╞╟╡╠╠╠Ё╡╡Ё╡╟╟╠╡Ё╢Ё╡Ё╢Ё╢╢╢╤╥╦╦╦Ё╡╠╟╟╡╢╣╠╡╡Ё╢╢╢╢╣╢╢╢╣╣╣╢╣╣╣╤╤╣╣╣╣╣╢╢╢╣╥╥╤╤╤╤╣╣╤╥╣╣╤╤╢Ё╦©ехиею╫╫╫╫╪╪╫╬©©╬╪╫©юю©©ююююю©╬╩╧╦╥╦╨╪╬юцдфггхийхфб╫╨╦╣╡╟╟╠╠╟╞╞╝╜╚╛╚╙╘╙╚╙╗╗╘╗╗╗╙╚╛╚╘╖╕╓ё╒·≥■▓▒▌▌▐▓▓▓▓▓▓▓▓▐▐▒■∙■▓▓■■∙∙■⌠▓▓■■■■■∙∙√√≤≥ °÷║║·÷║╒ёё╓╓ёё╓╓ёёёё╒╔╖╖╚╠╢╢╥╥╥╥╤╤╤╥╦╧╪©ццбабдфхгффффгххггийлмоонмлммнмйхийймноооопяятжжспооополйййилкйхфеефдцбббцдддегхххкнихфхлйгймнмифгхииийклнпяяртувььыьшзввжссяссрсусолнонллмлпнммнннммкййиххйййхедецаа©©ю©╬╬ю╬╩╦╧╩╪╩╨╧╪╬╪╧╣╠╜╠╠╟╟╠╠╟╟╟╝╚╙╘╗╘╚╗╘╙╚╜╝╞╟╝╛╙╙╚╚╘╖╗╗╖╔╓╓╓╓╖╘╙╙╚╜╝╝╟╟╟╠╠╡╡Ё╠╠╡╡ЁЁЁ╡╢╤╦╨╩╩╪╪юабдееедфедцццббюаю╫╨╦╣╡╠╟╞╠╢╤╦╦╨╨╨╨╨╧╦╦╧╧╧╦╥╤╤╥╥╥╥╤╤╥╧╨╪аю╥╟╝╜╚╜╜╜╜╜╜╛╛╜╝╝╜╛╛╜╝╛╛╛╛╛╛╛╛╚╚╚╚╙╘╗╗╗╘╘╗╗╘╘╘╖╗╗╖╕╔╔╔ё╓╓╓╓ё╒║╒╒╒╒║═÷÷÷÷÷ё╛╢╤╢╣╧╩╫диб╤╜╙╘╙╖║·÷·····²⌡ ²°⌡°°²°⌡°⌡   ⌡  ≥≈≤≥≤√∙√≈≈√≈≈≈√√∙∙∙∙∙■■■√√√√≈≤≥ °²··²²·÷·÷÷÷÷═║╒║║║║╒ё╓╓╓╓ёёё╓╓╔╓ё╒╒ё╓ё╒ё╒╒║║╒╒ё╓╒═÷÷÷° ≥≤≈√∙∙√≈√∙∙■▓░░▓▓▓▓▒▌┼┼▀▄┼┬├┘└┐│┌┐└└┐┐┌─~||{|y}J^ё║║ё╟╛╠╤╦╫а©╪╦╡╢╣╦╧╦╡╚╕╙╜╠Ё╢╣Ё╟╞╝╜╞╡╢╠╜╜╝╞╞╞╞╟╟╟╟╞╝╛╙╙╛╟╜╞╠╝╞╡╞╟╟╢╣╡Ё╤╥╣╤╦╧╨╩╪╫╩╩╨╨╩╪╬╬╫╪╪╬©©©а╬╬©ююююююю©╬╬╬╫╪©╫╫╬юю╬╪╫╪╪╫╫╬╬╬©©©╬╫╨╥╣╣╣╣╢╢╢╤╥╣╤╥╧╨╩╩╪╫╪╪╫╬╬юдймятсяонмнннопнкхефхедддца©╬╫╫╪╪╦╤╢╢Ё╠╡Ё╡╠╡╢╢╡╠╠╡╡Ё╢╣╣╢Ё╤╣╢╤╧╧╤╢Ё╢Ё╡╡╢╣╢╡╡╡╢╣╣╢Ё╣╢╢╣╣╣╣╢╣╣╤╤╥╥╥╥╤╣╣╥╥╤╣╤╣╥╥╤╣╤╥╤╣╤╤╣╣╧©дффда╬╪╩╪╪╬©юю©©©©©©╬╬©©©юабю╫╨╧╧╥╧╪╬©абцгффхйигеа╬╨╥╣Ё╟╝╜╝╝╛╛╛╚╘╙╙╘╖╖╗╘╘╚╘╖╖╗╗╗╗╗╗╖╓╒║═·≤∙▒▐▌▐░░▌░▓▓▓⌠░█░▐▐░▓⌠■■▓⌠∙√√∙⌠▒√∙⌠⌠⌠■∙∙≤≥≥≤≤⌡°⌡⌡°·║ёё╒║║║╒ёё╒║═╒╓╕╖╖╗╝╢╤╦╨╧╤╢╣╥╤╦╪©ааббдцдегхгедфгфдегхикнппппппнкклмлйклнпонпрррсутяопноонлкйкйгггеффдцбцедаацфгххедхмийккйиииммлкйииигхйлнооорсжышшывуввутууттсрясуспммнннннноммонллмммлккклмхихеббаю©ю©╬╫╫╬©╬╩╨╩╨╪╫╨╪╧╤Ё╞╜╛╜╞╞╟╟╞╞╞╞╝╜╚╛╚╙╘╘╖╗╗╗╘╘╚╛╘╘╘╘╗╗╘╘╕╔╓╒═║╒ё╔╖╘╙╙╚╛╝╠╞╝╟╟╞╞╠╢╡╠╡ЁЁ╢╤╤╤╤╥╧╨╩╩╫©©аддбцдцццдедцбаабю╫╨╨╦╣╠╟╠╢╤╥╧╩╫╩╦╥╦╨╧╦╦╧╩╩╨╦╧╤╣╣╤╥╧╩╫╫©ю╩╡╛╙╚╜╜╛╜╞╝╛╜╛╜╝╜╛╛╝╝╝╜╝╝╜╛╙╛╛╛╛╚╙╘╘╙╘╘╘╘╙╘╗╘╗╖╕╕╔╔╔╕╔╔╔╕╕╔╓║╒ёё╒║║║║══ё╘╠Ё╡╢╣╣╦юффц╣╝╜╞╚ё÷·÷²²══²⌡°°²²²²°°⌡⌡°°° ≥≤≤  ≥≥≤≈≈√∙√√≈≈≈≈√≈≈≈√∙∙∙∙∙√≤≥°²÷══════║║╒║║╒╒ё╓╓╓╔╕╔╓╓╔╔╓╕╕╕╕╕╕╕╕╕╕╔╔╔╕╖╗╓╓╓╓╓ё╒╒ё║÷·²°°⌡⌡°⌡≤√√≈≈≥≤∙⌠▓▓⌠■▓▓▓░▌▄▄█▄▀┼┬├┘├┤├└┐┐┐│───~}|{G_╔╓╓╕Ё╟╤╨╨╬ю╬╩╦╢╣╣╤╦╧╣╝╗╘╚╜╞╠╢Ё╡╠╠╟╟╡╢Ё╠╞╞╞╟╠╠╠╠╠╞╝╝╝╛╛╛╛╛╞╡╡╢╣Ё╣╢╤╥╢╣╥╤╤╥╦╧╩╪╫╫╪╩╩╩╫©бца©юабббдццдеееддбббааюююаю©юбцббаю╬╬╬╬╫╫юаааю©╫╪╧╧╧╥╤╤╤╥╤╤╤╥╦╧╧╨╨╨╩╪╪╫бхнятуспоонопяррпмйггхецдцаю©╬╬╬╬╫╫╩╧╦╤╢Ё╢Ё╡Ё╢╢╡╠╡ЁЁ╡Ё╢╢╢╢╤╣╤╥╧╧╤ЁЁ╣╣╢╢╣╣╢ЁЁ╢╣╤╤╣╣╤╣╣╤╤╤╣╣╤╤╤╤╤╥╥╥╥╤╤╤╥╤╥╦╤╦╦╤╤╥╥╥╦╥╥╥╨╬цфедбю╬╬╫╫╪╬©ю©©©©ю©©©©©ююааа©╫╩╩╪╬©абцдефхггххфца╫╩╥╣Ё╠╞╜╛╜╛╚╙╚╙╗╘╘╗╕╕╖╗╖╘╖╕╕╕╔╔╕╔╔ё═÷·°≥■▓▐██▌▐▐▐░░▐░▒░▌▌▌▌▌░▓⌠⌠⌠⌠■∙∙■⌠▓▓▓▒▓⌠■∙√≤ ⌡  ⌡°⌡°°²÷║╒ё╒╒╒╒╒ёё╒═╒ё╔╔╓╓╗╛Ё╤╨╨╦╤╤╥╥╧╪©аббцедцдфггфдгихгффехикмноярпнкйкллкклнооноясстутяпяопппнллкйхииггхгедефеццдффггедфйхйккиггхйклйхггигикмноопясвыззыьвььжууутрряятутяоооооннмонноомлмнммлккййххгдаааю©©©╬╬╬©юю╪╩╪╪╪╩╥╥╢╟╜╚╘╙╚╜╜╜╜╝╜╜╜╜╚╙╙╘╗╖╖╕╕╕╕╕╖╘╚╖╕╕╕╕╕╕╕╓╓╓╒║══║╓╔╖╘╘╙╚╜╟╝╝╞╞╝╝╞╠╞╝╟╠╡Ё╢ЁЁ╢╣╤╥╥╦╧╪╪╬абацддццццдццццдб©╫╫╩╧╤╢╢╣╤╥╧╩╪╩╧╦╦╨╨╧╦╧╩╪╪╩╨╦╣╤╥╥╧╩╩╪©а╬╥╟╛╚╛╜╜╜╝╜╛╜╛╜╝╜╛╛╝╞╝╜╜╝╜╛╚╚╚╚╚╚╚╚╚╙╘╘╘╘╘╘╗╙╘╘╗╖╖╕╕╖╖╖╖╖╖╕╔╓╔╔╓ё║║║║═║╔╙╞╠╡╢╣╣╤╧©ех©╣╞╞╝╙╔÷÷²²══·°²²²²²²°⌡⌡°°²°⌡≥≥≥≤≤≥≥≥≥≥≤≈≈≈≈≈≈√√√√√≈≈≈≤≤  ⌡°·÷═║║║╒ёёёёёёёё╓╓╔╔╕╕╖╖╕╕╖╗╖╖╖╗╗╗╗╗╗╗╖╖╖╖╖╗╗╕╕╕╔╔╓ё╒ё║÷··²²°°²° ≥≥  ≤≤≤≤≈≈√√∙∙■▓░▌██▄▄▄┼┴┬┴┴┬┘└└┐┌│││~|{{G_╗╖╘╙╣╤╪╬╫©©╨╦╥╣╥╣╢╥╧╥╠╚╚╙╙╙╝╠╡╠╠╡╠╠╠Ё╢╢╠╟╠╡ЁЁ╡╠╡╞╝╞╟╞╝╜╛╝╞╟ЁЁ╡Ё╢Ё╣╥╤╦╨╧╦╧╨╩╪╫╬╬ю©©©©юбццббцццдеефгххггфдефедддефедццдфффдбааюю©абббббаю©╬╫╩╧╦╥╦╤╣╣╣╣╤╤╥╥╥╦╧╧╪цйясуурпоппрсссролиггхеццббаю©©©©©ю╬╫╪╨╥╣╣ЁЁ╢╣╢ЁЁ╣╣╢Ё╡Ё╣╤╥╥╥╥╧╨╧╤Ё╢╣╤╣╤╤╣╢╢╣╤╥╥╤╤╤╤╤╤╤╥╥╤╤╥╥╤╤╤╥╥╦╧╥╤╥╥╤╦╨╥╦╦╥╥╥╦╦╧╦╥╨©дфгеб©╬╬╬╬╫╫╬©ю©©©©аю©©©юбцбаю╬╬╬©юббццддефггххфц©╪╦╥╢╡╟╞╛╙╚╚╙╘╘╘╘╖╗╘╗╕╕╕╖╕╖╕╔╔╓╒ё╔╕╔╒÷·²≥√▐▌█▄▄██▌▐▐█▄█▌▐▌█▄▄█▐▒▓⌠⌠⌠⌠⌠⌠⌠▓▓▐░▒▓⌠■∙√≤ °⌡⌡⌡⌡⌡°⌡⌡°·║╒ё╓ё║║╒╒╒╒ёё╓╓ё╒╓╖╜╡╥╨╧╥╥╥╧╩╫©юацдфдццдфггдгихгфедффгилояронлкйкллклноонопссттсппппяррянмлййккххихффгхгффгффффедегфиккхеефхйкйгегихиклмнопятьззыыыьыывуутсяяяртжтряпопппонпппяпнммййкллккйггебюаааюю©©©©аба╬╫╬╪╩╦Ё╟╜╙╗╖╕╗╚╛╚╚╛╝╝╜╚╚╘╖╖╖╔╓╓╓╓╓ёё╔╖╘╔╓╒╒ё╓ё╒╒ёёё║÷··ё╔╖╗╘╙╚╜╝╜╝╞╞╝╜╝╜╛╚╜╞╟╠╡╠╡Ё╢╣╣╣╣╣╦╧╧╪╫©цддццббццдццдца©©╬╫╩╧╥╥╦╦╨╨╩╩╨╧╨╨╨╧╧╧╨╪╫╬╪╧╥╥╥╦╧╩╧╩╬юа╬╥╠╛╛╜╞╞╜╜╝╝╜╝╝╝╜╜╝╞╝╝╜╜╜╜╜╜╛╚╚╚╚╛╜╛╚╙╚╚╚╙╙╙╙╘╗╗╖╖╖╗╖╖╖╖╖╕╔╔╕╕╔╓ё╒╒║═╒╗╛╛╝╟Ё╣╤╣╢╥акйю╣╝╛╜╘═÷²²═║·²····²²°°⌡²²²²°⌡  ≤≤≥   ≥≥≤≤≤≈≈≈≈≈√≈≤≥⌡°²²÷÷══║╒╒ёёё╔╕╕╕╔╔╔╔╕╕╖╖╖╗╖╗╗╖╖╘╘╗╘╘╙╙╙╚╚╙╙╙╘╘╘╘╘╘╗╗╖╕╔╓ё╒╒║═÷÷··²·÷·⌡≥≥≤≈√√≈≤≤≈√√≈≈√∙▓▐▌█▀▄██▄▀▀▀┴├└└┐┌┌┌┐─~|}~┌J]╙╙╝╝╥╧╬ю╬©╫╥╣╤╣╦╤Ё╣╦╧╢╜╞╛╘╙╜╟╠╟╟╟╠╟╠ЁЁЁ╡╡╠Ё╣╣Ё╠Ё╠╟╠╡╠╟╟╝╡╞╝╡╡╟╢Ё╡╢╥╦╨╫╩╪╪╪╫╬╬╬╬аааааааббаабббццдефхххггегххгфхиййигффгххфецццццдддццббабба╬╪╨╧╧╦╦╥╤╥╥╦╧╦╦╧╧╪аиосужурярсстутролхгефгдддбдцбаааю©ю©╬╬╪╨╧╧╣╣╣╣╢Ё╣╤╥╤╢╢╣╥╦╧╦╦╦╧╧╦╣Ё╢╣╣╣╣╣╣╢╢╤╥╥╤╤╤╥╥╥╤╥╥╥╥╤╥╥╥╥╥╥╥╥╦╥╥╦╥╥╦╨╥╦╦╦╥╦╦╦╥╥╨╬цфгеда©╫╪╫╫╫╬©©ююю©©аю©©юацдцбюююаббцццццддееггфцю╪╨╢Ё╠╞╝╜╚╘╚╘╗╖╗╗╖╕╖╖╖╕╕╖╖╕╓╓╓ё╒║ё╔╗╕╒÷·°≈▓▄▄▄▄██▌▌▐▌▄▀▀▄███▄▄▌▐▒▓⌠▓▓⌠⌠⌠⌠▓▓░▒▓⌠■∙√√≥≥≥ ⌡⌡ ≥°⌡⌡⌡²÷║╒╓╓ё╒║║ё╓╓ё╒╒║║╒╓╗╛╡╤╥╤╤╥╩╫©©©абцфдццдеффеффеефгфееехкноонннмлклмммоппнопяяряпннноярсромккймлхгххефгхиххиффеееддцдхкйфддеийкйххийхикллмопяуышзыыыьыыжуттсяярсуутяяпппяяпояяяяпоммхиййкйййфецаюююаюююююабца╬╬╪╥╢Ё╟╜╙╗╖╕╕╗╙╚╙╙╚╜╜╛╙╙╖╕╔╔ё╒╒╒ёёёё╓╕╖╓╒║║╒╒╒═║╒╒╒═·²°╒╓╕╖╖╗╘╙╚╛╝╞╞╝╜╜╛╚╙╚╜╝╞╟╟╠Ё╢╢╢ЁЁЁ╤╤╤╥╧╩юабццбаббааабббюю╬╬╬╪╨╧╨╩╩╩╩╩╩╩╩╨╧╨╨╨╨╩╪╫╬╩╧╧╧╧╧╩╨╩╩╫юб╬╥╠╝╛╞╟╞╞╟╞╝╞╞╞╜╝╞╞╝╝╜╜╜╝╝╝╝╜╛╛╚╚╚╜╛╛╛╛╛╚╚╙╘╘╗╖╖╖╖╖╕╕╔╔╔╓ё╓╓╔╔╓╓ёё═÷ё╙╛╘╙╜╠╢╥╧╥╤╫дмйаЁ╚╛╙╒═··══÷······²²²²²²²²°°⌡⌡  ⌡⌡ ≥≤≤≤≤≤≈≈≈≤≥⌡⌡²·═║╒╒ёёё╓╓╓╓╓╔╕╕╖╗╗╗╗╖╗╗╘╘╘╘╘╙╙╙╘╘╙╚╙╙╚╚╛╛╜╜╜╚╚╚╚╚╙╘╘╘╗╖╕╔╓ёё╒║═÷÷·²°°·²° ≥≤√√∙∙■∙∙∙∙≈≈√∙■▒░▌┼▀█▌▌█▄▄┼┬├└└┐┐┐┐~}─└K_╞╞╢Ё╧╩©ю╬╬╩╣╢╣╣╦╤ЁЁ╥╧╣╞╟╜╚╛╞╠╡╠╟╟╟╠╡╢╢╡Ё╡╡Ё╣╣Ё╠╣╢╢╢Ё╠╠Ё╟╢╡╡╤╤╢╥╥╣╥╧╧╩╫╪╬╫╫╫╫╬╫╪╪╬юаааабаааююаббцдефгхххфгииххиккллкйиийихфеееедгффеддццццба╬╪╩╩╫╫╪╪╪╪╫╬╫╫╫юелруьььжтстусуурпмифгеггдеецдццббаю©ююю©╬╫╪╪╧╧╦╤╢╢╢╣╥╤╤╤╥╦╧╧╦╦╧╧╦╥╢Ё╣╣╣╣╣╣╤╤╤╥╦╥╤╤╥╦╦╥╥╥╦╦╥╥╥╥╥╦╥╥╤╤╥╥╦╧╦╥╥╧╥╦╦╦╦╦╦╧╤╧╬цффецюю╬╫╪╪╫╬ююююааююююююабцддцббццдцццццддефеффц©╫╧╤╠╟╞╜╛╚╙╘╘╗╖╖╖╖╕╔╓╔╔╓╓╕╖╕║║║╒╒║ё╕╗╕╒·°≥■▌▄█▌▌▐▐▐▐░▌▄▄▀▀▀▄▌██▌▐▒▓▓▒▒⌠■■⌠▓▓▓⌠■∙√√≈≤°≥≈≤⌡° ≥⌡⌡⌡⌡°²÷═╒╓╓ё══ё╕╔╒══÷÷═╒╓╗╝╠Ё╢╤╥╫©аю©юббддддеееееффефггфеефхкллкмнпяомммоопяяооппяяпнммлноярролйккммхгхгфггххххгфееееецбцфииеццекййййккйхийкклопяжзэшыыыжввутттссрстутрпяппярряпяяяпонмллкйихгффедаю©©юааааабббб©╫╪╥╟╜╝╜╚╘╗╗╖╖╖╗╗╖╕╗╙╙╘╖╗╕╓╓ё╒║╒║╒ё╓╓╓╔╔╓╒÷÷═║═÷═║═÷·²°°÷║ё╓╓╓╔╕╗╙╜╝╝╝╝╝╚╚╙╚╛╜╜╜╜╞╟╠╠╠╠╠╡╤╣╢╢╢╥╪╫©бцбааа©©©юабаюююю©╫╪╪╪╪╩╩╪╪╫╪╩╨╩╩╩╩╩╩╪╬╪╨╩╩╨╨╨╩╨╦╦╫бб╬╥╟╚╜╟╟╟╟╞╝╝╞╝╜╜╞╝╝╝╜╜╜╝╝╜╝╝╝╜╛╚╙╛╚╙╙╚╙╙╘╘╘╗╖╖╖╖╖╕╕╔╓╓╓ёёёёёёёё╒║═÷╒╙╚╖╕╙╜╞╣╩╫╨╦╦гноб╡╛╙╔═÷÷÷÷·²²²²·····÷²²²²²°°⌡°°⌡⌡ ≥≤≤≤≤≥≤≥ °²══║╒ё╓╓╔╔╔╔╔╕╕╕╖╗╗╗╗╗╘╙╙╘╙╙╚╚╚╚╚╜╜╜╛╚╛╜╛╛╛╜╜╝╝╝╜╛╛╛╛╚╙╘╗╖╕╔╓ёёёёё╒═÷·²⌡ ≤≥⌡⌡°²²⌡≥≤≈√√√∙■■■∙■■⌠▒░▀▄█▌▐▌█▄▀┼┬├├├┘┘│~~}┌He╤╣╨╦╨╫ю©╪╩╧╢Ё╤╣╤╣Ё╡╣╦╤╡╞╛╚╜╟╠╡Ё╠╡╡Ё╢╤╣Ё╢Ё╡Ё╢╢Ё╡╣╣╤╤╢╡╡╢╡╢╤╥╧╥╣╣╤╣╦╧╧╩╫╪╫╪╩╩╩╪╩╨╨╪©©©╬╬╬юааююабааабцдеефефххххикйкмммллммлййиихгфффффееедддца©╬╬©©©©©©юююацгнуьььвусяпяяярромкигихихеффцбббцццбацдцаюю©╬╬╬╪╧╥╤╣Ё╤╣╤╥╦╧╦╦╧╧╨╧╥╤╢Ё╥╤╣╤╤╤╥╧╦╧╧╦╦╦╦╧╧╦╥╥╦╦╦╦╥╥╦╦╦╥╥╤╥╥╦╧╦╥╥╧╦╥╦╧╧╦╦╨╧╫цгхеца╪╫╬╫╪╫©аааююааааюаабцдддддддддццбаабдеееффд╬╩╦╣╠╞╝╜╛╙╙╘╘╗╖╖╖╖╔╔╔║╒╒║╒╓╔╔═÷═║╒╒╓╖╖╕ё÷°≥⌠▌▐▐░▒▒▒▒▒░▌███▄▄▄▐▌▌▌▐▒▒▒░▒⌠■∙■⌠⌠▓■√≈≈≤≥ · ≈≤⌡° ≥   ⌡⌡°·÷═╒╓ё══╒╔╔ё║═÷·÷║ё╕╙╝╟Ё╣╦╫юбю©юббцддееедцдфгхххфцефхйкйхгймпряонмппясрпоппярпонмлмнпряокилкммиггфгххгггфдеееддедбцеггецдекйииклкййиийкмопржшщшыыыужжуттттуссттрпоппяярррряяпнллкйкйихггффдбююю©юаюааббаю©╪╨╥╠╘╖╙╛╘╗╖╖╖╔╔╕╖╕╔╕╖╗╖╕╖╓ё╒╒║║╒═╒ё╓╓ёёё╒═·····²···²°⌡°°·═ё╓ёё╓╔╕╘╚╚╚╛╛╛╚╚╙╘╙╛╛╙╚╜╝╞╞╞╟╠╠╢╢╡╡╡Ё╥╨╩╬юаююю©©©©юбаюббба©╬╫╫╫╫╫╫╫╫╫╪╪╪╪╪╪╪╪╩╫╪╩╪╫╩╨╨╪╨╥╥╨©ба╩╢╜╛╝╟╟╞╝╜╜╝╜╛╛╜╜╜╝╜╜╜╝╝╚╛╝╝╝╝╛╚╛╚╚╙╚╚╙╘╙╘╘╗╗╖╖╖╖╕╔╔╔╔╓ё╓ёёё╒║═÷║÷╒╗╘╔╓╗╗╘╝╥╬╫╥╠╩грм╬Ё╛╔║═÷÷÷÷·²·····÷÷÷²²²²²²°°⌡⌡⌡⌡⌡⌡⌡⌡≥ ⌡°°·═╒╓╓╔╕╕╕╕╕╖╖╖╗╗╗╘╘╚╙╘╘╘╙╚╛╚╚╛╜╜╜╜╜╜╝╜╛╛╜╜╛╝╝╝╝╝╝╝╜╛╛╚╚╙╘╖╖╕╔╓ё╒╒╒╒╒║═÷²⌡≥≈√≈≤≥⌡°⌡ ≥≤≤≥≥≤∙⌠⌠⌠⌠⌠⌠⌠▓▒▌▌▌▐░▐▌██▄▀┴┴┴┴┤┐││──│Gj╪╥╪╦╧╫╬╫╧╥╢╠╡╤╣Ё╢Ё╡Ё╤╥╢╝╚╙╛╝╞╠Ё╠╡ЁЁЁ╣╤╤╢ЁЁЁЁЁЁЁ╢╢╢╣╢Ё╡ЁЁЁ╣╤╤╤╥╣╤╤╦╨╦╧╪╪╩╨╦╧╨╩╨╧╩╫╬╫╩╨╩╪©юю©©ааю©©©©юаббдеффгххихиклллллнмммнммлхххххггфффгфдбаааааааюаацфинсввутянллллкнонкииихихиифгхедддееедцефдбаааюаа╬╪╩╨╦╣╤╤╤╥╦╧╧╧╨╨╨╧╥╣╣╣╥╤╤╦╧╦╦╨╩╨╧╧╧╧╧╧╨╧╦╦╧╧╧╧╧╧╦╥╥╦╦╧╦╦╧╧╦╥╦╨╦╦╦╨╧╦╧╩╬бфхгда╬╪╫╫╬©юаббаююааааабдфффеедееецббцюююбцддддц©╧╤╣Ё╞╝╜╚╘╗╗╗╘╕╕╖╗╖╓╓╔║║║÷═╒╓╔║══╒╓╔╕╗╖╖╔║· ∙▒▒▓⌠⌠▓▓▓⌠▒▌██▌▌▌░▒░░░░▒▒▒▒▒⌠■∙∙∙∙⌠∙√√√√≤ °≥≤ ⌡ ≥≥≥≥≥  °÷║·═║╒║║╒╒ё╒╒╒║÷÷║╒╔╗╚╝╠╢╤╩юбю©аббцдеееддццефгххебдфхйихгфхйнпяяпояярссяоопрсрпонлмнпяяокхйиклихгегхгггхфддедццддццдффддефиииийккккйийлнппсвшщэзыьуввуттутутссспоопяссрярсппнкиййиххииииххца©юююююююаббю╫╩╧╣╠╛╕╕╙╚╗╕╔╔╓ёё╓╕╔╔╓╓╔╕╕╓╒═║║═║╒═║╒╒║║║║═÷·²°°°²⌡°°°⌡ ⌡⌡°·║╒╒ё╓╔╓╖╘╘╗╘╙╙╗╘╗╖╗╙╙╗╗╙╛╜╜╜╞╠╝╠╠╟╠╠╠╢╥╦╧╩╬©юююю©╬©аю╬ааюююю©©╫╬╬╬╬╬╬╬╬╪╩╩╪╪╪╩╪╩╪╬╬╪╨╨╩╧╦╧╨╪©а©╨╢╝╜╝╞╝╜╜╜╝╜╚╚╜╛╜╝╝╜╜╜╝╛╜╜╝╝╜╜╛╜╛╚╚╚╚╙╙╙╘╘╗╗╗╗╗╖╕╔╔╔╔╔╔╓╓ёёё╒║÷╒═╒╕╗╔╓╕╓╔╖╝╦╫╩╤╣╪иои©Ё╘║═÷÷÷═÷÷÷÷÷··÷÷÷·²²²²·²°°°⌡⌡⌡°²·°·══║╒╔╖╕╕╖╗╘╘╘╗╙╙╙╙╙╚╚╚╜╛╛╛╛╛╛╜╜╜╝╞╞╞╝╝╜╝╝╜╜╞╞╞╞╞╞╞╞╝╜╜╛╛╚╙╘╖╕╕╔╓ё╒║║╒╒╒║═·²⌡≤√√≈≈≈≤≥≤√≈√√≈≤≈∙⌠■⌠⌠▓▓▓▒░▒░▐▐▐▌█▄▄█▄▀▀▀┼┬┘└└┌┌─└Km╬╥╩╥╥╩╪╩╤Ё╟╝╠╣╣╟ЁЁ╠╡╤╥╤╝╚╙╚╛╛╝╠╞╠Ё╠╞╠╢╤╢╢ЁЁ╡╡ЁЁ╢╡╡Ё╣╢Ё╡Ё╟╠Ё╡╥╫╪╩╩╫╪╦╦╨╨╨╦╥╦╨╩╩╨╧╨╩╨╨╨╪╬╫╬╬╫╫©ю©©©╬╬╬©юадддефгххххийййййкклмноннллллкйихххихфдццддддццббглпсужтрпмйийккйллкхффггггххфхифггггггедеедбабцбаа©╫╬©╫╧╥╥╥╥╧╨╨╨╩╩╩╧╥╣╣╤╤╤╥╧╨╧╦╧╩╨╧╦╧╨╧╧╨╨╧╧╧╨╨╨╩╨╦╥╥╦╨╩╧╦╧╧╥╤╧╪╧╦╧╨╨╧╧╪бдфгфц©╪©╬╬©абаюбаююааааацфхихгееффдаюабююабдеддбю╩╣Ё╢╡╝╜╛╙╗╖╖╗╘╓╔╖╘╕ёё╔╒╒║÷÷╒╓╓╓╒║╓╕╖╘╙╔╕╔║· √▓▓⌠■⌠▓▓▓⌠▒▌▄█▌▐░⌠■⌠▓▒▓▓▓▓▒▓▓⌠■∙√≈∙√≈√∙■√≈≥≤≥⌡ ≈≈≥≤≤≤≥ °═╒²·÷═╒╒║═²·║╒║÷÷║║ё╖╙╛╞╡╢╧©бю©бццддддддддбббцегфдцехихгггфхкняяяпрярссяоопстряпнлмнояяолихгийхггцефгфгихфцддббддццдеедефгхиййййлммкиймопптвшщэшыьжььжууутжтрсрпооясттрярсоомиххихийккйигфбю©юаю©ю©©юаа©╩╦╥╠╛╘╔╖╚╚╖╔╓ё╒║╒╓╓ё╒║║╒ё╓ё═÷÷═══║÷═══÷÷════·²°⌡°²≥ ⌡⌡    ≈ ²÷÷═║╒ё╕╗╕╔╕╖╖╕╖╖╕╕╗╗╖╔╕╗╘╘╙╛╝╚╝╞╞╠╟╟Ё╣╣╣╦╩╬юююю©╫╬ю©╪╬╬╫©юааю╬©©©╬╬╬╬╬╪╧╧╨╪╪╩╩╩╪©©╫╩╨╨╦╧╩╩╨╪юа©╨╡╝╝╝╜╝╝╝╝╜╛╛╝╚╛╝╝╜╜╜╝╝╝╝╜╜╛╛╛╛╚╙╙╙╙╘╘╘╘╗╗╖╖╖╖╖╕╔╔╔╕╔╔╓╓ё╓╓╓ё║╒║╒╔╖╕╔╔ёёё╖╡╪ю╬╥╥©ляк╫╟║══÷═║║═══÷÷···÷·²²²···²·²°⌡⌡²·÷÷║ё╓╓╔╖╘╖╗╘╙╚╚╚╚╛╛╛╛╛╛╛╛╜╝╝╝╝╝╜╜╝╝╞╟╟╟╞╞╞╟╠╟╠Ё╢Ё╠╟╟╟╞╝╜╜╛╚╙╘╗╖╕╔╕╔ё╒║║║╒║═÷·²⌡≤√√≈≈≈≥ ≥≈≈∙■■∙≈≈≈√∙⌠▓▓▒░▐▓▒▐▌▌█▄▀▀▄▄▀▀▄┼┬└┐┐│││├Nqц╩╦╡╢╣╥╧╤Ё╠╟Ё╤╣Ё╠╠Ё╢╢╣╦╠╚╖╘╚╚╙╚╟╡Ё╡╡ЁЁЁ╣╤╦╧╥╢╢╥Ё╡╡╣╣ЁЁ╤ЁЁ╢╣╤╥╧╩╨╨╨╧╦╥╦╧╧╧╨╩╩╩╨╧╢╥╧╧╧╩╬©╬╪╪╫╫╪╪╫╬©юю©╬╬©аабдфгфеххгффиккйлмннмммммннооннкккйигггигеддегиятвжтрпнлииклййкйкиффггдгхииххххихггхгфдгфееддцбцдцю©юю╬╫╪╩╧╧╧╨╩╩╪╩╦╥╦╦╤╤╤╦╨╨╦╧╨╨╨╨╨╨╨╨╨╦╨╩╩╧╧╩╪╪╪╪╩╨╧╧╧╦╧╨╩╩╩╨╧╦╧╨╩╦╦╫цдфгеа©©ааю©©юаааюююююабдгххгхихеццдцбаююбцддедцб╬╧╢ЁЁ╠╞╝╝╚╙╘╕╖╖╓╔╖╘╗╕╔╔╓╓╓╓ё╒╒ё╓╓╓╔╕╖╗╖╕╓╓ё║°√▓▓■■∙■⌠▓▓▓▓▒░▐░▒▒▒▓⌠∙∙■⌠▓▓░░▒⌠■√≈≈≥≈√∙∙√ ²≥≥≥ ≥≥≥≤≤≥≥≥≥⌡÷ё²÷════÷²²°°÷║╒═·÷║ё╔╗╚╞╡╤╬цю╫╬бцедццдеедеддееддедефффгхйкгфкппярссряяпооястсряомнппнопмхййихгфгххгфффедбабццццефбцефдбцегефикклмкйхилопяятьэщэзьвжвыьжтуужвжспопяррясжуянмкйййиилкйййхебаюююаба╬╬юаю©╫╧╢╠╜╗╕╘╛╚╗╔╓ёёёё╒║ёёё╒║║╒ёё═÷÷÷÷·÷···²°°·÷═÷²⌡  ≥≤⌡⌡ ⌡⌡ ≥≤≤√≤°·²·║ё╒╒╔╕╔╔╖╕╕╕╕╕╕╖╗╘╖╕╕╖╘╙╙╙╜╝╜╛╝╠╠╢╢╢╤╥╧╨╩юю©╪╫юю╬╫╪╪╪╬©юю©ююю©юааю©╪╪╪╪╩╨╩╨╨╩╫╬╬╫╪╧╧╨╧╩╫╩©аю╨╠╛╜╞╜╞╝╜╜╝╝╜╜╛╜╞╞╝╜╝╜╝╞╞╝╛╛╛╝╝╜╛╚╚╙╙╘╙╙╚╙╙╘╗╗╗╖╕╔╓╓╓╕╔╓╓╔╔╓╒╔ё╓╖╘╖╕╕╕╓╓╔╙╣ае©╪╪©гряа╚╒°÷ё╒═÷══║═÷÷÷÷²··÷÷·²°°²··÷═╓╕╓╔╔╖╗╘╘╘╘╙╚╛╛╛╜╜╜╝╞╞╝╝╝╞╠╠╟╟╞╞╞╞╟╠╠╟╠ЁЁ╡╠ЁЁ╡╡╡Ё╡╞╞╞╝╞╞╝╚╛╜╛╙╖╕╔╔╕╕╔╓╒═÷÷║÷·÷÷°≥≈≈≈≈√≈≤≥ √√≈≈≈≈√√≈√∙⌠▒░░░⌠▓░▌▄▄██▌█▀┼▀▄▀┴┘┘┐┌┐┌┴Nsд╩╦Ё╢Ё╢╣Ё╠╟╝╡╣╢Ё╟╠Ё╣╢╤╧╢╜╘╙╛╙╗╗╜╞╠╡╡╢╤╤╤╤╥╥╣ЁЁ╤╤Ё╡╢╢ЁЁ╤╤╥╥╥╦╦╨╩╩╪╩╨╧╦╦╧╦╦╨╩╪╩╧╥╤╦╨╧╦╧╩╩╪╩╨╩╩╧╧╩╨╩╪╪╪╪╫╬╫╫╫©бефгфггфгииийклммнноппппппппмммлйиийихгггйлнртутрянлйххклййкггфдефецфгггггггйиииихгфгфееееддцедцбба©©╬╫╪╩╩╩╩╬╬╪╧╦╦╦╥╦╥╦╨╨╦╧╩╪╪╪╪╪╪╪╪╧╨╩╩╨╨╩╪╩╩╩╩╨╧╧╨╧╨╨╩╩╩╨╨╧╧╨╩╨╩©ехгфца©©©аааабцбааааабцегиййихгебабббаюююаабдеда╬╦╣╡╡╠╝╛╙╜╙╘╘╖╗╘╕ё╕╖╔╓╓╔╔ё╓╓╔╔╕╗╘╙╘╘╙╙╙╘╗╕╔ё║°≈∙∙√√√√≈≈√■■▓░▐░▒▒▒⌠■∙∙∙■⌠⌠▓⌠⌠■∙∙√√≥≤√√√≈ ·⌡  ≥≤≈≈√≥≥≥≥≥ ²÷°·÷···²°²·÷═║║║║═║╒ё╔╘╝╡╢╨©╬╪╬ацфеддееедеддееддфцдеффгхихффкоооорррррряяясутррпонпомномихххгфефгххгфффдцббццццефццццбацегффиййийиййклммнртвзшшзыьввьвутуттуусппрстссужтрмлййййййлкййихдббаююаю©©©ааю╫╨╤╠╙╙╙╚╜╝╚╖╓ё╒║╒╒║║ёёё╒║║╒ёё║═║║÷··²²²°⌡⌡°²═÷·°≥≥≥ ≤≥ ⌡ ≥≤≈≤√≈⌡···═║║╒ё╓╓╔╔╔╔╔╔╕╕╕╕╕╔╓╓╔╕╕╔╗╙╚╙╙╛╝╞╡╡╡Ё╣╤╦╧╬©ю©╫╬╬╬╫╫╪╪╫╬©©©юююююаббааю╬╫╪╪╩╨╨╨╪╫╫╫╩╦╧╨╧╨╩╧╬юа╬╥╠╞╞╞╟╞╜╜╝╞╝╜╛╛╜╜╜╜╝╛╜╝╝╜╜╛╛╛╛╛╛╛╛╛╛╙╙╙╙╙╘╘╗╗╗╖╖╖╖╖╖╕╔╓╔╔╔╓╒╓ё╓╕╘╗╖╕╕╕╔╓╕╝╧афец╫©мтл╩╛÷²═║═║║════║═══÷÷······═╒ёё╓╕╖╕╖╖╗╘╙╚╚╛╛╜╜╜╜╜╜╝╞╟╟╞╞╞╟╠╠╠╡╡╡╡╡╟╡╡╡╡╢╢Ё╡ЁЁ╡╡╡╡╠╟╟╟╞╞╞╜╚╛╜╛╙╘╗╗╗╗╖╔╓╒╒║║·°⌡°° ≤≈√√√√√√√√≤≤≤≈√∙■■√∙⌠▓░░░░▒▓▓░█▄█▌▐█▄▄▄▀┼┬┴┴┘┐┐│┬Ksц╨╦Ё╢╡╠╡╟╟╞╜╠╢╢╠╞╟Ё╣╣╥╨╥╠╜╜╝╚╗╖╘╛╝╞╡╣╥╥╥╥╦╥╣Ё╢╤╧╣Ё╢╢Ё╢╣╤╥╦╧╨╩╫╬╪╪╪╪╨╧╧╧╦╦╦╧╧╧╦╥╦╨╩╨╦╦╦╦╨╧╧╧╧╦╦╨╥╦╧╧╧╦╧╧╤╤╤╥╧╪юбцеффгииийклллнопяяппппппооонмлммлкккмоясттсяпнлииггйкйикхфдфгфедддеееефгиййййиииихгфггггефгфеедббаю©╬╫╫╪╬╫╩╥╤╥╦╦╧╧╧╧╧╧╨╪╩╩╩╩╩╩╩╩╨╨╨╩╩╩╩╩╨╩╩╩╩╩╩╪╨╨╨╨╨╩╩╩╨╨╨╪╫©цгйгдбаюю©бббцддцбюаабцехйкллигебюаабаююююббцефд╬╧╢╡╡╡╟╝╚╙╙╗╗╗╕╖╗╕╓╕╖╕╔╖╗╘╘╘╘╘╘╙╚╛╛╚╚╛╛╚╙╘╖╕╓╒²≥≤≥≥≤≈≤⌡⌡≥≈≈∙⌠▒▒▓⌠■■∙√√∙■■⌠⌠⌠■■∙∙√√≤√∙∙∙∙≈    ≥≤≈√∙≥≥≥≤≤≥  ·÷÷·²·²°²÷║║══╒╓╒╒╒║╒╕╚╞╢╥╩╫╫╫©аффеееддддццдеддецддеефхигеглонммоярссррспстсрряононллмлхффффеефгхгфеееддцццццдефдбаааацефефхиххххиккййлнрсувьыззьвввжууууссутпятуттуутрякййийккйкйиихфцадаюаю╬╬юааю╬╨╤╠╜╔╘╜╝╝╜╘╔ё╒║═║║║║╓╓╓ё╒╒╒ё╒║║╒╒÷²°°²²°⌡⌡⌡⌡÷÷÷°≥≈≥⌡≤≥⌡⌡≥≈√√≤√≈⌡···÷÷═║║╒╓╓╓╓ёё╓╔╕╔╓╕╔╔╔╔╔╓╓╖╗╗╖╖╘╚╜╠╟╟╠╡Ё╣╤╩╫юбю╬╬ю╬╫╪╪╪╫╫╫©©ююююаббдеда╬╫╫╩╨╧╧╨╩╪╪╨╧╨╩╧╨╨╦╩╬ба╫╤╠╞╟╠╟╝╜╝╞╞╝╛╛╛╜╛╜╞╚╛╜╝╜╜╜╜╛╛╛╛╛╛╛╛╙╙╙╙╙╘╗╗╘╗╗╗╖╖╖╖╕╔╔╔╔╔╓ёёё╓╔╗╙╗╔╕╗╕╓╔╖╟©хли╫╥цпяк╪╛ё═·÷ё║═÷═║║═÷═÷·²²·══╒╓╖╗╗╗╗╘╙╙╙╙╚╛╜╜╝╝╞╞╞╞╞╞╞╟╠╠╠╠╠╡╠╡Ё╢╢╢╢╢╡Ё╢Ё╢╢╢Ё╡ЁЁ╡╡╡╠╟╞╟╟╞╞╞╜╚╛╛╚╘╗╖╗╘╘╕ё╒║╒║║·°⌡°°⌡  ≈√√√√∙■⌠≈≈≈≈√∙■⌠∙■▓▒░░▒▒░▓■▓▐██▌▌▄▀█▌▄┼┼▄▀├└└┌┬Krб╦╤Ё╢╠╞╟╞╟╞╜╟╢Ё╟╝╞╡ЁЁ╣╧╧╢╞╝╝╜╚╙╘╙╛╛╞Ё╣╤╦╧╨╧╥╤╤╥╧╤Ё╢╤╣╣╣╣╤╦╦╧╨╩╪╩╩╩╩╨╧╧╧╧╦╤╣╣╥╦╦╧╩╪╩╨╧╧╦╥╤╤╥╥╤╥╦╦╦╥╤╣╢ЁЁ╡╡╡╠╠Ё╤╧╪╫©ацфгхийккклмнооонннопяяпоннпяооппястужтрпомйхигхйкйиихедгхфддаббццефхгиййииклйихххиииггхггффеддцбаюю©╬╪╧╤╣╤╦╧╧╧╧╨╨╨╩╪╩╩╩╩╩╩╩╩╩╩╨╩╪╪╪╩╩╪╪╪╪╪╪╫╩╨╨╨╨╨╩╩╩╨╩╫юцгихецаааю©ццццццббабцдехйллкйгдбаааабааюаабцдедю╧╢╠╠╠╠╞╜╛╚╙╗╗╗╕╕╖╔╔╗╘╘╘╚╜╜╜╜╜╛╛╚╛╛╙╚╚╚╚╚╙╘╘╗╕╓÷⌡  ⌡ ≥⌡°²° ≤≈∙■■■∙√∙∙√∙■⌠▓▓▓▓▓⌠■■∙∙√∙∙∙■⌠■∙≈≤   ≥≈√ ≥≈≈≈≤≤≤÷═÷·²²²²²·══÷═║ёёё╒║╒╔╘╜╣╥╨╬©╬╬©ддддццццббббцццццццдефгхгфхкнмллморсрярспртсряпнннлййййхффффедефеддццдддеддццдегебааццдеддфхииххххиххйнппясувььыьвжжжжжвжссжуяржуссутяннкййййккйкйихгебюдаюю©╫╬аца╫╧╣╠╜╙╗╛╞╞╜╙╖╔ё╒║║║║║║╓╓╓ё╒╒╒ё╒║║╒═²⌡ ⌡°°°°°⌡⌡²°°⌡≤≈≥⌡ ⌡°⌡≤√√√≥≈≈ ²·²²·║╒║╒╓╔╓╓ёё╓╕╖╔ё╕╕╕╕╕╕╔╔╕╖╖╕╕╖╙╚╞╞╞╞╟╠╢╣╤╦╪аа╬╬ю╬╫╪╪╪╪╫╪╫╬╬╬╬©юабдееца©╬╪╩╨╧╨╩╩╪╩╨╪╫╩╩╩╦╧╪юбю╩╢╟╟╟╟╞╝╝╞╟╞╜╜╝╝╝╝╞╛╛╜╜╜╜╜╜╜╜╛╛╚╚╚╙╚╚╚╙╙╘╗╗╘╘╗╖╕╕╕╕╕╕╔╔╔╔╓ёё╓╓╓╗╚╘╔╔╘╖╔╗╕╛╪дкмц╦╩фноию╤╘═·╒║══╒╒║═÷÷·÷÷║ё╔╕╖╗╙╚╚╚╚╚╜╛╛╛╜╝╞╞╝╞╟╠╠╠╡╡╠╠╡╡╡ЁЁЁЁЁ╢╣╣╣╢╢╣╣╣╣╣╢╢Ё╡Ё╡╠╠╠╟╝╛╝╝╜╜╝╜╚╚╘╖╖╕╔╕╖╘╕╒║╒╒═÷═·²²²²°² ≥≈≈√∙∙■∙∙√≈≈√∙■■⌠▓▒▒▒▓⌠▒▓⌠▓░▌▌▐█▀▀▌▌█▄█┼┴┘┐└└┼Mp©╣╣Ё╣╡╞╟╞╟╞╜╟Ё╡╟╝╝╟╠╠Ё╤╦╢╞╜╜╜╜╝╛╜╛╛╜╟ЁЁ╤╧╩╩╨╧╦╦╥╣╢╤╥╥╤╣╥╥╥╤╣╣╣╣╥╥╥╦╦╦╥╥╧╥╤╣╣╥╦╧╦╧╩╨╨╨╧╦╢ЁЁЁЁ╡╡Ё╤╣╢Ё╡╡╠╟ЁЁ╡╠╟╠╡╢╢╣╤╦╩╬юбдфхийййкннннмнопяяяпопяряярстужжвтрпомкиииийкихгдаадфдццаббббцефефхххийлкйииййййиххггггхееееедццю╬╩╦╥╦╨╩╦╧╨╩╪╪╪╩╫╫╫╫╫╫╫╫╫╪╩╩╫╫╫╩╪╫╫╫╪╪╪╫╩╩╩╨╨╩╩╩╨╩╪©цгийддцбаюююдцбаааббефгхйкмнлйгдбююаюааааюаббцдц©╧Ё╟╞╞╞╜╛╚╚╚╙╗╘╙╖╖╗╖╕╘╚╚╜╝╞╝╜╜╛╛╛╛╛╚╙╙╙╙╙╘╗╗╗╖╕ё÷≥≈≈≥≥≥     √√√√√√√≈∙√√√■⌠▓▓▓▓▓⌠⌠⌠■■∙∙√≤≈∙■∙∙≈ °°⌡≥≈ ≤√∙√≈≥ ²÷÷²⌡°°°²²²²·÷══╒╒ёёё╕╘╛Ё╣╧╬юю©╬ацддцббцаааббцбабббцдфгххгхйкклмморсряярястсяяонмлйхгхгффффедццдццббццдееедцдеффдбацдддддефгххххххххйлнонпртжвввввжжжвьььуужжссвусртсоммлккйкккйкйигфдаюбю©©©╫©бб╬╧╣╠╝╛╚╛╞╠╞╚╘╖╔ё╒║║║║║║ё╒╒╒╒╒║║║═÷÷² ≥≥≥ ⌡⌡°°⌡⌡⌡≥≈≤≤≤≥ ²²° ≈∙√≈≈∙√≥°²²²÷╒╓ёё╔╖╔╕╔╔╕╗╗╖╔╖╖╕╔╓╓╓╔╕╕╔╔╔╕╖╘╛╜╜╝╝╟╡╢╠╠╣╩©╬╬ю╬╫╪╪╪╫╫╪╫╫╬╬╫╬©юббдефецю©╫╩╨╨╩╩╩╪╩╫╬╪╩╩╦╧╩╬аб╬╧╣╟╟╟╟╞╞╞╞╝╝╝╞╞╝╜╝╜╜╜╜╜╜╜╛╜╜╛╛╚╚╙╙╛╛╚╚╙╙╘╘╘╘╗╖╕╕╕╕╖╕╕╔╔╔╔╓╓╔╔╓╗╚╙╕╓╖╔╔╙╖╗╣айплб╪айкккг╪╝╓║══║ёё║║╒═║ё╔╖╘╙╚╚╛╛╜╜╜╜╝╝╝╝╝╞╞╟╠╞╟╡╡╡ЁЁ╢ЁЁЁЁ╢╣╣╣╢╣╤╤╥╤╤╣╥╤╤╣╣╢ЁЁ╡╡╠╞╞╟╞╜╚╛╛╚╙╙╙╗╖╔╓╓╓╓╔╖╗╕ё╒╓╓╒═║·²²²°°²²⌡≤≈√≈≈≈■∙√≈≤≈√∙■⌠▒▒▒▒▓⌠■▓░▐░░░▐▐▄▀██▄█▌┬┬└┐┘┘▀On╫╢╢Ё╤Ё╠╠╞╞╝╜╠Ё╠╟╝╜╟╟╟╠╢╣Ё╟╛╙╙╜╟╟╟╞╝╝╠╠╠╡╤╧╨╨╧╦╥╤╣╣╤╦╦╤╣╣╣╣╢Ё╡Ё╢╣╢╢╢╢╣╣╢╤╤╤╥╦╦╦╥╢╤╥╥╥╦╦╥╤╢ЁЁ╡╠╟╠╠╠╠╠╡ЁЁЁЁЁ╢ЁЁ╡ЁЁЁЁЁ╣╤╦╨╪юбегийккмноонопяяяяпппяряртжвьььжтряпмллккккйхфдю©©бццддцддцбббцдеефгхийкйййкккйкихххгхигггггггфца╬╪╨╧╧╨╦╨╩╩╫╫╫╩╫╫╫╫╫╫╫╫╬╫╪╫╫╬╫╪╪╫╫╫╪╩╪╪╪╪╪╪╪╪╩╩╩╫©бфиихбддца©ююдцбаабцдгийккллллхдбю©©ююююююююацдцю╨╣╠╞╝╝╜╚╙╚╛╛╖╕╘╙╗╘╚╘╙╛╝╝╞╟╞╝╞╝╛╚╙╘╖╕╕╖╖╕╓ё╒║÷·²⌡√░▌▌░▒▒░░░▓⌠⌠■√≈≈≤≤≤≈≥  ≥≤≈≈√√√∙∙■■■■∙√≤≤√∙√√≤ °°⌡≥≤≥≤√∙∙≈ ⌡·÷═·²²···°⌡°·═÷²÷═╒╓╔╗╛╞╞╡╤╩©аю©ацддцбцдббббцдбюбббцдфгхххххийлмояррряяярттсяпонлкигффееееедббббббццццдеддццдееецббдедццефгфффффгхйлммллноружвжжжжжужвьььвжжжтужтсссрпннллккккййййхфецаюаю©╬╬©юа©╨╣╡╞╜╜╝╝╟╠╞╛╙╖╔╒║║║║║═÷║════║══÷·²²⌡≥≤≥≤≤≥  ⌡  ≥√■√≈≈≤⌡·²⌡≥√∙≈≤■∙√≥°·÷÷║ё╔╔╔╕╖╗╗╖╖╖╘╘╘╗╙╘╗╕╔╓╔╔╖╕╔╕╕╔╕╖╚╛╜╜╜╝╠╡╟╟╡╥╩╬юа©╬╪╪╪╫╫╪╫╬╬╬╬╬©©аабегхфдбю╬╫╪╪╪╩╪╩╫╬╩╩╩╦╨╨╪©аа╬╪Ё╠╟╟╠╟╞╞╝╝╝╞╞╜╛╛╞╝╜╛╛╜╛╛╛╛╛╛╛╛╛╛╜╛╛╛╚╚╙╙╘╘╘╗╗╘╘╘╗╗╖╖╕╕╕╕╖╖╕╕╖╙╙╘╓╕╓╔╘╖╕╛╬гооиюайхгхлка╡╗╒══╒╒║╒╓╓╔╖╘╙╚╛╛╞╞╝╝╝╞╞╟╟╟╟╠╠╡╡╡Ё╢╢╣╢╢╢╢╤╣╣╣╤╥╥╥╣╤╥╦╦╦╦╦╥╣╣╢╢ЁЁ╢╡╠╞╝╝╞╝╛╛╛╚╘╖╖╖╕╓╒╒╓╔╔╕╘╔ё║╒╓╔ё╒╒═÷÷·²²·÷°≤√√≈≈≈∙√≈≤≥≤√∙⌠▓▒░░▒▓⌠∙▒▌█▐▒▒░▒░▌▄▀▀▀▄┬┴├┘├└▀Nm╫╢╢Ё╤╣ЁЁ╟╞╝╞Ё╣Ё╠╝╝╟╟╞╠╢╣╢╡╜╘╗╚╝╞╟╟╟╠╡╠╞╞╡╣╤╥╦╦╥╤╤╤╤╥╥╥╤╢╢╢Ё╡Ё╣╤╢Ё╠╠╠╡╡╡╡Ё╢╤╥╥╤╣Ё╢╢Ё╢╣╣╢╥╤╣╣╢ЁЁЁ╡╠╠╡╢╣╣╣╢╢╢╣╣╣╢╢╣╢╢╤╥╤╥╦╩╫юбдфхийкмнннояяяряяяррстжььььвуссрпнмомллкифцю©юааацддддедцббцеедефгггиииклллклкйййхийиииииииифца©╫╩╨╩╩╪╪╪╫╬╫╩╫╫╫╫╫╫╫╫╬╬╬╬╬╬╬╬╫╫╬╫╫╪╫╫╫╫╫╬╫╫╪╪╫юдфхихебццбаюбццццццдфгийлмлйихиеаабаю©ююаюююаадб©╨╤╡╟╞╝╝╜╚╚╛╜╛╗╗╚╛╚╚╜╛╝╞╞╝╜╝╜╚╜╚╗╕╓╒÷·÷÷═÷²⌡  ≈∙■▒▄┤┘├┤├┘┘├┤┴┼▄█▐▒⌠■√≈≤ °··²²°⌡⌡⌡ ≥≤≤≈≈≈≈≈≈∙√≈≤≥≥ ⌡⌡⌡⌡≈≈≈√√≈ °·═╒═÷═║║·²°²÷═·°·═╒╓╕╘╜╟╝╠╢╥╩юаюацеецббцбббабцб©цбабдфгхххиххйлнппяяяяпппрсяппомкйигфеддцддцбббббцццбббццбббцддцдццеедцдцеедцеееехкмнмллопсужввжужжууввжжвжуужутстсяппполкккккйййихфдбааюю©╫╬аа╬╨╤Ё╠╟╞╞╠╠╠╞╜╚╙╖╓╒╒╒╒╒╒═÷══÷═║║║═·²²° ≤≤≥≥≤≤≥≥ ≥≥≤√∙≈≈√≤°²°⌡≥≤≤≥ ≈≥⌡²·═║╒ё╓╔╖╕╕╖╘╘╘╗╗╘╘╙╙╙╚╚╙╘╗╘╘╚╙╘╙╙╘╗╘╚╜╝╝╝╝╟╠╟╠╠╡╣╨©аю©╬╫╫╫╪╪╫╬╬╫╫╫╬╬©юбдфгггдцаю©╬╪╩╪╩╫╬╩╨╩╧╧╧╨╫юааю╧╢╟╟╡╠╟╟╟╞╞╞╝╜╛╜╞╝╜╛╜╜╜╜╛╛╛╜╜╝╝╝╜╜╜╜╛╛╛╛╚╚╙╙╙╙╚╚╙╙╘╘╗╗╗╗╙╗╖╖╗╗╙╛╖╕╕╖╗╘╘╘╥еммкфекйдаелкб╧╝╖║╒╓╓╓╕╗╘╚╛╜╜╜╜╠╠╠╠╠╠╡╡╠╡Ё╢╣╣╣╢╣╤╥╥╥╤╥╥╦╥╥╥╦╧╧╦╦╦╦╧╧╧╧╧╣Ё╡ЁЁ╡Ё╣╡╠╝╛╜╝╝╛╚╛╙╖╔╕╕╕╔╒╒╔╖╕╖╘╓╒══║╒╒╒ё║═║═÷÷══²≥≈≈≈≈√∙≈≤≥≥≤√∙∙■▓▒▒▓⌠■■▒▌█▌░▒░░▒░▄┼▀▀┴┴▀┼┬┤└┼Om╫╢╢Ё╥╤╣╣╠╞╞╠╣╦╣╠╞╝╟╠╟╠╢╤╥╣╟╘╖╘╛╛╝╟╡Ё╢╠╝╜╟ЁЁ╣╦╦╥╥╥╥╤╣╤╥╥╦╥╣╢╡Ё╢╣╣Ё╟╞╟╟╟╟╠╠╠╡╢╣╣╢ЁЁЁ╡╡ЁЁ╡╣╢╢╣╣╢╢╤╤╣╢╢╣╤╤╣╥╤╤╤╥╥╤╣╣╢╣╥╥╤╣╤╥╦╨╩╫©ацфхклллнояррррррружьыыьжутсссяннпнмлкхеа╬©бб©╬юбабцдеддддгедефффеггикмммлмккллйийккййййййхеддб©╬©╬╬╫╪╪╬╬╪©©©©©©©©╬©©©╬╬╬╬╬╬©©╬╬©©╫╬©©©╬╫╪©цгийифббббаацдфацдефгийкмоомкхгеа©аццаааааааааба╬╦Ё╟╝╜╛╜╜╛╙╚╛╛╙╜╜╞╠╝╞╟╞╟╟╝╚╙╘╗╖ё╒═·²⌡≥≤≥ ⌡ ≥≤≈≤■▓░▄┬└┐└┐─~~│└├├└┘┤┴▀█░▓∙≈⌡²···²····²²°°·° ≥≈√≈≥≤≤≤≤≥⌡°²√≤≤≤≈≈ °²÷║═÷═║║÷·²·÷═·²═║ё╓╔╘╜╟╞╡╢╢╦©бююцеебюабббаабца╫цбабдфхххийййкмнпооопппонпяпнннмкйихфдддцдддццццабццаюююааабцццбфееффдефаццббдффцгклллняярсужвввужжуужжттжжттжжсрсспоппнкйййккйййихфдбаа©а©╪╬ба╪╥╢╡╠╠╠╠Ё╤Ё╝╙╘╘╖╓ёёё╓╓ё║÷║══║╒ё╒╒²²²²⌡≥≤≥⌡ ≥≥≥ ≥≤≤√≈≤√∙≤²²°⌡⌡⌡⌡⌡⌡°·═║║╒ё╓╓╓╔╗╖╔╕╙╙╘╘╗╗╘╙╛╖╘╚╛╛╚╛╛╟╝╝╞╞╜╛╜╜╞╟╟╞╞╟╠╝╟╟╝╝╢╩╬бю©╫╫╪╪╩╫╫╫╫╪╪╪╫╫©абцегифецаю©╫╪╪╪╬╬╩╩╩╨╦╦╧╩╬юбб╬╥╠╟╡╡╠╠╡╠╞╞╝╜╜╝╞╝╛╛╜╝╝╜╜╜╜╝╝╝╞╞╝╝╜╜╜╜╜╜╜╛╛╚╙╙╙╙╚╚╚╙╘╘╘╙╛╘╗╗╗╖╙╝╘╖╘╘╘╛╝╚╠цлйккйкмд╪╬екйх╫╠╖╕╗╘╗╘╜╝╞╟╠╠╡╡ЁЁЁЁЁЁЁЁЁЁ╣╤╥╥╤╤╤╥╦╧╧╧╨╨╨╧╦╦╧╨╨╧╨╨╧╧╦╦╦╦╢╡╟╠╡╡╢╥Ё╠╝╛╜╝╞╜╙╙╘╕╔╕╗╘╖╓╓╕╖╕╔╖╗╔╒══║╒╒╒║═║═÷÷║║·⌡≥≤≤≈∙∙√≤  ≥≤√≈∙■▓▓⌠■∙▓░▌█▌▐░▒▌▒▒▄┼▄▄┬┼▄▄▀┬┘▀Pm╫╣╤╣╥╣╢╣╣╤╢╠Ё╤╣╡╟╞╟╡╡╠╠╤╤╥╠╘╗╜╝╛╜╜╝╠╢╣╢╠╟╟╡╢╢╢╣╥╤╤╤╤╤╣╣╣╣╢ЁЁ╡╡╡Ё╡╠╟╟╠╡Ё╞╠ЁЁ╡╠Ё╢ЁЁЁЁ╢ЁЁЁ╡╡╡Ё╣╤╣╣╣╣╢╣╤╤╣╢╤╤╤╤╤╣╣╣╡Ё╢╢╢╢╣╣Ё╢╢╣╣╥╨╪юбегхикммнннояртужьыьжтсужжусяяяпнлйгцююбаааааабабддцццдцдефггххеефхиклмпнмлмммллмлкклйхффедддцааю╬╫╫╫╫╫╫╬©ююю©╬©©ю©©©©ю©╬╬©©©©ю╬╫╫©©╬╫╬дгииихдюцаюацдеецегиййклннммлкхфаабббббб©ююааббб©╨╣╡╟╝╜╜╙╚╜╝╞╟╠╡╠Ё╡╞╛╛╝╞╟╚╕╓╒÷° °⌡ ≥  ≥≤≥  ≥≥≤≈≈⌠▐▄┤┌┐┐│~}~│└┘┘│┌└├┘└├┴▀┼▄▓≈≥≥ ⌡°°²÷²²═ё═²⌡°° ≤≤  ≤ ·÷²⌡ ≥≤≤≥ ⌡°°²÷═÷····÷÷···÷║║ё╔╕╖╗╚╜╟Ё╣╥╨╫©юцефебю©ююацдца©ааабдгхифххгхкномноооноппооопнлйихгфффффедбаббцц╬юбццбюю©©©юабдееееффдбаабююдффхйиийклнпярствыьжжжутссужтттуутсряссяопппллйииккйигееффдбаю©╬©©╫╧╤╣╢Ё╠╞╡╥╣╠╞╛╗╕╖╕╕╔╔╔╔ё═·╒║══║║═÷·²²²°≥≥⌡≥⌡°⌡°²⌡≤≤≤≈≈≤≥ ⌡²°⌡°÷══÷╔ёёёёё╓╕╔╕╕╔╕╙╛╝╜╜╜╛╚╚╜╝╛╙╘╙╙╘╙╛╝╞╞╟╠╡╡╡╠ЁЁ╡╠╠╟╞╟╝╜╞╟╠Ё╤юю©©╬╫╫╪╩╪╫╪╪╩╪╪╪╫╬©беикггфдббю╬╬╪╪╫╬╪╩╩╨╨╨╩╫©юаб╫╥╡╠╠╡╡╡╟╞╞╞╜╜╝╞╝╝╝╝╞╟╟╝╝╞╞╞╝╝╝╞╞╝╝╝╝╞╞╝╜╝╞╝╜╜╜╜╝╜╛╛╝╜╛╚╙╘╘╘╙╚╛╚╚╙╘╚╜╛╘╞╩йнхглнсла╩©хлкгц╩╢╞╜╛╜╟╡╣╣╢ЁЁ╢╡╢╣╣╣╤╤╢╤╥╥╥╤╥╦╧╥╩╧╥╩╧╤╧╨╩╩╪╪╪╪╫╩╦╤╥╧╨╥╢╡╡╡╟╠Ё╢╡╝╝╝╛╙╘╘╘╗╘╘╘╗╖╗╙╘╖╓╓╕╖╕╓ё╒╒ёёё╒═╒═÷═║║║╒══·⌡≥≤≥ ≈≥≥≈≤ ≥√≈≈√∙■∙∙⌠■▒▓■▓▄▄░░░▌▄▄▌▄┬▀▀┼┼┼┴▐Nl╪╢╤╣╥╣╢╣╣╤╢╡╢╥╥Ё╠╟╠╡╡╠╠╣╤╥╠╘╗╛╝╛╜╛╛╞Ё╣╣╢Ё╡╡╡╡Ё╣╦╥╣╢╢╢╤╥╣╣╢╢╢╢╣╣╢╢ЁЁЁЁЁ╢╡Ё╢╢╡╠╡╡╡╡ЁЁ╢╢╢╢Ё╡╡╡╢╣╣╣╥╤╣╢╣╣╢╢╢╢ЁЁЁЁЁЁ╡ЁЁЁ╢╢╢╢Ё╢╢╢╢╣╥╦╦╩╬ацехййлмоопрсжвььвжууужжутсрролйигдббаааююююююююацдееддееефггффгхиийкммммннмлмммлллкиххгфффедбаю╬╬╬╫╪╬╬©ююю©©©юююю©©юю©╬©©©©а╬╬©©©╬юбфийигфдбедцццеефегийкллмнммллйгеббббааабабццца©╬╧╣╠╞╝╜╜╝╛╜╞╟╡ЁЁ╢╞╠╡╞╛╚╚╛╔║²²²°  ²⌡≥≤≤≤≈≈⌡⌡  ≥≤≤≈∙▒▌┴┐┐└┌│~~│┐└┘│──┌┌│┐┘│─│├▄▐▓■√≤≤≥⌡  ²÷÷═║║║═÷²··°°÷÷² ≥≥≥≥ ⌡°⌡⌡°·÷²²²²······÷╒╒ё╔╕╖╘╚╜╞╡╢╢╤╦╧©бегфдаюццбццбаабаабдфххгххгхкмнмноонннооннополйихгффеффгфдццбаа╬©юааююю╬©абдееееедддцаюбцаадеегиххйклнпярстувжужжжутттууутттсрпрррппяпнлллккмлкигедеецаюю╬╫╫╫╨╤╢ЁЁ╡╟╟╡╣╠╜╜╜╘╗╘╗╕╔╓╓╓ё╒║═══║╒ё╒╒═···°  ⌡≥⌡°°°²°⌡≥≥≥≤≤≥⌡²²°°·═║║÷║══║║╒╔╗╕╖╗╗╘╛╜╛╝╝╞╝╜╛╛╛╝╛╚╚╚╙╚╛╝╝╞╟╠╡╡Ё╠Ё╢Ё╡ЁЁ╡╞╜╜╞╟╠Ё╤╪╬аа©╫╪╪╪╫╫╪╪╩╪╫╪╪╫╬юцфхийхецбаюю╬╫╫╫╪╪╫╩╩╩╩╪╬юац©╨╣╡╠╡Ё╠╟╞╟╞╝╝╞╞╞╝╝╝╝╝╝╝╞╟╟╞╞╞╟╟╟╞╝╝╞╞╞╝╜╝╞╞╝╜╝╜╜╜╜╜╝╜╛╜╛╙╘╘╙╙╚╜╝╝╛╚╛╜╛╞╨хлгфкнтяйцбхллолга╩╥╢Ё╠Ё╣╣╢ЁЁ╢╤╥╤╣╣╥╦╥╥╦╦╦╦╦╧╨╨╫╨╧╪╩╧╪╫╪╪╫╫╫╩╨╧╥╣╤╦╦╤Ё╢╢Ё╡╡ЁЁ╠╜╝╝╛╙╗╘╙╙╙╘╗╗╗╘╘╗╕╓╔╕╗╖╕╒╒╒╒ё╒║═╒║══║╒╒║║═÷²⌡  ⌡⌡≥≥     ≤≥≤√∙∙■⌠√■⌠▒▒▒▒▒░▐▌██▌▄┴█▄┼┬┤┬▌Oj╨Ё╤╣╥╣╢╤╣╥╣╡╢╥╤╤╢╡Ё╢ЁЁЁЁ╣╥╡╙╘╜╝╞╞╝╜╞Ё╣╤╦╥╥╤╢Ё╢╤╥╥╥╣╢╣╤╦╤╤╣╢╢╣╤╤╣╣╣╣╣╣╢╢╣╣╣╢Ё╡╠╟╟╠╠╡ЁЁЁЁЁ╡╡╡Ё╢╢╣╦╥╣╢╢╢╢╢╢╢ЁЁЁЁЁ╢Ё╡╠╡Ё╢╢Ё╢╢╣╣╢╢╢╣Ё╣╧╩╫юбдфилопястжвьвуттууутттуттплиххфдцббббааююаю©©бдееееедеефгггггххххкклмнннмнннмммлййййххихфедцбаю╬╫©©юююю©©©юаааюююа©©юю©юа©©юю©©цххккиедддффедддфгхикллмннммллкхфдцббаааббюабба╬╨╦╢╠╝╜╝╝╞╟╡╡Ё╢╣╢ЁЁ╟╠╟╚╕╓ёё· ≤≥    ° ≤≈√√√√≥≥≥≥≥≤≤≈∙⌠▒▀└┐└┌┌─~~─┌┐┐┌──││┌┌~}}─└┤┴┼█▐░▓∙∙∙≤≥⌡·÷══║╒║╒║÷·═÷²  ⌡⌡⌡⌡⌡⌡  ⌡²·°⌡°²······÷ёёё╔╕╕╗╚╙╛╞╡Ё╢╤╦╪©цфгебюедцбаюаацбабдфгггхгефилмммнннмммммноппмйххгффеефеедцба©╬╬╬©©©©юа╬©бдедцббаю©©©©©юбааццдгхххкммноясттужжтужжжууттуттссряпрряпяяпмкллллммкхфддддбююю╬╪╩╨╥╢╡╡╠╟╟╡ЁЁ╝╚╛╜╙╘╙╘╕╓ё╒╒ёё╓══║╒ёё╒╒║═÷·°  ⌡ °²°°°²²   ≥≥⌡·═÷÷═╒ё╒║÷°⌡⌡°·═╓╗╖╗╗╘╚╜╛╙╙╚╛╚╙╘╗╖╚╘╗╗╗╖╖╗╙╚╜╝╟╡Ё╢╡╢╤╤╤╥╥╤╡╠╠╡ЁЁ╢╤╦╪абю╫╪╪╫╫╫╫╪╪╪╫╪╪╫╫╬юцеиййгедддбю©╬╫╪╫©╫╫╪╩╨╪©адб╬╧╢╡Ё╢╡╠╟╠╠╞╞╟╟╟╟╞╞╝╝╝╞╟╠╠╟╟╟╠╠╠╟╟╞╟╟╟╞╝╝╟╟╞╝╞╛╝╝╝╞╞╝╛╞╝╛╙╙╙╙╙╜╞╟╝╚╚╜╞╟╨фйедхйояпйефйнярямгю╩╦╢╣╣╣╣╣╣╣╦╦╥╤╤╦╧╦╦╧╧╨╨╨╩╪╪╬╪╩╫╪╩╫╬╫╪╫╬╫╨╥╤╣╣╣╤╤╢╡ЁЁ╡╠╠╠╠╟╜╝╝╜╚╙╚╛╚╛╙╗╗╙╙╘╗╕╔╔╖╘╗╖╒ёёё╒║══║╒╒═║╒╒═════·²²²÷⌡ °²  ° ⌡ ≤∙■⌠⌠■∙▒█▌⌠■░▒▐▐▐░▌█▄░▌▀┬┤┴▓Th╧╡╣╣╥╣╣╦╥╦╥ЁЁ╣╣╥╣╢╣╣╢Ё╢Ё╢╥Ё╚╙╝╞╟╟╞╝╞╡╢╢╥╦╧╧╥╢╢╤╤╥╧╧╥╤╥╦╧╦╤╢╢╣╤╤╣╣╣╣╣╢╢╢╤╣╢╢╢Ё╡╟╟╟╠╠╠╡╡╡╡╡╡ЁЁЁЁЁ╤╣╢╢╢╢╢╢╣╣╢ЁЁ╢╢╣Ё╠╟╠Ё╢Ё╡╣╤╤╤╣╢╢╢╢╤╥╧╧╨╪╫адилоятвжввурясуутссужжуснйиигдцдддддццбцбаюбцццееефффгггггххххгииклмнннооонннмкккйииййхххфеецбюююююю©©©╬юабаюю©ю©юааююююююююафкккйгдццдееедддгхклммммннлллкигдццбааабббююю©╫╨╤╢╠╞╜╜╞╠╡╡╣╤╥╥╥╣╠╞╜╛╗╒²°°²·⌡≤≥     ≥≈√∙√≈≤≈√√≈≈≈≈≈∙⌠▓▄└┌┐│─~~─││─│─~─│┌┐───┐└┘┘└└├┤┴█▌░■≈≤≤≥≥⌡²÷║╒╒═÷═÷²°°²²°⌡ ≥  ⌡²²⌡ ⌡²···²··÷ёёё╓╔╔╖╙╘╚╝╡╢╣╤╦╧╪аефебюддца©╬©ацбабцдффггфддгйклмммммллклнояпмйгггффееецддцба©╫╫╬©©©юаб©юаба©╪╨╪╨╧╦╨╩╫╫╬ааюбббеххилнннортуужввуужжжуууутссррряпярряяяомлллкклкйгфддддбююю╬╩╨╧╥╣╡╡╠╞╠╢Ё╠╞╚╚╛╘╗╗╖╔╓ё╒╒╒ё╓║║╒╒╒║═÷║═÷²⌡ ≥≥⌡²²°⌡⌡²·⌡  ⌡²÷══║║╒ё╒═²⌡≥≤≤≥ °═╔╔╕╕╕╗╘╖╓║╒╒╒║║══╒║═══÷÷═║ё╔╖╘╛╝╞╞╡╢╢╣╥╥╥╤╣╣╣╣╣╣╤╤╨╬аю╬╫╫╬╬╫╫╪╪╫╫╩╪╪╪╫©абехйихгхгдцаю╬╪╫©╫╬╬╪╩╩╫©бцб╫╥Ё╡Ё╢╡╡╡╡╠╟╠╡╡╡╠╠╟╟╞╟╟╠╠╠╟╠╡╡╠╠╠╠╡╡╡╠╟╟╠╠╟╟╟╝╞╞╞╞╟╞╜╞╝╜╛╚╙╚╚╛╝╟╞╜╛╜╞Ё╩фицабцфлплфдхлнясрнгб©╨╦╤╣╤╥╦╦╤╥╦╧╧╧╦╦╨╨╩╩╪╪╫╫╫╬╫╫╫╪╩╩╪╩╩╩╩╨╦╥╣╣╣╣╣Ё╡╟╟╟╟╟╟╠╠╟╝╝╝╜╜╜╜╝╛╝╝╚╙╛╛╙╘╗╖╖╗╘╗╖ё╓╔╓╒║║║═ёё║═ё╒÷·÷═║║══÷÷°⌡°°⌡⌡°⌡°°≥∙⌠▓⌠▓▓░▄█▓⌠░▒▐▌░░▌▄█░▐▀┴┬┼■Vg╥╠╢╢╥╣╣╥╤╦╦╢Ё╣╢╣ЁЁ╢╢╡╠╡Ё╢╤Ё╜╜╟╞╞╟╟╞╞╟╠╟╡╢╦╨╧╤╢╣╤╦╨╨╦╦╦╧╨╧╥╤╤╤╥╦╥╤╣╢╢╢╣╣╣╢ЁЁ╢╢Ё╠╠╡╡╡╡╡╠╠╠╡Ё╢╢Ё╡╡╡╡Ё╢╣╣╣╣╢╢Ё╡╡╡ЁЁЁ╡╠╠Ё╢Ё╡╣╤╥╥╤╣╣╣╥╦╦╦╦╦╦╧╫юдхлптвжжусяясуутссужжутплккигеффффффееццдцббццдегхиххгггхххххххиийклнооооооонлллкййккййиххггедббааюю©©╬юабаю©©©©юббю©©аю©ацеиллйгедццддеееефиймнннмллмллкигецббааабцццца©╪╧╤╢Ё╞╝╝╞╡╣╤╤╤╤╥╥╣╠╚╗║║÷ ≤≥ ⌡⌡≥≈≤≥≥≥≥≥≥≤√∙√≤≥√√∙∙√√∙∙⌠▓▒▀└││||}~──~}}}}}}│┐││┌┐└┘┘└┌┐┐└┬┴▀▒≈√∙√≈≥ ⌡²·÷÷÷══÷²²²²°⌡ ≥  ⌡²²⌡ ⌡²···²·÷═ё╒╒╓╓╓╕╗╛╛╝╡ЁЁ╢╤╥╨©дфецабббаю©©юцбаабцееггфддгйкллммммллйлнопянйггггффеееееедбю©╫╫©©©©ююаю©╫╩╧╥╤╦╤╣╣╤╦╨╩╫юююбббеххймооооясужвььвжжжуууужутсрряппятусяпооммлйиййхфеддддцаю╬╪╧╦╦╦╤ЁЁ╠╟╠╢╡╝╞╚╙╙╗╖╖╕╔╔╓ё╒╒╒╒╒╒╒╒║÷·²║═·°  ≥≤°²²°  ⌡²⌡  ²║ё║÷÷═══÷°≥≈≥≤≈√√≈⌡÷══÷·═║═²≥≥≤≤≥  ⌡≥≤≤≥≤≈≈≥≤ °·÷║ё╓╔╗╚╜╟╡╢╢╤╤╤╤╤╥╥╤╥╦╩╫©ю©╬©╬╫╫╫╫╫╫╩╪╪╪╫╬юаафйййиихеедцю╫╫╬╫©©╬╪╩╪╬©аца╩╤Ё╠╢ЁЁЁ╡╟╟╠╡╡ЁЁЁ╡╡╠╟╠╠╠╠╠╠╡╡╡╡╡Ё╢╢╣╢ЁЁ╢Ё╠╠╠╟╠╟╞╞╠╟╞╞╞╝╜╛╛╛╛╚╛╝╟╠╟╞╝╢╨еидю©╫ахнмгефилнрсролйц©╩╦╦╦╧╧╥╥╧╨╩╨╨╨╪╪╪╪╫╫╫╫╪╪╫╫╪╨╧╥╥╦╦╥╤╤╥╦╤╤╤╣╢╡╠╟╡╡╠╡ЁЁ╡╡╟╝╜╜╟╠╟╝╜╟╡╟╝╜╜╛╛╚╙╘╙╘╖╕╕╕╖╕╓ёёё╒╔╔ё╒╓ё═══║╒╒║═÷²²°  °° °°°≥√⌠⌠⌠▒░▐░░░░▓▐██▐▐█▄▄▌▌▄┼┴┴▓Se╣╝╡╡╣╢╢╣╢╥╧╤╣╤╣╣╢╢╤╣Ё╡╡╢╢╣╡╝╞╠╟╟╡Ё╡╠╡╠╞╟╡╥╨╨╦╤╤╦╧╧╦╦╦╨╪╨╧╧╦╦╧╨╩╦╦╥╤╣╤╤╥╢ЁЁ╢╢╣╢ЁЁ╢╢╢ЁЁ╡╡╠╡Ё╢╢ЁЁ╡╟╡Ё╣╣╣╣╣╢ЁЁ╡╡╡ЁЁ╢Ё╡╡Ё╢╢Ё╢╣╥╥╥╤╣╣╦╦╦╦╦╧╧╨╪╬аеимяссссррстжутттттттролммлййххгггфггбцддццдфдфхййихгфгхииииииииийкмнноооопомннмклммлййихиххгеддцбаю©©юаааююю©©аццю©©бю©бгийккхееддддефггхйкмннннллллллйхецбабааацдцббю╪╥╢Ё╡Ё╡╡Ё╢╥╨╨╦╥╤Ё╟╛╕═⌡⌡°⌡≥≈≈≈≈≈∙∙≈≤≥≥    ≤√∙≈≥≥≈√∙∙∙■⌠▒░▐┼└│─}z{|──}{z|}}}┌┐┘┘└┌┌┐└└└└┐┐├├┬█▓▓⌠∙≈≤≈√≤ °²·÷══°°°°°°⌡⌡⌡⌡°··°⌡⌡²²²²²·÷═║║╒ё╓╓╔╖╙╙╛╟╡╡╢╤╦╨╬бефдцбббббааацбююабддгхгеехклкклмннмлкмнноянйгггггфеефффдбю©╬╪╫╬╬╬╬╬©ю╬╪╨╦╥╥╥╧╥╣╣╤╥╦╧╪©©юцддфихймопооортужвьвжжжуттужвутряяпоятжспоопннлйййигееддддба╫╩╦╤╥╦╥╣Ё╡╠╠╡Ё╟╜╝╙╘╙╗╗╘╖╔╔╔╓╒║║║╒ёё╒║═÷÷══·⌡   ≥°°°⌡ ≥ °°⌡⌡·╒ё═²····²⌡≤≈≤≈√■▓▒∙≥≥≥≤≤≥  ≤√∙∙∙√≈≤≤∙∙∙√√∙∙√√≤≥≥≥ ⌡°°÷ё╕╙╜╞╞╡Ё╢╣╤╧╨╧╧╦╧╩╬©©©©╬╬╬╬╬╬╫╪╫╫╫╫╫©ююдхййихфгфффцю╬╬╬©юю╬╫╪╫╫©бб©╨╣╡╢Ё╡Ё╡╟╟╟╡╡Ё╢╢ЁЁ╡╡ЁЁ╡╡╡╡ЁЁЁ╢╢╣╣╤╤╤╣╣╣╣ЁЁЁЁЁ╡╟╟╠╠╟╞╞╝╝╝╝╜╜╛╚╜╠╢Ё╠╟Ё╦циеа©╫цхннйффгикнпрряякхц©╪╩╨╧╩╨╨╩╩╪╫©╫╫╫╫╫╫╫╪╪╨╪╫╨╧╦╣╢╣╣╢ЁЁ╤╦╥╤╣╣╢╡╠╟╢Ё╡Ё╢Ё╡╡╟╝╜╝╠╡╠╟╟╡ЁЁ╠╞╞╞╞╝╜╛╛╙╗╖╗╗╗╗╕╔╔╔╔╖╖╔╔╕╔╓ёёё╒╒═÷·°·°≥≥°°≥°⌡⌡ ≈■■∙▒▌▐■⌠▌█▒░░░▒░▐██▐░▐▌▄┼░QcЁ╛╞╞ЁЁЁЁЁ╦╩╦╤╤╤╤╤╥╧╧╤╢╢╣ЁЁ╠╞╠╡╟╠Ё╣╢╢╢Ё╡╡Ё╣╦╧╦╦╧╨╨╨╨╨╩╪╫╨╧╧╧╧╨╩╩╧╧╦╦╦╥╥╥╣╣╣╣╢╢ЁЁ╢╢╢╢╢╢ЁЁ╡╡ЁЁЁЁЁ╢╡Ё╣╣╣╢╣╣╢╢╢╢╢╢╢╢╣╢ЁЁ╢╢╣╣╢╣╥╥╥╤╤╤╥╥╦╧╨╩╫╫©юбеикммммнортууууутсрррпнмннмммкйихггггццццдефгефхииихгфгхииииииийййклммнооояпнннмллннмлкйийййихххгфдбаюааааююааааббюююаюаейккйхфеееддффгхиклммммнмллллмлйгдбабцбабддба╫╩╥╢╡Ё╣╤╥╦╦╦╧╨╦╢╠╝╙╔║²≤∙⌡°⌡≥√√■⌠∙■∙≈≤≤≤≥ ⌡⌡≥≈√≈≥≥≈∙∙∙∙■⌠▒▐▌▀┘┌│|||~─│─}{|}}~┌┐┐┬┬├┌│┌┐┐└┘└└├├├┼▀█▐░▒▒▓▓■√≥⌡°²·÷²°°⌡⌡⌡⌡°°°²··°⌡⌡°°²°°²·÷══╒╓╓╓╓╕╘╗╘╝╟╠Ё╤╦╧╪юцддццббббббаба©©юбццфггефхклкклмоонмкмнмопнйфггхггфееедбю©©©╬╬╬╫╪╫╬©╬╪╨╦╥╥╦╦╧╦╥╤╥╦╦╦╨╪╫©цеефйхилооннорттувввтужууууужусррряясуурпооолммлккифеедддбаю╩╧╤╣╥╧╤Ё╡╟╟╡Ё╠╞╜╛╗╘╚╙╙╙╗╕╕╔╓╒║═║ёёё╒══════·⌡⌡°° ⌡  ⌡⌡ ⌡°²²²÷══²⌡²²°⌡ ≤≈√∙⌠▓▐▄▀█▒■∙√√≈≥≥≤≈√√√≈≈≈√√∙∙√√∙■∙≈≤≥≥≤≤≥ ≤⌡÷║╓╖╘╘╜╝╟╟Ё╤╦╦╨╨╨╩╪╫╬╬©©©©юю©╬╬╬╬╫╪╪╫╬©бегийигхгггфцаю©юю©╬╬╫╫╫╬юбб©╧╢╢ЁЁ╢╢╡╡ЁЁ╢╣╣╣╣╢Ё╣╣╣╢ЁЁ╢╢╣╣╣╣╤╤╤╤╤╣╣╤╤╣╢╣╢╢Ё╡╡Ё╡╟╞╞╞╞╞╝╝╝╜╛╜╠╢╢Ё╡╢╦ахгцбюдинокгфффгхкнпппнлйфцю╫╩╬╫╪╫╫╫╬ю╬╫╫╫╫╪╩╨╩╦╧╨╤╤╦╢╣╣╣╢ЁЁ╢╤╤╣ЁЁЁЁ╡╠Ё╠╠ЁЁ╡╠╡╠╟╟╠╡ЁЁЁ╣╡╠Ё╢╠╟╠╟╟╞╞╝╜╚╙╙╙╘╘╗╗╖╖╕╖╗╖╕╕╕╕╕╔╓ё╒║═÷²²°⌡⌡°⌡ °   ≥√√≈⌠▐░∙∙░▌▐▒▓⌠▓▒▒▐▌▐▒▓▒▐█▓Rb╡╙╜╜╠╡╡╢╢╧╪╧╤╤╣╣╤╦╨╨╥╢╢╣Ё╠╟╞╠Ё╟╟╡╢╢Ё╢╢╢╢Ё╡╢╣╤╦╨╩╩╪╫╬╬╫╫╨╧╧╧╦╦╧╧╧╧╧╧╧╦╥╤╥╥╤╤╢ЁЁ╡╡ЁЁ╢╢╢╢ЁЁЁЁ╡╠╡╢╤╣╤╤╣╢╢╢╣╢╢╢╢╢╢╢Ё╣╣╣╢╢╢╣╤╤╥╦╦╥╥╥╥╦╦╦╨╪╬©юбцдгйкйиххимястттужусяппонноонмннмкиггххфдббцфггфггххггфггхиииххийкллкклмнннояпнннмклннмнлкййккккккйхфдбаабаааабцбаааюабаюцхклкйееффецехггхйлммлллммллмммлйфцаабццбцдца©╧╥╣Ё╢╥╨╪╨╩╨╦╥╣╠╛╕╒·⌡⌡⌡ ≥⌡⌡≥√∙∙√∙√∙∙≈≈∙■■≤≥⌡ ≈≈≤ ≈∙■■∙√∙■▒▐▌▀├└┌}~~─││~|}}}}│└┐│┐└┘┐┐└└┐│┐┐┘┤├┘┴┴▀▄▀┼▀▌▒▒⌠√≥ ⌡°²÷·° ≥  ⌡°°²··°⌡⌡⌡°°°⌡°·÷══╒╓╓╓╓╕╛╙╙╜╞╝╟Ё╥╦╨╫ацццдцаабббабю©╬©абцдффеехйкййкмопонлннмнпнйфгхххгфеддцбююабаю╬╫╪╫©ю╪╩╧╥╤╥╦╧╦╥╥╥╧╧╨╧╦╨╨╫цедфйхилноннортуужввстжжжутттсррстттттсяпоонйкммлкхдфеедца©╬╨╦╣╤╧╨╤╠╠╞╞╡Ё╟╝╜╚╗╙╜╛╛╚╗╕╕╔ё║═║╒╓╓ё║÷·÷═║║·°°²²⌡⌡≥≥⌡°⌡⌡²²·÷÷²°⌡⌡°⌡ ≈∙■⌠▓░▐▌▀┬├┬▀▓■√≈≤ ⌡⌡≤≤≈≤≤≈√■≈√√≈√∙■■∙≈≤≤≈≈≤ √≥°·÷║║║╖╘╙╙╛╠ЁЁ╨╩╪╪╩╩╪╫©©юаааю╬©©╬╫╪╪╪╪╬юцехйкйигфггецбаю©╬╬╬╬╬╬╬©бдб╪╤╢╢╢╤╤╣╣╣╣╤╤╥╥╤╣╢╥╥╥╤╣╣╣╤╤╤╤╤╤╤╤╤╣╢╣╤╤╣╣╤╢╣╣╢╢Ё╠╞╟╟╟╞╞╞╝╝╝╛╜╟╡╡Ё╢╤╧ахгецбцхмнкгфгеддгкмнммммкхда©╬╫╬ю©╫╪╫╬╫╫╪╪╪╨╧╧╣╤╥╡╢╥╢╤╤╣╢╢╢ЁЁ╣Ё╠╠╡Ё╡╡╠╞╟╡ЁЁ╡Ё╠Ё╢╢ЁЁ╣╥╧╡╞╡╣Ё╠╡╟╟╟╟╟╞╝╜╛╙╘╘╘╘╗╖╖╕╖╖╕╔╔╖╖╔ёёёёё╒÷°⌡··°⌡°° ≥  ≤≈≤√⌠⌠√≤∙▒▐▐▓▓░▐░▐▄▄▌░▒▐▌⌠Ta╜╘╙╝╝╡╟╢╤╦╧╧╧╧╧╣╦╩╪╪╩╥Ё╡╡╡╡╠╠╡╡╢╢╢Ё╡╠╡Ё╣╤╥╥╤╤╦╧╦╨╪╫╫╫╬©╨╦╦╨╪╪╩╨╦╨╨╨╨╩╨╥╥╥╥╤╢╢╢╢ЁЁ╢╢╢ЁЁЁ╡╢╣╢╡╡╢╤╥╥╤╤╤╣╢Ё╣╢╢╣╤╥╣╢╢╤╥╤╣╢╣╤╤╤╦╨╦╤╤╧╥╧╨╩╪╬©╬афйййигццццгляррьтяпррпнонммнннннннмлкиифецбцдееддеефгххххххххийиййиийкмлмноппоноооооооонннмлкккккййййихдцбююююаабб©©ааю╫агмлхгиффффффгггилнннмлккллммммкигдццбаццдеда╪╧╢╤╦╦╦╦╨╩╩╨╥Ё╞╘╓║°  °²°⌡°° ≤≤≤≈√∙≈≈≈≈≈∙⌠▓√≈≥  ≥≤≈≈√∙⌠■∙■▓⌠░██┼┘{~──┐┌~}}|}─┌┐┌┘├├┐┌┐└┐┘└┌└┬┤├┬┤┴┼┴┤┤┴▀▄▌▓√√■∙≈⌡⌡≥√∙≤⌡° ⌡°²··²°²²²°°²·════╒╔╕╕╔╙╙╘╘╜╠╟╜╢╧╩╪©юбецддббба©©юббаацедгфцейкхикмнноопллмнонмкхгггггфдбдцаабб©╬╬©©╬╪╪╪╩╨╧╦╦╦╧╧╧╧╦╥╦╧╧╨╦╩╩╩╬юцххгхлоонмооятвьвжжжууууттуууутрсуттрярроллклмлигфхгееда╩╥╥╧╧╦╧╨╤╟╟╟╟╠╠╟╝╜╚╙╙╘╘╘╙╙╘╕╔╔╔ё╒ё╔╓╒÷·÷╒╔╒║÷·°⌡  ≥ ⌡⌡°·═══·°⌡°° ≥ ≥√■▓░▌▄▀┼┴┬┤┬┴┴░⌠√≈≈≥  ⌡ ≤≈≈≈≈≈≈√√≈≥≥≤≈≤≥ ≥≤≈≥ ≥≥ °° ⌡°÷║╓╔╗╛╞╟╣╤╦╧╧╨╪╫╫©аббаю©╬╫╬╬╬╬╪╨╪╪©фииикхгфхиигдфц©╬©ю©╬©юабццю╩╣╣╣╣╣╣╢Ё╣╣╣╣╢╣╣╣╤╣╤╥╦╦╥╣╤╣╣╣╣╤╥╦╤╤╥╥╥╤╤╣╥╤╢ЁЁЁЁЁЁ╡╠╟╟╟╞╝╞╝╜╜╟Ё╢╡╤╩афххггфдхппиефефеегклйлмоонкхфа╬╬©©╫╪╪╪╩╨╨╨╩╨╨╥╤╣╥╥╣╢╢╣╢╢ЁЁЁЁЁ╡Ё╢╢╡╠╟╟╟╠╡╡╣╥╤╢╢╣╣╤╦╧╦╣╥╣ЁЁ╢╢╡╟╠╡Ё╡╠╞╞╞╜╚╚╛╛╙╗╗╖╗╘╙╘╗╗╗╕╔╓ё╓╖╕╓══÷·²²²·°°⌡ ≥≈≈≤√∙■■∙√√∙⌠▒░▐░▒░░▓▓⌠▓▌▐≈Ua╜╘╙╛╛╟╞╠Ё╣╦╧╧╨╨╦╨╩╫╬╫╧╣╢╢╢Ё╡╡Ё╢╣╣╣╢ЁЁЁ╢╣╥╦╦╦╦╧╨╩╪╬╬╬╬╬╬╪╨╨╪╫╪╩╨╧╨╨╨╨╩╨╦╥╥╥╤╣╣╣╤╣╣╤╤╣╣╢╢ЁЁ╢╢╢╣╤╦╤╤╤╤╥╤╣╢╣╤╤╤╤╤╤╤╤╥╦╦╤╤╥╦╦╥╦╧╦╤╤╥╥╧╨╩╫юаадхкихгдю©юбехкмояррянмлмонмммммлнннннмллигеццдеедефгххххфгххххийиийиийклммнооонмннооооппооооммммллккккйифедцбааааааюабаююеймйфгиффггххиийкмооонмллллллллгфддддееабццю╪╦╤╣╤╦╨╩╩╨╧╣╡╝╘╔╒═·²°⌡²²⌡ ⌡⌡ ≤≈≈≈√∙■■■∙∙∙■⌠∙√≤≥≥≥≥≥≤≈∙⌠■∙■▓▒▐▌█┼└|~─│└┐~}~│┌┐┐┌└├┤┘└└┐┐┐┐┌┐┤├┘┤├┤┴┴┤┤┤┬┼┼█▒■∙√≈≥ ≥≈√≤ ⌡°²·÷··²²²²²°°²÷║÷═╒ё╓╔╔╕╗╘╗╗╚╞╞╛╡╥╧╪©абеддцбаааюююаю©©юбаддацхйхйклмнннонмлнппмйиихггфдцццбаааю╬╬╬╫╫╪╨╦╥╧╧╦╦╦╦╧╧╧╦╦╦╦╦╧╧╦╩╩╩╫©юдедеиклллноятвьвжжжуттттусстууттжттряярпммллмкхффггецю╫╧╥╦╧╧╦╧╨╤╠╠╟╞╟╠╟╝╛╙╙╘╘╗╗╘╘╗╕╔╔╔ё║╒╓ё╒║══║╒ё╒═·²⌡⌡⌡≤ ⌡⌡⌡²²°²⌡    ≤√≈∙⌠░▌▄┼┬├├┤┬┴┴┬┬▌▓∙√√≤≥≥≥≤≈≈≈√√∙≈√∙√≈≥≤≤√≈≥≥≤≤≥ ≤≤≥  ≥ °⌡²÷═╒╕╗╘╞╠╢╤╦╧╨╩╪╬юааю©©аю©╬╬╫╪╩╩╨╩юегхххгггххгффецбю©©╬╫©юацдб©╥╤╣╣╣╣╣╢╤╤╣╣╤╤╤╥╥╥╥╥╦╦╦╥╥╤╤╤╤╥╦╦╥╥╥╥╥╤╤╤╤╣╢ЁЁЁЁ╡╡╠╠╟╠╠╟╞╟╞╝╝╝╟╢╤╨╬цфххгхфдгнплгедффффхиймнпппнкйгда©╫╩╪╬╬╪╨╦╥╤╤╤╤╢Ё╢╣╢Ё╢╣╣╣╢╢╢╢╢Ё╢╣╣╢Ё╡╡Ё╣╥╦╧╨╧╥╧╧╧╦╧╩╨╥╥╤╣╣╤╤╢ЁЁЁ╢Ё╡╠╟╟╟╝╝╞╞╛╚╚╗╘╘╙╘╗╗╗╗╖╔╓╔╕╕╓ё╒║÷·²²²═·°  ≥≈√√√∙∙∙∙∙■▒▒▒▓▓⌠∙√∙■▓▓░⌠⌡Yc╝╙╙╙╙╝╝╞╠╢╤╦╧╨╩╨╩╩╪╬©╩╤╢╢ЁЁ╡╡Ё╢╤╤╤╤╣╢╢╢╣╤╦╧╧╧╨╨©╬╬©©©╬╫╫╪╪╬©╫╩╩╨╩╩╨╩╪╪╨╧╧╧╦╥╥╥╦╤╤╤╤╣╣╢╢╣╢╡Ё╢╤╥╥╣╣╣╤╥╥╤╣╤╥╦╦╤╣╤╥╦╧╧╦╥╤╥╧╧╦╥╦╧╦╥╥╦╨╨╩╫аддгййгеда╬╬юцегикллноонллмллллллккмнноооонмкхфееффефгххххгфгхиииийииииийклллмнннммннноопппппппоннннммлллкйихгфеццбаююбцбаюдимлхегхффгхийккммнооонмммммллккхфдцддддбцб©╪╧╦╦╧╧╨╪╪╨╤Ё╜╘╓÷²²²·····°  ⌡⌡≥√√√√√∙⌠⌠⌠⌠■∙∙■■∙√≈≤≤≥  ≤∙⌠■√■▓▐▐▐▌┼└─~──┐┌~~~─┌└└┐┌┌┘┬┤┘└┐┌┌┌│┐┤├└┘┘├┤┤┤├┘┘├├┤▄░⌠∙≈≈≤≤≈≈≤  ²·÷═÷·····²°°·═╒÷║ёёёё╓╕╖╘╘╘╚╞╞╜╟╣╦╪юююбддцааббаююю©©©©ю©ццюафиикллмнннномлняямййихгфедццаюю©╬╫╪╩╩╧╧╦╦╤╢╥╥╦╦╧╧╧╧╥╦╧╦╥╥╥╦╧╪╪╩╫╫╫юббцфхиклмнятжвжжжутссстусссжвжууутряяяпнмлллкгеефгфб╫╧╦╧╦╧╨╧╨╨╤╡╡╠╟╟╟╞╜╚╙╙╘╗╖╖╗╗╗╖╕╔╓╒╒ё╓ёёёёё║║║═÷²°⌡  ≥⌡²²²²⌡≥≥≥≤≤≥≈∙⌠▓░▌▄▀┴┬┤┤┬┬┬┬┤┤├▄░■√√≈≤≈≈≈≈≈≈√∙■≤√∙∙√≤≤≤■√≥≥≥≥≥ ≤≤≤  ≥ ° °²²·║ёё╖╙╝╡╢╤╦╧╪╫юабааацаю╬╬╫╫╫╫╪╩╪агихххгггггггххфб©╬©╪╬юабддц╩╧╤╣╣╤╤╣╤╤╤╤╥╦╦╦╧╦╦╦╦╧╧╧╦╦╥╥╥╦╦╦╦╦╦╥╥╥╤╤╤╣╣╣╣╣╢Ё╡╡╠╠╡╡╡╠╠╟╟╟╞╞╣╩╬аеххххигегмяпкгеефгфефимнопппннмиеа╫╩╩╪╨╧╥╣╢╢╣╤╣Ё╠Ё╢╢ЁЁЁЁЁ╢╢ЁЁЁ╤╥╦╦╥╤╤╤╣╦╨╩╩╩╨╧╪╪╨╦╧╨╧╥╤╥╥╥╦╦╥╥╣╣╤╣╢Ё╡╡╡╠╟╠╠╞╜╜╛╛╛╛╚╚╚╚╙╙╗╕╔╕╔ё╓ёё║÷···╒÷°⌡⌡⌡ ≈≤≤≤≈∙■■■⌠■∙∙■■∙√√■⌠■■≈·Ze╠╛╙╘╗╜╝╟╡╢╤╥╦╧╨╨╧╦╨╫╬╩╤╢╢╢Ё╡╡Ё╢╤╤╤╤╤╣╢╢╢╤╦╧╧╧╨╨ю╬╬╬ю©╬╪╫╪╫©ю╬╪╩╨╨╨╩╩╪╪╩╨╨╨╨╧╧╧╨╥╥╥╤╣╢╢Ё╦╤╢╢╢╣╤╥╤╣╣╣╤╥╥╥╥╦╦╦╥╤╥╦╦╧╦╥╤╤╥╦╦╦╦╦╧╧╨╨╩╪╪╪©цефийхецаю╫юадфхиииигфхлнмлййййкллллммннооонмлйиххгфггхххггфгийииийиииииийкйклмммммммнноопяяяппоонноннннмлкйййихфедбаацбююцхлмйффггефгийкллоннннннммммммлкйхгедцддцца╬╩╧╨╩╫╫╫╪╩╦Ё╝╘╖ё÷°⌡°·÷·÷÷·°  ⌡ ≤√∙∙√√√∙■⌠⌠■∙∙∙■■∙∙√≈≥ ⌡≥∙⌠■√■▒░▒▓░┼└││~─│─}|~~─│┐└└┐│└┬┬├┐┌││┌│┐├├┐└┘┘┘┘├├└┐└┐└┤▀▌▓∙√√√∙√≤≥ ⌡°·÷÷·÷═÷·²°°·═╒═║╒╒╒ё╓╔╖╙╛╚╛╞╟╞╟╢╥╩©╬╪╬аббабццбюю©©юююю©бцююдхйлллмооннонмоппмйиихгфеддб©╬╬╬╨╧╨╥╤╣╣╤╥╤Ё╤╤╦╧╧╧╦╥╤╦╧╧╥╤╥╦╨╪╪╪╫╪╪╬ббцефгймлмпсужууууттттттжттжвусяутрппппнмлккйгееггеа╪╨╧╨╦╧╨╧╨╨╥ЁЁЁ╡╠╟╞╜╛╚╙╘╗╗╖╖╖╘╗╖╔╓ё╓╔╔╔╔╔╔╔ё║══÷²°⌡⌡ ⌡°²°°° ≈≤≈√√√■▓▒▌█▀┼┼┼┼┼▀┼┴┤┤┤┤┬▄▒∙≈≈≤≤≤≥≤≤≤≤≈√∙≈√∙∙√≈≤≤√≤≥    ⌡≥≥≥   ⌡²⌡²²°²·══╒╔╗╛╞╡╢╤╧╩╫©абцддцю╬╫╫╫╬╬╬╫╪юфиихххгффхигийиеа©©╬©ююабцд©╪╥╣╤╥╥╤╥╥╥╥╦╦╦╧╨╧╦╦╦╧╧╨╧╧╧╦╦╦╧╧╦╦╦╦╥╥╥╤╥╥╥╥╥╥╣╢╢╢ЁЁЁЁ╡╡Ё╠╡╢Ё╡╥╬юдхйииийххикпяокгффхгеегклмноооонкхеб╬╨╦╥╤╣╢ЁЁ╣╤╣Ё╡Ё╣╣╢╡╡Ё╢╢╣╣╣╣╦╧╨╩╨╧╧╧╥╨╪╪╩╩╩╨╫╪╩╧╧╧╦╤╥╦╨╨╨╧╨╩╦╦╦╥╥╤╣╣ЁЁЁЁЁ╡╠╠╟╟╟╞╝╝╝╞╝╝╛╘╖╖╔ёёёё╒║═║║═÷²°²·²⌡⌡⌡ ≤√∙∙√≈≈≈√■⌠■■√√≤  ⌡═[gЁ╝╛╙╘╝╝╟╡╢╣╤╥╦╧╨╦╥╦╪╬╨╤╤╤╥╤╣╣╣╣╤╣╣╣╣╣╢╢╣╤╦╧╧╨╨╩©╬╫╬юа©╫╪╪╫©©╬╪╪╩╩╨╩╩╨╧╦╨╨╨╨╧╧╨╨╧╧╦╦╥╤╤╣╧╦╥╤╣╤╥╧╦╥╣╣╤╥╦╧╧╦╥╥╦╦╦╥╧╧╧╦╥╥╦╦╥╦╧╦╥╦╨╪╪╫╬©аеххххецааю©аацфххфдцю╬╬цгиийййййкммллммннннмнннмлкйихггфгхххийййиийиийииийкккллллккммммноппряяппоонооннннмлккккйихгдцдда╬афклкхгххефгхйкммнпонннннмммннмлкйфедддееда╬╪╩╪╬╬╫╫╩╧╣╟╙╔╒╒═·²²·÷÷²·÷·°⌡⌡° ≤√∙∙√√√∙■⌠⌠■∙√√∙∙∙∙∙√≤≥⌡≥∙⌠■∙■▒▒▒▓░▀└││}~}~│─}}~~~│┐└└─┐├┬├┐│││┐┌┐┤├└┐├┘└└┘┘└┐└└└├┤┴▌▓∙■⌠⌠■√≤  °·÷÷÷═║══·²°²÷║╒║═║╒ёёё╖╙╜╛╜╟╠╟╞╡╣╨©╫╩╪╫юабцддбаюю©юююю©бцю©бфхийклмнннмнооонлйихгфедцца╬╫╬╫╨╦╧╣╣╢Ё╣╥╤Ё╣╤╦╧╧╦╥╤╥╦╧╧╥╤╥╦╨╫╫╪╬╫╫╬ццдффгймлнпсуууутуууууттвуувьуяоттрпопонлкййифффгеб©╫╪╩╨╦╧╧╧╧╧╥╢╣╣╣Ё╟╝╜╝╛╚╙╘╗╗╗╗╙╘╖╔╓╔╖╗╕╔╓╓╔╓ё╒╒║═÷·²²²  ≥≤≤≤≈∙√∙⌠▓▒░▐▐█▄▀┼▀▀▀▀┼┴┬┬┬┴┼▀█▓√≤≈≤≤≤ ≥≤≈≤≤≈≈≈√√√≈≈≈≈≥≥≥≥≤≥ ⌡≥≥≥   ⌡·⌡°²°⌡²²²═║ё╕╗╚╝╠Ё╣╦╩╬ацефеца©╬╬╬╪╬╬╫╫бфгииигффхйгхиигеба©©©©юацец©╨╥╥╦╦╦╧╦╦╦╦╦╦╦╨╨╧╦╦╦╧╨╨╨╨╧╧╧╧╧╧╧╦╦╥╥╥╥╥╥╥╦╦╦╥╤╤╤╣╢╢Ё╡╠Ё╡╢╦╧╦╧╬юдиккййкийййлояпкхфхигффиийклмнннлихфц╬╧╥╤╣╢Ё╡ЁЁ╢╢╢╢╤╤╢╡╣╣╥╦╧╨╩╩╩╪╫╫╪╪╪╪╩╫©╫╫╫╬╫╫╬╬╫╪╫╩╧╧╩╪╪╪╩╪╫╨╨╨╨╧╧╦╦╤╥╥╥╥╥╥╥╣╣╢Ё╡╡ЁЁ╢╢Ё╞╛╙╘╖╕╕╕╔╓ё╓╓÷══÷·÷÷··²°≥≈√≈≥≈√∙■∙∙∙■≤≥²·°°╒^hЁ╝╜╛╚╞╝╝╟╡Ё╣╤╦╧╨╦╥╦╪╬╩╥╤╥╥╥╤╣╣╣╤╣╢╢╣╣╣╣╥╦╦╧╨╩╪╪╬╬╬©аба©╪╪╫©©╬╫╫©╬╬╬╬╩╧╧╧╨╨╧╧╦╧╨╧╧╦╦╥╥╤╤╥╥╥╤╣╤╥╧╨╦╤╤╤╦╧╨╨╧╥╥╦╧╧╦╨╨╨╨╧╧╧╧╥╧╧╥╤╥╧╩╪╬юадхийфдбююаабддегихдю╬╬╪╨╨╪юдиийййкллммммммммлмоппонмлйиггхийййкййиййийййиийкмммлккйиллллмнопряяяяяпопооооонмлллллкйигггебаейлкиххихехиклнноояпоооонмммнннлйигфееддцбю©©юба╫╧╣╢╠╜╗╓╒═··²····²²··²²²²° ≤√∙√≈≈√■⌠⌠⌠■√≈≈√√∙■■∙≈≤ ≥√■■∙■▒▒▒░▐▀┘│─|}}~││─~~~│┌└└│┌└├┘┐┌┌│┐┐┐┤┤└└├┘┐┐└└└┐└┘┘├┘├┼▐⌠▒░▒⌠■≈≥°²·÷═║║║║══·²²÷═╒║÷═╒ёёё╕╙╛╛╝╟╠╞╜╝╠╥╫╫╩╫╩╬абдедбцбаю©╬╬╬©ббю╬юцефгийкллмлмоонлкйихгецаююбю╬╬╫╪╨╨╤╤╣Ё╢╤╤Ё╣╤╦╧╧╦╥╤╦╧╧╧╦╥╦╧╩╫╪╫©©╬юбцдггхйлмортужжжтуууууттвууввуяоссрпоонмлйиигфефеб©╫╫╫╩╧╦╦╥╥╦╦╥╤╤╤╣Ё╟╝╝╝╛╚╙╘╗╗╗╗╚╘╖╔╔╖╗╗╔╓ё╒╒╒╒╒╒╒═÷·²°⌡ ≥≈∙∙∙■▓▒░▐▌█▄▄▄▌▄▀┼┼┼┼┼┴┴┼┼┴┴┬┤█▓≈≈≈≈≈≈ ≥≈≈≈≤≤≈√√√≈≈≈≈≈ ≥≤≤≈≤≥ ≤≈≤≥ ≥ °⌡²²°°²·²·÷═║╒╔╗╙╝╠╢╥╩©бдххгфцаю©╫©ю╬╫©цфииихггхиггхиихфдаю©юабдффц©╩╧╧╧╧╨╨╧╧╧╧╧╧╨╨╨╧╦╧╨╨╩╩╨╨╨╨╨╨╨╨╧╦╦╦╥╥╥╥╥╥╥╥╥╤╥╤╣╣╢╢Ё╡╢╢╤╩╫╪╪╫юдилкййкиййиилорокххиигеггггхйклнмйххгц©╦╤╢ЁЁЁЁЁЁ╢╣╣╣╤╣Ё╦╦╧╨╩╫╬©╫╬©©╬╬╬╬╬©©╬╬©©©╫╬©©©©╬╪╫╬©©╬╫╫╬╪╪╪╪╪╪╪╪╩╫╫╪╪╫╫╫╩╩╩╨╧╦╧╨╧╩╨╥Ё╠╟╞╜╜╛╚╘╖╕╕ё╔╕ё║║═·÷·° ≤≥ ⌡ ≤√∙∙√√∙ ⌡·· ⌡╒`hЁ╜╜╜╛╞╜╚╜╞╟╡╢╤╦╨╧╧╨╫╬╪╦╣╤╦╦╥╣╢Ё╤╣╢╢╣╤╥╥╧╦╧╧╨╩╪╫╫╫╬©аааю╬╫╬©©╬╫╬ю©©аа©╪╪╨╩╩╨╧╧╨╨╧╦╦╥╥╥╥╥╥╥╤╤╤╥╥╥╨╧╦╦╧╨╨╩╨╧╦╦╦╧╨╨╩╩╩╩╩╨╧╧╧╨╨╥╥╧╩╪╬ацефххгдбю©юбцдгхийифа╬╪╪╩╧╥╦╨╪бдфхииййлллллллмклноооопнмкйиййкййййиийкиййййййкмммллкййллкллмнопоопяяяяппопппонннмммлккиййхгхкллйиййигфклмноппояоноппнмммннмкигхггфеца©бббцб╬╦Ё╛╙╖╔╓ё║═÷·²²²··²²··²²·²⌡⌡≥≈≈≈≈≈√∙∙■■∙≈≈≈√√∙■■∙√≤≤≥≤√∙∙■▓▒░▐▌▄┤┌}~|}││─│┐┐┐┌│┌└┘└┐└┌└┐┐├┤┘└└└└└└┐┐┐┘┘┘├├┤┴▄░▌█▐▒⌠■√°°°·═╒║║║║║═÷÷══║═══║╒ё╓╕╙╛╛╝╠╠╝╛╜╞╣╪╪╨╫╩╬юацддбцдцб©╬╬©©абю©юбцдгийййкмлмноомкйихгецаааааю╬╬╬╪╩╥╦╥╢╢╤╤╢╣╤╥╦╧╧╦╦╧╧╧╦╦╧╧╨╩╫╪╪©©©аббдхийклмортуууууутсстуужуувжтяпрррпоонллйххфддеда╬╫╬╫╩╦╦╥╤╤╥╥╦╦╥╣Ё╠╟╞╜╛╚╙╘╗╗╗╗╗╙╘╖╕╖╗╖╓ёё╒║══║╒╒║═·° ≤≤≥≤∙⌠▓⌠▒▌▀▀▀▀▀▀┼┼█▄┼┴┴┴┴┴▀▀▀┼┴┬┤├▌⌠≈≤√√≈≈≥≤≤≤≤≤≈≈≈≈≈√√≈≤≤≥≥≤≤≤≤≥≥√√≈≥≥≥ ⌡°²·²²·÷··÷÷÷═║ё╔╘╚╝╡╤╨╬юдфхихецбюююю©©беииййииххххийййихфцабцддфхфц©╪╩╩╩╩╩╩╩╩╩╩╩╩╩╩╩╨╨╨╩╩╩╩╩╩╩╩╩╩╩╨╧╧╦╦╦╦╥╥╥╥╦╦╥╥╤╤╤╥╥╥╥╧╧╩╪╬©©©юдикйийлййккйкнрролиххфдеедцдфгхккйиххгд╫╨╤╢╢╣╣╣╢╣╤╣╣╥╦╦╩╩╩╩╫╬юа©юааю©юю©©©©©юю╬╫©©©©юю©абааю©╬╬©╬╬╬©юю©©аа©©юю©©©©©╬╫╫╬╪╬╬╪╧╦╥╤╣╣╢╠╝╛╙╙╗╙╙╖╔╔╒·÷·²°²²²²²⌡≥≤≈≤≥ ²°··°²ё`g╡╛╛╜╛╞╜╙╚╜╝╟╠Ё╣╨╧╧╨╫©╪╧╤╥╧╨╧╥╣╢╥╤╢╢╣╥╦╦╧╦╦╦╧╩╪╫╪╪╫╬ююююю©©ю©╬╫╬╪╩╫юбю╬╬╪╪╪╩╩╨╩╩╨╨╧╧╧╧╨╨╪╨╦╦╨╨╧╥╧╦╧╧╩╩╩╩╨╨╨╧╦╧╩╪╩╩╩╩╩╨╧╦╩╩╧╦╧╫©©адфгггфдцю©©юбдехйккхц╬╩╩╧╥╥╧╦╤Ё╨╫бфхххиккккккллклммннпяоонмлкккййииииклийккйййккклллллллккклмнннммнпяяяппппяяпопоннмлллклкйкоомлййккхфхлмноопооонмноонлмнннлйгееееффебаццб©╩╤╟╜╕ё══╒ё╒═║÷²°²··÷²·²°²·² ⌡≥≤≈≤≤≈√≤≈√√≈≈≈≈∙∙∙∙■∙√≤≤≥≥≈∙∙■⌠▓▐▌▌█┴┐─~}}||───│┐┐┌│└│─┌└└└┘┌└┐┌├┤┘└┌┐└└└┐┌┌├└└├┬┴┼▀█▄▄▐▒▓⌠■ ≥≥°═╒╒║║║║║══║║══║═══ё╔╖╙╛╜╞╡╡╞╝╜╝╢╨╨╧╪╪╬ююаццбцдецаююбюбббааццдхккйикнмлмнполихихфдццдюаю╫╫╬╫╨╤╦╦╢╢╤╥╣╢╣╥╦╧╧╧╧╨╧╦╦╧╧╨╨╩╪╩╩╬©©аабеикллмлоясттттжусяясужвжжвжспояррпонмллйхгеццдцаю©╬╫╨╦╦╤╣╣╤╤╦╧╦╢╠╟╟╟╜╙╙╘╗╗╖╖╖╖╘╗╖╕╗╗╔═╒ёё╒══║╒╓ё║÷°≥≈√√∙⌠░░▐█┼┤┬┴┼▀▀┼┼▄▀┴┴┴┴┼┼▀▀┴┬┬┴┼▀░■≤≤≈√≈≤≤≥≥  ≥≤√≥≤≈∙∙√≤≥≥≥≥    ≥√√≤  ≥ ⌡ °²°°···÷÷══║║╒ё╓╔╗╛╟╢╦╨╬бгййигфцю©©©╬юдиийккйихиийкккккйфцдддддиифб╬╪╪╫╪╪╪╪╪╫╫╬╪╪╫╪╩╩╩╪╪╪╪╪╪╪╪╪╪╪╩╨╧╧╧╧╧╦╥╥╦╧╧╧╥╥╥╦╨╩╩╩╫©©╬╬юббаехиххйллккммлнясроифгфддцааабдееикйхггффа╨╣╣╣╣Ё╣╥╥╣╣╦╩╫©©╬╬╬юбцааббаюаа©юаабба╬©юаююбцбддцбаю©╬ю©©юаббаюаб©╬©©©╬©©©╬╫╫╬╪╬ю╬╪╩╩╩╨╨╦╤Ё╟╝╝╚╛╚╘╘╘╓·÷··÷║║═·⌡⌡   °═ё÷·═╒╒╒╕`g╢╝╛╝╛╝╝╛╜╜╛╚╜╡╥╥╦╧╧╨╩╩╧╦╥╧╩╨╨╧╤╤╥╦╥╥╥╦╨╩╨╧╦╧╩╪╫╫╪╪╪╬©©╬╬╬юа╬╫╬╫╩╪╪╬юаю©╪╩╩╨╨╩╪╪╩╨╨╧╧╨╩╩╧╩╩╨╦╥╥╦╧╨╨╧╧╨╨╧╧╧╨╨╧╦╧╪╩╩╪╪╪╩╩╨╨╩╩╪╫╬юбаехфддца╬╬╬ююацгмлйгцю╫╪╧╩╨╥╥╨╧╢╤╦╩╬адхйфгикккккмммммнпяяяяпомкййииийкйййийккйиййлнлкклллллллмммнммноппояпппяяпоппоооомклллкнрроомкйиийкннноооооооооммммкмнлйигфгфдддееедцю╨╢╝╗╔╒ёёёёё║÷÷÷···²··²·°⌡²°≥≥  ≥≈≤≥≈■≤≥≤∙■∙√√∙■■■∙√√√≤≥≤√√√∙⌠▒▒▐▌█┼┐~}~───~│──│┌┐──┐┤┘─┐┌│┐├┤├└└┘┐│┌┌│┐├┘┘┤┬┤┬┼▄▄▀▄▄▌▐▐∙≈≈√≤²╒╓ё║═║╒ёё╓÷═║║══║╒╔╖╗╙╜╟╟╝╝╜╜╟╣╨╫╬╫╬©ююабцдддбю©юбаа©©©юабефггфгиллмпярпнмхгфеедццююю©╬╬©ю╨╧╥╢╣╦╦╣╣╤╤╣╤╦╦╥╦╧╨╩╪╫╪╨╩╧╦╧╨╪╬аббдхййкнннпрсрсутсррстжвьььжусянсряпнмкййихфеедаююю©╬╪╩╨╨╤╢╣╤╣╤╥╥╣Ё╟╝╜╛╛╛╚╘╗╗╘╖╓╔╖╗╕╓ё╒╒╒║═║ё╓ё╒╒═·° ≈√√√⌠░▌█▀┴┼┼┴┴┼▀▀┼┴▀▀┴┬┼┼┤┬▀┼▀▀┴┴▄░▓√≥ ≤√√≈≈≥≥≤≈≤≈∙∙√≈≈√√≤ ° ≥≥⌡° ≥≤≈≤≈≈≈≤≥  ⌡°°°°°²·÷══÷║ё══║╔╘╜Ё╦╨©дфгйййхеа╬╬©©©дкнкиклйгхикллкйийиецдеефгхгб╪╪©╪╬╬╪╨╪╪╪╩╩╪╪╪╪╪╪╫╫╫╫╫╫╫╫╪╩╩╪╪╨╨╩╧╧╧╧╦╦╦╦╥╧╩╪╫╬©ю©юааабццдфхийиихйккллмопяяямхдцдбааааю©©бехйигфефгб╦Ё╢╤╢╤╥╥╤╦╪╪╨╫╬©юююабааббббдеедццддццдццбббцдддддцбаюююююааааааю╬╫╫╬©╫╫╫╬©©╬╫╪©аю©©╬╪╪╩╨╧╦╣╡╟╟╞╝╜╚╘╖╔╓╔╓╒╒╓ё╒  °·═╒╓╓╔╔╓╕╔╕╛_h╣╞╜╝╛╞╞╜╜╝╜╛╜╟╡╢╤╦╧╨╪╪╩╧╥╧╩╨╨╧╤╤╥╦╦╥╥╧╨╦╨╩╩╨╨╩╪╬╫╩╫©ю©╫╬╬юа©©ю╬╪╪╪╬юю╬╫╫╪╩╨╧╧╧╧╧╧╨╨╧╧╧╧╧╨╩╨╦╥╦╧╨╨╨╨╨╨╨╨╨╧╧╨╨╧╨╪╩╩╪╪╪╪╩╩╩╩╪╪╫©ацдфгецаю©©╬©ацдфикйгцю╫╨╧╧╨╧╥╥╧╦╤╣╤╦╧╩╬бдефхййиииллмммнопппяяпоммкййййййийййккййкйммлййкклллллллллллмннннооопяяяяяяппппнмлммнпррппомлклммпоооооооооонммммлннлйхгффедеефееа╫╤╞╙╖╔ё═╒ёёёё╒║═÷÷······═²°² ≈≤≤≥≤≈≤≥≈■≈≤≈∙■∙√∙√√∙■■∙∙∙√≈√∙∙√∙⌠▓▓░▐█┼└~{|~~│││──~──~│┘┘│┌──┌┘┤├└┌└┐┌┐┌─│├└└├┤┬┼▄██▄▀▀▀▄▄▓■√√≈⌡÷║ёё║══║╓╖═║║║╒╒ёё╒╔╗╚╞╠╠╟╟╞╞╟Ё╦╩╫╫╬╬╬©юбддддб©©©аюю©©©юаафгххггикммопяяяпкйхфецбаюааюююаб╩╧╤╢╢╤╤╢╡Ё╢╢╣╦╧╦╨╩╫╬юба©ю╬╪╪╪╫╬аацфйккклоояссссуутссужьььььжутяняряпнлйихихгффда©©©╬╫╪╩╨╪╦╢ЁЁЁ╣╥╣Ё╟╞╝╝╝╝╜╚╙╙╙╘╗╕╕╕╕╔╓╒╒╒║║║╒ёё╒║═·°⌡≤∙■■■▒█▀┼┴┴┴┴┴┼┼┼┼┴┬┼▀┬┤┴┴┤┤▀▀▀┼┴┴▄░▓∙≤ ≥≤≤≤≤≥ ≤≤≥≤√√≈≈≈√√≤≥⌡≥≤≥⌡°°⌡≤≈√√≈≤≥≥  ⌡⌡°°°°°²·÷·²·║÷÷═╒╔╗╛╠╥╩©бехкклиецаюююцхлкййкйииийклллллкхеддцдфххд©╫╬╪╫╬╪╩╪╫╪╪╪╪╫╫╫╫╫╪╪╪╪╪╪╪╪╫╪╪╪╪╨╨╩╨╧╧╦╦╧╨╨╩╪╬©юаабаббцццдефхиййихгйклллллмоонлифдццбаю©©╬╫юацфгхгффгфа╩╤╢Ё╤╥╥╥╦╩╫╬╬юабббцдцдддддефеддддддцццццццббаббббббабаююю©©╬©©╬╪╨╨╩╩╪╪╪╫╫╫╪╩╩╫╬╫╪╫╫╪©╬╫╩╨╧╥╣╢╡╟╞╝╛╙╗╗╗╕╓ё╓ё║·÷═╒╓╔╕╕╓╕╔╖╓╕╜ah╢╜╛╜╚╜╝╝╝╞╝╜╜╜╝╡╢╥╦╨╪╫╪╨╦╧╨╧╧╧╥╥╦╧╦╦╦╧╨╥╨╫╫╪╩╩╪ю╬╫╬юбю©©╫©аюаб©©╫╫╬юю╫╨╬╫╪╨╧╧╧╧╧╨╨╨╨╧╦╦╦╧╨╨╧╦╦╧╩╧╧╩╪╨╨╪╨╥╤╥╧╧╨╩╪╪╪╪╪╪╪╪╪╫╬╬©ацехфдца╬╫╬аюадгхйлхфцю╫╩╧╧╨╧╦╦╧╦╦╥╥╤╤╣╥╧╪©бдфгхгггйклллмнооппяяяппмлкккййикййллкклкммкййййкллллкййклллллмнмноппяярррярряпонмортсряяяпооопяяяяппоооннннмллммнмкиигфеееффеца╩╣╜╖╔╓╓╓═ё╓ё╒╒╒╒══÷······═÷²° ≈≤≈≈≈≈≤≤≈■√≈≈√∙∙∙∙≈≈∙■■■∙√∙√√√≈≤≤√■⌠▓░▌▀┘─{|}~─│┌┌─}|─~─└└┌│~─└┤├┘┐└┌│┌│─│└┐┌┐└├┬┼█▄▀┼┼┴┴┼▌▒⌠■∙≤⌡²╒ёё╒║╒╔╗ё╒║║╒╒ё╒║╔╘╛╞╠╠╠╞╟╟╟╡╣╧╪╫╫╫╫╬юбдддца©╬©ю©©©©©ююафгииииклннноярстомкхфдбааббббцеф©╪╦╥╤╤╤╥╣╤╥╥╧╪╬©юбдегиигецбааабдцфйннмллпярттттжуутувыызыьвуутянпяяпмйихгххггфда©©╬╫╪╪╩╩╩╦╢╡╡╡Ё╣Ё╠╞╝╝╞╞╝╝╚╙╚╚╘╗╗╖╓╒ёё║═╒═║ё╓╓╒═÷·° ≥√⌠░░▒▌┼┴┬┤┬┴┴┼┼┼┼┴┴┴┼┼┤┤┴┴┤┤▄▄▀▀┴┼▌▓⌠∙≤≥    ≥ ≥≤≤≥≥≤≤≤≈≈≈≈≈≤≥≤≤≤ °²²≥≈∙∙≤  ≤    ⌡°°²°°²·²°²÷═÷÷═║╒╔╗╞Ё╧╫аехйлкигдбаацфйллкййкйййклмнмннкхгфдцдфихд©╫╪╫╬╫╫╫╬╫╪╫╫╬╬╬╬╬╫╫╫╫╫╫╫╫╬╫╪╫╪╩╨╩╩╩╨╧╨╩╫╬ююабцдцццддеееффгиккйиххйкккйиихллккйигецбю©╬╬╫╪╬╫╬аегхгггхие╫╤Ё╤╥╦╨╨╩╬а©ацдддддефффеефгфееееедцддеедцббббаааюю©╬╬╫╫╬╫╫╪╪╩╨╦╥╤╤╥╤╤╥╥╥╤╤╤╤╥╦╥╥╧╨╨╩╨╧╧╨╨╩╩╦╣Ё╠╟╝╛╘╛╚╗╕╔╔╔ёё╓╔╕╖╖╖╖ё╔╔╖ё╓╜cg╢╝╛╝╛╜╛╞╞╞╞╝╝╜╛╟Ё╣╥╧╩╪╩╩╧╨╨╧╨╨╦╥╦╧╧╦╦╧╨╦╩╫╬╬╫╪╪юююаабба©╫©аабцюю©╬юба╬╩╫╫╪╪╩╩╩╪╩╩╩╩╩╩╨╨╦╧╨╨╧╧╧╨╩╦╧╪╪╨╨╫╨╦╥╦╧╧╩╫╫╫╫╫╫╫╫╫╬©юацегхиеаа©╫╫юццдхклккфдю╬╪╩╩╩╨╦╦╧╧╦╥╧╦╦╤╤╤╦╨╪╬юбдефггхийкллмноояяярррпоммллкйкккллклммнмкйййийккллкйиклмлллмнлнопоопярррррряяоояужтрсрряяррссссряппоомннмллллмммйиихгфгггдю╩╦╟╛╖╕╕╕╓ё╒╓╕╓╒║║║║═÷·÷÷÷÷²÷÷²² ≥ ≤≈√√≈≤≈√∙√≈√∙√∙∙≈≈√■■■∙√∙∙∙√≈≤≤≈∙■⌠░▌▀├│}}~─│───│┌│~}─}┌└└│~│└├┘┘├├┌──│└└┐┐┐┐└├┤┴┴┴┴┴┴┴┼▄▌░▒⌠∙≥⌡²║╔╕╔╔╔╔╔╓╒║║║║═╒╕╘╚╜╞╟╟╝╞╟╟╠Ё╦╪╫╬╬╬╬©юбдццаю©юаю©©©©юабефхййкмннннопрттрпнлйхфедееффгхигб╬╪╩╨╨╫╪╫╫╫©адфгиклнонмкиггггхйхкоррпоорртжжуужвжжвыззыыьжтуурнопполйхггггфеецю©©╬╫╪╪╪╫╦╥╤╢╢ЁЁЁЁ╡╟╝╜╜╜╝╞╚╘╚╚╖╕╖╕║÷║╒÷÷║╒ё╓╓ё═·²° ≤√⌠▐██▌▄┼┴┴┬┬┼┴┼▀┼┼┴┴┴┼▀┬┬┼┼┬┬██▄▀┼▄░■∙√≤≥⌡⌡⌡°  ≥≤≤≥≥≥≥≤≈≈≤≤≤≤≥≤≤≤≥⌡°² ≥≈√≤ ⌡≥ ≥≥  °²²°²·÷·²·═║═════╒╔╕╚╠╥╪юдфхйкифцццдеиннлклмлкклмннлннмлкигддехйхц╬╫╫╬╬╬©╬╬╫╫╬╬©©©╬©©©©©©©©╬╫╫╪╪╩╩╩╪╪╪╪╫╬юацццдеедцееффффгггиклкййиииихгфееххийккйицбю©©©╬╫╫╫╪╬адгхйгфикг©╧╥╥╧╫╬╫╬аюацдддддффффееефффеефеддцддддцбабаюю©©╬╫╪╩╨╧╧╧╦╥Ё╡╠╟╞╞╞╞╞╟╠╟╞╝╞╞╟╠╡ЁЁ╣╤╥╢╢╢╣╥╦╨╨╦╥╤╢╡╞╛╚╞╜╙╗╗╘╘╗╘╙╚╚╚╙╘╗╕╕╔╗╔╕╞dg╣╟╟╡╞╝╜╟╟╞╞╞╞╝╝╜╟╡╢╥╨╪╩╪╨╨╩╨╩╩╧╦╧╨╨╧╧╧╨╩╩╩╪╬╬╬╫╬юббаюаб©╫╬аабцюю©©юбб©╫╫╫╫╫╫╫╫╫╪╪╩╩╩╩╪╪╧╨╩╩╨╨╨╨╩╦╧╪╪╨╨╫╩╩╪╪╩╩╬а©©╬╬╫╫╬╬╬юбдегхигб©╬╫╪╬юефхкммйхец©╫╩╩╩╩╨╦╦╨╨╥╥╨╦╦╥╥╦╧╧╨╧╩╬абдфгфгиййклмнояяяярсряпонммллкклмллмннмййккйийкллккййкллкклмлнооннопяярррррряятььтссррсстттттссряпоомннмлклллмлйийигхгфд©╧╠╜╘╕╓╕╖╔ё║╒╔╕╓║║║║═÷··÷═══²═÷²²⌡≥⌡ ≤√√≈≤≤≈■√≈√√√√∙≤≈√∙⌠⌠■∙■⌠■∙√√∙∙■∙⌠▒▐▄┤┌───│││───~~──~│┐└┐│─┐└└└└├┘│~─│└└┘┘┘┘├├├┤┬┬┬┬┬┴┼▀▄█▐░⌠√  ·ё╕╖╖╕╓╕╔ё╒╒╒║═ё╕╗╗╙╛╞╞╝╟╡╡╠Ё╥╩╫╬©©©©©©ббббаабцаю╬╬╬юцдфгхйклммммнопррсряонмлкйхиииииклкгбаю╬©бюююабдхйкмпяяррпомкккйкммпстссррттуввжжвыьввызывывустурнооонлйхфхгфцбба©╬╬╪╩╩╩╪╪╧╦╥╣╢Ё╡╡╠╡╡╟╜╚╜╝╟╛╙╚╙╕╓╕╓═÷╒ё║║ё╔╕╔╓║·°⌡ ≤√■▒█┼┼▄▀▀▄▀┴┴┼┼▀▀▀┼┼┴┴▄▄┼┴▄▀┴┴▀▄▀┼┴▄░■√≈≥ ⌡°°°⌡ ≥≥≥≥ ⌡≥≤≤≤≥≥≥≥≥≥≤≤≤≥⌡° ⌡⌡≥≥ ⌡⌡≥≥≥≥ ⌡°²°²·÷÷·÷╒║══║║║╒╔ё╕╚╠╣╨©цфхккигфффехномклллллмннмкмннннлйгеегййфб╫╫╫╬╬╬╬╬╬╬╬©©©╬╬©©©©©©©©╫╫╫╪╪╪╪╪╬╬©юабццеееефгедфггггггххйлллкйихгедцццдцехиииклфецбаю©╬©╬╬╬╬адгййхфхйхц╬╩╨╫©©юцацдееддеффгфеддеффеефедцббббаааа©╬╫╪╪╪╩╨╧╥╣Ё╠╞╜╚╖╖╕╔╔╕╕╕╘╙╚╚╘╘╘╙╛╜╝╟╟╠╡ЁЁ╢╢╣╣╣╤╤╤╦╨╧╣╡╠╠Ё╟╜╚╛╜╜╜╜╝╝╝╝╛╚╙╙╗╕╙╘╚╡fg╣╟╟Ё╟╞╜╟╟╟╟╟╠╠╠╚╝╟╡╤╨╪╪╪╨╩╪╩╪╪╨╨╩╪╪╨╧╨╩╫╩╧╨╫©╬╫╫©ааю©юа©╬©аюабю©©©юаба©©©╬╬╫╫╫╫╫╪╪╩╩╩╪╪╩╪╪╪╪╩╩╩╩╨╨╪╪╨╩╪╩╪╫╫╪╪╬бю©╬╬╬╬©©╬ацфггггцю╬╪╪╪©агийккйхееб╬╩╨╨╧╧╨╦╧╨╧╥╦╨╤╤╥╥╦╦╦╥╥╦╨╪╬ацедеггхиклноппопястряппооннллммллмонлййллйййккллккййккккккммннннннопяяяяррстжьвтстсстуууууттсряяппннннлллллмлйййхффеа╫╥╠╙╕╘╔╓╔╕ё╒║║ё╓ё╒╒ё╒║÷··÷══÷·═÷²² ≤≥°≥≈≈≈≈≈≤■√≈√√√√√≤≤≈∙⌠▓▓⌠∙⌠⌠∙∙■■■⌠■■⌠░█┬└┌│──││───}}}~────│┌┐┐┘┐└┘┘┌┌└┐┐│───┌┌┐└└┘├├├┤┬┴┬┬┤┬┴▀▀▄█▌░⌠≈≈°÷║╓╕╖╔╕╔╔╔╔╓╓ёё╔╕╕╗╚╝╝╟╡╢Ё╡╡╣╦╪╫©©©╬╫╫ююабцццца©╫╪╫юцехииииййклмнопяярпонмннммкллккклмлиецбабдабцдегйннястужжурпнмлклморуусстттужььввызыввыыьжвжтсстроонмлкйхфггдаюю©╬╪╩╨╧╧╧╨╨╩╨╥Ё╠╠╡╡╞╟╡╠╝╜╝╟╞╜╚╚╘╔╓╓║═║╔╖╕╕╖╖╕╓╒÷² ≥≈■▓▒▌▀┴┼▀▀▄█▄┼┼┼▄▀▀▀▀▀▀┼▄▄┼┴▄▀┬┬┬┴┼┬┬▀░⌠≈≥⌡°°⌡⌡⌡²⌡     ⌡≤≤≥≥≥≥     ≥≤≤≥ ≥°°  ⌡°⌡≥≥≥  ⌡°°⌡°²÷··÷╒════║║╒╔╔╕╖╙╝Ё╨юцгкмлкййигхлнмлклллмннмллнннномкйхггикиф©╬╫╬╬╫╫╬╬©©©©╬╬╬╬╬╬╬╬╬╬╬╪╫╬╫╬©©©абцдеффегггхххггххиихххийкммкихггецбббццюцффффхйихгедбю╬ааю╬╫╬беглмгдгклгц©╬©ацедеффеееффггфедддееддддцацбааю©©©╫╨╥╣╢Ё╠╟╛╚╘╗╖╔ё╒║═══║╒╒╒╓╔╔╔╓╓╓╔╕╕╗╙╙╙╚╛╞╟╠╡Ё╢╣╤╣╦╩╪╧╦╦╧╦╢╟╞╞╞╝╝╜╜╝╜╜╛╙╙╚╖╔╙╙╚╠eg╢╝╝╠╞╞╝╞╟╠╠╠╡╡╡╜╞╟╠╢╦╨╩╩╧╩╪╩╪╫╨╪╬╬╬╪╩╩╩╫╪╩╩╫╬©©╬╬©юююююю©аа©юаюююююааббаюю©©╬╬╫©╬╬╫╪╪╪╪╫╫╫╫╫╪╩╩╪╪╪╪╪╪╪╪╨╨╩╪╪╩╫©╬╬╫╫╬©юаюцфххфед╬©╬╫╫юдфхйкихгеца©╩╧╧╨╧╧╧╧╨╨╧╦╦╧╤╤╤╥╦╧╦╥╤╥╦╧╨╪©абцдефгийлмнннопртряпяяяпоннннммннмкийллкккккккккккйкккккмлммнннммнопппяртвьвуттттужжвжжууттсрряяпппонмлммнмкйигдц©╧Ё╝╚╗╖╙╕╓╔╔╒║ё╒ёёёёёё╒╒═·²·÷÷·²·²⌡° ≤≤°≥≤≤≥≈√√■√√∙∙√√√√≈≈√⌠▓▓⌠∙⌠⌠∙∙■⌠⌠▓■∙■▓▐┼├┐│──│┌│──││─~}}~│││┌┐┐┌│┘┘├┤┘──┐┌┐│││─┐┌┐┐┐┐┘├┘┤┬┴┴┬┬┬┼┼┼▄███▐▓⌠≤²²÷ё╕╕╕╕╖╖╖╕╔╔╓╔╔╔╖╙╚╚╝╟╡╡╠╠Ё╣╨╪╫╬╬╫╫╫╬©ацддцц©╬╪╩╪©ацйиххххииллмнпярронммннннлммлклмнлкхедеффддфгххкоосужжвжусяоонмноосжжттттуужььььышыввьывжжутррсрпомййкйхефецаюю©╫╨╨╧╧╦╦╦╦╥╥╤╡╟╠╡╡╞╞╟╠╠╠╟╞╜╛╚╘╖╔ёё║ё╕╘╘╗╖╖╕╓╒═÷°≥≈⌠▒▐█▄┼┼▀▀▀▄█▄┼┴▀█▄▀▀██▄▀▀▀┴┬┼┴├├┘┬┴┬┬▄░⌠√≥°²°⌡⌡°°⌡ ⌡ ≥≥ ≤≥ ≥≤≤≥ ⌡⌡° ≤≈≤≥≤ ⌡ ⌡²² ≥≥≥ ⌡⌡⌡⌡°°²··²·═║÷÷÷÷═╒╓╔╔╕╗╙╜Ё╧╬бгкмммллйикмнмкллллммллмммммонмлкигхййибю╬╬©╬╬©ююю©©╬╬╬╬╬╬╬╬╬╬╬╫©©©ацдцеефггхххгхииииииййккйййййкммкиггфедцццццбцддцдефииххгецацбю╬╬©абдимйггймлкгцбдфффггфееффефффддццццббббю©ю©©╬╪╩╧╦╣╡╝╛╙╘╖╔╒║║║╒╒╒║║══║╒ёёё╒║║║╒╒╒║ё╒╒╓╓╓╔╖╘╙╛╝╞╡╣╥╤╥╧╨╨╩╩╪╩╥Ё╡╡╠╟╞╜╜╜╜╛╛╚╚╙╖╔╚╙╙╟ei╣╝╝╠╟╠╟╝╟╡Ё╡╡╡╡╟╠╠╠Ё╤╦╦╨╧╩╪╪╪╫╨╬©ю©╫╪╩╪╫╫╫╫╬©юбю©╬юбца©аюбб©©аюааааабцеааааююю©юююю©╫╪╩©╬╬╬╫╫╪╩╪╫╫╪╪╫╫╪╩╨╨╪╬╫╫╫╫╪╪╪╬©аббехйифцб╩╬©╬©дикиккхеедц╬╪╧╦╨╩╩╨╧╨╨╧╦╦╧╧╦╦╥╦╧╧╧╦╥╥╥╤╥╧╩╫аббцдфхйклмммнпрсряяяяяяяоооонномлйхйллкмллккккклккклмлклллмнонмлмнонопяуьыжттутужвььвжжууттссрряяяпнмммоонлйифб©╨Ё╛╘╗╘╙╖╓╓╔╔║║ёё╓╓ёёёё║ё═·²·÷·²⌡°  °⌡≤≥⌡≥≤  ≈∙■■∙√∙■∙√√⌠■√∙■⌠■∙⌠▓▒⌠⌠▓▒▓▓■√∙■░▀┤└┌─│┌┐┌│─┌┐┌──┌││┐└└┌─└┘┬┴┘─┐┘┘│─│┐├┘├┘┐┐┘├┘├┬┴┴┬┬┴▀┼┼▄█▄▀▀█▌√°²²║╔╕╕╗╘╗╖╔╔╔╕╕╕╕╖╘╘╖╙╛╞╟╞╞╠Ё╨╨╩╪╪╪╫╬╫╬ацддцб╫╪╩╩╪╬юаихгггхиилллмоярсонннноннлммлллмнлмкгфхихггхиххйморууттсясяппппярптьвууутуувыыььзэывжьыьжтутрярряолххййгдддцбаю©╪╨╨╨╧╧╦╦╦╠Ё╢╡╠╡╡╡╟╞╞╠ЁЁ╟╜╙╚╙╖╔╓ё╒ё╖╙╚╙╗╕╓╓ё║÷÷°≤∙░▌▄▀▀┼┼▄▀▀▀▀┼┴┴▀▌▄┼▀▌▐█▀┼┼┬┤┴┬└└┘┬┴┬┴█▒⌠∙≥²·°⌡⌡°⌡≥≥ ≥≈≈≥≤≥ ≥≤≈≈≥⌡°²⌡≥≤≤ √≤≥≥⌡÷²≥≤≥  ⌡⌡  ²²·÷·²·═╒═÷÷÷÷║╓ёё╔╗╘╙╜╠╥╩агкмнномккмонлмллллмлллллкмоонммкхгйккебююю©©аюююю©©╬╫©©©©©©©©╬юаацфгфхгггхиййгхййииийклллккклийллкиххгфедеедцедццццдцгххиихфдца©╬©юаюцдхлмкиймонйггфегггфееефдееецбббаааааю©╫╨╨╨╧╥╢╠╞╙╖╔╓╔╔╔╓ё╒╒ёё╓╓ё╒║║║╒ёёё╒║║║╒ё╒╒╓╒║╒╒╒╓╖╘╙╙╚╜╟╢╥╦╤╣╤╦╨╨╨╪╥╢╢╢Ё╠╠╞╝╝╝╝╝╝╝╙╘╘╝╛╚╠gi╤╟╝╟╞╟╞╟╡╢Ё╡╠╠╡ЁЁ╡╟╞╟╢╦╦╧╩╩╪╫╬╬╫╬юю╬╫╫╫╬╫╪╫╬юаа╬╬©©юбццббццбаю©ююююабцдцбааббаю╬©аю╬╫╪╫╫╫╫╫╫╬╬╬╪╫╫╫╪╪╬©╫╩╨╩╬ю©╬╫╫©юабдеегййгдаю╬©адикллнкхгфда©╪╪╩╨╨╨╨╨╨╨╩╩╨╧╦╥╦╥╤╤╦╧╦╥╦╧╧╦╦╦╦╧╪╫©ацдефйкклмнопсряяярррррпоннннолййкккклккммллмлмммлллклллммнноонннмлняууууужжжвьыьвжжжвжуутсссяярряяяяпнлйхею╫Ё╠╜╚╘╗╗╗╖╔ёёёё╒╒═╒ё║════╒║═÷÷····²°⌡⌡ ≥≤° ≥≤≤≈√∙∙∙■■∙√∙■▓■√≈∙■⌠⌠∙⌠▓■∙■⌠▓▓∙√▓░▐▄┬┤┘┌││─~}┌┌│──│┐└│└└└┌─┌┘┤├┌│┌└┌┐┐──┌┐┐└└└┐└└┘┴┴┴┴┴┴┴┴┴┴┼┼▀▀▀▀▌▒∙≤°═╒╒╔╕╗╘╗╖╕╕╓╔╖╖╖╕╖╖╓╖╚╝╜╛╝╡╤╧╩╪╪╫╫╫╫╪╪©бца╬╫╩╨╨╨╩©циииххххикккмояяяянмннмллллллмнооннмйийкййкйиххгфмясяяррпсряпппяясуутсстстжввьззьььввьвжутсррссяоолгддфххдццба©╫╪╨╨╧╥╦╧╦╣╣╢ЁЁ╢╢╡╞Ё╠╟╠╠╞╛╚╗╖╕╓═·║╕╕╘╚╛╘╕ё║╒ё║°  ≈⌠░█┼┴▀█▄┼▀┼▀▄▀┼┼▄█▄▀▀▀▀▀┼█▀┴┬┤┤├┘┘┴▄┼┴█⌠√≈≥²÷÷·° ° ≥≥≥≈≈≥≈≥⌡ ≤≈≈≤≥⌡°° ≥≥ √≤  ≥≥≥⌡ °°⌡≥≥⌡²⌡²·²²·÷÷═÷···÷═╒║╔╖╖╗╚╜╝╟╣╪бгйлнмнммнонлнмлллммлклммммнопонлифхкиеа╬╬╬©©╬©ююю©©©╬╬╬╬╬©юабдффффгиххиийййкйлмкйкккллмммлкйииииххггфдццддбюцбааю©юбфеефгхгфцдцаююю©аейлоппммпррниггггфффеееффдбааю╬╬юю╬╫╫╩╦╥Ё╟╠╠╜╘╖╔╔╔╔╓╓╓╓╔╔╓ёёёёёёёё╒╒╒ёёёёё╓╕╕╔╓ёёёё╓╔╕╕╖╗╘╚╜╞╡╢╤╧╩╨╧╨╨╨╩╦╣╣╤╥╣╡╟╡Ё╠╞╝╜╜╚╙╛╜╞╜╣fi╥╠╞╠╟╡╟╟╠ЁЁ╠╟╠╠ЁЁ╡╞╝╝╠╢╤╦╧╨╩╩╫╬╪╫╫©юююю╬╫╪╪╬©ююба©╬©адфдееедца©ааююабцццаююабаюю©©╬╬╬╫╪╬╬╬©©©©©ааю╬╪╪╪╫╬╪╩╪╬©╫╩╫╬юбдеффииифцабцацехкллллйхфеда©╧╧╧╨╨╨╩╩╪╪╩╩╨╨╧╧╧╥╤╥╦╧╦╦╦╧╧╧╦╦╦╧╧╨╪©ацеехийккмнояпопярсссряпппппянкклкййлккммлклллммммммнммлллллммннллосутсссужввьыыьвввжжууттсссррррсссрокгц╬╧╣╞╜╚╘╘╗╖╕╖╕╓ё╒╒║══║╒║═══÷═══÷÷···²²²²²⌡≥≈ ≥≤≈≈√√∙∙■⌠⌠■∙∙∙■∙∙∙■■■■∙⌠▓⌠∙■⌠▓■≈√▓▐▌▄┴┴┤┘└┐┌───│┌─┌└┘└┌─┐┘┘┐──┐┘├└┌┌┐└┌┌┐┐└┘├┤┤┬┴┴┼┼┴┴┬┴┴┼▀▄▄▄█░▓■≤·║║ё╓╔╕╕╖╖╗╗╗╗╖╔╔╔╔╓╕╙╛╚╚╜╠╢╥╨╩╪╫╫╫╫╪╪╫©©╫╩╩╨╨╩╩╪╬ахиййииххйклмнояяспнннлккииййклмннонмлммкклкйиииимпрпопяосрпнммноояряярсссуввьыыьжжжввжусссрссрпннйфдефгхдцбаю©╫╪╩╩╧╥╦╧╥╢╤╣╢ЁЁ╠╝╛╝╜╜╜╛╘╖╖╔╓ё║÷÷ё╖╗╘╙╘╖╓╒║═║÷≥∙∙∙⌠░█▀┼▀▄▄▀▄▀▀▄▀┼┼▄▄▄▀▀┼┼┴┴▄▀┴┬┬┬┤┤├┴┼┬┬▄▓∙≈≥²÷÷²⌡⌡°⌡  ≥≤≤≥≤≤≤≤≤≤≤≤≥ ⌡⌡≥≤≤≥√≤   ≥≥ ⌡²²° ≥⌡° °²²²÷══÷÷÷··÷═║║╓╖╖╖╙╛╜╠Ё╥╩©диммнннопоммлллммллммннмммнонннкииййхда©©ю©©юююю©©©©©©юабцдегхиххийиииййккккллкйкллммммлйихггхиихххедцдеедцюююааюабдддеефхиффеццца©беилоярпоопрсякфгфееффдббцбаюю©╪╩╩╨╥╣╣Ё╠╝╚╘╙╙╘╖╕╓╓╓╓╓╓╓╔╔╔╓╓╓╓╔╔╔╔╓╓╓╔╔╔╔╔╕╖╗╗╖╖╕╕╕╕╖╗╗╘╘╙╚╜╝╞╡Ё╣╦╧╧╦╧╨╩╩╨╦╥╤╤╢ЁЁЁ╟╝╜╝╝╜╝╛╝╝╠╟╧kh╤╠╞╡╠╡╠╟╡ЁЁ╡╠╡╡Ё╡╠╞╜╛╜╝Ё╣╦╧╧╨╪╬©╬╬╬юаю©©╬╫╫╬©ююцбю©©адфдеффедбаббаааабццю©©аба©бю╬╫╬╬╫╪╬╬╬╬©©©©дца©╫╪╪╪╫╪╪╫╬©╫╪©©©бегхгиигдююцффхкммлккйхфедбю╬╧╧╧╧╨╨╩╩╫╪╩╨╨╨╩╩╨╦╥╥╦╧╧╧╦╧╧╧╦╦╦╦╥╦╨╪©юбцдфгийкмноонопяррсссрряяяянмммлкйлкклллклкллммнннммллккккклммлляусряяртжьььыыыьььууууутттутстужжусоиц╬╦╡╞╛╙╗╗╗╗╕╔╓╓ё╒╒╒║═÷══÷═║═÷·÷÷÷÷÷··°°···°≥≈  ≥≤≈≈≈≤√■⌠⌠■∙√≈≈∙⌠▓⌠■∙√√⌠▓⌠⌠▓▒▓⌠√√▓▌██▀██▄▀┴┤┘└┐└└└└┘├├├┬┼┼┴┤├┘┬┬┤├└┌││─┐┘└┌┌┐└┘└└└├┤├├├┤┬┴┼┴┬┬┬┬┴┼▀▄██▌▌▌░■ ÷═║║╒ё╓╔╖╗╙╙╗╖╔╓╓╔╓╕╘╙╙╙╛╟╡╣╧╨╪╬╬╫╪╩╪╪╫╫╩╨╨╨╩╪╪╪╫©егиййхгфикмммнпрролллйихгхххххиййклкккйихиигфегилопнмноопомлкклллопооопяртжжвььвуужввжтрсссттрнккхедефффцбю©©╬╫╪╩╩╧╦╥╥╤╢╡ЁЁЁ╡╟╝╜╚╚╛╚╘╔╓╕╒╒║÷÷╒╕╖╘╗╖╔╓╒║═·÷°√▒░▓▓▐▌▄▀▀▄▄▄▄▄▄▄▀┼┼▀▄▄█▄▀▀┼┴▀┼┴┬┬┬┬┬┤┬┤┤┬█▓∙√≥²÷²°⌡⌡°⌡ ⌡ ≤≤≤≥≤√√≈≤≥≥≥   ≤≈≈≤√≈ ⌡ ≥≥≥ ⌡²²⌡ ⌡° ⌡²²²÷══÷÷══÷÷═║║╓╔╕╕╗╙╚╟╠Ё╣╦╬дикмнопяполлллммллмнннмммноннонлййиигбююю©юааюю©©юаабцдфгхфхииихиййййккллмммлклммлммлкйхгфдегхииххфеееффедююбццаацабцццехйкйгффгецехйкнясрпоортсокхфддффцююю©╬╫╪╧╥ЁЁ╠╝╛╛╚╙╘╖╕╕╕╕╕╖╓╔╔╔╔╕╕╕╓╓╔╔╔╔╕╕╔╔╔╔╔╔╕╕╖╗╘╙╙╙╙╙╙╙╙╙╙╚╚╛╚╛╛╜╜╜╝╞╡╣╤╣╣╥╦╧╧╦╥╤╢ЁЁЁ╣╡╞╜╝╟╝╛╝╜╞╞╡╠╨kf╣╟╞╡╠╡╠╡Ё╢╢ЁЁЁ╢╡╠╟╞╜╛╚╚╞╡╤╦╧╨╩╫ю©╬╬©юю©аюю©©ююаааабббббццддддццццббаабцца╬©ацбюбаю©©©╬╫╬╬╬╬╬╬©©бааю©╬╬╫╪╪╫╬юаю©а©©юдгииефецабехйлномкййхфецбю╫╪╩╩╨╨╨╨╨╨╪╩╩╨╨╨╩╩╨╧╥╥╦╧╧╧╧╨╨╨╧╦╦╧╧╧╨╩╪╫╬╬бцегхйлмпоннопппррсссррронмннмллллллллллкллмммммлкккклллкклллнруряяяртжьвьыыыьььууууууттуттжььвурмга╪╦Ё╟╜╚╘╗╘╗╕╓ёё╒╒║══÷÷÷·÷═══·²²·÷÷÷·²⌡°²··°≥≈   ≤√√≈≥√∙■■■∙√√≤∙▓▒▓■√≈√■⌠⌠⌠▒▒▓▓√≈∙▓▓▓▓⌠■■⌠░█▀┼▀▄████▌▐█▐░▒░▌█▄█▄▄▄▀┼┬┤│└┘┐───│├└└└├┤┤┘┘├┬┴┴┬┤┘┤┤┬┴▀▄▌▌░▌█▌▓≈⌡²÷÷═║╒╓╔╕╘╗╗╖╕╔╔╔╓╕╗╘╘╘╛╝╠╢╦╨╫©©╬╩╩╪╪╫╪╪╩╩╪╫╫╫╪╫╫цегихгфегиклмнпянлкккйхффгхгдцдфффгггггфееедбадхмоомкмномллккккккояпнннмясувьььвжжжввжтсссссрплйхфддефеебю╬╬╬╬╫╪╩╨╧╥╥╤╢Ё╟╡ЁЁ╡╟╝╜╚╙╙╙╗╔╓╔║╒║═║╕╗╖╗╕ё╒║═÷·°° ■░▐░░██▄▄▀▀▄▄▀▀▀▀┼┼┼┼▀▄▄▄▄▀┼┼┼┴┬┬┬┬┬┤┤├├┬▀▐⌠√√≥²·²⌡⌡⌡⌡  ⌡ ≤≈≤≥≤√∙√≈≤≥≥≥≥≥≈≈≈≤√≤ ⌡ ≥≥≥√≥⌡°⌡⌡°² ⌡°°²÷══·÷║║═÷═║╒ё╓╔╕╖╘╙╛╝╠Ё╤╧╬бхйлнпрсянммллллллмммнннооммоонлкгйидаааююаааююабддефгхййхийййиййкккллмммннммнонлллкйхгфеддфхиихххггфффдццццдцююаюаббцдфхмлкийккййкккмояряпоонояскхдццбю╬╬╫╩╧╥╢╠╞╛╛╚╙╗╖╖╖╘╗╗╖╕╕╕╖╕╕╖╖╖╖╖╖╓╓╔╔╔╔╕╕╔╕╕╕╖╖╖╖╘╙╛╛╛╚╛╜╜╜╜╜╜╜╜╜╜╜╝╜╛╛╛╛╝╟╠╟╟╡╢╣╣╣╣╢╢ЁЁЁЁ╡╟╟╠╡╟╜╝╝╠╠Ё╡╧if╢╞╝╠╠╡╠╡ЁЁ╢ЁЁЁ╢╠╠╟╞╝╜╛╚╛╞╢╦╨╩╩╩╪╫╬╬©юаббааюююаа©абццбаюдцццццдддддцбабцдбююбдцаюбцба©╬╬©©©©©©юю╬©юааю©╬╪╪╬юацццбаадгииицддццфиммнонкииигфдбю╬╪╩╫╪╪╩╨╨╨╨╩╩╩╩╩╩╩╩╨╧╦╦╦╧╨╨╧╨╩╨╨╧╧╨╨╨╩╩╩╩╪╪абдегхйлонммнооопяярррррпннннмммммммммммлллммлллкккллммнмлккняррпярстжввжввьььвжжжжжууттуужьыьурнйдю╫╨╥╢╡╞╛╙╘╗╕╓╓╓ё║÷·²²÷·²·══÷·°²·÷÷÷·²²²²··²⌡   ≥≈∙■∙√∙∙∙∙■■■■∙■▓▒⌠■√√√∙∙∙∙■∙√≈ ²° ≥  ≥≥ ≥√⌠▒▐░▒▓▓▓▓▓▓▒▓⌠■⌠▓▒░▐▐▐░▓▒▐▄▀▄▀┤┐││─┐┌┌┐┘┤├┘└┘┤┴┴┬┤├┤┤┬┬┼▄▌▐░▌█▌▒■≈≥⌡°²÷║ё╓╓╕╕╖╖╖╕╔╓╓╔╕╖╖╘╙╛╞╡╣╦╪╬©╬╩╪╪╪╫╪╪╩╫╫╫╪╩╩╪╪бцфггфффггхкнпппммлммлхеефгецббцеееееефгееедбаеимоомклнпллмммлййимяпнммлясувьььвьвжжжжууутряпмкйгеддеедцбю╫╫╫╫╪╩╩╧╦╥╤╣ЁЁЁ╢╢Ё╟╝╚╙╙╗╖╖╕╔ёё║ёёё╓╖╖╓╓ё║═÷·°⌡ ≥√⌠▒░▐▌▄▄▄▀┼┼▀▀┴┴┴┴┼▀▀┼┬┴┼┼┴┬┬┴┼┴┬┤┤┤├├├└├┼▐▒⌠√√ ²·°  ⌡≥≥≥  ≤≈≤≥≥≤√■■√≤≥≥≥≥≤≈≈≈≈≤ ⌡⌡ ≥≥∙≈≥   ⌡⌡⌡°°°²÷═÷²÷║║═÷═║╒╒ё╓╔╖╗╙╚╜╞╡╢╤╨╫цфилорттяпнмкклмлллммннномлмннммиллхцбаююаббббдегггхиийкккллллллклллммммннннопнккйихгфеееефгиихгххггфедцццббю╬╬©ююабдеедилоооппомкйййлнпряолкмпспмхц©╫╪╩╨╥╢╡╟╝╛╚╘╘╙╙╗╖╖╗╖╗╗╖╕╕╕╕╗╗╗╗╗╗╖╖╓╔╕╕╔╔╕╕╗╗╘╘╙╙╙╙╚╛╜╜╜╛╜╝╞╝╝╝╝╝╝╝╟╟╟╞╝╜╛╛╛╝╝╜╛╝╟╠╢Ё╡Ё╣╤╤╣╡ЁЁ╡╡ЁЁ╡╡╡Ё╠Ё╡╨jg╣╞╝╠╟╡╠╠╠╡╡╠╠╡╡╠╟╞╟╟╞╝╛╛╝╠╣╧╩╩╨╪╫©©╬╬юаабааююааббббббббффедццддддддббцеедббцддцюбддцаююю©©╬╬╬©©╬©юаба©╬╬©юабцдеефхкммкигфеегйнпмммлйиххгфда©╬╫╪╫╪╪╩╩╩╩╩╪╪╪╪╪╪╩╩╨╧╧╧╧╨╨╨╨╩╩╩╨╨╩╩╩╩╩╩╩╪╪╫ююабдфхйлкккмнооооппяррррпоонмлммннмммнмммммллккмммллмммнлклосрппясужвввжужжвжууужжжжжуужжвььжсплгб©╬╪╨╥╤Ё╟╜╚╘╖╕ёё╒═÷·÷÷·²²÷÷÷··°²·÷÷÷·²····÷·²°  ≥≤√∙∙∙∙∙∙∙■⌠⌠⌠■⌠▓▓■∙√≈≈≈≤≥≥≥ °°÷║║÷²²²°°°° ≈∙⌠⌠■■■⌠▓⌠⌠▓⌠∙∙■■⌠⌠▒▒▒⌠■∙■▓░░▐▄┼┴┴┤├┘└└┘└┐┌└┘┤┴┼┼┴┬┬┬┬┬┼▄▌▐░▌▌▐░▒■√≈≤ ²÷╒ёё╔╔╕╕╖╕╓ёё╓╔╔╕╗╘╗╜╞Ё╣╧╪╫╪╬╫╪╪╪╪╩╨╫╬╫╩╨╩╩╩ацефггххггхкнппонммлмлгбцдедцбццедддеееггееецбеимоомккмпоооонлйхгкооммммрсуьыьвввжууууууутромкйигеддеедба©╫╫╬╬╪╨╨╦╥╥╤╢ЁЁЁ╡╡╠╞╜╚╙╙╖╔╕╕╔ёё║ё╓╓╔╔ё║═÷÷·²⌡≤≈√∙⌠▒░▐█▄┼┼┼┼┴┴┴┼┤┬┬┬┴▀▀┼┬┴┴┴┬┤┬┴┴┬┤┤├├┘└└┐├▄▒▒▓∙≈≥°²⌡  ⌡≤≈≤≥≥≤≈≤≤≥ ≤√■√≤≥≥≥ ≥≥≤≤≤≤≥   ≥≥≈≤≥ ≥≥≥≥⌡°°°²÷÷·²÷║║═÷═║╒║╒╓╔╕╖╘╚╛╝╞╟Ё╥╨╫аехлпсттсянмлммнмммммллпмлмнннолмлиеа©©абцдеефгиииййййкклллмллммммммммнмнонннмкйихгффффгффгиихгггффффеддцццаююаааацфгедекясссрпмкйиййлнтянмнннмрпкфю╩╥╤Ё╟╝╜╛╚╙╙╙╙╚╚╙╗╗╘╖╗╗╗╖╗╗╖╗╗╗╗╗╖╖╕╔╕╖╖╖╕╖╗╘╙╙╚╚╚╛╛╜╝╝╝╝╝╝╝╞╞╞╝╝╝╝╝╟╟╟╞╝╜╛╜╛╝╝╛╚╛╝╞╠╟╟╡╢╤╣╢Ё╣╢╡╠Ё╤╦╥╣╢╞╟╠╩lg╣╝╛╞╞╠╟╟╟╟╟╟╟╟╟╟╞╞╞╠╠╞╜╜╜╝╡╥╨╩╩╬╬©©©╬╬╬ббббааабдццббцдеффффеедцдеедццеффеддддеебцддцбааюю©╬╬╬╬╬аааабаю©абццдегхйкмооомллкйлнопокккккйхгфдбю╬╫╫╫╫╪╪╪╪╪╪╪╫╪╪╩╩╩╪╪╨╨╩╩╩╩╩╩╩╩╩╩╨╩╪╫╪╩╩╪╪╫╫╬©©©©юцфхйиийлмнноооопрсссяпонммнмннллмнммммммллкннммммммммлмптспяртжввввуууужутстуужввжжьььвжспнйфа©╬╬╪╨╥╥╣Ё╞╛╙╙╓╓ё║÷÷═║·²·÷÷²²÷²··÷÷·²²···÷÷÷·²⌡⌡  ≥≤≈√≈≈√∙■■■∙∙∙√√√≤ ⌡°²·÷·²·═══║║÷·²²═÷··²⌡≤∙∙√∙■⌠▓⌠⌠▓⌠∙∙∙■■■∙⌠▓▓⌠∙∙∙▒▒░░░▒░▌▄▄▀┼┴┤├┘┤┬┼▀▀▀┼┼┴┴┴┴┼▄▌▐░▐▐░░░⌠√√√≈≥°÷║║╓ё╓╔╔╔╓ёё╔╕╕╖╘╘╖╛╝╠Ё╥╩╪╩©╫╪╪╬╫╪╨╪╫╬╪╩╪╫╪юадфггхххийлнооонмлкккгбццддцццццббддцдефдццбабфлннмййлояяпомлййхлнмклнорруьыьжжвжжужууттсянлйиххфедедцба©╬╬╬╬╪╨╧╦╥╥╤╢╢╣╠╟╞╝╝╜╚╙╘╖╕╕╕╓╓╔╒ё╓╔╓║═÷²²²⌡≥√■▓▓▓▒░▌█▄▄┼┴┴┴┴┴┴┬┤┬┬┬┴▄▄┼┼┼┼┴┤┤┬┴┬┤┤├├├┘└├└┤▌▓▒▓∙≈≤ ⌡⌡ ≥≥≤≈≈≤≤≈≤≥≥   ≥≈≈≈≤≥ ⌡⌡ ≥≤≤≤≤≥≥≥≥≤≥≥   ≥≥≥⌡°°°²÷÷·²÷║║÷·÷║║══ё╓╔╖╘╙╚╛╜╞╠╣╥╧╫юцглпяттсяонмнннмммммломммннояомлкхбабдефгххииккккккллккллммммннннннннмннлккккййхггффгхгфгийихгггффеееддефецбцббцефггггкояррряянмлкклмяпонмлкйннлйе╬╥╡╜╚╙╚╚╙╙╚╚╚╚╚╘╖╗╙╘╙╘╗╗╙╙╘╖╗╗╘╘╗╖╖╕╗╘╙╘╘╙╚╚╚╛╛╛╜╜╛╟╞╞╞╞╞╞╝╟╟╞╞╞╞╞╞╞╞╞╝╜╜╜╝╛╝╝╜╛╜╝╞╞╞╟╠╡ЁЁЁ╢╣╣Ё╡╢╥╧╦╥╤╠╡Ё╪lg╢╜╚╜╜╞╞╟╟╞╞╞╞╞╞╟╞╝╞╠╠╞╜╝╛╛╞╣╨╩╩╫╪╫©ааю©бцццбббцдддддееедефггфеддеееддеггффеддефдцббцдбаббюю©©©©баааббббцдеефгйлооонннопоопртсолиййллкхфцбю╫╪╪╫╫╫╫╪╪╩╩╩╩╫╪╩╧╧╨╩╪╨╩╪╪╪╪╩╩╪╪╩╨╨╩╫©╫╫╪╪╪╫╫╫╬╬╫╫╬юдфйииийкллоооопрстсяппоноямннллммлммммммллмммммммнлммняссярстжввввуттууусрстужввввзыьжсяонхдю©юю╬╪╦╧╧╥╢╟╝╜╚╘╕╒·°°²·²·═÷²²÷··÷÷··²²°°²·÷·²⌡ ≥≥≥ ≥≈√≥≥≤√∙√≈≥≤≤≥≥≥⌡·═╒ё╓╓╒÷÷║╒╒║║═÷÷÷╒═÷÷÷² ≈√√√■⌠▓▓⌠▒▓⌠■■⌠⌠■√■▒▐░▓■∙√∙■■∙∙▓▌▌▌▐▐▐▐▐▐▄▄██▄▀┼┴▀┼┼┴┼▄▌▐▒░▒▒░░■≥≈√√≈≥°÷÷╒╒╒ё╓╔╔╔╓╕╖╖╗╙╘╖╜╞╟Ё╥╩╪╩©╫╪╫©ю╬╪╩╬©╬╫╬©╬╫юцфгггхикмнннопонлйлмкфддццццбааабеецццфцбцбюадкмнмйикнряонмлллкнолйкнпрруьывжжжжжввжуссрянлихгхгедедцааю╬╬©╬╪╧╧╦╥╦╥╣╢╤Ё╠╝╛╛╚╗╕╕╕╕╔╓╒ё╔╓ё╓╔ё÷·═⌡°°≥√▓░░░▒▒▐█▀▄▌┴┴┬┴┴┴┴┬┤┬┬┬┼▄▄┼┼┼┼┬┘┘├┬┤┤├├├├┘└┬├┴░⌠▒▓√≈≤≥  ≥≥≤≤√√≈≤≤≤ ≥≥ ⌡⌡ ≥≈≤≥ °°⌡ ≤≤≤≈≈≤≤≤≤≥≥    ⌡⌡⌡⌡⌡°²÷÷·²÷║═÷·÷║═÷÷╒╓╓╕╗╖╘╛╝╞╟╡╢╥╨╬юдимосттсяонннмлмнонмонмнонояянмомгфифгийййййллллмммммммноооопоооонннмнмйхийккйихггггигфгиййихххгфедцддфгфцаббдеффгикммллмяссжсяпнлкммпянигхкииклйц╦╟╚╘╘╚╛╚╙╚╚╙╙╙╗╖╘╛╛╛╘╖╖╘╙╗╖╗╘╘╙╘╘╘╖╘╚╚╚╚╛╜╜╝╝╞╞╞╞╞╡╟╞╞╟╟╟╞╠╠╟╟╟╟╟╟╟╟╟╞╝╝╞╠╚╜╝╜╛╜╞╞╟╠ЁЁ╡╡╡╢Ё╣╣╢╢╣╤╤╦╧╨╥╦╥╬lf╢╝╛╝╜╞╞╟╟╟╟╟╞╞╞╠╡╡╟╞╞╝╛╝╝╜╝╟╢╦╩╪╪╪╬©абббцдеееддцефгедцбдефгхгффффеефгггфдццдеееебюадецю©юаццббцбббца©аееегхилояппооопппоруввсомлййккхффею╬╬╬╪╪╬╪╪╪╪╫╫╫╪╫╬╫╨╨╩╩╨╧╧╨╩╪╪╪╪╩╪╪╫╬╬╬╬╫╪╪╫╪╪╫©╩╪╪╫╫©абггггхиккмнннояссяяпппппппоонннмлнмллммлкнммллммнмйкятяпрстужввжутссррсссясввтжыызыжсрпнйфццб©©©╪╩╨╧╥╣Ё╠╟╟╝╛╘╕╓║÷²²²²²··÷····²²²°·°°⌡⌡·═²°≥≈≤≥≤√∙√≈≈≈≤⌡²²·÷÷÷÷÷═║╒╒╓╕╕╓ё╓╓╓ё╒║║║║╒║÷·²⌡≤≈√⌠▒▒▒░░▒░▓▒░░▓⌠⌠■▓░▌█▀█▐▒∙≈∙⌠■■■▒▓⌠⌠▓▓⌠■▓■√∙⌠▓▒▐▌▄▄▀┼█▒░▐░▒▒░▒⌠√≤■▓∙≤≥°÷÷÷═║ё╓╔╕╕╖╗╘╚╜╚╘╚╝╟╡╢╥╨╫╬╫╩╪╫╬╫╩╨╪©юю©©ююбццехихгийкмояпяонмлмлфеедцаабцюююацдддбцаюббцейллкллкмопонкйййлйклнноппсжььввьжутттттсспмккйигхгфедцбббаю©©╬╫╪╪╪╧╥╣╣╢╡╟╝╝╜╘╘╙╘╕╖╕╓║═╒╓╒╓╕╓║²°° ≈≈√▒▌▐▐▌▐▐▐▌██▌▄▀┴┴┬┤┬┴├┴┼┬┬┼▀▀┼┴┬┬┬┬┤├┤├└└┘┤┬┬├┬▄▒⌠▓▓■∙≤ ≥≤≈≤ ≤≈√√≤≥≥ ⌡ ≤≤≤≥≤≤√≥°⌡ ≥≤≈≈∙∙≤≤√√≤≥≥⌡°°  °°≥ ²·°°²÷²²÷═÷÷═÷═║ё╓╔╕╕╖╘╙╙╜╠Ё╠╢╦╨╪юдхнпрссрромлллмннммнннннннноппяомигиххкммллллммннннмннопппяопяпоммммлкйкйихххиииихххихгхйкйихгфффффдефггедцфефхйллкмллммморутсрпнлклмннкгефддефиха╧╛╜╜╛╚╚╚╙╚╜╛╘╖╗╙╙╘╘╘╗╗╘╙╛╙╘╘╘╙╚╙╙╙╛╝╝╝╞╟╟╡╟╞╞╞╟╟╞╟╞╝╝╟╠╠╠╟╞╝╝╞╟╠╠╠╞╝╝╞╟╠╠╞╡Ё╠╟╟╞╝╟╡ЁЁЁЁ╡╟Ё╢╣╣╢ЁЁЁ╥╦╥╧╩╨дmg╣╞╜╞╝╟╞╟╟╟╠╟╟╟╟╠╡╡╠╟╠╟╞╟╞╝╝╟Ё╤╦╩╪╫╬©юабццдеееддацдддддеееффффггффеффггфедцццддддбююбцба©юаббббцббццбюадфгиййлортрпооопосужвжтрппнлкифдда╫╩╪╫╩╪╬╫╫╪╪╪╪╩╩╫╬╫╩╨╪╪╩╪╪╪╪╪╪╪╩╩╪╪╫╫╫╫╫╪╪╫╬╬╪╪╫╪╪╪╫╫©абеееефхйкклллмопопппппяяяяпооооннннмммммлммммммммлклпяппяттжжвжууттссрсссттжжуьзыьвтяпомйфцццю©╬╨╩╨╧╦╤╣ЁЁ╟╟╟╞╝╚╗╔╒╒║═÷²²°⌡°·÷÷·²°°⌡⌡°°═ё═÷° ≥≤√■■≈≤  °÷╒╒══║║║║╒ё╓╓╔╖╖╓╒╒╔╓ё╒╒╒╒╒ё║÷² ≈∙⌠⌠▒▐▐▐▌▌▌█▐░▐░▒▒░▒▐▄▀┼┴┼▄▌▓√∙⌠⌠⌠⌠■■■■■■∙∙√≈≈≤≥ ≥√⌠▒▒░▌▒■⌠▒▒▒░▐▒■√≤⌠▒⌠∙√≥°÷══║ё╔╖╗╘╙╙╙╚╜╜╛╛╝╞╟╡╣╧╪╫╪╩╪╬╬╬╫╫╬©аааю©юбцдфхихийкклооояооомонйффдбаюабюююацддддецацдеилмкиййймоппнлкклкйкмнопясжьыьжжжттстттсррпмлкйиггффедццббаю©©╬╫╪╨╨╦╣╢╣╢╡╠╝╝╜╚╚╚╗╕╕╔╓╒╒╒ё╒ё╓ё═°  ≈■■■░▌▌▌█▌▐▐▌▄▄▀▀┴┬┬┬┤┤┬┴▀▀┴┤┤┬┬┬┤┤┤┤┬┤├┬├┘└└┘┘└├┴░∙√∙■∙≥≥ ⌡⌡⌡⌡⌡²°°°²·²²·²°⌡⌡⌡⌡⌡≥⌡° ≤≈≈√≈≈≤≥≥≈√√≤≥ ⌡⌡  ⌡⌡≤≤⌡²²²÷·²°·÷··÷÷÷║╒ё╓╔╔╕╗╘╙╛╞╠╠╠╣╥╦╪юдиоярсссрпонмммнммлммнооппяяяррплйиикммммоллмнннооноопяяррпооннмллллкййййихиийййихфггфгиййййихггггефффгфффиийкккклкйкллкмоссссряооккллйфцаюююадгфц╪╥╞╘╘╛╛╙╚╛╛╘╘╙╚╙╙╙╙╘╗╗╘╙╛╚╚╚╚╚╚╙╞╟╠╞╞╠╡╡╡╠╠╠╡╡╡╡╟╠╠╟╟╟╠╠╡╠╟╟╠╠╠╠╟╟╟╟╠╡╠╟╟╡Ё╡╠╡╡╠╠Ё╡╠╟╡╢╢╡Ё╢╢ЁЁЁЁЁ╢╤╧╫╪фoh╤╟╝╞╝╟╟╟╠╠╠╠╠╠╠╠╡╡╡╡╡╡╠╠╟╟╞╟╡Ё╢╦╨╫╬©юабццддееддббцццдефгфееефгхффефггфеееедццдддцаююаабабццццдецбббаацфхйллмняссяоопрстввжууттттянкхеббю╫╪╬╬╫╫╬╫╫╪╪╪╪╩╨╫╫╫╩╩╪╫╪╬╬╫╫╫╫╫╫╪╪╪╫╫╫╫╫╪╪╬ю©╪╩╩╪╪╪╫╫╬юбццццдфхийлмлмоонооопппяяяпооопоонооннммнмммммммллмноппяруужжжуттутссррссжтужжызвуспмммкиецдцю©╬╨╩╩╨╦╥╤╣╣╡╡╡╡╠╞╜╙╗╖╕╔ё║÷²²²····²°°⌡²° °÷²·°⌡⌡   °·÷÷÷═╒ёёёёёёёё╔╕╕╕╖╗╖╓║═╓ёё╒╒╒╒╒╒║÷°≤∙⌠▓▒▐▌▌▌███▄████▌▌▌▐▄┼┼┴┬┬┴┼▐⌠⌠▒░▒▒⌠⌠⌠■∙√√√≥≤≈≥²÷· ≈√√∙■≈≥≤√■▒▐▐▓∙≈≈⌠▒▓⌠■∙≤²·═╒╓╖╘╙╙╛╛╙╙╛╜╜╝╝╝╞╟Ё╥╨╨╨╩╪╫╬©©©╬©аццю╬╬юбдфхиийклклмнмнмннмоолхфдбю©юа©юаббцдедда©абеиннйфггимоппомлммкйкноопяжвыывжуусссттсрпяомлкйиггффеддццбаю©©╬╫╪╦╦╤╢ЁЁЁ╠╡╝╜╝╜╜╚╖╕╓ёёёё╒║╒╒╒║·⌡≤√⌠░░▒▐▌▌▄█▌▐▐▌█▄▀┼┬┤┬┬┬┤┤┤┼▀┬├├┤┴┤├├├├├├┘├┘┘├┤┬┴┴▄▒≈⌡°  °····÷═÷·║║═║║║═÷═║║÷²²·÷÷═· ≈√∙■≈≤    ≤√≤≤ ⌡⌡  ⌡°≤≈ °°²·²²°°²÷÷···═║╒ё╓╓╔╕╗╙╚╛╞╠╟╢╤╥╨╫юекмпрсттсрпоммннмклмнпярссррсттянккмнмлнпммнноооооппяяярронллммкйкккййийййййййиххеффффхййлкйиххххггггхийклмнмкйклкйкллклмопяяяяпомкккид©╩╫╫╫╬юдгхиб╦╞╛╛╜╛╚╛╛╚╚╚╚╙╙╙╚╚╙╙╚╚╛╛╛╜╞╟╟╟Ё╢Ё╠╠╡Ё╢ЁЁ╢╢ЁЁЁЁ╠╡Ё╡╠╟╟╠╡╠╠╠╡╡╡╡╠╠╠╠╡╡╡╡╡ЁЁ╡╡Ё╢╢╡ЁЁ╟╞╟Ё╣╡ЁЁЁЁЁ╢╣Ё╢╢╥╩╩еoh╥╠╞╟╞╠╟╠╠╠╡╡╡╡╡╠╡╡╡╡╡╡╠╠╠╟╟╟╟╠╠╤╧╪╬╬©абцццддддддддддддегфееефггееефгхгфгххгееефедбаабббцддццдеедца©юбфийклнпярсряооясжввжуттууууспмиебюаю©ю©╬╫╬╪╪╩╪╪╫╫╪╪╪╪╪╪╪╫╫╫╫╫╫╫╬©ю╪╫╫╫╫╫╫╪╫╫©ю©╫╩╪╪╪╫╫╫╬юбцбаабдегиклммоомннноппяяяпоноооонопонмнннннннмллмпяппсуужжжжутссутссррссутжвжььтпнлиииигдбббюю©╪╪╪╨╧╦╥╤╤╤╢Ё╠╠╟╞╝╚╚╚╙╘╖╔╓ё╒÷²°°°²²°·²≥ °°²°²÷═║╒╔╓╓╓╒ё╓╓ё╔╔╓ёё╓╔╔╔╔╕╕╕ё═·╒║══÷÷÷÷══÷⌡≤√∙■░▐▌▌▐▌██▌▄┼┴┴┼▄██▄▀▀▀┴┬┬┼█░░▌█▌▐░▐▐▒⌠√≈≈≥≤≤≥°÷² ≤≈≤≤≤⌡²⌡ ≤■▓⌠∙≤ ≤∙▓▓⌠⌠■∙⌡²═ё╖╙╛╜╛╜╝╛╚╜╝╞╝╜╜╞╟╠╣╦╥╧╩╩╪╪╬©╬╬©аббю╬╫©бдфхихиккйклмлкйлмкмонифдбю©©а©юббббцдбц©╫╬юцхнмиффгхлмояяолллкклнонояужььвжжжтссссряпяолкййииххгффеддцбюю©╬╪╩╦╥╣Ё╡Ё╡╟╞╜╜╜╛╚╙╕╔╓ё╒╒╒╒║ё╒═·°≥√⌠▒▌▌▐▐▐▌▀█▌▌▌▌██▄▀┬┤┬┬┬┤├├┬┴┬┘┘┤┼┤┤├├┘┘┘┘┤┤┴▄▌░▒⌠∙≥·÷··═ёёё╒ёёё╒║╓ё╒║║║║═║╒╒║··═╒╓╓╒²≥≈√∙∙≤ ≥≥⌡ ≈≥≥ ⌡⌡  ⌡° ≤ °°⌡°°·²⌡°÷═·²·÷═║╒ёё╓╓╕╘╙╘╛╠╠╢╣╤╧╨╫бфймоястстрпнннннммноярсттсстжжтрмллмммноооопппоопппппппонмкккккйклкйихийккййихгфеффффгийккйиихххиииийлмнммнмккккккйййййклмноонмлкхгхифа╫©юааабефххд╩╡╜╚╚╙╚╛╛╚╙╙╙╘╙╚╛╜╝╞╞╞╞╟╠Ё╢╣╣╢╣╢╡╡Ё╢╢╢╣╤╣Ё╡╠╠╡Ё╢Ё╡╠╠╠╞╞╟╠╡ЁЁ╡╢Ё╠╟╠╡╢╣╢╢Ё╡╡Ё╢╣╠Ё╢╡╟╟╡Ё╣╣╣╣╢╣╤╦╧╥╢╢╤╥цnh╤╠╞╠╟╡╠╠╠╡╡ЁЁЁЁ╡╡╡Ё╡╡╠╠╠╠╠╟╟╟╟╟╢╤╨╪╫╬юбббцдддддддддддццффефффффдддфхихгииихгфгхфецдеецабддббцддцбююбфикмлмостсятсяпястуутстужжжутрнкфб©ю©©©╬╫╫╬╫╪╪╪╫╫╫╫╪╩╩╪╪╪╪╫╫╫╫╫╬©юю╫╬╬╬╬╬╫╫©©©ю╬╫╪╫╫╫╫╫╫╬юадцбаабддфхйклннмллмнооппряпооооннопонмноннооннммняряяуьвжжжуттсстссрррсстуыыжутямкиффггеб©юю©юа©╬╫╪╩╧╦╥╤╦╥╣╢Ё╡╠╟╜╝╝╝╝╛╙╘╘╕ё÷²°°°⌡⌡·÷°²║║══╒╓╔╔╔╖ё╓╓╓╕╘╘╗╕╔╓ёёёёёёёё╓╓╒═·║═÷²°°°°·÷·⌡≥≤≈√▒▐▌▌▐▌▌▌▌▄┼┬┬┬┼▄▀▀▀▄▄┼┴┴▀▄██▄▄▌▒░▐▐░▓∙√√≥   °··°≥≤≥≥≥²·°²⌡≥≈≤≥°²°≤■▓▓⌠∙≈°·╒╕╘╛╜╜╛╞╟╝╝╞╟╟╛╛╛╝╞╟╡╣╤╥╧╨╨╨╩╪╪╫©аббюю╫╬адфгхххийийлллйиклйлопйгдбаююбюаббаабдбцю╫©юдиллигггхккорсплйиллмнннопужввжжжжжусряяппяолйииийиихгфеддцбаю©╫╩╨╦╦╤Ё╡╡╠╟╝╛╝╝╚╙╘╖╔╔╓╒║║╒ё╓║·° ≈■▒▒▌▐░░▒▒█▐▌█▄▀▀▀▀┼┬├├┤├┘┘┤┬┬┤┘└├┬┴┴┴┴┬┬┴┴▌▌▐▒⌠⌠■√⌡·╒╒══╒╓╔╔╔╔ё╒╒╒╔ё║÷÷═║║÷═║═··║╓╔╕╔╒÷²° ≤  ≤≤≥≥≈≥≥ ⌡⌡≥≥ ⌡  °°°⌡⌡°··°²══···÷═║╒╒ёёё╔╗╗╗╙╞╞╡ЁЁ╤╥╧╬дгкмоярртсяоооооппппярсстсстжвжуянлмноннппяяяпппяяяпооннммлкйййкклкйхгхиииихгггггххгггхиййииихххййклмноомлкклллкккихггггййкккйихцю©цгхгфдефеддфхгккф╬╣╝╙╙╚╜╜╚╙╚╛╚╛╝╞╠╡ЁЁ╣╣╣╣╣╢╣╣Ё╣╤╣╢╣╣╣╣╤╥╤╢Ё╡╡ЁЁЁЁ╢Ё╡╠╞╞╟╠ЁЁЁ╡╢Ё╡╠╠╡╢╣╣╢Ё╡╡╡Ё╣╡╢╣Ё╡Ё╣╣╦╦╥╤╣╤╦╧╨╦╣╢╣╤бmi╥╡╟╡╠╡╡╡╡╡ЁЁЁЁЁ╣╢╢╢╢Ё╡Ё╡╡╠╠╠╠╟╟╡╢╦╨╪╬юабццддеефццццддццееффффеедддфхййиииихггггфедеггебцееццеедаббдгйкйнннятуспсряястуусссужвжууусокгб╬╬╬©©╬╬©©╬╬╫╫╫╫╪╩╪╩╩╪╪╪╪╫╬╬╬╬╬╬©©╬╬©©©╬╬╬ю©©©╬╪╫©╫╫╫╫╫╬©аддцббббцегийкмммкклмннооряпппппооопоннннооооонннояряржььжжуттсссссрррсттужззусямкйгееффдю╫╫╬╫╬ю©╬╬╫╪╩╨╦╦╤╤╤╤╤╣╡╠╟╠╠╠╟╝╛╚╚╙╗╔ё║÷··²═╒══ё╓ёё╓╖╗╖╖╖╓╔╔╔╗╙╙╘╔╓ё╒╒╒║══║║║╒╒═·═÷·°°⌡⌡⌡²·² ≥ ≤∙▒▌██▌██▌▄▀┼┼┼┴┴┼┴┴┴┼┼┴┴▀█▄▀▀▄█▒■⌠▓▓▒▓⌠■■√≤ ⌡⌡²··°    ²·⌡²°⌡  °·═║²≈■⌠∙≥°═╒╓╖╘╚╛╛╛╝╝╝╝╞╟╟╜╚╛╝╞╝╟╡╣╤╦╦╦╦╧╧╨╪©бццбб╬©адфгхигхиийлллйхийгхмплгдцбабдбббббббцбца╬©юцийлйхиххккоттямйиллмнннорвввжуууувусяяпппяолиххийиихгффеедцбю©╫╩╧╦╥╣Ё╡╡╠╞╝╜╞╞╚╘╘╖╔╔╓ё╒╒ё╔╓║² ≈∙▓▒▓░░▒▒⌠■▒▓░█▀┼┴┴┬┼┬┤├├└┘├┤┤┬┬┬┬┼▄██▌▌▌▐░▒▓▒▓■■⌠■≈°║╓╔ё╒╒╒╓╓╔╓╒║║║╒═²°°·÷═·÷═÷··║╓ё╓╔╔╓╓ё║··² ≥≥≤≈≥≥  ≥≈≈≤≤≥⌡°°°°°°²²²·÷÷²···÷═║╒ёёё╔╖╖╗╙╛╜╟╠╡╢╣╥╩бфикмояяссрррряпсррррррсттстжвввуяннпппояяяяяппояяппонммлммлйийкккйиггххгггггххиииихгфгиииииийййклмнооннмкйклмлкллйгффецдддеддццю╫╪©бегигфффгхймноонке╪╢╟╟╟╟╟╞╟╡╠╠╡Ё╣╣╣╣╤╥╥╥╤╤╤╤╣╥╦╥╥╥╥╤╤╥╥╥╤╤╤╤╣ЁЁЁ╣╣╢╡╡╡╡Ё╢╢╢ЁЁЁ╢╢╢ЁЁЁ╢╢╢╢Ё╡Ё╢╣╤╤╣╣╦╨╩╧╦╥╤╤╤╦╧╤╤╣╤╧╧дnj╧Ё╠Ё╠╡╠ЁЁЁ╢╢╢╢╢╣╢╢╣╣╢Ё╢ЁЁЁ╡╡╠╠╠╠Ё╣╦╩╫юаццдеефггдцббддееееффффеефддеикйииххггггфеееефгфееххфегхфдддехлмлпяртттяпяярсужжжсрсуввжтттролиеаюааю©©юа╬╬╫╫╫╫╪╩╪╩╩╫╫╪╪╫©©©©©╬╬╬╬╬©©©©©╬©©╬©╬╪╫©╫╫╫╫╫╬©аддццббббегххйлллййклммннпппяяяпоппоопоонппоооооорррстжввжуутссссрррсстжжвжвжсяниихфддеда©╪╪╪╩╪╫╩╩╩╪╪╪╩╨╨╥╥╥╥╥╤╢╡ЁЁЁ╡╠╞╝╜╛╛╚╙╘╗╖╕╗╕╗╘╕╓╕╔╕╔╔╖╘╘╘╘╗╖╕╔╕╖╕╓ё╒╒╒╒║═÷═══÷║╒║···²°⌡⌡⌡⌡°²° ⌡° ∙▒▐▄▄▄▄█▌▀┼┼▀▀┼┼▀┴┬┬┬┤┤▀▐░█▀▀▄█░⌠■■⌠▓▒▒▓▓▓∙≤≥ ⌡°⌡²   ≥°·⌡°⌡⌡  ⌡÷╒ё║÷°⌡°·═║║╒ё╕╗╚╛╜╝╜╜╝╠╡╡╠╝╜╞╞╝╞╡╢╣╤╥╥╥╥╥╧╨╪юцдцбаюбеггхигхиийлмлкхихдекпниеедбцеддцццццбюца©ююбгкмкийихклптурнллммноноятыьвжууууутряяяпоонмкихххииииххххедба©╪╨╦╤╤╢╡╠╡╠╞╟╝╝╝╚╙╘╖╓╓╔╔╕╖╕╕╓║°≤■▓▒▒▓░▒▒▒∙≤∙■▓░▌█▄▀▀▄▀▀┼┴┬┼█▄┼▀█▌▐▒⌠⌠⌠⌠⌠▓⌠■∙■▓⌠∙∙■√ ²║╓ёёё╒╒╒╒║╒╒║══·²⌡ ⌡²·÷÷═══÷÷╒╓╒╓╔╔╕╖╕╔╓╒║═·⌡≥≥⌡⌡⌡⌡ ≈√≈≈≥⌡⌡  °²⌡ ⌡·÷·°°²²·÷÷║╒╒ё╓╔╔╕╗╙╙╛╞╟╠Ё╢╤╨©цгиймноррстуусртссррссстуууужьыьтяпяпппяяяяппоооооннмммллллкййййихггхххгггггхийихххгефииййкллммммнннммлллккккккййигеда╬╩╩╪╫╬©ююа©╬╬©юбегдцегикмпярсусмфю╪╦╦╦╥╥╥╥╤╤╥╦╦╦╥╥╥╦╦╦╦╧╨╦╧╧╦╥╦╧╦╥╥╥╥╥╦╦╦╤╣╣╣╣╣╣╣╣╢╢╣╣╤╣╣Ё╢╤╤╣Ё╡╡╢Ё╢╤╣ЁЁ╣╥╦╥╥╦╩╩╨╥╥╥╤╤╥╦╨╤╤╤╦╩╩фpl╨╣╡Ё╠╡╠╢╢╢╢╣╣╢╢╣Ё╢╣╣╢Ё╣╣╣╢ЁЁ╡╡╡╠╡╢╤╨╫ююцддефгхигеццдеффффеееееегедехййиихггххгфдееедефхехифегхфхгедгмпопсжжтрппсстужутсррртжжусррпмккхеббаю╬╬©ю╫╪╪╪╫╫╫╪╫╩╪╫╬╪╪╬©©ююю©╬╬╬╬©©©©©©╬╬╬©╬╪╪╬╫╫╫╫╫╬©юцццццццбцеффгиииййкклммнмнопяяпорппппяпоппоооопптсртжвввууттссттрррстувььутспокеггецццб©╬╪╪╪╨╨╧╥╥╦╨╩╪╪╩╨╪╩╧╥╥╥╤╣╣╣╢Ё╡╠╟╞╝╜╛╚╚╛╝╞╠╝╞╠╜╚╚╚╚╗╖╗╙╘╗╗╖╖╔╓╔╔╓║╒║║╒╒╒═÷║║═÷═╒╒÷°°⌡⌡⌡⌡°°⌡°°⌡²÷°≈▓▐█▄▄▄█▌▄┴┬┴┼┼▄▌┼┴┬┤├┬▌■⌠▌▀▀▄▄█▐⌠⌠▓▒▐▐░▒▓∙≈≤≥  ≤°≥≥≥≥²÷°  ≥≤≤ ÷ёё╓╔╔╔ё╒═÷÷·÷╒╕╙╜╠╠╞╞╠╣╤╤╤╡╟╟╟╞╟ЁЁ╢╣╤╥╥╥╥╥╥╧╬цецаббцеггхйгииийлмлмйкиделяпйфедбцефеддддцбаццааабглнлййиикмяуурономмнооосвыьвжжжжжссррряпоннмлйиггййййййккедца©╪╧╥╣╢Ё╠╟╠╠╞╡╝╜╛╚╙╘╔ёё╓╖╙╚╗╕ё═⌡√▓▒▒▒▒░▒▒▓√ ≤∙■⌠▓▓▓▒░░░░▐██░■■▒░▓⌠⌠■√≈≈√∙■⌠■∙≤∙∙≈√■√ ²÷═··═║║╒═÷═╒ё║÷·²°°²·÷═║║║═══ё╓ё╔╔╔╔╖╕╔╕╓╓╓╒·⌡°²²²²⌡≤≈≤≤⌡° ≤≤ ² ≥ ·÷°⌡⌡²²²·÷═║╒ё╔╔╓╕╘╙╗╙╝╞╞╠╡╢╦╫аегхйммяртжввустсссссттуужуужьзьуряпопяяяяппоннлллмммлллкйкллйхихффгииииихггххихгххфдфийкклмноонннммлкккллйиххйеффдбю╩╥╤╥╦╨╪╬юааю©©╬╬адебацфггхйнртжвжтоха©ю©╪╨╧╧╦╦╨╨╨╧╩╩╪╩╨╧╧╨╨╩╨╦╥╦╧╧╧╦╤╤╥╦╥╥╥╥╥╤╣╢╣╥╢╢╢╣╤╥╥╥╣╤╤╣ЁЁЁ╢ЁЁ╣╥╥╣╣╤╥╦╧╨╩╩╧╣╥╥╥╥╥╥╧╨╨╧╦╧╩╩фpi╪╢╢╢╢╠╠╢╣╤╤╤╤╤╣╢╣╤╤╢╢╢╢╣╢Ё╡╡╡ЁЁ╢╡╠╢╦╩╫©бцццдегххфеддехйфгхггхиххххиййиххгффффеецееегхгеехйхггфдддфимясссжььусрстуужжуттсссттттуярпнлкхеецю©╬╬©©╫╬╬╫╩╩╪╫╫╪╪╪╪╫╬©╬©юю©╬╬©©©╬╫╫╫╬╬╪╫╫╩╩╫╪╩╬╫╪╪╪╫╬©ццдцббцдффффггфехийклмннмнпяппппрпонопппооннноясрсужвжууутсстуууяярстувьввтпмкгдддцццца╬╩╨╧╦╧╧╦╥╦╧╨╦╥╥╧╩╧╨╨╧╧╥╤╤╣╦╦╣╡╡╠╟╞╠ЁЁЁ╢╣╢Ё╢ЁЁЁ╢╡╟╞╜╜╛╗╗╗╔╖╓╒╒║÷÷÷║÷··÷÷═║÷═÷·÷╒╒═·°²÷·⌡ ²°·÷··²° √▒▄┼▀██▄┼┴┬┬┬┼█▐▀┴┤├┤┴▀▌▌┼┬┼▄▀▄▐▓▓░▌▐░░▌▒■∙■∙≥  °≤∙√≤≥≥  ≥ ⌡⌡°═╓╔╗╜╜╗╕ё··÷║║║╓╗╚╜╠╢╣╤╥╦╥╨╣╠╡ЁЁЁ╣╣╢Ё╢╤╥╤╣╣╤╦╩©цефхедехихфгхийиикнлййгцеймнкгееедцфедеффдцбддаацефммлииккхлпужсомммнопяртуыьввььжтпярряпнмоомлйигфйкллммннхебю©╫╨╥╣╢Ё╡╠╟╟╟Ё╟╜╜╛╚╖╓╖╘╙╘╙╚╘╕║÷⌡√▒▌█▌▄▌▐▐⌠≥ ≥≤∙■∙≈≤≈■⌠▓▒▒▓■∙∙∙■∙√≈≈≈≤≈≤≈∙∙≈≤≈≤√∙■▓▓∙≥≥⌡·═║║══║ё╒÷═ё╓╒║÷÷÷═÷÷═╒÷·÷÷·═ё║ё╓╔╔╓╔╔╗╕╓ёё╒╒ёё║·°⌡  ≥≤≤≤≤≥≥≥ ≈≥⌡²²°  ⌡°·÷═══║╒╒ё╓╔╕╗╘╛╛╜╝╞╟╡╢╧╫бфймооярсувввжутррсуууьвввввжжзывспопяпонноонмллллкклмкйййййиийиххииихйхгфгггфхххгггхикмоппоннонмлккклкйиххгфеда©©╪╦╤╥╢╢╣╥╧╫юабццбююабцбююацббефимрууутрмхдаю©╫╫╪╪╪╪╩╩╩╪╪╪╪╪╪╪╨╨╧╦╦╦╨╩╧╦╥╤╤╥╦╧╨╦╤╤╥╦╤╣╤╦╦╥╥╥╤╢╢╤╤╤╥╥╣Ё╥╤╣╤╤╤╤╥╥╧╩╩╧╥╥╥╧╧╧╨╨╨╨╧╨╧╩╧╩╫дnk╬╣╢Ё╣Ё╣╢╢╣╣╤╤╥╥╤╤╥╤╣╢╢╢╤╣╢ЁЁЁЁ╢╢╡╡╢╤╧╪©ббцддефгггфеефикгхиийкллонмлкйхфхгффффедефффгххфдгхгггхгфхкмнпрстжььжуттттууутсссррстсрспяпнммйхеца©©©©©╬╬╬╬╫╫╫╬╫╫╫╫╫╬©©©©©©╬╬╬©©╬╬╬╬╬╬╬╪╫╫╩╩╪╪╩╫╫╫╫╬╬©©цддцббцдееефггфееефхийкллмнооооояпооопппоооннорттужвьвжуутсстуутррстужвьжтялихфцддцббб©╪╧╧╦╦╦╦╦╥╥╥╦╥╣╣╤╥╦╦╧╧╧╦╦╥╤╦╧╥╣╣╢╢╣╥╥╤╤╥╦╦╤╤╤╣╤╤╢╡╠╞╞╜╙╗╗╕╓╒÷÷·°⌡°²²·÷═÷÷══║═·÷╒╒║²⌡⌡²°≥≥°²·÷···° ≤⌠▌▀▄██▄┼┴┬┤┤┴▄▌┴┤├┤┼┼┼┼▄┴┴▄▌██▌█▌█▄█▐▐█▐░▒▒▓∙≤≥⌡≈∙■∙√≈≤≤≥ ²·═╓╗╘╙╜╜╙╘╕═·÷═║╒ё╕╖╛╟╣╤╥╧╧╦╧╣╡╠╡Ё╢╣╥╤╣ЁЁ╢╤╦╥╥╦╧╪юцфгфдеххгфххйккйкнмййгцдйлнкхеееееедддефедбефддефглмлихййикотуроооноопяртжыьвьььжтяярряпннпомлкйиимнонмлккифцаа©╪╨╥╤╣Ё╠╟╟╟╠╞╝╝╝╜╘╕╙╚╙╘╘╘╖╔·°≥∙▒▌█▄▀▄▄█▒≤ ≤≥≈√√≈≤√∙∙■⌠⌠■∙√≈≈≈≤≤≥ ⌡⌡  ≥≈≈≈≤≈≥≈∙∙∙∙≈⌡══║╒╓╓ё╒╒╓╓╒╒╓╓╒║═÷═÷··÷═···÷═╒╓╒ё╔╕╔╔╓╔╖╕╔╔╔╕╕╕╖╔╒═÷·²°≥≤≈≈≈≤≥ ≈≤⌡°°°⌡⌡²······÷·÷║ё╔╖╘╚╙╚╛╝╞╠Ё╢╨©дгилоояяртжввввжутуужжжжжвввььыывтрпоппоонннмлмммлллмнлкккййиийиииииихихххиихгииххгхйкмнпппоннннннмлйиихггфедб©╬╪╩╧╥╣╣╤╤╤╥╧╪©абцдцбабдцдццбббцббдгкорсусолифцаюю╬╬╬╬╫╪╪╪╪╪╩╩╩╩╩╨╧╦╦╧╧╧╨╨╧╦╦╧╧╧╦╥╤╤╥╦╦╦╦╦╦╦╦╥╤╣╣╤╥╥╦╧╦╤╥╤╣╥╦╦╦╧╦╨╩╨╦╥╥╦╪╨╦╦╧╩╫╬╫╪╫╩╫╬еpqд╩╧╥╥╢╣╤╤╣╣╣╣╤╤╤╤╤╣╢ЁЁЁ╤╣╣╢ЁЁЁ╢╣Ё╡Ё╢╥╪юабдееефггхихггйликкклноноонннмлккихгххфефггфгхгфефггхйклмпттсрсжввьььввжууууттсртстуусссоппооомйхфцаю©©©©╬╬╬╬╬╬╬╬╬╬╬╬©©ю©©©╬╫╫╬╬╬╬╬╬╬╬╬╬╪╫╫╪╪╪╪╩╪╪╫╬╬©©©дддцббцдддеффгфецдегхйкклмнннноопооопппооппнноружжвььвжужутсстттсстжвввжтямхфедцццбаюю╫╨╥╦╦╥╥╤╥╥╣╤╣╣╢╢ЁЁ╢╣╣╤╤╤╣╣╤╦╨╧╧╧╧╧╩╪╪╨╨╩╩╩╧╧╧╦╥╥╤╢Ё╠╠╞╚╙╙╖╕╓╒║÷²°°⌡°²÷·²²÷÷║║··║ё╒²⌡⌡°⌡≥≥°·····÷²⌡≥■▌▀▀▀┼┴┼┼┬┤┤┬▀█┼├┘┤┼▀┼┼▄┴┴▄▌█▄▄██▄▄▄█▄▀▐▌▌▐▐▒■≈ ≈∙■■■∙≈°²÷╒ё╔╗╚╛╙╛╛╚╛╙╔║═║╒╓╕╖╖╜╡╥╨╨╨╨╧╥╤╢╠╟Ё╢╣╥╦╥╣ЁЁ╤╧╧╦╦╦╨╫ацфффгхиихйййлмллмнкйгцдикмкхфдефгедццдедцбдффффффймлигиййкорсяоопопппясувыьььыьжтррряяпононмлллммяярпнкхгхецбба©╬╪╨╦╣Ё╠╟╟╟╟╟╠╠╞╜╚╛╚╘╖╕╔╓╒°⌡≤∙▒▌▄▄┼▀▀▄▓≤ ≤≥≤≈≈√√∙■⌠■■⌠⌠■√≈≈≥≥≤≥°°⌡ ⌡ ≤≈≈√■∙⌠⌠∙≤⌡²═ё║═║ёё╒║║ё╓╒║╒║÷═÷══·°²÷···²÷╒╓╔ё╓╔╕╕╔╔╔╕╖╖╖╖╗╘╘╚╘╖╕╓╒║═°⌡≤≈√≈≤ ≈≥⌡°°°°²···²°°²·═║╒ё╓╔╖╗╘╚╜╞╠Ё╣╥╩юегхкмояяртжвьььььвжжжжжжжвввввьььжсяонооонмлллмммлллммлллкййиийиииииииххийййихйййиийлмноппонммлмммлкихгфецба╬╫╨╨╨╦╥╥╤╣╥╥╥╥╧╩╬©абццццдедфгфцббдбааадхмптсяпнйфцаю©╬╬╫╫╪╫╪╪╩╩╩╩╪╬╪╨╧╧╨╧╦╩╩╩╨╨╨╨╨╥╦╦╥╥╥╧╨╧╥╥╧╦╤╣╤╥╦╦╧╨╪╪╨╧╥╥╦╨╨╨╩╧╨╨╧╥╥╧╨╩╧╥╥╨╪╬©╫╪╫╨╩╫дosхаа©╬╧╦╦╥╤╣╣╤╥╥╤╤╤╣╣╢╢╢╣╢╢╢ЁЁ╢╢╣╢Ё╡Ё╣╩юацефгггххйккиикмммнмноомлмнопппоомккммкийкйййкйихийкмнппсжььжтжьыььььььвввжжуттсутувжтрроппппполйхдаю©╬╬©╬╫╫╬©╬╫╬╬╬╬╬©©ююю╬╫╫╫╬╬╬╬╬©©╬╬╬╫╫╫╫╫╫╫╪╩╪╪╪╫╬©юеддцббцдддееффедддегхийкллммммноооопяяпопппонптввввьвжуууутсссттттужвжутрокхфедцбба©©©╫╧╤╥╥╥╣╢╣╣╢╢╢╢╢Ё╡╠╡╡╡ЁЁ╡╡╠╤╦╨╩╪╪╫╫╫©©╫╪╪╪╩╨╨╨╦╥╥╤╢Ё╠╠╟╜╛╜╙╙╘╖╔╓╒║══÷÷·°⌡°÷·══·²═ёё·²°°⌡ °÷÷÷·²·÷²⌡≥∙░▄▀▀┼┼▀┴┬┬┴▀▀▄█┬┘┤┴┼▄▌▌┼┬┼▀▀▀▀█▄▀▀▀▄██░▌▌▐▐▐▓≈≤≈≈≤≈√≤ ║ё╓╔╕╖╗╙╙╗╘╚╙╚╛╙╔ё║║╓╖╘╙╝Ё╦╨╨╧╧╧╤╥╣╠╟Ё╤╤╣╦╨╧╥╤╤╦╨╦╦╧╩╬╬╬дфхиикккмкйлмммнолкхдеиймкхеддефедббцццбюбееееееиллхфхйкйнрсяоооппппясжьььыыыьжтррррряпоннннннопссролиггецааббаю©╬╪╨╥╢╡╠ЁЁЁ╡╠╟╝╝╚╘╕ё╒║═÷÷²≥∙▒▌█▄▀▀▄▐∙ ⌡≥≈≤≈√■⌠⌠⌠⌠⌠■⌠⌠⌠∙√√≥ ≤≥°² ≤≥≥≈∙∙⌠▓▒░░■≤°÷÷═÷··÷÷÷·═╒╒═÷÷·²²·÷÷²°²÷²÷·°·╒╓ё╒╒╒╒ёё╓╓╕╖╖╕╕╗╘╙╚╚╙╘╖╕╓ёё║·⌡≥≤≤≤≤ °··²²²°°°°°°²·╒╒ё╓╓╔╕╖╛╝╟Ё╣╥╦╧╪аеггимоппясувьыьызывуууввввжжжжвьььуроммннмлллллллкккклллкккйййййййййиииийййййийкллллмннннннмммккйихххгеца©╫╩╧╦╥╧╧╥╥╦╦╤╧╦╦╦╧╩╪╬юацццддедфхгдббцццбббдхкпяряолихаю©╬╬╬╫╫╫╫╪╪╪╪╫╫©╫╩╨╩╩╧╦╧╨╨╩╩╨╨╧╧╧╨╧╧╦╧╧╨╥╥╧╦╣╢╤╦╦╦╦╨╪╪╩╩╧╧╨╩╨╨╨╧╨╨╧╦╧╨╩╨╨╨╩╫╬╫╪╪╨╩╦╨╪дnrхцеддаа╩╨╧╦╦╦╦╦╥╥╤╤╤╤╤╤╢╢╢╢╢╣╣╣╣╢╢╢╢╣╨©бдфхиииийлммллмноооопяпннопяяяппяпнопяпояяяппяпнмноярсссжжжжжжвьшыьвььвжььвжууттттужусяяояяяяяпмйхдбю©╬╬©╬╫╬©©©╬╬╬╬╬╬©©©аю╬╬╫╫╬╬╬╬╬╬╬╬╬╬╬╬╫╬╫╫╫╫╪╪╩╩╪╬юафеццбццдеееефецбцддеффггййккклмнооопяяяпппппояуььььввжутууттсттужжжввжсяомкхгедцююю©©©╫╨╤╥╥╤╢Ё╡Ё╡╡ЁЁЁЁ╠╟╟╟╠╡ЁЁ╡╡╥╦╩╫╬╬╬©╬юа©╬╫╪╨╨╩╨╧╥╥╤╣╡╟╠╠╞╞╟╝╜╜╚╘╗╕╔╔╕╓ё║÷°°·°·÷°°÷║║·²²²⌡⌡·║═══·÷÷·° ≈■▒▐▌██▄┼┬┼█▌█┼█┴┤┬┬┬▄▒█┼┬┴▀▄▄▀┬┤┤┬┼█░▓▐▌▌░░░⌠≤≤≥⌡²²°²═ё╓╔╕╖╖╗╗╘╗╘╙╗╘╚╚╙╖╒═║╓╗╚╝╠╣╦╦╥╦╨╥╦╤╡╠╢╥╦╤╦╨╩╪╨╧╦╨╦╥╨╬©╫╧юдхийлммолйклмнопмлйфгййнлйфдддееедцццббюабцццддхклхфхйкинртянммооопясжьььызыьжтррсттспомопяппппрромйхххецааабаю©©©©╫╩╧╥╥╣Ё╠╞╝╜╛╙╖╓║═÷÷÷╒÷≥⌠▐█▄▄▄█░■≥°⌡≤√≈≈√⌠▓▓⌠■∙√∙■∙√≤√  ≤≤°° ≈≤≤√∙∙⌠▒▒░░▓√≥≥≤°²÷÷·²··╒ё╒═÷···°²··²⌡°··÷·°°÷║═··²²·═║╒╓╔╓╒╒╔╗╘╘╙╙╙╘╗╖╖╗╖╔╒÷²⌡ ≥⌡·÷÷²°⌡≥ ⌡°°°²²·═╒╓╕╘╚╜╞╠Ё╤╥╦╨╩╩юеффхлнопяртжьыызшзьжуувввжжууужвььвтпмлмммлллмкллккйклккккйййййййййййййййййййкйлмнннмммммнннммкйхгеддда©╪╨╦╦╥╥╥╧╧╥╦╨╨╦╨╧╧╧╧╨╩╪юацдддддееффедбаабццбцефлояяолллфецббцббю©©╬╫╫╫╫©╫╩╨╩╩╧╥╥╦╧╨╨╨╧╧╧╧╨╩╩╩╧╦╪╦╦╨╧╤╣╦╥╥╥╥╦╨╨╧╪╩╨╩╩╧╧╧╧╨╨╩╨╨╩╩╫╫╬©©©╫╩╫╪╫╨╪╬фqtибццедфцба╬╪╧╥╣╥╤╤╤╤╤╤╤╣╣╤╤╤╥╥╥╣╣╤╥╥╦╩©бдгийкккммноооооопппясроопрррряяяяяярррястсрсссяяяртууттвууувыззшыьвввжжьвжжуууууужвжсяяпяяяррпмигдаююююю©©©юю©©╬╬╬╬╬©©©ю©╬╬╬╬╬╬╬╬╬╫╬╬╬╬╬╬╫╬╬╫╫╬╬╫╪╩╪╬абфецбццддеееффецадддддеееийкллмноннопяяяпппппятвыыыььвжууттттттужьввввуромкихгдббюю©©©©╫╨╤╤╤╣╢╡╠╠╟╠╠╠╠╟╞╞╜╝╟╡Ё╢╣╣╦╧╩╫╬╬╬©╬юа©╬╫╪╩╨╪╩╧╦╦╦╥╡╟╡╡╟╠╡╟╞╟╞╜╚╚╚╙╘╗╖╖╔║·²°··°°÷═÷²··°⌡⌡·║║╒╒══÷·°≥≈∙⌠▒▐▌██┼┴▀▌▐█┼┼┬┬▀┼┬┴▌┴┬┴▀▌▐█┼├┘┘├┬▀▌▓█▌░▓▓■≈⌡ ⌡·║╒╒ё╓ё╔╕╖╗╙╚╙╙╘╙╙╖╖╘╙╞╛╗ё║ё╗╛╞╠╣╦╦╦╨╬╧╦╤Ё╡╢╥╧╧╧╧╨╪╫╪╨╨╦╦╩©©╩╥╩аегхкммолйклмнпянмкгхккомйхфеддфееедцббююабцццефйкхфхййимртянлкнноопружжвыззьжусссстсяонпрсяпоопомйхгхигфцбааю©╫╬юаааю©╨╥╢╟╝╜╛╚╘╕ё║═÷═║╒·≈▒█▄▄▄▄▌▓≈  ≤√■√√∙■⌠■∙∙∙∙∙∙∙√≈∙≈≈√√≥≥≈√≈≈√∙∙■▓▌▐▐▒∙≤≤√≥°··²°²·║╒╒═·²··²²··²⌡⌡²··²⌡⌡²·÷·²²·÷═║║÷║║·÷╒╕╖╖╗╘╙╙╙╙╙╙╙╘╗╕ё║═²·══÷° ≥≤≥⌡°²²²²÷║ё╕╗╚╝╟╡╢╣╥╦╧╨╩╪юеффхйлнояртужвызшшзьжжуууууууужвьыьуроммллмммлллмлккклййййккккйкккййййкккййклмкмноонмлмммнннмлйихфда╬╫╪╩╦╥╥╦╧╧╦╧╧╦╧╨╨╧╨╨╨╨╩╩╩╪юацдееддеддефеца╫╬юабббцхкнонннойхгффффецбаю©╬╫╪╫╪╩╩╩╩╧╦╥╦╧╨╨╨╧╧╧╧╨╪╫╫╩╨╫╨╨╨╨╦╦╨╧╧╧╦╧╨╨╧╪╩╨╩╩╧╦╦╨╩╪╫╫╪╪╩╬╬╬╫╩╩╩╪╬╫╬╪╬юхruйццбцбегффда╬╨╦╧╦╤╤╤╤╤╣╥╥╥╥╥╥╥╥╤╥╧╩╪╩╪╬цегйклммооопяяяпппппяряннояссррряярряяррссрярсряряястсстууужьзшшыььввввжьвжжжжжввжжвжтссопяяррпмйхдбаюю©©ююю©©©©╬╬╬©©©©©©╬╬╬╬╬╬╫╬╬╫╪╫╫╬©╬╫╫╬╬╪╪╬╫╫╪╪╫╬юафдцбцдддеееффецаддддеееегхйклмнонннопяпппооясжьыыыьвжуутсттттужвьвжжуроллйххфдббюю©╬╬╬╪╧╤╣╣╢╢Ё╠╟╟╠╠╠╞╝╝╝╜╝╟Ё╣╤╥╦╧╧╩╬©╬╫╬╪╬╫╩╨╩╩╩╨╩╪╨╧╧╧╦╣Ё╢╢╡╡Ё╠╞╠╠╞╝╝╝╝╚╘╗╘╘╕ё╒║ё╒══║║··÷·°  °÷÷║╒║·²°⌡≈√∙⌠▒▌▄▀▌▄▀┼▀▄▄▀┬├┬▄▄┬┬┼┴┬┬┼█▌▀┬┤┤┤┴┼┼█░░■≈≤≤ ²···═ё╓╓╔╖╔╕╖╖╖╘╙╘╙╖╗╙╗╖╘╘╝╞╜╘╔╓╘╝╠Ё╤╧╦╦╨╬╨╥╣ЁЁ╢╥╨╩╨╧╨╪╫╫╪╪╨╧╨╪╪╨╦╧©дехклкмкйкллмоянмлииллнлиггфдццддддцбаю©юбцбцдехигфхииимрспмллноооопрсужьззьжутсрррсрпярссяонннмлиггхихфдбаю©©╬╬©абцдд©╪╥╢Ё╠╞╜╘╕ё║║══╒÷⌡∙░█▄▄▄█░■≈≥≤∙■▓⌠■■⌠⌠■∙■■⌠⌠■∙∙∙■∙∙∙∙∙∙∙∙√∙⌠⌠⌠▓▒▄▌░⌠√≥ ≤≥ ⌡⌡  ⌡²÷═══·°°²²°²··²²·²°⌡⌡⌡°²÷÷÷═║╒╒║═°÷═·²═ёё╓╔╖╗╗╗╘╙╙╚╚╚╙╗╕╔ё╓╓╒÷° ≥≥ °·÷═╒ё╕╖╘╙╛╝╟╠╣╣╤╥╦╧╨╩╫аефгхииноясстужвьышшывууууууууужжвььвтронллннлкллллкккккккккккккклкйййкйклллмномноннмлллллмммкйггецю╫╩╨╨╧╦╦╧╧╧╧╨╧╧╨╨╧╧╨╨╩╪╫╫╫╪╪╬юацддццдццеффдб╬╫╬╬юаббдфймопонкигфееедбббба©╬╫╪╪╪╫╪╪╩╩╨╨╩╪╪╩╨╨╨╩╪╪╪╩╪╪╪╪╩╨╧╧╨╨╨╩╨╨╩╪╪╨╨╧╧╨╩╨╨╨╪╪╫╫╬╬╫╫╫╬╫╩╧╦╩╫©╬ю╬©ахrqгбдцдбдбцегфеца╫╩╨╧╧╧╦╥╥╥╥╥╥╤╤╤╤╦╩╬©╬╫╬цдгиклмнпоопярряяяпоппнкнпрсряппярсряпярссрярсрярпопяярсрстжьыззььььввввыьввввььжуужусррнпяяррпнлйфца©╬╬╬©юю╬╫╬╬©©©©©©©©╬╬╫╬╬╬╫╪╬╫╪╪╪╫╬©╬╪╪╬╫╪╪╫╪╪╪╪╫╬©юфдббцдеедееффедбццддддддцдгиййккнммнопппооояувыыььвжуттссттттувыьжутрплимйхгфдббюю©╬╬╬╩╦╣╢╢╢╢Ё╠╟╟╡╡╠╝╜╜╞╟╡╢╤╦╧╨╨╨╨╩╬©╫╪╪╨╨╧╤╣╥╧╧╧╩╩╧╦╧╧╧╦╤╤╤ЁЁЁ╠╜╟╟╝╜╝╞╝╜╘╖╘╙╙╘╗╖╗╕╓╓╔ё÷÷══²  ⌡²²═╒═²⌡ ≥≈≈≈∙▓▐▄▀▌█▄┼┬┬┼▄┼┤┤▄█┴┬┴▀┴┤┤┼▀┴├┤┤┴▄▌▌░⌠√⌡··²÷║═╒═║╒╓╓╔╖╕╖╕╓╓╔╓╒╗╓╔╗╘╘╙╘╘╜╞╛╕╔╘╝╠Ё╤╦╥╢╤╧╩╥╢Ё╢╢╤╨╨╨╨╩╪╫╪╩╫╪╨╧╦╦╧╨╧©цехллйкйклмллнпнмлиймллигффецаюабццбаю©╬©бцббцдгхгфххгимяяомлмоооооопятжьззьжуусппяррярттрпммнммкиггггфдбаююююююююацдецю╪╨╧╥╢╠╘╔╒║║══╒°≤⌠░▌███▌▒∙≈≤√■⌠░▒▓▓⌠⌠■∙■⌠▓⌠■∙■■√∙∙√√∙∙√⌠⌠▓░▐░▐▌▌▒⌠∙≈  ≤⌡ ≤≤≥ ⌡°²÷║║÷²°°⌡ ⌡·═══║² ≥⌡°⌡²║·÷║ё╓╒÷°°═║÷²÷═÷╒ё╔╕╕╖╗╘╛╛╛╛╚╙╗╖╘╘╖╓═²⌡⌡ ⌡²÷╒╓╗╙╚╛╜╝╞╠Ё╢╤╥╥╦╦╨╩╫©бфгхиххмоясссттжжьызыжтжууттсссжжвьыьусяоллннликклкййййлллккккйкклкйййкикмноопяоонмлллмкккллкхфецю╫╩╨╨╩╨╨╨╨╨╨╧╦╪╨╨╪╩╧╧╩╩╪╫╬╬╬╫╪╪╫©аццббццдефффеа©╫╫©аббабекоянллйгеддцбюабббаюю╫╬©©╬╬╬╬╫╫╫╫╫╪╩╩╪╬╬╪╨╧╩╫╩╩╨╦╦╧╨╧╦╧╨╧╨╩╩╧╦╥╦╨╪╪╪╪╫╫╫╬╬╬╬╬╫╬©╫╩╨╫юаюбюабиssкбцббцбдааефдцеец©╨╥╤╦╨╧╨╧╦╤╤╦╦╫©ю©©юю©юцгиййлммнпппппяппоооонммнпяпппппрряпяяояряппррряппяртуусссуьзззьььввжжуьььыззыьвжужтяпяоопрсспнлйгцааю©╬©©©©╬╫╫©©©©╬╬╬©╬╬╬╬╫╫╫╫╬╫╫╫╬╬╬╫╫╫╫╫╫╬╬╬╫©╬╫╬©юбфецццеффццдффдббббббцдеедддегиклкклмннмлппятжвьзьвжжжжжутттужвьььвуспмкийхггфцаю©©╬╫╬╬╪╨╢╢Ё╡╡╠╠╟╠╞╝╞╟╞╟╡Ё╢╣╤╥╩╪╪╧╧╨╪╬╬╨╣╤╥╦╣╢╣╤╥╦╦╥╥╦╧╦╦╦╣Ё╢╢╠╠╡╞╟╟╝╝╟╟╞╚╚╚╙╙╘╘╗╗╙╚╚╙╘╘╘╕╔ё╒══║║╓ё÷ ≥ ⌡ ≥≈■▓▒░▐▐▒▐▄┴┬┴┴┼┬┬┴┼┴┤┤┬▌▌▄┼▀██▄▄▌░▓⌠∙≤  ÷║÷÷╒╓ё╒ёё╒╓╔ё═ё╔╔╓ё╓╔╓╕╕╕╓╕╗╘╗╖╙╝╞╛╗╚╟Ё╣╧╨╤╡╡╣╤╤╣Ё╡╡╣╥╨╨╩╪╪╩╨╧╪╩╨╨╧╧╧╧╨╪юдхййййклклнпппмннллмйххигцддааааюююаб©©аццаюадфгдцеффгляянлмнлморрппптувызьусвурппяярртсяоннлмкиииихгббббю©╬╫аба╬╬юццца╬╫╪╨╥╢╝╚╖ёё╓ё═²≥■░▌▐░▒⌠⌠≈≤∙⌠⌠▒▐░░░░░░░▓■∙■⌠⌠⌠⌠∙■∙√∙⌠▓▓▒░░░▌▄▄█░▒⌠√≤≥≤√ ⌡ ≤≤ ⌡ ²·÷═÷÷·· ≥≥°÷÷÷÷°≤≈  ≤≥°²÷═║║÷·²·═╒║·°°²÷║╓╔╔╕╕╖╘╘╙╚╚╙╙╛╙╙╗╔ё╒ё╓ё╓╔╖╗╘╙╙╜╜╝╟╟╟╢╦╤╥╦╨╩╪╫╬╬аегхххиммнпрссружвьыьвжжустуусятстувьвусянлллкйййййййййлкййййклллкккккклмноппоононллмлииийклйфцю╬╪╩╨╧╧╨╩╩╨╧╦╦╧╨╪╩╩╪╪╪╩╨╫╫╪╪╪╪╩╨╩╨╪©ааююаабдддехдб©╬╬юабюабеляяннкихфццеаааабаю©©©╬╫╬ю©╫©©©©©©╬╫╪╫╪╨╨╩╪╩╧╧╦╦╦╦╦╥╧╧╦╦╧╩╪╫╪╩╨╨╪╬╫╪╪╬╬╪╩╫╬╬╬╬╫╪╩╫юцдцю©юайstкбцбцддеббефддеддда╬╩╦╥╨╨╨╨╨╨╪╫╫©ю©©ююююцфхииклмнопппяяяппппонммнпппоооопяппрряяпннпряпппяртууужжжвьььвжжуууужжыыыыыыьвжутутяпяяярсттрплкхцааю©юю©©©╬╬╬©©ю©╬╬╬©╬╬╫╫╫╫╫╫╫╪╪╪╫╫╫╪╫╫╬╬╬╬╫╫╫©╬╪╬©©бхгеддеефдддфецбббббццдееееефгхийиклммммноояуввьзьвжууууттуужввьььжсяомйхигееебаю╬©╬╬╬╬╪╧╢ЁЁ╡╡╠╠╟╟╞╞╠╡╡╢╤╣╥╦╦╧╩╪╪╧╧╧╧╨╨╥╢╣╤╥╢Ё╢╣╤╤╤╤╤╥╦╥╥╥╣ЁЁЁ╡╡╡╠╡╠╟╟╠╠╟╟╞╜╚╙╙╙╙╙╚╜╞╞╞╝╝╛╚╙╗╖╖╗╗╗╕╒÷÷║═÷°⌡≥≤√∙⌠▓▓░▌▄▄▌▐░▌█▌▌▌▄█▌▓⌠▓▓⌠√≈√⌠■√√≈≤ °°÷═÷÷╒╔╓╔╕╔ёё╓ё║ёёё╒╓╕╖╔╕╖╖╕╖╗╗╖╗╘╛╝╜╛╜╞╡╢╦╧╤╡╡╢╣╣╣╢╢╣╥╧╨╨╨╨╩╩╩╩╫╪╩╩╨╧╧╧╪╫юдгхххгйммноонпмммкллйффгфцддюююю©╬©юбююаддбаббефддгхфгляпнлммллмооноярсувьвтсжтрппяяяяссяонмкнмкйигедццббюююююа©╫╪╬юаюаббю╫╧╤╢╠╛╗╗╗╔╒÷⌡√▓░▒⌠∙≈√≈≈■⌠⌠░▐░░░░░▒▓░▓⌠▓▓⌠⌠⌠▓▒░▓⌠▒▐▐▓░▐▐░▌▌▌▒▓■√≤≥≥≤ ⌡ ≤≤ ⌡⌡°·÷÷÷÷÷═°  ²··²²² ≥   ⌡··÷║═·°²²÷║╒║÷·²²÷═║╒╒╓╔╖╖╖╗╙╚╙╚╛╝╝╝╛╚╙╚╚╚╚╚╛╛╛╛╛╝╞╠ЁЁ╡Ё╤╦╦╦╧╨╪╫╬╫юегиийккклнпррртужвььььвжттуууттттуввжутрпмллккккккклллллкккклллллкллллмноооонмммлкклкиихххгфца©╫╩╩╨╦╦╨╩╩╨╧╦╦╧╨╨╨╨╩╫╫╪╪╫╪╪╪╪╩╨╧╨╧╨╫©ююаююбддцдффецю╬╬юб©юацгмпяолккйфцббааююю╬╫╬©╬╫╫╫╪╨╪╩╩╩╪╪╩╨╨╩╨╧╧╨╨╧╩╩╨╧╧╦╥╥╦╧╧╧╨╩╩╪╪╪╩╨╪╬╬╪╫╬╬╪╩╪╫╫╪╫╫╫╫©бдба╬╬ююйrtлбцбдфффддффедедефгеа╪╧╨╦╦╨╪╪╫ю©юаюююааюбдфгиийкмнопппяяяппппннмопппооонопопяяппоммпряоппрсужууььььььжужуууужьыззыыьвжутсстсяяярррстсрпллидбааюааю©©©юю©©ю©©╬©©╬╬╬╬╬╬╬╬╫╪╪╪╫╫╫╫╪╫╬╬╬╬╫╪╬©╫╪╬╬©цфецццдддедефецааццццддееффффгггггйлмллмоноржьььывжууутттужвьььььвтяонлйххеддцбюа╬╬╬╬©©╪╧╢╢╢Ё╡╠╠╟╟╟╠Ё╣╤╦╧╥╧╧╧╨╩╩╨╧╦╤╣╤╥╣╡Ё╣╣Ё╡╡ЁЁ╤╤╣╣╤╤╣╣╤╣╢╡╡ЁЁ╡ЁЁЁ╠╠╠╠╟╡╟╝╛╚╚╛╜╜╝╟╠ЁЁ╡╠╞╝╜╛╛╛╛╛╛╘╔╓╕╖╕╓ё║÷²° ≥≤≈∙⌠▓⌠∙≈≈√■■■⌠▓⌠∙√≈≈≈≥°²°≥ ⌡⌡⌡⌡°···÷═║╒╓╔╖╖╕ё╒║╒║║÷²·╒╕╕╓╕╖╖╖╗╘╗╖╓╕╗╚╞╡Ё╡╡╣╦╧╤ЁЁ╢╣╢╢╢╣╤╦╧╨╨╧╧╧╨╩╪╪╪╪╪╩╨╧╧╩╫©цфххггймммннопмллййкиедеецдб╬©юю╬╫╬юбаююцддббаефцдххефлппнлмммллмммояррсужутстсяпппппяррпнмлйннмкхецббббаююаб©©╬╩╨╪╫╫╪╬юю©╪╧╦╤Ё╟╝╝╞╛╗ё║²≤≈≤⌡²² ≥≤■⌠⌠▒▌▐░▐▌▌░▓▐▐▐▌▐▒▓▒░▌█░▓▓░░▓▐█▌░░▐▌▓⌠■√≤≥≥≥⌡⌡ ≥≥⌡²²°·÷÷·÷║╒÷²°··²°°°⌡ ≥ ⌡²·÷═║·⌡ °·═════÷²²÷÷··÷║╔╖╖╖╘╚╛╛╜╞╟╠╡╡╠╠╠╡ЁЁ╡╡╠╟╞╝╞╟╠ЁЁ╡╢╤╧╧╧╧╨╪╫╬╫юдгхиийиийкнпяярстжвььыьвутстужттстжжутутромлллллллммммллллллллмллмммннооооонллклкййййхгецццба©©╫╪╩╨╧╧╨╩╩╩╨╧╧╧╨╨╨╨╪╫╫╫╪╪╪╩╩╩╩╨╧╨╦╦╨╪╫©а©юаццббцгхгцю©юбюабацхнрпнкккхдацбаю©©╬╫╫╬╬╪╩╩╨╧╨╧╧╧╨╨╧╦╧╨╨╧╧╨╧╦╪╪╩╨╧╧╧╧╦╧╨╩╩╩╩╨╩╫╫╩╩╬©╫╬©©╫╪╫╬╬╬©юююацебб©╬ю©иqtкбдцеггфееффедедддегфцю╫╧╥╨╪╪╬аабббааааююацфхиийкмнноппяяяяпоннноппооннноооооонппонпсрпяяртужжжььыыыьжжжжжввьыззыыьвжуттсссряяяяяярссррнмйфбааюююю©©©©©©©юю©©©ю©©©©©©©©╫╫╫╫╬╬╬╬╪╪╫╬╬╬╫╫©©╫╪╬╬©цдцббцдеееддфецббццццддеефгггфффефхйкккмомосвыыььвжууттттжвьыыыьвжроммлйххфддцаюа╬©©©©╬╩╥╣╣╣╢Ё╡╡╠╢╢╢╤╥╦╧╨╧╨╧╦╦╧╧╦╤╤╢Ё╢╣╢╠╡ЁЁ╡╠╠╠╠╥╥╤╣╣╢Ё╡╢╣╢╠╟ЁЁ╡ЁЁЁ╡╠╠╟╟╠╟╞╝╝╝╞╟╠╠╟╠╡╡╠╟╞╝╜╛╜╜╜╛╜╙╗╗╘╙╘╖╙╖╓║÷÷·²⌡ ≤≤≥⌡⌡⌡ ≤≤≤≤≈≈≥≤≥  ⌡²²²°²²²²²·÷÷÷÷║╒╒╒╓╓╔╔ё║══║═²⌡²║╔╕╔╔╕╖╘╙╙╘╖ё╔╖╘╞╣╤╢╤╥╧╦╤╢╣╤╣╢ЁЁ╢╣╤╤╨╨╧╧╨╩╪╫╩╩╪╪╪╩╩╨╨╩╬бфхийийлкклояолкйххйхецддцца╪©©©╬╪╫юбю©©ацдбаагидбефцгкоомлллмммнннорссттуутсрряпппппрряпнлкклмнлхеццюааааабб©╬╫╩╩╩╩╪╨╨╧╦╦╦╦╦╤╢╡╠ЁЁ╟╜╙╗╔ёё╓╔╕╓═·°≥≤≈■░▒▒▐██▐▒▐▌█▀▄▌▐██▄▄▐▒▒▓⌠⌠▒▐▐░░░░■■∙√≤≥ ⌡°°⌡  ⌡²·²÷═÷·÷║╓║÷···²°°°°⌡≥ ²÷÷═══·°⌡°···÷÷══÷·ё╒║═║╓╖╙╘╙╛╜╝╞╟╠╡Ё╢╢╢╢╣╣╥╥╤╤╢Ё╡╡ЁЁ╡╡╡Ё╤╧╧╧╧╨╪╪╪╪╫©беффггхххйлнпяярстужвьввжтсрсуссстужутжутянллммммммммнллмммммлмммннноооооонмлклкйиххгеба©©юааю©╬╫╫╪╩╩╪╩╩╩╨╧╧╧╨╩╩╩╪╫╫╪╩╪╪╩╩╪╩╩╨╨╦╦╨╩╪╫©╬©аццбаафгххецбацццццфйнрпнлкигфцбаю©©©╬╪╫╫╪╨╨╨╨╨╧╧╨╨╨╨╧╧╧╧╧╨╨╧╦╩╩╩╨╨╨╩╪╧╨╩╪╩╩╩╩╨©©╪╩©ю╬ююю╬©юююббббббдееебааюиqrкцедефеееефеддддцбцфгфед©╪╪╫╬юбццббю©©юю©©аехиийкмннопяяяяппоннноппонннннноонннпяяппрррррссужььььыыьввжжжвьыььвыыьввжуттссрряяпяярстуутоолгцбаю╬©ююю©©╬©ююю©©©ююююю©©©©╬╬╬╬╬╬╬╬╪╪╪╫╫╬╬©©©╫╪╬╬©дедцддееедддеецццццццддееффффффффггхийлмммпувььввжжжууууувьызыьвжуянлллйххфдддбаа©юю©©╫╨╣╢╣╣╤╤╤╤╣╥╦╦╧╧╨╨╨╧╨╧╥╤╦╧╦╤╣╢ЁЁЁ╡╞╠╡╡╠╟╠╠╟╣╣╢╢╢Ё╡╠╡Ё╡╟╞╠╠╟╠╠╠╡╡╡╡╡╡╡╡╡╡╡╡╡Ё╡╟╞╟╟╟╞╞╝╝╝╝╝╝╜╜╛╚╚╙╙╙╙╛╚╗╕╓╒║÷°⌡⌡°²·²⌡⌡ ≥  ≥≤≥⌡°²²²·÷·²·····÷═÷÷║╒╒║═║÷║╒╒═÷÷║═÷··║ё╕╖╕╕╖╘╙╘╗╖╕╗╙╙╜╡╢Ё╧╨╨╦╣╢╣╥╤╢Ё╡Ё╢╣╤╧╨╨╩╩╩╪╪╧╨╩╪╪╪╪╪╨╩╬аеийкийккйкнянйихффгффццдца©╩╫╬╬╫╩╪╬юю©©юбцбююгйеацддгкннлллмллмооноясттттсссяяяппппяссяомлллйлмкхдцц©абцбббб©╬╬╫╪╩╩╩╦╤Ё╡╢╤╥╥╥╣Ё╢╢Ё╞╜╜╛╚╛╝╝╛╙╗╔╓ё═·²≥≈≈√■▒░▒▓⌠▓▐██▌▌▄▀▄█▐▌▌▒■∙⌠▓▒░░▒⌠√≈≤≤ ⌡²²·°⌡ ≥ ⌡²··÷·²·═ё═····²°°°°⌡ ⌡²═══÷·····²·÷÷║╒ё╒╒╘╗╖╖╗╙╛╝╛╜╞╞╟╠╡Ё╣╣╣╢╢╣╥╦╦╦╦╦╥╥╤╤╧╦╥╤╣╥╧╨╧╧╨╩╪╪╩╨╪╬ацееффггхиймопяррсстжвжвьжтсрссррсужжууууспнммммлллмммллмнннммнннооооонооннмлкмкигфдцб©╬╫╬юааю©╬╫╬╫╪╩╪╪╪╪╩╨╨╨╨╩╩╪╫╬╫╪╩╫╪╪╩╪╪╩╩╨╧╨╩╩╨╨╩╫©аббббабдгйкиеацццдеегхпяяпмлккдцаююаюю╩╩╩╩╧╧╧╩╨╨╧╨╩╩╩╨╦╦╦╦╧╦╥╤╨╩╩╩╨╨╪╫╩╩╪╩╩╩╪╫╩©ю╫╪©ю©юю©©юбцадцбаацефффдббаиrrкцеееедееееедддддцдфгедхебю©юаббааа©╬╬©ю©©адгийклмнопярпяяяпооонопппоннммнопппяпрсяпяррррсттжьзыззыьвжжвьзшзыьвььвжжуттсссяяяяпопярттууяяоиебба╬©юааю╬╬©юююю©юююю©©©©╬╬╬╬╬╬╫╫╫╫╫╫╫╫╫╬©©©╬╪╫©╬©дфеддддццдцдеецццццццддееееефффффгффгикллоржвввжууужуужжвьыыыьвжурпмлккиггедедбаю©юю©╬╫╧╣╢╣╤╦╧╨╩╩╧╨╩╨╩╩╩╨╧╧╦╥╥╦╧╦╤╤╣╢Ё╡╟╝╟╠╡╠╠╠╠╟╠╠╠╠╡╡╠╠╠╠╠╞╝╝╝╜╜╜╝╠╡ЁЁ╣╢╣╤╥╤╣╢ЁЁ╡╟╟╟╠╠╠╟╞╞╞╟╟╞╝╞╝╜╜╛╚╛╜╛╛╛╛╙╖ё═²°°·÷═·°°⌡ ⌡⌡ ≥≥°····═║║÷÷÷÷══║║÷║╒╒═÷÷÷°²═║═·÷║÷÷÷÷═║╓╖╖╖╖╗╗╖╕╔╕╗╙╙╛╞╢╥╨╪╫╧╣╢╤╦╤╣╡╠╠Ё╤╦╧╨╩╪╪╪╩╨╧╧╨╩╪╫╫╬╫╫©аегийххйлмлмнлихгеефдебцдбю╬╩╫╫╪╪╩╩╫╬©ю©©аббю╬дхеабефхкмлкклмккмоонносстссряяяяпооояртсяпнллмкллкгдццабдддцбб©╬╬©╬╩╧╦Ё╠╞╟╡ЁЁ╠Ё╡╡ЁЁ╡╟╟╝╞╟╡╢╡╝╚╛╘╘╘╔╓ё══÷·⌡≥≤≤≤≥≥√⌠▓▓▓░░▒⌠▓░▐▓≈√■▓▒░▐░⌠≈≈≤≥ ⌡°··° ≥≥≥ °²²²°°·═║÷····²²·⌡⌡ ⌡°²÷═║═══║║═÷║╒ё╔╕╖╖╗╛╚╚╚╛╜╝╝╝╞╟╟╟╡ЁЁ╤╤╣╢Ё╢╤╥╦╦╦╧╨╨╨╨╨╩╩╨╧╦╥╤╦╥╦╨╩╩╨╧╨╪©бдффффггхикмооярррртужвыывтсрсррсужууттутрпонммлллммнлммнннннооооооооннммллкйлигеца©©╬╫╫©юаю©©╬╫╬╫╩╩╩╪╪╪╪╩╨╨╩╨╨╪╫╬╬╫╪╪╪╩╩╩╩╩╩╨╨╩╪╩╧╦╦╩╬юабццбабеймлхдаабдееееинрсяонлгфдддцбб╪╩╨╧╦╦╧╨╨╧╧╧╨╩╩╨╩╧╦╧╨╧╦╦╩╪╪╪╩╨╩╪╪╪╪╩╨╩╫©╫©ю╬╬©юаю©╬╬юццаааююацегдедццбкstлдеддеддефееддеееефггедгигцабцааююю©╬╬юааюацфхйклмннопяпяяяппппнопяпоононояряяряссрярряяртуужьызззыьвввызшшзыьвьвжжуутсяррппяряноярстттссякфцба©©юааю©©©ююююююаююю©©╬╬╬©©©╬╫╪╫╫╫╬╬╬╬╬╬╬╬╫╪╫©╬©дееддццбадццддббббббццдееееееефггффггхиклятвжууутттууужвыыыыьвжтсонлкйхгедццддбаю©©©╬╬╫╨╤╥╥╧╨╪╪╫╫╧╩╩╨╧╨╧╥╤╥╦╥╦╧╧╦╣╤╣ЁЁЁ╡╟╟╠╡╡╡╡╡╟╝╝╞╟╠╡╠╠╟╟╟╟╝╛╚╚╚╚╛╞╟╟╠╡Ё╢╣╤╤╣╢ЁЁЁЁ╡╡╡╡Ё╡╠╟╟╡╡╟╞╠╞╜╝╞╝╝╞╜╜╜╜╜╙╗╔╒║÷═║╒═·÷²°°²°⌡°²÷÷··═║╒╒╒╒║║║║║·║ё═²·÷═··÷══÷÷║···÷÷═╒╔╕╓╓╔╕╔╔╕╔╕╗╙╚╞╣╪╨╬ю╪╥╤╦╩╥╣╡╞╝╟╣╦╨╨╩╪╪╩╨╧╨╨╩╩╪╫╬©©©©адфхххххкммлмлиххееебдабца©╬╫©╬╫╫╫╫╫╫╬©©╬©ааю©адцббегиклкйкмнллнппоопярссряяяппоннопрсрряолкккккйгеццбцддцббб©╬╬ю╬╨╤╢╞╝╝╝╞╞╞╝╛╜╝╠╠╟╟╠╞╡╤╥╤╡╝╛╝╛╜╛╗╖╖╓╔ё╒║═÷÷·²·°≥≈≈≈≈≈≤≥≤≈√≥² ≈■⌠⌠⌠■√≈≤≥  ⌡²·÷°    ⌡²²²°°·═║║║══════║·°²÷══║╓╔╔╔╔╔╔╔╓╓╕╗╘╘╘╚╛╜╛╛╛╜╜╜╛╝╟╠╟╟╡ЁЁ╢╢╢ЁЁЁ╢╣╥╦╦╧╨╩╩╩╨╩╪╨╨╧╦╣╥╤╣╤╦╧╧╦╨╩╬ацеееефггхиклноярярсуужьььжтстсссууутрстууспннмммммннмнннооооооооооннммллкйихгебба©╬╬╬╫╫╬©ю©╬©╬╬©╬╪╩╩╪╪╫╪╩╨╨╩╨╩╪╫╬╬╫╪╩╨╧╧╨╨╨╧╩╩╪╪╩╦╥╦╧╪©юацдцббдгиккйцббддддеекпсттронмкйигеда╬╩╧╧╦╦╧╨╧╧╧╩╩╪╩╬╩╨╩╪╩╨╨╨╪╫╫╪╩╩╪╪╫╫╪╩╪╬ю©╬©юю©юбаю©╬адцаююююбцефцедддцлuuмдецдеедеффедееффффггффгккгдфебаююаю©юбцбаабехийклммноппярряпяянопяпооояпярсяярстсрстсяпртжжвьызззыььызыыыььввжьвжуутсспяяоояряпястуууттурлфцбааааааааа©ююююююааааю©©╬╬юааю╬╫╫╬╬╬©©©╬╫╪╫╫╪╬ю╬©ееееееедцдццдцаюаббббцдеефеедееггегхгфгйлсжвутттсрсууужьызыыьжтсрммкйхгедбабддбаю╬©╬╬╬╫╩╥╩╩╪╪╫╪╪╩╧╩╨╦╥╥╣ЁЁ╣╥╦╧╧╦╤╢╢╢╡Ё╢╢Ё╟╠╡╡╡ЁЁ╠╞╞╞╠╡╡╠╟╟╞╟╠╞╙╘╚╚╙╚╜╜╛╛╜╞╟╡ЁЁЁЁ╡Ё╢╣╣╢╡╡ЁЁ╡╡╡ЁЁ╡╟╡╝╛╝╟╟╟╟╟╝╜╛╛╛╛╛╘╕ё╒ёё║═╒═²²···÷÷║═··═╒╒╔╓ё╒╒║║═²╒ё· ²═║║÷÷══÷═╒═··═║║ё╕ё║║ё╔╔╕╗╗╖╗╙╚╜╢╩╨юц©╨╦╨╫╦╤╡╜╚╜╡╤╩╩╩╩╩╨╧╧╩╩╩╪╪╬©©©©©ацфххкхгиклмокиххеееббюабю╬©╬аю©©юю©╫╫╬©╫╫©©©аюабццдгйклйиймннмоппопрярстсрррпонммнпрряррплйййййигеддцддцбааа©╬╬ю╬╧Ё╠╝╞╝╝╜╜╝╞╚╚╜╞╜╚╛╝╠╤╩╩╥╠╞╝╞╜╝╜╗╖╗╖╔ё╒╒ёё╒║÷═÷²⌡⌡⌡⌡⌡ ⌡⌡⌡°÷╒═°≤≤≥  ⌡ ⌡°²²·═║═²⌡°°°²═·²°²═╒ёё╓ё╒ёё╒ё╓╓╒ё╖╗╕╖╚╙╙╙╘╗╖╗╙╕╗╙╚╙╙╛╝╟╞╜╜╝╝╝╜╞╠╠╟╟Ё╢╢Ё╢╢╢╢╢╢╣╥╥╦╧╨╨╨╩╩╪╩╨╨╪╪╨╥╣Ё╢╤╦╦╦╨╩╫©бццбдефггхийлнярярсттужввжутжтсстутсрртжвурооннммноонннооопппппоонмммллкихггца©©©╫╫╬╬╪╪╪╬юю©ю©©ю©╫╪╪╪╪╫╪╩╨╨╩╪╪╫╬╬╬╪╨╨╧╦╦╦╧╧╦╩╩╩╪╨╥╥╦╦╩╬©юцедддддфхлнфеддцбдгхлптвывутсяомйхффа╫╩╨╦╦╧╪╩╩╩╪╫╫╫©╩╧╨╩╨╧╧╧╩╫╬╫╪╫╫╪╫╬╫╪╪╬юа╬╬аа©юбцаю©бедаааабцдддегфеецлutлцдбцеедефеддегдфгхггффхийлмкгц©абаююю©ааббцдгикмнллмопяярррряяммнппнннояряяряпсссттттсястжжьзшшззызззыыыыывжутвтсттяртуряяяпяроястсссутсямхдбббаааааюююююююааб©юба©╬╬©ааю©╫╪╫╬╬╬╫╬╬╬╫╪╬╫╪╫╬юббеееееедцццддцаюююабцддцццдеефееегхигфгкоууттрррстссстжвьввьвусрянкиихфефцббббююа╬╬╫╪╫©©╪╫юббю╬╫╪╪╧╥╦╦╥╥╥╢╢╣╥╥╤╤╤╢Ё╠╟╠╢╢╡╝╞╠╡Ё╡╠╟╠╞╞╟ЁЁ╡╟╠╞╝╝╝╜╛╜╜╜╜╝╞╝╜╛╜╜╝╞╟╠╡╡╡Ё╢╡╟╞╠╡╢╡╡Ё╢ЁЁ╣ЁЁ╡╠╟╟╠╡╟╠╡╡╡╠╠╠╜╗╕╖╗╖╕╖╔╓╒║═║══║╒╒═÷═╒ё╕ё║÷²°·═╒║÷° °═╔÷÷·÷÷÷║╒÷÷══║ё╓╔╒║║║ё╔╖╗╕╙╜╟╠╝╠╧╦╬аю╫╥╥╪╫╦╡╜╙╚╟╣╨╩╩╨╨╧╦╦╧╧╧╩╪╪╫╬╬абцдфффгиййлмнмкхихеефдбцббббю╪ю╬╬©╬╪╫ю©юю╬╫╫©аабцдддеехйкиикллййкмпрррррррсрррмнноопяяссронмлкйхийфеффефебаааю╬ю©╩╢╞╞╠╟╞╜╛╜╛╚╙╖╘╙╙╙╙╛╝╟╣╧╦╢╡╞╜╟╝╛╚╘╚╚╖╚╕╓╕╖╔╓╓║║║══÷═║²··²²·╒╔╓║·²÷║ёёё╒╒╓╖╖╔╒╕╒÷═╒╓╔╔╔ёё╕╖╕╔╕╗╖╕╕╖╗╚╛╖╘╚╛╛╛╛╜╞╛╙╙╙╘╙╚╚╜╝╝╜╜╜╝╟╟╟╞╞╝╝╝╞╞╡╢╡Ё╣╣╤╢ЁЁ╣╤╤╣╢╣╤╤╣╣╤╤╧╧╨╪╪╩╩╪╩╩╨╧╦╥╥╤╦╧╩©аааббдффддгйклнпрсссттувыьвужттуутттястуууууноооннопнооннппппоннннммийййхфдб©©©©╬╬╬╫╪╪╩╪╬©©╬ю©╬╫╫╪╨╧╩╩╨╨╨╩╪╪╬╪╪╬©╫╩╨╧╦╧╧╦╤╥╧╨╨╨╨╩╩╧╤╥╦╩╪╬юцегфдццфилмкхедегхммнрвыыввуронлигеб©╪╩╨╧╧╨╪╫╫╪╩╩╩╫╧╥╧╪╪╩╩╪╪╬©╬╪╫©©©©©©©юююабцбааабаабцддцццццегхгеегхгеоutмддцдефефффддегфгггггххййклмлйхцаюабююабббббцфгйлнммнпяяярррряяоноппоноояяппяяоссстттттстжвьышээшзззшззьвжууттсурртсяясряпяяпяспрттсссттсялфбююбааааааааааааааб©аббаююаааю©╬╬╬©╫╫╫╫╬╫╫╪╫╫╬╬╬©бддддддддцццдецаюаааббццццееееефффефгфгинрттсряпярсссстжвьыьвжтсрямйхххфефдцбаа©©ю╬╬╬╬©аа╬╬©ааю©╬╫╫╩╦╦╥╣╢╣╣╢╢╢╢ЁЁ╣╢Ё╡╟╡╢╢╡╞╞╞╞╟╟╟╠╟╞╞╞╠╠╠╟╞╝╝╟╟╝╛╛╞╞╝╝╞╟╞╞╞╞╟╠╠╠╠╠╞╟╠╟╞╞╟╠Ё╠╠╡╡╡Ё╢╡╟╞╞╟╡ЁЁ╢╢╢╢ЁЁ╡ЁЁ╟╜╛╛╚╙╙╗╖╕╔╔╔╓╓ёёё╒║╒╓╕╔╕╓═÷║╒║══÷²⌡°═ё·²²²·═║╒··²··═║╒║═÷÷║╓╕╖╗╙╛╞╠╝╞╤╦юца╬╨╧╪╪╦╡╝╛╛╞Ё╦╧╨╨╧╦╦╦╥╥╧╪╫╪╩╪©абцдфггхйкккмммлийиффгеддцббцб©а©╬╬╫╪╪╫╬©©╬╫╫©юбцдддееффххггиклкклнпяррррссссррооопяррсррпмллкййхййгефеефдбаааю©©╫╥╠╝╝╟╠╟╝╝╜╛╙╗╗╘╘╘╗╘╛╝╠Ё╡╞╜╜╜╜╛╛╜╛╘╙╙╗╗╖╖╗╗╖╕╕╓╓╓╓╒║║╒╒║║══║ё╔╖╔╒╒╓╕╖╖╖╖╗╗╗╗╖╖╘╕╓╔╕╕╖╗╘╗╗╘╙╘╘╙╘╘╘╘╚╛╝╝╚╛╝╞╞╟╟╟╞╜╛╜╜╛╚╛╝╟╠╟╝╛╛╜╟╟╠╠╠╟╟╟╡╠Ё╢Ё╢╤╣╣╢ЁЁЁ╢╢╢ЁЁ╢╢ЁЁ╢╢╤╤╦╨╩╨╩╪╪╪╩╩╨╧╦╦╥╥╨╬юаацацддцдфхйкмопрррстувьывжвутттстжсрстжвжтоооннопяпяпоопяппонммлкйиихфдбю©©©©©©╬╬╫╫╫╫╫©ююю©╬╫╫╫╪╩╨╨╨╨╨╩╪╫╫╪╨╨╫╬╪╨╧╨╧╧╧╧╦╦╨╧╨╨╧╨╩╧╤╦╦╧╨╪юцфееффффгхмммлйиклонопсжьывурпонкигфда╫╩╩╪╧╨╩╪╩╩╩╩╨╦╦╩©ю©©╫╫©ю©╫╬юююююаабцбцддцбббццббцдддедцбдгххфгийигяwuмдеддффффгфеефггггггхйклкклммлкхб©бцююдццбббцдехкммнояяяярррряяяппяпооппяяппяяпрсстууууужвьызэщщэшшшззыжусрсссртрртсяпряпопппясрсттссстррпйдюююаааааааабббаааабюаццбаббююю©©©юа©╬╬╬©©╬╫╪╬©╬╬©беддццдддддддедаааббааббцдфеедеефгееефхляттсрпонопррстувьыывуссрпокигггфеедцаа©╬╬©╬©©юбдцбаюююю©╬╫╪╩╧╦╤ЁЁ╢╤╢Ё╡╡╠╡╢╣╢╡╠╡ЁЁ╡╠╠╠╠╠╠╠╠╟╞╞╞╟╟╟╠╝╜╝╞╟╞╜╜╟╝╚╚╜╝╞╝╜╝╞╟╟╟╞╞╝╝╝╝╝╝╝╝╝╜╜╝╝╞╠Ё╟╝╚╛╝╟╠╟ЁЁ╢Ё╡╡╡Ё╠╟╝╛╛╜╜╜╘╘╗╖╖╖╕╔╓ёё╓ё╒╓╗╔╖╔║║╔╔║═║═÷²²÷║╒═²°²·÷÷°°⌡⌡°·═║║═··═ё╔╕╘╚╛╝╟╝╝Ё╦ада╬╩╨╩╩╥Ё╟╝╝╞╠╤╦╧╧╦╦╥╦╤╥╨╫╬╪╩╩©аццдфхиийкккммллййиффгефецабццбааю╫╪╪╪╩╪╬╬╬╫╫╬©бцдеееффгггффилмклмнпррясссссррряпопрсссяпнлйккййхйлигфееедаюааюю╬╧Ё╝╜╜╞╞╞╞╞╞╜╚╗╙╙╙╘╘╙╜╞╞╝╚╖╕╗╘╙╖╗╚╙╖╖╗╕╕╗╙╙╘╗╖╕╔╕╖╕╕╔╓╔╔╓╒╒ёёёё╗╖╕╕╗╘╙╙╚╛╜╛╙╘╘╚╛╙╘╙╙╘╙╚╛╚╚╛╛╚╛╜╚╚╛╜╜╝╝╝╝╝╞╠╡Ё╡╡╟╞╞╠╠╞╝╝╜╞╟╞╝╜╜╝╞╟╠╠╡╡╠╠╣╡╡Ё╡Ё╣ЁЁЁЁ╡╟╟╟╠╟╠╠╡╠╠╡ЁЁЁ╣╦╧╧╨╪╫╫╫╫╪╩╩╨╦╦╩╬юююаюаббцдефийклнояррсужьыььыжтсрртжурясжьвтяпннопяряяяооппоннмллкиххфдбю©©╬ююю©©╬╬╫╫╪╪╫╬©©ю©©╬╬╬╬╫╪╫╪╩╩╨╨╩╩╨╨╨╪╫╪╨╨╪╨╧╧╨╧╨╩╧╧╧╧╨╩╨╥╦╦╦╦╨╬бецефффеееилопоннопппппржььжтсрпмкгххд©╩╩╫╧╧╨╩╫╫╫╫╫╩╩╬ю©╬╫╬╬©ю©╬©аюююабцддбцддцбббедцббцдегфдбцфххффхихгяwuнефеефффгггфффггххххикллккклллкйфццбюаецццбццддфймннпяяяяррррряряпяяпяряряяярррярсттууужвьызшэщщэшззыьвусррстсясссттряяряяпппяярсттссстпомхцюабааааббббббббааааабццбаабююю©©ююю©©ююю©©©╫╬╬╬╬юбеедццдееедддедааббббббцццдддддеефгффгйнясссяоммноярстжвььвуряяпнлйиггфееддбюю©╬╬©юабцееедда©©©╬╫╫╩╨╨╧╤╢Ё╣╥╢Ё╡╡╠╡╢╣╢Ё╠╠Ё╡╠╠╡Ё╢Ё╡╠╟╟╠╠╟╟╟╠╡╠╞╜╜╝╞╞╞╞╛╙╙╛╝╜╜╚╛╜╞╟╟╟╞╝╝╜╜╜╜╚╙╗╗╗╘╙╛╝╠╟╜╚╘╙╙╚╚╞╟╟╟╞╟╠Ё╜╝╜╘╗╙╚╙╕╕╔╔╔╓╒║ё║║ёё═ё╖╓╓ё╒ё╔ё÷═║╒═÷·÷═╓║·°°·÷·°⌡  °÷║╒╒═÷÷║ё╕╕╘╛╜╝╟╝╝╡╥юцю╫╩╦╦╩╥╡╠╟╞╞╟╣╥╦╧╦╥╥╥╥╦╨╫╬╪╪╪©ацццфхиийкккмнмлиииффгеедбабцццабю╫╪╫╪╨╩╫╬╬╬╬╬╬ацдееефгххххийлмммноярррссссрряяяпнояссряпнкйклкихкмйхгефедааббю╬╩╤╠╝╜╜╝╜╜╝╞╟╞╛╘╙╙╘╘╘╙╛╜╙╗╕╓╔╕╕╕╓╓╕╕ёё╓╒ё╕╗╕╔╕╔ё╒ё╔╖╖╖╖╗╕╔╔╓╓╓╓╓╖╖╗╘╙╚╚╛╜╝╞╝╛╙╙╚╛╛╛╜╛╚╚╜╝╝╝╝╝╝╝╞╝╞╞╟╞╝╜╛╞╞╟╠Ё╢Ё╡╡╠╠ЁЁ╡╟╟╝╞╟╟╞╝╝╝╜╝╞╟╠╠╟╞Ё╞╝╞╞╡╢╡╠╠╠╞╝╜╜╝╝╞╟╟╟╠╡Ё╡╡╢╥╦╦╨╪╩╪╫╫╬╫╫╫╪╪╬юю©╬©юююацдеегхийлнпрярсувььььжутррсжжсяятввжтронояярпппнноонмллккихфдцбаюююю©©©©©╬╫╫╪╪╪╪╫╬©©аю©©©©╬╫╬╬╫╪╩╩╩╩╩╩╪╫╬╬╪╩╪╧╦╧╨╨╨╩╦╧╧╧╨╩╨╦╧╦╥╥╧╪©аццдддддефхмярсрряяряяястььвжтямйгхифю╫╪╫╩╩╩╫©ю©╬а©╬©©╬╪╪╬©©©©©©аюююабццдбцддццддфедббцфххгфддгхгффгххгяxuнфгефгффгггфффгфгийййклллллллййккиебацдцццццддддхлмнпяяяярсссррряпяряртряярррссярстуужжььышэщщщэшзыьвутсрярттрпсссттряяррряяяяяяррррсстпнкфбюабааабббббббббаааааббббаююаюю©©©©©╬©©©©╬╬╬©╬╫╬юбцддцццдееедддецаабббцдддцццддееееехггимпррсрпнммнопясужвввсряяяпмййигфеедцбаюююююбццдефеддцю╫╬╬╫╫╬╩╩╩╨╥╣╢╣╣ЁЁЁЁ╡╡Ё╢╢Ё╠╠╡╠╟╠╠╡ЁЁ╡╟╟╟╠╡╠╟╟╠Ё╡╟╝╝╞╠╟╞╞╜╛╜╝╞╝╛╚╛╝╞╟╟╟╞╜╛╚╚╛╛╙╘╗╖╖╘╘╙╛╞╝╜╛╘╕╔╔╕╛╛╜╛╚╛╝╟╞╟╝╘╕╕╕╓╒║║║═÷²°═··║═·═╔ё══╒ё║÷·²·÷÷÷·÷═║═²⌡°═╒║·²⌡⌡°·═║║═══║ё╕╖╖╛╝╞╞╜╞╢╤©а╬╪╨╥╤╨╤╡╠╟╟╠╡╣╥╧╧╦╤╥╥╦╦╨╪╪╩╪╫©бцццегххиййкмннлййиффгедцбббцццюа©╫╪╬╫╨╩╪╬©©©╬╬абдеддфгхххийкклнноярссрсссрряяпяоноярряяпнкйкллихкнлихефедббббю╩╦╢╠╞╝╝╜╛╛╜╞╟╞╛╘╘╗╘╘╙╙╘╘╖╔ё╓╔╔╔╔╔╒║║÷══··══·÷║║··═╒╓╔╕╕╖╓╔╕╔ёё╓╔╖╘╙╚╛╜╜╜╝╞╞╞╝╜╚╙╛╛╝╞╝╛╜╞╟╟╠╠╠╠╠╠╟╠╡╡╡╟╞╝╟╟╠╡╢╢Ё╡╢╡╠╡Ё╡╠╡╡╡╡╠╟╝╜╜╛╛╜╝╞╞╝╛╞╚╚╛╜╠Ё╠╞╟╟╝╛╛╛╜╜╝╞╟╠╡Ё╢╡╡Ё╣╤╤╦╨╧╨╩╪╫╬╬╬ю©юббю©©ююююбцццефгхймпрпяртужвьвжуутрртутяпясвыьурпппяяооонмнонмлкйигедаааааааа©©©©╬╬╫╫╬╬╫╫╬©ююаюю©©╬╫╪╪╪╪╪╫╫╬╬╪╪╫╬©©╫╪╩╧╥╦╧╧╧╨╦╧╧╧╨╩╩╨╧╦╦╦╧╨╩╪юацдеефгфхляуььвтсряяряяужвьжсолйййхебю©╬╫╫╬©ю©©ю©╬╬©╬©ю©©ю©©ююааааббббцддееффгхгфеддфхйххгффххгхгхииисyuнфгффгфффггггггфхйкллллммннмлкйкннхдцдцдццдееедцгклнпяяярссссссрппрррстяпясссстрстужвввзшэщччщэыьвжжусрппярссяоррсссяпппярярссряяяяррстяниеаююааабббцццбббббаааабббааю©ааюююю©©©©юю©©©©ю╬╪╫ацддцбаабцддеддецаабабцдеддцддеффффеффхлпссряяпнммопяртужжутяппяполиххгедецбаююбббцдфееффдццю╫╩╪╫╪╫©╫╪╪╩╧╤╢╣Ё╡╡ЁЁ╡╠╡╢╢Ё╠╠╠╠╟ЁЁ╡╠╠╠╡╡╟╠╠╠╟╟╠╡╠╠╠╠╡╡╞╚╜╜╜╜╝╜╛╚╚╚╚╛╛╛╛╛╙╘╗╘╙╚╙╙╙╘╙╙╘╗╙╛╚╛╚╗╓╒ё╓╖╗╗╖╔╔╕╗╛╛╙╖╓ё╒═²²°°°⌡ ≥²°°·²°·║║²·╒ё·°·≥ ⌡°²²÷══║÷⌡°÷║║═·°⌡°²²²·÷═║║╒╔╖╕╛╞╞╞╝╟╣╥╬ю╬╪╨╥╤╨╥Ё╡╠╟╠╡╢╤╦╧╦╥╥╦╧╧╧╨╨╧╩╫╬аддцегххиййкмннмййифгхфдццддццд©©╫╪╫╫╪╨╪╫╬©ююю©юбдеддфгфффхййййнопясссрррррряппяппярсряппнкйкккигйнлйхееедццца╬╧╤╢╠╟╞╝╜╝╜╜╝╝╜╚╘╙╙╙╚╚╚╘╖╖╔ёё╓╓╔╕╕║══···°°°⌡⌡²÷÷·²·═║║╒╒ё═╒ё╒÷÷║ё╕╗╙╚╚╚╛╜╞╞╞╞╟╞╝╛╜╜╞╟╟╝╞╟╞╟╟╠╠╡╠╞╞╞╟╠╠╠╠╟╡╡Ё╢╣╣╢Ё╢╡╟╠╠╟╠╠╞╟╟╟╞╝╜╛╚╚╚╛╝╝╜╚╜╘╘╚╛╟╡╠╝╝╝╝╜╜╜╜╜╝╞╟╠╠Ё╢╠╠╡ЁЁЁ╣╥╥╥╦╧╩╪╫╬©©ацдбббююююааббцефгикояпяррсужьжжввусстутспояжззьтяппппнооммннммкихфдбаююаааю©╬╬╬╬╬╬╬╫╫╫╫╫╫╫╫╬©ю©©╬╬╫╪╩╫╫╫╫╫╫╫╫╪╫╬╬╬╬╫╩╨╦╦╦╧╦╦╧╥╦╦╦╧╩╪╩╧╧╧╧╧╧╧╦╩╬беггххиилпуьыыыжсппярррсжввурпллкйифца©╬╬╬©©©╬аю©©©©юбюаю©©аббббццццццддееефхихгффгиккгхгфгииххгххххрyuнфхффгффггхххххгиклллммнноннмлкммнмиеддееееффедцгклнпярррсттттсряяррррсппятуттууужвьыызээщччэзьжуутттряпяяррряярсссрряппррррссярряяяррсямгцаюююаабббцццббццбббаабббббаюааююааю©ююааю©юю©╬╫╬ацдецбаюабцдеееедбацабццддддееееффффдфйостсяооонннопяртжжусроооомкихефеццдцааабдедефхфффецбц©╪╩╪╩╧╩╬╫╪╩╩╨╦╤╣╢Ё╡ЁЁ╡╠╡Ё╢Ё╠╠╠╠╟ЁЁ╡╠╠╠╡Ё╠╠╠╠╠╠╠╠╠╡╡╡Ё╡╝╘╙╙╚╚╙╘╗╗╗╖╖╖╖╗╗╗╗╖╕╕╖╗╘╘╗╗╘╘╗╕╖╘╗╗╗╕ё╒║║║╒ё╒═÷═╒╔╒║║═·°⌡≤≈≈≈≤≤≈√≥   ≥≥⌡°²°²÷═²°²≥≥   ⌡²·║╒║° ²÷·═·°°°²²°°÷║╒║╒╔╗╖╛╝╝╞╞╟╢╦╪╬╫╫╨╥╦╨╦╣Ё╠╞╟╡╠╢╥╦╥╥╦╧╧╧╨╨╧╦╨╫╫адеефхихииийлмммййиффхфдццддццдю╬╫╬╬╫╪╩╫╬©юааааюцееддфхфеехйкклнноясссрррррряяяпярссссрппнлкккйигйнлйхедедццб©╪╥╤╢╡╟╞╜╜╞╝╜╜╝╜╚╙╜╛╚╚╛╚╘╖╖╔╓╓╓ёё╓╔║║║·²²⌡²°°²°°²·²²····÷═÷÷÷·²²·÷ё╔╗╘╗╗╘╙╜╛╛╛╜╝╝╝╝╝╞╟╟╞╞╟╝╞╞╟╡Ё╠╜╝╝╝╞╞╟╠╠╡Ё╢╣╢ЁЁЁЁ╟╞╞╞╞╞╞╜╜╝╝╞╝╝╜╛╚╚╛╝╞╝╜╛╘╘╚╚╝╟╞╛╛╛╜╜╝╝╝╜╝╞╞╞╟╟╠╡╠╠╡╡╡╢╤╤╤╤╥╦╨╩╪╫╬юцдццдббббааббцдфгхилояяррстжвввььжттутттрпяуьзыжсяппянонллмлкйигедцбаюююаюю©╬╬╬╬╬╬╬╬╫╫╫╫╪╩╩╫╬©©╬╬╬╬╪╪©©╬╫╪╩╩╨╪╬©╬╫╫╪╨╧╧╧╨╧╦╦╧╥╦╦╦╧╩╪╪╩╨╨╨╨╨╧╦╧╩©бегхикмоястжьыьусяярсяртжжжутннмлйхец╬©©©╬╬╬©баюю©╫╬юааю©©абббццццццццдддддфгхгефиййиггфегиййиггхххрxtнфхффгфгггхиииихйклмммнооннммммнлмомгцеффефффеддгклнпрррсстттттряярряярппржвжужввьызшшшээщщщзжтсссстссряррррррстттссррярссряряосряяяяррпкеаааааааббцццдццццццббаббцццббааююабаю╬©юю©╬╬©╬╬©©юбдфдцааацддфееедббцббббццдееддддеффдгляттрпннонннопрсужжтрпоннлйхгфцддбцдцаббцефеефхфефдббц©╫╩╪╧╥╦╪╪╨╨╩╩╧╥╥╣╢ЁЁЁ╡╡ЁЁ╢╢╡╠╡╠╠╞╟╠╠╠╟╟╞╡╡╡ЁЁЁ╡╠╢Ё╡╠╠╠╝╘╘╙╚╙╗╕╕╖╔╔╔╔╕╖╗╘╖╖╕╔╔╔╖╗ё╓╔╕╔╓╔╖╕╕╔╓╒║÷··═║║÷·═╒╒·°²°≤∙■■⌠⌠⌠■∙∙∙√≤≤≈√≈≤≥≥⌡²°°²°⌡°⌡ ≥≥≥ ⌡·║═° ²÷═÷²°°²÷·²⌡÷ёё╒╒╔╘╗╛╜╝╟╟╟Ё╦╩╪╫╫╧╤╦╨╦╥╣╡╞╞╟╟Ё╤╦╥╥╦╨╨╨╩╪╨╧╨╫╩юдефгийхийийлмллиихеегеецбццбцец©╬юю╬╫╫╬╬©юабббацефеегихффикмнпмноясссррсссрряяоясттсррпяомллкйигймлйифдддццб╬╨╥╤╢╡╟╝╜╛╞╝╛╜╜╝╜╛╜╚╘╗╘╘╖╔╔╔╔╖╔╒║║╒═╒╒·⌡⌡⌡°°²² ≈≤⌡°°²²²²·÷║═···÷÷÷╒╔╖╗╖╖╗╙╙╘╗╗╘╙╜╝╞╝╝╞╟╝╝╝╞╟╟╡╣╤Ё╝╟╟╞╞╟╠╡╡╠╡ЁЁ╡╠╠╠╠╞╝╞╞╜╜╜╠╠╠╠╟╞╝╜╜╛╛╜╞╟╟╞╛╙╙╙╙╛╝╜╙╘╙╚╜╝╝╜╜╝╝╝╝╝╝╞Ё╡╡ЁЁЁ╢╥╤╤╣╤╤╦╧╨╪╫©бццбцддддббцццефггхймяррррсжвььыывуувстутрртвзывтяппяннмкйкйигфдцбццбюююююююю╬╬╬╬©╬╬╬╬╬╬╫╪╪╫©©©©©©©╬╫╫╫╫╫╪╪╩╩╪©©╬╫╫╩╧╧╧╨╩╨╦╦╧╤╦╦╦╧╩╫╫╪╩╨╨╨╨╧╧╦╧╩╫юдхкмпттрртввььжсяяррсттууужяппнлйге╬©ю©╬╬©ю©©©ю╬╫╫©юаю╬╬абааббцццццеееддефгхфдфийхфгфедфикккиииийсyuофгххффгхиихгггйййлннннлмнонммлкмнммлхцдддддееедфилнпстссррсуутссстутсяпружввььыызшээшзшэщэзыжтсссссррррссрряяртрпясутсястсряяряяяппястмгбююааааабцдеффдцццбцццбабцдццдббббааааюююююю©╬©©юабцццдцббдефффффецаббаааббццддееццеггдгмртромннноппоояуьурпоооонкихфцбцдбаюацбефффгхгфгфцаабаб╬╩╨╨╧╦╧╨╥╣╤╥╤╥╧╥╥╤╢╡Ё╡╠╢Ё╡╡╡╡╟╞╟╡╡╠╠Ё╢╢╣╣╣╤╤╣Ё╠Ё╡╟╞╟╞╚╖╘╕╔╕╕╓╓╖╘ё║╓╓╕╗╗╔╔╓ё╓╕╕╓╓ё║╒ёё╒╒╕ё╒╓╓║² °÷║═÷·═╒║·⌡ ≥√▓▌█░⌠▒▐▐░░▓⌠■■■■√√≤ ²·°≥≥⌡⌡⌡⌡⌡ ≥≤≤  ⌡°°²÷║·÷²⌡²··║ё╔╕╔ёё╔╖╗╙╛╛╜╟╠╠╥╨╩╩╪╨╥╧╪╧╤╣╢╡╠╠╟╠╢╥╥╤╦╨╧╧╨╨╧╨╨╨╫©бефхикххиийклнкйиигеегеццддббдецаю©╫╪╫╬©юаюааб©юцфхгхиххийлмннопясссяпссссряяяпрряяссясянмлллкийкмкхеедддца©╪╩╣╢╠╟╞╞╝╝╝╜╛╝╟╟╝╛╙╛╛╗╔╔╕╖╕╓╕╗╗╔╒║ё╒║═÷·²°²°⌡⌡≥≈≥⌡⌡ ≥⌡·║÷⌡²══² °═╒║╔╗╘╚╜╛╙╛╚╘╘╙╚╜╝╟╡ЁЁ╡╠╠╠╟╡╢╣╣╢ЁЁЁ╡╟╞╟╠Ё╢╠Ё╣╤╤Ё╞╜╞╝╞╟╟╟╝╛╞╟╠╠╠╠╟╞╞╜╛╜╝╞╟╠╜╚╙╛╜╜╝╠╛╚╙╙╛╜╜╜╛╜╝╝╝╝╝╞╝╠Ё╡╠╡ЁЁ╢╣╥╥╤╣╤╥╩╪╬бддегддеффддецдегхиййнорсрпсжвьыывжжжжжутссствжжжсономонмлкифддццццбааюааббаю╬╬╬©╬╬╫╫╫╪╨╩╪╫╬╬юю©©юю©╬╫╬╬╫╪╪╬юаю©╬╩╨╨╪╩╪╩╨╧╦╥╥╤╤╥╦╧╩╪╫╩╨╨╨╨╨╨╧╨╨╨╫юцгймятсяястрвзыжусрпноржьжтсяпяокхигцююю©©©©ююю©╬©юаюююю©ацддцццдефефгггггхфефгиигефффхклкимллкййрuvпфгххггффффгггелллмнонмлмнннмммноомммкхфеддефффдфхймпртсттстжутссссттсрртжььыызыызшээшзшээзывурссссссррррррряяяяяпрсттсстууссстррряррррлгбаааабццццццдддццццццццббдцббцбббббааааююююю©╬©©юацддддцбцдееееффецаббааббццддцееддефегкясромлноооопппсувурпнлннлхффдббцбаююбдцфгггхххфгфдббббдю╫╪╪╨╧╧╧╤╢╢╣╣╤╦╥╦╥╣╢╢╡╟╡╠╠╠╠╟╞╝╠ЁЁ╡╡Ё╢Ё╢╢╢╣╣╢╡╟╠╟╝╚╙╙╙╘╖╔╓╔╔ёё╕╖╒═║║╒╓ё╓╔╔╔╔╖╕╔╔ё║═║╒║║║║║ёё║··²÷═÷·²÷║÷°   ≈▒█░▐▌█▐▒░▌▌▐░▓⌠■√≈√√≥⌡⌡≥≈≤⌡ ≥≤≤ ⌡²⌡°²°⌡⌡·║÷═²⌡²²÷╒║ё╔╔╓╓╕╗╘╚╛╜╝╟╡╡╥╨╨╨╩╨╦╨╫╦╢ЁЁ╡╠╠╠╡╢╤╤╣╥╧╦╦╧╧╧╧╨╩╫©бефгийхиииийлнлкййхффгедцддбцдецббю╫╫╫юааааабббцегхийлйихийлмммнпрттсссттсррррпярярстрряомлкллкйккифееддца©╪╧╦╢╢Ё╡╡╠╞╝╞╝╝╞╟╟╞╜╙╙╙╖╕╕╕╔╓╓╓╕╕╔ё╒╓ёё║÷·²°²⌡ ≥≥≤≤≥⌡⌡ ⌡²═÷°°··°⌡²║ё╔╖╘╘╙╛╛╚╛╚╙╚╚╛╛╛╝╞╠ЁЁ╢╢╢╠╡Ё╢╢╢ЁЁ╡╡╡╠╠╠╠╠╡╢╤╥╤╢╠╞╝╝╝╞╟╞╝╛╟╟╟╟╟╞╞╝╝╛╚╜╝╝╞╠╝╛╛╜╞╞╟╠╜╛╚╚╚╛╜╜╛╛╜╜╜╜╝╝╟╡Ё╡╠╠╡╡╡Ё╣╤╤╤╥╦╨╩╬бцббдеефгфедфеефгхиййлнясрярувьызыьввжжутррстжжжвтпннммлйиихедддддцббааааааю©©©©©╬╬╬╫╪╩╨╨╩╪╫╫©ююю©╬©©╬╬©╬╫╫©юааю©╫╩╪╫╩╪╪╩╧╦╦╦╧╧╧╧╨╨╩╩╪╩╩╩╩╩╩╨╩╨╩╫©аеинятсяррсяуьььвжтрппятвжуусррпмлкифцбцбббююю©©©аббааббабдддцццддеефггггххгфгхиихфггхикккймлкиххяvwяггхххихффгийигммнооонллмнннммнппнммннмхфдефхххфффхкняртужуужжуссстууууужьыззззыызшээшзшэзьжусярсссссррряпярряппяррссррртттсрссссрссрпокгбабббцддддццббддццццццдццдцбабцццбббаааююююю©©©©юбцдедццбцддддеффецббббббццдддцдфеддедкптуплклнооооояружутрпмймлиебббабаю©юацедгххгхгфдффдццбада╬╫╪╩╨╨╨╥╣╢╢╢╣╤╤╥╥╥╤╤╢Ё╡╡╡╡╡╠╟╞╠Ё╢╢Ё╢ЁЁ╡╡ЁЁЁ╡╞╝╛╜╛╘╕╕╗╘╔ё╒╓ё╒ё╔╕═÷÷÷═║═║╒╒ёё╓╓╒╔ё═·÷═══²·║ё╒═÷═°²··²²═╒÷²⌡°²⌡■▐░▌▀┼▄▐▐▌███▌▐░▒▓▓▓■≤≥≤√∙ ≥≈∙√≥°·°·÷²  ²║÷═·°²²·╒·║ё╓╓╔╕╗╙╛╜╜╞╡╡╡╥╧╧╦╨╨╧╩╬╦╡╠╡Ё╡╠╠╡Ё╣╣╢╣╥╥╥╦╦╦╦╨╪╫©бдегикйййййкмнлкййхфефедцдцббцццббю╬╬©аааааюааееегггилкйххиклллнпрсттсстттсрррпярррттсряпмкйлмкйййхееедцбю╫╩╦╥ЁЁЁЁЁ╡╟╝╝╝╞╞╟╞╞╞╙╙╘╖╖╖╕╓ёё╓ё╓╔╓╒╒ёё╒═·²²·⌡≥≥ ≥≤≤°²²°²÷÷·°°°⌡°═ё╔╗╘╘╗╘╙╚╚╛╛╛╛╜╛╙╘╜╝╟╠╠╠╠╠╟╠╠╡╡╡╠╠╠╡╡╡╠╟╞╝╠╡Ё╢╢╡╠╞╝╝╞╞╟╟╞╝╟╟╟╟╞╞╝╝╟╝╝╞╟╠╡Ё╞╝╝╝╟╡╠╞╝╜╜╛╚╚╜╜╚╛╜╜╜╜╝╞╟╠╡╠╟╠╡╡╠Ё╣╤╤╤╥╦╧╩╬абаююддеггффхгггххиййкморсррсувыыыьввжжжусрстуувьжянмлкигфффдедддддцббаюююю©╬ю©©©╬╬╬╬╩╩╩╨╨╩╪╫╬юаю╬╫╬ю╫╬╬╬╫╫╬ююаа©╫╪╪╫╩╩╩╩╧╧╧╧╩╩╨╨╨╨╨╨╪╪╩╩╪╪╩╩╩╩╪╬╬юдиояссрссрпсувьыыьусяяртжвжусяяяомкгдццбббаа©╬╬©аццццддццеееддддддфгхххххихххиййхгхийккккклкйхггяvxрггггхйихгхкллкмноппонлнноннммнпонллмннлифегхиххггхйнпртжьвжжжууууужвььььызззыыыьыызшзышзыжутсяррссссррряппрсрпярссряррстттсрррттсстрнкйфцбцццдцццццддддддццццддццдцбабцццбббааааююююю©©©юбдеедцццдддддеффецббцббцццдддцдееддеемяутпллмноооноясужурпомкмйфб©©©©©╬╬©ацдеегхфеедцбддцццбюа©╫╪╩╨╨╧╧╦╥╤╢ЁЁЁЁ╢╣╣╤╤╤╤╢╢╣╣╢Ё╠╟╠Ё╣╣╣╢ЁЁ╡╡╟╟╞╝╛╚╖╙╙╗╔╔╕╕╓╒║║║╒ё╕╓═÷═÷║ё║·÷÷÷════ё╒═··÷÷·°·═╒║═÷÷⌡°°°°²═╒·²°°·²≤▓▐▐▌▄┼▀█▐▀┼┼┼▀▄▄▄▐░⌠√≤≤√∙≥≈√∙∙≈≥⌡°·÷·°⌡²═·═÷²·²²═·═║╒ё╓╖╗╛╛╜╝╟╡╡╡╦╧╦╥╧╨╨╪╪╥Ё╡ЁЁ╡╡╠╠╡╢╢Ё╢╤╦╦╦╦╥╥╨╫╩©бцегйллкккклноккйигфееддццббббаюю©╬╪╬ю©©©╬╬╬©©цбцццбдфиххийлммнояррррярстсряяяпяяррссрряолййкмййиигедецба©╫╩╨╧╡╡╡╡╡╠╞╝╜╝╝╝╝╜╝╞╚╚╙╗╖╖╕╓╒╓╓ё╓╔╓║═╒ё╒÷·²··⌡  ⌡  ⌡²··²°²··°°⌡°·╒╔╕╖╗╗╗╗╙╚╚╜╜╛╛╛╚╘╖╙╚╛╜╛╚╚╚╜╛╛╜╜╜╜╜╝╝╞╞╞╝╜╜╝╝╝╝╝╜╛╛╛╛╜╜╝╝╜╜╟╞╝╞╞╝╝╞╟╟╟╠╡Ё╢╣╟╠╟╟╡╢╡╝╞╟╞╜╚╚╛╜╛╜╜╜╜╜╝╞╝╟╠╟╟╡ЁЁ╡╢╤╤╤╣╤╤╧╩╫©ю©©©абдфггикииииииййклорсссрсувьыьввжвьжсрстстжьвсолйхгфееедееддддцббаю©©©©©юю©©╬╬╬╬╪╫╫╪╩╩╪╬©ююю╬╫╬©╪╫╫╪╪╪╫╬©аа╬╪╩╩╨╩╩╩╨╧╧╧╨╨╨╨╨╨╩╩╩╪╩╩╩╩╩╩╨╩╩╫╬╬юейоярртутрррствызшьжтяпрувввтяясромиебаюабцбю©╬©юаддефеддеффедддддфгхххххиииииййихикллййкмллкйххрwxрггггхйггххийкллмоппонмоппоммммоонммлммнкхфгххгкйихймпртвьввввжььвььызшзззззыыььввьызыызывутутрррссссррряпярсряррсряясууууутсррутсссялихеццццддцццддддееедддддддццддббцццббааабааююююю©©©юбцддцццддддддеффецббцббцццдддееедцдфиярсромллнннннортужтпммннлиеа╬╪╪╫╪╫╬юбдеефггеццбабцдцццбюаю╬╪╨╨╦╥╤╥╥╥╤╢Ё╡╠╠╠╡Ё╢╤╥╣╤╤╤╣╢╡╠╡╢╣╤╤╢ЁЁЁ╠╝╛╙╙╘╘╕╖╖╔╓╓╓ёё║═÷═╒╓╖╓║══÷║ё║═÷÷··÷═║═║═··÷·°°²÷═║║÷²°°⌡⌡⌡²÷═°⌡≥≥ ⌡≤■░░▐█▀┼▀▄┬┬┬┴┼▄▄▄▄▐⌠∙√≈≈√√√√√√≈≈≈ °···²²··║═÷÷²°÷║║║╒ё╔╗╘╛╜╝╞╠╠╡╡╦╧╥╤╧╨╨╪╥╤╢╢Ё╡╠╡╟╟╠╡ЁЁ╢╤╧╦╦╦╥╤╧╫╪юццдфйкллккллммккйихгфецццбааааа©╫╪╨╧╩╬╩╩╨╨╩╩╪╪╫╫╬©©╬©адефхклллнояряпппярссряппппярряяярпмкккккихиихедецбю╬╪╩╨╧╢Ё╡╠╠╠╟╞╛╜╝╜╛╛╜╝╛╜╛╘╕╕╔╓╒╓╔╓╓╔ё══║╒║÷²²·²²²²°⌡°·°··°⌡°²·°⌡⌡°÷╒╔╕╕╖╗╘╙╚╚╚╜╛╚╙╙╘╖╕╔╖╗╘╘╗╗╗╕╔╔╔╕╕╕╕╖╖╗╘╙╙╙╚╘╘╘╗╗╖╖╖╖╗╗╗╗╗╗╗╜╚╚╛╜╛╛╝╜╜╝╞╟╠╡╡╠ЁЁ╡╢╣Ё╝╡╡╠╞╜╛╛╛╜╜╜╛╛╛╜╝╝╟╟╟╟╡ЁЁ╡╢╤╥╤╤╤╥╧╩╫╬╬©ююююбеффхйиииийййкйкмпрссрстжвыыьвжвьжсярррсуввтплгфффффееедддддцббю©©©юююююю©©╬╬╬╪╫╫╪╩╩╪╬©©©©╬╬╬╬╪╪╪╪╩╪╫╬юба╬╩╨╨╧╨╨╨╨╧╧╧╨╧╧╧╧╨╨╩╩╪╪╩╩╪╪╩╩╨╩╪╬©аглппяртжустряртвышзыжсппсужвуррттяплгдбюабцббааааадеффеееееедддцццггххгххиииийййихклмлййкмммнмкйсwwрхихггигххххикмлмоппоонпппомммнооопомлмомйхгггхккйийлпрувьввьььызззззшээшшшззыьввввьыыызыжттутрррссссряяяпярсррярряясуьттттссррутсряокигеццдцдеддддддддееедддддцццддццдцббааабббаююююю©©©юбдддцццдддддееффецббцббцццдддеееддеинтсяонлккнммноярсттрнклнойгцю╫╩╩╪╪╫©аццддфгфцаааабцццццбюба©╫╨╧╦╤╣╥╧╧╧╦╥╤╡╠╠╠╡╡Ё╣╤╥╧╧╦╤╣╢╢╢╤╥╣╡╠╠╠╝╚╘╖╖╖╖╖╕ё║║ёё╒ё║═÷═╒╓╔╒══÷·═╒÷║═··²²·═÷║═·²²° ≥⌡²·═║═²·²⌡⌡⌡°°² ⌡≥≈≈≥≤∙■▐▄▄█▄┼┬┴┼▀▄▀▀▀▀▀▌▒⌠■∙√√■■∙√≈≈≈≈≥⌡°²·²²²·╒╒══²°÷╔╓ё╓╕╗╙╚╜╝╞╠╠╟╠╡╥╦╤╤╧╧╦╨╢╢╣╣╢╠╟╠╟╞╟╠╡╡╢╣╧╦╦╦╤╣╦╪╬бдцбехйлккклллкллкйиигфцдцааааюб©╪╨╧╥╦╨╧╦╦╦╦╧╨╨╦╧╩╫╫╪╬аюадгйккклмпппоппярсряпппппяррпппрпмккккйххиихеддцбю╬╩╧╦╥╤╣Ё╡╠╠╠╟╝╝╝╜╛╛╜╝╛╛╚╗╔╓╓╓ё╓╔╔╔╓╒÷╒ё╒║÷²²²··÷÷·°²═⌡²²⌡  ⌡⌡°⌡°·║╒╓╕╖╗╘╛╜╛╚╛╛╚╘╗╖╖╕╔╕╖╖╖╕╓ёё═÷÷÷═║═÷══║╒ё╔╕╖╔╔╔╓╓╓╓╓╓╓╔╓╓╓╔╔╗╕╖╘╘╖╖╘╗╙╚╛╛╝╞╞╡Ё╢╢╣╣Ё╠╢╢Ё╡╟╞╝╜╝╝╜╛╚╚╛╜╟╠╡╠╠╡Ё╡╠╢╤╥╥╥╦╦╧╩╫╫╬юааююбдддегхиййккккйклмояряттувыыыьжжжусяпопярсуурнгфефгфефееддддцббаю©юаааюююю©╬╬╫╪╪╪╩╩╩╩╪©╬╬╬©©╬╫╫╫╫╫╫╫╬╬ацб╬╩╩╩╨╨╨╨╧╦╦╧╨╨╨╨╧╧╨╨╨╫╪╪╪╪╪╪╩╨╨╪╬юцинппппсжусусррртвзззыжсярсжжжутуттянйгдаюаццццдееддфффееедддццццццххххххииииийййиилммкййлнмнонлйсwvрйкйхгийиххйклммнопооооппонммнооопяпммнонлйхгхиийййилптжвввьзшзззшшззшшшзззззыьввжвьззззыжттутяррсссряяпппяяррррррррсужррссссссутсяомкйфдцддццдееееедддееедддеедццееццдцббаббццбаююююююююацддццбцццццдфеффецббццццдддддеееееглятрпмлкккнммнпрсссрпмкллкфдаю╬╪╩╪╬юаббабцддцю©юаааббааба©юа©╪╨╨╦╤╣╦╧╧╦╧╨╧╢ЁЁ╢╢╢╢╤╤╦╨╩╨╧╥╥╢╢╢╢╡╝╛╛╜╚╘╖╖╕╕╔╖╕╓╒╒ё╒║╒╒╒║║║║║║÷÷·²═╒══÷··°⌡⌡·═║═°⌡⌡ ≤√≥°²·÷÷²·²⌡ ⌡°°°⌡²°≤≈≥≥√■▐▀▄█▄┼┬▄▌▐▌▀┴┬┴┼▄█▌▒⌠■⌠⌠⌠⌠⌠■∙≈≈≥ °°⌡⌡²÷║╓ё║═··║╔╔╔╕╗╙╚╚╝╞╠Ё╠╞╟Ё╤╥╤╤╦╦╤╤╢╢╢╤╣Ё╠╠╠╟╞╠╠╡Ё╢╤╣╤╥╤╢╤╩╫бдббеийлкклмлкйллкйййифцдцбаббаб©╪╩╨╧╦╦╧╦╥╥╦╧╧╧╧╨╩╪╪╩╬баацфхййййлноонопярссряпппппрряппяпнмлккййиихфдцдаа©╫╩╧╦╥╦╤╢Ё╡╠╠╟╞╞╝╜╛╛╜╜╛╛╘╕╔╕╔╓╓ёё╔╔ё╒║ёё╒║════║═÷÷·²²·⌡²²°⌡⌡⌡⌡°°·╒╓╓╕╘╙╙╚╜╜╚╙╚╙╘╖╕╕╔╓ё╔╕╕╓╒═·²·²²·÷═÷²²²·÷═╒ёё╒╒╒╒╒ёёё╒ёё╒║║╒ё╔ё╓╕╕ёё╓╔╗╘╘╙╛╜╜╞╞╡╢╢Ё╡Ё╣╣╣╣╣Ё╠╟╠╟╞╜╚╚╛╜╟╠╡╡Ё╢Ё╡╡╢╤╦╥╥╥╦╧╪╬╬╬юаюююацццдфгхикллллклмлмпссттужьыыывжутсрпноонортсоигфффффгфеееедцццбаюаааа©ююю©╬╫╪╪╪╩╩╩╩╨╨╬╬╬╬╬╬╬©╬╬╬╫╬╬©©бдб╬╩╪╫╪╨╨╨╧╧╧╨╨╩╩╩╨╨╨╨╨╫╪╪╪╪╪╪╩╩╩╪╬аейоппоояттсутсссртвьызывтссстжвжтстяпнмйебадцбцдеффдфгедееддддддддеииииииййииййййййммлкййлмннонкирwvрклкигхкиггйллкноппонооооонмнопонопомнпнннкихийгийиикпуввввыээшззшшзыззыьььыыьвввжвызшшзыжтттспррсссряпоппяяяррсссссссррсстужжууусянлккфдцддццдеееееееефееееееееддееццдцббббццдбаююююююаабцдддцбббббцдфеефецббцддддддееддефгхмсряолкйкмнмлняттсрянлллйгдаюю╬╪╪╫юбцбююабабю╬╫©юаююю©©ю©╫╫╬╬╩╨╨╨╦╤╦╦╤╣╤╥╥╤╣╣╦╦╥╦╧Ё╣╦╨╧╦╥╥Ё╡╡╠╝╘╖╖╙╘╗╖╖╕╔╓╔╕╖╕╓╓╒═║╒ёё╒║÷·═÷═÷÷╒╔ё║═÷÷·⌡⌡°║╒═⌡≤≥≥√∙≥²²°²²²°⌡  °²·²⌡·²≥≈≤≈∙▓▐█▄▀┴┴▀┴▄▐▐▄┴┴┼┴┼┼▀▌▓▓░■▓░▐░▓∙≈≥⌡°⌡≥≥²═ё╔╓║÷·÷ёё╓╔╖╙╚╙╘╞╟Ё╢╡╞╟Ё╣╤╣╣╦╥╢╢╥╣╢╤╥╤Ё╡╡╟╟╠╠╠╡Ё╢Ё╢╤╣Ё╣╨╩юцббфклмлмнннлккккиийифдедбаббаа╫╩╪╫╪╧╦╩╨╦╦╧╧╧╦╪╪╪╪╩╨╬бццдфхийййлнннмнорсттсряяпопссяяяппполкккмкихеццдю©©╬╪╩╧╦╦╥╣Ё╡╠╟╞╟╞╜╛╛╛╛╛╝╚╗╔╕╗╖╔╔╒╒╓╓╒╒ёё╒║║║ёё╓ё═÷÷÷²°°°··²²²°⌡²·║╔╖╖╘╚╜╚╚╛╚╘╗╘╖╖╕╕╔╓╒║══║║÷²°°···÷║║═·°²·÷═║║║═══║╒╒ё╓═║║═÷÷═║╔ёё╔╔║═╒╒╔╖╖╖╘╙╙╚╛╞╡╡╟╠╢╣╣╤╥╦╥╢╡Ё╡╠╝╜╛╜╝╝╟╡Ё╢╣╣ЁЁ╣╥╦╥╤╤╤╧╪╬©©юю╬©©юбццдффгикмммммннлмптутстувьыььвжууспнммллпссплхфффефгффеееедцццбааааю©©ююю╬╫╪╫╪╩╩╩╩╨╨╪╬©©╫╫╬ю©╬╫╫╬╬©©ацб╫╨╪╬╫╩╩╩╨╧╧╨╩╩╩╩╩╩╩╪╪╪╩╩╩╩╪╩╨╪╩╪©бфкоппонорсрттуутрсжвышшывтсяруьжрятррсспйфдедбацдеееггедефеееефффггййййиийкииййййккмлкйийлмнннлихяwxсйиийййлййклклннопяяпомяпннооононнооннпооонкихгикллйкпуввышэшэчзшшшыызшвььжжввжьвжвввыэшзвттжвуутттутрппяяярсстттуттссттрсжьжтсттрпнлифбццдддццдееццдеффффеееееццддедцаццббббааааюююаббцбацддццббббцдеефдццбююбцддддддддфггйоррсянмллллноопртусснййкигеа©╫╪╩╪╬©аба©©юаю╫╬╬╬╫╪╫╬╬©юю©╬╫╫╫╫╫╪╩╨╧╧╤╤╣╣╤╤╥╥╤╥╦╨╨╩╨╧╣╥╦╦╥╥╣Ё╞╛╙╙╙╗╖╖╖╘╘╕╔╖╗╕╕╖╖╔╓ё║·÷═║║═════·°°²÷║╒═════÷²⌡°··°°² √   ⌡⌡°°°²²°²÷══÷║═² ≤≈√√⌠▓░█┼┴┴┴▀█▌▌█▄█▐┤█▄┼▌⌠▒▄⌠░▌███▐▓∙≥° ≥⌡²·ё╒ё╓╓ё╓╖╗╕╕╗╗╗╚╞╞╣╥╣Ё╠╟╡╣╣╤╤╣╢ЁЁ╢Ё╢╣╣ЁЁ╢╟╟╠ЁЁ╠╡╢╤ЁЁ╥╥╣╤╨╩╬ацегикмнннммнойклкифеефдаюаббб╬╫╫╬╪╧╦╨╧╥╥╧╩╨╨╩╫╪╩╩╪╬╬©ццдфийййкмоомлнорппстряяоппяяяяяпнояокикилкгдцддююаю╬╩╧╧╧╤╡╡╡╡╞╚╜╞╞╛╙╙╛╜╝╙╔ё╓╕╕╕ё╒ё╕╖╓║═╒╒║║ё╕╖╕╓╒║═·⌡°²°²··²°²·°═╓╖╗╘╙╘╘╚╚╙╚╗╓╓╕╕╔╓ё║÷··÷÷·÷═·⌡·²²·══·° °═╒║═·²°÷╒╒║═║ёё╒║÷÷÷║╒╓╓╓╓╓ё║═╓╓╓╔╖╗╘╙╗╚╝╞╜╜╞╡ЁЁЁ╢╣╣╢Ё╣╤╤╢╡╟╞╟╞╠Ё╡╡╣╥╦╦╦╥╣╣╤╥╤╥╧╫юю╬╬©╬©ааабдфггхикмнннопоооясусрсувьвьжтттсянмлклортуякфффеегффееедцбббццбаюю©©©©╫╪╩╩╨╩╩╨╧╧╧╥╩╫©©©╬©юа©©©╬╫╬юецю╫╩╩╩╩╫╪╩╩╩╨╧╦╧╨╩╩╨╨╨╩╫╫╫╫╪╩╩╨╪╬╬╬цкооряонопяясрсужтсссувыззьвртжвжутссрсттялихцбаацецфееикифцдефгфефхййййииийхгхкмммокйийлмлкккллкйрvxсййййййкййлллмнопппппоооонноооонммнннноппоонмкийкккийоуззшэшззэзззыыызшьыьжжвьввуувььзэззвуужжтжтррсттспяяррсссттуттсстттувжтстстрпнлиецдддддддеффдцдееффедддддбццдеедццббббааааааююаббдццдцббцццццддеффеддбюацццдееееееффгкястяомлллллмопясттрпмкккхфдю©╬╬╬©юааба©╬©ю©╩╪╪╩╨╧╨╨╪╫╫╫╪╩╩╩╪╫╬╫╪╨╦╦╥╥╤╤╤╤╥╥╢╣╥╦╧╧╧╧╦╧╦╥╤╤╢╡╟╛╙╘╗╖╖╗╕╗╗╕╕╗╗╔╓╔╔ё╒║÷²·÷══÷÷÷═÷÷·²°°÷║÷═║║·°  ²÷÷²°²⌡≈≤≥ ⌡⌡⌡⌡⌡·²²·÷÷÷·║÷²⌡≥≤≤≤∙⌠░█▀┴┴┼█▌▌█▄▀▀▀▄▌██░░▌█▐█▀▀▄▄▌░■≈≥≥≤ °²╒║═║║╒╔╘╗╗╘╙╙╚╛╝╛╠Ё╡Ё╡╠╡╢╣╤╤╣Ё╡╡ЁЁ╢╣╣Ё╡Ё╡╠╠╡╡╠╠╡╤╢╢╤╥╥╧╩╬юцегикммнопонммкллкигфедцбааююю©©©©╫╨╦╧╩╧╦╨╩╩╩╫╪╫╫╫╪╫©аццдфхийийлооннояряярсряяоппяяяппонняплйкййифдддцааю©╫╨╥╤╤╢╠╞╝╜╛╛╜╞╞╜╛╛╛╛╙╘╖╔╓╓╔╕ёё╓╖╖╔ё╒ёёё╒ё╓╓ё╓╒║║·°⌡°²°°°²·÷÷═ё╔╕╕╗╗╖╘╚╙╘╘╕ёё╒╒║═÷·²°⌡²·÷÷÷²⌡°°²···²°⌡·║╒╒═·²°÷║║═÷÷║╒╒╒╒║║╒ё╔╓ё╒ёёё╒ёёёё╓╔╕╕╖╘╚╚╙╚╜╞╞╟╡Ё╢╣╣╣╤╥╥╤╣ЁЁЁ╡╢╣╢╢╣╣╣╤╥╥╣╣╥╥╥╥╧╪©©╬╬ю©юабабцефгхиклмнопяпоопрттсстжжжвжттсромкккклнрурмхфеефффеедддцбббццбаююю©╬╬╬╬╪╩╩╪╪╩╨╨╧╦╪╬©ю©╬╬©ю©©©╬╫©афдю╬╪╪╪╪╪╩╨╩╩╩╩╨╩╩╩╩╨╩╩╪╬╫╫╪╩╩╪╪╪╫╫╬дляпяпонопппряружуттстжьыыыьтужжжуууттужвуромигфдеецеефххфддеееггггииййиххиииийлмлкмйиийлмлкклллкксvxтййййййййкмнмнояяпоооппннооооопонноонопрпооппнлкййййлявэшээшзыззыьььыззььвуувььжттжызшэыыьжужутжутстутсяяррссссттттсрссужввтяруссрпнлхедддееееееффддеееффееддддццддеедцццббббааааааааббццдецабдцццддееффеедцабцбцдефгфффеехнсутнмлкллмммоярстсямлклйгцб╬©©ююаабюаю╬╫╫╬╬╪╪╪╩╧╦╦╦╥╦╧╧╧╦╧╧╧╩╫╫╩╦╥╥╥╥╥╤╤╤╤╤╥╦╧╧╦╥╥╦╥╥╣╡╠╠╞╛╞╛╘╗╖╕╖╗╓╕╕╕╖╘╖ёё╓╓╒══·²²········÷═·⌡≥°÷°÷╒║²  ⌡²══·²°⌡≤≤≥ ⌡⌡⌡  °²²·═════÷·°  ≥≥≈∙▒▌▄▀┼┼▄▄▄▄▀┼┼┴▌▐▌▐▒▐▄▌▄▀▀▄▄█▐▒⌠■√≤≥≥ °·²²·÷═ё╕╗╙╛╛╛╜╝╜╛╟╠╡╣╣╢╣Ё╤╦╥╣╡╠╠╡╡Ё╣╣Ё╡╡╡╟╟╠╠╠╠╡╤╣╣╤╧╩╫╫юбегикмомнпяяпоомлкйигфдцццба©©╬аааа©╩╦╦╩╧╦╧╧╨╩╪╪╫╬╬╫╫юццццегиийкмппоопрсяярряпяоопяяппопннпямкйкифеефдбцца©╪╨╥╣╤╣Ё╟╜╛╜╞╜╝╜╜╜╝╜╙╘╘╘╖╔╓╕╖╔╔╕╖╖╔╒║╒╓╓ё╒╒╒║ё╒╒║÷°⌡⌡°⌡⌡²═║║═ё╔╕╔╔╕╖╖╗╙╗╕╕ё÷÷···²²°°° ²÷÷·²⌡≥⌡²···²²²°²÷═÷·°⌡°²·÷÷·²²═║ёёёёёё╕ё║║╒╓╔╔╓╓╓╓╓╓╓╓╕╕╖╖╖╗╘╙╘╚╝╟╠╡╢╤╥╥╥╦╦╥╤╣╤╤╤╣╣╤╣Ё╣╤╤╤╤╥╦╥╥╦╩╬©╬©ююаббабцдффгийлммопяпоноорсссстужжуутрпнмйклкйлптспкфеефееддддццббббббааюа©╫╬©©╫╩╪╫╪╩╨╨╧╦╩╫©©©╬╬©ю©©©©╬юбгеа©╬╬╫╫╩╩╨╩╪╪╪╪╪╪╪╩╩╩╫╬╬╫╪╩╩╪╫╫╪╫╫╬емяппонноооняпятуутустужвьыывввжуувьтттуввжтсомлхгфцбдфгфцдффеегииийииииххиийкмнмкйййиийкллклллллксwxтккккйййклноооняяпоооппнояяпппяяооппппярпнняролйийкмпузшшшшшшшшзыььыыьвужжттжвжжутжзээшыьвууууувввьывтрсстттттттттсрррружвжрярурсрпнкхддддееееееффддефеггфеееддееееедцбцццббббббаааабббббцедццеццдддеефффедцббцбцдфггффгефйяутрмллкллмнморсттрпйкллидаю╫╬юаббаю©юю╬╪╩╪╪╪╪╩╨╦╥╤╤Ё╢╢╣╣╤╥╦╢╥╨╩╧╤╢╢╣╤╤╤╤╣╣╣╦╨╩╩╧╥╤╤╢Ё╟╜╛╛╙╗╛╙╗╖╕╕╕╖ё╓╔╔╔╕╕╓╔╔╔╒══÷·²²²²²²²²²÷═·⌡≥⌡²⌡·══·°°°°÷═÷²°⌡      ⌡⌡⌡ ⌡°·═║╒╒║═÷²°⌡⌡ ≤√■▒▐█▀┼┴┴┴┼▀▀┼┼▀▌▌▌░▐▌▐▄▀▄█▌▐░▒■⌠■≈≥≤≥⌡°⌡²÷═══║╕╙╜╜╝╟╞╝╝╡ЁЁ╣╤╣╤╡╤╧╥╢╠╟╞╡╡╡ЁЁ╡╠╠╟╟╞╟╠╡Ё╢╤╤╤╥╩╬ю©абдфгйнянопярррромйиихфдцддцаююаббба©╪╨╧╩╨╦╦╦╧╨╩╩╪╫╫╫╬юбббцегийкмояяпоппсрряяпппооопппппяонпянкййхедеедбдедю╪╧╦╤╥╤╢╡╞╝╞╠╝╜╛╚╜╝╜╙╙╚╙╘╖╕╗╙╖╖╖╖╕╓║÷═╒ё╒═║╒╒╒╒╒║÷²°² ⌡²═╒╒║÷ё╔╕╔╔╖╖╕╖╗╕ё╒÷°²²²²²²²··°·═÷²⌡≥≥°·══÷··÷²²²²°⌡⌡⌡⌡⌡°···²°·═║╒╒╒ёё╔╒══╒╔╕╕╔╔╔╓╓╓╓╓╕╔╓╓╓╔╕╕╔╖╘╙╙╜╟Ё╥╤╤╥╧╧╦╤╦╦╥╤╥╦╥╣╢╣╤╤╥╥╥╥╤╦╩©ю©©ююаббббцдефгийкллмнооонммоярррртутуутроммлмлкйлпстснхеефдедддддцбцбббббаюаю©©©©╫╩╪╪╪╨╧╧╧╥╧╩╫©©©©ю©╬╬©©©юцгда©╬╬╬╫╩╩╩╩╪╪╪╪╪╪╪╪╩╪╫╬╫╫╪╪╪╪╫╫╬╫╪©фмоннннннннмпопсууууттттувьыьььвжжьыууутуввжуряплкифцдфгфдфхгеегиййкййййииийклннлккккйййлллккклллктxyткккккйлмопппонпппппппоопрряппярпопяпяясяноярпмкйкмпсжззззззшшшзыььыьжсртууужжтвжжьзээзьвутттжвььзшэшьужжввжжууууутррррууусррстрряомкгдееееееффдеедеффегффеееееееееедцбддццббццббааббббцббдееддццдддеееффедбббццдефффееггинтурнммллллмнмпстттяойлмкгб©╬©юбццаю©╬╬╬╫╪╨╨╩╨╧╦╥╣╢Ё╡╠╠╠╠╠╠╡Ё╟Ё╤╥╤╢ЁЁ╢╣╤╥╤╣╣╣╢╤╧╧╦╣╢Ё╡╠╝╛╚╚╙╖╘╗╗╕╔╔╔╓╒╓╔╓╒ё╓╔╕╕╕ё║═══²²°°°°°°²²·²°°°°°°²··²⌡  °··²°⌡⌡⌡ ≥≤≤≥ ⌡ ⌡°·═║╒ё╒╒║÷·²°⌡≥≤√∙⌠░▄┼┬┬┬┴┼┼┼┼┬▌▌▀█░░▌▄▄██▌▐░▒⌠▒▓∙≈≈≈≥  °÷═║║╒╓╘╛╜╞╠╡╟╞╢╣ЁЁ╡╡╢╡╤╦╤╡╟╞╝╡╡╠╠╟╠╠╠╟╠╠╠╠╡╢╣╣╤╥╦╩©ю©абцдфйнряяяярсстомйиихфцдеецббцдццаю╬╫╪╩╫╪╨╧╦╨╩╫╪╩╩╩╫╬юаабцегйлмнояряпппсссяяпппоооопярссяпппнкиихфеедцдцфею╩╧╦╦╤╣Ё╠╟╟╟╞╞╝╚╙╚╜╜╙╜╚╘╖╖╘╙╙╗╗╖╕╓╒═÷║ёё║═║ё╔ёё╒═÷·÷÷⌡²÷═║║║╒╓╔╕╕╕╕╔ёё╓╒══·°²°°²²²²÷═·÷÷·°⌡ ⌡²═╒║═·÷═║÷²⌡⌡⌡°²  °²÷÷·²²·÷÷══║╒ё║÷═╒╓╓╓ёё╓╓╔╔╔╔╗╕ёё╓╓╓ё╓╔╔╔╔╖╛╞Ё╡╡╣╦╨╧╦╧╧╥╤╥╧╧╦╤╤╤╥╥╤╤╤╤╦╪юаю©©©юааббццеегхийкклмнооннннпррппярсужуронннмкккмнпстякффедфедддддццбббббаюаааю╬╫╪╪╪╪╪╨╧╧╧╥╦╨╪╬©©©ю©╬╬©©©ацфдю╬╬╬╫╪╪╪╪╪╪╪╪╫╩╪╫╫╫╪╪╫╪╪╫╫╫╫╫╪╬╫╪©елнмммннннммонорттужжутттжвьььььввььььвууввжуссспоолхххииххигеегиийкйккйиийклммлллмнллкллллкккллкктxyуллллкклнппяяпнопяяяяпоппяяппппронопппясряпяяяпнллортжьзззыыззыыьввьжсяястуужутвььызэшыьжтсссувььышщчщэзззыьвжуввжтсррсссряяссряряомкгцфффффффгдееефггефеедддддддддеедцддццббццббббббббдббдедцбцдддеееефгфдбцццдееееееегимрусолмммлллнонятттрпмйллиебю╬бццдца©╬╬╫╪╫╪╨╧╧╦╥╤╣╢╡╠╟╠╠╟╝╜╛╜╝╞╟╡ЁЁ╡╠╠╡╢╤╥╤╣╣╣╣╤╤╣Ё╠╝╛╜╝╜╚╙╙╘╖╕╖╖╔╓╓ё╒╒╓╔╓║║ё╔╔╕╕ё║═══÷·°°°°°°²²°²···²·°⌡⌡°° ≈≥⌡²··²°⌡⌡ ≤√√≤≥⌡°°²··═║╒ёё╒║═·²°≥≥≤≤√⌠▌┼┴┴┴┼┴┴┴┴┬▐▌┴▄░▐▀█▌▐▌▐▒▓▒▒░░▓⌠⌠■∙√√≈ ²÷║ёё╖╚╜╞╠╡╡╠╤╤╢Ё╡╠ЁЁ╤╥╢╟╟╞╜╠╡╠╞╞╟╟╞╠Ё╢╡╠╠Ё╢╢╣╥╧╪╫╬©абцефинятсрррсссонлкйифдеддцццдецца©╬©╬╪╪╪╩╧╦╨╩╪╪╩╨╩╫©ююабегикмнмоярррррсттряяяппоппястутсяпонлйихггеццебед╬╧╦╦╦╤╢╡╠╡╡╟╞╟╞╛╙╙╛╛╚╜╘╕╔╖╘╙╘╕╖╕╓╒╒╒║╓╔╔╒═║╓╔╓╓ё║÷═║║÷÷÷·²÷╒╔╔╕╕╔╓╓╒═·═÷·═÷²· ⌡⌡⌡ ⌡²÷²²²²²²²÷·═╒║═··÷║÷°  ⌡°² ⌡°·÷÷÷····²²·═║══÷÷═║╒╒╒ё╓╔╕╕╖╖╖╔ёё╓╓ё╒╔╔╔╓╓╕╘╛╜╜╝╟╢╥╦╦╧╧╦╥╥╧╨╧╦╥╥╦╥╤╤╥╦╧╫абю©©©юаабббццдегхиййклмнооооояряоммнртууспоннмкйклллясрнифеегфеддддццбааббаюаааю╬╪╪╪╪╫╪╨╨╨╨╦╦╨╪╬╬╬╬╬©╬╬©©юадфцю╬╬╬╫╪╫╫╫╫╫╪╪╫╨╪╫╬╫╫╪╪╩╪╫╬╬╫╪╩╫╪╪©флнолмнннннноннясстувжжуужвьжвьььььььыьутуустрссяртрпнмннлккйхгхиийлллллккклмммллнонмммлллкккккккктxyуллллкклноппяяоппяррряяпппппяяяронопппяррряппрсяомпсувыызыььззььвууутряпрсстуутжьыызшшывуттсрсуввыэъЮъчэээшзьвжжжусяяяяяррппрряяряомйгцееееееффффгфгхгдееедддееддцддддцдццббббцбббббббццбцдецббддеееееефггдццдцфеееефффхкпужрнмлллллмноняттрпнкклйфцббадддцбю╬╫╬╩╩╪╪╩╧╦╦╥╣╢Ё╡╠╟╡╠╞╜╚╚╛╜╝╝╝╝╞╞╝╝╟Ё╣╤╢Ё╡Ё╢╡╞╜╛╚╘╖╖╙╛╙╘╗╖╔╓╔╔ё╒╒ё╒ё╓╔╓╒║╒ё╔╕╕╓║═══║÷²°°°°⌡·²²²·÷÷÷÷²⌡⌡°° ≤ ⌡²·÷·°⌡⌡ ≤≈≈≤≥ ²²²²²÷║ёёё╒╒║═÷·⌡ ≥≥≤■░▄┴┼▀┼┴┬┬┴┴█▄┴█▐█▀▌▐▐▌▐▒▓▓░░░▌▌░▓▓▓▓⌠≈⌡²÷║ё╓╖╚╝╞╠Ё╢╥╥╣╤╣╢╤╢╤╣╠╞╞╞╜╞╠╠╟╞╟╞╜╟╢╤Ё╠╠Ё╣╣╤╧╫╫╪╫©юбефгикмррярсттсонммлйгеееддееееддбююю╬╪╨╩╨╦╥╧╩╩╪╪╪╪╫╬юабдгиклмнноясссссртусяяяпппяссттутсяоммлкйихгецдецда╪╦╧╦╤╥╣╡╠╠╡╠╠╞╟╞╛╙╚╛╛╙╗╔╔╖╘╘╗╕╖╔╒═║╒╒╓╔╓╒═║ёё╓╕╔╒║║║║÷÷···═╒╓╔╔╓╒╒╒║÷²÷··÷·°²≥   ≥≥°·²⌡°·÷·÷═÷║╒║═÷··÷²⌡⌡⌡⌡°° ⌡·÷═÷÷·÷÷÷·²·÷═÷÷··²·÷═║╒ё╓╕╕╖╖╓ё╒╒ё╓ё╒╓╓╔╕╕╖╘╘╙╙╙╚╝╠╡Ё╣╥╧╧╧╩╩╩╩╧╦╧╦╥╥╧╩╩╫юаюююаааббббббцдфггххййклннннноппнмммярттсрпнммлкйййкнпрялфефгфеддддцдбааббаююю©©╬╬╫╪╪╪╪╨╧╨╨╧╥╧╩╫╬╬╬╫ю©©юююбефцю©©©╬╪╫╫╬╬╫╫╫╬╩╪╫╫╫╫╫╫╪╪╫╫╫╪╪╪╫╫╫юфкнолмннмнопоннпярстжжжвввььжжввввььвыьутууррппяпруутсрсряооонммллмпоооонннооонмноомммллллккккккклуyyуллллкккмоопяяпяяяррсссяпопясссспнояяяяпяряоортспнптьзэьььвьззьвжтсррррояяяртттуьзызшзывууусяясувзчААчэчщщэзьвжутсяпооопррпопяпяяяомйфцдддцдддегххгххфдееееееффеедддцбадцбаааббббббццццюацедццедееффффегхгецдддффееефгхилржуяннйклллмнпняссяолйккиебццццццбю©╫╫╬╩╨╪╫╩╦╥╥╤╢ЁЁ╡╟╞╠╠╞╜╛╛╝╞╝╛╚╚╛╛╛╚╝╠Ё╢╡╟╞╞╛╘╔╓╕╖╗╖╔╘╛╚╘╖╕╔╓╔╓║═║╒╒╓╓╔╔╓ё║║╔╖╖╔╒║══╒═²°°°°⌡····÷÷══÷²⌡⌡°²°⌡°°²÷═÷²⌡°⌡ ≥≥≥ ⌡°°°°°÷╒╓╒╒ё╒╒║═÷°⌡ ≥≤∙▒█┴▀▄▀┴┬┴┼┼▀┴┼▌▌▄█▄██▄█░▒░▐▒░█▄▐▒▒▒▓■≥²···╒║╓╘╚╛╝╡╢╤╣╢╥╦╥╥╣╤╢╟╝╞╞╜╝╟╠╠╟╟╝╚╜Ё╤╢╠╠╢╤╤╥╩ю©╪╫а©бфхххииоопртуутооонмкхфффффггфддедбаа╬╩╩╪╪╨╧╨╪╪╪╫╬╬╫╫юццехкллмнпясттсррртусрряппясууутссрпнллллкиггфддеедю╨╧╨╦╢╤╢╠╞╞╟╠╡╝╟╠╝╚╙╛╛╘╖╕╕╗╘╗╖╗╗╕║÷═╒╒║ё╒║═║╒║╔╖╖╓╒╒║÷·²·÷╒╒╒║╓ё║══╒╒═·═÷·÷²   ⌡⌡ ≥≥°·²⌡°·═÷··║║╒╒║÷····²²··²° °÷══÷··÷══÷···÷·÷·°⌡⌡²÷÷═║╒ё╓╔╔║║║╒ёёёёёё╔╖╗╘╗╗╙╗╖╖╗╙╚╛╟╢╦╨╩╪╫╫╪╨╧╨╧╦╧╩╬╫╫©юююббббббббааацдффффииийлмммлмноннннпясттрпнмномкийкморснгефгфедддццдбааббаюю©╫╬©©╬╪╩╩╨╧╦╧╧╦╣╥╧╪╬©©╬юююааацегда©юю╬╫╪╫╬╬╫╫╬©╫╫╫╫╪╫╫╬╫╪╪╪╪╪╪╪©╬©бфилнлмннмнпяонмояярсжжвььыыыжжжжжвьывззвжьвтпмннмптттттжутсттсряпоятрррряяярппонопнйллллллллккллллуzyтклннмкмояпояррссряппрсрпясуссуяррппяяппппярстуряяруввввьыыьвжжурпярряяопппярссжыззззьжжжурппртужвычЦЦЮчщшшзьурррряонопяооярряяяяпнкхфффффгфефхффффггхиеееееееегффедддддцбббццдббцццбаацддеддддддееефффиигдцегфеффефффекяжтяпнклллммопяосжтоййклйхфеддцццба╬╫╫╬╩╪╩╨╩╪╧╣ЁЁ╡╢╣╢╟╜╞╟╞╜╛╝╟╟╟╞╝╜╝╞╜╙╜╝╞╞╞╝╘╓║║╒ё╒║║ёё╕╗╗╗╗╕╓╓╓╓╔╓╓ё╒ё╔╕╔╔╓ё║ё╖╖╒÷═÷°·÷÷²°·══²·══²°÷╒══÷·°⌡°°°·═╒ё║÷²    ≥≥≥ ²° ≤ ÷╒ё║╒ё╒══║╒°⌡≥≈≤≤∙▒▄▄▄┼┼┼┼┬┴┼▀▀█▌█▀▄▌▐▌█▌▐░▌▐░░░░░▒░▒⌠≤⌡²°⌡··║╔╘╙╜╞╞Ё╣╥╧╦╥╧╤╦╣╟╝╟╟╞╚╝╠Ё╢╟╛╜╜╜╠╢╡╢╤╤╥╨╫╬╫╪╪╪╬©беффгикняссступпппомйхихфеефхифедаааю╫╬╬╫╪╨╨╨╩╩╫©юаацдфгиййкклясужуттстужутсстрстужутряяплкллкйихгфффффдю╩╧╧╥╢╢Ё╡╠╟╟╟╟╞╝╛╙╙╙╘╘╘╗╕╕╘╚╙╖╖╕╒·²÷══ёё║÷÷║╒╒╔╔╓ё╒══÷║═║ё║·═╓╒╒║║═÷²²·÷══·⌡≥≤≥ ⌡  °²²⌡  ⌡²÷·⌡║║══════²°°²²⌡ ≥⌡⌡²÷══÷·══÷÷÷══║·²°²·÷··÷÷÷║ё╔ё║║÷÷═║═║╒║║╒ё╓╓╕╗╗╗╗╗╖╖╗╘╛╜╟╢╧╫©юа╬╩╨╦╥╧╪©╬╫╬юбццааюююабцбббццццбдееффгиккклнппнклорсссяннммллкккйнртрмхефггецдефдцббааюю╬╬╬╬╫╪╪╩╨╧╧╦╦╧╨╨╨╦╥╨╬©юю╫юаа©©бефбаа©©©╫╩╩╩╪╫╪╫╬╪╫╬╫╪╫╪╩╬╫╫╫╫╫╬╬╪╫╬адхклпппоопрсонноооруувззыьызввжуужызьышшзьуснмлйкмпсоржусяртжтрртутсутссттрясрррряомнмлллмммклммновzyуллмнмлоппоорссррряпярстррсссрссссяяяпояяяррсттсррсужвввьыьвжжжурярсряяппппярссвышшшшыжуутсяясуужжьэъЮщэзьвввутрряппппояппяряяяяяпнкхффгффгфефхггггфгггфффффеееффффееееццццдцццбцццббббцдеедддееееефффгиигддеффееффеефгмруспонлммммнояяястсолййкйхфддддцба©╫╫╫╬╪╪╩╩╩╩╦╣╣╣╣╣╣╢╠╝╞╟╟╝╜╝╞╞╜╜╜╜╝╞╞╜╛╛╙╖╕╓═°⌡⌡°·÷·÷═╒╔╖╕╔╔ё║╒╒╒║║╒╒╒╒╓╔╓ёё╒║÷╒ё═²²²⌡°·²⌡⌡²··²·═║═÷÷═║║═·²⌡⌡°·÷╒╔╕ё÷°≥≥≥≥≤≤≥≥≤≥≥≤≥°÷═╒╒╒║══╒ё═÷° ≥≤∙▓▐▌█▄▄▀┼┴▀███▌▐▌▄███▄▄▌▐▐█▌▐▐▐▐▐░■⌠⌠∙≥°²°²²·╒╔╖╙╛╞Ё╢╣╥╤╤╦╤╥╣╟╝╞╞╜╜╝╞╡Ё╜╙╜╜╜╠Ё╠╡╤╤╨╪©©©╬╬©©©беггхйкмпррсстряппомкийигфефххффецбаю╫╫╬╬╫╫╪╫╬╫©аццдфгфхийклмнстжвжуутужжуттууттссстттрянкклкйлкйиггффдц©╩╨╨╧╤╣Ё╡╡ЁЁ╡╟╝╛╚╙╙╙╙╙╘╗╕╕╘╚╘╕╕╕╔╒═══÷╒╒║══╒╓╓╔╓ё╒║═══╒═║ё╒÷÷║║║══÷÷····÷÷═·° ≤≥≥≤ °°° ⌡  ⌡²° ÷═║═÷÷÷═²°°²·°⌡⌡°·÷═÷÷÷÷÷÷·····÷²°°°·÷÷÷║═║╒╓╓ё╒╒║═║║══╒║║╒╓╓╓╔╕╗╘╘╘╗╗╘╙╘╙╛╝╠╣╨╫ю╬╫╫╪╨╩╪╬╬╬╬юаааааю©©©©©ааббааааббцддегийклняяпнмопрстроннмлллллкняссойфхгфеддеедццбааюю©©©╬╫╪╩╩╨╨╧╦╦╧╧╧╧╥╥╨╬©юююаааюадггбаа©╬╬╪╪╪╪╫╬╫╬©╪╬╬╫╪╫╫╪╫╫╫╫╫╬╬╬╬╬©ацфиймноооопяооопппртжвызыыышыыьвввызызшээзвтпомкклноопяяяярсутсстужувжттуутстттттсрпонмммммллмнннпь{yжнннннняяпопсттяррряярстсрярссясттряряпррссстттттттужжжжввввжжжтряссряяппппярстжышэшшьууттсстужжжууьзшзьжсррссрсяопяяпоряпрряпппяпнкхгфхффгггфгххгггфффггффффффееффффеецддеедцццццбббцццдеедддееефффгггххгедеееееефедгкпсспмннммммнопяртсряомкйиихфдддеца©╫╫╫╫╬╪╩╨╩╩╦╤╢╢╣╣╣Ё╠╞╝╞╟╠╟╞╞╝╝╙╛╝╝╞╠╟╞╛╙╔═·²⌡≤√∙∙≤≥≥≥ ·║╓╓ё╒╒╒═══║║║║║║ё╓╒║╒ёё═║╒═·°°°°°°  ⌡²²···÷═÷÷÷║║║═·²²²·÷║╓╔╓║· ⌡⌡ ≥≥ ⌡≈ °°⌡°·÷╒╒╒║═║ё╔ёё═²⌡≥≈■⌠▐█▌▌▄┼┼▄█▌█▌▐▌▄▄▀┼┴▄▌▐█▄█▌▐▐░░▒∙■⌠■≈ ⌡°°°²═ё╔╗╙╞╡ЁЁ╢╢╣╦╥╥╣╟╝╞╝╚╝╝╝╠╠╛╘╛╝╝╠╡╟╡╥╦╩╪╬╬╫╫╬юююбефгилклнпясстсряпомкйкйхгффгхгххфдбю©╬©юю©©©ю©ацдддфггхйлмнпятжвьвжжжввжжуужвутсррсссрпмйклйхкйихфеддца╬╪╩╨╧╤Ё╡╠Ё╣╣╡╝╜╛╙╙╙╚╚╚╘╗╖╖╘╙╖╓╓╔╔╒═÷÷·╒╒╒║║ё╔╓ё╒║═÷÷══ё══ёё═··══÷÷÷÷÷═÷··÷═÷°≥≤≤≤≤ °²⌡⌡⌡ ≥≥ ⌡ ²÷║═·²·÷·²²·÷·²²²÷══·²·══÷÷····÷°°⌡°²÷══╒╒ёё╓ёёёё╒║║═÷═║ё╒ё╔╕╔╓╔╖╗╗╗╖╖╗╘╗╙╛╜╝╠╤╨╫╫╬©╬╪╪╫╬╬╬©ююю©ю©©╬╬╫╫╫©ююю©╬╬©©ююабцефиикняряпннопсутяннммлллллморсрмхигфееддцдццбаюююю©©╬╫╪╩╨╩╨╨╧╦╦╧╧╧╥╥╨╬©©юцббаацфххцаю╬╫╬╪╬╫╫╬©╬╬©╫╬╬╫╫╫╬╫╫╫╫╫╬╬╬©╬©©ацфхилмооппппоопяяпярувьыыызшшшшзььыыыыышэшвтрпнммммлпнмнпрррсссстжжввжтттттсттуужжусряооонмммнннопь{zвпоонопряппрттсяярррярррсрпястррссррссрссссттуутуууужжвжжжжжжуусррстсрррпппярсужьзшшывтттстужжжвусстжжжусяпппппяпоопппоряяррпопппонкхгфигфгхгфгххггггффггггффггефгггфеедддеддццдццббццдцддддддееефффгггггфеееедфдегедхоссрнклмнммннопяртсромлкйхгфффедббю╬╫╫╫╫╪╩╧╦╨╨╤ЁЁЁ╢╣╢╡╟╞╞╟╟╟╟╞╞╝╝╜╝╟╠ЁЁ╟╛╖╓═° ≥≥≥∙⌠▓■∙■■■√ ²···÷═°·═║║║═══║╒═÷║╒ёёёёё═²°²··²⌡ ⌡°²÷²°°°°·═══║║═══║╒═÷═╒╒═·²²°⌡   ⌡ °·÷··÷═║╒╒╒╒ё╓╔ёё║·°⌡≥≤√░█▐░▌▄█▌▐▌▄▄▌▌█▄▄▀▀█▐▐█▄█▐░▒▓⌠■▓▓⌠■√≤≥ ²²·═╒╕╘╚╟Ё╡╡ЁЁ╣╧╥╥╢╠╞╞╛╙╛╞╝╜╝╛╙╚╞╞╡Ё╡╢╨╪╩╪╪╪╪╫╬юаабдфгйлклмоясстусрпонлкккиххххиийкигдбаабццбааадеффеефгхйлнояртжвьььвввььвввввьтссссряпрпмкййихиихгфдццца╬╩╨╦╤╢Ё╡╠╡╢╢╠╝╜╛╚╚╚╛╛╛╘╘╗╗╗╘╕ёё╓ё║÷·═╒╒ёё╒╒╓╔╓╒║═÷·÷÷═╒║║ёё║÷÷═÷÷···÷══÷···°≥≈≥≥≤≥⌡··°⌡°⌡≥≤≥ ⌡²·÷÷·²°°°⌡⌡²····²·÷·²°²÷÷÷····÷÷²²°°²·═║╒ё╓ё╒╒╒ёё╒╒║═══║╔╓╔╖╗╕╔╓╓╔╔╕╕╕╖╗╗╚╜╞╟╠Ё╣╥╦╩╪╫╫╬©юю©©©©©©╫╫╫╫╫╫╪╪╫╬©╬╫╪╪╫╫╬©©юбдегхймояяяонмнруусоннммлмммлмпттокхфффедцддцбаюююю©©©╬╫╪╩╩╨╨╨╧╧╧╧╧╧╥╥╩╬юююцбаацефгхцю©╫╫╬╫╬╫╫╬╬╬╬©╬╬╬╫╫╫╬╬╫╫╬╬╬╬©ю╫╬©адгйклмнооппяпппяяппятувыыыызшээшзыыыыььзэшьусяпопяоняоннпрссрссттужввжтстттттттужвжуссряяяпомнооопь{zьпонноярппртусряррсррррссрпястррссссттсррсстууутужжуужвжжуууууусрртуссссяпяярсужышшзыжттттужввжвуряяястжусряяпоопппооопяяяяяоопооомкхгфигфгхггфггфггхгфхгггффггфггггфедеддцццдддццбццддцдддццдееееффггггффеедддфеегфекстсплклмнмммнопярссянкййкхфефгфц©ю©╬╫╫╫╩╨╧╥╤╦╥Ё╠╡Ё╢╣╢Ё╡╡╡╠╟╟╞╞╞╞╞Ё╡╡Ё╢Ё╛╔·°≥≈√√≈≤√⌠▓▓⌠▓▒▒▐▒■√√√≤ ≥ ⌡⌡⌡⌡°²°·÷·²÷║║╒╒ё╓║÷·÷═÷·²⌡⌡°²·²°⌡  ²═÷═║╒╒║╒╒╖╓╒║║║÷²··²° ≥  °°°²²···═║ёё╓ёёёёё║·°° ≥≈▒▌░▓░░▒▓▓░█▄█▌▌▄█▌▌▐░░▐█▌░▒▒▓▓⌠░░░▓■√≤≥²²·═ё╖╚╜╟ЁЁ╡╡Ё╣╨╦╤Ё╠╟╞╛╘╙╟╞╚╛╝╜╚╞╞╡ЁЁ╥╪╬╫╫╫╫╫©юбааацефхкллмоясттутряпонмккйииййкйклкхецццдееддддийкйиийкклнпрсужвььььвввььыыыьввтсссряпоппнлихийййиихгфецю╫╨╧╥╢Ё╣╢╢ЁЁ╡╠╟╝╜╚╚╚╚╛╚╙╙╘╗╗╖╔╒╓╓╓ё║║ё╔╓╓╓ёё╓ё╒║║═÷÷══║╒╒╒ё╒══║÷÷÷·²²·══÷÷·⌡≥≈√≥≥≥≥⌡·²⌡⌡°°≥≈≥⌡°·²²²²°⌡≥≥≤≤ ⌡°°²÷·²²°°°°°°°°²²····²²²·═║╒ёё╒═══║ёёё╒║║╒ё╔╓╕╗╗╕╓╓╓╓╔╕╕╖╗╘╙╚╛╜╞╟╟╠╡╢╤╦╨╪©юббю©╬╬╬╬╪╪╪╪╩╩╨╨╩╪╪╪╩╩╩╪╪╬©╬©бцдгхйлмопяпомняууспонмммммнлкнртянгфффдццеццбаю©©©╬╬╬╬╫╫╪╪╨╨╧╧╧╧╨╨╨╦╦╪©юююбаабдеффгб©©╫╫╬╬╫╪╪╬╬╫╫╬©╬╬╫╫╬╬©╫╬©©╬╬©ю╫╬©адхклкклмнопясяпяяппрясжьыььвзшэээшшшшыызщщзьусяярряояяяяяррсрсстттужьвуууууутттужвжуутттттсрппяпяяы|zвонммнпяппсутряррссрррсттсяяррятууссссрррсттууутуввуужвжуттуууусрстттсттрпррртвьзшшшзвутужввжжууспоннпрттсряпоннопонмоппппяпоопоонмйхгфхггххггггффгххгфхггфффггггггффедеедцццддцццццццдцдддцддееефффгггхфффеддефефгфгмтсянлклммлммнопяясрпмйийкхфеефеа╫©╬╬╬╫╩╧╥╤╣╣╣╢╡╠╠╡╡Ё╡╡╠╡Ё╡╟╟╟╠╟╟╟╤Ё╟╟╡╟╗÷≥≈∙∙■■■∙√■▓▓▓▒▒▓▌▌▐▒▒▒▓⌠■■▓▒░▒■≈≈ °°⌡²·÷·═╒╒║══║═·²°⌡ ⌡²⌡°²·° ⌡²═║╒╒╒║══╓╓╓╔╔╔ё╒║║÷·°⌡°°·°⌡°²²²·÷═╒╓╓ё╒║╓╓╒÷·²⌡≤≥■▒▓⌠▓▓■■■▒▌▄▄▄▄▀█▌▌▌▌▌█▌▐░░▐▐▐░▒▐▌▐▒■≤⌡⌡²·÷ё╗╚╜╞╡╡╠╡╡╢╧╦╣╡╟╟╞╜╙╘╟╞╙╛╞╞╜╝╝╟Ё╢╦╪╪╪╪╫╬©юабааацддгилмопрссстсряяпонккккклллккллйгеедефгххийклммммнпноястужвььыьввввььыззывжжтрпппяяоонлигхкийййихгфб╬╩╧╦╥╤╣╤╣╢Ё╠╟╟╟╝╛╚╙╙╙╙╙╙╚╙╗╖╖╔ё╒ё╓╔╓╒ё╓╔╕╔╓ёё╒║╒╒║║║║╒╒╒╒╒╒║═║╒÷÷÷·²²·÷·÷÷²⌡≥≥≤≥≥≥≥ °⌡≥⌡⌡⌡≤≤ °²·²⌡⌡°⌡≥√≥≤≈≥⌡°²·═÷·²²°⌡ °°²²²···²²²²²·÷║║╒╒║÷÷÷═╒╓╓ё╒╒╓╓╓╓╕╗╖╔╓╔╔╕╖╖╗╘╙╚╜╛╙╙╛╝╟╟╞╟╡Ё╣╧╫©ааю©╬╫╬╬╫╪╩╨╧╦╥╥╧╧╧╨╩╩╩╩╩╬©╬╬аццфхйклмояяпннптусяяонмммммлкмпрряигефецдфццбаю©©©╬╬╬╬╫╫╪╪╧╧╧╧╨╨╨╨╨╦╧╪юаааюаабдееега©©╫╫╬╫╫╪╪╫╫╪╪╫╬╬╫╬╬╬╬©╫╬©©©©©ю©©юбдгиклллмоярртряяяяярпрувьвжжзшэщщщщчшзыышэшывусяяяппяртсяппяррссттттжуутттууууужввжуууужжжтссттсссш}zвнннннорпясутррссссррсстсрссррружуттттсрсстуууутжьвутужжутттууутссттттужрярсртьышэшзыьуужььвуттяонмлкмпяяяяпооооооннннннноппнопнннмйхгфгфгххффхгффгххгфггффеффгггфффеееееедддддббццццццдеедддефффффггхххгефеддфефгфгйпурпмллллмлммнопяясяолккккихфдба©╬╬╬╬╪╨╦╥╤╢╣╢╡╡╡╡╠╠╠╠╟╟╠╠╡╡╟╟╡Ё╡╠╡╣╠╛╙╙╘ё²≤√∙∙∙■■∙√■⌠▓▒░░▓▒▐▌░░▐▐▐▌▌█▀┴┼▄▌▌⌠√≈√≈≤≤≤°··²÷÷·°   ≥≤≥°⌡ ⌡²°⌡ ⌡·═║║║═÷÷÷║ё╔╕╕╕╕ё╒║═··÷÷═÷····÷║║╒╓╔╔╓╒║╓ё╒║║║² ⌡≤■▓▒▒▓▓▓■■▒░░░▐▐▐█▄█▐▌▄█▌▐▌▌██▌▒░▐▐▒■≤  ⌡²·╒╖╙╚╛╟╠╟╠╠╡╥╦╢╟╝╞╞╜╚╛╞╝╜╝╝╝╞╞╜╞Ё╣╧╩╧╧╨╪╫©юаабабцццегкмпярррссрряяяполлллммммнллммкихгхиййлмнлмннннпяпрстужвьыыыьввввыыыыыывжвурпопяяонлкигхйхиииигфеб╬╨╧╧╦╦╦╤╢Ё╡╠╠╞╝╜╛╙╙╙╙╙╙╚╛╚╗╖╕╔ё╓ёё╓╓╒╒╓╔╕╕╔ёё║÷║║╒╒╒╒║║╒╒╒╒╒║═·²·÷·²²·÷÷·²²°⌡ ≥≤≥≥≥≥ ≥≤≥≥≥≈≤ °°·²⌡  ≥≈√≥≤≤ °°·÷²²²²°°⌡⌡········⌡°²²²·÷═╒║══÷÷══║ё╓╒═║ёёё╔╖╘╖╔╔╖╖╖╗╗╗╗╘╙╛╚╚╙╚╛╞╟╜╝╝╝╟╢╦╧╪╫╬╬╬╫╫╫╪╩╨╦╥╤╤╤╥╤╤╦╨╩╩╨╩╬©╫╬ацбдфхиикмпряпопртссрпнммммллллнпрснхеффедедцбаю©©©╬╬╬╬╫╫╪╪╨╨╨╨╨╨╧╧╨╦╧╪юааюааббцдфгга©©╫╫╬╪╬╫╫╫╫╪╪╫╬╫╫©©╬╬©╫©юю©╬©юююабдфхйммнояссссяпяряпяярсужжжжьызшээщчшзььызшшывтрппяррстсяппяряярсттсссссссттжжуужжутжжжввжусжжжуттэ~|ьонооопсяястссттттсррстсяятусрттуутужжусттуууттувьвустужутстууутссттстжжсяссртьышшзыывуувыыжтссомлкйилояяппппяяпнммнннмннопоноянннлйхгфффгхгффххгфгххгегффееефффффеефффееффеедцббццдцццееееееффффгггхххигеееддфеггфглруяоммммллммноппяятямлммлййигц©╫╬ю╬╬╫╩╦╤╣╤Ё╣╢╠╟╡Ё╡Ё╡╠╠╠╠╡╡╠╟╠╢╤╢╡╡╡╝╘╔╓╓║°≤√∙√∙■■√√∙⌠▓░▌▐▒▒▌█▌▐▌██┼▀▄▀┴┤┤┬┘┼▌▐▐▐▐▐▓≤ ≤≤  ≤≤≈√≈√√≤ °≥≤≥    °²÷═════║╒ё╒║╒ё╔╒╒║÷··÷═║═║║÷·═ё╔╔╔╕╕╔╓ёё╒╒╒ё╓║²⌡≥∙▒▐▐░▐▓∙≈≈≈≈√∙∙⌠▐▌░▓▓▐▀▄████▌▐▐░▒▓⌠∙≈≤≥⌡²·║╕╘╘╘╝╟╞╟╞╠╣╦Ё╞╜╞╞╜╚╝╝╜╞╠╜╛╠╞╜╟╢╤╨╨╥╧╨╪╬юааацббцццдфймпряяяррряррряпммммммммпннопнллкклллмопнопонопррсужжжвьыыыьввввшзыьыьвжутсряяпоолййиггиииййигфец©╩╨╧╦╧╨╦╣ЁЁ╢╢╠╝╜╛╙╙╙╚╚╚╛╛╚╗╕╕╔╓╘╔ёёёё╓╕╔╕╕╔╓ё║÷══║║║║══╒║║╒ё╒·⌡°²÷÷²²·÷═·°⌡°⌡≥≈≥ ⌡≥≤≥≤≈≈≈≈√≈ °°·²° ≤≈√√≤√√≤ ⌡°²≤ °°⌡⌡°····²²°°° ⌡°²²·÷═╒║═÷÷══║═╒╒═·÷║║╓╕╘╙╗╕╖╙╖╖╖╖╕╕╖╖╖╘╚╚╙╙╛╜╚╜╛╚╛╞╡Ё╥╨╫╬╬╫╪╪╨╧╦╥╤╤╤╤╤╣╢╤╧╩╨╧╩╬╬╪╫юбаацефгхкнрряооясссрпоммммллллмортрйдехгдцддцбаю©©©©╬╬╫╪╩╩╩╨╨╨╨╧╧╧╨╦╦╪юаююббббцдгигбю©╫╪╫╩╬╫╫╬╬╫╪╫╫╫╫©©╬╫╬╬©аю©╬©ююююбдфхиклмпрссряпоярпонсрсстужвжвыызшэщщэзыышэщзьуряясуссссряяяяпоясутсссттттуужуууутссжжжввжтсжввуттэ}xвяяпппррсстттттрссттсряссррстууууттттуутууутттуьвжжжусртууусртвттссстттжжжтссувыэщшыыыывььжсяяямйиийикнопяяпооооонннннооопоооннмлкллйхгхххйкйхеггффффффгггфффффггггггггеееедцддцдеедддддддцддефффффгхггихххфдехфффгкптупнлклмннмммнпяяярлхкоолийхфца©╬╬╬╬╪╨╦╤╤╤╢╤╤╡╟╠╡╡╠╞╟╟╟╠╢Ё╢╢Ё╡╢╤Ё╜╛╘╓═÷║═²≤≈√√∙■⌠■≈■▓░░░░▐▐▐▐▐▌██▄┬┼▄█▀┬├├├┤┬┬┬┤├├┼▄▐▒⌠⌠▓░▓⌠■∙∙∙∙∙√√≈≈≤≤≤≤≤ ⌡°²·═╒═══║║═║╒║═÷·° °÷÷·²²÷║╒╒╕╕╕╖╘╘╖╕╓ё╒╒╓╕╖╖║²≥∙⌠▓▒▒▓⌠∙≤  ≈■∙∙⌠▓⌠■⌠▒█┴┴██▄█▒▓⌠⌠⌠▓▓■√≤ °²÷║╔╗╜╚╜╞╝╟╢╢╡╜╘╚╞╠╟╝╟╞╞╠╟╜╜╝╜╟Ё╥╨╦╣╥╦╨╩╩╩╪╬юбабцдццдимпяпопряссряяпомлммнооняпопяряпннннооппяяяпппяррсужжвызыызьжужвшзыыььвжутряяяяпянлйхфхкккйхгхфдд╬╪╩╧╧╧╥╣╢Ё╡╠╟╝╝╜╞╟╟╝╛╚╚╜╛╚╗╕╔╕╕╖╓╒ё╔╔╔╔╕╕╕╔╔ё╒║║║╒╒╒╒║═══║ёё╒·⌡°°°²÷÷²⌡ °°°·⌡≈≈∙≈≤≤√√√≈≈∙∙√≈≤≥°°°°°≥√∙≈≈√∙√≈≤≥≥≤≤≥⌡°°°°⌡°⌡≥≤⌡²² ⌡²═╒╒║═÷═÷°°═║══·÷║ё╒╒╓╓╖╙╙╗╕╕╗╖╗╗╖╕╕╖╘╘╗╖╖╘╙╚╚╘╙╙╘╘╚╝╟ЁЁ╢╤╨╪╪╩╩╥╣╣╣ЁЁ╣╣╣╣╣╤╥╦╦╨╨╨╨╩╫©юббцеффимпрсяпярртсяоонмлйклмммпсркфееддддцбббааю╫©ю╬╬╬╪╨╫╪╩╨╨╧╨╨╦╦╨╫©©абаюаабцеигц©╬╬╬╫╬╫╬©©╬╬╬╬╫╬╬╬╬╬╬©юююю©©©©аюацефхийлнпяяррястрппяяяяррссссвжввьзшэчщэшшэшзшыжттужжжутттсяпнопяярстясуттужуттттсссстуууутссжввжжуэ}yжоппяяяссстттттссссссрртттуууттсттттттттууутттуьввжжутрттттсртутсссссссужжутужьшщчэзыыььвжусяомйххиййлнопяяпооооонннннооппппооомлкллйхгиххиййхгггггггггхххггфффффффффффеффеддддцдееддддеддддефффеефгхггихххфдехфффхмртсонлллмннпоннопяяплилоокихгецю©╫╫╫╪╨╧╦╦╤╣╢╤╤Ё╠╠╡╡Ё╠╠╠╞╠Ё╡Ё╤╤╢ЁЁ╟╚╔╓╒÷÷═÷²≤∙■■■⌠▓⌠√∙⌠▒░░░▐▌▌▐▐▌█▄▀▀▀▄▀┼┴┬┬└┘├├├├├┤┐├┴┼▀▀┴┤▄▀┼┴┼▄▐░⌠⌠⌠⌠⌠⌠■■√√≈≤≥ ⌡°÷²²²²²²···²°≥≈≤⌡²²²²°²÷║ёё╓╔╕╕╔╓╔╓ёё╓╕╗╘╕╓═°≥√■▓■■√≤  ≈∙√√√■⌠■∙■▓▌▄▌▌▄█▒⌠⌠■■⌠■■∙≥ ⌡²÷╒╔╖╛╘╙╛╜╠╢╢╡╜╙╚╝╞╞╝╝╝╝╞╞╝╝╝╜╟╡╤╧╥╤╦╦╨╩╩╩╪╬юццбццдееилпяяяяррттсяяпомлкклмммоооппппоннноооппоопоопярясужввьььыыьжужвззыыьввжутряпяяпянкйхгхйийихггецб╬╫╪╨╨╨╥╢Ё╠╠╠╠╟╞╟╞╟╟╠╟╝╚╛╚╚╘╖╕╕╕╕╓╒╓╕╕╕╖╖╖╕╔╓ё╒╒ё╔╕╕╔╓ё╓ё╒╒ёё║·°⌡⌡⌡°²²°⌡°²°°²⌡≈≈≈≈≈≤≤≤≈≈√■∙≈≤≥ °··²⌡≤∙∙≈≤≈≈≈≤≥≥≥≥≥ ≥≤≤ ⌡²·²⌡ ⌡⌡⌡⌡°·═╒╒║═°··⌡°═╒║╒═÷║║║═║╓╖╘╗╕╔╔╕╔╔╔╔╓╔╕╖╖╕╕╕╖╗╘╘╗╗╗╖╖╗╚╜╝╜╛╝╠╤╨╪╨╦╤╤╢ЁЁ╢╤╤╣╣╥╦╧╧╧╧╧╨╩╫╬©юацееегинясяяясссряппнмкллмммлнярнхфеддддцббббба©юю╬╫╬╫╪╪╪╪╪╩╩╨╨╧╦╧╪©ааааююаббеихдю©©╬╬©╬╬©©╬╬╬╬╬╬©©╬╬©©ююююю©©©аююбдегийлнпярссяссрппяяяяяяяррсуужжвьыыщэээщчщщщзьжжжввжжжжутсряррррррсртуттуууссррррррттттттссуужуууэ}zжмнпряяссттттссссссссссттжжжутссстуутттуужуууужьввввжтсттссссттссссрррсужввжвьзэччэзыыььвутрплигггиккмооопппооооннннноопппппппомллллйххиииииииххххиххггииххгффффффффффеффгфеддецдеедддеедддеффгфеефггггиихгедегффгйптспнммлммннпоннопяянлкмонйхгфдбю╬╫╪╪╨╥╥╦╦╤╢Ё╣╣Ё╠╠╠╠╟╞╟╠╟╡╤╥╡╣╤Ё╝╛╗╔═══÷÷÷÷·≥∙▓▓⌠⌠▓▓∙■⌠▒▐▐▐▐▄█▌▌▌█▄▀▌█▀┼┼┼┼┼└└└└└┘├┬└┤┼▀▀┼┬├┘┐│─│┐┘┤┤┬┬┴┼▄█▌░░▒▓■√≈≤⌡≥≤≤≤≤≥ ⌡⌡ ≥√■■√≥⌡°⌡≥≥°·÷═╒╓╓╓ёё╓╒══╒╓╕╖╗╖╔╒÷⌡√■√√√≤  ≥≈≤ ≥≈√≈≤≥≥■▒▒▐█▌▓■■√√√√∙∙≤≥ ⌡²═ё╓╘╕╗╙╛╠╣╣╠╜╙╚╛╜╜╝╝╝╝╝╞╠╟╞╝╠Ё╣╦╥╤╧╦╧╩╩╩╪╬юбдцабеггикнпяярррттряппомкихийкклмоооннннннноооомнноопрспружвжжжвььвууувыыыыьвжжусяпппппокхггфггхийиххеб╬╫╫╪╨╪╪╦╣Ё╠╟╠╡╡╠╡╟╝╟╡╡╞╛╛╜╜╛╙╘╗╗╕╓ё╓╕╖╖╗╗╗╕╔╓╓╓╓╔╖╘╗╕╓╔╕╔╓ёёё║÷²⌡°°°⌡⌡°²²·°⌡²⌡≈≈≥≤≈≤≥≥≤≈≈≈≤⌡°²·═÷·° ≈■∙√√√√≈≥≥≥≥ ⌡⌡≥≈≤ ²²··²⌡  ≥⌡°²÷═║═÷⌡²²°²÷═÷═··═║╒╒ё╓╔╕╕╓ёё╓╒╒║╒ё╓╔╔ё╓╔╔╔╕╖╖╔╓ёёё╔╗╘╗╖╕╖╙╞╢╥╧╨╨╧╥╥╥╥╥╣╢╢╥╧╧╦╦╦╧╨╪╫╬╬©ацеедегкорряястсрряпнмкмлммлкморплгддддддцббцббюю©╬╫╬╬╫╩╪╫╫╫╪╨╧╩╦╦╪юааююююаабеииею©╬╬╬©©©©╬╫╫╬©╬©юю©©©©ююююююююаю©ацдгйкмоярсстпрряппяпппоопяррстужввввшшшэщччщчэзьввввужжжутттттутссссртуутуутттсссрррссссссссстттууэ}{жмнпярсстттттсстттсссттттужжутсттттттссжжжжжжжввввввжусттсссттссстссррртжвьыызшщчъщшзыььвусямиффгхйкмнооопппппооннннноопяяяппоонллмлихххииииххиххиииихгииххгггфххххгггффггфеддеддееддееддддеффгфеефгхххиихфеефгфегмсурнммммммнннннопяррммноомйхедцаю╬╪╩╨╧╥╤╤╤╣╢ЁЁ╢Ё╠╟╟╞╝╝╟╡╠╢╧╨╢╣Ё╝╘╕╓╒÷═║═÷···°≈⌠⌠■⌠▓▓▓▓▓░▌██▌██▌▌▌██▄░█▀┼┼▀▀▀├┘└┌┌└┤┴├┬┴┴┬┤├└──~~~~~}~~─┌└┘┤┤┬┼█░▒▒⌠▓▓▓▓▓∙≤≤≈√■⌠▓▓⌠∙≈≤≤≈≈≥⌡ ²═║║═║║═·⌡°²÷║ёёё╒╒═²≥√√∙√≤⌡°⌡ ⌡⌡ ≥≤≥⌡²°≈■⌠▒▐░■∙∙≈≤≤≤√∙≤ ⌡°²÷╒╔╔╔╖╘╛╠╥╥╟╛╙╙╙╘╙╛╝╝╝╛╝╠╠╝╟╢╢╣╥╥╥╨╧╨╩╩╪╫╬юадцююехгхйлнпппопррпооонмкиххиииикмнмллмннннннннлммнноясяртууужжвввжуужвыыыыьжжжусяоооппнйфефффейййииигд╫╫╫╩╨╬╬╧╥╤╢╡╠╡ЁЁЁ╟╝╞╡╡╟╜╞╞╞╝╛╙╘╘╖╕╔╔╕╖╗╗╘╘╗╖╖╕╖╖╕╖╗╗╕╔╓╓╔╓╓╓╓ё═··÷÷·°°·═÷÷²°·² ⌡⌡ ≥≥   ≤ ⌡²÷═║╒╒·²⌡ ≈∙∙√∙√≈≥ ⌡⌡⌡⌡⌡ ≥≥ °÷°²²°⌡ ≥≥°°°·════²··²²÷÷²÷÷÷═╒ё╓╔╓╓╓ё╒║║╒╒║══╒ёё╒═║ё╓ё╓╓╔══÷÷═ё╔╕╓╓╔╕╖╙╜╝╢╧╪╩╨╩╩╨╥╣╡Ё╤╦╦╥╥╦╧╨╪╫╫╫юадееефхйнрсряртссряпнмлккклллмпярпидцдцдцбаббббюю©╬╬╬╬╬╩╪╪╫╫╪╩╨╩╧╧╪юаююююааабеиидю╬╫╫╬©©©©╫╫╫╬©©юююю©©©юююююююааю©юбдхлмнярррстпярпппяпппонопяррсужввжжззшшээээчщэзьвжжужввжужжужжжутуусужууутсуууттссрссссттттсттсттш}zвооопрттттуттсстуутссужуууууууувжутссттжжжжжввжвввввжусстсррттрстттсррртувьзшэщщччщэшзывжурнйхггхиклнннооппяяппоннннноояяяппонннмммкиххгхийихххххиииихгххххххггхиииххггффффеддедеееддееддддееффффефгхххйихфеефгефиоттплммммммннммопрррямнпонкигдцбаю╬╪╩╧╧╦╥╢ЁЁЁ╡╡╡╡╠╞╝╝╠╠Ё╣Ё╣╥╥╤╢╝╗╔╓ё╒════·²·═·≥■⌠■⌠▓▒▒▒▒░▌██▌▐▌████▌▐▐█▀┼▀▀┼┼┤├└┌│┐┘┤┤┴┴┤┘┘┘└─~}{|||{zz{|~~~│└┤┬┬┬┴┼┼┴┼▌⌠⌠▓░▐▐▐░▐▒▓⌠⌠■∙√≈∙≥²··²··² ≤≥ ⌡²═···÷÷²⌡ ∙∙√≤°··²°⌡≥≥⌡°··²≥√∙⌠▒▒⌠∙∙√≤≥≤≈∙≥°÷÷·÷ё╗ё╓╗╙╚╠╥╦╝╚╘╙╘╖╗╚╛╛╚╘╙╜╝╚Ё╤╤╣╥╥╥╨╧╨╩╪╪╫©ююцб©©дггиикмоонмнппонооомкйиииихфиклкйкмллммммммлмммнопррсстттжвввжжужжвьыыьжууутрпоооонокгегххфккйихихфю©╬╩╦╪╬╧╥╦╥╢Ё╢╤╥╣Ё╠╠╡╡╠╟╠╠╟╝╛╙╙╙╙╘╗╖╖╗╗╗╗╘╙╚╙╙╙╙╙╘╘╘╘╗╕╓╔╓╔╕╕╔╒═║╒╒═··║╓║║··║║÷═²²°°°°°°°²÷═║╒║║·²°°⌡≥≤≤≥ ⌡°²²²²⌡ ≥≥⌡°°°°°°°⌡⌡⌡°···═╒ёёё÷══÷÷═÷·║║║║╒╒╒╒╓ёё╒║══║║═÷÷═║═÷·÷║║═÷÷═°⌡⌡°÷╒╓╓ё╓╔╕╕╕╖╗╜Ё╦╧╨╩╪╨╦╣ЁЁ╤╦╥╤╤╥╧╨╪╪╫╫юаццдегиймясрярсттсяонннкйклллмопсркеццццбаюаааа©©©©╬╬╫╫╫╪╪╩╩╩╩╩╨╨╩╬©ююаююабабейиею╬╬╬╬юю©©╫╫╫©ю©юююю©©©юююююааабаюабдиммояряярсярсяярряяпооопярпясужжууьыыззшшшъъчщшывжвьыывввьввьвжууутужууутртттттсрртттууууутттсссз|zьппопруттууутсстуууттужвжжуужвььвутсттууууужжжжжжввьвутяссяяссярсуусрррстжьзшщщщччщээшыжусокхгххиккмнонооопяяпооннннноояяппоонмнмммкихигхиййихгххиииххгххххххххххииххгфффффеееефффедддедддеееефффефгхиийихедфффеглятрнллмммммннннпрсрпонппнлйхфдбю©©╬╪╩╦╧╧╥Ё╠╡Ё╡╠╠╡╠╞╝╝Ё╡╣╦╤╥╥╢Ё╝╖ё╒╒ёё÷÷··²°²═²≥∙■⌠▓▒▒░▒▒░▐▌▌▌░▐█▄▄█▌▐▄▄▀▀┼┼┴┬┤├└┌│┌└┘┴┼┼┬├├├├│~~~}{|||zyz{{{{}│┌┌──┌┌┌┐┤▄▄▄▀┼▀▄▀┴▀▄█▌▐▐░▒⌠√ °°⌡⌡° √■√≈≈≥°°⌡⌡°°°°⌡∙■■√≥°²²²⌡ ⌡·÷═║²⌡ ≥≈■⌠⌠√∙∙≈≥≥≤√≥°·÷²÷ё╖╒╓╗╙╚╡╥╤╜╘╘╙╘╕╕╘╛╛╚╘╘╚╛╛╢╦╦╤╥╥╦╩╩╩╪╪╫╬©©юбб©©цфгийлнооонмоонмоппллййййихфхййииклккллллллллмммнпяссссстжвжжууужввыыьвустуряпооннмолхефхгфййиггххфца©╩╦╨╩╦╥╧╧╤╣╦╨╩╧╥╣╢ЁЁ╡╡Ё╡╠╞╜╛╛╛╛╛╚╗╗╗╗╖╗╘╚╛╚╚╚╛╝╛╚╚╛╙╖╔╓╓╔╕╖╕ё║ёё╒║÷═╒╓ёё══╓╔ё╓÷÷÷·····²÷═║║╒║═÷²²··²°⌡⌡°°°°⌡⌡°²⌡ ⌡²·°⌡²°°²²°²÷══║╒╓╔╔╔÷÷═════÷·÷÷÷═║║÷║║═÷÷÷···²°°°°⌡⌡⌡°°°⌡    ≥≥°÷╒ёё╒ё╓╓ё╓╕╗╘╝╡╣╦╧╩╩╧╥╤╤╦╧╦╥╤╥╦╨╩╩╪╪╬юааадфхикорряяртттрпоннмлкллклмоярнхдцдцбюююююю©╬╬©©╬╫╫╬╫╪╨╨╩╪╪╨╨╪╬©©юбюаббааейиеа©©©юаю©©╬╫╬©а©ююю©©©юююююаааабаюабдинмояяппярсттссссряппоппярпяярстттжвььызэщъъЮъчэзыввьввжввыыыьжуттуууттутсуужжуутстужжжжжуууусссз{{впппярсттужжутстужжутувьвжжжжввввжууужжуутужвжжжввьььжтпттряссрясттсрррстувышщччъчщээзьусокигхххйкклопоооооппонооннннноппппоооннмммкихииххиййихииииииххииихххххххиихггффффффефффгфедддееееееееегфффхиийййхедфгфеиосспммммммммнонопрсряоополихфдца©╬╬╫╪╨╧╧╦╤╢╡╡╡Ё╠╠╠╠╞╝╞ЁЁ╤╧╦╥╢╞╙╕╒══║╒╒═÷·²°⌡⌡°°≥√■⌠▓▒▒░░░░░░▐▌▐▌▄▀▀▄█▌┼▀▀┼┴┬┬┬├├└┐┌┌┐┘└├┬├└┐┐┌│─}}~~~}xz||{{|}{||}~│┌~~─│┐├┘┤┬┴┼┼┤┐└├┬┴┬┤┴┼█░■≈≈√√∙▓▐▌▐▒░▒■√√√≈≤≥≤≤∙⌠▒▒⌠√≤≥≥≤≤⌡²²÷║··÷═÷⌡≥≤≥≈√≈ ⌡⌡≥ ⌡°²·═ё╔╒ё╕╗╛╡╣╠╛╘╘╚╚╖╔╗╜╛╚╚╙╙╛╞╢╦╦╤╥╦╧╩╪╪╫╫╬╬©©аббаюбехикмоппоомннмлноомкйиииййииййиийккккллллмклмммнпярстттужвжуттужввыыьусрстяппоонмлнлхееггехиххххгеб©©╫╧╧╨╦╧╨╧╥╦╪╫╩╩╧╤Ё╡╠╠╠╠╠╠╟╝╜╛╛╚╛╙╖╕╕╕╔╖╘╙╙╘╘╙╚╛╚╙╙╘╗╔ёё╒ё╓╔╓╒═║║═÷··═╒╒╒÷═╓╔ё╓═÷·²···²²÷═÷═║═··° °²²°⌡ ⌡⌡⌡   ⌡²²°°²··²²²·÷·²²·÷÷═║╒ё╒║²²²²²°°°≤ ⌡°²÷·°°⌡    ≥≤≈≤≤≈√√√√≈≈≈≤≤≥≥≤ ≥≥²║ёё╒║ё╓╓ёё╕╗╙╙╜╟Ё╣╥╧╨╧╧╧╧╧╧╦╤╥╥╦╧╨╨╩╪©юююбддххкояяярстутрпнмомлллййкнпрякедедбаюююююю©╬©©╫╫©©╬╪╩╨╩╪╪╩╨╩╬юаабабццааейхеаююююа©©©©╬©юаюююю©©аааааааббббааабдинмояяппястттссссрппппппяярряяррстуужжвьзээчЮАЮъщщььввввжуьыыьвуттжжуттуусжжвввжууужвььвжужуусссз|{внояряятужжжууттужжутувьввжжууужжжжжвввжжужвьввввььыьжуяужсрстспрттсрррсстжьшщчъъъщэшзвуялигххххйкклопоннноппнмооннннноооопппппнннмкххикиххйккййиииииииййииииххииииихгфффггфффггггфддддффффффееггффхиййййхедфгффйяусомнммммлмнпнноярсррппнйгфеццю╫╪╫╫╩╨╧╦╥╣╣╢Ё╡╢╡╠╠╠╞╝╞╤╣╥╧╥Ё╜╖╓ё╒║╒╒ёёё═÷·²≥≤≥⌡≥√∙■▓▓⌠▐▌▌▐░░▌██▄▄▀▀▀▀▄┴┼┼┴┬┤┤┤├├┘└┐┐└┘┐├┴┬├└┐┌┌─~~~~|zxz||{zzzy{|}~│┐┐──┌┐┐┐┌└┤┴┼┴└─┐├┘┌│┐├├┴▄▐░▐▌█▀┤├┴┼┴┼█▐▐░▓■∙■■∙▒█▀▄░⌠∙▓⌠■≈≤≤ ·÷═ё╕╕ё═·° ≤≥°··°²²°·║╓╔╕ё╒╓╖╛Ё╢╝╛╘╘╛╛╖╕╗╛╙╙╚╘╗╛╟╡╥╦╤╥╦╧╪╫╫╫╬╬©©╬цбббббеихймопппплммкклмммкигхийкккййииийккклллммкклммоярястужжжвуттстужвзыьуряртппппонлкомйффгхфгииииигд©╪╫╬╩╨╩╨╪╩╧╥╨╬╫╧╨╥Ё╠╟╞╝╜╛╜╝╝╜╚╙╙╘╘╗╔ё╓╓ё╗╗╘╗╖╕╗╙╗╗╗╖╔ё║═║═══║║÷·═÷·²°²·÷══··╒ё║╒═²⌡⌡²·°  °²°°·²°°≥≈≤≥≥≥≥≥    ⌡°· ⌡⌡⌡°²·÷²²·═÷°⌡°°°²·÷÷²°°⌡  ≥≤≈≈≈≥ ≥  ≤∙≈√∙∙√√■⌠▓⌠■⌠▓▒▒▓■⌠■∙≤ ⌡⌡ ≥ ²╒╓ё║═ё╕╕╓╓╔╖╙╖╖╚╝╞╡╤╨╨╨╨╨╧╦╦╤╤╥╥╦╧╧╨╩╬аююаббффиняяярртжжтянмомлллкккноррмфдфецаююаааа©╬╬╬╫╬ю©╬╫╪╩╩╪╪╪╨╧╫абааабццааейгцююю©юю©©©©©©аааааю©юацббббббббаааабдинлнпяппртстсррррпппппппппутряярстуууттувыышъЮЮЮъъшзыыыыьвжвььвжуужжтстуутууужжуттужвььвжуууутттш|{ыопстртстжвустжуужуужвьвууувьжуьвжужжжвьььвввььужвьььжустттррстжряувжсрястжвыэъчЮъэшэзжямифгхиииййклмнопонноппонояяоннопонннмноомклкйикйййййййикйииийииййиииихххиййихххффггггффггффггедееффффффхгффгхххикхдефффгоусонмлнмммнмнопппясуспяоокдаццю©╫╪╪╩╨╧╦╥╤╣╢Ё╡╠╡Ё╣Ё╝╞╡╡╡╥╩╦╠╘╔╓ё╓ё║╒ё║÷ё÷²··≥√√ ≤∙▓▓⌠▒█▌▐▐▌▌▌█▄▄▌▌▄┴┬┴▀┼┬┬┼┼┤┤┴┼┴├└┐┌┌┐┤┤├┤┬┤└│──}|}|yxz|{zyz|z{{|─└┘├└┐┐─┐┘├├├├┐││┐┐┐┐└┘┤┴┼┴▀█▄┴├┐┐└┐─┌┘┐┘┴▄▄▀█░▀┼┬├┘├┬┼▌▌██▐⌠≈⌡ ═╒╒ё╖╖╓║· ≤ ²° ⌡°═╒╒╓╔╒═╒╔╚╝╝╛╛╘╙╙╙╘╘╗╗╚╖╔╗╘╗╚╠╠╢╥╦╥╦╨╪╪╫╬╬╬╫╬©адецбдфгикнпяяпомллллклопнйгхййихййхфгхилкиийллмллллмнпрсрртвьвужууууужвывтрррррппппонмлнмйггхгефхиихгфе╬©╬╩╧╦╩╫╫╫╪╬╬╪╦╣Ё╟╝╜╛╙╘╘╘╘╘╗╕╕╖╘╖╓║═·⌡°²╓ёё╓ёё╓╕╖╖╕╓║·°⌡°²···° ≥≥≤≥  ≥ °·²²·²°°°⌡≥≥≤≈≥≥√≈≤≤≥≥≥≥≥≈√∙∙√√∙∙≈■∙≤≥≈√≈≤≈√≤ °°⌡   ≥≥ ≥≈⌡≥≈≤ ° √√≈∙▓▓▒░▓▓⌠∙√∙▓░▌▄▌▌▌▌▌▌█▐▐▌█▌▐▒▓⌠⌠⌠∙≈≥≥≥≤≥⌡·║╒╒╒═ёё╓╕╕╔╖╖╕╕╘╘╗╚╞╤╦╨╪╪╩╧╦╣╥╧╦╦╧╨╨╩╪╫╬©абддфйлнопяртвьвтяоонллкййккмпрпкфеецааабаааюююю©©©╫╫╬╫╩╩╩╪╪╨╨╫абаааабцбцгкйеаюааюааюю©©юабааююююааааабббббцбабациолнррояропярряряяяяррряпоссяярууссуттуууьжьзщъЮЮЮщэзыыыььувььвжутжутуутссужжвжжуувызьввжужуутсрз}zыппстрсутужуттжужжжужвьжжужвьвжужвььвутввввььььувыыьвжжттттссстсрясуусррстжьзэчъЮъэшшьтнкхфгийййкклмноопоннооооопяпоноппоноонноомллкиийкккййииикййййййййииийкййииийййхффгггггффггфгггфефффффгггхгффгхххикхдфффгиптянммлнмлмммнопопртсяпянлидбцаю©╫╪╪╩╨╧╥╤╣╢╢╢╡╠╡Ё╣Ё╞╠╣╣╥╤Ё╝╘╔╓╓╒ё╒═║╒║÷╒÷°°⌡≥≈√≤≥≈■▒░░▌█▌▐▌▌▌▌▄▀▄▄▀┬┤┬┼┼┬┬┼┴├├┴┼┼┴┤├└┐┌└└┐└├├└┌┌┌│~}~~}||{yxxz|zzz{┌┤├└───}─┐├┤┤┬┤┘┐└┘├├├├┤┼▀▄█▌▐█▀┬├┘┤├┐└┬┤┤┴┴┬┤┴▄▀┴┬┘│}}┐└└┘┘┤▀█▒≈·║╓╖╖╓╔ё÷²°²°≥≥⌡·══╒╓╒║╒╕╚╜╜╚╚╗╗╗╘╘╙╙╙╚╘╗╖╖╘╜╟╟Ё╣╣╣╣╦╨╩╪╬©©©╬╬аддцбдгхйкнпяяпомллллклопнкххйкихййхфгхикйиийкллммлллняссрртувжууутттжвьывусррсспппонмллнлйггххфхийкигдбюю©╫╪╪╪╪©©╬╬╪╦╢╠╝╙╗╖╕╓ё╒ёё║║║║║║· √∙■■∙≤²°°²²²·║═÷·° ≈∙■∙√≈≤≈√■▓▓▒▓■■⌠■∙≈≈√∙∙√≈≈∙⌠⌠▓▒⌠■▓▓▓⌠⌠■■∙∙■▓░▐░▒⌠■∙⌠⌠√√■⌠∙⌠▓⌠∙≤≥  ≤≈∙∙■■∙∙√√■⌠⌠■■▓░▐▄┼▄▀┴┼┬▀▌░░▌▀┴┤┴┼┼▀██▄▐▐░░░▐▐▐⌠▓⌠∙√≈≤≈≥ ²÷║║║║║ё╒ё╔╕╕╗╘╖╖╘╘╗╘╜Ё╣╦╩╫╫╩╨╦╦╦╦╦╦╦╧╧╩╫©юабцдфхкмнппртвььурпонммлкклмнпяяниддцбаабааааюю©©©╬╫╫╫╫╪╩╩╪╪╩╩╬аббаббццббеииеаюаааааюююююаббааююааббббббббббббццдхмлнряояроярсряяяпяяррряпояяяяртсяятттжутжжвышщчъъчщээшзыьжвьыьжжужтсуууттжввввжжжвьывжжжуууттсры|zыпятсясвутуууууужжжжжжвжжввввввтжьыьжууввввыыьвжьззвжжжутсссссрярррсутсттужышщчъАЮэзыуякигфхиййллммнооооннннооопппоннпяпооппононнммкиикккййииийииииииийкиийлмлккихиккхеггхххгффггффгффеффффггггххгггхххийхефффгмяромннмнллмммноооятурпяялигдцб╬ю©╫╪╩╩╧╧╤╣Ё╢╢╢╡╠╡╡╣╢╡╢╥╤╤╠╙╔╒╒╒ё╒╒║÷═║═÷║═°≥≤≥≤≈≈  √░█▌▐█▌▌██▌█▄┼┼┼┬├├┤┴┴┴┼▀┬┘┘┬┴┼┴┴┤┘┐┌┌│││┐└└┐│┌│}~─││}zyyz{xxxz~~─┬┤└┌─~┌├┴▀▀▄█▄┬┬┬┴┼▀▀┼░▐░⌠∙■▒░█▀┼▀┼┬┬▀██▄┼┬┤┼█▄┼┼┬┌zx{─│─~}}~┐┬▐∙ ÷╓╖╗╗╕║·°⌡≥≤≥²÷·║╓ё║╒╔╘╚╙╘╗╖╕╕╖╙╛╛╛╘╘╖╔╕╚╞╟╟╡╢╢Ё╢╤╦╧╨╪╬юю©╬бддцбдгийлнпяяпомлллкклнпнкхийкйхййхггиикйиийкллннмллнпрсссстуужутсстувьывусссссяпонммллмлиффххгхийкйгцабаююю©╫╪©©╫╨╣╞╚╘╓║···°  ²°⌡⌡⌡⌡≥≤√▒█▀▀█░⌠∙∙≈≈≈√≤⌡≥≈∙⌠▓░▌█▌▐░▒░▐█▀┼┼▀▄▄▀▄█▌▐▌▀▀▐▒░█▄█▀┴▀▌████▌▌▐▐░░▌▄▀▄▌░▒░▐░▓░█▌░▌▌▐▒⌠∙√≈▒▐▌▐▌▄█▐▄█▄┬├┬┼▀┴┬└┐├├└└┐├┼█▌▄┼┬┴┼▀┼┼▀▀┼▄▄▌░▒▓▓▓⌠⌠■∙√√√√≤⌡·═════║ё╒╒╔╕╕╘╘╖╖╗╗╖╗╚╜╞Ё╦╪╬╫╪╨╦╥╦╦╥╦╨╦╨╫©юаббдегйлноопсжьывтрпнмммллмноопяякдццццбббббааю©╬╬╫╬╫╫╫╫╫╪╩╫╩╩╬ббббццддцбдгидаюааббюююаааааббааааббццццббббаацдддхклорроясппрсряяпояярряяпппяярстрппсстжтсуужьышэщчщщщщщэшывьззывжжжсстжжууььвввввввьвжужжжтттттрз|{зррутясуттууттужжжвжужвввььвввввввжуужььвжвьзыьвьыывжууусррсссряттссжжужужьшщччЮЮъщзвсоихггхиййлмннооооннмнннооопппоопяоноппоннмннмкийлййииийклхийиихийкихилмлйййийкйхфггхххгфффффффффеффффгггххххгххххийхефффхяряонннммллмммноооржурпройгфдца╫©╬╫╪╩╨╧╦╤╣╢╢╣╢Ё╠ЁЁ╤╥╥╦╥Ё╚╗╓╒╒╒╒╒╒╒═÷÷÷÷÷══°≈√≥≥√√ ⌡≈░▄▄▌▀██▄▄▄▄▄┴┴┬├┘┘├┬┴┼▀▀┬┘┘┤┤┤┤├┘└┐┌┐│──│┌┐┐──}|}─┐│─~}|{zywwvz─│┼┬┤├┘┐┐└┤▀▌▌▌▐░░▀▀▀▄▐░░▌⌠▒▓≈≥≈■⌠▒░▐▐▌▄▄▌▓▓▒▐▌▌▒⌠▒▌▌▌┬z{─│|yxx~~─┘┴░ ё╖╘╘╔═° ≤√≈°÷÷╒╔╓║║ё╕╖╕╔╔╕╔╓╕╘╛╝╝╖╔╓╓╗╜╠╡╡Ё╣╤╣╣╤╥╥╥╦╩╬юююбдееддгийлнпяяпомлкккйкмонкихййииййхгхиилкйййклмоонмммнорсссссужжусссувьыьусссррряонммлклкхффгхггхийигдабаю©©╬╫╪╫╪╦╡╙╓║═°⌡ ≥≤≈√≈≤≥  ≥≤∙⌠■░▀┴▀▌▒⌠▓⌠∙∙■■√≥√■▒▐▌█▀┼▀▄▌▌█▀┼┴┘├┤┴┬┤┤┴┴▀┴┘┘┼▀┼┘┘┤┘┌└┤├┤┤├├┤┬┬┬┴┴┬┬┴┴┴┴┤┬┼┼┤└┘┬┴┴┴┴▀█▐▒┴┤┤┴┬┘└├┘┘┐~─┐├├┘┌│┐┐┌┐└├┼▄█▄┼┴▀▄▄▀┼▀▀┼▀▀▄▌░▓■√⌠⌠■∙√≈≈√≈⌡÷═÷÷═══╒║╒╕╖╕╗╕╔╔╕╕╕╖╙╖╘╜Ё╦╪╫╫╫╧╦╨╨╥╦╨╥╧╩╫╬юабдефилннноятвыьжсяоннмллмнппоярмфцдедцббцббаю©╬╫╫©╬╫╫╬╬╫╪╫╩╪©аббббцддцбцфиеааааабююаааааюббббббббццццббббабцддегймосрпрспояряпппояяяяяяяппярсттяопррртсрсуужьзэщчшэщэщщщшызшшыьжжвтсувввжыьввввььвввжужжжтттттсз~|шстутртстужуссужуувжуувььььввввььвжуувыывужьызыыьввввутутррстттртуссжьввввыэъъъЮЮъэыжрниххгхииилмннооннммннннооооппппппнноппнмнлмнмкйлмкййийкллийккййклкихиккйииййййихггххххгффффффеееффффффгггхххххххиийхфгфгкрряооонммллмммнпопсвжрпрлигфцба╫╬╫╪╩╩╨╦╥╥╤╣╣╣╢Ё╡╣╣╦╩╩╨╣╜║╒ё╓ёё╒║ё╒║÷···÷·═²≤≈ ≥√≈≥ ≈▓█▄█▀▄█▀┼┼▀┼┴┬┤├┘┘├┤┬┴▀┼┤└└┘└┐┐┐┐┐┐┐└┐│──│││──}{{}─}||||{yyyy|┌┐┌└▀┼┼┼┴┬┬┴┴█▐▐▐▐░░▐▌█▌▒▓▒▐▒▐░∙≤√⌠⌠▓▒░░░░░▒▓⌠■■⌠■√≈≤■▓⌠▐├}───~|zyx}{{}┌▀■²╒╖╖╓÷ √∙∙ ÷═ё╔╓ё╒╒╓╓ёё╓╓ё╓╔╗╚╜╜╘╓╒╖╛╞╟Ё╡╢╤╥╥╤╤╤╣╣╣╥╩©аббдггфефхклнпяяппмлйккйклонкххххгхииггхиийййййклмлмннммннярсссстжвутсстжвзьутсряяряооннлккйхфефгфххххгецаюю©╫╩╨╩╩╨╦╡╙ё·°²⌡⌡°⌡≈∙∙≤√≥°°≥√⌠▓▒▐██▐▓■∙⌠∙√√∙√≈≤√■▒▐█▄▀┼▀█▌▌█▀┼┼┘┘├┤┤├├┤├┴┬└└┤┤┘─┐┌~│─┌───┌┌┌│││││─│┐┌~|}│└┌│┌┐├┴▀├┐┌┐┐││┌││~||┐┘┘├┐│┐┌┌└└├┬┼▀▀┼┼┬┴┴┴┴▀▄▄▄▄█▌▐▒▓⌠▒▓■∙√≈≈≈≈°══÷═║║÷║╒ё╗╗╕╖╖╔╔╔╕╕╖╗╔╖╙╝Ё╥╩╫ю╪╩╪╩╦╥╧╥╦╧╨╩╫юбдегилмннноржььжтсяоомкклкопооянйдееецбцццбаю©╬╬╫©╬╫╫╬╬╫╪╪╩╪©ааабббддцбдгкфбаааюа©юааааююббббббббццбббббббццццехйнпсрпрспнпяяпяяпяяяяяяяяпярттсяопяпоррясттувышщчщчщээщчщээээзьвжывувььввыыьвввьыььвжжжввжутттсэ}эттжусуртжвуссуутувжтувььььььввьььььвввьвжжьыззывжжвьжтжжттуужжсссссуввььышщъЮЮАЮчшьтолйихххиииллмнонммммнннноонопяппоонннппнмнлннмклллмлккййккййкккйккйиииййиихиййихххгхххггфеффффееффффффффгхгхххххийййгфггинрряооннмнллмнноппружурпойхгфбаю╫╫╪╩╩╨╧╦╥╥╥╤╣╢Ё╢╢╦╥╨╩╧╥╟╗═╒╓╔ё╒║║╒║══·²²··÷·≥≤≥≥√≈≈≈≈■▐█▄▀██▀┴┴┴┴┴┬┤├├├├┘├┬┴┴├┐┌┐┌│───┌┐└└┐┌│────│─}{yz|}{zyz|}}~~~│├┤┤┴▄███▄▀┼┼┼█▐▐▐░░░▒░▐░▒▒░▌░▐▐⌠√√⌠▒░▐▐░▒▒▓▓▒■√√√≈≈≈⌡≥≈≤≤■▌┼┬├└┌─}zyxx{}~~─└▐√÷╔╕ё⌡∙∙■≤·║╓╕╓╔ё╒║║═║ё╒ёё╓╕╖╘╙╚╕╕╛╟╝╞╡╡╢╤╥╤╤╣╣╣╢╢╣╦╫ацацфхгеегкмнпяяппнлккккклонлигхгфгхгффгхгхххххикликлмннопярстсстувжутстужзьжтсряяряооонмкккигфффехиихфцаю╬╬╪╧╤╤╥╦╥Ё╛╔═·²²⌡°° √⌠⌠√√≥°⌡≈⌠▓▓█▌░░▓∙√√■√≈≈≤≥≥≥≈√⌠▒▌█▄▄▄█▌█▄▀▀▀┤├├┤├┘┘┤├┤┤┘└┘└┌│┌┐┌~──~|{{||{─}zyz|}~─│─|z}─│~┐├┴┼┤┐─~│┌┌~}{y{─└┘┘├└│┌││└└┘┤┴┼▀▀▀┴┴┴┬┬┼▀┼┬┼█▐▒▒▒▒▐▒⌠■∙√√√≥·║║═║╒╒·║╒╓╘╘╕╖╗╖╕╕╕╕╖╖╕╖╘╚╝╡╥╨ю╬╬©╪╦╤╥╥╥╦╦╧╪©ацегийлмомнятвьвууряонкйкймпоноомфффедцццбббаю©©╬©©╬╬╬╬╬╬╪╩╪©ааабббцдцбехкгбаааююююаааааабббццбббббббббббцдцбцфикнпсрояспнпряярряппяяяяяяяяяссяппяроняяясстувышэщъЮъэшщчщщччщшыььзьвьььььзыььвььыыьвььвжвжуууттэ}эттутсжттужуттутстжжттввжжвьыьвьььызывужжвьыыыыьвжжвьвжввжуттужтсрстужььызэщчЮАБЮщзжямйкйиххийкклмнонммммннннопоооппооооноппнннмннмлллкммллккккйиийййииийййииийххиииихгггххгффеффгфеефггффффгххгххиииййкйгфггйяряонмлмннмлнннояружтсрокиффебаю╪╪╩╨╨╨╧╥╤╤╥╥╣ЁЁ╣╥╥╥╧╥╠╜╙╔╒ё╓╓ё╒║══÷÷═·°²·÷÷² ≤≤≤√∙∙√≈∙▒█▄▄▌▌▀┬┬┬┬┴┬┤┤┤├┘└┘┤┬┬├└┌│───┌┐│││──~~~}}|zz{}}|}~││┐┐┐└┬┬┬▄▀▌▐████▀▄█▌▌▌▐▐▌░▐▐░▒▒░▐▒░░▒■√⌠░░░▐▐▐░▐▐▐▒■■∙√∙■≈≤≤≥⌡²⌡≤▓░█▀┼┤┌z{}~}~└┼▓⌡║╒·≥≤■√°║╔╖╕╕ё║÷²°÷╒═╒ёё╒ё╓╔╖╗╚╞╞╝╝╠╡Ё╢╢╢╢╣╣╤╣╢╢╤╨©цюбегфеехлмнпяяппомкллллмппнйххгфгхгффгхгффггхийлккллмнпяпястттттжжуттужжывутссрряпоополйллкиггедгийифбаю╫╩╦╤╢╢╢╢╠╛╔║══÷² ≥≥≤≈■⌠■≈≤≤√⌠░░░█▒■■■∙√∙■√≈≤ °° ≤≈√⌠░███▄██▄┼┴┼▄┴┬┤┤├┘├┤┤┤├├┘└└┐├┘└┌~│─}{zz{{{~}{yxxz|~─┌─}|~│─~│┘┬┬┤┘┐─~─└┐{{zy{┐└┤┤└│┌┌│┐┘├┬┼▀▀┼┴▀▀┼┤┤┬┴┬├┬▀▐▒▒▒▒▐░⌠■∙∙∙√⌡÷║═÷║╒║÷║╒╓╘╘╖╖╗╖╔╔╔╕╕╕╔╗╙╙╙╛╠╤╨╪©©╫╧╦╥╤╥╦╦╧╩╬юадфххилнннпсжьвжжсрпнлккйлноооопхгеедддцбббааююю©©©©╬╬╬©╫╪╫©ааабббццббехкфбаааааааабббббаббццббабббццццццддцдгйкнорянпронпяяпяяпппяяяяррряяррппяярпоррясрстжвыззэъъщэччщщчччщшшшзыыыьвьзззыыыыыызьвььвжжтужжжтш}}эссуттввутужуужтрсжжттвжуужыззьыьвьззьжтжьзззыыввввввььввжусрстжсясуужывышэщчъАЦЮщытокхкйиххиклклмоонммлмноннопяпоннооопооппннооонллмлиллллллллкйййккйиийккйийлхггхййхфгггггфеефгггффгхггффггхифгиииийккйгфггкрряомкклннммннноясввсяянхиеедба©╩╩╨╨╧╧╦╥╤╣╥╥╣╡╡╣╧╤╤╤╠╗╔╔╓╒ё╓╓╓ё═÷·²·÷·°²÷═÷°≥≈≈≈≈■■√≈∙▒▌██▐▐▀┬┬┬┬┴┬┤┤┤├┘┐├┤┬┬┤┘┐│~~─│~─~~~{z{}}|{|~┌┐┘┘┘┘┘├┘┘┬┤┬▄┼▌░▌█░░█▀▄▄▀▀▄▀┼██▌▐▒▒▒▒░░▐▐▓■▓█▓▒░▌▌█▄┼┼█▐░▒⌠⌠▓▓■∙∙≈⌡⌡≤∙⌠▒▓⌠▒█┴├├┐─~~}}─┌┤▐≥═║÷⌡√√°║╕╘╗╕ё÷°  ²═÷║ё╒═÷║╒║╗╝╞╜╜╞╟ЁЁЁ╡╡Ё╣╤╥╥╤╣╤╧╬б©юцеедфилмнпяяпппнллмллмяяокиххгхххфгхихефгххиклнммллмояпяртууутууууужжвьвуттттспооополйлмлйхгеддгккгцбб╫╨╤╢╢╢╡╟╚╕═·÷═÷°⌡≤≈≤≥≤≈√≤≈■▒▐▌▌▐▒∙≤≤√√∙∙■∙√≤⌡··°≤≥≤∙▒▌█▌▄██▀┴┴┼▄┼┴┬┤├┘├┬┬┤├├├└└┘┤┘┐{}~~{yxyz{z{{{zyxxy}}{{}─~~│├┤┘┌│┌─┐┤┐{z{{{|─└├┼┬└┌└└┌┌├┤┴┼┼┴┤┘┤┬┤├├┬┴┴┼▀▄█▌▌▐▐░▒■∙∙∙√√°÷═··═║÷═║║ё╗╙╗╘╔╓ёё╓╕╖╕╔╖╙╘╖╗╜╠Ё╧╬©╫╩╨╧╤╥╦╧╨╪╫©©цфгфгймоопржьввжтряолллйклопппяигеддддцбббаааюю╬©ю©╬╬©©╫╪╫юаабцццццббеийфбаббабббббббццаббццббацццццццццддцехйкмояпмпяонпяпооонпппяяярртсрррпясяряятсяррртужввььэчээъъщщчъъчщщщыыыыьвьшзззззззззьвыывуустжввуз{{эустттвутстттужууужуттжыыььввььвыыьызывуьшшзььыьвжвызьвжууутсряжуутужвььззызщАБъАчволййкййииййкммммннннлмннннопняромоппряпоооннннммлкккмлллкклллкйкккйхииииййййгххииххххххгедефефггфффгхгфггхгффгхйкллллигффхнупомлллммйлноноястуутрплифдддб©╫╫╪╩╨╧╧╥╤╢╤╣Ё╡╢╥╥╤╧╢╜╗╒·═╕╓╕╔╒╒║÷══°⌡÷═²²║÷·⌡≥≤≤≤≥■■∙√√⌠▐▄█▐▌▄┬├├├├├┤┤├└┌││┤▀▀┤┐─~~~}}}─┌~─│─~─}{{{|┐└└┤┴┼┤┘└├┬┬├├┴▀▀▄▌▐▐▐░▐█┼┼▀▄▄┼┼▀▀▄█░▓⌠▓░░░░░▓⌠⌠▓▒▓▓▓▒▌▀┴█▀▀█▒▓▒▌▓⌠■■≈⌡²² ≈⌠░▒∙∙■▓░█┼├─}|─┐└├▄√·═°⌡°·╒╔╕╕╘║≥≈≤ ·╒║ё╒║═⌡≥²╒╗╝╟╞╞╞╞╡╠╡╢Ё╡╢╦Ё╣╥╤╣╤╪юацддегххмннпсяняппоопоннппокииххиххиихгфддегйккйлллкклмояояужууьввжуттжьььужвтртпппонлкйнонйгеедфгиихеа©╧╤Ё╠╠╟╜╙╓ё║║═÷²°≤≤≈≈≥⌡ ≈∙■▐█▐▐▐▒√≥ ≤√√∙∙√√√≈ ²·² ≈√≈∙▐┴┤┬▀┼┤┤┴▀┴├┤├└┐┐└└├┤┤┤┘┌┌┌└┌│─~{|~|zxxyzyw}|{yxwvvz{}}{{|}~~─└┤┤└─│└┬├─z|}~}|~┌┘┴┤└┌│┌┐┐├┤┴┼┼┴┬┤┤├├┤┬┬┴▀┼┼▄█▌█▌░▐⌠√∙∙≈≤≤⌡²°°÷══║÷═╒╓╕╗╕╓╓╔╓╒╔╗╖ё╖╗╗╖╗╙╚╙╙╠╦╪©ю╬╩╤╣╤╨╪╪╪╬ююбдфхииноппсжввуутряпнкййлнннорнидцддццбббааю©©╬©юю©╬╬©╪╬юаабббддбаццдикгдбабааааааааааабцддцаюцбаацццбцбцдефиллопооппояомнопомяяррррсттуутсярсжусррсттррясувжузшэщщщщчЮччъчщэщшшзззшшшчщэззззшвыьуувжтрружжтз|~щутжжужжттууттжутужустжььвжввььвыыыышзьжьззыььыьвжвььвжужжутссртттттуууызшзшчАБАЮштмккккййииййклмммммннмнооооопояяпноппяпооооонннммллллллккккккккккккйийййййиииииииииххгхггфффгфгхгффггхгггххгггхийкккклигфгйотпонлкклмклммнортужурпнкифеддб©╬╬╫╩╦╥╦╦╥╤╢Ё╡╡╤╧╧╥╡╛╖ё═·═╔╓╕╓ё╓║÷═÷·²²··÷÷·²⌡ ≤≤≤≤■■■∙∙■▒▌▄██▀┬├├├┤├┘┐┌┌┌┌└┬┼┼┤┘┌────────~||}─~~─┌┐┘┬┘┤┼█▄┬├┤┼┼┬┤┬┼┼┴┼▀▄▄▄█▄┼┴┬┬┴┴┴┼█▄█▌▐▒▒▒░▐▐░▒▓⌠⌠⌠⌠⌠⌠⌠▓░▌▄▌▌█▌▐▐▌█▐▒⌠■∙≥  ⌡ ≈■■∙∙⌠■⌠▓▒▐┼┤┤└├┴┬├┼⌠⌡≥⌡·║ё╓╓╓║°≥ °²═╒║║÷²²≥≤⌡ё╖╛╞╟╟╞╝╡╞╝╠╣╤╣╣╡╢╤╣╢╤╨╬ацдддфхимннпсяояяпппппоопполйииииххххххггфегиййййййййкморпружтувввжутужьььуувуртрряяпомлмоолихгггггфдю╪╦Ё╠╞╝╝╜╘╕ё╒╒╒║÷²⌡≈≈≈√≈≥≥≈░▓░▌▐▌█▐√≤≈■⌠■√≈⌠■■√≥°°⌡≥≤≈≤∙░┼├┴┼┬├┤┼┼┬├├┘└┐┌┐└└└┘└┐┌┌┌├┐│─~|{|{{zzyxwvxxxxxxxxyz{{zz{|{|~┌┘┘┌~~~─└├┘{}||}}|┌┘┐┌│┌┐└└┤┴▀▀┼┬┤┤├┘┘┤┬┴┼▄▀▀▄▌▌▌▐▒░⌠∙∙■∙√∙ ²··═║══÷║╒╓╕╖╕╓╓╕╕╓╓╕╕╓╗╘╗╖╖╘╙╘╚╝Ё╥╪ю©╫╩╧╧╨╨╨╩╫╬©ацегхилнопруввужутрролккмнонояпйедддддббббааюю╬©юю©╬╬©╬╬©ацццбццбаццдикхдбббаааааааааабббцццбббббцццццдццдефхккнпппппнппооооооярссстжвжьззывжжвуттттсссррсужжувызэээээчщщччщщчшшшшшшшшщэшзззшшзыыьвввьжуууутз|─чутввуужууууттутужжуствьвуужьььвьыызшшыыыыыыыыыььвввжууужжжтстттуужжуутызшзэъАБЦъвокйккккйййййклллмммммнопооооппппяонояпоооппоннммлллллллккккккййкккйккккййййииййййииххггфгггггххххгггггххххгххииййкйййкигфхмяряпнлккллммммнятжввуянлйхгеддбю╬©╫╨╤╣╤╥╦╥╣╣╢╤╧╩╧╣╙╔║══÷║ё╔╓╒ё╔╒÷═·÷·°²÷÷²°°⌡ ≥≤≈√■⌠⌠⌠■■⌠▒▀▀▀┼┬├┘├┤├└┐┌││┌├┬┴┬├┘┐│─│┐└┐│}│─|{|~│┌│┌├┴▀▀▄┼▄▐░█┴┬┴┴┤┘┘├┬┤└┤┴┼┴┴┴┬┤┘┘├┬┬┬┼▄██▌▌▌▌▐░▌▌▐▒⌠■■■■■■■■▓░▌▌▐▐▐▐▌▌▌▌▒⌠■■√≈≈≥ ≥≈√∙⌠▓■⌠■√∙⌠▒░▌▐▒░┼├▄■∙≈ ⌡⌡°·═≥≈≤°·²²·÷· ≤≥≤≤°╓╕╘╛╞╠╟╜╟╝╝╡╤╥╥╤╢╣╥╤╣╣╦╩©бцбацгилнопсяорряппппппопомкккйихххххххйхффгиййххиийкмосрсужттжвжжутужвввуувусутсррряпнмннкиххгихфдб╫╤╡╜╛╚╚╛╙╖╓╒╒╒╒║÷° ≤≥ ≤≈√■▒▌░▐█▐▌█▐∙√∙⌠▓▓■∙░▒▓⌠√≥≥≤≈≤≥≤√▓▀├┬┤┘┐┘┬┬┘┤┘└└┌─│└┌┌┌┌┌┐┐┌┘┌~}{yyyzzyxvuutuvwxxxxyyxxyyzzz{~┌└└│~}~─┐└┌~|~|{}}|}─││──│┐┐└┬┼▄▄┼┤├├├├├┬┴┴▀▄▄▄█▐▐▐░▓▒⌠■⌠⌠■■⌠≤²÷÷║║÷═÷║ё╓╔╕╔ёё╖╗╕╓╓╔╓╗╗╖╕╕╖╗╗╚╚╛╟╤╪©╬©╫╩╨╧╧╩╫╫╬юбдфхийлнояуввжжжутсянллмоонопрмгедддебццбббаа©©юю©©©©©╬╬адедббцббдддхкхебббааццццццццббааббцдбцддддддддддефхйкмопопонппппоооппясттжьыьшчъчэзыьвжуутсясррстуутувышшшшшэшэщщэщчшээщщэээщэшзззшэшььыьужззвтсстш}чутжжттжуужутсттужвусувьжуужьььввьызшшзэзыьыыыыьыыьжууутужжтттужжжввжжуьызшэЮББДщслйккйккйййййклллмммммопппоооояоояпмняоооопонмнмллллллллллллллийккййклййййккккккййихххгфффхххгхххгггггфгххггхиийййккйййигеиояппомлллллннноясужввтпмкигфедцб©╬©╩╧╥╣╢╣╥╦╦╧╧╧╨╧Ё╜╕ё║║══║ё╔ё║╓╖╓═║÷·²°°²°⌡°⌡⌡≥≤≤≈≈∙■⌠▓⌠■■▓▀┼┼┴┬├┘├├┘┘└└┐┌│├┬┴┤└┐│─│┌┐└└│~|───│┐┘┘┘├┴█▐▌█░░░▐▄┴┬┬┘└┌┐└┘└┐┤┴┴┬┤┤├┘│┐┘┬┴┬┬┴▄███▄▄▌░▌██▐▓⌠■√■■∙√√∙▓▐█▌▐░░▒▒▒▐▓√≈√∙∙√√√≈≤≤≈■▓▓▒▓■∙■■■√√≈≤∙▒▐▐▒▓■√≈≤ ⌡≤≈≤°² ≤≤⌡⌡≤√≈≥°═╓╔╖╘╛╞╞╜╜╞╡╢╣╣╥╧╤╥╦╥╤╣╤╥╩©ба©аехлопясрпрряпоппяяопомлллкйихххииийхгфхиййхииийкморрсжжуужжжжуужжввьжувжтутряяррпннполйихгйхецю╩Ё╝╚╙╙╙╚╙╖╔ёёё╒═·⌡ ≥⌡°°≤■░▌░░█▄▐░░▓■∙√∙■▒░▐▌▌▐▐▒■∙■⌠√≤≤≈∙▌┤┬┤┘┐└├├└┤└┐└┌─┐││──┌└┘└└─}|||zxxxxwwwvvvvxyzyxwyyxxyz{{{|~│┐┐│}~│─~|{||{|}─│───────├┴██┼┤┘┘┤├├┬┴┴┴▀██▌░▐▌▌░▒▓▓▓⌠⌠⌠⌠√°·÷═══║║ё╓╓╓╓ё╒╓╕╖╔ё╓╔╓╕╕╕╕╕╖╖╖╙╗╗╚╟╣╨╫╬╫╪╩╨╨╩╪╩╫©ацегхилноятжвжввжууромлмнооопсоиеццдеццццббааюююю©©©©©©юбдедцбцццеддхйхебаааюцццццццццббаббццацдедддеддддегиклмноооооппооооопппрстжьышчЮЮчщщэыьвжутряссрстттттжышээээшзшээшэщшэчччщээщщшззшээшзыывувззжсрсуэ~~ъвууусууттуусстстужтстжвжужвьыывввьззззщшыьыззыьызывуужуужутттужжжжжжжжвьзшщАБББзякккйиккккйййкклммнннноппонннояоопоммпоооооонмнмлллмлллллллллмийккййкмйййкккклкййихххгхгффгхгфххггггггфгххггхиийййккккихффкпяоннмлллмммноясууужжтпмкхфедцца©╫╬╦╧╧╤╢Ё╤╦╩╩╩╨╦Ё╚╓ёёё╒║═╒╓╓╒═ё╖╔╒╒═°⌡°°≥≥⌡°⌡ ≥≤≤≤≥≈√■▓▓■■▓▄┼┬┴┬├┘├┘┘└└┐┐┐┐┘┬┼┬└│────│┌│}─┌┘┤┤┤┬┴┴┬┬┼▌░▒░▒▌▀┼┴┤├├└└┐┐┐┐┐└┤┬┴┤┘┘└└┌┐┘┬┬┤┤┬▀▄▄▄▀▄▌░█▀▀▌░▒⌠√▓⌠■√≈∙▓▌███▐▓■■⌠▓∙≥ ≥≈√≈≈√√≥°⌡≈⌠▓▒░▓⌠⌠⌠■√≤≥≥  √░░▒■≤  ≥≈ ≥≥⌡ √∙≈≈≥≈∙≈≥²ёё╕╖╖╗╙╜╝╜╟╡Ё╢╣╤╥╤╤╤╤╤╤╤╤╦╬ббюадфлпяясрясяпооопяянпомлллкйихххиииихгхийййккккклнпярсжввввжжуужжжвжьжувжтусряяррпояряолкйихеца╬╧╡╛╛╚╙╙╚╙╘╗╓╓╒║÷²°⌡≥ ⌡ √▓░░░▌▀▄▒⌠▓⌠■∙≈≈∙▒▌▄██▄▀▄▐░░░⌠√≈≤≈▒▀┬┬┤┘└┘├├┬└┐└┌~┌──~│┘┤├┌|{|}{yywuuvwwvwwyz{zxwxxxxyz{{{|}───}}}~|yxyx{{y|│┌~──│─~}}│├▀▄┼┤┘└┘┘├┬┴┬┴┼▀▄▌░▐█▄▄░░▒▓⌠⌠■∙√⌡²°·÷═╒╒╓╕╔╓ё╒║╓╓ёёё╔╔╓ё╓╔╖╖╖╕╕╘╖╗╘╚╜╡╦╪╫╬╫╪╪╪╪╨╪╬юбдфхилннпсжжжжжжуусянллмоооорплгдцдфдддцбаююааюююю©©╬юацдееедеддфдцгигебаааюббббббббцццццбббабдддцдеддддфхйкммннмноппомнопонппярствьшчАЮччщшзьжутссрссррсттттжышээээшшшэшызшшэчччщщщччщэшшшээчщзьызыьусртуэ}~ъьжжуувуттууттусссттссужвввььыыьввьзыызэшзызззыьыыывжжвжжууттттввввввььвызэчАБАЮьокллкиллккккккклммннннооооннннпооонммнпоооонммомлклмлллкккклллкккккклллллкккккййииххххггггггффхгфффггфффгггххийййкккллихгхмпяоммлллммнлмпстуттуусолйхедцбба╬╫╫╦╧╧╦╣╢╤╦╪╫╩╦Ё╝╖╒═║ё╒║═╒╓╒╒═║╔╔╒╒═⌡≥°⌡≈√≥°⌡ ≥≤≥  ≤≤∙▓⌠■■▒▌┼┬┬┬├├┤┤├┐││┌└├└┬┴┬┘┌─~}}~─│┌│┐├┼▄▄▀▀▀▀▀┼┼█▒⌠▓▐┼├┘┘┘┘┘└┐┐┌│─│┐┤┬┬┘┐┌┐┌┘└└┘┘┘┤┼┼┼▀▀▄▄▌▌▄┼┼▌░░▒⌠▓▓⌠∙≈∙▒▌▌██▐▓⌠⌠▓■√≥°° ≥≥≤∙∙≤°⌡√▓⌠▒▐▐░░░▒▓≈ ≥≥⌡⌡≤∙⌠▓⌠∙√≈√≤√√√∙▓⌠√√≤≈∙≤⌡²║ё╕╗╕╔╖╚╝╞╞╝╞Ё╤╣╡ЁЁЁ╢╣╤╤╣╦╫ббюадфлпяяррярпоооопппноомкккйиихххихххггиклкйлллллмопяртжвьььжууужввжжьжуввуутсрррряпоппнмлкйгеца╬╧╡╜╜╛╙╙╙╙╘╗╔╓ё═·²°°²⌡≤∙▒██▌█▌█▐■∙⌠▓√∙√√■░▌▌▄▄▀┴┴▄██▌▒■≈≤≤■▐┴┬┤┘┐┐└┘┤┘┐┐│~~│~}└┤┤│|z{|{xyvrqsttsttuxzzxwuvwwxxyz{|}~~~~}}{z{yvuxuyyxz──|~──~}}┐┤┴┬├┘└└┐┘┤┴┴┴┼┼┼▄▌▌▀┼┼▐▐▒▓▓▓■≈≈⌡⌡ ²·÷║║╔╖╕╓ё╒╒╓ё║╒╓╕╔╓║╒╓╕╖╖╕╕╘╖╗╘╘╗╛╡╧╪©©╬╫╪╩╩╪╬юацегикмносужжжжууутрпмклноооппниедефееддцбаюбаююююю©╬юбддеефефеефдцгигецбаааббббббббццдддцбаббццццддддддфиккнммннмояпнлмопомпяярртжвзщъчээзьывжтттссссрррсстсуьзшшэээшээзььззэщщщэщчъъъчщщээшчщыышшььуттутз|~ъвжьвжьуттууужвусстууууувьыьвьыыьвызыызшшшшшшзывььььььььвуууутсжвьыззыыызэщъББЮъвнкллкйлллккккйкклмнннмооооннннппоннннмооннннннпнлклмлклкккклллмлкккллкллллккккиииххххиггххггггхгфффггггфггхиииййккккккйххкоппоммллллммлорууууужурмихфецббца╬╪╪╧╧╦╥╥╥╦╨╫╪╧╡╜╘╔ё═║║║══║║║ё═·║ё║══²⌡⌡ ≈√≈⌡⌡    ⌡⌡≤≤≈■■∙■░▒▄┬┬┬┤┤┬┴┤└┌│┌└├┘┘├┘┘┘┌~~}}┌├┬┬┤┼▄███████▄▀▄▐▒▒█┼├┘└┐┐└┐─~~~~│┤┬┬└┌│││┘└└└└┘┤┼┴┼▀▄███▄▀┴▀▐▒▐▐░▓▒▒⌠∙■▒▌▌▌▌▐▐░░▒▓⌠≈⌡²⌡  ≤∙■≈ ≤∙⌠■▒░░░░▐▐▓∙≥     ≥≈■▒▒▒▓⌠⌠▓▓⌠▒▐▒∙∙≈∙∙⌡÷÷═╒╕╘╗╕╖╙╚╞╝╜╝╠╣╢╠Ё╡╠╡╣╤╤╣╦╪юю©адекпяпяяпяоооопяппнонлййихххгхххгфиххиклкйкллллмнпяртжььььжуужжввжвывуввуутсссррряноомлкйхгфеб╬╦╠╜╛╚╚╙╙╘╖╕╓╓ё║÷²°°² √▓▐▄▀█▌▒▒▓∙∙■∙≥≈∙∙⌠▐▌▌┼▀▀┼┼▀▄▀▌▐▒√≤≈■⌠▀┴├└┐┐┐└├┘┐│~~─}└┴┼┐│~{{{zwxvtsssttstux{|{zxz||||}~│┐└┐│─~{yzxvvyvvxy{{{{}~~~│└├├├┘┘┘└├┬┬┬┤┬┬┴┼▄▀┼┼▀█▌░▓▒▒■≤≥°⌡ °²²·═╓╖╕╓╓╓╓ё╒╒ё╕╕╔ё╒╒ё╔╕╕╕╖╙╖╖╘╘╖╘╞Ё╦╪╫╫╫╪╩╩╫©ююбдфгйлморувжжуттжутсоклмнноояпкгфффдддддцббцбююююю©©юацеффеефддеддгихфдббббццццццццццддддццдцббцддддеддфиккммнооннпонммноонппяяясувьзыуртуувжуууутсссрррссттжьзшшээшшэшыввыышээээщчъъЮЮЮчщэззззшэшыжуууутш~~чжуьыввжттужжвывутжввжжтвыыьввьзььызыыззшэээшзывввьььььзьуужжтссувызыьвшэщчЮБАЮъжмклмллллллкккййклмммммоопоннноояпнмоомонммнооопнлклллклллллмммнмкклллкккклллллиихххииифгхххггххгффггггггфгиййикккккккккххмппппнммлллллмятжжужввуякгфедбббцб©╪╪╩╧╥╤╦╨╩╩╩╧╢╛╔╒╒╒╒║║═══÷·═╓║°·╒═·÷·°≥≤≥≤∙  ⌡⌡°⌡⌡⌡≤≥≈■■√■░⌠█┬┬┴┤┤┴┴┬├┘└┐└└┘┐┌┌┘├┌}~~│├┼█▌┴┼▄▄▄█▌░▌▐▌▀▀█▌▌▌▄┼┬┘┐┌┐┌~{|~─│┤┴┬┘││││┐┐└├├├┤┴┴┼▀▄▌▌▄┼┼┴▄▒⌠░██⌠▒░▒⌠⌠▒▐▄█▌▌██▐░▐░■≥°⌡⌡⌡≥≈√≤ ≥≈≈√■▓⌠■▓░░⌠▓∙⌡²≥√√≤ °°≤⌠▐█▒░▒⌠▒▐▒■∙√■√·╓╒═╒╕╘╘╗╗╘╘╜╞╟╞╞╡╢╣╣Ё╡Ё╣╤╣Ё╥╩╬╫╫юцейопоппопооопяяяпмннкиихгггггхгфейхххйлккййккклнпясужьььвууужвввжвывужвутссссряяряяпнлкигфеда╩╣╝╙╚╚╚╚╙╗╕╓ёё╓╒═²°°√■⌠⌠▓▐▌▐▓∙■⌠■■∙≥ ≤≈√⌠▐▀▀┬┼▀▀▀▄▀┼▐▌░∙≤√∙■▐▀┤├├├┘┘┘┘└─~~~}─┌│~┘┼▀┬┤┐}}{xyyyxwwxyxxy}─││┌┘├┘└┘┤└┤┼▄┼┤┘┐|z{zxy|yuw||ww{}~~~~─│┌┐└┘├├┤┤┤┬┬├┘┘┬┤┬┴┼┴┼▄█▌▒▓░▐⌠≥ ²°⌡²²°°÷ё╖╕╔╓╔╔╒╒ё╕╖╕╓╒╓╒╒╓╔╔╕╗╚╕╔╘╙╗╘╜╜Ё╦╩╪╫╫╩╪╬©ююадфехкмнрувввуттжжууяллмнннняямхгффдддддддццбаюааю©ю©юбфгфдеедцеддхихфдццццццццццццццддддддецббцдддееедфикйллняянномннннннонооппртжьврйхлясжжжжжжуссрррррстужьзшээщшшэшыввыьзшшшшщъчъЮААЮчщэььэъщшэтттууущ│щжжжжжжжуууужввужжввьььввьььььььыззыызшызшщщэзььжжьыьвжзьжууууусуьыыььььзэчъЮЮъщжнкллммклкклмлйклммнмллмнннооппппоннноомлнонопномлллмммлмлклннкммммммммлллллллллкййккйииииххххххгффгхххффгхииииккккккййигйпрпмлнмнннллмяртуууужжснкигфдеца©©╬╫╫╩╧╥╥╨╪╩╨╧╟╗╕╔╓╒╒║║÷²·══·═║╒╒║÷÷÷÷·° ≥≤≈≈≤≤≥⌡⌡ ≥⌡⌡ ≈∙⌠▒▒░░▓▐┴┤├├┤┤┤├└┐┌┌┌└┌│┐└┌│─┌┐┘┬█▐▌▄┼▄▐▓▓░▌▌▄▄▌░▌▀▀▄▌█▀┴├┌┌┐|}~~~│┘┬┴├│─~~││─┐├├┐┘┼▀▄██▌▐█┼┼▀▄▌▐▐█▄█▓⌠▒░▒░▄▄▀▄██▄▄█▐▓∙≈≈≥⌡²²° ≥≤≤≤≈≤≈√√√∙⌠▒▓▓■≤ ≤√√√≈≥  ≥≤√∙⌠▒░▐▐⌠√ ≤≥²║╒╒╒╔╗╘╗╖╖╖╔╙╜╟╠╠╠Ё╣ЁЁЁ╢╣╢ЁЁ╣╧╪╬╫╬бекоппрппрряоооонннмлйихххкйихггфегхйкккклййкклмнпнржьыыыыьутужжжвжжутууууттсрпппппонмлйфдгедб╫╢╞╝╛╚╙╙╙╘╕╓╓║÷═║═°≥▓■■▒░▒▓⌠⌠■∙■⌠■√≥⌡≤■░▌█▀┴▄▄▄▀▀▀▄▄▌█▌⌠≈≈■▒▄┴┬┴┼┴├└┤└┐└┐──┐┘├┤┤┬┼█▐█▄▀┼┤┘┤┼└││└├└│──┐┘┘┘├├├▀▄█▄▀▄▀┴┴▄▌▐▌▀┼┴┤└│──│││~~~~|yxx|}~~}}──┌┌─│└├└┘┬┬├┘┤├┐├┤┴┼┼┼┼▀▐▐░▒░▐■ ° ⌡°°⌡⌡·║ё╔╕╘╙╖ё╒ё╓╔╔╓╓╓ё╒╒╓╔╔╕╗╗╖╕╖╗╘╘╘╘╚╟╤╪╬╬╫╪╫╬╬©адфгхйкнясуввжттужутсянллмооппнйфеееееддцццедцааюююааабцефгедддееффйкиецццбдццццццццдееддееццццдддддеедфйллмммммнпямннооооояонястужурмифейнсжвужьвтсттсррстужвьызэщшээзьььзььзшээщщччъъЮЮЮъъщээщэзывужутжъ─щжжжжжжжжжвввввжжжжвввьжжвьььььвьыыьышщызшэщэывывжьыыьввжуужвввтжызыььььзэщъЮЮчэунклммнлллклмлйклммммлкммнннооопонннноонлнонопномллмммммммлмннлллллллллммллккййкййййййииииххххххгффгхххггхииииииййкклллихкпянклмммнмллнрсуууттуурнйхгедеца©╬╫╫╪╩╨╧╩╫╫╨╦╞╙╕╕╖╔╓╔══·²²══÷═║║═÷····²⌡≥≤≈≈≈≤≤≥  ≥ ° ≥≈√∙⌠▒▐▒■▒▄┬├┘┬┬├└└┘├└┐┐──┐├┤├├┬┴┼▀▄██▄██▌░░▌▄▄▀▀█▌█▀┼▀▒▐█▀┬└┐└─~~─┐┘┤└│─~│││┌└└┐┘┴┴▀█▐▒⌠▒▌┬┴▀█▌▌▄▀▌░▓▒▒▓▒▌▀▀█▌▌██▐▌░■≈≤≥⌡°°⌡ ≥≤≤≤≤≤≤≤≈∙⌠▓▒⌠▓▓∙√√√√≥≤≤≥≥≥≥ ≥√■▓▒▒■≤⌡⌡²║ё╓╓╔╗╚╛╚╙╙╙╗╕╙╞ЁЁ╡╠╠╟╠╡ЁЁ╢ЁЁ╣╧╫╬╫╬беимоояонппоннноннмлкйиииийиихххфехиййййклкклкклнооруььььывустжжжжжутттуттсссрпппппоонмйгегедц╫╢╝╜╙╙╘╘╘╗╔╒╒═÷÷÷°≤∙░▒░▐▐▒⌠⌠⌠■√≈≈≈≤≤≈∙⌠▒▐█▄┼▄▄▄▄▄▄▀▀▌▄▀▌▓■▒▐┴├├┴█▐░▒░▌▌▐█┼┴▄▄▌▐▌▐▓⌠⌠▒░░░▌▄▄▌┴┤├├├┘┘┘┘┬┴┬┤┤┬┬▐░▒░▐▌█▄┼▄▐░▌█▄▄┼┬├├├┤├┘┘┘┘├└│─│───}}~─││─└├┘└┤┤┘└├├┐┐┘┤┬┬┴┴┼▌▌▐▐░▓√⌡  ⌡°°⌡²÷ё╓╔╖╗╘╖ё╒ё╓╓╔╓╓ёё╒╒╓╓╓╔╕╔╕╕╖╗╘╗╗╗╙╜╠╤╨╪╫©╬╫╫©адегхйлнясуввжттужуутрпмлмноопплгефеееддцццдцббааааюабцееффеедцддффийифддцбццццццццддееддеееееееедддеедфилмммммннооммнноооопнняррстсплхедгкосуужььусстттттсжжвьызэщщэзыыьььувыззшщъэщчъъЮъъЮъчщэшывжужжужъщжжжжжжужвььввжжжжжжжввужжвььыыьььььышщзшшээшывзьвьыыььвьввжжжвувзшыьввышщщчЮъчштнллмномммллмлккмннмлклммммнннопоммнонномномнпонммлмммммнмммннлллллллллммллккййийййииийиихххххххгффгххххиииииииийклллккхилполклммннмлнятуууттттуямигфдцдбю╬╫╫╪╩╩╩╫╬©╪╤╡╔╓╓╖╖╔╔╕═÷·²²÷════÷·²²²²²° ≤≈√√≈≤≤≥≥≤≈ ² ≥≈≈≈∙▒▌░▓▒▌┼┘└┬┬┘┌┐├┬┘┌│─├▀▌█▀████▄▄█▌▌▄▀██▄┼┼▀▀▄█▄┴┬┬▀┼┼▄▄┼┬┬┐│─┌┐┘┐│─┌┌┌│││┌└├┤┬▀▐⌠∙⌠▐┴┼▀█▌▌█▄▐▐▐░▒▒░▌▄█▐░▐█▌▐█▐⌠√≥ ⌡⌡   ≤√∙√≈≥  ≤∙▓▓▓⌠▓▓⌠■■■∙≥≤≥⌡⌡  °·⌡≤√∙∙≤⌡·÷╒╔╕╔╕╖╘╚╛╛╚╚╙╘╔╘╝╡Ё╡╠╟╞╠╡Ё╡╡ЁЁ╣╧╫╬╫╬беимопяомоннмнннмллкйиииййхххиихгехххииийкллллклмноружвввьвутужжжжвжутуттсррряпппппппонкхфгедц╫╢╝╜╘╗╘╙╙╗╔ё║╒╒═²≥∙⌠▐▐█▄█░⌠⌠⌠■√≤  ≤√▓▓⌠▒▐█▀┼▄▀▀▄██▄▀▌▀┴▀▒■⌠░┼┤├┴█▒∙≈≈∙√≈∙▒░▒░∙≈√√≤≤∙■⌠▓▓▒▐▐▐▌▄▀┼┴┬┬┴┼▄█┼┤┤┴┼▌░▒░▌██▄┼█░▒░▌▌▌┼┴┴┴┴┼┴┬┴┴┼┼┴┤├┤├┤┤├└┌┌┌│┐┌─┌└┐┐┘┘┐┐├├┘└┘┤┬┴┼▀▄▌▌█▌░∙≤≥≈ °°⌡²·÷╓╔╔╕╖╖╔ё╒╒ё╓╕╔╓╒╒╒ё╓╓╓╓╔╓╕╖╗╖╕╕╕╗╘╙╛╟╢╨╫а©╪╪╬абцегилнпсужвжттуууутсяонннпноянхегффедццццццббаббб©ацдфффффедццдефхиигедцбццццццццддееддеефффеедддцеедехкммммноонмммннннннппярсрртролифдегкосужььжтттужжтржжвьызэччэыьыыьжтвззыышчзшэчъъъъАААъэывжжуввжвъ~щжжужжжуужжвжжжвжууужввжжжввьььыыыьььзшшээээшыьзьжьыыьывььвжуужтвызывввзэчччъъщшуоллммнмммлллкклмоомлллллммммннпнммноононоомнпонмммммммммммммммммммммммллллллллийййихийихххиииххгффгххххиииииййййкллкиихймпнккммнноннптуууттттттялхфедбца©╫╫╪╪╩╫╫©ю╬╦╟╙ёё╓╕╕╓ё╓║═÷··÷÷÷²²°°°°²·°° ≥≈≈≈≈≈≤≥≥≤≈≥°⌡≥≈≈≤√▓▐▐▒▒▒▐┴┘┤┤└│┌┘├┐─│┐├▄▒⌠▓░▌█▄▄▄▄▌▐▄┼┬┼▄▄▀▀▄▄▀▀┼┬├┘┌┌┘┼██▀┼┘│─│┌└┐└┌─┌┌┌─}}│┌┐└┤▄▒⌠░█▀▄▄█▌▐▌█░▌█▌░▐▌▌█▐▒▓░██▐▐░▓∙≤   ≥  ≤∙■∙√  ⌡ ≈∙⌠⌠▓▓⌠∙∙■⌠⌠√√ ÷═°  ═²⌡ ≥ °·ё╓╕╗╗╖╕╔╘╙╚╛╛╚╙╘╙╚╜╞╟╠╠╡╠Ё╢╢╡╠╡Ё╢╦╪╫╫╬бейнпясяномммммлкйлкйиииййггххиигфгггггхийллллклмноятужжвыьжужвввввжжууутсярряпоппоппонкхфгфец╫╢╝╜╘╘╘╙╙╙╗╕║ёё÷⌡≈■⌠░▐▄▀▄░▓⌠⌠∙≈≥ ≥≈√▓⌠■▓▐▄▀┼█▀┴▀▄▄▄▀┼┴┴█■≥≈■░█▀█░⌠√≥≤≈≈≤√⌠▓■⌠≥°⌡⌡° √∙▓▒▒░▌██▌███▄┼┬┤┼▄▄┴├├┬┼▀██▄▀▀┼┬┴▄░▓▒▐▌█┴┴┬┬┴┼┼┴┼┼┼▀▀┴┬┴▀▄██▀┴┤├├├└│─││─┌┐┐┌┐┘┤├├├┤┬┼▄▌▐░░▌▌▒≈≥≈≈⌡²°⌡²÷═╓╓╓╔╔╔╓ёё╒ё╔╖╖╓╒║╒╓╔╔╔╔╔╔╕╖╖╔╓╓╓╗╗╘╙╛╟╥╪ю╬╫╫╬©аадфикмортжжжтсуутсссряпонпнорпифггфедццццццббббббюацдефффееедддеегхихфдцбдцццццдддеееедеефееддццццеедехкммллмопомммннннннпяссряррпнмкхеефглясужвжууужжутсжвьььзэччщзыыььввыззыызшызэчъъъъАБЦЮэьжжвуввжьъ~~щжжужжужжууужжжвжууужжввввввввввьыыыыззээщээшзызьжвььььтужжжжвьувызыььыэччччъъщшжпммлмнмммллккклноонмммллмммммнонннооонпнопннпнмммммммнмммммлллмммллмммлллллкккийййихийихххиииххгфггххгхиийийклййклкйихикопнлломмноноруттттттууспкхфедцбю©╫╫╫╪╪ююю╬╨Ё╙╓╔╓ё╓╓ё╒║ё╒║═÷··÷²°⌡⌡⌡°°²°°⌡ ≥≤≤≥√≈≤≥≤≈≤ ° ≈√≈√⌠░░▓▓⌠■▐┬├┘└┐└┘┘└┐┤┼█░▓⌠■■▒▌▀▄█▄▄█▀┬┤┴▀▄▀▀▀┼┴┴┴┴┤┘─│┘┴┼┼┼├┌─┌┐└└┘┘│~~~│─}{{~─││┌┘▀░▒▐█▄▄▄████▄▐█▀█▐░░░▌▐▒▓░▌▌░▓▓⌠∙≈≤≥≥≥  ≤√■∙√≤≤≤≥≥≈■▓▓⌠■■■⌠▓▒⌠∙≥÷║²  ²⌡ ⌡°²÷║╖╖╗╙╚╚╗╕╙╙╚╜╜╛╚╚╜╛╛╜╞╟╠╠╡Ё╣╢Ё╡Ё╣╢╥╩╪╪╬бфкояртроолкклллкйлкйиииийхгггхххххгффгхийкклкклмонпстужьыьжувььвввжууттсрпяяяпоопооонмйхгхфец╫╢╞╝╛╚╚╚╙╘╗╖═║═°≈∙∙■▒░▌▄▌▓∙∙∙≈  ≥≤≤≤■■■⌠░▌██▐▀┬┴┼┼┼┼┼▀█▓≥²⌡∙■▓▒▓■√≤⌡≥≤≤≈√■∙√■ ····⌡√∙▓▌█▄▀┼┴▄▀┼┼┼┼┤└┴┼┼┤┘├┴▀▀▀┴┴┼▀┼┤┤▀░⌠▓▐▄▀┼┴┬┬┴┼▀▄▄▄▄██▀┼▀▀▄█▄▀┼┼┼┼┼┬┘┐┐┐┌┐┐┐│┌┐└└├├┘├┬▀▌░░░▐▐■≥ ≤≥°·°⌡·÷÷ёё╓╓╓ёё╓╓ёё╔╖╖╔ё║ё╔╕╕╕╕╕╓╔╔╓ёё╔╕╖╗╗╘╙╝Ё╦╩╫©ю©©абцфхйлнясжжжтстттсттсрпнмомнрпкггггфедцццдццбаааааббцдефгеефффееегхиигеццддддддеееефееееееддддццццеедехлмомллнонмнннннннннпррппопнммлйгффдхмпсужвжввжтстужвьььзэъччщзьвьызззззззззшэщчъъчЮБЦАщыввьжжвжьЮ~щжжужжувжжуужжвжжууужввььввввввужьызшшэээщэшззззвжьыьььуужжужвввызззызшщчъччччэшжянмлммммммлйкллмнноннмммммммнннннннооопнппнопнммннммннмммммклммллллллмммлккйииййййиххиихххиихгхггггхгггхийийклиийкккййймппнлмомллнопрутссттуттройгеддцаю╬╬╬╬╬╬ба╬╨╣╝╗ё╕╓╒╒╒╒╒║ё╒╒╒═·²··²°⌡⌡⌡⌡⌡⌡°²°⌡≥≥ √√≤≥≥≤≤≥° √∙■■▓▒░▓░░⌠░┬┐├├┤┬┴┴┼┼▌░▒░▐▒⌠∙■▐▄▄█┼┬┬▀┴┬┼▀▀┼┼┴┬├├┴▀┴├─~}~┌┘┼█┬└││┐└└└├├┌~~─}{zz}│┌─│└┼▌░░░▌████▌██▌█▄▄▐▓⌠⌠█▌▐▒▒▐▐░⌠⌠⌠■∙√≈≤≈≈≈√■⌠⌠■∙∙√≈≥≤∙⌠∙√∙⌠▒▒░░▒■≈⌡°²°⌡≥≤≥°·═║ё╘╘╘╚╜╝╛╘╚╙╙╛╛╛╚╛╛╛╛╜╞╞╞╝╟╡Ё╢╢╢╣╥╢╥╨╩╪╬цхлопрсяннйййкллллллккйииихггггхххххггийккйкккллнонпсуужвывуувьвжжууттссряппяпоононннмкихгхфдб╫╢╞╞╝╝╜╚╙╗╕╓║║·≥√≈≈√▒▒░░▓√≤≥√≤≥≥≈√≈≥⌠⌠⌠▒▐▌██▒▄┴┴┼┴┼▄▒⌠√ ÷║²√∙■■■∙∙√≤≥≥≤√∙■∙√⌠≤°²° √▓▓▌▀┴┤├┘┘┼┴├└└┘┘└┤┬┤┘┘┤┼▀▀┼┬┤┬┼┴├├┼▐▓░█┴┬┴┴┬┬┴┼▀▄█▄▄▌▌████▄┼┴┬┼▄█▄▄▀┼┴┴┴┴┤├┘┐┌┌┌│├┘┘├┴▀▌▐▐▐░▓≈⌡°⌡°²²°⌡²·÷ёё╓╔╓╒╒╓╓╓╓╔╕╕╓ё║╓╕╔╔╕╕╕ёёёёё╔╖╗╔╖╗╗╘╚╟Ё╤╨©ааабдцехийлпржжутсттсттттсянлнноппмиггффееддцддцббаааццццдефгееффффееггхигеддедддееефефффееефеееддддддеедфйлмпомммммлннннннннопяяппонмлллйхффцеилптжвжьывтртжжвьььыэъъъчшыьызшыыызшшзшшэщччъъЮАБЮщзыыыжжвжьА─~щжуужжужжуууужжуужжжвввььввввььужвызээщэээшзыззыьвьзыьььвжуужжжызшзыышэщчъчщчщшшжяонммннмммлйкмкклмоонммммнннннмноонмнопопяооомммннммнннммнмккммллккллмнммлкййикййиииххихххиихгхгггххггхиййиийлййкккккклояпмллннллнярсуссстуутсянифддццю©╬╬©юююа╬╧╢╞╚╖╔╓╓ё║══╒ё╒╒╒ё║·²²÷·°⌡⌡⌡⌡ ⌡²··°⌡  ≤≈≈≥ ≥≥  ≤√■▓▒░▐█▒▐█░▒▄├┼▀▄█▌▐░░░▓▓░▌▐░▐░█▀▄▀┬├├┴┴┴▀▀┼┬┴┴┤┘┘┬▀┴┘─~{{}─├▀├┐│┌└┘┘├├┤┐││}~}zy|─┌┐││└┬▀▄▌░▌▌██▌▐▐▐▌▐▌▄█▒■■▐▌▌▐░▐▌▌░▓⌠■⌠■∙√■■■■■⌠⌠⌠■■∙√≈≈≈√≥ ≤∙▒░▌▄▐⌠∙√≤°²⌡≤≤ ·╒╓╔╕╘╙╚╚╜╝╜╚╙╗╗╘╙╙╙╚╛╚╛╜╞╟╞╜╞╟╠╡Ё╢╣╤╣╥╨╩╩╬ейлоопрпммккййклккклллкйиихгггххгфгггхикккккккллнооятууужввуувььжжуттттсряопппоннннннлйихххеца╩╢╟╟╜╝╝╜╚╗╔ё╒║²≤≈ ≥√▓⌠■■√≥⌡⌡≈≤≥≤≤≤≥⌡≈√■⌠▓░▐█░▄▀█▌▐▒∙≥°²²÷═°√■⌠⌠⌠▓▒▓■≤≤≈√■⌠▓▓▓■≈≥≈▓▌██┼┬├└│─│├┤├┐──┌┌└└└┌┐├┬┴┼┼┬├┘├├├┤▀▌▐█┼┤├├├├┤┤┬┴┼▀┼┼▄▌▌▌▌▌█▀┴┴▀▄█▄▄██▌▌█▌▀┼┴┤┘└┐┐├├┤┴▀███▌▐▓√≤≥⌡°·° ⌡°°²÷╒╒ё╓╒══║ёёёё╓ёё╒║╓╕╓ё╓╔╓ё╒╒ё╓╕╖╖╕╖╖╖╗╙╜╟╠╤╩©абцдцегххйнружутсттстттттсяонооопокгфффффедцддццццббдддефффффееееефгггхихедеддддееффффффееефееееддддфеддгкмлннмннмммнннммнннпяяппяпнмлккйхфгеефинястжьыьжуувувььвыэъЮъщшыыызззыыыыыыззшшщчЮАЮААЮщшззыжвььыА~щжуужууттууууттуужжвввввввввьыыьввьзшэщшшшзыыыззььышзььвуттжьыызшшыььзшщччщщщэззжяонннпнммнлклнкййлопнлннннннннлноомлнопоярпооллмннммнонмннмклннммллммннммммллллкиийихгйиххиихфхгггххггхйййххйклллкккййнпяпмллломмпсттуссстутсяпмхедццбю©╬╬юабб©╩╣╝╙╗╖╖ё╓╓║··║ё║║╒ё║·²²·²°°°°°⌡ ²÷÷²⌡  ⌡≤≈≤   ⌡≤≈∙⌠▒░▌▌▄▓░▄░■▓▌▐▐░▒▓▓▓▓▌░▒░▐▐▄┴┼┬┴▀┼├┘┬┤┬┼▄▀┴┬┴┼┬┘└┤┼┤┐┌─~|{{~┌└┌│┐┘┤┤┬├┤└┌┌─}}{z┌││┐┌┌┐├┤┬┼█▄▄▀▀█▌▐▐▐▒░▀▀░▓▒▓░▌▐▐█▄▀▌░⌠⌠⌠▓⌠∙∙■■∙√√√√■∙√√√√≤  °°≥■░▄┬▄▒■■≈°² ≥≥°║╔╖╗╘╘╚╜╚╚╛╛╙╚╗╖╘╙╙╚╛╜╛╚╜╞╠╟╞╞╞╞╟╡ЁЁЁ╣╦╨╩╩©фклоопрпммнмккйййийклллкйиггххихфефффгийкйккллклмнортжууужвжжьыьвжжуууутсропппонмнннмлиххигебю╨Ё╟╟╚╜╞╞╝╙╕╓║÷ √≈ ≤■⌠√≈≈≤≥⌡⌡⌡  ⌡°···²° ≥≈∙▓▐█▄█▓■√ ÷°·²⌡⌡⌡≥■▒▒▒▓▓▓■≈≈≤≤√■▓░▐▓▓∙≈∙▌┼┼┼┴┤├└│─┌├┴┘~─││─│└├├┼▀┼├┐┐┘┤┴▀█▌▀┬├┘└┘├┤┤┬┬┬┴┬┬▀█▌▌▐████▄▄▀┼▀▄█▌▐▐▌▐▌█▄▀┴┬┤┤└┘┬▀██▄▀▐░■≤≥≤≥°÷⌡≤ ⌡°²÷═║╒ё═²²÷╒ёё╒╒║║╒╒╔╔ё╒╒ёё╓ёё╓╔╕╔╓╗╖╖╗╘╚╜╞╝╡╥╪юбцццефггинружутстсрррстжутрнппоопмгеффгфедцдддддддддефгггфффедццегхгггихедедддддеефффффееефеееддцццфеддхлмлйкмнооннннмммммнопоннполомллкхггигфхлопяжвьььввжувьввьэъАчшззззызззывжввззззэчЮБААЮъчэшшьжвыызЮ~}эууужжууууууууууууужжжжжвьыьььььььвьзшшзыьышэшззыьыззьвжужввжьззээззшщъъчщэээшзьуянммммнмммммллййккклллоннооммооннммнопопяяяпооннмммннонннннмллкмнмлклнмлкклллккйййииихкйхгггггефхииихгфгхййкккйййййййимяямкмнмоопястттсстуутссокгеддбю©©ююаббб╩Ё╜╙╖╕╕╔╔ё║÷÷══÷·═╒╒═·²°⌡⌡⌡°··°⌡²·÷═÷² ≥ ≤∙■≈  ≤⌡≤∙■√√⌠░▒▐█▌▓√≈≈⌠⌠▒░▒⌠■▓▒░▐▌██▄▄┼┼┬├┤┴┴┬┴┬┬┬┬┬┬┬┬┴┬└┐┘├└~~~|zz|~~──├┼┬┤┬┘└├┐|{~|z{~───│┌┤├┐├┼▀▄▄▀┼┼┼┼▄▌▐▐█▄░▒░▒░░▌▀┼▄█▄▄▌░░▒⌠⌠▓√⌠▓⌠∙√≈≤∙√∙■∙≈≥≥ ≥⌡°∙█┴├┼░■⌠⌠√ ⌡·°²║╕╙╚╚╘╙╛╝╝╜╚╘╛╜╜╙╘╘╘╗╙╙╚╛╝╞╟╟╝╞╠╡╡╡Ё╢╢╥╧╩╪юфкикнпряомнкйкиггйхйклкййййхгххфддефгхийййкллммммнрстуууужьжжьывжвттттутрясрппооонпонлйихгфхб╩╩╥╟╟╛╛╜╝╝╚╖╓╒²≤≤ °≥√√≈≤ ⌡°°°°²·÷═÷÷÷╒║║║÷⌡√■∙√■∙≥°°²°≤≤⌡⌡ ≥√■▓░▒▒▒▒⌠▒⌠√≈■▐▌░▐▒⌠▒░▌▄┼┴▀┼├┌││─└┘┘┐─~~─~~┌┘┤┼▀┼├─┐┤▄▄▀┴┬┤└│┐└└└└└┘├▀┴┬┴┼┼┼▀▀▄▌█▀┼▄▐▐▌█▐░░▌▄█▌▌▌▐░▌▀▀▀▄▄████▌⌠≈≈√≈≥ ⌡⌡ ≥≥ ²÷··÷═÷²²··÷║╒║║║║╓ё╒ёёё╒═║ёё╒╒╓╔╔╖╖╕╖╗╘╙╚╛╝╟╢╩абюццегиймятжвусссссстужтстппопяплихефхедеедееббццацддеффффеддддеггихггффеддццеееегефгфеефгффффффффееефгикмллмммммммнооннммнопнннмккклмкхгхфефгхилпсуввьыьвтувыыыэъъщэщэззшззыыььььшыввзчЮААААъэзызвььзыьБ~эуутутттуужжжжжжжжжжжжжвьььььььвыззыззззыьышээшшзззшзыьуужввжжььзэшшэчъъчщээшззыжспннннммммлллллллллллмнмнонммооонммннооопппоннммннннннмннннммллмннллмнмлллллкйккййииихйиххххгффгхиииххххийккйййкккйййипрямклмлояртууттрстттссрнйфдддбааюабдца╬╣╝╙╗╔╔╕╔╔ё═··²²²÷÷÷··²··⌡°²·²²²²··═ё╒·⌡⌡⌡≤√√≤≥≤≈≤≈∙∙√∙⌠░▐░▓∙≈≥ ⌡≤≈∙■■√■▓▌▌▌█████▀▀┴┤┤┴┴┤┴┤┘┘┤┬┤├├┴┴┘┐┘┤┤│─}{z{}│}─┐└├┬└┌┐┌}}}|}│───┐┤┘┌┘┴▀██▄▀┴┬┬┼▄▐▐▄▄▐▌▄█▐▐▌▄▀▄█▄█▐░░▒■■⌠⌠■■∙√√∙■■∙√∙√≤≥≤°°÷÷≤▓█┼┴█▒▓▓⌠≤²═║ё╕╘╚╚╛╚╚╛╜╜╜╛╛╜╝╜╛╚╚╚╘╚╛╜╜╜╝╞╟╟╟╠╠╡╡ЁЁ╣╤╦╧╪юехикняяяоммкклкххкйкллкйиийхгххфееггхиийййкклмммнняртуужжвьввьывжжттттттсряппппяппяпнлйиххефю╩╩╦╡╠╜╜╜╝╝╛╗╔÷°≥ ²·°≥≥≥   ⌡⌡⌡²·÷═══··ё╒╒ё═°≤≈∙√∙√ ⌡ ⌡≤∙√≥≥≤√⌠░▐▌▐▒▒▒▓⌠■∙≈√▓▒▒▓⌠⌠▒▐▌▄┼┤┴┼┤┘└┌─┐┘┘└│─││─~|~┌┬███┼┘─└┴▄▄┼┬├┘┌──────┌└├┬├├┬┴┴┴┼▄▄█▀┴┴▀▌░▐▌▌░▒░▐▐░▒▒▓⌠▓▒░░░▐▐▌███▓√≈≈≤≥≥≥≥≥≤≥ ²÷÷····°²÷÷÷═║╒╒║═║║╒ёё╒║══╒ё╒╒╓╔╔╖╕╕╖╙╚╙╗╚╜╝╡╦©ббццегхимяуввжттсстстуусстряпяяпнкхефхеееедедббццбццдеффффеедддеффхгггггфееддефеегффффффффееееееееееефгилммммнннннмнннмммннопооонмлллмкхгххггхххилятжвьзыьжужвызэчъщщщэззззззззззззьвыэчЮЮЮААъэзызыывьввБ│щжуттссстужжжжжжвввжжжжьььььььывзшзыышшшзыышэээзыыыыыььуужвжужвьшэээчъъъчщээшззывспоооолмммккклллллллллммнннммнпоннмннооопппонмммнооннмммнннммммнонмлмнллллмлкйкккйииххйййййихггххиииииииййкйййккккййййярпмлммлоружутссррсссряямйфцццбабббдец╫╦╞╙╖╕╓╓╕╔╔ё║·²°⌡⌡°°°°²·²²°²÷÷²²²··°·╒╒² ⌡≥√■√≈∙■■√∙⌠⌠⌠⌠⌠⌠∙≈  ≥≥ ⌡²⌡≤≈≈≈■░▀▄█████▄█▄┼┬┬┬┬┤┬┘┌┌┘┤├└┘┬┴├┐┘┬┼└┐│}}}}}─||~─└┤┐┌┐│}~│┌│──└┤└─┐┤┼▄▐▐▌▄┴┴▀█▌▌▄▀▌█▀▀▐░▐█▄█████▌▐▒■■⌠▓∙√∙∙∙∙▓⌠∙√≈≤≥≤≈≥ ·²≤∙▓▌▄▄▐▓▓⌠≥║ё╕╘╚╛╛╜╜╞╝╝╜╜╜╜╜╛╛╛╚╛╝╜╚╛╜╝╜╛╛╞╠╡╠╠╠╡╡╡╡╢╢╣╦╪аехикняяпнмлклмлиикйкккййййкихиигггххиийййййкллммноястуужжвыььыыьжжтуутссссппппяряяяпнмкиххдц╬╨╩╦Ё╠╞╝╜╜╜╚╗╕²⌡ ⌡°²° °°⌡⌡⌡  ⌡²÷═║╒║÷·╒ё╓╓║° ≥∙√√≈⌡ ≈≈∙▓■≤≤√■▒█▀▀▌▐░░░⌠▓⌠∙√■▓▒⌠▓▒▐▌▌▄┴┘┤┬┬┬┤┘┌└┘├└┌─│┐└┐│~~│┬█▌█┼┘││├┼▀▀┴├┐┌│───│┌└┘├┘├┴▀▀▀▄▄▄▀┴┤┬▀█░▌▄▄▌░▒▒▒▓■⌠■∙√√√∙■⌠⌠▓░▌▐▓⌠■∙≈≤≤≤≤≤≤≤ °·═·²°°°·═÷÷═╒╒╒═÷·═║╒╒║═══╒ё╒ё╓╕╕╖╔╔╖╙╚╙╗╙╚╛╝Ё╨юццдефгхлпуввжуутртссттсстсряяяяонхефхфефедддццддцбцдефффффеддддефгггхххгффееффеефгфееггфеееееееееееефгйлмннноооонннммллнонопппппнмлммкхгхиххихггинржвыззыывжвызэчъчччщзыыззззззыыьььзщъъъЮАЮъэзззззьыввБ│чвутсссссужжжуужжжвввввььыьььызыззввыэщзыыышэээыыыыььввуужжжжвышэщээщчъччщээшзыыжспооонлмнмкйкмккккккккмммммлмнпооннооппяяяяпонммннонннммннннннннннмлмммммнмлкйкккйииххиииийихгхххххххиииийййййлккккййкяпнммнонпружтсрсррсссрппмйецбцбюцдефд╬╥╠╚╗╖╕╓╔╖╕╔╓╒÷²°⌡⌡≥≥ °··²⌡°²²·····² ⌡÷÷⌡≥ ≈⌠⌠√√▓▒⌠■▓▒▐▐▓√≥⌡°²⌡≥≤ °·⌡≤√√∙▒▌▀▄███▄▀▀█▄┼┬┬┬┤┤├└│─┌┘┘┘└├┤└┐┘┤┬┐│}}}}|x}}|}}┐┌─~~┌├┐~~~─│┌┌┌│┘┤└│┐┘┤┼▄▌▐█▀▀█▌█▌▀┼██▄▌▐░░▌▌▐▐█▄▀▄▌░▓▓▒▓√≈⌠▓∙√■■∙√≈≤≥≤≈∙≈⌡ √≈≈⌠▒▐▌░▓√²╓╕╗╚╛╜╝╝╝╡╠╟╞╝╜╜╜╛╚╙╚╝╟╟╞╜╝╝╜╛╜╞╠╡╡╡╠╠╠╠╡╡Ё╣╦╪афиикняяпнмлкклкиикииййййкклйййиххиххиийййййкллммопттужууужзыыыыьвжтуутррстряяяяяпояпомкйихда╪╧╧╦╢╠╟╞╜╛╚╙╖╔·²⌡≥≥≥  ·²²°°°°²²·═╒ёё║║═ё╕╕╒°≥≥∙√√≈ ≤■■■▒⌠≈≈√■▒▀┼┼▄▌▌██▐▐▐▒⌠⌠▓░▒▐█▄██▀┤┘┘┘├┬┴┤┘┤├┘└┐│─│└└┐│─┌┤▄▀┼┴├└└┘┤┴┼┴┘┌│┌│─│┌┐└└└└┘┘├┴▄▄▄▄▀▀┼┬┬┼▄▄▐█▀┼▀█░▓▒■∙■■∙≈≤≤≤≈≈≈√■⌠■⌠▓▓⌠■√√≈≈≤≤≥ °·║÷²°⌡°²÷·÷║╒║═══÷═╒╒║═══╒ё╓ёё╓╔╕╖╕╔╕╗╙╙╘╗╙╚╛╞╣╪ацдфффхкнуввжжутрсрсттсстутряппоохефхгффеееддццццбцдефгффееддддефггхиихгффееффеефгфффгггфгггфффффееефхйлнммннноннммммлмнооппппппонмммкхгхгггииххийнсжьыззшыььызщъъъъчэзыьшшззыьвжввьзщчъъЮЮЮчэшззызыэзьБ~чвжтттттужжжжуууужжввввьыыыььыззывжьшээыыыызшээзззззыььжжжужвзшээшыышчччщэээшзыьжрпонннмнонкклмкккккккклмммллммнннннооппяяяяппонннмнноонннннннннннмллмммннннмлккккййиииихггххххххгггхххххииййййлкклкйймрпнмннопртуусррсрсссряпонйеббббадфгею╦╠╛╙╖╖╕╓╔╕╓╓ё║÷·°°⌡≤≤≥ °²°⌡²⌡ ⌡²··²²  °² ≥ √⌠⌠∙■░▐▓▓▓▓▒▒∙ ·²²°⌡⌡⌡⌡°²≥√■■▓▐█▀▄███▄▀▄▀┼┬┬┬┤┤┤└└┐──┐┘├┘┘└┌┌└┘└│}{{{zyx{zz}}~┌|~┌┘┘│}~─│┌┐┐┘┤┘┐└┘┘┤┤┼█▄▄█▌█▐▌┼┬▀▄█░░▒▒░▐░▐▌▌██▌▐▐▌▌░■∙▒▒■∙■√∙∙√≤≥≥≥√≤ ≤√≤ ≤∙▓▐█▓ ═║╔╖╗╘╛╞╞╝╟╟╟╞╝╝╜╜╞╜╙╚╝╟╠╠╞╝╜╜╜╞╟╠╟╡Ё╡╟╟╠╡╠Ё╥╧╩юейилояпоннмлкйихикйиииййккйййихфгиггххиййкйкллмноятужжуужжззыыыывжууутррстсрряяяпоппомлкииеа╪╨╦╥╣╡╡╟╜╚╙╘╕╔╒÷°≤≈≤ °·····÷══·÷║ёёё╒║═ё╖╘╓²≤≈■∙∙≈≥√▒▒■▒⌠√∙∙∙▓▀┼┴▀█▄▀┼▀▄█▐░▒▓▒░▌▄▀▄▄┬└┘┐┌┐├┬┴┬┬┘┌┐└┌──┌┌┌┌┘┼▐█▀┬├┘┘┘┘┬┴┬┘┌┌┐┐││┌┌└┘┘├└└┘┤┴┬┤┬┬┴┴┴▀█▌██▄┼┴┴▄▐▓▓■∙■▓■√≈≤≥≥≥≥≤≈≈≈√∙■■⌠▓▓∙√≈≤ ⌡²÷═÷·°°°²²²═╒╒═÷═╒╒ёё╒║═║╒ёёёёёё╓╔╔╕╖╗╗╗╗╘╖╘╚╛╜╠╥╪бдггфхймтжвжуутряяртутттутсяоннниффхгффефееедцбббцдфгггфдддддеффггхиихгефееффееффгггфффггггггфффееефхйлнллммннннмнннннноппппоонннмммкххигггийихихлпсуьззззыыыыэЮъЮЮчэзьвыыыыьвжжьььзэщчъъъъчэшзззшзэшыЦ─}щжуттуужжжжжжжжтужжввввьыыыыыыыььььшщшыььызшшээззззшзьжжвжужьзшшзыввзщччщэээшзыьжсяооооооонлллнлллллллллмнмлмммллллмннооопппооооннммнооннннннннннммллммннонмлллкккйййиийихгхиййггггхххххххийййклкклкйкнспнннмояууутсссуссссряоомиеббццбфгеа╨Ё╜╚╘╖╖╕╓╔╔║║║═÷²°⌡⌡ ≤≈≈≤ °²° ≤≥⌡²° ⌡≥≤≥≥≤≈≈∙⌠⌠⌠░█▌▒■∙≤≥≥ ²÷÷·²²°⌡≥≈ ≈√∙■▒▌▄┼▀██▄▄▄█┴┬┤┤┤├├├┐┘└│─└┤┬├└┌││┌┌│┐│}|{zy{{xwz{}┌{~──┐└┐}──│┐┐└├┘└┘└┐┘└┬▀▄█░░▐▐▐┼┤┬┴▀▐▒▓▒░▐░░▌▒░░░▐█▄▄█░▓▓▓■■▓≤∙■√≈≤≥  ≥ ≥∙√≥≤≤≈⌠▒∙²║÷║ё╔╕╙╞╟╝╜╜╝╝╝╝╝╜╞╛╙╙╚╛╜╝╞╝╜╜╝╟╟╟╞╟╠╠╟╟╟╡╡╣╦╨╩╬диилояпонннмкйххйкккйййииииииигеехгггхиийкклмммнпястуужжвьзззыыыьжууттсрссрряпяяяпоонмлкйига╬╪╦╤╤Ё╢╠╝╛╚╘╖╕╔ё÷°⌡°·═÷÷÷══║╒╒═║╒ёё╒║══ё╗╘╔·≥≈∙∙■√≤■▐░⌠▒▓∙■⌠■▓▄┼┴▀█▄┼┴┴▀▄█░▓⌠⌠▓░█┼┼┴├┌└┌─┌┘┤┬┴┤┌─┌└┌─│┌┌│┌├▄░▓▌┴┘└┘┘┘├┤┤┘└└└┐┐│──┌┘┬┼├┘┘├├┘┐┐┘┤┴┼█░░███▄┼┼▄▐▒▒⌠■▓▒▓■■≤≥⌡⌡≥≤≤≥≥≥≥ ≥∙▓░■∙≈≥⌡²÷═÷÷·°°²²°²÷╒║═÷═ё╓╓ё╒║║╒ёё╒╒ё╒╒╒╓╒╔╘╙╘╗╖╕╖╗╙╛╛╝╡╥╬бфггхйкруввутсряпрттттутттяоммнкгфгффгегфеедцбббдефгггфддддеффгххххихгффееффееффгххффгхгггфффффффффхйлмкллммммммнооннннпооооннннмллйххииххййихххймосвызыыззььшъъЮЮщзыьвввьыыыььььызэщччъъччщэшзээзшыыД┐|эжусстууууууужжужввввжжвьзззыыыьыззшэзьвьышшэээзыызэшвтуввжжьыьшшывьшщщчщээшшзыьжсяпооопонммлммллллммммлннмлмммллллммннннооооооннннннооонннммннннммммннннннллллккййййййиихиййййггхххиииииииййййлкклкйлпспоонлотжуутссстссссрпонлидбцееегдю╨╢╝╚╘╘╖╕╕╓╔ё·═══·°⌡   ≤√∙∙≈ °° ≤≈≤≥≤≈≤≤≤≈≤≤√⌠⌠■⌠▒▐▐▓∙≥⌡·÷····║÷²° ≤∙⌠√√≈≤√▒█▀┼▄█▄▀▀▄█┴┤├┤┤┘┘┘┘├┘┌┌├┴┬├┘┐││─││└┐│~|{{{{xwyz|┌}─~┌┘│┌┌─│┌┌┌└└└┘└┐┘├┴▀▀▌▓▓░▌▌┴├┬┴▀▐▒▓▒▐▌▐▐▌▒▒▒▒▐▄▄▌▐▐░▓⌠■■■≤∙■√≤≥≥ °≥  √■√√≥≥≤≤⌡²²²°═╓╕╘╝╞╝╝╝╝╞╞╝╝╝╜╚╙╚╚╚╚╜╞╞╞╞╝╞╞╟╝╝╝╟╠╡╠╟╠╢╥╧╪юехилояпоннммлкййклллкккйиххиййгдегхххххиййлмммнопрстуужвьыыззыыыьжуттстссрряпппяяянннмлкййф©╫╪╣╢╣╢Ё╠╝╛╚╙╗╖╖╕╓ё╒╒╒╒══║║╒╒╒╒║║╒╒╒║═══ё╕╗╓·≥≤√∙⌠∙≈⌠▐▒▓░▓∙■⌠⌠▒▄┼┴▀██▄▀┼┼▀█▒∙√■⌠░▄┬├├└┌┌││└┤┤├┤┘│─│┌~~││┌┐┘┬▄▐▓▌┬┘┘┘┘└└┘┘┘┘┘┐│┌│─│└┤┴┼┤├┘├├└┐┐└├┤┴█▒░▄▄██▄▀▄█▐▐▒▒░▐░▒▒∙≤⌡⌡≥≤≥⌡²²··°≤√∙≈≤ ⌡°°²·²²° ⌡²·°·÷÷÷══║╒╓ё╒╒╒╒╒╒╒╒╒ёё╒ё╔╔╕╗╗╗╖╕╕╗╗╘╚╚╛╞╢╦©еххийкпуьвутттсрярсрсусттспннолхфгффгегеефецбццдфгххгфеееееффгггггхххгфееффеефгггггггггггфффффффффхйлмкллмммммнннмммнноннооннонллкйххийиийкйиииййляжыыззззззэчъАЮщыьвжжжвьыыыывьзэщщээчччщщэшзшшызыыД┐|эжтррстссррстужввьььвжувьзшзыыызшшзызззвьзшэээээззэчщыттжьввввущщэзышэшчщээшшзывурпооонпонмммммлллллмммлннллмммннмммннннноооооомнноооннооннмммнонмммннонннмлкклййййййййфффхиихгггхиииииййййййййлйкллйляяннонмпжутссссррссссрпнмкхдбдфггфа╩╢╞╛╘╗╙╖╖╕╔╕ё²═══÷²⌡  ≤≤≈√∙∙≤ ⌡ ≤≈√√√√≤  ≥≥ ≈▓⌠∙√⌠▓■≥°÷÷══÷···÷²⌡≤√∙√≈■∙≤⌡≤▒▀┴▄██▄┼┴┼▀┴┤├┤┤┘└┘├┤┘┐└┴┼┬├┘└┌──┌┌│─~}|||yzyz{{}┌───~}}│┘└┘└──│││┐┐┌└┐┐├┬┴┴┴▄▒▓▐▄▄┴┤┴┼▄░▒▒░▌█▌▌▌▌▐░▒▐▄█░■▒░▒⌠∙√≈≤∙■√≥≥≥ °≥⌡°≤∙√≈≤≈≥²²≥≤ ≤÷╔╖╘╜╞╝╡╠╟╟╞╝╝╝╚╚╛╝╝╜╝╞╞╟╠╟╝╜╝╞╜╛╛╞╡╢╠╝╟╠╢╦╫бгийлояпнннмммлллммлккклкйиийлкхефхиихххиииммнннояртуужжжвьыззьыыьжутстттсрсрпоопяяммммлккйд╫╪╩Ё╡╢Ё╠╞╛╚╚╙╘╖╗╗╗╗╖╔╒═║╒╒╒╒║║══║║║║║║║═║╓╔╒²≥≤≈∙⌠∙≈⌠▐▒▓░⌠√∙⌠▓░▄┴┬▀▌▌▌█▀┼┴▄▓≤≤■▒▐┴┘┐└└┐─┐┤┬┤┘┘└┌│┌─|{}{~┌├┼▄▌▐▌┼├┘┤┤┘┌┐└└┘┘┘┌──│┐┘├┘└┘└└┘├┘└┘└┘├┤▄▒░▄▀▄▌█▄▀▄▌█▌▐▌█▌▐▌⌠≈⌡⌡≥≥⌡·║═÷÷²  °⌡°²²°⌡  ⌡⌡ ≥ ²·²═·²·═╒╒╒╒╒║╒ёё╒║ё╒╒╓╓╓╔╖╘╖╔╔╕╖╖╗╗╗╗╙╚╚╞Ё╢╪дхийккоуыьуттуусяяяясжртутрпопнхффефгффеефеццддефхххгффффеффффгффгххххфеефгффгхгфгххгфхххгггффгфффхикмллммннннонмлклнонммооннпмлккиххийххйлккккйийожыыэшзшэщщчъАЮэьввжужвьььввжьшщчщшзчччщщэшзызыэшыЦ│}щутутрсррсужтттвььвуувыжьзээзьвззшэээшзьыззшшшшэшшщщзьжжвьыьвжущщэывыээчччщшыьььжтряпонннммммллнойпгпллллмноомлклллммннноппоннноонннноонммннонлмнонмммоммллллллкккккййийиииихххиийигфгххиййиийкклммйинспооолосутуутсррррттяоннмкхеегихга╪╣╟╝╛╙╘╘╗╖╕╔╓╒║···²⌡ ⌡²√≈≈∙⌠⌠√≤≈ ⌡≤■■■∙⌠≈⌡°⌡ ≈∙■≤   ²÷║║╒║·²²°⌡÷°≤∙■■∙∙▓■≈≥≤⌠▌┼▀█▐▐█┼┴▀▀▀▀┬┤┤┤├┴┘┐└┬▀▀┴┬┤┘┌|~│──~~~}{xxy{}~─││──│┐┐┘┬┬┘│~}┐││└┤┴┴┬┤┼▄█▐▒░▐▀┼┴┼▄█▌▐▒▓▓░▌██▐█▀▀██▄█▐░▐▒⌠■■√ ∙∙∙∙≈≤ ⌡⌡  ≤≤≈√∙⌠√ ·²≥≤≥ ·╒╔╘╜╝╜╠╠╟╞╞╝╝╝╝╞╞╝╛╚╛╝╟╞╞╟╠╠╞╝╟╞╝╞╟╠╠╠╡╢╤╦╨©фкймпяонммнмммннмлиийккйиикмомхефиииийййййллкккмоптттуужжввььыььввужутсрстсряпппонпнмлйиххц╫╧╥╣╠╟╟╡╜╙╚╚╙╗╗╙╚╚╙╕╒═÷╓╕╓║║╓╓╒║║║╒╓ё║÷═ёё╒║°≤≤√∙≈≥√░▌░▓▓■∙■▓░░▄┼▀▄▄█▌▄┼▀▄▐▓■■⌠▓▐▀┬└┐└├┐─┘┤└└├└└││┌|}{}┐┼█▄▄▌▀┼┴┤└┐└┘│~│──│┌├┬┬┤├┘┌├├┌│┐└┌┌┌└┬█▐▐▐▐▌▄▀┼┼┴┴▀▄▌▌▄▄█▐▒√≥≈√ ·÷╓╒═·²···║║║÷²⌡ ≥≥≥≤≥⌡°²²║÷°²═╒ё╒ё║═║║║║ё╒╒╒╒╒ё╓╔╖╕╕╖╕╓╓╔╘╙╙╙╙╚╜╝╡╥╪аглмлртжвжуттяяярррррпсжжсяппоидефеефеееффецбцехххгххффффффффххггххиихгггххггииххггффхггххффггфффгхйлммллммнононлмопонмммноннонлййииикйййкккйкййкмпжшзшэшззэъБАЮэыжжвьььььььььзшэээээшэщччщшзьыщщшэЦ│}щутуустррсууттужвввжжвьвьыззыььззшээшзыьыызшшшшэшшщщзьжвввььвввшщэззшээщччэшыыыьжтряпооноонмллммммооомммммннннмлллммнннноппоноооннннооонммннннммннннмнннмммллммкккккййиййиииххххииихххххиииииийлкллккоспнннмптуттттсрррстспммннлиффхиге╪╦╡╞╝╜╚╙╘╗╖╕╔ё║═·²²°°°°⌡≈≈√∙■■∙∙≈≥ ≤∙■■■⌠√≤≥≥  ≤≈⌡·÷═║╒║║╒═°    ⌡≥≈√√√√√∙∙≈≤≥√▒▄┼▀▌▐▌▄▀▄▄▄┼┤├┤┤┘└┌│┐├┴┼┼├┘└┐─~─┐┐┐│~|xy{}}~~─~~─┌┐┐┤┴┴├└┐┌│┘┘┘┤┴┼▄▄┼█▐▒▓⌠▓░▌▌▐▌▌▌░▒▒▓▓▒▐▌▌▐▌█▄▄▄▀▄▌░▓⌠▓▓■∙■■■■∙≈≥ ⌡⌡≥≈≈≤≤≤≈∙≤°÷· ≥  ·╒╕╘╛╜╛╟╟╟╞╞╝╝╝╚╛╜╛╚╙╚╛╝╞╟╠╠╠╟╞╠╟╞╟╠ЁЁЁ╡╢╥╦╨©еййлопоноонмммннмлийкккккйлммкгфгиииийййййлллллмояттууужввыызззыььууутссттряпппооннмлккйиха╩╤╣Ё╟╜╝╞╜╛╛╜╚╘╗╘╙╙╖ё═÷═ё╔╔╒╒ёё═══║║║═÷÷═ё╓╒╒²≥≥≤≈≤≤∙░▐░▒▒⌠∙∙■⌠∙▓█▄▄▄█▌▀▄▄▄▌▒▓▓▒▓▐▄┴┘┌┐└└└└└┐└├┴┘└│─│|~~┐┴█▌▌█┼┴┤┘┐┐└└~~──~│─┐├┬┤├┘┘└├┘┌│┐└┐└└┘┴▄▌▐▌▄▀┼┴┴┴┴┴▀▄██▄▄█▐▐▓■■√ ²²···÷÷═║║╒╓╔╓╒·⌡  ≥≤≥ ⌡°°²°°°²÷║╒ё═÷═╒╒║║═╒ёё╒╒ё╔ёё╓╔╔╓╓╕╖╗╘╙╚╛╝╞Ё╤╨╬екмморужжтссяррррррртжввурпппкфффеефеееееедцдфхииххиггффффффгххххииихгггхххгххххххггффгиигффгфффгхйкллммммммноомнопооннноооннмлкййииййийкккккййклотыышэшззэчББАчшыьыььььььььызшээшээшэщщщщэшззэшзэЦ│}щутуустсрстутужжжжжжжжвввввььыыззшшшзыыьыызшээээээщэзввьвввььыызэщээээшщщщэшзыыьвтсряпонопомлмнллпмьннннмммнннмлмммннннноооооооннннооонннмннннмнннноонмоннмммммкккккййийййииххххххиййихииййиииймкклмнпрпммноржусттссррсстроллмнлигхихдю╤Ё╞╜╜╜╛╚╗╖╕╔ё╒═÷·²°°²²⌡ ≥≈√√√∙■⌠√≤≥≈∙■⌠⌠▓■∙√≈ ²··═║╒ё╓╓ё╒╒÷ √√≤≥≤≈≈√≈√√∙≈√√≤ ≥■░▄▄█▐▐█▄▄█▄┼┤├┤├└┐┌┌┐└┘┘┘││┌┐│─┌┘┘└┌──}z}────│┐──┐├┤┤┼▀┼┬┤┤├└├┬┴┴┬┴▄▐▄▐⌠■∙∙⌠▒▒⌠■⌠▒░▒⌠▓⌠■■▓▒▒▒▐▌█▄┼┴┼▄▒∙∙⌠⌠≈√▓⌠⌠∙√≤ ⌡°≥≈∙∙≈≥≥≥≤⌡·═· ≥≥≥²╒╕╙╛╛╚╝╝╝╞╞╝╝╜╙╛╜╛╚╙╙╚╛╝╟╠╠╟╞╞╞╞╝╝╟╡Ё╢Ё╣╥╦╨╬дхлмооннопннмнннмлйкклллллммлйггхийиииийкклммммнпруууужжвьыыыыыьввуууутттуяяппппоннмлклкхф©╧╣Ё╡╝╚╚╚╜╝╝╜╛╙╗╘╘╗╓═·═╒ё╓╓╓ё╒║══║╒║÷··÷║╓╓╒╒·≥≥  ≥≈⌠▒░░▒▓⌠∙∙∙√≈√░▌█▄▌▐█▄▀▀▄▐▒▒▒▒▐▄┴├┐┐┘├┬┤┌│└┬┼┘└─}|~┌┐┘┬█▐▌▄┴┤┘└┐┐└└~┌┐│─┌│└┤┬├┘┘┤┘┘┐│││┐└┘┘├┬▀▄▄▄┴┴┬┬┤┤┬┴▀▄██▄█▐░░░▓■≤⌡°⌡ ⌡²÷║╒╒ё╔╕╖╖╔║·°²⌡ ≥  ⌡⌡ °²°⌡°÷╒ё═·═╒╒║÷·║╓╓╒║╒╓║║╒╓╓╓╔╕╕╗╘╙╚╛╝╞Ё╢╤╨юхлноржьвуттррррссссужввжтрпялихгееффеддееддегийиххигггггффффггххххххгггххххфгхииихгеегиигфеффеефхийклммнммлмннннопооооопппоммллкййийиийклллййкккляжышээшзэчАББЮщзззыыыыыыыызшшшшшшэшээщщээшэзшзыэЦ│}щутуусутсстттувжутттужжвжжжвьыыыыззззыыьыызшээщщэщчэыввввььыызззшээээээщщщэшззшывусряяпнооомммнлмпмзнмпонммннннмммнннноооппонооммноооннннннннннннмнппнмооннммммлкккййййййиихххгиххиййихиййкййклллллмняспммоптвуссссррсттсяомлммкихииф©╧╠╞╜╜╜╜╛╚╗╖╔╓╒║÷·°°°²²°⌡ ≥≤√√√∙■■∙√≈√■⌠▓▒▓■∙∙≈°═╒╔╓ё║╒╓╓ё║║÷≥∙∙≤ ≤≈√√√∙■⌠∙∙√≥ ≥√■▐▌▌▐▐▌▄▀█▄┼┬┤┤┘┌┐└┘└┌││┌}~│┌│─┌└┐┌───│─~~─┌┐└┘┘┐├┌──└┤┼▄██▀┴┬┬┤├├┬┴┤├┬▀█▄░■√≤≤∙⌠⌠∙√∙⌠⌠⌠⌠▓■∙√∙⌠⌠▓░░▌▄┴┬┼▀░⌠■■√≥≤■⌠∙√≈≥⌡°⌡≈∙■∙≈≤≥ ≥°÷÷² ≤≤≥°║╕╙╛╛╚╛╛╜╝╞╞╝╜╚╛╜╝╜╛╛╛╛╜╞╞╝╝╝╞╞╝╝╝╞╟╡Ё╢╣╥╦╨╬цгмноонмммннннннмлллллллллммкихихгиихххийкммммноярууужжввьыыььььвжжуууттттяппппппопнлккйфб╬╦Ё╡╠╜╙╘╘╜╞╝╛╛╚╗╙╘╕ё═÷═╒╒╒ё╓ё║═║║╒╒║═÷÷═╒╓ё╒║²≤≤≥  ≈⌠▓▓▒■■√≈√■■√∙▒▐▌█▐▒▐▀┼┴▀▌░▒▒░█┼┬├└┘┤┘├┘┌│┐├┬└┐─~~|{}└┤┴┼▄▐█┼┤├┘└└└└└─┌┘├┘┐┐└┌┘┤┤┘└┘┤┘┐││──│┐┘├├┤┴▀▀┼┬┤┤┤┤├┤┴▀▄▄▄▄▌░░▓▒⌠≈⌡⌡⌡⌡≥ °·÷═║║╖╖╖╕╓ё║║╒═·°⌡⌡⌡ °²·²°°÷║╒═÷║╒╒═÷÷═╒ё╒║╒╓║║╒╓╓╓╔╕╖╗╙╚╚╛╜╝╡Ё╢╥╩бйносвьвжууссррсссртттужусрпмйхгеегфеддееееегйййххиххгггггфефгхххггггггххххфгхииихгффхиихггфффефхийкклммммлллмнннннпоооппоолммлкййййййклллкйклкййнсьзэщшшэчАББАчшыыыыыыыыыышээшззшээээээээээззззщД│}щутуусуусссттуввусрстжвжжжвьыыыььызззыыыыззшэщщщщччэывьввьыззшшшшшшээээщщщэшшшшывусрряяпоннннмлмомнжойпонннннннмнннннооппппонннммноооннннннннноннннппонннннммллллккййййииихххггйиииййиххийккклмклммлнятолмпржвурсссррстсряпнллмлкййхб╨Ё╞╝╜╛╜╜╛╙╖╕╓ё╒═÷²⌡°²²°⌡  ≤≈≈≈√■■√∙∙∙∙■⌠▓▒⌠∙≈≤ ÷ё╓╗╖╓╒╒ё╒═·÷²≤■∙≤ ≤≈∙■■⌠⌠▓▒⌠≈≥ ≥≈√▓░▌▐▐█▀▀▄█▀┼┬┤└│─┌└┐│─│}~│┌│─│┐───┌└└┌─│││┐├┴┬└┐─}|~│┤▄▀▀┼┬┬┴┬┤┴┼┴┤┤┴┼┼▄░■≈≥ ≤√■√√∙∙∙■▓▓⌠∙√∙■⌠▓▓▓▒▌▀┼▀▄▐▐▓√≤≤≈√■√≈≈≥⌡⌡ √∙√≈≤≈≤≥≤⌡··⌡≥≈≈≤⌡═╔╘╚╛╛╙╚╛╜╞╞╝╛╙╚╜╜╜╜╛╛╜╜╜╛╙╚╛╝╟╟╟╟╟╠╡Ё╢╣╥╦╩©цфлмоонмллннннонмлммлллккклллйййифххгфгхйкммннноясууужжвььззыыыыьввжжуттссяяппяяппонлййид©╪╥╡╠╞╚╘╘╚╝╟╝╜╜╛╙╙╗╔╒║║══╒║╒╒║═║╒╒║══║║║═╒╓╒║═°≈√√≥≥≈∙⌠⌠▓■∙≈≤√⌠▓■▓░▒░▌▌▒░▀┼┴┼█▐░░░█┼┤└┐└┤┐──┌┐│┌└┌┌~~|z}┘┴█▄▄▀┴┤└└└└└└┐┌┌┐┐┘├├┘└┐├┤├┐│┌┐┐┌│┌┌││┌├┤┬┬┼▄▄▀┴┬┬┬┤├┤┴┼▀▀┼▀▌░▐░▓∙≤  ⌡°≥ ⌡⌡°²÷═╔╔╔╔╔╔╓╓╕╓╒═·²°⌡²°°⌡⌡²·═══║╒╒══║║║══║╒╒ё╒╒ё╓╓ёё╔╖╗╙╚╚╛╜╝╠╡╢╣╥╪елнржвжууутсрррсррссстжжтсомйхфефггфедееееегйкйхххххххггггефгхииххггфгхххггхииихгфхххххииифггффийиллккллммклмнннннооннооонлммлкйййккккллккклллкймяжыэщээщчАБЦАчшыыыыыыыыыыэээшззшэшшээээээзышшэчЕ│}щтсттсуутсстстжжутсстжьжжжвызыьььыыыыыыыззшшэщщччъъэьвьввьызшшшщшзшшшшэщщщэшшшэывусрряяпоммоомлнпкопойооннноонннннннноопяппонноннноннннмнннннооонннопооннннммллллккййййииихххххйииииииххиййкклмкмнмлнртнлортжвтрссрррстсяппнллмнмкхд╬╤╠╞╝╜╛╛╚╙╘╖╕╓ё║═÷·⌡°·²⌡ ≥ ≈√≈≤≈■∙≈■⌠⌠■∙■⌠■≈≥⌡²·╒╓╓╕╕╔╓ё╒·⌡ ⌡ ≈■∙≈≤≈∙⌠▓⌠⌠■■░⌠≈≥≥≤≈≈■▒▌▌█▄▀▄▄█▄┼┬├┐│─┐└┌|}~─┌┐│─┌│─┌┘┤┤└┐│─~└┴┬┐─|yyy{│┤├┤┬┤┤┴┴┴▄▄▀┴▀█▌▄▌▒∙≈≥ ≥≈■√∙■■√∙▓⌠■∙√√∙■⌠⌠■■░▌█▌▐▓▓■≥ ≤≈≈■√≈≈≈  ≤≈√√≤≥≈≈≥√ ²° ≥≤≈ ⌡·ё╕╗╙╛╙╙╚╜╝╞╝╛╘╙╙╚╛╛╛╚╜╛╚╘╘╙╛╝╞╟╟╠╠╠╠╡╢╣╥╧╪юехйкмоонммннноонмлнмлккккккллкклифхггггхййлммнноясууужжвььзыььыыьжвжжуттррряяяяяппмнлиххд©╧╣╡╟╜╙╘╚╞╠╡╟╞╝╜╛╘╖╔ё╒═÷·║║╒║══║╒║÷·÷═║═÷║ё║÷÷⌡∙■∙√≈≈∙▓▒▒▒▓∙√■▓▓■▓▒▓▓▌▌▐▌█▀┼▀▄▌▌▌▒▌┼├┐─│┐─||│┌~│─│~~}─┤▀▌█┼┤┘┐│┌┐┐┌│──│──└├┘┐┘├┤├┐─┐┐┌┌┐┐┐┌┤┴▀▀▄▌▌▄┼┬┬┴┬├┤┼┴┼┴┤┼▌▐▌█░■√≈≤ ⌡≥≥   °÷╒ёё╓╕╖╖╖╕╗╕╔ё╒═·²²⌡≥≥ °·÷÷═║╒║÷÷║ё║══║╒╒╒ё╒ё╓╓╒╒╓╕╗╘╙╚╛╝╞╟╠Ё╢╣╦©фмяжьвжжвусрррсрятстужжутпмигфффггфеефффефхйкйхххххххххххггхиййййхгггххггхиииихгфиииххийифххфгийиллккклмнмммооннооннннннмммнлкййкккклллкйлллмлклосвшщщщщчБЦДБъэззззыыыыззэээшззшшшшшэээээзышээчЕ┌|этрттсуутстсссуужжууувьвжжжьыыьыыыыыыььзззшшэщщчъЮъшьвыььььышэщчэшээшзшэщээшзшшывусрряяпонноонмннлнмомноооооонмннннннннпппоооопооонннннмнннннопоооннопямннннммлллкйййййииииииииииихххийиййккклмлммллорсммятужжссссрррстспонмллнянйд╫╦Ё╠╞╝╜╛╚╙╘╗╖╕╓╒║═÷·°²²°⌡ ≥≥≈√≈  √■■▓▒▒■√√≈≤°·═║╒╓╔╔╒╓╓ё║÷⌡≤≤≥ ≤≈√√√∙■⌠⌠⌠■∙∙▓■√≈≤≈≈≈≈⌠░▌▄┼┼▀▀█▄┴┘└┐┌┌└└┌~{{|─│┐┐│~│┐││└┤├┐┌─}|─┘├┌zwxyy}│┌└├├┤┬┴┴▄▌█▄█▒▒▐░⌠∙∙√≤≈√⌠∙∙▓▒⌠⌠▒⌠■∙√√∙■⌠▓■∙▓▐▐░▒■≈≥⌡⌡ ≥≤∙≈≤√≈ ⌡≥≥■⌠√≤≈√≈∙≥°°    ⌡⌡²═ё╔╗╚╙╙╙╛╝╞╝╛╘╙╙╚╚╛╛╛╜╚╘╘╙╚╜╝╝╞╠╡╡╠╡╡╣╤╦╨╬цгйклмнноннннноонмкнмлккккккммкйлкгхххххиккллммнояруууужввьывжжвьвжжжууутсяряяпяяпомнлхффц©╦╣╡╟╛╘╙╝╠╠╡╡╠╜╚╚╗╗╖╔║÷÷═÷╒ё║÷══÷···÷÷÷÷÷═║═·· ∙■∙∙∙√⌠▌█▌▌▐▒▒░▐▒■■▒░▒▐▐▐▄█▄▀▀█▌▌█▐▄┴├┌~}~~}}}}─~││┌┤┼▀▄▄┴└│─│┌┌│~││}}│┘┘┐├├┤┤┘┐│─┐└┐│┌┘┘┐├┴▀▀▄▌█┼┴┬┬┴┬├┤▀┼▀┴┤┼▌░▌▌⌠∙∙∙≈≤≈≥  ⌡⌡²═ё╒╒ё╔╖╗╘╗╗╗╖╖╕╔ё╒═·⌡≥ °·÷÷÷÷══÷÷═╒╒║║║║║║ё╒ё╔╓ё╓╔╖╗╘╙╚╛╝╞╟╟╡╢╣╥╩©иожзыьвьжтррсссррстужжжжсойгфгггхгфффффефиклкиххххххххиигххиийййиххххххгиииииххгхииххиигфххфгйкилллллмммнммоонноонмннннмнннлйийкккклммлклккллллмптыээщщчБЦДБЮщэшшшззззшшшээшшзшшзшшэээээззээшщЕ┐|эсрттсужтстсссттжььвжвььжуувыыьшззыыьввшшшшшэщщчъЮъшввыыььвьзэчъщэщщшззэээшзызшьвусрряяпппоонннмлммлнолоооопонмнннннннноооооопяппонннннмнннннопооонннпрмнннннммллкйййййииииийййхиихгхйлккллкклмммлкмпряммржжжжссссрярстспммлклнрох©╦Ё╠╠╞╝╜╚╙╘╗╖╖╕╓ё╒║═÷·²⌡⌡⌡⌡≥≤≈∙√⌡°≤⌠▒▓░░⌠≈≤ °÷╒ёёё╔╔╔║╒║÷²° ≤≤   ≥≤≈∙∙∙■■■■■■√∙∙√≈≤≈≈ √▒▌┼┬┬┼▀▄▀┤┐┌┌┐─┌┐┌─~──│┌┐─}}┐│─┌└┐─|z}┌└┌~yvxzyz|│└┤┤├├┤┬┼█▌█▌▓⌠▒▓⌠■⌠■∙■⌠░■∙▒▌▐░▐░▒▓⌠⌠▓▒░░⌠■▓▐░▒▒⌠≥°≥≥⌡ ≈√≤≥≈≤⌡° ≥▓▌▓√√∙■∙ ²°⌡°°°²⌡°·║ё╕╘╙╙╙╚╝╞╝╜╚╚╚╛╜╝╝╞╛╙╘╙╚╜╞╞╞╟Ё╢╢╢╢╣╣╤╦╩юдилнмммннннннооонмкммлккклллнмйиккииииийкллклммнояруууужввьыьввьыьвууттутсрряпппппономхеда╫╦╣Ё╠╜╘╛╟╡╟╠Ё╠╜╘╘╗╙╙╖║÷═ё·ё╔╒÷═÷°²·═÷·²·÷÷═÷²·⌡√∙√■■∙▒▀┴▄██▌▌██░■√░▌▐░▓░▄▀▀┼▄▌▐▐▌▀┼┬├┌}{{~──}z|~─~┌┐├▄█▀┼┼┬┌~~┌┐┐─}}┌│─}}─┘├┘┘├┤┬┴┬├┘┌└┌─┘├┐┐┤┴┴┴▀┼┤┬┤┬┴┬┘┤▀▄▄┼┬▀░▒▐⌠≈≤√∙≤≈■≥⌡°°°·║ё╓╒║║╓╖╙╚╘╘╘╙╙╘╖╕╕ё═°⌡°·══·²·÷÷·÷║╒ёё╒══║╒ё╓╕╕╔╕╗╘╙╙╙╙╚╜╝╠╟╟╢╤╥╦╧дктызьвжвусрстсрпяртуввьжякггххгххггггфегиллкиххггхххиииггггхииййиихиихгихххххххфхихххгефххфгййикллммммлнммннммоонммннммнонлйийкййклмммллкклмлллнрьшээщчАБЦБъщээээшззшээшэээшззшззшэщээшшшэшышД└zысттттжярсттттсуввуувььввжжввввззыыыыыыызшшшэщчЮЮЮъэыьыщьувзшэчЮчэшзызшщщэшыьышзьжтрпппрпонооннмноооннннояпоннонноооооооппяяппонннмммннннннноппонннннооонннннннммлккййййиихххиихиигхйкйййкккккклмлклясянятуутстттсссррррпонлкмяолц╧╢╢╡╜╜╛╚╙╗╖╖╖╔╔╓ё╒║║╒═⌡ ²°≤≤ √√√≤  √⌠▒▌▐■≥⌡·║║║╒╓╓╒║╒╒═··²°≥≈≤≤≥≥≤≤≤≥≈√■⌠∙≤≈∙■√∙▓▓∙≈≈≈√■▐┴┤┬▀▄┴┤├┘┌│─│┐┘┐┐┐└┐┌└┘└┐┐┐┐│~──}~─│─}yy~┐└|yvvxxv|┌┬┼┬├├┬┼▄▄▀▀█▌▐░████▐░▄░▒▒░▌▄▄▄▄▌▌▄▄███▀▌▒⌠▒▐▐▐⌠■√≈⌡²⌡≤▒√⌡ ≥  ≤≤⌠▐▐░■∙⌠⌠∙≤ ⌡⌡⌡⌡°⌡⌡²═ё╖╚╝╡╠╜╜╜╚╘╙╚╜╜╜╝╝╞╛╜╜╜╚╙╚╜╝╞╟╡╡ЁЁЁ╩╧╧╩афйлмлййлппмкмнллмммкклммлкйммммммлкийкйййлмклмнопртжууттуьзыыььвввжууууутссррррряомнонифеа╫╪╦Ё╞╚╙╛╟╡╠╟╞╝╛╚╙╙╗╔║··═ё÷ё╓╒═║║÷°²·═÷²°°·²²÷·⌡≤≈∙⌠∙√▓▌▄┼▄█▌▌▌▐░▒░█▄▐⌠▓▐▌▄▄▄▄▄▄▄▄▄├┤┬─|~}─│~{{{{~}}}┌┘┴▀▄▄▀┬┐~│├┘└┌─}┌│─~}─└├├┴┬┬┬├└└├└┐┌┌┌└├┤┐┘┴▀┴├├┴┬├┘┬┼┴┬┤▄┴┬▄█▌░■≥≥≈■∙≈≥≤⌡°²·÷║╒╒ёё╒║ё╕╘╘╘╘╘╘╗╗╗╗╕╕╔ё║÷··═⌡≥÷ё║÷══║╒╒║║║╒║╒╒ё╔╗╗╖╖╘╘╘╚╚╛╞╟╠Ё╣╤╦╧╧югпышыввьжсрррсрясттувввжснхфгххххгггфффхйллкккихггггххихиййккййххххииййххххииййййкйиххиефгхийклккллммллннннннннонммнннмпнмкйййккккллмннмллнопоммотыэээчЮЦДБЮъчщшшшыььзэшшшшшзззэщщщэээщшэзэшшЕ│{ысттстуррссттсстжвуувьвьвжввььььььььыыззшшшшшэщъъъъэыьышзьыышщъъщшшзызшээшзыыыызьжтряппяпоннннмнноооооонопонмноооонннопоппяяппоонннннннннннноооооннннннооннннннлллкккккййиихххххихггийиккккллммлммкмяряоятутсссссссссссроммнмнони©╤╡╡╟╜╜╛╚╙╗╖╖╕╔╓ё╒╒║║║║·°²² ≥ ≤√∙√≈≈∙▓▐░⌠≤²÷║ёё╒╒╒╒══║║═·²²⌡≤√≈≤≤≤≤≈≤≤ ≥≈■■√√∙√≤≈■⌠∙√∙√√∙▓█┼┴┼┼┬├┘└┌││─│││└├┘┐│┐┐┌┌┐┐┌─~}}}│─~||││}{xvwxxw{└┬┴┬┤┤┴┼┴├┘├┤┤├└└└┘┴▄┼▌▐▐▐█▀┴┬┴▀▄▀▀███▄▀┼▄▌▐▐█⌠■∙√≥°° ⌠∙≈≥ ≥≤≤≈▓░░▒■∙⌠▓■√≥⌡°⌡⌡°⌡⌡²÷╒╔╘╜╢╢╟╜╚╙╙╚╚╛╚╚╙╙╚╚╜╝╜╚╘╚╛╝╟ЁЁ╡╡Ё╢╧╦╦╩юфйлмкихкннллннллмннлммллллкнмлллллкййккккллллмнопяртуттужьзыыыььвввууууттссяяяяяпонномиецю╪╧╣╟╜╜╜╞╟╝╞╞╝╜╚╘╗╗╖╓║··÷║═ё╓╒║╒║·²²··° ≥ ·°⌡°⌡≥≤≤∙⌠■√⌠░▌▄█▌▐░░░▒▒▓▐▌░▓▒░▐▌▌█▌▐▐▐▌█┬┬┬│}~}}}{|{{~|||~│┘┴▄▀┴┬├┐│┌┘┤├┘└│─┐┐┌}~┌┤┴┤├├├┘└┘┤┤├└┐┐┘┤┴┘├┤┴┬┤┤┴┬┘└├┬┴┬┬┼┴┼┼▀█▓√  ≥≈≈≥ ≥°°²·÷║╒╒ёёё║╒╔╕╕╕╖╗╘╘╘╘╗╗╗╗╖╔╓ёё╒·⌡·═║║╒║╒╒║═══║║║╒╒╓╖╖╕╕╘╘╘╚╚╚╝╠╠Ё╢╣╤╥╥╩блузшыьвжусррстпрсртужжвупйггхиихххгффегиккккйиххгггххххииййкккййииххххгххххииииийиххгхггггхйклкллмммммннннннннмлллмнннонлкйййкйкккклллммннннноммпвэщчъАЦДЦЮъчщэээзыышщзззззыыыэээээээщшэшэээФ┐{зтттссусссрсссстужуужвжьвввьыззвьььыызшшшшззшэщъъъъщыызызшыьзщъчэзззызэээшзззыьыьжтряяяпппонммнноооннопноонммноооонннпяоппппппооооннннннннооонноооннмммооннннннмллкккккййййиххгхихггийиккклммннмнмкмпрппртутсссярррссссрнклопнмме╨Ё╟╟╞╝╝╜╚╙╘╗╖╕╔ё╒╒╒╒║═÷·°⌡⌡ ≥≤ ≈■⌠■∙■⌠▓∙≥°÷╒╓╔╓╒║║═··÷═÷·²°⌡≥≈√≈≤≤≈≈≈≤°°≥√⌠⌠■■≈≤≈∙∙√√⌠⌠■∙■▒▌▀┴┬├┘┘└┐┌┌┌│─│┘┬├┐─│─│┌│|{}~||}│─}||~~}|{ywwyxwy{└├├└┌┘└┌}zyyyzyz{}┐┴┼┴┼▀▀▀┴┤├┤┴┼┼┼▀▄▀▄▀┼┼█▐▐▌▒⌠■■≈ °°≤∙∙≥⌡≥≤≥∙▒░▒▓■∙⌠▓⌠∙≤⌡°°⌡°⌡ °·═ё╕╚╢╥Ё╝╙╘╚╛╛╛╛╚╙╙╚╚╜╞╝╛╚╜╞╞╠╢╢╡╠Ё╣╥╥╦╩©еиллйхфхклкмнмлкмннмннлкклммлккккккйййклллклмооппярсттужвьззыыььвввууууттссяяпппоонлмлгдб©╪╦╡╜╛╝╟╟╞╜╝╞╞╜╙╗╖╕╔ё═···÷╒ёё║║╒║·÷÷÷·°≥ °²⌡≥≤≤≈≤≤√⌠■∙▒▐▐█▌▐░▒▒▒░▒⌠░▐▐▐▐░▒▒▐█▌▐▒░▐▄┬┬┤│~~─~}}|z|||}┌┤┼▄▀┬┘└└└├┤▀┼┴┬├└┘┤┬┬┘│~─└├├┐┌┌┐└┘┤┬├┐┌┌└├┬┬├┘┤┬┬┬┬┴├└┘┤┴┴┼▀█▌▀┼▌⌠≈≈≤≥≤≥ ⌡ °°²·÷║ёё╒ёё╒╒ёё╒╒╓╕╗╘╘╗╖╗╘╘╘╗╗╗╗╔ё÷·÷║╒╒║║║═÷··÷║╒╒╒╓╕╕╔╔╗╗╘╚╚╙╜╟╠╡Ё╢╣╤╤╥©хпжшшыжжжусрстпрррсужуьжрлхгхихххххгфффиккккйииихггггхххииййккккйиххххгххииииииийихгггйхффхйккккллммммммммннннллллмннннмлкййккккккккккноонллнпомнтзчччАЦДЦАъчщээшзыышщшззыыыззшшшэщщээшэшщэщГ└|зтутстуттсрррстстуужжжжьвввьзшшыыыыызшшшшзззшэчъЮЮЮчшзшвззььшччэшзззызэщэшшэшзыыьжтсряяпяяпонноннннмнопооонммноооооннппоппппппопооооооонноооннмнооооннмооннмммнннмлкйиийййййихгиииихийкккллммннннмлмпряртуутсссярррссссянлмпянкйб╦Ё╠╟╞╞╝╜╚╙╘╗╖╕╔ё╒║╒╒║÷²²°≥≥  ≈ ≈■▓⌠∙≈≈≥²·²·╒╔╔╒═÷÷·°°²··²²²°⌡≥√√≈≈≈≈≤≤⌡⌡ ≈⌠▒▒▓∙√√∙√≤√⌠▐▒⌠■⌠░█┼┤┘└┘┘└└└├└┐└├┤┘┐─││┌┌─}}{z{|{{{─~|yxy{|||{yxxwuvxz}}{||{wutsrutvwx~┘├└┘├├┬┴┬├┤┴┼┴┴┴┴┴┬▀▌▌█▌▐░▐░▒⌠∙≈≥⌡°≤√≤⌡⌡≥≤⌠▐░▒▓■∙▓▓▓⌠≈⌡²° ⌡ ≥⌡²·║╓╗╠╣Ё╝╙╗╚╚╛╛╛╚╛╜╝╛╛╛╛╛╝╟╠╞╠ЁЁ╡╡╢╣╢╣╦╩©диллйгефийклммкклмллмнлкйкмлкйййййййихийккйлнопяярсстужжвьызыыььввжуутттсссряонннммйкйфцб©╪╦Ё╝╝╞╟╞╝╜╞╞╝╚╗╕╕╕╓╒═··÷÷ёё╒║║╒═²÷···° ⌡²° ≈√√≈≈≤√■■⌠▐▌█▀▄█▐▒▒░░░▓▒░▌█▌░⌠⌠▐▄▀█▐▐▌┴┤┤├┌─┐┘┌─|z|~─│┐├┴▄▄▀┬├┘┘├┤┴█▄▀┼┬┬┬┼┼▄▀┬├┘┘┘├┐─│└┘├├└┌│┌└├┤┴├└├┴▀┼┬┴┬┤┤┤┬┴▀▐⌠⌠▐█▒■∙▒⌠√≤ ⌡°²²²²·÷║ё╓═╒ё╒║╒║═║ё╔╕╖╗╖╖╕╕╖╖╖╗╘╘╗╗╕╒║╒╒═╒╒╒║═÷÷÷╒ёёё╓╔╕╔╕╗╗╗╙╙╙╜╝╞╟╡╢╣╥╥╦©флрзэыжжжуттттрссссужуььунигхигххииххгфиккккйииихггфггихххийклййййййййхийккййиийййихххйхфгикккккклллллллмммнннннмммннннмлкккллкклллмллноонммнояонрвэщщАДЕЦАЮъщшшзыыызшшшзыыззшззшэщщэшшщшщэщГ┐}шужуттуутсрярсттттужжжвььввызшшззыыызззызззшэщъъЮЮАчшзшызыьзччэшзызззшэщэшшэшзыыьжусрряпяяяонннноонннопоооннноонопппоооппппппппппоооооонооооннмнооппоононнмммммннмлкйиииииййиххиийииийлкклллллмннммнярртуууттстррсссрряпоопполйф©╥Ё╡╟╞╝╝╛╚╘╘╗╖╕╔ё╒╒ёё║÷²·°≥≥⌡⌡≥≤∙⌠⌠∙≤⌡°·║║÷÷║ё╒÷··÷·°⌡⌡°²²°²·²⌡≈≈≤≤≈≤≤≥  ≥≈■▒░▒⌠∙∙■∙≈∙▒█▌░▓⌠▓░▌┤┘└┘┘└└┘├┘┘├├┘┐┌┌┐└└└┐─|{yxyzyyy{|{ywvx{|}|ywvtsrsuuuuuvuwyxwwvutuwxy}│││┌┌┌└├┤├├┤┬┬┤┬┬┤┘┴▀▄▄▌▒▓▄█▐▒⌠∙≈≤°⌡≤≈ ² √▓▐░▒▒⌠■⌠⌠▓⌠√ °⌡≥≥≤≤≥°·║╓╔╛╞╞╝╚╘╙╗╗╘╙╙╚╛╜╜╚╘╘╚╜╝╞╠╠╠╡ЁЁЁЁЁ╣╥╩©диллйгеегикклммммлййлмлйийкййййкйигигффхиииклмоопрстужввввьыыььвжжжтттсссррряонммлкййифцю╬╩╥╢╠╟╟╞╝╝╝╝╜╚╘╖╕╕╖╔╒÷·÷═║ё╒║═══÷²·²°°⌡≥≥⌡ ≥≈√≈≈≈≈∙⌠⌠▓▌▌▌▀┼▄▌░▒░░░▓▓▒▌▄█▓∙■▐┼┬┼▄▄▄┬┴┤├┐─│┬┬└│}{}│└┘├┬▀▄▀┴┬┤┬┤┤┬┼▀┼┼┬┤┤┤┬┴▀▄███▄┼┬┘┌│┐┘├├├┘└┘├┬┬┴┤┘└┤▀█▀┤┤┬┴┴┤├┤▀░∙√⌠▓∙√⌠░▓√≥⌡°·÷÷··²··══·═╒║║║║═╒╒ёё╓╔╕╕╔╔╔╔╕╖╗╗╙╛╚╗╕╔╒÷ёёё╒╒║═÷╒ёёёё╔╔╔╖╘╖╕╗╘╙╝╝╞╟╡Ё╣╤╥╨юехнвэшьвуужжтрсттссужувьжпйххиххииххгггйккккйииихгфффгииххийлмийййккллиийкккйиййййиххххггхикккккллллммлллммммннннмммнннмлккллмйкллммммоннооонмпооятыэчБДЕДБАъщэшзыззшшшззыызшшзшшэщщэшэчэщээФ┌}шужуттуутсрррттуссужввьыььызшшшззыыыыыыыызшшэчъчъЮЮчзызшзьыщАъэшзззшзшщшшззззыыыьвутсрропппонммопппоопяппоооооомопяпоооппппппппппооооооооооооннооопппппоннммммммллкккккхиииииихииийииймллллллллннмморстжуууттттсссссряяояряпмйфю╪╥Ё╠╟╞╜╜╛╙╘╘╗╖╕╔ё╒╒ё╒║═²²⌡≥≥⌡ ≥√∙∙≈ ²÷═÷║ё╒╒║═÷²°²··°⌡⌡ °²°²÷÷²≥≥≥≤≤≤ ⌡ ≤≈√■▓░░▓■∙⌠⌠■▓▐█▌▌▐▒▓▓▓┴┤├├┘┐┐┐┌┐└┘└│───┌┐┌│─}yxxwwvvvwvx{|zwwy|}|xtrpolnpponpruxzyxwusstx|~┐├└│┐┌──┌└┐┌└┘└└┘├├├├├├▀▓■⌠▀▀▄▐▒▓■∙≥≥≤√≤°≥■⌠░░▒░▓■■∙■■≈ ⌡≥≈≈√√≥⌡²═ё╓╗╙╚╜╚╗╘╖╗╘╙╙╙╚╛╞╜╚╙╛╜╝╜Ё╠╠╠╡Ё╡╠╢╣╥╩юфйлмйхфефхйкмннннлйийллйиййиийккйхгхгффгхииийклмнпястжжжжввьььвжуууттссрррррпоммлкйкйхеа╬╩╧╣╢ЁЁ╡╟╞╟╞╝╜╚╙╘╘╘╖╔║÷·÷║╒ё╒║═÷÷·²÷·²²° ≤≤≤≤≤≈≈≤≈∙⌠▒▓▒▌▐░█┼▄▌░▒▒▒▒▓⌠▓▐█▌▓√⌠▐▀┴┴┼┼┼┴▀┼┤├┌│┤┤┐}}─┐┘├┘├┴┼┴┘┘├┤┬┤┬┼┬┴┬├┘┘┘┘┴▀▀▄█▐▐▌▀┼┤┘├┬┬┤├┘┘├┬┴┼┴┘┘┘┬▄▌▀┤└├┴┴├└├┴█▓√∙∙≈√⌠■∙≤ ⌡⌡²÷║÷²°⌡⌡⌡°°·══÷║╒╒ё╒║║║ё╓╔╔╔╔╔╖╗╘╙╙╛╜╛╙╘╕╒ё╒║═÷÷··║╒ё╒╒╓╓╓╖╘╖╕╗╘╙╜╟╟╠╡Ё╢╣╤╩юдфктзщзьууввурстсрртутжьврмйихййихггфехйлллккииихггггхииииийллйкккккккиийййййиийййихххгггхийклллллммннлллмммммклллммноммллкллмййклммммнннопяомноопрвэъБДЕДЦБъщщэззшэшшззыыыззшшэщщщээщщчщщээФ┌|зтутттуутсссстужтсуввьззыззшшшзззыыыыыыызшээщчччъЮЮщзызэыьшъАъщэшзшшшэщшшзыыьыыыьвутсряпппппомлнопппоппооопоооонопппоопппппппппппоооооопоооооооппоооооооооннмммлллкккккииихххххиииййикнллллммммнммнпсужжутттсстссттсряяпрсролгб╫╪╦╡╞╟╞╜╜╚╘╗╘╗╖╕ёёёё╒║══·²⌡≥≥≥≥≤≤≥⌡·║ё╓╓ё╒╒ёё║·²·²²··°⌡°≥°²°°÷÷°°° ≥≤≥°² ∙▓▓▓▒▐▌░⌠■▓▒▓▒▐████▌░▓■▐▄┴┬├┐││─│┐┘┐}}|}}{zyxvuvvussstuuw{|zyyz{yupnlkjloomlmntvxwvusqstx}─┘┤└─┐┐─}───││──│┌┌┘┘┘┘┴▐▒▐┼┬┤┼▄▌░▒∙√√≈≥≥≤√√▓▓▒▐▒∙∙≈√√≈≥≥≈√√∙√≤⌡²═ё╔╖╖╘╛╙╖╖╕╗╙╚╚╚╚╛╝╝╞╞╞╞╞╞╠╠╠╠╡ЁЁЁ╣╣╥╪бгклмйхгфегйлмммннлййккййкккййййкйихггхиииииииййкмопрстууужвьввжуттсссрряяяяпонмммлкйифдю╫╨╧╤╣╢╣╢╡╠╟╠╞╜╛╛╙╗╖╕ё║÷÷══║╒╒║═÷··÷═²°·÷°≥≈≈≤≤≈≈≈√■▒░▒░▌▐░█▀▄▌░░░▒▒▓■⌠▐█▌▒⌠▐▌▄▀▀┼┴┬┤▀┼┤┬└─┐├├┌~}─│┐┌─└├┘┌││└├┤├┤├┤┘┐┌┐┐┌┤┴┼┼┼▀▄█▄▄┼┬┬┼┴┤├┘└┘┤┴┴┬┘├┤┬▀█┼┤└┘├┤├┘├┬▀▒∙√∙∙■⌠≈≈≤≥≥≤ ²·²⌡≥≤≤≥  °·²²═╒ё╒║═══║ё╓╔╓╓╔╖╘╙╚╘╙╙╚╜╜╚╘╕╓═²°²²·║╒ёёё╓╔╔╕╗╗╗╙╙╘╛╞╟╟╠╡╢╣╤╩╬бфиожшэзввввжтстсррстсжььтплйхййиггффгхкмллкйииихххииийииййкллйкккккййййййййййийййихххгхххгхйллллллммнммммммммкллмммномллкккллкклмммммннноппппнооояжшчЦДЕДЦБЮщщэззшээшззшшшшшшшщччэшщчщчщчщщГ┐{зтутссууттссттужтсувьышззшшээшзззззззззышэщщщщщъъЮАчшызэьвэъъччэшшээшэщшшшзььзшыывжтсряяппяяпнлмноооннооооппооноопооопяппппппппппооооооппооооппяпооннооппооннннммлккййййиихггггйийлкйлплллмнноонммнясжвжутсссссссттссряярсяоле©╫╫╧╡╞╠╠╝╛╙╗╗╘╗╖╕╒ёё╒║═══║÷°⌡ ≥≥≥ °═ё╕╖╖╕╗╓╒ё╒÷²·÷·²·²°°²≥°²°°··⌡·²⌡≥≥ ²÷ ⌠▌▌▐▐▌██▒⌠▓▒▓▓▒█▄▄▄▄▌░⌠⌠░█┼┤┐────┌└┐~{zz{zwuuvvsuutqpqsvssw{{zyxywrmkjijlopomkknqstuwwvvux{|{~┐└─}}~~─}|}~~└┤├┘┬┴┴┴┘┐┘┬┼▄▌■⌠∙≥ ≤≈≥≈■⌠▒▌▒√≈≤≤≈≤≤≤√∙√∙∙≤ °÷╒╕╗╖╗╚╘╕╖╓╕╘╙╚╚╛╛╗╛╟╠╟╞╞╟╜╞╟╠╡Ё╣╥╤╣╥╪цхкллйихфдфилллклмлйлкйййллмккйййййифхклкййййкййклопярсттужвввжуутссссряяяяяоннннмлкгфдбю╫╩╩╦╤╣╤╤Ё╠╞╠╞╛╚╙╗ё═╓╒═÷÷══÷╒╒╒║÷·÷═²  ²÷²≥√≈≤≈√√≈√⌠░░▒▐█▌▌▀▀▄▌▐▐▐▐░▒⌠⌠▐▄▄▌░▄▄██▄┼┬├┐┴┬├┴├┌┘┘├┐~}──~zz┐┌┌}─└┘└┐┐└┌───~─└┬┬┬┴▀█▀▄▀┴┴┼┴┤┬├└└├┬┴┬├┬┬┴┼▀┼┤┘└└├┤┤┬┬▀▒≈≈■▓▓■√∙√≈√∙≤⌡ ≥≤≈≈≤ ⌡≥°²°°÷╒ё║║═÷═║╒ё╓ёё╓╖╘╙╚╗╖╖╙╜╞╞╞╜╗╒·²·═║║ё╓╓ё╔╕╕╔╗╘╘╚╙╘╚╝╝╞╟╡╢╤╥╩╬бфхкяьэшыьвжжжтттррсттжььжрнкхххггггхиикмлккйхйииииййкййййккклиййккккйккккккккйкккйииихиигефймкккккллммммммммммнннммноллккйккклмнннннммнонноясппонпузшЦДЕЕДЦЮщщшыышэшзэээщщщщщэчъчэшщъщчщчччХ└{ьярстужужурясттжжжжжвышззшэщщэшшшзыызззщщщщщччччъЮАчыввьшчъЮЮчшэээээщщэщэзыызззыыьутсряяпоояяомооооооннопярряоноооннооопппоооопмоппоопяппппппппяпооппппонммоомлмллллкйийхггиииггийййклмлллммннмлмммотвьттсссссррряррсряссрнйфб©╪╬╩╢╞╟╝╘╚╚╚╘╖╔╔╔ё╒═════÷··²⌡ ⌡⌡⌡²║╔╖╖╕╖╗╔ё║÷··²²⌡°°⌡⌡⌡°² ⌡⌡ ⌡··²⌡ °² ⌡··≤▒▌▐░░▌▀▌▐░▒⌠■⌠░░▌██▄▄▌▒■▓▌┴┐}}──~|xvwxyxtqqtrstsqpppqoorw{{zvutqmjiklnonmnnmmnoooqtwtwyz{}~}z│┤├┌~~─┌│}{|~┌┌┌~└┬├┐──└┤┬┴▄▐▓√≤≈∙≈ ■√√■⌠⌠■■≥≤≈≤≤√√≈⌡≈▓∙⌡²·╒ё╓╕╗╗╖╗╘╘╗╗╘╚╛╜╜╙╜╟╡╡╠╟╞╝╝╠╢╣╣╤╥╦╥╦╪цимолкйиххххлллмммкйнлкклммллкййкйхефхйккклмийклммнопяяяясжыывжввуссссссряпопомлллккгдаюю╬╪╫╦╦╦╦╤╡╟╟╞╝╛╘╗╗╔╒ёёё║÷··÷÷╒ё║··÷·°≥≥ °⌡≥≈ ≤≈√√√∙∙██▐▐▐▓▒▀┼▀▐░▌▐▒▒▓▒░▌██▌▌┼▌▌▄▄┼├┘─┌┤┼┴├┘├┘┘┌─~|xzxwxz|~~~}~┐┘┌}}xx{{{}│┘┬┴┴┼▀┼┴┤├├├┘┘┘┘├├┘┤┴┼┴┤┤┼▄┼┬┬┬┬├┤┴▐■≤≤∙⌠⌠⌠▓∙√√√≈≤≤≥≤√≈≥°⌡ ⌡°²°°·║ё╓═·÷║═║╒╓ёё╓╕╖╕╕╘╔╔╘╛╛╜╞╛╛╙╔║÷··║║╒╒ё╓╔╔╔╕╖╗╘╙╙╙╝╝╞╟╟╡╢╤╩╪юфиинушээзьвжжуттсстттувывтпкххииххххгилмлкккйииихггийгийййккййййкллкйииииййййкййкллйихиииииййллммммллммммммммнннннннмкккйййккклммлллммноннпяпяпяппяузчЕФДЦБъчэззээшззызшээшшшщщщщщщщщщщшчччГ│|ырссттутутррсуужвввввьышшшэщщэшзззззззшшэээщщщчъъААчзвььшчъъъэьэшшэщщщэщшзыыыыыыыьжттряяпоояяонппппооооопппппооооооооооппппооопноппоопяппппппппяпоопппппонноомкллмлккйййиххийиххйкййкллклллммммммммпуввутссссррррярсссрттялгц╬╩╩╫╨Ё╞╞╜╘╙╙╙╘╖╕╔╔╒║║║║═·²·²⌡≥ ²÷═ё╔╕╖╕╔╓╔╓║·°⌡⌡⌡⌡°°°⌡ ≥  ≤≥≥≤≥⌡°°²⌡⌡⌡ ⌡··√░▌▌██▌█▌▌▐░⌠∙■▒░█▀┼┴┴▄▌░▌▀├┌~~~}}{ywutsrqonpssttrpoopommpuxywtttrmjjlnpqonopqoonmmnoqruxyz|~~z─└┘┐│───┌│}z{}~│───┤┴┘~||─┐└├┴█▓∙∙∙√≈√⌠■∙∙■■■■≤≈≈≈≈√≈≥°≥∙≤²²°÷╒╓╖╖╖╖╖╗╕╕╕╗╙╚╛╛╚╜╟╡╡╠╟╞╟╟╡╢╣╢╢╣╧╦╧╬дймнллкйййййкклмнннмнлккммлккйййййхггхиййййкийккклмнпяяяясжььвжвжусссссрряпопоннмлкйгдбба©╬╬╪╩╨╧╣╠╞╞╟╞╜╙╘╘╕ёё╓╓╒║÷÷÷·║╒═···²⌡  °⌡≥≤≤≥≤≈√≈√■⌠▌▌▐▐▌▒▒▀┴┼▌░▌▐▓▒⌠⌠░▌▄▄█▐█▐█▀▀┴┘┌│┌└┘┘┐└├┘┘┐|{xutuwyz|~─~}|}─│~yywvustvttuttvz}─│┌└└┘┘┘┌┌┌┐┘┘┘└┘┤┴┼┬┬┴┼▀▀▀▀┴┬┴▄▐⌠√√■■∙√■√≈≈≤ ⌡⌡ ≤≈≈≤  ≥⌡°°°²═╒╓║═══÷÷║ёёёё╓╔╔╔╓╕ёё╖╙╘╘╙╛╝╝╙╕╓╒═╒║║╒ё╓╔╕╕╖╗╘╙╚╚╛╜╝╞╟╠Ё╣╤╩╫афгхлрвшщшьжжжттссссстувыьуямихиииххххилмлкккйииихгхийиййииккйккйкллккиййййкккйййкллкйииййииййлллммнннммммммммннооннмлкйййййккклмммлммнооннппояяяяпяузчДФДДБъчшззшшзыззшшшшшээщщщччъъЮччэччъГ┌}зрсттттстсрртжвжвьыыыыыэээщщщэшыыззшшшшзшшэщщччъЮААчзьыьэъЮЮчзвэшзшщччэщшзыьыьььыьжутсяппоопяпнпппппппппоооооооооооооооппппооопноппоопяппппппппппоппппояпононмкклммкйккййииииййикккклллклммлллмммлнржвжутссссряряярсттттсойдю╩╦╩╪╧Ё╝╜╚╗╘╘╘╗╖╕╔╔ё╒║║═÷²⌡·²⌡≥⌡÷╓╕╖╕╕╔╓ё╒╒╒÷° ≥≥  ⌡⌡⌡ ≥≤≤≥≤  ≤≤ °²°≥≥  ²÷²∙▒░▐▀▀▌▐▐▌▌▐▓■⌠░▒█┼┬┬┬┼▄▄▄┴┘│─||{zxvuurqponmoqssrpooprmkjmquuustvuqmmpqrqnmorttrolkkkkptxy{}{}─│┐┐┌─││~{{|~┐│─│┤├yxy|~─┐┤▀▐░▐▒√≈⌠▓▒⌠√≈■■∙≤≈√√∙∙≈ ·⌡≤ ÷·°²÷ё╕╓╓╔╕╔╔╔╖╘╚╛╛╛╜╝╠╡╡╠╞╞╟╠╡╢╢ЁЁ╢╧╧╩©фкмнлллллллклмнооннннмллммлйййййййиххийййиийиййййкмноярррсувьжужжуттссряяпппппоонлйхеддцбю©ю©╫╩╦╢╟╞╞╡╟╜╚╚╙╗╓ё╓╔╓ё║═══║╒║══·²  ⌡⌡ ≤≈≤≥≤≈≈≈√⌠▒▐▌▌██░░▄┴┼█░▐▐▓▒⌠▓░█▀▀█░▐▐▌██▀├│┌┌┌┐│─│┐└└┌}yvtsux{{yxz|xyyy{{xtsonooppnooonpsuvuuwy{}|||┌┐┌─┌└┤┴┼┴┬┬▀▄█▄┴┤▀▐▓∙≈√∙√≤ ∙≈≈≤ ²²²⌡≥≤≈≈≈≤≥°⌡⌡°·═╒╒÷║╒═·÷║ё╒ёёё╒╒╒╒ё║╒╕╖╕╔╔╘╛╞╞╜╙╗╔╒║║═║ё╔╕╔╕╕╖╗╙╚╚╜╝╞╟╠Ё╣╥╩╬цефгймрьээывжжутсссссттвыьжсокихииииххикмлккккииихххиййййхийкклкйкклллйййкккккийккккклийййииййкклмнноонннннннннооонмлкйййййккллмммммммнооооппояяяяпятыщДФДДБъъэззшшзззшшшшшшщчщщччъъЮЮъъэчщчГ┌|ырсттттсссрстжвжвьызшэщщщщщщщэшыызшээээшээщщччъЮЮААчшзззщАБАъшьшззшчъчэщэзыыыыььыьжутсяппоппппоппппппппооооооооооппппооопппооопоопооопяппппппппооппппооппоооомлклммкйклйййииийййклккллккмонмлмнмллнсььуутссссрярррстууурплгб©╪╦╨╩╧Ё╝╛╙╗╗╗╗╗╖╕╔╔╓ё╒═÷·²²²·²°·ё╕╗╖╔ё╒╒╒╒║═·⌡≥≥≥  ≤≥≥≥≤≤≤≥≥  ≥≤≥°·≤√≈ °══°∙▓▓▒█▄▌▐░▐▐▐▒⌠░█▌▄┴┤├├┬▀▀▄▀┤┌~}}{{zxvuuurqqqommmpponnortljijmqstrtwxurrutrollosuuqmkjjjijpw{}}~}||┌┐│─│}|}~│││─┌├└|yxz|}~┌├┤┬┬┬▌■√∙░▐▓≤≥√∙≤≥≈√∙■■√≥²°≥⌡÷·°·²╒╔╒║ё╓╒ё╓╖╘╚╛╚╚╝╞╠╡╠╠╞╞╞╟╡╢╢Ё╣╥╧╧╩агкмлйклмммллнояпомммнмммммкйииййййййййкккййййййййкмнояссстувьжужжутутсряпппяоооонлифдееецааа©╫╨╥Ё╠╠╡╡╟╜╛╛╚╖╓ё╓╔╕╔╓╒║║║║║║═²⌡ ≥≤≤≤≈≈≥≥≤≈≤≤√▓▐▌██▄▄▐░▌┼┴█░▐░▒▒▐▐░▐█▀█▐▄▄▌▐▌▀┬┐│┌┌│─~}}┌┌zusstvxzxustursuvvusqqmmnmnnlmnoqstsroopqsvwxvvvy|~}|─┐┤┴┬┤├┤┴┼┬┘├▀▒∙≈≤√∙≈≥ √√√≈ °²°⌡ ≤≈√√≤⌡²°°²÷÷··═ёё═²÷║╒║╒ё╒║÷÷═╒║ё╕╖╕╓ё╓╘╜╞╞╞╜╚╕╓╒║║ё╔╕╕╕╕╖╗╘╙╙╝╞╟╠╠Ё╣╤╨©ддегййпжшэшывужуттттттсжыьжтпмиххиииххикмлккккиихххххииййииклклкййклллккккккккийккййккийййиииййклммннноооооонннннмллккккййккллмммнннннмннопяяяяпяяпясвщДФЕДЦЮъщэшээшшшшээшшэщччччччччщччээээФ┌{ьястттутсррссужвььыызэчщщщщщщэшззшэщщщщээщщщчччЮЮААчшзэшчАБЮчэыззышщчщэчщшзззыыьыьжутсяяппппппоппппппппоопппоонооппппооооппоооппппооопяппппппппооппппоооооооонмклммлкклиййииииййклккллккмоомлмнмммпуыьтттссссряррртужуупнйда©╪╧╧╨╦╢╞╚╘╘╗╖╖╖╕╕╔╓ёёё╒═÷·²°·║╒╓╖╗╗╖╔╒║║╒╒║²°⌡     ≤≤≥≤≤≤≤≤≥≥≥≤≈≈ ²≥√∙≈ ═║°≈⌠▓▓▌██▄▐░▒▒▓▓░▄┬┬┤├└┌┘┬▀▄▄┼└~ywyyxwvuttqpoonllloonmmoqsmkihknrtpswywtuxwrlkmprtqnjghihhflu|~~│~|}│┌─~─│─}{{}}┌┐┐┬┤│{{|}}~─┐│─┤▌▒⌠∙░▐⌠≥⌡≥≥⌡≥≈√∙■■∙≈⌡ ≤≥·÷·║═╔╖ё║╒╒══╒╔╗╘╙╙╘╞╞╟╠╠╠╟╞╞╟╡╢╣╢╤╦╦╦╩агкккхиклмммлопяяомммннмммлкйииййййккййййкйййккккклнопястттувьжужвууутсряппяяннннмкхефгхгеццц©╫╨╤Ё╡╡Ё╟╝╜╜╜╚╕ё╒ё╓╔╕╔╓ё║═÷÷÷² ≤⌡≈■■√≈≤≥≤≈≈≤≤√▓▌█▄▄▄▄▌▒▐┼┴█▒░░▓▒▐░▓⌠░█▄█┼┼░▓█┼┬└│─~}}|{─~{vqprurrrpoopqqrstsrpopmnomlmmlmoqssrqopppprtvtsstwyyyz{}┌└└┐└┐├┤┘└├█⌠⌠∙√√√≈≤≤√√√√≤⌡⌡ ⌡≥≥≤≈≈≥²²°°÷═÷²²╒ё╒÷·══÷═║╒║═···║║ё╔╖╕╓╓ё╖╚╜╞╟╞╝╚╘╖╔╓╓╕╕╗╗╘╘╘╙╙╚╝╞╟╠╠╡╢╣╧©дддгииптышэшьужуутттттруььжтройхгхихххилммккккййиииииихиййкллклкйийкллккккккккйкккйиийййййиииийкклллллнннннннннмлкйклллкккклммнмммннннммнпяяярпппяппруэЦФЕЕЦАЮчэшэщэшшшшээээщччъъъччщщччээшэФ┌{ьярстууусрссстжыыьььызэщэээщщщээээщщчччээээщщщчАААЮчшшщэъАЮчщшыыызшэщээчщшшззыыььвуттсяяяпппппоооооооппоппяяпонппппппппоопппоппппппоппяппппппппооппооооооооооннмммлллккйииииииийккклмлкклннмллмммняжывттсссссррррсужжуспмхб©╫╩╦╦╦╦╤╟╚╘╘╖╖╕╕╕╕╔╓═╒╓╓ё║÷²·║╔╖╘╙╘╖╖╔ё╒╒╒╒║°⌡    ≥≤≥≥ ≥≤≤≤≤≥≥≤≤≈≈≥°°≤∙■√²÷⌡≈⌠▓▓▐▌█┼█▐▒▒▓▓▒▐┤├├┘┐┌┐├┬┼▀┴└}wswvvvutsqpommllnqqqonmnnonljijmprqsvyxwwywrlkmoqrplhffhhhfkt|────└─|}──││┌│~zyz─┐├├┘┬┬┐}}~~~~─{z┴▌▌█▐▐▐▓≤⌡⌡°· ≈∙√√∙■∙≤≤√≈°÷═╒╔╘╙╖ё╒║═║ё╕╗╙╙╙╙╞╞╞╟╠╠╟╟╠╡╢╣╣╢╣╦╧╧╪агййигхйклмммнопппонннннммлккйййкккккйииийййикклллмнппртууужвьжужжууутсряпяяяоннммкигхиихффед©╬╩╥Ё╡╡╡╞╝╜╝╜╙╕╓╒╒ё╓╓╔╓ё║═÷÷÷²  °≈⌠⌠∙√≤≥≈√√≈≤√▓▌█▀█▌█▌░▌┴┬▄▒▒▒⌠⌠⌠▓⌠■▓█▀▀█▄▓■█┴┬└┐│~{{}}}|yuqmlossqnmmoopttttspnnomookilnnlloqrrropqpoortttssuwxywwy}─~──┐┘┘├┼░■▓■∙∙√≤≥≤≈≈≈√≤ ⌡  ≥≤≥≥≤ ·²⌡²═║÷·÷ё╒═·÷═÷²÷═║║═÷··══╒ё╓╓╓╓╕╗╙╚╜╝╞╝╜╛╙╗╕╔╔╔╗╗╘╘╙╙╙╙╝╞╟╠╠╡╢╣╧╬цццфхиоржышэзжуутсссструвжуусялигхиххийлнмкккклкййййййхйкккллклкйийкккккккккккккккйииийккйииииййккккккллллллллмлкййклмллккклммннммннннонояяппяяппяяпятэЦФЕЕДАЮчэшээшшшзшэщщщщчщччъъччччъэщэщГ┐|ыярртужжтрсттувыыыыыызшэшшэщчщщщщщщщщщчшээщщччъААЮЮчшэщчЮАчэшзыьызшшшшээшззззыьььвтсссрряяпооооооооопппппппппооппппппппнопппоппяяппппяяяяяяяяяяоопоооопоооооннмнмллмлкййиххиййийккклмлйллмннмлллноржывсссррсссряртжвжтролфю╫╪╨╥╤╤╥╥╡╚╗╘╖╕╕╕╕╔╓ё÷║╒ё╒║║║╓╖╘╙╙╙╗╕╓ёё╒╒╒║║·²⌡ ≥≥≤≤≥   ≥≥≥≥≥≤≈≤≤≈≤ ⌡≤∙■∙⌡²≥≤⌠▓▓▐▌▌▄▀█▐▌█▌▐▐┼├└┐┐┌┐┐└┘┤┤┘yuuttuvuronmmlklosttrpomlkllkjjlnossvxxwwxuqmlllmopmhfefgghinv{~─│┐{{}~─│┌┐┐{z{└├┬┤└┤┤┌~~~~}|z|│┤┼┴┬┴▄█▐⌠≈⌡°²≥√■√≤≈∙⌠√≈√≈°÷═╒╔╖╘╖ё══║ё╔╗╙╚╚╛╛╝╝╝╞╟╠╠╟╡Ё╣╥╣╢╤╧╪╪╬бгйихххиклмммннопяяпоннммлллллкйклллккйииййихййкллмнорсуууувььжууутттсрряяппяпонммлкйийигффец╬©╪╦╣╢Ё╡╟╞╝╝╛╘╖╖╓ё╒╒╒ёёё║÷÷÷÷²°²°≥√∙√√≈≥√∙■√≈√▒██▀▌▐▌▌▐█┤├┼▒⌠⌠∙√≈⌠▒▓░▄┼▀▒█▒⌠▀┬┬└┐│}yxyxvtqnljjmqvtqooopputssrommolmnjhknpnnprrrrnprpmmpsttuuuvxywvy}~{{|}─┐├┴▌░░▒▓⌠⌠■√≈√√≈≈√≈≥   ≤≤  ≥⌡··°°··°²═╒═··÷÷·²÷÷══║║═÷══║║╒ёёё╖╗╘╘╙╛╜╜╞╝╛╚╘╖╕╕╔╕╖╘╘╘╘╘╜╝╞╠╡Ё╢╣╨╬бццдгимптвышшзжутссссссужжуутсойгхиххйймнмкккйлкйййййийккйклкйккййкклклллллллллкккккййкллкйиийиййкккккййкккллллккккклллккййкллнмммнннноноярппяяяярряясшЦФЕЕДААчэшээшшшшшээээчъщщччччщщщчщчэщГ┐~зрррстжжтртуужььызшшшэщшшшэщччччщщээщщщээщчъъЮААЮЮЮчшэчЮБАчшзззвышшшзшэшзыыыыььььжсрссррряпооооооооппппяпооооппяппппппянопппоппряпппяяяяяяяяяяяоппонноппппонмммомклммкикиххйкйиийкклмлйммноонмллнпсвьжссрррсссрясуввжсямиц╬╩╩╨╦╢╣╥╥╡╚╗╗╖╕╕╔╕╔╓ё║║═÷÷║ё╕╚╛╛╚╘╗╕ё══║║║║║║║÷° ≥≥≥≤≤≥ ⌡⌡⌡⌡⌡≈∙■√√∙∙≈≈√√√≈°°≈≥∙■⌠▐▌░░┼▄█▀┴┴▀█▀┘──│┌│─│┌└├├┌}xuttvxvrnjkmmlkmqvusrpmkjkkkkkkllrrsuvtstqonljhjmolhdbbcdfefmsx|─|yyz{~─││└└┌~}~┐┘├┘└┬┴┐}{|─┐└└┘┘┘┬┼▄▐⌠≤⌡⌡≤∙■≈ ≥∙▓√≈√≈°÷÷║═╒╔╔╒÷═ёё╔╗╙╙╚╚╛╝╝╜╝╟╠╠╠╡╢╤╥╤╣╥╨╬╬юдхихгхийклмннооопрряоннммлллммлйклмлйлкййййиххикллммнртууужвывутуутстрряяппппяпонмммлиигедеца╫╬╫╧╤╣╢Ё╡╟╞╝╛╗╗╘╔ё║═║║╒╒÷·²··°²·° ≥≤≈∙√≤∙■⌠∙≈√▒██▄▐░▌██▀├└┴▒■∙≈≤≤▓▌██▀┼▄▒┼▄▌┤┘┤┌~zusrokljhhhilotsqpppqrtrqqqnmmpllnjilopopsutrqpsurnlosstvwvvwyxx{~{y{z~┌├▀▐▐▄▐░▐▌▐▒▓▒■√≈√√≤ ⌡ ≤≈ ⌡≥ ²÷°⌡°⌡≥⌡÷═·°·÷²²·÷÷÷═╒╒═÷║║║║║╒ёё╕╖╖╖╘╚╛╛╠╠╟╞╜╚╙╗╔╕╗╘╚╚╙╙╚╜╞╟╡Ё╣╤╨╫абббехйосувзщчвжуттттттжжуууутякгхихиккмнмкккйкйииииихлллйиккйкккклллклллллллллкйклллкллллкйййииййккккййккллммкллммлкйлкййййклнмммнннннмняряясрярсрярсшБФЕФДБАъщэщщэээээшшшэчЮщщчщщэшзшщэщээФ┌{зсрястжжьывжььжжызыыэчщышщчщщщщэщщчщэшшъчщчЮАЮъчАБЮщщъЮАЮъэзззшзззыызззшшыььыывьвжжутсряппооопппонноооняонооннппппппяппооооппппяяяяяяяяяппппппяяяяпппяяппоооонмллклллкилкйиййййллллллллкмммнлймляттувжтррррррррясжььуянйею╫╩╧╥╤╣╥╧╦╠╚╘╘╕╔╔╖╕╓ёёёё║═║╓╖╗╚╙╚╛╚╗╓ё║══║═÷║ё═÷²⌡≥≈≈≤≤  ≤≤⌡⌡ ∙■■■■■⌠⌠∙√≈≤ ° ≤≈∙■⌠▒▌▌▐▀┬┬┼┼┤├┤┼┤┐┌─~}}│──│┌│~{tqptwvrnnlkkkkmorqppnkkmnmlkjijmrqnlloonnnmjhhiijhfdcbaaccdfjpssvyxvwy{─┐┤┤└│}z│┌└┐┌┤├{wvvwwwy}}─┐┘┘┘└┘└┤┴▀░√≥≈≤≈≈≥≥≈√∙√√≈≥·╒║÷·÷═╒║═║ё╔╗╙╙╙╙╛╜╙╚╛╝╞╟╠╠╢╢╤╥╥╥╦╦╨╪агхффиххийлмноппоопяррпомлллкклкккккллййййхфилййккклноясуужввуввввжутсряппяяррсяпопомкихггец©╫╨╩╩╩╦╤Ё╡╠╠╞╛╙╘╖╔╒╓╓ё╒╒║÷═·°⌡⌡⌡⌡ ⌡≥  ∙⌠√≤√⌠∙■∙√▐▌█▐░░░░▐▌▀▄▄▒√√∙≤√▓▐▐▐▄┴┬┤┴▀┴┘└┐}yvroljhggjhgjllmrqqsrqqrrpopqqomklmmjjlnnrsrrsssurpppoprtsssuwz|}~~|||~~┌┴▄▄┼┼██████▌▌▓⌠∙≈≤≥ ⌡ ≈≤°·⌡°÷²²°⌡  ⌡²°·══·²²·²═╒║║ё╒÷═÷·÷═╒╒╒╓ё╔╗╘╘╙╜╝╟╡╠╞╛╛╛╖╖╕╖╗╘╙╚╜╞╞╝╝╠╢╣╨╬аббдфглорувыэщзвууустжтстжуттуснйййихикклммллкииййииииийкккклмллллкйкклмнммннллллллллкйлмкйййиийййийклййкллллкммллккккллккйкклмлмооммнопяяяррсярррррррыАФЕДЕЦЮщчччщээщзэщээчЮЮччъчщэээшшэээчД│|штсстжввььььььввызззшээзшэщщэщщччщщщщщщъчщщъЮЮъЮАБъщчЮАЮъчэзызэззыыыыызшшзььыывььвжжутсряпооопппонноооопоопоннпппппппппооопппяяяяяяяяяяяяппппяяяяяппяяяпооооонммлккккйймлкйкккйкккккккклнмномкммяттуввурррррряяртжььтплхд©╫╩╧╥╥╢╤╥╥╡╛╘╙╘╖╕╔╔ёё╓ё╓ёё╓╖╘╘╚╙╙╚╙╕ё║═÷═║═·÷══÷·° ≥≤≥≤≥≤√√≤≥≥≈√∙■⌠▓▒▒⌠■√≈ °²²≈∙⌠▓░███▌▄┼┴┤┘├┤┤┘┐│||}}~~}}}zvssttrqnlkkkjkmmlmoomllmkjjihjmooonlklmmnnlkjihgfedbaa`abcdhlnmpsttvxz|┌└└┐{─┌┌│┘└{uttuvwx{z~┌┘├├├├┤┬┬┤┼▓≈≤√∙√≤≥≤≈≤∙√√≈°╒╒²²°²···═╒╔╖╗╘╘╙╚╜╛╜╝╞╟╡ЁЁЁ╢╣╤╤╥╥╥╧╩аикхеееефгилмннннопярсяонммммлмммммлкййихххгхйййккклмоястужввжжвввжутссряяррссряооонлййихгда╫╩╥╥╥╥╥╣╢Ё╡╡╟╜╛╚╘╖ё╓╓╒║║═÷÷·°⌡⌡°⌡⌡⌡≥≥≤⌠▒■∙√⌠∙∙√√░▌█▌▐▐▒■∙∙▌▄┼▌∙√∙√▒▐▐▐▌▀┬┤└└┤┬┘┌}wroljhggghjihjllmrqqqpopqonmmooonnmlkkkkloqqppsttsqppnmorsrqqrtvx|}~─│───~─└┼▀┴┤├▀┴┬┴▀▄▄▀▒▒⌠∙≈≤≥≥°≥≥°·²²÷·°  ⌡°°°·÷══÷·÷÷÷║╒╒║══÷··÷═║╒╒╒ёё╓╕╖╗╙╛╜╞╠╡╠╞╝╜╙╘╗╗╗╗╙╚╚╝╞╝╝╠Ё╢╧╫аабдфгкмятжьшщзьжутттжутужуттууялйихггллммммллййййиииихйкллкклллллккклкммллнмлккллкккййллкйййиийййййклййкллллкккллллллккккклллмммоонмнопяряяррярррсссрыЮЕЕДЕДАчччщэээщшээшшчъЮъъъъщщщщэшэээчЕ┌}эуттувввввььвжвьызэшззшшшшшээщчъчщээщчъъщэщчъЮъАБАъчЮААчщэзыышэыыыыыыыызззыьыьжыьвввжусряппоппяпооооппопооппононоппоопяпппппяяяяяяяяяяяяяяяяяяяяяяпяяяяоонооонммлкййкййлкйиййййккккккккмнммомйлнруууввурряяяяяятувьвснйеа╬╪╩╧╦╦╢╢╣╣╡╝╙╘╙╗╖╕╔ё╒ёё╓╕╕╗╙╚╙╛╙╙╙╗╔║═÷÷═║═·²··÷÷·²⌡   ≤√∙∙∙√≈≥≤√■▓░░▐⌠■∙∙≈≥°°≈⌠░░▐▌██▌▌▀├┐┌└└┘└┐│||~{~~{yz||yvtrqqspmkkkkjkkkmqrqnlkihgggikkmoplhhkkmnmlkhfeefdba`a`bcdfhhgglnpsuw{z|~│└└─{~|~─zvtstwxyzy|│└┘├├┤┤┴┬┘┤█⌠√≈√∙≈≈√∙∙⌠■■√°╒║°²°⌡⌡°²÷╒ёё╓╕╗╙╛╝╝╝╝╞╠╡╢╣ЁЁЁ╢╤╥╥╤╦╩аилидццдефгиклллмноястсяонмммммнопонлйлхфхийиийкккклмнпрттжввжжввьвутссрррстттяпонннлйкйифб╬╩╧╥╤╤╥╥╥╤╢╡╠╝╚╚╛╙╖╓╓ё║═══··²°°°°°°² ≥≈▓░⌠■∙▓∙∙≈≈░▌▐▐▌█▐▓⌠⌠█┼├┬▒∙■■▒░▐▌▄┴┤├┐─│┐─{vpjigedegijlkikllmrrrqnlmomllllmnnomjikmmlppnnosuuqqqqomorsrqppqst|}│┌│}~│├┴┴├└└┤┘┐└┬┼▀┴▌▌▐▓∙≈≈≈°⌡ ⌡·÷÷··⌡≤≤⌡²°⌡÷÷÷÷═÷══║╒ё╒═²²÷²²÷═╒ё╒╒ёё╓╔╕╖╘╚╚╜╟╡Ё╡╠╞╝╜╚╘╗╘╘╙╘╛╝╝╞╠Ё╢╧╫юабдфгйлортжышшзьутужжжужжусстжсокиихгллммммлллккйййййхилммлкйлммлккклкллллммллллллккййллкййййййййййклййклллккййлммммлкклллмммнмнооннопярррррррррсссссьъДДДЕЕБчъчэшэщэээшзэчЮЮъччщэшэээшээшчЕ┌}этттужввууввтсуььзщэзышээшшэщчъъчщщщчъЮЮчщщчъЮЮАААЮЮААЮэшзыыышэыыыыыыыыыззыыыьжыььввжутрряпооппяпооппоноопппоонмоппонояппяяяяяяяяяяяяяяряяяяяяряяяяяяяяоонооонннмкййййккйииийккккккккккммллнлйкятжуужжсяяяяяяяяужььврлхцю╫╩╨╦╥╥╢ЁЁ╢Ё╞╚╗╗╖╖╗╕ё║║ё╔╗╘╚╛╛╚╚╘╗╗╖ё║═════÷·²²²·÷÷·²²²⌡≤√√√■■√≥≤√■▒░░░▓■∙■■√≤≥√▓▌▌▐▐▌█▀▄┼└──┌┌┌││─}{{}}│|xxyzyxuqnoqqnllmmlkmlmpsrnkjhfedefihjnqmgfjikkkjjgefggeb`abaceefgfecfhkooqvy{}─└┘┌~}||}}|zy{wuvy||||~│┐┐┐└┘┘┬┴┬┬▀▒■≤√∙∙∙⌠▒▒▓▒▓≤·═÷²·⌡  ⌡°·═÷÷═ё╖╙╜╟╝╝╝╞╟╡Ё╢Ё╡╡Ё╤╥╤╣╧╩бхйгдццефгхххийклмнпрсуспннммммноппонммйхикккккклкклмнпрттжььвжвььвжтссррсстттяпоннмлкиигдю╫╨╧╨╦╥╥╦╦╤╢╡╟╛╚╚╜╚╗╕╔ё═÷═÷·²²°°°°°°÷° ≤⌠▓∙∙▓░■∙≈≤░▌▐▌▀┴┼▄▄▀▀┬└┘▌⌠■■■▒█┼┬├┘└└~|{vromhhfdceillonkllklqrsrnkkmlmmmlklmmkihkopoqpnnpsuupqqqqprstsrppqrt{}─┌┌│──│┐├┤┘┐┐┘└┌│┌┘┬┴┴▀▀▄▐⌠∙∙■≥≥ ⌡÷╒║²°≥≈≤⌡²°⌡·²°·÷÷═║╒║╒╒÷⌡⌡÷··÷═║╒╒╒╓╓╓╔╔╖╘╚╚╜╞╠ЁЁ╡╠╠╠╞╛╚╙╘╗╗╙╜╞╟╠╡╢╨╬юаацеехкнпруьззэзжтжжууууутсстууякиййхлмммммллмлкййййкхикммлкймммлкклмклллллллнннммлкккллккйййккккккклйкклллккйкллммммкллмммммннноооноопррррссррссттттьчЦДДЕФДъЮъшзщчэчщшшщъЮЮъчщэшшэээзшззщД┌|шссстттустжжттжввыщщшзэщщэээчъЮчччччъъъАЮъчъЮААЮААААБАчшзыыыззшыыыыыыыыыззыьььжыьвввжутряпоооппяяппоонмоппяппонноппннояяяяяяяяяяяяяяяяярряяяярряяяяяяяяоооопооннмлйиййккйййклммккккклллммллмлймсжьжтутряяяяяярржвььжякфа©╪╩╧╥╤╤╣Ё╡╢╢╟╚╗╖╖╖╖╔╒║╒╔╗╚╛╜╝╜╚╘╖╕╕╔╒║══÷·²²²²°⌡²·÷÷··÷°≥≈≤≤∙■■≈≈√■▓▒▒▓▐▓■∙∙√≈≈∙▒██▌█▄▀├┬┬┐─│││~~~|yy{}zxxxyyyvqmmoromnpommlkjlopmjjheddcdfgglpoigihijhggfeghgeb`acadffffedbdegjjkpvy}│└├├┘─}||zxz─|xx{~││┌│──│┐┐┤┼┴┬▀▐⌠∙■⌠■■⌠▓▓▓█░⌡║·°÷·⌡≥  ⌡⌡°²°·╒╔╗╚╝╞╞╞╞╟╠ЁЁ╢Ё╡Ё╣╥╤╣╥╫дххеццбдгхххггйклммнпятрпннннмнноппоонмккллккмллммлмнпястужьыьвььыьжтсссссттссяяонмлкйггеб©╫╩╩╨╦╤╤╤╣Ё╠╠╟╜╛╜╞╜╙╖╕ё═÷══÷°°°°⌡⌡°²═²⌡≤■∙≈√░▌▓■≈≤▒▌▀┼┴┬┬┼┼┴┼▀┤├▄▒⌠■⌠▐┼┤┤├┐zxvplmnjjhfefjmnqolmljkpqttpkjkjlmnlkkkkkjikorrrpopsttsqppqrttstssrqrtux|│┌┌┌┘┬┘├├┐│─┌└────┌└┤┴┬┬┴▄░▓▓▒■≈≥⌡═╓╒² ≥≤≥ °²²²⌡°·÷══╒╒║║║·⌡°═║═÷÷÷═║╒╓╔╓╓╓╕╗╘╛╛╜╞╟╡╡╡╠╡╡╟╝╜╚╗╘╚╜╞╟╟╡╢╩╬юаацддгймоятвызэшвужжттттттрстжжсмйккимммммлллмлкйййккйййкллллммллкклмллллллммннннмллкллккккккккккккклкклллллллллкллммлммннммлннннооонопяррсстрссттуууьщБЦЦЕФЕЮЮчшшщчщчэшшщчъЮАЮъщщщщщэшшшшчЕ┐|зряярррррсужжжвжвзэщээщщщщщчъъЮщчъъЮъъчААЮъЮЮААъАБББАъэззыыззззыыызззззызшыьььвььвввжутррпоооопяяппоонмопяпппонноппонопяяяяяяяяряяппяярряяяяяяррряяяяяяпооопооннмлкйййккйиийлммккклллллмнммнллпуььуттсяпяяяррссжвььуохдю╬╪╩╧╥╤╤╤╢╡╢╢╠╚╗╗╖╕╔ёё╔╗╙╛╝╝╝╞╝╜╗╕╓╓╓╒║║÷÷²°°²²°°°²²²²·÷° ≤≥≤≈■■∙√√■⌠▓⌠⌠▒■√√√√∙⌠⌠▐▄▄▄┼┬┤└├┤┘┐┌┌│~~~}zz{}zwvwxxzyywrnmnponopnmmjihhknnlkhfedddefgjnokiihjjgddefgggebabb`cfeccddcddfhggkpu|─┐┤┼▀└┐||zy|│~zz}──}┐┐┌│~│└┤┴┬├┬█▓■⌠⌠■■▓░░░▄▐⌡═°⌡══² ⌡°°°°²·═╓╔╔╖╚╞╞╞╟╠╡Ё╢╣╢Ё╢╣╤╤╣╥╬фйхдбаюбфххгффйклмлмнпяпонооооооооооооммммлклнмннннопясужжвыыьыыыыьжутттстттряяяонлкййгебю╬╫╪╪╦╥╤╤╤╣Ё╠╞╝╜╛╜╝╜╙╗╕ё═÷══÷°°°⌡≥ °·÷°⌡≤∙√≈∙▐█▒⌠√≈░▌▀▄▀┼┴┼┼┴┼█┴└├▀█▐█▀┴┬┴┬┌{vuutolnnlkigggiklpollkijnpstqljjhjlnmlkkkmmjkorsqopsuusrrqpprutrsttsrsvxx}││└┬┴┬┘│─│}~──┌┘┤├├┬┼█▐░▐▓■≈ ÷╒═²≤≥  ⌡°·═·°²═║═║ё╒║║═·°·║╒║═··÷║╒ё╓╓ёё╓╕╕╚╚╛╛╝╞╠╡╟╡Ё╡╠╠╝╚╚╛╜╞╞╞╠╢╪╬ююабццфилоясжьышшыжууттсстсрстьвуплййиммммлллллккйййкккйййкллмлллккклммллммлмннннммлккнлкллккклкййккккллллллллнмлкклммммннммммнноннооннпярррстсстттуууыщБЦЦЕФФБЮчщщщччщшзшэщчъАЮчщщщэээшэээъФ┐|зряяяяппрссужвжжьшшэщщщщэщчъЮъччъъЮЮЮъъААЮЮъъЮЮъАББЮъчэззззшшыььыыззззззшшыььььььвввжутсряпооппппоооонмопяппппнппппоооояяяяяяяяряяппяяряяяяяяяясрряяяяяпооооонмннмлййккйиггхйкккккллллмлннмнлмруььуттсяпяярстттжвьвсмею╬╪╩╩╧╥╤╥╤╢Ё╣╣╡╜╘╘╖╕╔╓╔╘╜╞╟╞╝╜╝╝╜╘╕╓ё╒║═║·÷·²²÷·²²²°⌡⌡⌡°·⌡ ≤≈≈≈∙⌠∙√√√■▓⌠⌠■∙√√√∙▓▐░█▀▀▀┴┤├┘┘├┤├┐││~}~~{zz{zxvuttuuvwxvqnmnmmnmkjjiihhjnonligggfeffhklmkjjikkfbaceffgfedcb`cdb``bbcddgifdhkqx}│├┼▄└├─zzzy}~}||│|─│┌│─┘┤┤├└┘┴█▒░▒▓▓░▌██▄▐√  °║╒·⌡°···²·÷ё╖╕ё╔╘╜╜╝╟╠Ё╢╣╤╣╣╣╣╤╤╤╨югйхебаюбеффеффйкммллмоппоооооноооооооооннонлмноопппярсувввьыыьшшзыьжутуутттсрпяпомкйиххдю╬╬╬╪╩╥╥╦╥╤╢╡╠╛╛╛╛╜╜╛╙╗╕ё═÷║═÷°°° ≤≤°÷÷°⌡≤∙√√⌠░▌▒▓∙√▐██▌█┼┬┬┬┬┼▄├─┘┬┼┬┬┬┤┬├xsstsoopnlkjihiiiimmkkihilmprpmjjjklmmmlklnnkkorronptvussttrqrttstuuutuwyz~│─~}─┐├┘┐││┌─}~─│┌└┘┘├┤┴▀███░▓■≈ °⌡ ≤≤  ⌡°÷═÷·═╒╒÷═╒ёё╒÷·÷║╒╒║═÷·÷═╒╒╓╓ёё╓╔╔╗╘╚╚╚╜╞╟╝╡╢ЁЁ╢╡╞╞╝╝╞╝╝╠╣╩╫©юацдцехлоясувыышшьутуутттсрртьвурнййкмммммлллййййййкккйийкллллллкйклммллммлмнннннмллколклмлкллкййккккммллллллммллллммммммммнннооннппоопяррррсссттттттыщАЦЦДЕФЦЮчъъщщъэшшщщэщъъчщщщэшзшшэээъФ┐|зряяяпопссрсуусжзэшшщчэээщчЮЮъщъЮЮЮЮЮЮЮЮЮЮЮъъччЮБЦАъчщэзззшэшыьььыззззззшшывьыыььвввжутссяпппппоооопоонояяооппояппопооняяяяяяяяряяппяяряяяяяяяяссряяппппоооонммнннлкйкккйххийкккккллллмйммммкмсувьусттрпяярстуувввжркц╬╫╪╩╩╧╥╤╥╣╢Ё╣╣╡╝╚╗╖╗╗╖╗╚╝╠╠╞╜╛╛╜╛╘╕╓ё╒═══·÷÷÷═║═²÷·° ≥≥⌡°  ≈■∙≈√⌠∙√≈√■▓▓⌠▓⌠■■∙√■▒█▀┼▀▄┼┬┬┤┘┘┤├┐──|{{}|zxwwxyxvsponpuzzuokllllkhgghihgimnmljhhihggfikkkkkjillf`^`cefgiigec`bca^_`bbcehjfdgjouz┘┬┴┐├wxyy}{||~─┌{}│┌│──│┘├┤├┐┌└┤┼┼▄░▒░▌▌▀█░▓∙≥·═║² ⌡²···²÷╔╘╖ё╓╘╙╚╜╞╠Ё╢╣╤╥╤╤╤╤╤╥©беггедццдееддефйкммллмнряяппомллмнпяяяярппппннооппяярсувььььызыээзывжуужжууусяпяпнлйххгиею╬╬╬╪╨╥╦╦╦╤Ё╠╞╚╜╝╝╝╝╜╚╗╕╒══║═·°°°≥≈≈⌡÷═²⌡≤∙√√▓▒▐▓▓■∙▌▄┼▀▀┬├├┬┴▀▄└{}└┬┴┘├┘┐│ztuttqnpqmlkiijjihfkkijihiklmpoljjnnnnnmlklnmkmqsrnnptvuttvwvsrtttuvwvuvx{z}─││┐││─│┐┘│{│──│┐└└└└├┬┴┼▀▄█░░▒■∙√√≈≈≈≤≥⌡°·÷÷÷║ё║··║╓╔ё÷·║ё╒║║║═÷÷═║ё╔╔╓ё╔╔╓╔╖╙╚╚╚╜╞╝╠Ё╡Ё╤╣╡╠╞╞╞╝╝╠╣╨╫©юацдддглоястжыышэзутужуттсярсжуттпккмнннммммлииййййййкйийклллллккйклммлкммллноооннммломлммллмлкййкккйммммммммлллмммммммллммнонппноппопярряяяястттттттзчАБЦЦЕФДъщЮЮщэъээщъчщчЮЮъчччщэззышээчД│|шсппррпяясууссужвввыэщщшщчщчъЮЮчщщъЮъъЮчъЮЮЮЮАББЦЦЮъчщэззззыыььыьвьзшзыыззыьььвввжжжжввррсроноппоноппоооппппяяяяпонммннппярррпнпяяяяяппярряяпяяяяяяяпооопоннпполомйклкклйиийккйиклкйлллллнонмяжьжутттсрппярстууьььжпга╬╩╩╩╪╨╤╢╢╢╢╢╣╤╢╞╘╗╕╔╖╚╝╞╝╡╟╛╚╛╛╙╖╕╕ё═║╓╓╒···÷══÷·°    ≥≥≥≥≤≤≤≈∙■√≈√√≈√⌠▒▓░▓▓▓⌠⌠▓▐▀▄▀▀▀┬┘┤┬┴┴┴├┌~{y{{─~xyxzwvxwrpprrruwxtokihhgeeffedehlljihihgijfijjjjkllklke^[^badgiihffdddb_^_adefhhhhhkmqw}┌└├┌│{wxy{~~|z|──}─~|}│└└└├├├┘└┐┐┐├┬▄▌▌██▄▀▀▄▌▓≈⌡² ║÷ °²⌡²·═ё╕╕╔╕╗╚╛╝╠╠╡╢╦╥╦╥╤╥╣╢╦юцфххфдбаббцццеффйлклклопонопяпонноппяяяопярряоняяррсттттувызшшшшшзыьвжужутттсяояплйхгххгдю╫╫╬╪╨╩╤╢╤╤Ё╝╜╞╞╞╞╞╝╛╙╘╔╒║╒╒═²°⌡≥≈≈≥°·²²⌡≤≈√∙■▐▌⌠√⌠░▌▀▀┴┤┬┬┤┘└┬┼─x┤┬┤└└┐┐│~xuqrsrqqqpkjhhjkjhikkhfgjlmmmmmljgonnnoonmlnnlmqrrmptvvtrruvxxuqswuvwyzz{{z{|~│┌─}y{}─┌┐┌│┐┌──┌┐┐┌┘└├┴▄▄█▌▐▐▐▐▓∙■▒■≈≥≤≈≥°·²÷║║║═·°ё║║╒║··═ёё╒═·²÷║═╒╓╔╕╕╕╔╕╖╘╙╚╛╝╟╟╟╠╡Ё╢╣╣╢╠╟╟╞╝╞Ё╩╬©©╬ацдегкнясуужьзшшьусутужтяясуужуялйкноооонмлкккййййкйййклмлккклллллллмнннммммннооооомннллнмкккккккккйкклмммнонммннмллмноппооооооннннпяяяяяяясттттсттзщЮЦЦДЕФЕАчъъээччээщщщъБАЮчщээшзэшщщэчЕ┐|шсппррпппрттттжвжуувзэшшэчщщъЮЮЮъъЮААЮЮЮЮАЮЮЮАБЦЦБЮччщшззззыыььыьвьзшшззшшыььььжжжжжжжжссряпппоооноопоноооппппяяппоооппяпппяпонпяяяяяппяррряяяяяррряяяпяпононннломйклйккйххйкйийллкклмллммммнржьжттттсяяпяртуууьььунфю©╬╪╩╩╧╤╢╢╣╢╡╠ЁЁ╟╛╔╕╖╙╝╟╟╞╠╝╛╚╚╚╘╕╓╓╒║║╒ёё═÷··÷÷··° ≥≥≥≤≤≤⌡≥≤≤√■√≤≥√∙≈≈∙⌠▓▐▐▐▐▒▓▓▐▀▄┼┼┼┤┘┤┴┼▀┴┘─}|{||│xxw{xwwurqsrstuvusqokhggededdccehihedeedgigijjjijjkmmlga^_aacfhgfeddeeca_`abcegiiihilpu{││┌─xstvx{z||{~┌┌┌─}|┐├┤┤├├┘└└┘┤┘┬▀█▄┼┼┼┼┼▀▀█▒√  ·² ⌡²²²°²═ё╓╓╕╘╘╚╞Ё╢Ё╢╤╥╧╧╦╦╤╥╪юбфгфда©абццццдефйкклккняпнноопонооппяяряяяяяппппяярстуужвызшээээшшзьвжужжуутронпнлигфггец©╪╪╬╪╨╦╤╢╣╣╡╞╜╝╝╞╟╟╝╚╘╗╓║║╒╒═²°⌡≥≤≤≥ ⌡  ≤≈√≈√■▐░√≥∙▒▐▄┼┤┘┘├├┘┘├├~w|├┴┤┘┐│~|ywsssqqqpnmkihijiiijjfdfikmlkkkjihllmmnmlkmnonoqrsoruwvspnuuvwwvvwsux{||zyyz}─┌┌}}}~│││─┌│─│┐└┐└┘┬▀▀┼▀▄███▌▒⌠▓░▒■√∙∙≤⌡²°÷║║══║║ё═÷║═²²÷║╒ёё╒║═÷╒╒╓╔╔╔╓╓╕╕╖╘╚╛╜╝╠╠╠╡╡Ё╢╢╣Ё╡Ё╡╟╟Ё╨╫©©©аццфгилорстжьзшшывужттжтяясттжурмклнноонммлкккййкккйййклллкллллммммклмнмммммннооооомннмлммлккккккллкклммммнонммммммммнопппоооппппппяяяяярррсттттттузщЮБЦЦЕФЕАчъъчщъчщщччщъААЮчщщэшзэшщщэчЕ┐|шряпррпооястужьвжссуызззэщщщъЮЮЮъЮББАЮЮААААААЦЦЦЦАчччэзззззыыьььььызээшзшшзыыыьжжжжжуууусяяяяпоооноооонооооппппопппппяяяппоппооппяяяяяпяррряяяряярррряяроноомлммомкллйккйиийкййклмлллммлммклотввуррттрпяяяртжжжььвскцю©╬╪╩╨╧╤╣╤╣Ё╠╠╡Ё╠╜╔╗╚╝╟╟╝╝╝╛╚╙╙╘╕╓ё╒╒╒║║╒ё╒║÷·····⌡≥≤≥≥≥≥ ⌡  ≥≈∙√≥≥√⌠■√∙⌠▓██▀▀█░░▐┼┼┤┘├┐│┐└┤┬┘{z|{}}┌│{{y{ywvspqtrstutstutoigfedcdddbceffdcdcbehgjjjjiijkmmlifdccbceffeeeefgfdcbbbcehjjihfjosy~─~└│xpqtx{{}~~─└└│┐─~~─┐├┤└└┐┌│┌┘├┘┬▀┼┬├├┤┴┴┼┼┼▌■≥≥ °⌡ ²·°²°·║╓╔╖╘╖╘╜╠╢╣╣╤╣╧╨╧╧╦╨юбеиигцаюбццдцддефйкккйймрпнммнопнннопяярряппппяяпяястужжьызшшэээээшзыьжжжжвжсянмнмкхгфееда╫╩╪╬╪╨╢╢╢╡╠╟╝╛╚╜╞╠╠╝╙╖╕╓║║╒╒═²²⌡ ≥≥≥≥≤≥≤√■∙√∙▓░▓≥⌡∙░▐▌┼┤┘┘┘├├┬┘┐~wy└┼├┐┌─~}{yxttrpppomnlihhiiiijhdbeiknkijihhijklmlkjjmnprrqrsrtvvtqmkqrrsvxxwsuy{}|{yx{┌┐┌|~~~─┐│─│┐┘├├┐├┼▄▀┴┴▀███▌▒⌠▓░▌▒⌠⌠⌠√≥⌡°÷╒║÷═ё╔╓═···²²·║║╒╓╓╓║═ёё╓ёёёё╒╔╔╕╗╚╜╛╚╟╟╟╠╡Ё╢╣╤╢╣╥╣╡╡╢╧╪╬©юаббфгхймпрсжвышшзыьвттуурпррсужсомлннннммллкккккккккккклллклллллмммклмнмммммнннооооонннмлллллккклммллмммннммннммммнннноооппооппяяяряяяяярстстттстужшщЮАБЦЕФЕАъъЮччъчччъчщчЮАЮъчщщэшээщщэчЕ┐|зряярряппястувьвуссжьььзэщэщчъъъчъАЦБАААББЦЦДДДБАчщщчэзззззыыыььььызшшшзшшыььььввввжжуужтряяяпоооооооонооопппппноопппооппоопппоппяяяяяяяррряярряяяяяяяясонппмлнномкмлйллкййклккллмлллмммнлйкяжввтяястроярсттужьыьжога©ю╫╩╨╨╧╦╤╥╡ЁЁЁЁЁ╠╞╙╛╟╠╟╜╚╚╛╙╘╙╘╖╓ё╒║╒ё╒══ё╒╒║═÷÷··⌡≥≤≥ ⌡°²≥⌡²² ≈√≈≥∙░▐░▒▒░█▀┴┬┴▄█▌┬┤┐─}{||│zwy|z|{─│~~zywuroorrrrrqqtwvrmifedddeecbdefgddcacgfkkkjiijjmlkkjigfcdeffgggfghihgedcdegiigedhmpw~┌│├└{qpuz││││┐├└│──┌┐┐┌┌││──│┐└┤┴┼┬└┌└┤┤┤┤┬┼█▓√≤≤°²≥⌡÷⌡·²·║ё╓╔╕╕╖╙╜╠╢╤╦╢╥╥╦╧╧╩адгккхдбабдеддееефиййкйикяпнмлмномммннопяяяпппярряярстужжыыззшшээээшзыьжжуввуроннмлйхгеддда╫╩╪╬╫╨Ё╣╣╠╞╞╝╚╘╚╜╞╞╜╘╕╕╓╒║╒╒═··⌡≥≥≥≥≤√≥≈■⌠■■▓▐▐▓≥ ▓█▌▐▀┴┤┤┤┬┬┼┘┌~xw┐┼┘─│┌│─|ywutrpopnlnmjhghhijifbadhknkijighkjlnnljjjlnrvurqsrstsromkopqqtyywwxz{||||{~│└└┌~~}}~~┌││┌└┘┘┘└├┴▀▀┼▀▄▌▌▌▌░▓▒▐▐▒⌠⌠⌠∙≈≤⌡·║║═║ё╔╔║·²···÷╒╒╒╒╒ё╓╓╓╓ёё╒╒ёё╓╔╕╗╙╛╛╙╛╜╝╟╠Ё╢╣╣╣╤╧╦╣╢╤╨╪╫╬©юбцефгилоясувьзшззывтсттрппрсужтянлоннмммммккккккллккклллллллкклллллммнммммнннноооопнмонлкмммлкклмнмммннннммнннммноооннноппоооппяяяяяяяястуттттттжвэщъЮАЦЕФФБччъчщчщчъъччччЮЮъччщэээшщэшщЕ┐}зряярррррррстуужттувьвжзээээщчччщъАЦЦБЦЦДДЕЕДЦБЮъщшэчщзззыыыыыыыыыыыыззыззыьььвььвввжуууусряпппооооонноооппппяяоооппоннооопяяяпппяяяяяяяррряяррппяяяяярроняянмономлнлкмллккллллллллкклмммлймсвьвтяястропсууствзыьслдю©ю╫╩╨╩╨╥╣╢╠╢╣Ё╠╠╡╡╟╠╡╠╞╜╚╙╚╘╘╘╗╔ёёё╒ё╓ё÷÷╒╒╒╒╒║═··° ≤≥  ⌡²≥⌡²° ≤√√≈■▐▀┴┼▄█▄┼┤├┘├┬┼┬┤│}|zwxz{|{yxy{z{y}─┌│|{zxtqprurooooqtutqlgeffdfecacfggddc`aefkkkjihijnmlklkihffffffffdegijigfcceghhfedgjmt|┌└├├}rot|┐┤└││┘┤┘│~~─┐└┌}──││││┐└┬┴┬┘││└┤┤└└├┴▀█░√≈·÷≥≥° ⌡⌡²═╒╒╒ё╕╖╘╛╞╡╣╥╢╣╣╤╨╩╪ацфйифбаабефееффееиййкихйооонллмнммммнопяпппяярррррсстуужыззшшээшшшшзыьжуужжтпноплкйхгеддфц©╪╪╬╫╩╤╦╥╡╞╞╝╚╘╙╛╜╝╛╙╗╖╔╒╒ёё║═·°≥≈≤≥≤≈≈√⌠▒▓⌠▒▌░▓√√▐▀▌░▄┼┴┼┴┬┬┬┌|vv┌┼└─│┐┐│}yvttrpoomkmljhggghjifbbeikmkjjjhhjkmnnljjjmpvzxsqsqqpponnmnqsrtxyxz{||}}}}─│┌┐┐│──}}~~~}|~─┌┐┐┌│└┘┤┴▀███████▌░▐█▒⌠■▓▓⌠■■≤ ²═║╒ё╓╔╒÷÷════╒╒╒║═║╓╖╔╓ёёёё╓╓╓╕╗╗╘╚╛╚╙╚╜╞╠╡ЁЁ╢╢╤╧╧╥╥╧╫╫╫╫╬©бдцдгилоясужьыззыыьтсттяоорсужусолооннммннккккклллллллллллллкккллмлмнннмнноооооооопннонллмнмлкклмнммнннннннооонмнпооннноппппппппяяяяяярстутттттувьэщчъАЦЕФФБчщщщэшэщччччччъъъъчщщщэшэшшщД┐}зрррррррррярсрятттжввжжышэшшщчччччАЦДДЕЕЕЕЕДБЮчччэзшээшыыыьььььыыыыььызыззыьььвыььввжжжуусряпяяопппоноопппппяяяпппппоонноопрряппппяяяяяяярряярряяяяяррряоояяонономмнмкнкккккккклкклкйкмнмклотвьжтяястрппсууствзывяиб©©©╬╪╩╩╧╤Ё╡╡ЁЁ╟╝╟╢╥╤╢╡╟╟╞╜╛╙╘╗╘╖╓╒ё╓ёё╓╒═══╒ёёё╒═·²²⌡≥≥≥≥≤≥⌡⌡⌡≥≈≈≈√■▓▌┬├├┬┴┬┤┘┐│─┐┤┴┬┌|{zwvxyyyxwvw{{wz}~│~~}{xussxsooonnorsrnjhhhdeda`befdabb_aegkkjihhijqponmkihjihgfedcccdgiihgdegijjiigghkpx└┘┘}qns{┌┘┌─└├└│}}│┌─}|~───│┌┐┤┬┤└┌┌┘┬┴┘┐├┬┴┴┼■≈²· ≤≥≥≤≥°═╒╒╒╓╔╗╚╛╜╞╡╡╤╤╣╥╩╫╫адгихебаабегффггеехийкигимнонлклмннмммнпянопяррряррсстуууызшэщээшшшшзывуттууспноолкйхфеедфеа╫╪╫╫╪╥╥╣╠╝╜╚╙╙╙╚╜╜╛╙╗╖╔ё╒╒╒╒║÷°≤√√≈≈≈■⌠▒▒▓⌠▓░░░▓▓▄▀▐▓▄┼┼┼┴├└└}|wrv┌┤┌┌│─~|ywstsponljjjjigffgihebcgijjjjihgggkllllkjjosy{xsqqoonnnooomprrrtvxz{}~~}}┌┌││││┌┌~{z~│┐└┐┌┌└┘├┤┼█▌▌████▌░▐▌▒▓⌠▒░▒▒▒⌠∙≥²║║║╒╓╒══╒╒╒╒÷║ё╒║║ё╔╓╓ёёё╓╔╔╓╗╙╗╗╙╛╛╛╛╝╞╟╟╠╠╢Ё╢╥╦╦╨╫ю╬╫╫╬©адцдфиморстувызыыььутутяопрсуужтпмооооннннлллкклллмммллкллмлллллмммннннмнноооооооппононмммммллллмнммннннннооооннооооннооппяяяяяяяяяяяярстуттуууувьшэщъАЦЕФФБчэээшышщччщччщчъъъчщщщэшэшшщЕ┐}ыяррррсрррррсрпсстжжуувьзшшшщччъччЮБЦДЕЕДБАЮъчщщщэзышэшыыьььььььызыььзшзшшзьыыьыыьвжжввжтряяряяппяпооооооппппяяяяяпппоопооопппопппяяяяяпяряяяяряяяяяяррппопппонннлмнлкнклллкккллкклкйкмолкнруввжтррссрярстттувыыжофа©©╬╬╩╧╧╦╤Ё╡╡╡╠╞╟╢╦╨╧╣╟╝╞╟╝╛╙╘╘╘╖ё╒╓ё╓ё╒╒╒║═ёё╓ё║·²²²⌡≥  ≥≤≥⌡⌡≥≈√≈√■░▐▀├┘┘└┌┌┌┌│}|└┬┤│{{zwvtvxwvtssyyux{{~|}}|zxvutvsqsrollnpqomljhedb`_acddbcdabgillkjiijkqstsokihkjhggfdccccegihggikkkklmhffjnt|└┘┘{ontz─~~┌┐┌│~zz~│|{{|}}~│┐┘├├┘└└├┬┴┘┐┘├├┤┴▒√ °² √√√≈⌡·═║ё╕ё╖╙╙╘╛╞╠╤╥╤╦╩╪╬бхиихфдббадфееггедхийкйгилнонлклмнмлллмнонопярррряярстуужьышэщэшшзззыьжутсстсяоммлкигфеееееб╬╩╪╫╫╦╣Ё╠╝╚╘╘╙╙╚╛╛╙╗╕╖╔╒══║║║·°≥√■■■∙▒▒▒▒▓■■▓▐█▌▌▀▀▐▒▄▀┼┴├┌─{{uov│┌~─~{z{{xusuurnljigijjhfeehgecdhiihjjgfghfkkkklmmmquywsonnnnmnooonlmnppqsvzz{|}~~~┌─~~│┌┌──~}|─┌┐└┘┘┘┐├┤┬┴▀▄▄▄█▌▌░▒▒░▐▒▒░░░▒░▒⌠≈⌡²²²÷║║╒╒ёёёё═║╒╒╒╒ё╓╓╓ёёё╓╓╔╕╗╘╖╗╚╜╛╝╝╜╝╝╞╟╠╣ЁЁ╣╥╥╩©бю╬©©©юбдефхкняссувыззыьывжвтпояястужжрнноооооннллллллллмммлккллмлллллмнммннммннпооооооооооннннммллллмммммннннннпоннноннооооппяяпппппппппяяррссттуужужввзшщъБДЕФФБчээщэзэчъчщщщэччъъчщщчщэщэшщЕ┐}ыяррррсрссстутрсрсттсуьжьззшщъъъщщъААБДЦАъччччщщчэыьышшыььввььььызыььшщшээшыззызывжжжвьвтппрсрппяяпооопооооппппппппппппяпоноооооппяяяяяпяяяяяяряпппппяяпппоопомммллнлкнллммллллмлклкйкмоккптжжвутссссррссрсувььыунеюю©╫╫╧╥╥╥╤╣╣╡╡╠╠╢╧╩╩╨╢╝╛╝╞╜╘╚╘╘╘╖ё╒╔ёё╒═║ё╒÷╓╓╓╒÷²°°⌡  ⌡⌡⌡ ⌡≥≥≤≈≈≈∙▒█▀┬┘┘┘│}|~─{y}┐├┘zzyvuruxxvsssvvsvyz}y{zxvvutssqsvupllknppookhfeb__accgdfgdeilmmlkjjlmpsvvqmjjjihhhhfeedcegiihijlkiijkheejos{└┤┘zopvz||}─│──│|xx~┌─|z{{{{}┌└┐└┘├├├┤┤├┌│┌┌┌└┴░∙≈ ÷⌡■■■√≥°²·║╔╒╔╖╔╓╘╞Ё╣╥╦╦╨╩╫цййихфдбаюдфееггддгийлйххлнонкйлнмлкййкмнннопярррпярстужжвьзэээзыыыыыьжтсрсттролйлкигееееддб╫╨╩╫╬╨╤ЁЁ╠╜╚╚╘╙╚╚╚╗╔╒╖╓║÷÷÷══²⌡≥√⌠▓▓▓▒▒▒▒▓⌠■⌠█┼┼▀┼▀▌▐█▀┼┬└─}}|~unw─~z}zwxyyvssuvrnkihdgjjhfddgfddehiihkkfehifkjjkmooorvxsmkjjnnnoppnmmlmpqqrv{zyyz|││~||│┌┌│─~──│┐└├┤┌├┴┴┬┴┼┼┼▀██▐▒▓▒▌░░░░▒▓▒▒⌠≈ ≥≤≥°·═╒ёё╓╓ё╒║══║╒ёё╓╓ёёё╓╓╓╗╘╗╕╗╛╜╚╞╝╜╛╜╞╡╢╥╢Ё╢╣╥╪абю©юю©юафффгймясртвышшзыыьььуяпрярстжвтпнноооонмммллллллмннмкклмллкккллмммнмммнноооннооонппммоомллллмммммммнннннпонннонмооппяяррооооооппппяррссстужжжжжвзшщъБДЕФФЦчэщчщшщъЮчщщщэщчъъчщщчщэщэшчФ└}ыяярряярсужутрярстсрястувышшшшшъщэчъъЮЮЮЮъчщэээъчщшззшшьыыьжжьшььыыззшшщщщээшззьььььвввжтряпяяппппоопппопппоооппяяяпооопппппппппппярряпррряярррппяяяяпояпоонноооонмммммйлмлмнмйллкклллллклотвжужутссяяррррсувьыьрйцю©╬╪╩╧╥╥╥╥╣╢Ё╠╟╡╦╩╩╧╦╡╝╝╝╝╛╛╚╙╗╖╖╖╕╕ёё╒║ё╓╒÷╓╓╓╒═·²²  ≥≥ ⌡°°≈≤≤≤≈■▒▐▄┬┤┴┤┐─{wz~~}|}~┘┐─~}{wqpsvwvtsrqstuvy{{xyywtsrqpqsvvspmnmnqrpnnkhd`__behjkhghjiijkjijlmlpvwqmligecehihfdedcdghgfgjkigjnkgfimpz┐├┐{ssuwz{{~┌└┐┌┌}xx{{{|}}|zzz}│└┤┘└┘┘┌┌┘┘┐││┌┌┐└▀▌⌠≤°²≤▓∙⌠▓∙≤ ²║╒╔╖╘╙╘╙╟╠╤╦╥╦╫бцгххгфдццадфедфедггхиййихилоолйкмййийклммнннноппяооружжжвыыззззыышзыььвутрссяонлййхггфддедбю╫╩╩╫©╪╨╤╡╞╜╚╙╙╗╚╜╚╗╖╓╖╕ё÷÷═·⌡² ≤≤√⌠▒▓▓▒▒⌠■■▒▐▄▀▀█▀┤┬▀█▀┴┤┌}{{}{xvy|{xyvuutuuptuusojgfgikkifeeehhfgjifgjkiffghliilnnoquuqlkihjqooqrqppmmnoqsuwyxwz~─}|}~~~~─┌~|}│┐└}~││─┌├├┤┬┬┬┤┬┬├┬┴┴▀█▐▐▒▐▌▐▓⌠▒▐⌠■∙√∙∙∙∙⌡°·║ё╓ё╒ё╔╔║÷÷╒ёё╓╔╔╔╓╔╕╙╙╙╘╘╙╚╛╜╜╝╜╜╞╡╣╦╥╥╤╢╣╩аццццю╬©бдеегилнпрстжышшзььььжрпярррсууутооонноннмммммлкйлмнмкйлмллллллллмнноооннооооооопяяппппонннннмммнмлклнннмооонннннпппппяяяпппппппяряяррсстстууттжьшэчЮАБЦДЕБщшэъЮчъъъАъщщччщщчъчщэщчэчччХ┐}ыярссррстууутсррстсрясттужвььзшчэшщччъЮчъччэээщъчщэшзззьыыьжвьзыыыззшшшээшшззыыььььььььвусррряяпппооооооппппопяпяяяппоппппппппппппярряпррряяярряяррряяпяяпоннннннммлллллммммнлймлкклммлллмяувжужтссряясссстувььвяхбю©╬╪╪╧╥╥╦╥╣Ё╡╡Ё╥╩╪╨╥╤╠╜╛╜╜╛╛╙╙╘╘╘╗╕╔╒ё╒╒╓╔╓║║╒ёё║÷²² ≥≥ °²°⌡≈≈≈√■░█┼▀├├├┐─~{wy||{z{|┐┐┌|zwsrsuvutsrrpqtwwy|yxxxvrqrppruurpppoprssstplheeeeemoolihfeghhgghjlmqvwsolhedddefedbddcceffeegijjlnjgfjnqy│└┌ztuwy{~||└┘┘┘}wwyyz||{{zzz}┌┘┬┘└└┐││┐┐│─││┌└┬▀▐■≥⌡≤■■⌠⌠√≤ ⌡°╒╔╖╙╛╚╛╟╡╤╦╤╦╬цеггхгедцбацефффееггиклкйхилоолйклкйййклммммннооооппятжжвьыыызыыыышзыыьвуссттрпонлиххихфефба©╪╩╪╬©╪╧╤╡╟╜╙╘╙╗╚╜╙╗╘╗╖╖╓╒║╒═·   ≥√⌠▓■▓▓⌠■⌠░▄┬┤┤┴▀┴┘└├▄┴├┐zxy}{xuwzzywttttvvrttsqnkihjkmljhgfehhggijhijjhhjjjmllnprstttqmljikpooppooommmoqtwxzyxz}}|z|||||}─│┐─~~─│┌┐}}───└┬┬┬┬┤├┘┘┘├┤┬┬┴▄███▄█▐▓⌠▓▒⌠⌠■■⌠▓▒▒■≈⌡÷╒╓╓╔╓╕╕╓ёёё╒║╒ё╓╓╔╖╘╘╘╘╘╘╙╚╜╜╜╛╛╛╝╡╢╤╣╢╢╣╥╪юцбцца©©абцдгимпярстжызззььыыжсяяппятжвжжоооооонмммммллкклммлкклмллллллллмнноооннппоооооопоопппонноонммнннмммноннонннннннппппппяяппппппппрррррссстужуттувшэчъЮБДЕЕБщзшчъчъъъЮъщщчъчччччччщчэчччХ┐}зрссссртттттссрсттсрярсссттужызэззэщщчъщщщщээщчъчщэшзыыьььввьььыыыззшшшшшшззыыььььыыыыывжтсссряяппоооооопппппяяппяяппппоопппппппппярряяррряяяяярррсрряяряпоннннмммлллллмллннлкймлкклмммлмосжвжттсрсрярстсстжвьвжофаюю╫╩╩╧╥╥╦╥╣Ё╡╢╦╩╬╪╧╤╥Ё╝╜╛╚╚╚╙╙╚╚╚╘╖╔╓╔╔╔╕╖╔ё═╒╔╔╓║·°⌡≥≥°··°≤√∙⌠▓░█┴┤┴┘└┌~{{zy{|}{z{|~──~{xusttttttsrqmmswvx|{wvyxsqspnpssqqsqqqstuwysojgghgfnprpmifeeeddefijmotvtrmfbcccbbbc`cdccddeeddgjlmmjgfjmqw┘┐{wy{{{{z┘┬├└}wuwwx{{z{{{|┘┴┬┘┐┐┌──┌│~~─│┌└├┴▌⌠≤≤√∙∙■■∙≈≤≈²║ё╕╙╚╛╞Ё╤╦╥╧©егггхгецбббцеггфеффхйммлигилонлйкллкййкллллммнннннппясужьззыыыыыыызззыьжтрттсяпонмггхйихффцбю╬╪╫╬ю╪╧╤Ё╠╝╙╖╙╘╚╚╖╕╗╘╔╔╓║÷÷·°°°⌡≤⌠░▒■■■⌠▓▐┼├┐├├┬┼┬└┌┐┬┘│|yxyzxussuvvsrrtuxyusrpomlkjkklkjhfefhiggijiihffikkikllmorssqrollkjlonnnmlmonmmorvyzyyyzzzzy||zyz}─┐│~~~│}}│┌├┼┤├┘└└┘┘┘├┤┤┤┬┼▀▀┼┼▄▌░▒▒▒⌠⌠■⌠▓▒▒▓▒⌠≈ °═╓╕╖╖╖╕╕╕╔╒═╒ё╓╔╕╗╙╙╙╘╘╗╘╙╛╛╚╚╚╛╝╠╡╣Ё╡╢╥╧╫юцбцддбааабдфимоярстжьзззыььывтррппртжвьвпооопонмммммлллкллллккклмммммммммнноооннооооооооноопяпоооооннннонннннннннннннннопппппппяооппппппрррррссстужуттжвшэщъЮБДЕЕБщззщччъчъЮъчччъъъчччъЮччэщщчХ┐}зрсссссуттсррррстссяяяррссттжыззыызшэщчщщчщщщщчччщщэшыыььвььььвььыыззшшшшшшшззыьыыыыыыьжуттссряяппоооооооппппяяопяяпппяпппппппппппяяяяяррряяяяярссссрряяяпоннннммллллллмккмнкйкнмкклмннкмятввутсряррррттссувььвтлдааю╫╩╨╧╦╥╥╤╣╢╣╦╩╫╬╪╧╥╧╤╡╝╛╚╚╚╚╚╚╛╛╙╗╕╖╖╖╖╖╖╔ё╒╓╕╖╔╒·⌡°°°·÷² ≈■▓░▌▄┼┬├├┐┌│{xyy{|}}|{|~{}~}zxvuvtrqrrrqollquwxzzwuwvspppmmppnotqqrsstvxurlgegiikmqrpkhfdcbcdfhjkknqqsog````abbbabccddccedcehkllmigikov}┘┌{x{}{y{z|┌┬┴┘│}wuutwz{yyz{}│├┴┬┘┌┌│──┌│~}}~~──┐├┴▌⌠■■√≈∙▒░■√≈≤⌡²═╕╘╚╝Ё╤╦╧╩юеггххгедццццеиифеффхкммлихйлннмкккллкклллллмнноннмопярувызшзыыыызыызззьжтрттрпнннлггхиииххедб©╬╫╬╬╪╧╣Ё╠╝╚╗╙╘╙╘╔╓╕╔╔╓║·⌡ ≥≥²°≥∙▒░▓■∙⌠░▄┬┘└└├├┬┴┤┐│││}|{zyxtsrpnoprqprsuy{vpnmlllkjijkkkifdfijhfgiihgffilkhhkkjlpqpnonllkjlonmlkjknnnnquxyzwxzzyyyy|{zyy|─┐}}}}}||~}}─┌└┤┼┌┌┐└├┤┬┬┘┤┤┤┴▀▄▀┼▀▀▄█▌▌▐▒▒▓▓▒▓⌠■■■∙∙√ ÷╓╗╘╗╖╖╗╖╓╒╓╕╖╖╕╖╗╛╚╚╘╗╗╘╘╙╚╚╛╛╜╞╠╢ЁЁ╣╦╨╬аббцеффдббцдфикнорстжьыызыьььвтррррртувььрпоппонмннннмллмллккллккмммммммммнннонннмнноопяянопяяпоооооооноомнонмлмнннннноооппппппппппппппппрррррсссстуутувыээщчъАДФЕЦчыышщщччъЮЮъчччъЮъччъЮччэщщщХ└}зрсссстуутсррсссссряяяяяртужвьыыььзззэчччччщщщчщщщщэшззыьвьыыьжьььыызззээээшшззыыыыыыььжутссряппппппппяооооппппопяяпппяяяпппооопппяяяяясрряяяяярррррряяппооооооммммммллмккннллмнмлллмннйнрувжутсрярряртсссжьыьвскцааю╫╩╥╦╦╥╣╣╤╥╧╨╪╪╩╧╧╦╦╤Ё╟╜╛╛╜╛╚╚╚╚╙╘╗╖╖╖╖╖╔╓ё╒ё╓╔╓╒÷²·÷══² ≈∙⌠▒█▀┼┴┤┘┐┌┌│{wxx||||{{|}||}~}zxwvtrqqrqpmnmnrwxvwwvsssqmomlnmkmrqqrrrrssvuqjffhhhjorqlhhfdcdfghjihjkmqpi`^]^acbabbbcedcbcccdgjklrnkjknv}│yvz|zxxy~┘┴┬└│~xutsvzzxwvx|│└┘├┐─~~~──~||}|}~│┘┤▀▐░░⌠√√▒▐▒∙≈≈ ⌡°╒╕╗╛╟╢╧╪©бдехххгедддедфиифегхийллкйиклномлкйллкклллллмнооонннпясувыыэзыыззззыыззьжтсстронннмхииххиииеца©╫╪╪╪╪╧╢╠╞╝╚╘╙╗╗╗╕╔╓║╔ё÷°≥≤≤≥ ≥√∙■■■⌠▒▐▀┤┘└└┘┌┐├┬├│}{zzzzzywuppqpmlmnpprsuz{vnmlllljigiklmkhegijhffggghhijljhiklkknonmomlmlkmnmlkiijmnoquxyyxxz{{yxxy|{zyy{~│|||~}|}~~┌┘├┤┤─│┐┘┤┬┬┤└┘├┤┬▀▄▀▄▄▄▀▀▄▌▐████▌▐▒▓■∙∙■⌠√ ²╔╗╚╚╚╙╗╕╔╕╕╕╔╔╖╗╚╚╚╙╘╗╗╘╖╙╜╝╜╜╞╠╡╡╢╤╦╧╫аюабдфгфдцдефхкмнрстжвьызыьвьвтрррррртжызтяоппоннноонмммнмллллллкмммммммммнннннннммноппяяопяяяпоопппоооооннонмммнннооопппппппппппппппяяяярррсссссстуутжьзээщчъАДЕЕЦчзьзээччъъЮЮъъщчЮЮъччъччэщэщГ┐}зссссстжжтсссттсссряяяяпртужжвьыььзззшщъъъчщщщчщщщщщэшшыьььыыьвввььыыззшшшшшзыызззыыььвжутсрряпяяппппяяооооппппопяяпппяяяпппооооппяппяясррряярррррряяппоооооооомммммммлмллноннннмллммммйнсжжуттсряррярссссжыыьжяибаа©╪╩╥╦╦╥╣╤╦╩╪╪╩╨╦╥╦╦╢╣Ё╟╜╜╝╝╛╚╘╘╗╗╗╖╓╓╔╕╕╓ё╒══║╒╒╒║══║║· √■■⌠░▀┬┤┤┘└┌│┐┌|xxx||{zzz|~}|}~}zxxvuutsrqplonlouvstwvrqsqlonnmjikoopppppomqsrmhecabciopljliedfhhhihhhhjppka^\]`bbacbbdedcbabdegjmmtronmov}}wty|zywy}┐├┘└┐~xusrvzzyxwy}│┐└┘│}zz{|}~|{{|||~┌┘├┴▄██▌▓∙■▒▓■√≈   ·║ё╕╜╠╦╫ацддгххгфеееефгиигггийклкккклмнонмкйллкллммлмннооооооярсувыыэшыззшзыьыззьвжуттсяооонйййихийиба©╫╪╩╨╨╨╦╢╠╞╜╛╛╘╖╗╗╗╗╕═║·⌡ ≤≈≤≥ ≥≤≤≥≈▓▄┼┼┴┤├└┐┐~│├┬├xswz||{yvtpqqqollnpqrsuz{unnmlkjihegjlljhfghihfeefeghhiiigijkkklmmnpnmnmlnnlkjiijmnptxzzyx{|}|ywwwzzyxyz}~}~──│└┤┤┘└┌└├┤┤├└└┌└┘├┬▀▄▀▄▄▄▀▄█▐▒▀▀▀▀▀▄▌░▓⌠■∙■∙√≤÷╔╚╝╞╜╙╖╖╖╔ёё╓╗╚╘╙╚╚╙╙╙╙╖╙╝╞╝╝╞╟╠╠Ё╣╥╧╫а╬©юбдггедддехкмоястужьызыьввжтрряяяясжыэжроппоннноооммноммммммллммммммммммнннннноооооопппяяяпппппппппппоооооннноноопппппяпппппппппяяяяяяяррсссттуужутуьзшэщчъАЦЕДЦъзьышшщчъъЮАЮъщчъЮЮъччччэщщщГ┐}штттттууутссстттссррррряртуужвьыыызззшщччччщэщччччщщээшзыыьььььввььыыззэээшшзыыыыыыыыььвжтссрррряяппоооппоопяпоопяяпппяппппппппопяяппярсрррррррррряяпппппооооооннннммлллмммнонмммммммлккоувжутутсрррярстстжыывтохбюю╫╩╩╧╥╤╣╤╧╩╫╪╩╨╧╥╤╤╤Ё╣╣╠╜╛╜╝╙╘╗╖╖╕╕╔╓╓╔╕╕ё╒╒÷÷═║╒ёё╒ё║÷⌡≈■▓▓▒█┬┘┘┘└┐┐│┌┌|yyy{zyxxy{}}~~~{wwxwxxxvtrqmonlmqrqrtusrrrpprqmihjlmmllmnliimnjgda]\\bikhimidcfgfefeefegnqmda^]^_``bcdedbbdbdefhlmmpqsrpptz}{uruxwwsuy┌┐┌┐~yusruyyz{||~─└├┘│|xxyzzzxxz|}~──┌┘┘┤┼██▄█░⌠■⌠∙√∙ ⌡ °·═ё╘╝╤╫бдееггггфеефдфхххиииклмнмллмлмноонлйккклмннмннноопппяссстьыышзызшшыььызыьвввтутрпппнкллййййхдбю©╬╪╨╧╧╦╤╢╠╞╝╞╘╗╘╘╖╗╕║· ≤≤≤≈√√≤≤≈≈≥≈▒┼┤┤┤┬┤┘┌}─└├┐}vpuy}}zxvtqqqqollmoprrtyztonljhfffdfijihggfgghgfeeeeeefhhghhikkjkmopnlmllnnljjjjklnqvyzzzz|}}|zxwwyxwwwy}~}────│└├├┐─┐┘┤┤┘┐┌┌┌└├┤┬▀▄▀▀▀▀▄█▌▌▐▄▄▀┼┼▄▌░▒▒▓⌠■■∙√ ÷╔╙╝╞╜╙╗╗╖╔╓╔╗╚╗╘╚╛╛╚╙╙╙╙╚╜╝╞╟╟╠╟╠╢╥╨╬а©юаацфггффеегймояртужвышзывьвтряопярсжьзьрнопнноноонммномноомммнммммммммммннннннооооооооппяппппяяпппяяпопоооооонноопппппяяпппппппппяяяяяяярсстттуужуужьзшэчъЮАБЦДЦЮшьыззщчъъЮБАъччъъЮъчщщчэчщщФ┌}штуттужтссррсссттссссссрстуужвьзыззззшщщщчщээщчЮъччщэшшззыыьььывььыызззщщээшзыыььыыыыыьывуссссссряпоонняпопяяпоопяяппппооопппяяопяпппярсрррррссррряяппппппоооннннннмллклммклнмйммммммлйлпжьвуууусрсряяруттжыьурнгаю©╪╨╩╩╥╢╣╦╩╫╬╩╨╨╧╦╤╢Ё╣╥╥╡╝╛╛╛╘╗╖╕╕╔╓ё╕╕╕╖╕ё║║══║╒ё╓ё╒╓║°≤∙⌠▓░█┴└┌┐└┘└└│┌│|yzzxwvuuvxz─│┌─zvvzwy{{yusqonmmmmoqrrtusrrsqutniijjjjhhjljgehhfefc_[Z^efbcggbadecbb`bddemrnfc`]\\^_acffb_bfdffgilmkjoturprw|zrnprqqopu|││──~yusruyxz|~~}~┐┤├┌|xwxyyvuux|~─┌─┐└┘├┼█▐█▀▄░⌠■√≤■ ²²÷║╒╓╖╛╢╪бефффггфееефцфхггйкйлмопонмммноппнлйккклмннннннноппясттртьзшшзызшшывьыыыьььытутряпонлннлккйгхгдбю╬╩╧╧╧╧╥╢╠╠╠╙╙╚╘╔╔╔║² ≤≥≥≈■⌠⌠⌠▓⌠√≤■▐┬┤├┤┤┘│}─││~ytppvzzwvutqpoomkkmnoqqsyzsonkhdcdefhjjihijfffhhgfegfddfijihgillklonpmklkjmoljjkkklmqvyzz{|{|||zyxxxwvuvy}─}{}~}}│││┐┘┘┌~┌└├├┐│┌└└┘┤┬┴▄▄▄┼┼┼▀██▄▀▀┼┼┴┼▄▌▒⌠▓░▐▒⌠∙≈≥⌡·╓╙╞╝╛╘╙╙╙╗╖╖╗╘╙╛╜╛╚╙╘╛╙╘╚╝╠╟╞╡╟╟╢╦╪юбаббабфххихфефхкмпртужвышшыььвурропрстужвыснооннпмнонллмомоппнммоннннннннммммнннннннооппяоопооояряппяяяпоонмноонмноопппоояяяппппппппппяяяпярсттттстууужыэшщчъЮАБЦДЦАэыьызщчччЮБАъЮъччъъъчщчэчщщФ│~эууужжустттсссттттсррссряртвьвувыззыышщщщчччччччъъчэшзшззыььььвыыьвышэзшээшзшзььыыыыыыыввжтсссрппяяяпооппооопяяяяяряпоояяппппппяяяяяяяярряяррстяяяяяяяппппооонннннннмммллллккллкмннмлммотьжтужусссряяярттуьыьуялеа©╫╪╩╧╩╦╤╦╩╪╩╪╩╩╨╧╦╤╣╢╣╤╥╣╠╜╚╙╗╕╔╕╖╗╖╕╗╗╖╕╔╔╔╕ё║÷═ё╓ё║·° ≥√▓░░▄┬└└┐┌┐┘┤┘┐{xy|xvuuttvy{}}{zz{yy|zustqnmnprqospoqtttttusmkljfhijjjjheddddfhfb^[]becbbcbcec^]_`dfebdhlje^]`_]^^bfea_adeeknljhnmoqqopsv──zqmoomptwz|~~}z{zvstuv}~~~│┌─~{yyz|ywvy|~││┌┌┌┐├┴▀▀▀▀█▒√≈√√≤°══·═╓╓╙╢╪бддеггфдцдфхффгййийннммммммнпоннннмлкйкнпнммнопоооппссстжьззшшзззшшшышэзьвььвжутролйлккклкйихххфю╫╪╩╩╦╤╤╢╣Ё╜╝╙╖╕╕╓║·²⌡ ⌡≥■▓⌠░▌▐▐▐⌠∙▓┼└┌┘┬├│}─│|tppqqtxywvxrollnonllorsuxwsqokgeddegjlljgggdhkjgffeedbbdikkghjkllmnpmihknnklomkllmquvxzzxy{vyyvw{{xywsrvx{─~{yz|~~}││││─~~┐┌└└┌┐└┌┤┘┘┬┼┼┼▀▀▀┼┴┼┼▀▀▀▀▀▀▀▄█▌▐░▒▒▒▓⌠■∙≈ ²║╕╜╠╞╜╙╘╙╙╗╕╘╘╙╚╜╝╜╛╞╜╜╞╡Ё╠╝╜╞╠╠╢╨╬юююацдфхийхгххгймосжутжышшыьжутссярряятьшытпооннннноооонноооонмнонммллммннооннопонооооооояпоппяпояяяряяппнооооооопоооппппппяяяпоояяяпясрясссстууттутствызээщъЮЮБДДЕЦчывьычщщчЮААЮЮъщэщчъъчщщщэчД│щжжвввуттттссстуууутттусррсуввввьыыыызшщщщччччччЮЮъщшшшззыьвььвыыьвьзшзшээззззьыыыыызззььвтсссряяяряяпоноппяппопяяяяппояпппппяяяяяяяяяясрряярссяяяяяяппяпппооооннннммлллллммллкклммлкллпувжтуутссссряярстжьыьтялд©©╬╫╪╧╨╧╧╩╫╪╩╩╩╨╧╦╥╣╢╢╣╤╥╣╡╝╚╙╗╖╕╕╗╗╗╖╔╔╓ёё╓╓╓╓ё╒╒╒║÷²°⌡≥≤√▒▌▌┼┬├┘┐┌┐┘┤┤├┌|yyzyxvvtsuwy{}}{zz{|ywxuqprnmlnpqompnmoqqqqqqolmonjeghiiifbddddfhhfa^]`bbbdcbbb`\\^adfebbfjfd_]][[_]aeecabceipnmoosprrqnnqt~|vsssrttv{}{{||{xuuwxx{|}|{{}~┐│}yww{}ywwz|}~~─││┌┐└├┤┤┼▄█▐⌠√≈√≤⌡²²·═ёё╘╡╨©бццееедццеггхйккклнмммммннняпоооомллклнпонноооооопясссужьызззыыызззззшзьввьвжутрпмкнмллммлкйийхб©©╫╩╧╧╧╥╥╣╞╚╘╗╕╔╒÷² ≤√√∙⌠░▐▌█▄▀┼▌▒▐▀┘│┐├├┌~~~}|xsonrrtxzyxwrpnmnonlloqruxwsqolifdeegikjhhijgjlkhgfeffeegkkjfghiiiiiljhhkmlijlkkmmosxy{|zwvxvxyyz}}zwwutvwz│~{z|}~~─│││─┐│┌┐││└└┘┐└┤┼▀▀▄▀▀▀┴┬┬┴┼▀▀▀▀▄██▌▐▐░▒▒▓⌠⌠■∙√≤⌡═╕╚╞╞╝╛╘╖╖╘╚╙╘╘╙╛╝╞╞╞╝╞╟╠╟╞╝╞╟╠╣╨╬ю©юабцефгйхххххилортттвызшзьжутссяяяяясвзыуяппоопнооооооннооннммнллллмннонооноппоооппооппппоппяппопппяяппооооооооооооооооппяяяппопяяпяррпссрстутттуттуьззээщъЮЮАДЕФДъзьыыъччъЮААЮАъщщщчъъчщщщэчЕ┌~щжвввжтттттсссттуутссстттсссужвжвьыззззээщчччъъъЮАЮщшшшыззьвььвыыьвьызызшшззззьзззззззззывтсстсррррряяпноппяпоооппяпппопппппяяяяяяяяяяяссряяяррррряяяппяяпппоооннннмллклклмннлкклммлккляувусттсрстсряяяртвыывсялц╬╬╬╬╪╦╨╨╪╬╬╪╩╨╪╩╧╥╤╣╣╢╣╣╤╣Ё╟╛╙╘╗╖╖╗╘╗╖╒║═║╒╓╓ёё╓╓ё║·⌡≥≥≤≈√⌠▐▄┼┬┴┬┘┐┐└┘├┴┼└~|{{{zxwussuxz{{zzz{|ywusomnllmoqqnlnmlmmmmnnmlknqolegijjieabcccdgiiea_``acgfdba^[\_bbcca_bged_\\ZZ]\^bdddccgntolrstvvvsonpsy{|zwuuuxvx}}ywz{yvtuxyyyzzyxxz{─|xvwz~zxxz||||}}─└└┌│┌│┬█▌█▌⌠√∙≤⌡°°÷║ё╓╙╡╧╫юацбцдцббдехкллклммлллмноопяяппоонмнммопооооооооопясстувьыззыыьызззшззшыжжыьвжтсяононмммнммлклкецб©╪╩╫╬╩╧╤╟╚╙╘╕ё÷° ≤√⌠▓⌠⌠▒█▄┼┴┤┘┴██┼┘─┌┘┌}~~|ywtqnpqruy{yurqoonnmllnoquxvrnnljhffgijjihilnjlnlihgfhhhgikjhefhhgfeehgggjmkhijjkoorx{|}|xutuwwwy{|zxvwvvwwx|│|zz|}~~││───┌│└├└┐┘├└┐└┬▀▄██▀▀┼┬├├┬┴┬┴┼▀▄███▌▐░░▒▒▓▓⌠⌠⌠⌠■≤·╒╚╟Ё╠╛╗╘╚╚╙╘╗╗╚╝╟╟╟╟╞╝╝╞╞╞╞╟╡╤╩╬╬╬©юабдефииийиийлнястувььшзывуттсяяяпясжызжрпоопяоооооооонооонмммллллммнонопооппоппппопярппппяяяппооооопппппппоонноппоннопппппппппппппяяпсррстуттууутжышшээщъъъАЦЕФЕЮэзззЮъъЮЮААЮАЮчщщччччщчщщчЕ┌~щвввжусттутссттсттссрсстттсрстжжжвышшзышэщщчъъъъЮАЮчэшшзшзьвьььыыьььыыызшшззззыззззззззшзьусттсррссряяпяпоооппяооппппппппппппяяяяяяяяяяррряяррррррряпппяяппоооонннммлккмлклннмкммннлклнтжвусссррсттсряяртьзыурпйц©©╫╫╩╦╨╪╬ю╬╪╨╨╫╩╧╥╤╣╣╣╢╢╢╣╢╠╛╘╙╘╘╙╙╗╕╔╒══║ё╔╔ё╒╓╓╒÷⌡≤≈∙■⌠▒▐▄┴┬┬┼┴├└┘┘┐┘┴┴└││─~}{zywtttxz{||{{{zyxwtpmklmnoqpomlmmmkjkknmllmnmlijllljfc`abcceghgecbaacfhfdb_]]`a``b`]_dhd][^^[Z\\^`ceffjotnkpprvwwuqpqrwx{|zuuw|{|~}ywwxvtstvxxyyyxwwxy{{{yxxz|zxwyzzzzyz└┘│~~~├█▐▄▀▐▓∙≥°°²║ёё╕╚╡╦╩╬аббцдцббцдилнлкммлллммопяяяпппоннмоннноопппоооопярстувьызшшзыызшшшэыышыжжзыьжутсяпонннннмлмлмлгеда╪╬аа╫╨╥╠╞╜╙╓÷⌡≤√√∙▓░▓■░▀┬├┤┤┘┬▄█▀┤─}─└┐~}}|yxwsnppqrx~{urqqpnmkknnoquwupkllkihhillkjijmokmnljigfiigfghgefgiigeddfffgjlliiijmqru{{{{xustuxvvz{yutvvuuwwwz~~|zz|}}~~~─│┌──┘┼┤└└┘┘└├┼█▌▌▌▀┼┤├├├┤┤├┤┴▀█▌▌▌▐░▒▒░░▒▒▓⌠▓▓▓■≤⌡║╗╟Ё╠╜╚╚╘╙╙╘╘╙╛╝╟╞╞╝╝╝╞╞╟╞╞╡╥╩╫╫╫╬©юбцдеиййкккклмпстужьыззывутссяяяпяруьзвсоннноооппппоонопппоннммллллммнппооппояяппопярппппяяяяяяпоннноппппооннмоппонопппппоппппппппяпорррстуттууутжышшээщчъчъАДФЕБъщщэъъъЮЮААААЮъчщщщщчщччщъФ┐─ъыыьвуттуутсстустттссстрсттррстжжвышэшзшээщчъъъчЮАЮщшшшшэшыььыызыыыыыыышзшшшзззззззыыыыэшыустттррссряппряппппяяооопппппяяппппппяяяяяярряяяярррсрррряпппппппооннннмммлккнлккмнмлмммнмкможвжутссрстттсряяруьзьуяохцю©╩╨╩╧╪╫©©╫╩╨╨╫╨╦╤╣╣╢╢╡╡Ё╢Ё╠╛╘╙╚╚╚╙╖╓╒╒║═╒╓╕╔╓╓╓ё═²≥≈√⌠▓░█▀┴┬┬┬┴┤┘├┤┘│┐├├┐┌└┘┐}{zxvuuwy{}~~~}zyxvtrolmnnopoonklmljiiimmnmljjlnnmlkife_abdccdfhgfedbcdffec`]]_a^^aa^_chf`]__[[_][]afjlmmpljlkoqtuusrrryy|~|wwz}─│}|yttttsssuwyyxwvwxyxyxxxy{|ywuvxxyz{{}│┌}}~└▀▌▄┼▀█⌠≤°²÷╒╓ё╗╜Ё╥╨╪©ацдедцбцдимомлмнммммноярряяяппонноонннноппоооопярсувьыызшшзыызшшшэыьзыжжзыьвжутсрооопяпнлнлнмигфцюадд©╪╦ЁЁ╞╖÷ ≤∙⌠▓⌠▒░▒▓▌┬┘┘┤┴┬┼█▌▌┼┐─└┐z{zxxwsnpqqrx~xrrqonljioooruvrnjklkhfgimmljhhjlkmmkiigfggecdffefhjigeddeffgikljijjnstv||{xusstuyww{{wtsxvrswwvyz|}|}}─}{|│┌┌~~└┬├┐┐┐┤├┬▄▐▌█▄┼┤└└├┤┤├┘┤┴▄▌▐▐▐░▒▓▓▒░░░▓▓⌠⌠▓⌠∙√≥·╕╜╠╠╝╛╙╚╙╘╗╘╚╜╞╝╛╛╝╞╟╞╟╞╞╡╦╩╪╩╪╫╬юбдеегийккклллптууувзззывусссрряяясувзьтпмлмнооппппоонопппоннмллккллмнопооппопппоооярпппяяяярряппооооппппооннлнпяоопяппппппппяпопппппрррстуттттттжзшшээщччччЮБДЕЦАЮъщщщчъЮЮАБЮЮъчщщэщччъчщчФ└─ъыьжжутууутсстурссссррсрсуутррржжвышэшшшшэщччъъщъЮъщшззшээзьызззызззыызшззшшшзшззззыыыышшыжтттсррсрряпппяррряппооопппппяппооооояяяяяррряяяяррссррряяяпппппоооннмммммлккнлкклммммклмлкмяьвжтттссстттсяяясувыьтпнфбю╬╨╧╩╪╫©©╫╩╩╩╩╩╧╤╣╢╢Ё╡╡╡ЁЁЁ╠╜╚╚╚╚╙╗╕ё║╒╒╒ё╓╔╓ё╕╓║²⌡≤∙⌠░░▌┼┴┴┴┴┬┤┘└├├└─│└└││└├├│~|{ywvwuwz|~─{zwtssromnooonnniklkjihhkkmnkijmpnkjifedabcedccdffffeddcccca^\\]^\\^_^^acgfb_]]_b`^^aflpnhiijjgknptvuttuxy{}|xxz|│┐─~~ztssssrrtwyxwvvvwxyxvuwy|}xustvwyz~||}~┐┴▄▀┴┴┼░■≥°·║╒╒╘╜Ё╤╥╧╩╬цдедцбцдймонмнннннноопярпяяяппппнооммноопооопяррсуьыыызшзыыьыззззььыьввыыьвввжусяярссрпонмннйигдцдфеа╬╪╥╣╟╖°≤≈∙⌠⌠⌠⌠▒░▐█┼├┘┬▀┼┼▄▄█┴└──}yyyxyxtpopopu||ysrpomljiooqsvuqljllieceglkjgfeghklkihhgedca`bfhhfhjifdccdeffhjjihklnsvwz}zuqqstsuuvyzwttxvrswwwyy|~─┌│}~|{{~│││──┐┘└┘┤├┬┤┴▄▌█┼┴┬├└└├┤┤├├┬┼█▐░░░░▒▓▓▒▒░▒░▓⌠⌠⌠⌠■√≥ ²╓╛╠╡╠╞╝╛╙╘╙╛╝╝╛╚╛╝╟╟╟╟╞╞Ё╦╩╩╩╪╫╬юбдееегиийлмммптутсвшыыывуссссряяясужшзврнмннооппппоонооонмммккккклмннопооппоппппоопяпяяяяяяряппппяяяпппппоооноппппярппппппппяппяяпппяярстуттттстжзшшээщччщчъЮЦДДБАъчэщчъъЮАБЮЮЮъщщэщчщъчэчФ┘─ъьвутссууутсстуярссррррттууттссжжвьзшшэшээщччччщчЮъчэшшшщэзььзззызшзыышзызшшззшзззззззышшыжуутсссссряпппяррряпппппппппппоооооооппяяяярряяяярррряяяяяяппппппооонмммммлллмллккллллккммлнсьжттттссттттряяяуувьвупмфа©╫╩╩╬╬©ю©╪╩╪╪╩╩╧╤╣╢╢╡╠╡Ё╢╢╢╡╞╝╚╚╘╗╕╓ё╒ё╓╓╓╓╓ё╒ё÷⌡≥≤≈⌠▐██▀┴┬┴┴┬┤└┐┐└┐│──┌└┌~~│┘┐|{ywwwvvwy{|~~||yttutpmoqqpommiklkjjigihjmljkopmjihfdecccddccdedccdffeabb`^]]^]\[\^__^ahifb``deeddehmqmedehiefjmqsttuuuvy{{zyy}│┐┐┌─{vsqoopqtwxwvuuvwwzxuuwz{{xustvwxy}~}{}│┌│─┌├┴┬┤┬▀▌░∙ ²·═╒╘╝Ё╣╤╥╧╩бцццббдейкмонммоооооопппоппппоопмооммнонооопяррясуьыыызшззыыызззыьввввьььььььвуттсссссряпнппмкйгедедаю©╨╦╢╙·≤≈≈∙■■■▓▐▄▄▌┼┤┬┼┴┤┬├┴├┌|ywwxvvwxvtsoommpuxxuronnmkinoruvtplikjgcadhjigdcdeglljhggeca`__bfhhgiihdbabcfghhihggmnouyyyyvqnpsrprtvxxwvvvvtuwwx|z}┌┐│|{{}~~─││┐└└┴▀┬┬┬┼█▌▀┬├┤┤┤├├┤┤┤┤┴▀█▌▐▐▌▐░▒▓▓▒▒▓░▒⌠⌠■■√≤⌡  ²╓╚╠╢Ё╠╞╜╜╜╜╝╛╛╛╜╝╞╟╟╠╟╠╣╧╩╩╩╫╬©юбццддфхиймнннорттсжзызыьуссссряяястжззьсоооооооппооонооннммнлккклмннмопооппноппппппяяярряяярппяяяяяяпппяпппппппоопяяппяяяяяяряпяряпяяярстуттссствшэшээщччщщъЮБДДБАъээщчъъъАБЮААЮчщщщчщъщэчФ┘│ЮывууттууутсстурсттссссуууууттсужжвьзшэшээщччччщчЮЮчэшшшээывьззыызшзьышзыышшззшшшшзззззззыжуутсссссряппряяпппяяппппппппоннноооппппяяяяррррряяяяяяяяяяяпяяпппоооммммммллллмллкккмклннмпуьуссстссуутсряяржжжввуплфю╫╫╪╫юю©ю©╫╪╫╪╩╪╨╥╤╤╣Ё╠Ё╢╣╣╢Ё╠╟╛╙╗╔ёёё╓╔╔╕╕╔╓ё╒· ∙∙≈√▒▄┴┼┼┬┤┬┬├┘┌┌┐┐─│~┌┘┐}y}┐└─|zywvwxwvvwxz{|}{xwxupmpstrpnmjllkkljhhghlmklopmkkigefecbccbcdec``cfhgbcb`_^`a__^^`ba_bhiggfdefhjihjnqmdabfic`gilopqrsruxz{|{y~─┐├┘│|zsoklnqtwwvtttuvvzwuvy{zxwutuwwwww{}}─┘┘││┌└├┘┘┬▄▌▌▓≤°²÷ё╙╞╢╤╤╤╦╨юаббабдфиикннклооооннооомнооннномооммннноооярррярувыыьызшшзззшшшььвжжьыьввььыьжтутсррсссяпяромлхеддцюаю╪╪╧╟╒≥≈≈≈■⌠⌠▒▄┬┼▐▌┴┬┴├└┐│┬┘┌─{vtuvsrttrrsponmnruxvsonnmkimnrvwtpmghheaaejihecbcfhmljhgfda`_^^adfehijgca`acfiiiihfhoqqv||zurnlosqnsvyzyxxxtwwwwvx~|~~│┐yw{─}~}┌┐┘▀▄├┴┬┼█▌▀┤┘├┬┼┴├┘┤┴┬┬┼▀▄▄▄▄▌▐▒▓▓▓▓⌠▒▓⌠⌠■√≥⌡ ≥≥≥°ё╛╡╢Ё╡╡╡╟╝╛╙╛╜╝╜╝╞╠╠╟╡╤╨╩╩╪╬╬юаабббдгиикнппоопсттуьыззьусстсряяястуьзьспоппоооооооооооонмномммллммммоооопонопяяпппяяррряяяряяррряпппяяяяяяяряооооппопяррряпсяпрряпяяярстуттттствшэшээщъчщщъЮБДДБАчшщчъъъъЮАААААъчччщщчщэчФ┘─Ювжьвтттсссссссярсссстужжуууууусувызшэщшээзшъъщччщщщэээшшээшззыыызззззышззэшыьышззшээээззыьжуутссссяппяряяяяяяяяяппппппонояпносппяяяяярпяяррррррррррряяяяпппоннмнннммллйлмлклмлклнонмосвуссужутстуусяпожвввжснйдю╫╪╬юаю©╬╫╪╬©╪╦╨╧╥╤╢ЁЁ╡╢Ё╡╡ЁЁЁЁ╚╛╘╓╒ё╔╔╕╕╔╓╔╔═° ≤√■▓░▄┴┴┴┬┬┬┬├┘│─~|}─~}~│┌|zyvtssvxxvvxzz{{zzxtoqpqttpkgjiiikmjfgegjknnlpliiihggc`^`aaabb_^^]bhkfffgfffgdeeccegghhijjjlnjijkmopqkf``dddgjijlmnprstuvy}~~│└┘└│}zsjejnosxvvvtrsvyxyxvvxxvsrqsvxwuxxy|│──~┐┤┤├┴▌▌▌▐▓≈≥÷╗╝╠╡Ё╢╥╦╦╬аа╬╬беегхйллккммннмлмнпннннноппнннонмнпояяппрсстувьызшшшзззшзыыььвжввьыжжввввввужжутсссрпояяолйдббдецю©╨╥Ё╛╒≥≈≤∙▓▌▄┴┬▀▐▐█▀┴┤┘│┐││┌─ytrqqtwwsrtoonnquwvuspnlkjjlqtwzwokjgegecfmmiecdeeejlllieba__``abdehkkfbba_bfgfikihjjow}|xwrmkmppppqrw||xvvywwz||}~──}┌─z||}~}}~─~─┌└┘├┬┼┘├├┬▀█▀┬├┤┬┬┤├┤┬┬┼▄██▄██▄▐▒▒▓■⌠▒░▒⌠∙≈≥≥ ⌡≤≈≤ °═ё╠Ё╣╣╣╣╡╞╛╚╛╟╠╟╞╞╡╢╤╧╩╪╫╫╫╫╫╬©юбцбдхййкнпяяртссуызышытрсрсрсспружвыытяпппоппппоооппппонммнннммлллллмнооннппоооппяпяяяппоппппппппппппппппппоннопппсряярряяррррряяярссссттссссувызшшчъщэщччЮАБДДБчшэщччъЮБЦъъъъъъчщччщчъъИ┘─Ювжьвтттсссрсссярсссстуууууттттувышшшээщчщшэъъэччщэээээшшшшшзыызззззззышззэшыьыззззшэшшззыьвжутссссяяяярряяяяяяяпппппппопяяпнояопяяяярряярррсрррррррряяппппоонннмммммлкклмккммммнноннржвутттууттууусряяжвввуснйбю╫╬юббаю©╬╫╬╬╩╥╦╦╥╤╣╢ЁЁЁ╡╠╡╡Ё╡╡╛╚╘╔ё╓╔╕╕╗╖╓║÷⌡≤≤√⌠▒░▌▄┼┼┴┬┬┤├┘└│─~~~}}~~}{|│~|{yvuusuwwvvxz|}|ywuspnoqtsokijihhijhedcfkmopmmjhhgfddb_^_```aa^___cikklllkjjjhiheegjjiijmnmnpmlklnpqrnjfhmmknonoqrrsttx|~│┐┐┌┐┘├┘└┐─}vnjknmnqrtuvvvwxwxyyyxwurqqsvwvuuuwz}────┐├┤├┬▄█▌▐▓√≤·╖╛╞╡Ё╢╥╧╧╪©ю╬╬адеггиллллнммммммноннннооппнмнннмнпояяппрссжжьыззззшззшшшыьььвввььыввввввввужжутсстряппполицббдецю©╨╥╢╞╗═⌡≥≥∙░▄┴┬┼██▄┴├┌}|│─│└┌|wvsrswvsqrponmotxyvspmmllkoswy|ysnhedecafmkgcabcefllkifc`____`bcefhjidaaa``fgfhjjjmnrx{zurqnmoppooqsvwvuuvyyz|}}~──│}}~{zz|~─││┐┘├┤┤├├└┘├┤┴▀┼┤├┤┤┤├├┬┼▀▀▄▄▄▀▄▄▄▌░░▒⌠⌠▒▒▓■√≤≥ ⌡⌡ ≥  ⌡°·╔╛╢╤╣╢ЁЁ╞╜╜╞╟╞╝╞╠Ё╥╨╪╫╪╩╫╫╫╬©юабцдфикмнояясутсуьзышытрссряррпяуувыыуяппппппооооопппоонммммммлллллмнооооопоооопппппяряяяряяяяяяяяоопппппппонооппояппппяппряяяяяяярстстууттттжьзшшшчъщэщччЮАБДДБчэщщщчъАБЦЮъччъъчщччщччъИ└─Юьжьвуутсссссссярсссттуууууттттвьшэщщщщчъчэщъчэчщэшшшээшшшшшзыышшзззззззззшшыыышзззшэшшшззьвжутсссрряярррряяяяряпоопппопррпооппопяяяррсяррсссссррррррррппппоонмнмлмммлйлллклмнмнмммлнрвжжуттттттуутсррруввжтрмию©╬юбццб©©©╬╬╫╩╦╥╥╤╤╣╢ЁЁ╠╠╟╟╠╠╠╟╛╙╗╕╔╓╕╖╖╗╖ё²≥√∙≈∙▒▐▌█▄▀┼┴┬┤├┘└┐│─~~}~}}|{yz{~}|{yvvwttuutuvwzzyurqqqlmprqnllkkjhhihfbaejknolihhigecbb`_`aaaababddgmnopponmllmmliikmnnnoqromlnmmnoqrrmkjnssqststvwwwww{─┐┘┤┬┬▄▄▀┴┬┴┤└|wrpomkjlnruwxxxxyz{zwutqqrstutsstvx{~─┌─│┘┤┤┬┼█▐▐▒■≈²╕╛╞╡ЁЁ╣╥╦╩╬ю©©цееггикллмнммллмнннннноопппнммннмноояяяясттжвьыыззыззшээшзьььььььььввввввввжжуттстурряооолгцаацдбюю╩╦╣Ё╞╖÷≥√▓▐▄▀┼▀█┼┴┤┌}zxy||└└zxsqruvsqponlklrwzvsommnnmpsvxzxsnfcbca`fnkhdaacgimljgca``_^^_bdeeijhb_`aa_egegijmoruxywsomlmoppnnruusqrvxxz{{{}│─~}||}}{{|─┌┌┌┌┌┌┐┐└└┐┌┐┘┤┤┬┴┬┤├┤┤┤├┤┴▀▄▄▄▀▀▀▄█▄▌▐▐░▓▓▓⌠⌠■√≤ ⌡°°⌡°²²⌡  ⌡╓╝╢╣╣╣╢╡╞╝╝╝╝╞╟╟Ё╦╪╬╫╩╧╫╫╫╬©юабддехкмнняртуутужыышытстсряррпруувыыжрпппяппооооооооооннмллллллллммнооооооооооппппяррряррряяппяярооопппяяооопппонпооопппояяяяяяппрстстуутттужышээшщъчщщччъЮБЦДБъщъщэщъАББЮъчччччччъщчччХ┐─Юьжьвужтттсссстррссттуутуужжжжжьышэщщщщщччщщъчэчщэшзшшэшшшшшзыышзыыыззшззззззззэшшшэщээшшзыьжутссссррррррряяяяяяпоппппооррпоппоопяяяярряяррррррярррррррппппоннмонллммлймлкклннммллллнсвжжутсстуттсряярсжввуспли©©юбддба╫©ю©╫╪╨╦╤╤╤╣╣╢ЁЁ╠╟╟╞╟╞╝╝╚╘╖╖╕╕╕╗╖╕╓÷≥√∙∙≤∙▓░▌▄▀┼┼┴┬┤├┘└┐││─~}}~}|{zyyz{zzzwuuwutssssttvvurqqrslklnnnnpklkigggfdceghkmliijljgeegedeffedgfhiilqqoqssqomkppommnooqqsuuqmklmmopqqpkklpvvuwxxxyz{{{{}─└┴▌▓▓░██▌█┴└─{urpmjjlosvxxx}|{{yvuvsttuttsstuwyz}─┐│──└┤┬┴┼▄▐▐░⌠√°╕╞╠ЁЁ╡╡Ё╣╧╪╬©юцееггиккклнмлккмннммннооооонмнннмнппяррсстужжвьыыыыззшээшзьььььььввььввввввжутссстурсрннплфццбццбю©╪╨╥╣╡╙║ ⌠░█▌▐▌▄┴┘└│}yvtsuv{─│|xuroorutqolkjijntxwtommnnnqsvvvvrkcbbb``elljfbacgjlkifca```_^`ceedjjgb_````efehjlnquvvuurnklnpqqqrtvvrquxyvz{xx{~─}zz}|{~┌┘┘└└┌─~~│┌┐┐├┤┬┤┤┤┬┤┬┬┬┤┤┴▀┼┼▀▀▄█▌▌▄█▐▒▒▓▓▓■■∙√≈≥⌡°⌡⌡²÷·°⌡⌡ ·╔╛╡╣╣╢╣╡╟╝╝╞╟╡╟╣╩©©╫╪╩╬╫╫╬╬©юаццегилмняртжжуууыьзытртссрссясжжжьывсяппяяонннооонноооннллллллллммноооооооопппппяррряппяппппппппооппяяярпппппооопппярряяяяяяяяяярстттууттуувышэээщчччщщччъАЦЦБЮчЮчэщъАББАъчщчччччъщчщчГ┌Юьжввужууттттттррсттуужужжвььыыыыззшшзззшшэщччэщэшззшшэшэээшшзызыьььышшззззззззэшшшээээшшзыьвуусссссссррряяяяяяяппппппонпяоопяопярряпяяппяяяряяяяяяяяяяппппооннонммммлкмкккмннмммммнятвууутсстутссряястжввтрокхаабцдда©╫©©╬╪╩╧╦╤╤╣╣╢╢ЁЁ╡╠╟╞╝╝╜╛╛╙╗╗╗╗╗╗╖╓÷ ≈∙■■∙■▓░▐█┼┴┴┬├┘┘└└┐┌┌│─~}}~|||{zz{xwwwussuusrrstttvtrrssttnkijmnpqlmliggfegccdeimnjkmonkiikkjklljijikllnrsoswwvtpmopppoponoorvwtpmlklmnpppmnnrwyy{{{{|}}}|{{─┬▐▒▓▒▐▐▒▐▄┴┤│{wurooopqsuww|{{{ywwxstuuuuuuvwxxy{│└┌┌┘┼▄▄▄▄▐▐░⌠≈²╕╞╠╡╡╠╟╠╡╣╦╨╪©ацдгхиккккмлкйклммлммноооннонооонопяярссстужвьыззшшззшээшзььььььвввььввжжжжжутсссттрсрннпмгеедцбаю╬╫╩╧╥Ё╜╔· ■▌▄██┤│}{yxvroqrvz{xtqolloturpiiihilpsvspmmmnnttwwttrjbbccb`djkkgb`cfhkjifc`_^a``bdffehhfcaaaacfgglnnptvvtrsqnopqrrstutvvtuyzxvyywvz~─┌zxyzz}┌├├├├┌─~}┌┐└└┘┤┤┘┘┤┴┬┴┼┴┬┬┴┼┴┼▀▄█▌▌▌▄▌▒⌠⌠⌠▓⌠■■∙∙≈≥ °⌡⌡°··°⌡⌡°°÷╓╙╟╢╥╦╤╢╠╟╟╠╠╠╥╬ю╬╪╫©╬╬╫╬╬©юаацегхилнпясужжутььыьтртстрстртжжжвыьуяппяпонннооннннооонммммллккмммнннннпппппппппяяяпоопоопяяяпппппяяррряппоооппяяярсссряяяяяяяярстстужуттувышэээщчччщщщщъЮАБАЮЮЮчщщъААААЮччччъъъЮщчччГ┌Юьжвжтжууутттттссстужжжжвьыызззыьвввжжуввьзэщщэээшззшэээээээшззыыьььызшзззыышшшшшзшшшшшзззыьвжусссссссррряяяпппяпппяяпоноооопяпяррряпппппяяяяяярряяяяяяяяпппонноонммллллкклмммнлмнмняужууттттттттссррстжввтпмйгдддедцю©╬©©╫╩╨╦╤╥╥╤╣╢ЁЁ╡╢╡╟╝╝╜╜╛╞╝╚╙╙╚╙╖╕║⌡≈√■⌠▓░░░░▐█▀┴┬┤┘└┐┐┐┌┌┌│─}|||||}{zz|vuuutrqrrqqrstuuurppqrqqplhikmnonnnkiihgdaabchnonnoqqommooooppnkljklknrsqvzzxwtpnoppppnlopsvwsommljjknproqqrwyz||}}~│┐┐│}|zyy|└┼▌▓⌠▒▒⌠▓▐▄┼├─|zwvutsrrstuwy{zxwvupqrrstuvvwwxy{~─└┐┐┘┴▄▄▄▄▐▐░■≥÷╖╜╝╞╟╟╟╟╡╢╤╧╪©ацдгхиклкклкййклммлммннннннпооппоояяярссрствьызшэээззшээшзьььввввввььввжжввжутсстссрряоопмиггфдбаю╬╫╪╩╦╣╟╘╓²∙┼└└┘│}}{yyzytqqrtvwurpmkjnrtspihijjkmorqomklmotsvvqsqgabcdcbehlljecfhikjifb_^]__`bdffehhgfedddillnstsuyywutsqnrsrqqrsrstuwyzxutvvuvx{}─│~yvwxy|│└┘┘┘────│┌┌┌└┘┘┘┐┐├┼┴┼┼┼┬┬┴┼┼┼▀▄█▌▌█▌▐▓■■⌠⌠■∙∙∙∙√≤≥ ⌡ ⌡°° ≥ ⌡°·÷║╕╞╦╦╧╦╣Ё╡╠╟Ё╧©©╪╩╫ю╫╫╫╫╬©юаюцефгхкнояртжвжтьвыьтстссяссрсжуувыыжрпяппооннноннмнооомнннмлллкммммммммооппппппооппоппяопяррряпяяяяяяяяяппонопяяпярссрярррррррряссстужуттувышшшээщччщэщщчъЮЮЮАБАЮъъЮААААЮъчъъъъЮЮчъччХ┐Юьжжутууутттттттттужвввььызззыыжусррссстужышээшшшшшшээээээээшзызыыыыыызыззьышэшшшззшшшзыыыыьвжутссссссрсрряяяяяяяяяяяппоноппппяяярряппяяяярррррсррряярряяяяпоонноомлкклййкммллнлмммнружутсстууттттсррстжвжсолигггфееца©╬╬╫╪╩╩╨╦╧╦╤╢Ё╡╡╡╢Ё╟╝╝╝╝╝╠╡╞╙╙╛╘╓║°≤√∙⌠▒░▐▐░░▌▄┼┴┴┤┘└┐┐┌┌│┌│─~|{{{{}}{yy{wutttqppnopppqrrrpnnnmnpqnkjjjjknnnlkkigcbdghlpqsrrttsqpqrrqrrpmmklllotvuz|{yywsmnooopnkpqtvuqnlnmkklnpqprrruwxz|}│┐┘┐─|zxwwx~┐▀░⌠▒▒■∙⌠▌▄┼┤┐~|{zzzyxwxy{{xyxuqqqqsuvwxxxz}┌┐├┘└├┴▄▄▀█▐▌▐∙⌡║╗╛╚╛╝╟╟╟╠╣╤╦╪©бдефгиллкклйкклллммнннннннопопппопяррсттссувьызшшшшшззшшшыьььвввьььььвжжжввжутттттссяппппмкхигдбба©╬╫╩╧╤╡╛╔ ⌠┬|}~|}{z{{zxutttttsrpnlknqsrojihjjjjknonljjmorqutoqpeaabccdfiklkggkllkjifdbaa`acegiiimmkkjiiiosux{{z{~|zz{xutstsqqrqpqrvzzxtrrrsvwxyz}}}}{zyyyz}│┌│││~───│┌┌┘└└└┐┐├▀┴┼┴┬┤┬┼▄┼┼┼▀█▌▐▐▒▒▓⌠⌠▓■√∙∙∙∙√≈≤≤ ≥ ⌡⌡ ≥≥°°²²²═╗╞╢╥╧╦╥╤╢╠╤╨╬╬╩╨╩╫╫╫╫╫╬©юаацефгикмояртвыьуььзытсутсяссртжуужызврпяооооооннннмнопнмнммммлллммммммммнооопоооопппппярппяяяярряяяяппппппппоопяппяярряпярррррррярсстуутттувзшэшэшэччщээщщчччЮБЦББАААААААЮъъЮЮъъЮАъЮъъХ└Юьжутсутттсссттуттужвввыыызыыьвсяоопярсттжьшшшшзшшшэээщшшээшззышшззыыыыыззьышэшэшшшшэшшыыыыьвжуттссстсрссрряяяяяяяяряяпяоояяппрпярряяяярррссссстссррррряяяяппонноомкйкмийлнмллнопоносвьутрртжутсссряярсжвжсолигихгфецба╪╪╪╩╪╫╫╩╩╧╥╢Ё╡╡╡╣Ё╟╝╝╞╟╟Ё╢╟╙╘╚╖═⌡≤√√∙⌠░░░▒▒░▌▄┼┴▀┴┤┘└┐┐┐│││─}{zzz{}~{xxzxutttroomnonmmmmqonmllosqomligghklkjiigdfgkopsutxutuvusrrsssstqmommnmrwyz~|{{zwmnnmnonlmosutqoommnopponpsssuvvy{}─┌└┘┌~zwussty┬▌▒░▐⌠∙■░▌█▄┬┌~~~─┐┐│││┌├┼┬{}}zwvttvwxyzz{}│└├┤┴┴┬┴▀▌▌██▐▌▐√²ё╗╛╙╙╜╟╟╟╟╢╣╥╨╬ацдефилмлклйкллллмноннннноопопппопятстжуттжвьыыззыышзззшзыыыьвввьыыььвжжжвввжуууутссяопяпнлхихеббаю©╬╩╧╥Ё╚ё≥∙▀─zz{{{zzyyxxwuusrrrrqonmnqrqnkigijihiklmljjmpqpttnqqeb``acegjhjigimnljihgeeefdfikmopqusqonmlmsx|│~─│~}─┌{zuutssutqprw|{uqqrqty{zyz{zyxy{}~~~─│─}}~│└┤┤┘└┐┐└┬▄┼┴┬├┘┤▀▌┼┴┬┼▄▐▒▓⌠▓▓▓▓▒■≤∙∙∙√√≈≈≈≤≤≥⌡°⌡ ⌡═²⌡°·÷║╓╝Ё╦╨╨╧╥╢╦╨╪╫╩╨╧╧╫╫╫╫╬©юаццдехйллояртвзыжььзыутуутрстсувуужызврпяоооооонноммнопнммммммлллммммммммннооооонррряпппяяпооопрряяяппооонояяппппппяррряпяяярррррярсстууттужьзшэээшэччэээщщщщщъБДЦЦЦЦББАААЮЮЮЮЮъчААъЮъЮИ└ъвужустжтсрстттужжужзшшьыыывусяонноооясстжьызшшээээээщчщщэшшшшшззыыыьььвызшшшшээшшээшшэшзььыыьжутссссссссссрррряяяррряпяпоояряояяяяяяяяпяррряярсссряяяряяпппонммммммллккйккмнннооннптвьутсстутсссряяртууввсмиикйййгдаю©╫╪╩╩╩╩╨╨╩╦╥╥╣╡╡╢╣Ё╟╜╛╞╡╣╤╤╢╞╚╖║ ∙∙∙■▓▒▒▒■▓░█▀▀┬┘┴┼┼┴├└┐┐┐┐┌│}{z{z}{yyzxwtqqrqommlljhiklmnnllnqoonlkljhklkjjhimopoquutuxwvvuuvxttstuutsnnnoqsuv{─zwuuwtqooomlmpqtuspoonnnoqsqmqqqsttsrw|│└┘└─|xvuttvy}┌▌▒▓░▒√∙▓▐█▀┬┐──├┤┴┼┬└┐┐▀┼┤┐}|{yz{|│|┌└└┘┬┤▄█┼┴▄▄▄▐▄█▌▒≈·╓╖╗╖╘╛╝╝╞╟ЁЁ╣╦╪адфффхклкййкклмннннкмопонннпоооярррртуттсужыззшшшшшзшшзззыыззыььввьыььььжжжжжжтсттсряяяяпмлйигебааа©ю╫╨╥Ё╘·⌡■▌├||{xyyzzyyxtuwwtqpommmnpqpnlhfghgghiklkjjlorrsttqlhb__cfefhhffksropnomiilmkkklmqtsquqmllnrw}┌└┐││┐─│────yxxxwvwyuw{{vonqrtvwz{zxwxwvtw|──│─~}~|~~~┐└└└┘┘┘┘┤┼▄┬┬├└┐┘┴▄▀┴┴▀█▐▓■≈√■▓▒▒▓⌠■∙√≈√√√≈≈≤ °²²²²··²²²·══╕╛Ё╦╧╧╧╨╬╬╬╫╩╨╨╩╬╫╫©ю©юбцдфгхйлмнопятвыьыэшвжутутссуууужвввызтпяяяпонооппнмояонмнмлмннммнмнннмнпоооооппяпрронояяяпппяряояяяяяпппппппяяпосряяяяррсяяссяяссррссссттужьышэщъччъчщэщщээшшэъАБДДЦББАЮЮъччъЮЮЮЮАъЮъчХ└ъвууустуттттттттжььыззььвжусряпоннооопсстжьызшшшэээшэщщээшшшзшшыыыыыыыыьызшшзшшэшшээшзшшзыыыыьвутсссссрссрррррряяяяряпопппопряопяяяяяяяпяррряррярсряяяряппооонмннммллккккккмннмооннптввутсстуутттсррртужвжрмиийлйхебю©©╫╫╪╪╪╫╪╪╧╦╤╤╢ЁЁ╢╣╢╡╠╠Ё╣╥╤╥╣╟╘ё²≥√√∙⌠▒░▒▒⌠▓▐▄┼┴┬├┬┬┬┤├┘├├┐┐┌│─~|{{z}|z{{xxuqpppnkkklkihilmmmlmprppnkjkjhhiikprswxytoqsttvwwwvvvwwvvvvvtsopruwwww|─~xussvtrponnprtuwxupnnnmmmoqolqpqqrrqptw|│┘├┌~|yvutuy}┌┴▄▐▐▌▓▓⌠░▌▀┬└┌┐▀█▐▌┬│~~┘┐│~}|{z|}│┘┬┴┤├└┘┘┐└┬┬┼┼┤┬▄█▄██▄▌⌠ ═╕╘╗╖╘╛╜╜╜╞╠╡╢╥╩©бдффиклккклммннооомноппоооооопрррястутссужьызшшшшэшшшшзыыьззыыьььььввььжжжжжжтсттсряпппомкййхебююю╬©╬╧╤╠╙╒·≈▒┼─}~{zzzyxwvuxwutrpnmnmmnoonljgfhihghijkjjkorqqrsrpkha`bgjihinmms{{xxvvrmknnlmnmnqtusvrmklpv{└┘┤┤├└└└│──││─|zxxzz{|x|─ysqsuvvwy{ywuutttw{~┌┌│~{yyz{}~~─┌┐┐┐└└┘┘├┬┴┤┤┤├├┤┴▀┼┴┴┼▌▒⌠■√∙⌠▒░░▒⌠∙√≈≈≈√≈≈≈≈≤ ⌡²·÷÷·²²·÷═║╒╖╜Ё╦╨╨╩баю©╫╩╩╩╫╫╬абаацбцефгиклмнопсвыьыэшьвутусрстутужужжызтоппппппоононмопонмнмллмнммнннннмнпнннноопппряоопяпппяяяяпяяяяяяпппппппяяпорряяпяяяряярсяяссррстссутужьзшэщщщщччэшээээшшэчЮБДЕДЦББАЮъъъЮЮЮЮъЮъЮъъИ┘ъжууусттуууутууувыыыыьввуспонооонноонпрстувызшшшэээээщщшшшзззззыыыыыыыыыззшззззшшшээшшшшззыыыььутсссссрррррррррряяяяяпопяяппяяппппяяяяяяяррряррпяррряяяппоооонмонмллкклккклмннмноооружжутсстуутуутсрстувжуямкйймйфцю©©©╬╫╫╪╫╫╫╪╦╦╥╢ЁЁЁ╡╡╡ЁЁ╢╤╤╥╦╤Ё╜╔²≥≤√√■▓░░▒▓⌠▓▐▀┬┬┬┬├├┘└┐┐┘├┐┌││─}|{z}─~}~|yxvrpoookkkkjihijjjiijnqqpmihiihkkjntvwz}yonrstvy{zz{zxxxwwvutsprtvyzzy│~xtrrusrpnnnrwvwxxuolkjjjknqqopprsttrqtw{│┘└~w{xtrqrvz┌┘┘▄█▀▐▐▓░▌▀┤└└┘┴▀▌▌┴┐~|zz{|{yz{}─┘┼▀▀┼┬┤└─│├┤┬┬├┬█▌▄▄█▄▌∙²ё╖╙╖╗╙╛╛╚╛╝╞╟Ё╥╨╬абфгиллклмллмммнммоппяппяяооярссрятуутстувьызшшшшэээшшзыььыыыьььььвжвьвжжжужутсттсрряпонмлкйхдбю©©╬©╫╦╢╟╚╕║≥■▐┤─~|zzzyxxww{yusrqomnmlmnnmlkhgijhfgijihgimqqqrstrolihjorrppuuu|└└~|zvpnppommllorttsolmqv~└┤┬┬┤├└┐┌~}|~│┐┐┌zwx{}}}~│┐zwwxxxy{}}yusrrsvz|}~~~|yxxyz|~─┌┐┌┐┐┐└┘├├├├┤┴┴┬┬┼▀┼┼┴┼▐■∙⌠⌠⌠⌠▒▐▌░▓■∙√√√√√≈≤≈≈≤ °·═·····÷═║═╒╔╚╡╦╫╬ца©╬╪╪╩╩╪╪╬абббцбцддегиклмнпсвььыщэьвустсррстттжтужышуоооопяяпнмоммопонмнмлллммноннонммонннноооппяпппяяоопяяппяряяяяяпппппппяяппяппппяярррррррррсссттстутувышшээээщччэшшэээшшшэщАЦЕЕДДЦАЮъъЮААЮЮчъъАЮЮЙ├ъжтуусутужууужьыыыььввжтрпнммнопооооноястужьзшэшэээээщчэшшшшшшшзззыыыыььыззззззшшшээшшшзшшзыьььутссссррррррррряяяяяяяпопрряпяяяпппяяяяяяррррррспяррсрряпоооооннпомлккклккклмннмноопсжжуутсстттсуутсссужжжтяомлймйебю©©╬ю╬╫╪╪╩╨╨╧╨╦╢╡Ё╠╞╞╟╠Ё╢╣╣╣╦Ё╜╖║ ≤≥√∙■▓▒░░▒▒▒░▀┬┤┬┬├┘└┐┌┌┌┌┌│────~}zz~┌┌┌─|xxwtpopqomkjiijlijjhghknqpmjjlmmrrprvvuwy{xrqrsuy|}|}}xxxwvutsrqqqsvz||─┐─zwususqnmmosvuuvurmjkiijkortrmosvwwusvx}┌└─xqvsqppptw│┐┌┤┼┼▐▌▒░▐█┼┬┤┤└└┘┴▀┴├┐{xvx{|{ywy{┐┤┴┴▀┴┬├│┌┘├┬┴┬┼▌▌▀▀█▄▐≤═ё╕╘╕╗╚╛╛╚╛╝╞╟Ё╤╧╪©юефилкклоллммммммяяяяяяярппясссрртууттувььызшшшээшшшшзыььььььььььвжвььжжвужуссттрссяпонммйигдаю©╬╬╫╩╥Ё╠╜╘ё°√⌠▄┐~|{zyxwvvyxvsrqpnlkknoonmmighhfegghhhilpsxxz{||zxywvy||||{{|┌┬├─~{yuqprrpoonoqsuvspprw}└┴┴┬├└┌│─~yyz|─┐└└│}yz}┐└┌|y{}~y|┌└┌{ttrqtx{|{yz{zyxyzz|─│┌┌┌└┐┌┌└┘┘┘├┤┴┼┼┴┼▀┼▀┼┼▐∙∙░░▒▓░▌▌░⌠⌠■∙∙■■∙√≥≤≤≤≥ ²·°²²·÷═║ё╒║║╓╚╢╫бба©╫╫╬╫╩╪╪╫юаааббцццдфхйлмнпрувьыщэыьжсттррссстууввышжяпоопяяпоннммноонмнмлллммноннонммнооооппппппппяяпоопяяппяяяяяяяпппппппяяяпооопярссссссррярсссттстжтуьзшээшээщъъщшшщэээшшээЮЦЕЕЕЕЦБЮЮЮАААЮъщЮЮБААЙ┘ъжтуутуууууужьшззыьвуттпонннноопооооноясстувызшшэщщщщччщщээээшшшшззыььььызззззшшшээээээзшшшзыььуттстссрррррррряяяпяррряярсяярряппяяяяяяррсррррсяярсссряппооопонпомкккллллклмннннопятжжтжуттттсстттсстувжжтяпомйкхецаю╬╫ю©╫╪╪╩╨╧╧╨╧╣ЁЁ╡╞╟╟╠Ё╢╢Ё╡╡╛╕╓║°≤≤∙■■⌠▓▒░▐▌░░█┴┬┤┤├├├┘┘┐┌││───~{{└├├┌{vwvspopsqnljjijlklljhhiknnmlnruuwxwwxvtvvvvvvtu{}}{z}│}wwwwvtsrrqqqqv|┌─}{xuuuqnnoqrssssspllmmmllnqrqnortuuuuvx|─│~xttsrrqqsv~││┘┼░█░▒░▐▌▄┼┴┤┌└▀█┬┐}yvx||{zz{~┌├┴┼▀▀┼▀┼┤┬┼┴┴▄▄▄▌▄┴┼█▌▓ ║ё╓╔╓╖╙╚╚╚╜╝╝╟╡╣╥╧╪╬цехккклонннннннняпппяярряррссссстттуужьыьызшшшээшшшшззыыьььььььььввььвжвжжтссттрсряпнмллхгецаю©©╬╪╦╣╢╡╞╚╖═≥∙░├~|yvtrpvxyvrpnmjjkoqomllhfffefigjmqtx|┘┘┤┬┴┬├└└││┐┐│─│┌├┼┤─~ywtrrsrprrsuvxz||xvw{─┘┴▄▀┤┐─}{vxz{}│┐┌─~│┌└├┤┘│||─|┌├┬├yxvtvyzxuvxz{zyyy{}│││┌┌├└┌│┌└┘┘├┬┼┼┼┼┼▄┼▄▀▀▌⌠▓██▐▒░▌▐▒■⌠■■■■■∙∙≤≤≤≤≥ °° ⌡²·÷║╒╓ё╒║╒╖╟╨аббаююа©╫╬╫╫╬©©юбццццдфхйммнпртувыщэзыжттутсссрсуввжьзвряппппоооонннннонмнммлллмноннооммнооопппппппояряпопоопяяяпяяяяяпппппопяяяппппяярсстттсрряясссттствужьзшээшээщЮЮчээщщэээээшчБДЕЕЕДБЮЮЮАААЮъъААЦБАЙ┘ъжужжужжжжжжвышььььжсппнннооооппоопонояссстжьзшшэщщщщччщщщщээшшшшззыыьььыззззшшзшэшшээшшшзззыььууттттсррррррррряппярррррсряярряяяяяяяяяррссррстррррссряяпооопооонмлккллмллмнонноопятвжтжуутсссстттсстжвужуряпмихгецаю╬╫©╬╫╪╪╪╩╨╦╦╥╤╢╢Ё╡╢ЁЁ╢╢Ё╠╞╗╔ёёё÷≥∙■⌠⌠▓▓░▐██▐░▌┼┬├┘┐└┘├├└┌─}}│┤┴┴└{uttrpopspnmmljjjklmkighjijkmqvyy{|{zyvstxwvxzwy││|{~─}wwxxwtsssrstuy─}{~~{wvytpprsssttttqnnommmmoqrqsrqppsvxzyy{|{yxtsssrrsuy~{{┬▒▐▐▐▐▐▌█┼┤┬│}│┼█┬┐─zwy||{|||┐├┬┼▄▀┴┼▄▀▄▌▄▀▐▐▌▌▀┬┼▌▒√°║ё╒║║╓╖╗╘╚╛╛╜╝╟╡╢╤╧╩бдгклклнмнннннннпоопяяяярсссссттттужжвыыьызшшшшэззшзззыыыыыыыыыыьввььвжвжжтсстсяяяпнлкйигфдбаю©©╫╨╥╣╣Ё╟╛╚╖·≥■┼─~~|zxvux|{vspnmkmprpmmkhfhiilpsvz~┌┘┬┼▄█▌▐▌▄┴┤└┌│┌└┐│~│┘┤┼▄┬┌─ywtsssqopqsuvxz}┌~zz}┌┤▀█▄┬│}|{yvxz{z{~───│┐┐└├┴├┘┌│┌┐│~─┌└├┤┤└─~}}~|xuuwz{{{{|}~││─│┐┤┘┐│┌┐┘┘├┬┴┴┴┴┼▀┼▄██▌░▐▄▄▌▐▐▐▐▓■■■∙∙■■∙√∙√≈≤≥⌡°² ⌡·÷═║ё╓╒╒ё╔╗╝╣╧©абаабю╫ю╬╬©ююацбцддефхйммнпрсувьэщззвттжтсссрсуввжжьжрпппооооппнооннонмммммллммнммноннннооооооопопяяяпппоопяряояяяяяпппппоппяяярррррррртттррррясстттсувжвьзшэээээщъЮчщчщэшшээээщЮЦДЕЕДЦААЮЮААЮъЮБАЦБАЙ┘ъжужжжвввввьыььвжууспммммнооооопопппопртссствыззшэщщщщчщщщщэшззззззыыыыыззззззшышшзшээшшзззззьвжуууутсрссрррррряппяяррярряяясрпяяяярррррсссррстссрррряпяпооооонннмлккллммммнооноопятввтууттссттуутсстувтжжспокгфедбю©©©©╬╫╪╩╩╨╧╦╥╤╤╤╢Ё╢╤╣╣╣╢╠╛╘║╒╒║║÷ ∙⌠▓▒░░▐▌▄█▐▐█┼┤┘┐│┌┐┘┘└┌────││┌┤┼▀┘{vtssqoqspnmnnlkkklljhhjllmoqtxzz~}{{|yuuz{z{}|~┐┐│~~~{wwxywtrrsuvwx{}zx|}}~zx|xtstttuwwxxuqoolmnnpstssrpooqux}zwxzzxxtssssrtwvzwx|└░⌠▒░▌███┴└└}─├┬├└zwx{{{}}|}─┌└┤┼▄┬┤┴┼█▐██░░▐▐█┼▀▌∙⌡÷║ё╒÷═ё╕╖╘╚╚╙╚╜╞╟╡╣╧╪ацфкммлмммннннннонопяряярстуттттуужввььььызшшшшэшшшшзыыьыыыыыыыььввььжжжвжтсстспоппнлиххфецбаю©╬╩╧╦╤╣╡╟╝╜╛╓² ░┐~~─││─~|│└│}zwsqoosusrsqnnprsvz│└┤┴▀▄█▄█▐▐▌▀┬┘┐│┌┌─}│├┴┼▀├│{xtrrrqonopstvz│~|~│└┤┴┬┬┘~zz{zxyzzz{}~~─┌┐┌┐└┐┌┐┘├└┌│┌└├┤┤┬├┘└┘┘├└│~{wxzzz{}~─~─┐┤├└┐┌┌└┘┘┤┴┼┴┬┬┴┼▄▐▐▌███▄█▌▐▐░▒▓■■∙■■■∙√√√√≈≤ ⌡°⌡²÷═║║ё╓║╒ё╕╙╝╠╡╥╪ююабю╫©╬╬юаабдббддегхйллнярруввэщшзьутусрррстжвьжжывяоппооооппоппннннмлммммллмнллноононоооооонпопяяппяппппппппяяяяяпппппоопяяярррррррррссяяссяррсттствввызшээээээчъщщчэшззшээээъБЦДЕДЦБАЮЮЮЮъъЮБАЦБАЙ├─Ювужвжььвьызывуьусяоллмммнноооопопяпопртссстжьыызшэээщщщщщэшзыыыыыззззззшшшззззьзшззшшзшзызшзьжжжуууусрссссрррряяппяяяпррппясяояяяррррррсссррсттсряяяпояпоннонннммлллллнммноооопппятввттттттттужжутссужтввспнйдедца©╬©юю╬╪╩╨╧╥╤╧╥╤╥╤Ё╡Ё╤╣╣╣Ё╝╗ё═║║÷²²⌡≤⌠▒░▌▌▌█▄█▌▌▀┴┤┘┌┐┐└┘├┘┌│~─││~─┌┐│┐┤┼▄├|wuttrqqtrommnnnommmkjjmptuvwy{{z}|z}│─|{y}}}─│─││─~zwvwxywsqqrxxxwy|{vv{|}─|{}zvtssuwzz|{wrnnopppqssrnnnnnpsv{wux||ywtssstux{vwux|│▐≈∙⌠░█▌▐┼┘─│┌┌┌┐~yuwyy{}─~}~│┘┴▌┴├├┬█░▐▐▒░░▓░██▌≈·═╒╓ё·║╓╕╖╘╚╚╘╚╜╝╟╠╣╧╫абфкннммннооопоонннпяряяясужутссужввььввыззшшшшшээшшзыььььььььввьввьвжужвжтсстрпопполйххгецбаю©╫╧╧╧╦╣╠╞╞╜╝╗║÷∙├──┌┐└┐┌│~┌└┐│{vurquxwxzywwz{|~┌│┌┘┤┴▀▄█┴▀█▐█▀┬├┐─}|┌┌│─├┴┴┤┌}||xtrrrqpqqrtvx~└│─┌└└┌┌┐└┌|y{}~xxxz{}~│┐┐│┌┘┘└└┤┌├┴┼┴┴┬├└├┬┴┬┘┌─}}}{yxz{─~}─└├├┘└┌┌┐└└├┴┼┴┬┤┬┴▄░▒▌▀▄▌██▌▌▐▐░░⌠■■■⌠■∙∙≈≈≈≈≈≥ ⌡°÷║╒║║ё╓ё║║╓╘╝╞╞╟╥╫юацб©╫╫╬абббдабцефгхиллнярсуьвэщшшьуутсяррсуввьььшьроппооооппояпнмннмклннмлллмллнпоооооппппоопопяпопропяяпоопяяяяяпппппоопяяяппяярсстпяряяссрррстсстввьыызшэээшэщщщщчэшыызээээъАБЦДДДЦБЮъъъъчЮБАЦББК┤Авьывьввьызывжжспонмммомннооооопяяяппярсссрясвшщээччээъщщээшззыззззыыыьшзыыызшэшшшзззззыыыыыыыьввьвжуттссссрярсяяяяяяяпрррррсррряяппярррррррсссссссттсяяпооооннмлкллммликмннноппносввутстттттттуутсссуввусряниецццбю©юб╫╫╫╩╦╤╥╥╣╣╤╥╤╢╣╦╥╤╦╣╛╖╓║═÷·°⌡°°°■▓▒▒░█▀▄▀██┼┼┼┤┐┐┐││┐┘└────}~─┐└││└┤┼┤{yvtuutslnnmoomoqonosvyywx{~}{|┐└┘└│~{||{|}──}{zwuwxvuwvttx{yttxyvyyyy|│┌│─zvvxwwy{}──}xtrpqrrqppppppnnopouvvxz|xsqtwxyz{{vvuvz┐█∙■■⌠▓⌠■▒▄┐│─~}|}─|yyxtu{┐┌─}─└┘┌┘┬┼┴┬┬▀▌░░▒⌠⌠▓▒▓∙°║╒║╒╒═╒ё╔╖╗╗╘╘╜╝╝╝╟╣╫б©аехйкллнмнопяяппоопяррярррстужжужьвввьзышшшшээзээшззыыыьыыввьыььыьжжввжввжсррряопомккигфдбаюю©╬╩╨╧╤╢ЁЁЁ╝╜╚╔═°▓└─}}~┐┤┤┐~{yutw{}}}}}}~│┐┐┌││┤┼┼┴┼┴┼▀▀▀┼┬┤└│}}┌│┌└└┌─}||{xtqqqppswy|└┤││┌└└│──}│─}zyxxxyz}~}─┌┐┌││─|─┌┌┐┘├├├┬┴┬┤┬┼┼┴┬┴┴┤┘└└┘┐┌─~|{z|~~~┌┘┤┘└┐│─│┌└┤┬┼▀┴┬▀▀▌▒▒▌██▌░▐▐▒▓▒▒▓▐▓∙∙∙∙■■∙√≈≤≥ °²²÷║║÷·═╒║÷÷╓╚╞╟╝╜╞Ё╩аццц╫╬╬©©юацццдеефхиклнпясжььзшээшвттсррррсужввжвыжяоонноппоппоопяолоннмллллопппонноппооооонопяяпппяяяряппяряпопрсрпяяяяяяяяяяяяррррррррсссстсррсууувьзэщщэшзшэээщщчщэшзззшэшщъАААБЦДЦЦЦБАЮЮЮБЮААБК├Бвьывььыььььвусяпнннмноонннноопяяяяяяяряррррсувззэээшшщщщээшшззззззыыыызззыззшэшшшшшшшшыыыыыыььжжжжтссссссррярсрррряяярсррррсррряяяяррсррррссссрррсссряяпоноонннмлллмллйлмноооопоосввутттттттуууутсстуввжуспкгецццбю╬©а╫╫╪╨╧╥╥╥╣╢╣╥╦╦╦╧╦╤╢╟╗╓ё═÷·²°⌡⌡⌡⌡∙▓░░░█▀▀▀▄▄┼┴┼┬└┐┌─│┐┌┌┌┌─~~─┌┌─│┌┌└┐}}|{{zxtqpqonppprrrsvz}~}{|~──~}{┐└┘└│~{{{{|}~~}~~|zyxwyzxwxxx{xwvvxyxuvvx{~─│┌─}yxxxxyy|─~zxwssrpnmmmnnnmnopoqrtwz{wqqsvxz||zwwxx{┌▄⌠√∙■■■■▒█┬┘─~|zz{|xwwtu{~┐┐┌─┌┘┘┐┐├┴┴┴┼▄▌▐▐░▒▒▒▓■ ═╓╔ё╒║║╓╔╕╖╗╗╘╘╙╛╝╞╠╣╨©╬адхйклмнннопяяппппяррррррсстужжувььььышышшшшээзшшшшззззьыьввыыььыывжььжжвусрссяопомкйиффдбаю©╬╬╪╩╧╥╣╢Ё╡╞╜╙╕╒═≤▀│──│─}|}─┐└┌─|wtx}~}|~││┐┘┘└~─┘┴┼┴┬┴┼▀▀┼┴┤┤┐│~~─┌┌─┐└└┐│─~|yxvsrttsvy}─┌┐┘┤┌┌┐└┐─}|}}~~~|{wwwy|~}|~┌┘└│────┌┌┐┘├└├┤┤├┤┴▀▄┼┴┴┴┤┘├┬┬┤├┘└┐┌─││─│┘┬┴┬├┘┐││┐├┬┴┼▀┴┴▄█▐▒▒▌▄██░▐░▓▓▓▓■▒⌠■■∙∙■▒■∙≈≤≥ °²²·÷÷²²÷║║═╒╕╚╞╞╜╜╜╟╣╩╬ад©©©©©©©©цддеефхиклмоясувьзээээыуусррррсужьввьыжяоннноппппоннополммммммммнноонмнняяппопппоппппопяяяяяппяряппяррряррряяяяяпяяяррррррррсссстсррстуувьзэщщэшээщщээщчщэшзззшшэщЮААЮБЦЦЦЦЦБААЮАЦАБББК├Бвызьыызьвжвжсппонооннопоннннопяяряяяррпярсррствзээшшээщщщээээшззззыыыызззззшшшзшшшшшээзззыыььвжжжуссссрссррярррррррррссрррррряряяяррссррссссссррссряяяппоннннмонмлммллллмнопоопоптввутутттттуууутсстжввьвтнифеббббю╬╬©╫╪╩╨╧╦╥╥╤╢╢╤╧╨╨╨╧╢╟╙╓║║÷²²°⌡    ≈■▒░░▌▄▀┼▀▀┴┬┼┬├└┐──││┌┌┌│──││─│~||||{xtqsrnmoqrtwx{~│┌│~│┐┐┌}y|─┌┐└┌─~|{{|{{z{}~|yxyyz|zxyy{zusvyxuttuy│─│┐│─}ywwxwy{~~|zzvuspmkklnnnnoqqpmpsw{{vquuuwz{yutvwx{│┼░≤√∙√√■▒▐▀┘||{{{}xvutv{}┌┘├└└┘└┌│┐├┬┼▀█▌▌▌▐░░▒■≈÷ё╖╗╔║║ё╖╖╖╖╖╗╗╗╘╚╝╠╡╣╧╪╬юдгиклмнноопяяппяярррссрсстууужувььььзшызшшшээзшшззззззвььвьызыыыыввввжжжусрссрпппмкигеедбюю©╬╫╫╩╧╥╤╣╢╡╟╜╚╖╓ё²▓┐──zy{~~─┌┌┐└─zvy~│}┘┴┤└└└┌}}~│├┼┬┘├┬┴┼┬┤├┘┌│─│└┘┐┘┘└┌┌│|wvtrsvwv{~┌┘├┘└┐┐┐┐└┌}yx}|{}─~{xwx{─~}┌├┘┌──││││┌└┤┤┘┤┤├┘├┴▀▀┼┴┬┬├┘┤▀▀┼┴┬┬┬┤├├┘└┐└├┬┴▀┴┬├└┌┐└┤┼┼▀▄┼┼██▌░░▌██▌▐▐░▓▓▓⌠∙⌠■⌠■∙√■▒∙√≤≥ ⌡°²···²°°·÷═║╓╗╚╜╜╛╜╛╜╟╢╧юедца©©юююцдееефхийкмопртжызээээзвусррррсужьььызврннмнопппоонмнонммммммммммнннннннппооооопоппппопппяяпппяяппяярряяссррряяяппяярррсррррссссссррстуувызэщщэшщщчщщэщщчщэшзззшшщъЮъъЮАББЦЦЦЦБББДББББК┘─Бьышызызьжутсяонннппонопоонноопяяяяяяррпяссррррузщэшэщэщщщэээээшшззыыыыыызшшшззшшшшшшшшзззыыььвжвжутсстррррррррррряррссссррррряяяяяррссррссссссрстсряяяпонннннмннмммммлмллмопонпоптввусуутсстуууттстувььывсниффаабба╬╫╬╫╩╧╦╧╧╥╤╣╢╢╤╧╨╧╧╥╠╛╖║═║÷°⌡ ⌡ ≥≤≥≥√▓▒░▐█▄▀▀┴┤┤┬┤├├┘┌───~││││────}|~|}}yyyyywusrqnmruvy─┌└├└│─┌└┤┤└|xy{~─┌┐└┌~|{{ywv{}~{xwyzy{zyzzy|{wtuwvtsuuy─}~┐│┌yvvww|}}{zzzxvspnnnpponoqpomptz}}wswusuy{wqpsvx{│▀▓≤∙∙≈≈⌠░▐┴┌{{}───│{vuty~~┌┘┬┤┘└┐││┌┐├┴▀▄█▐▌▌▒⌠∙≤ ║╓╗╙╕║╒╕╖╖╕╕╕╖╗╗╙╛╟╡╢╤╧╩╬юцфийллнооппяяяпрррррстсстуууууужвввьызызшшшэшшзззззыыьвььвьзззьььвжжжууттсрррряяпнкхфдддба©╬╫╫╪╨╦╥╥╥╣Ё╟╞╝╙╔ё·∙┬┌~~zy|}}~│└└┘├└{|┌│┌┼▌┴└┌┌─|}||┌┬┬└┐└├┤├┘└┐┌┌││├┬┬├┘┐│││}ywtqpquwx│└┤┤┘┐┌┘└┐┐─{xw|{{}|yzxy}│┌│─}│┘┘┐│─│───│└├┤┤┬├└└├┬┬┤┬├├├├├┤┼▄▀▀▀▀▀▀┼┬┤┬┴▀▀┼┼┼┬├┘┐┌└├┤┼▀▄█▄▀█▀▄▌▌▌▌▐░▌▐░▒▒▓⌠∙■∙■■∙√∙⌠∙≈≤ ⌡⌡°²··²°°°···║╕╙╚╛╚╚╜╛╚╛╝Ё╪цффцю╬юбдцдееффгхиклноястьзшшээшыжтссррсужьььызвсонмноооооонммоомнннмммллннннооооооопппооппппппппппппппяяппяяяяяррссррряяппяярррсссссссссссрсстууьышэщщээщщччщщщчъчщэшззззщччччъЮБЦДДЕДДЦЦЕЦЦБЦК┘─Бьышьыььвутрпоонмнппонооопппооопяяяппяррсссрррссьэшшщщэщщээээщщшшззззззыызшшззышшшшшззыыыыыыыььжвжутсстсрррррррррряррссссррррряпяярррссррссссссрстсряяяпоононнмнмлммнннмллмооонооптвжтсуттссстуутсстжььзьуянкгфююаба╬╫╬╫╩╦╥╦╦╥╣Ё╢╤╥╧╧╧╧Ё╜╘╔║║║÷²°⌡°⌡≥≥ ⌡≥∙⌠▒▒▐█▄▀┴┤├├├└┤┘┐│~~~─│┌┌┌│|yz{yzzxwwwwwvusstrty|~│└┘├┬┬┤┘┐┐┐┘┤┤┘┌─{{z{}─┐┘┐|{{ywvy{|yuuvvvxwx{zvuxyxwvwusutv{{wy│─zvwyz~}{{{||zxusssrrpnnonmprw|}xtrporx{xspsvy|┐▄⌠√■■√√▓▐▐┬─yz┌└┐┐}xuv|││─└┬┴┤├┘┘└┐┐┘┬▀██░▌▌▒∙≥°·╓╕╙╚╗ёё╖╗╕╔╔╖╗╘╙╛╝╟╡╢╤╧╩╬юцфхиклнооппяяяярссрярссттуужжжужжвввьыыызшээшшшшшшзыьввььвьзшзььввжжууттссрррряпонкхедддба©╬╫╫╫╩╦╥╦╥╣Ё╟╠╠╜╖ё÷≤▐├─~─~┌┘├┬┴┬├┐││┌┐└┐┼▌┴┐│┌┌{{yw|└├┐│┐┘├├┘└┐┐┐││├┴┬┘└│~zvvsooqux{└└┘┤┤┤├┘├┘┐┌{yyz|~}zy{z{~──~~─┌┐└┌│──────│┐┘├└┐┘┤┤┘┐┤└└┘┤┤┤┤▄▄▄▄█▌▌▌┼┼▀█▐░▐█▀┴├└┌┌└┤├▀██▌▄┼▀▀▀▄▄█▌▐░▌░▒▓▒▓⌠∙√≤≈∙■■∙■∙≈≥  ⌡⌡°··²°°²·÷÷ё╗╚╛╛╛╜╜╛╚╙╚╞╤╪бееб©©абцдееефгхийлнопрсвышшшэшзвуссррсуувьвьзвспонннннноонмноонннннммллннннооооопяссряпяяппяяппппппяяяяппяяяяяррррссрррппяяррррссссттттрсссттужыышээээээщччщщччъччщэшззшщъчщчъъАББЦЦДЦЦДФДДДДМ┤─Цыызвьжуутроннонннппононопяяпоопяяяппярсссрррссруьызээшщщэээээщэшшзззззыззззззышшшшшзыьыыыыыыыыжжжжтсссссрсссррррррррррсрррррряпяяррррррссттсссрррряяяяпооооонммлллмнннмммнноонооятвжтсууттстттутссувьышвсонкхеюююаю╬╫╬╫╩╦╥╥╥╤╣Ё╤╦╧╧╧╦╥╜╘╕╓║╒╒═÷²²·² ≥⌡⌡ ≈■▓░▐██▀┴┤├├┘└├└┐│}}~──│┐┐┐┌~yyzxxwtrstttsrquxyz│┌┘├├┤┬┬┴┬┬┘└┐└┘┘┘┘┌|{{}┌│~|}|ywwvxxurqqqsttvzytqrwzyxxvswtuxwuw}}|zz|~}~~}~~~~}{ywwwxwuqppqpuvy}|xuqomouywspsvz~└▀░■⌠■∙■▒▌█┼│yy}─│──{xvx~┐┌~┌├┤┤├┤┬┤┘└┘┴▄██▐██░■≥²║╗╙╜╜╘╕╔╖╗╖╔╕╗╚╛╜╝╞╟╠Ё╤╧╩╬юцегиклмнопппяяррссррсстттуужввжввьььыыыызээшшэээээшыььвььььзззыььььжужутсссяяяяпонкгедддца©╫╫╪╬╪╨╧╦╥╢Ё╡╡Ё╟╘╔║°⌠▀┌─│┌┌┐││┐├┬┼▄▀▀┴┘┌┌┘┤├▀█┴┌─{zxvy│└┐┐┐┘├┬┤┘┌┐└│~─┘├└┌│~||{xtwtssvz└┤┘└└┘├├├┤┘┐│}||y|──|{{~}~││~||───┌┐┌┌┌││─}|┌┐┌┐├┬┤└┌├└└┤┬┬┤┤┴┴┴▀▄███▄▄█▐▒⌠⌠⌠▐█┼┤┘┐└┤┬█▌▌▌▄┴┴▄▀┼▀▄██▌▐▓■⌠▒▓■∙ ⌡ √⌠⌠■■∙≈≥     ²²²²²²÷═║╔╙╜╜╜╝╞╝╜╜╜╜╝╡╥╪бгфдбю╬бцдееефгийлмнпяржышшшшшзьжтсррсуувьввыьуяпоннннмноонноонмммнннннммммноонноярсряпяяяяяяяпппппяяяяппяярряяяррсссрряяяяярррссттттттрстттужжызшшэээээщщщщщчъччщщэшшзшчЮчщъАЮЮЮЮЮЮАААЦЕДЕДЕН┴│Цыызжжусряооооооноппннноопппппппяяяппяррррррсссрртьзшшшщээшшшшээшшззззшззззззззшшшэшззыыыыыыыььжжввжтссссссттсррсссссррсррррсрряярсссрррсстттссрряярряяппоооонмммллмннмннооооопппруьвутууууутттутссувыышврнлифдбаюаю╬╫╫╫╪╧╦╥╥╤╤╦╧╨╨╧╥Ё╞╗╔╓ё║║╒══·²÷· ≥   ≥■▒▐█▄█▄┼┬┤├┘┘└┐┐┌│││──┌┌│─~zz{xvusppppqrstz}~││┌┘├┘┘┘└└┘┘┌││┌└┘├├┘┌~|zz{~~}~─~yuusuurponloppqvvsspruwvtstvttvwvx}|}~{{||}──│┌─}zxwxy}}zvtuwx{z{~~{wuqomnrvvsqtx}┌├┼█■∙∙■⌠▒▌▀┴│xwz||{yvvwy┐│~─┐└└└┘┤├├┘┤┴▀▄█▄▀▀▄▐■°ё╙╜╝╜╚╙╘╗╘╖╔╔╗╛╝╞╞╞╟╠Ё╤╧╩╫©бдгикмлмопппяррярстуууутттужьыььььыыыыыызээшшэшээшзыьььыыььызыыььььжужжуттсяпяпоннлгедддцб©╫╫╫╫╪╩╨╧╥╤╤╤Ё╡╞╙╕╒²⌠▌┤│─┌┐┌└┐┐├┬┴┼▀██▀┘││└┤┼▀▄┼┐}{}|{zx{─└┘├┘┘┤┴┬└││┐│┌┤├│~|zyyvsvvwy|└┴┴├┐┌┐└┘└├└┐┌─~}}{}}|{{│└┐~─│──│┌┌┐┘└│~}}│└┐┘┬┬├└┐┘┘├┬┤├┤┬┤├┤┬┼▀▄▄▄█▐▒⌠■∙∙⌠▓░▌▄┴┬┴█▒░█▄┼┬┬▀┼┴┴┼▄██▐⌠∙⌠▒▒■∙⌡⌡≥∙■■∙■≈≤ ⌡⌡⌡   °²²°²÷║╓╖╚╛╛╛╜╞╞╝╝╝╝╝╟╡╥╫цфггд©бцдеееефийлмнояржьшшшшшыыжтсррстжвьжвыьжяпонооннмоонноонлммнннннннмнооонннопппппряппяяпппппярряяяппяррряяррссряяяяяяяяяяссссссссрстууужвззшшэээщщщчщщщщчэээээшзззчъщщъАЮъччщщчъЮЮБАЦЦДН┬│Дыыыжуссянмоппопоопонмнооооппяяяяяяяяррппярссррсясвшшшэщэшшзшшшээшззззшзззыыызззшшээшшззззыыььвжвыывжтттсссттсррстттсрррррррсррярссссрррсстттсстсррссррппоопонмнмллммммноппоопяппржьвутужжжжуууутссжьыззврмйхецдбаа©╫╪╪╬╪╨╦╥╥╤╤╫╪╩╧╦╣╜╕╕ёё╒÷═║═÷²²·²≥≤≥≤ ≥■░▌▄▀█▄┼┴┬┤├┘┐┐┐└┐││┐┌─~~──~}{xyzwutrrqonpsx{┐┐┌┌│┌┘├┘└┌─~}}|}┌└┘└┐┘│}{zxy{}}─┐xrqrssqonmkkmlmqstwsporqnousrrtuvx|||┌zwx|}─││┌└│─|yvvwx~~}xvw{}─~}~~zwvnmlmqvwvsv|┌┬▄▌▐■√√■▓▒█┴┤wuxzyyrqtwy┌──││─│┌┘┘┘┤┴▀▀▀┴┴┴┴┴▐ ╓╘╛╝╜╛╜╛╙╘╖╓╔╗╛╝╞╞╟╠╡╢╤╧╩╪╬адгилнлмооппяряяясуввжууттужьыььььыыыыыыыээшшэызззыыьвызыььыыььввьвутувууутяпяпнннлгеддддб©╫╫╫╩╩╩╩╨╧╧╧╧╣╠╝╘╕╒⌡⌠▓█┘┌┐┘└┐└├┼▀┼┬┬▄█┴┐─┐└┬┬┴┼├}~}}}|~┌┘┤┬├┘┤┴┬┐│││┘┼┤│|{zxxxvstux{}~┐┬▀┬└┌┌└└┐┘└┐┐│}}~~~}{zzz|}│┘┐──┐┌││┌│─┐┤┘│~~─┌┐┤├┤┴┬┘┐┌┐┘┤┬┘└├┼├├┤┬┼▄▄▄┴▄░⌠■■⌠▓∙■∙■▓▌██▒■▓█▀┴┤┤┴┬┤┬┼▄██▐⌠∙⌠░░▓■ ≥√■■≈≈√≥⌡²·²°°°≤ ²²°°·║╕╗╙╚╚╚╛╜╛╚╚╛╛╚╛╝Ё╦╪юеифаацдддеефийлмнопяуышэшшшыывтсррстжььжжыывпооооооолноннннмнннннмммоонопппоооооппяряяппяяпопппяррряяпопрсрпррссрряпррряяяяяссссссррртуууужвззшшээщщщччщщээщзшшшшшззыщчээчЮъъчщээщчъщъчЮЮБЛ┤│ъьвутсяпонноонмнппнмопонопяяяяяопппяяррппяярррсястжьызшзшэшззззэээээшыыььызшшыьшэщэшзшщшзыььььвувььжтссрссттттттсрстттсссттсррррряярссстсррстссряярсссроооннмммллллммннппоопппояятввуттуужжжжжжттувьыззвтяпмхеецю©ба╫╫©©╩╧╤Ё╣╧╨╪╩╩╩╤╜╖╖╔╓ё║════²°°⌡≥≤≈≈≈√√√⌠▌▄▄▐█┼┬┤├┘└┌│┌┐┐┐└┤└┘┌}{{|}|{xuuwuqonotwx|│┌┘┬├┐│┌└├┴┤┌|wvzxz|~│┌┌──|zyxwwy}~ysnppqqnjjlmllklnqtsrrqqppponmqvzzy~~~}|zy}}}~│└┌~~}{yxwvuz||{yy{}|─~yustsqopuyyxy~┌├▀█▌▒■√√∙⌠▒█┼┴─xuuwupqqruy~│┌┌││││─┐├┬┼▀█▌█┴▀┼┤┴▒≥·╗╙╛╝╞╟╟╟╚╘╖╖╖╖╙╝╞╟╡╢╤╧╩╫©адефхкмлнппоопяяррсстжььжужьывуьььввьыышззээзшщзэшьвьыыыььыззьжжжжввууужжутсрпппонмкигедбаааю╬╪╬╪╨╨╩╪╩╧╤╡╠╞╛╗╓÷≥■▐┴┐┌┐┌││┘┼▄┼┬┬▀▄▀└~│~┐┬┴┤┐~z|yz{}─┐├┬┴┤├├┬┤└─}┌┘┴┼┤┌|xwwuwzyz{xvz┐┬┬┤┐─│┘├└┌─┌┐{~~{z{zxz~─│└┐│┌├─|{│──~──│┌┴┬┬┤├├┘└└├├└┐└┘┘┘├├┘├┬┴┴┬┼█▐▓∙√■∙≈≤≤√■■∙≤≤√▓█┴┬┴▀┬┤┬┴┼▄█▀░⌠⌠▓⌠∙√≤√■■≈≥≥≤²°  ⌡°°⌡²²°⌡⌡²═╒╕╘╛╚╘╘╛╞╜╚╙╛╝╝╝╞╠Ё╥╫цффеабдеедеггилллнясуьзэшзыызьжтсрсууууувыьвроопнопннппнмннннмлллллммнпоннояппппппппряяяяяпоопппяярряярсссррсяппяяпояяярссрртссррсстсссстжьзшшээээщщчщщээээщзззыыызззшщччччъъччщщчъъщъчЮъъИ┘│Юьжтсряпонноонмлноммопппппяряяпппяяяррряяяррррсярсуьзшэшэээшшшэшшшшшзыьыыыззззызшээззшэшзыыыыььжвввжуттррсстттттссссссррсттсррррряярссрссрсттссррярррряпппоооннмммммннноннопппоопсжжтссуууужжжжуувьыззшьуянкгедцю©аа©╬©╫╨╧╦╥╧╪╪╪╫╩╤╟╚╗╕╔╔╓╒║║║═²²° ≥≤≈≈√∙√√■░█▄▄▀┴┬┤┘└┌┌─│└├├├┤┐┐─|z{||||{yxvtqrrty}~│┘┘├┤├└┐└├┘┤└─}ywywyz{|~~}}{wvutqswz{ytqprrpooomjnpmijouwvtrqponmmmpsuvv|zxxxyyz{{{|│─|~~}|{{|||||}}}~~}~~}zwtsrrrsux{}─└┤┼▌▌▌▐∙≈≈∙⌠▒▌▀▀└}yvvtpqqsvz~│┌┌│││┌┌┌│┐┘┴▄░▒░█▀▀┴┬▀▓⌡═╗╙╛╝╞╠╡Ё╝╛╙╙╘╘╚╝╠╡╣╥╦╧╩╪©адфгхкмкмопоопяярсстувьывуувьвжьььььыыызззээшшщшщэзьызызыьыззьжжжжввууужжутсряппонмкигеедбю©©©╬╫╪╩╩╫╬╫╪╤Ё╡╠╝╛╗ё·≤▒▀├┘┤┘└┘┤┴┴┤┤┴█▄▀┘~~|─┘├┘┐~zzxyz|~─┌└├┤┤┤┴┼├┌z|─┘┴┼┘─|xwxwy{z|}zy}─┐┤┤┤├┐│┌││││┌└│─┐─|{{{z|─~─┐└┌┌┘─}|─~}~}~───│┐┘┤┤┤├├├├┤┤┬┤┘└└└┐│┐└└└├┴┴├┴█▌░▓▓▓■√≤≤≈≈≈≥  ≤∙▒▌███┼┴┴┼▀█▐▄░▓▓▓⌠∙√∙■⌠∙≈   ≥≥≥≥⌡°²²÷═══÷═ё╔╗╘╙╙╙╙╜╞╜╛╚╜╝╜╜╞╞╟Ё╦╬бегдццдддеххиклмнпртвзэшзыыэзьжсяртужжжвььвяоопоппнмоонмннмнммллллммноооооояяяяяяяяяяпяяяяппппяяррррряяярррряяпппппяяяррсррррррсттусссттжьзшшэээээщччщщэээщшзззызззышщчщщчъъчччччъъчъчЮъъИ┘│ъвусряоонннноннмноннопяяяпяяяпояяяяррррррррррссррртвзшээээээээщшшшшшзыызыыызззыызшшзызшэшзыыыыьжввжуууурсссстсстттссрррярстсссссряярссрссссттсссряярряпоооонннннннммнннмммноппонпсужтссууууууууужвьыззшьжялигецца©©аа©╬╪╧╨╨╧╪©╬╪╫╧╟╙╗╖╓╓ёё╒║═÷÷·²⌡ ≤≈≈√√∙∙√∙▒█┼┴┴┬┬┤├┐┌│──└┤┬┤├│─}{z{{{zzzywsrsyy{─┐└┘┬├┘┘┘├├├┘└└│~~|xyxyyxyz{{z}~zvsrropswzzxurtsnosrnjnqollrxwusrqonlmnopqstuwuttuvxyzzz{}~{}}}}~─│}||}─}~}}||zvtqsuuuw}┌┐┤┴▄▒▒▐░∙√≈∙■⌠▒▌▌┴┘─yvurqrsvz}─│┌┐└└┐┐┐└└┘┬▄░▓░▄█▀┴┼▐∙·╓╗╘╚╜╝╟╡╢╠╞╜╛╚╚╛╞╠Ё╤╦╧╨╩╩юбдфгикмкмопппяррссттувььвжуужжжввьыыыыыззшээшэщэщэзыыыыыыьыыыьжвжжввууужуутсряппонлкигегебю╬╬юа©╬╫╫╬©╬╫╥╢╢╣╡╟╜╗╓²∙▐┬┤┬├└┤┴┴┤┤┬┬▀┴┴├|}|~┌┐┐┐~yywwyz|}~~│┘├├┬┼├─wy}┐┴┼┘~zyyz|~|||─┌┐┘┘├├└│~}│┐┌││││└┐│││──┐~~│└┘┐┌┐│~~──}{{{}~─┌└┘┘┘┘┘├┬┼┬┬├└└└┐│─┐└┐┐┘┤┴├┼▌▐▌▐▒▒⌠∙√≈≈≤≥⌡°⌡ ≤√■⌠▓▒█▀┼┼┼▀█▐▒▓▓▓■■■■⌠■√≤  ≥≈≈≤≤≥ °²·÷║║║╒╔╖╙╘╘╙╚╜╝╝╞╞╞╞╞╝╞╠╝╞╠Ё╥╫бффеддддфхиийкмнпяржзээзыьэшывтяртжввжвььвяопяопянмноннннмнммлллллммнояяоняяяяяяяяяппяяряяоппяяррррряппяяряяяяпппяяяяярсрряррсстттрсттужьзшээээээщъъчщщщщщшшзззыыыьзщщээщъъчччччъъъъщъъЮЙ┘│ъжтряонннннннннппяпппппяпопяяпнрррррррррррррсссутссжьззшшшшшшээшшшэшшшзззыыызззызшшзыззшшззыыыыьввжууууссссстссттутррстрсттсссссряярсрррсстттсррряяяяяпоонннннннннмммннммнноооооятвжутутттттуууужвьыыыывжрлхгеаба©╬юбю╫╩╧╨╨╨╫©╫╪╧Ё╚╖╕╔╒ёё╒╒║═÷··²⌡≥≤≈≈√≈√√√√⌠▌┴┬┬┤┤┤┤┘└┐┌┌┐├┤├┘│|{{{{zywvwvtvy│─┌┘┤┤┤┬├┘└├┴┴┤└┐┐~}z{{|{yyyzyy||zvtsroprvz{yvrtspoqpmnnnnoqstqqponmmmoonnoprsrrrsuvvw|{zz{|||}}~─│┌┐┐─~~~─│──~~|zxsuwxwy─├┤┴┼▄░▒▐▒⌠∙√∙∙∙■⌠░▀┬└}xwusstvy|~┐└┘└┐┐┘├┘├┤┴▀██▄▌┼┴▌⌠≥÷╔╖╖╘╚╛╜╞╡╠╟╞╝╜╜╜╞╟╡╢╥╦╨╩╪абдфхикмлмоппярсссттужвььввжжужжжвьызззыызшэшшэщэээзыьььыьььььвжвжжввууууууутряяпомлкигфгфцю╬╬юцбаю©╬╬╪╩╧╤╤╥╢Ё╞╙╕÷≥▓┴┘├├└┬┼┴┬┴┼┴┤┘├├─|}~│┐┌│┌~zyyyz|}~}|└┤┤┬┴┘y{┘▀█┴┌─{yyz}─~─}~┐┌│┌└└└┐┌──┐┌~}||~└└┘┬┬┘┌┌~─└├└───┌│~{y{}~~~~─┌└┘┘┘└┘┬┼├├├└┐┌││┌┘├┘┐└┤┬┴▄███▌▐░▓⌠∙∙√≈≥ ⌡    ≥≤≈≈⌠▐█▀┼▀▄▓▓▒▒⌠■■⌠∙∙√≈≤≤≤≈≈≈≤≈≈≤ ⌡²·÷═║ё╕╘╚╘╘╙╜╞╝╜╞╞╟╟╞╞╟╡╠╠╠╡Ё╥╬бггггедфхииикмопорузщэшыьзззьустввььввььвяопяппянмнооонммннмлллллммнопппояяяяяяяряяяяяяяяооппяярррряяяяяяяяряпопяяяяярррррссттссррстуувьышээээээщъъъчщщщэшшззыыььвзээшшщъъччччъъъЮЮщъЮАЙ┘─чусппонннннннннппяяпппяяпппяряпяяяяяяяяррррссссутрсувыззшшшшшшшшшшшшшшшшзыыызззызшшззззшззыыыыыыьвуууттттттттттстттсстустуутсррсряярссррстттссряяпяяяяппппооооонннмммммннооооооояуввутжттттттуужвьыыыыыуурлигдюаа©╫╬аю╪╩╨╨╩╩©ю╪╧╡╚╗╖╓╒║ё╓╓ё╒║÷÷·° ≥≤≈√√√∙∙√≈∙░▄┴┬┤├┤┬┬┴├├┘└┐└└┘│|{{{{zzwwz|}│┘└└├┬┬┬┬┤┘├┴▄▄┴┘│┌│─}~||{yyyxwxyyxxwurmnquxywusstrolklpnllnponmnonmlnpnlihjlnnopqqrstt}{zyyz{|}┌└├┤┤┤┐┐┌│──│┌│┌┌│|||yyz|}└┼▌▌▄▀███▐⌠∙√√≈≈√■░┼┤└~zxvvvvxz}~┐└└┐│┌└┤└┤┴┴┼▀███▀▄▓≤²║╔╗╖╗╙╙╚╜╞╡╡╡╟╞╝╝╝╠╡╢╣╥╧╪╫абдфхйлмнопяяррстттуужввввььвжжжужьызззыызшшшээщээшшыььыыыььььввьввввууууууутсяяпнмлкигфеедбю©абдцаю╬╫╩╨╨╥╤╤Ё╠╜╗ё·⌡■┼└├┤┬┼┴┤┬▀▀┼├└├┤│|~─┘├┐││~zz}||~─│}~└┬┬┼▀┤┌││┐├▀█┼┘│|yxx|}┐┌─└┌┐┘┤└│──┐┌}|yxy│└┴█▄├─}~┌├├│|{}|}─┐┌~{y}}~│┌├├┘└┐└├┬┘├├┘┌─│┌┌┘┤├└┘┤┴▀▀┼┴┼▄██░▒⌠■√≈≤≥≥≥≥ ⌡°°⌡⌡≤■⌠▒▐▐░▒░▐░⌠■■■∙√≤≤≤≈√√≈≈≈≈√≈≥ ²²²÷╒╕╙╛╙╘╘╚╝╞╜╚╚╛╜╜╜╝╟╠╠╠╡╠╡╣╨╬дхкйгеегииикнопорузщщшыыыыыывууввььввьььяопяопянннооонммнммллллллнооннпяяяяяярррррряяппяоопппяяяяярсрряппяряпопяяяпярррррссттссррстужвызээщщэээщъъччщщээзззыыььввышшшшщчччччччъъЮЮщъЮАЙ┘эсяоонннноонннннноппппряяяярррряяяяяяяяррррсссссррртжызшшээщщэшшшшзззззшзыыззззззшшшззззззыьььыыьвуууутуутттттттттссстустуусрррряяярсссссттсррряяпяяряяппоонооонннмммммноопооннояувжттуттттттуувьызззыыутямйгдааю╬╫╬ю©╪╪╩╪╪╫аю╨╢╛╕╕╖ё║═╒╒ёё╒═·²²⌡ ≥≥≤√∙⌠⌠⌠■√√⌠░▀┴┤├┤┬┼▀┬┴┤└┌┌┐┐─~|||{{|{{~┌┘├┘├├┘┘├┬┴┬┬└└┘┬▀▀┬└─┐┌││─│|{yxxywtxxxwwxurmoquwxwvssttojikjlmmmnpqmopommnpmjgfhklmooonoprs{zyyyyz}}┌┘┤┬┤┤┐┐┐││└┐┘├└─}}}{{~│┌├┼░▒▌▄█▌▐▓√≤≥≥≤≈∙⌠▐┬┐│|yyxyyy{}──┐┐┐┌││└├┐┤▄██▌▐▐██░√°║╓╕╚╘╙╚╚╙╚╝Ё╢╣Ё╠╟╞╝Ё╢╣╣╥╧╩╫юбцфхйлмоппяррсстттужжввжвьььвжжужвыыыыыьзшшшэщээээшзььзшзыььььььввввуужжжжутсяппомлйигфеедцббббцбаю╬╪╩╨╨╤╣╢╟╝╚╕═° √▄├┬┼█▀┬┘├┴▀▀┴┤┴┬│}~┤┤┐──~|}}|{}─│}}│├┬┼▀┴┤┤├└└├┤┘┌┐|{z}│┌~}─┐│~│└┌┐┬┴┘──┌─}|ywx┘▄░▌┤─}┐├└}xxzz|│─}{{{{|}│┌┌├┘┐┌┌┐└┘┘├├├└││┐│└├├┘┤┴▀▄▄▀┴┼█▌█▌░▓■√≤≥ ≤≤≥≥ ⌡°²⌡≥≈≈√∙■■▐▌▌▒■∙∙∙■∙≈≤≈√√√√√√√√≤ °²°°·ё╗╚╛╘╘╘╚╜╜╛╙╘╚╛╛╜╞╟╠╞╟╠╠╠╢╦╩юфллигфеииикнппоржзщщшзызыззьжужвьыьвьыьрпппопяоонноонммммллллммлнооннпряяяяярррррряяппяпппппппяпярссряпяяяяппяяяяпяяррряррсстттсттужьзшээщщэээщччччщэээззыыььввььызшэщщччччччччъъщЮЮАЙ┘}шрпннннооооннннннояяопрпярряярсяярррррряррррсссррссствзшшэщчщшзшшшзззззшззззззыыззшшззыыззыьььыьвжжжжжуууттссстттсрссссрсттсрррряяярссссттсряяррряяяяяпооннннноннннмнннмнопооооояувжссуутттттуувьыззыыьжсомйгддаю©╬╬╬╬╫╫╪╬╬╬ю╪╢╛╗╔ё╓ё╒║═║║╒║÷²⌡⌡ ≥≥≥≥√■▓▓▓▒⌠∙■▒█▀┬├├┬┴┼┬┬├┐│┌│─}{{||{{}┌└┤┬┴┴┴┤┬┤┤┬┴┴┬├││┌└├├┘┐│┐┐┌┐│─┌|xvxzxuzzyxwvusqstvvwxytuuspnllgknnmmqtonnmmmmmjihhikmnoppppqrtxxyzzz{}─│┌┐┐┐┌││─┌┘┬┼┼┤┌│─}|─┌┐├┴▐▒░▌▌▐▒√≤ ⌡⌡ ≤√⌠░┬┌zwyzzz{|~─││└┘┘┘└└┘├┘┬▄▌▐▐░▐▐▓∙≥·╓╗╘╛╚╚╜╜╚╚╝╠╢╣╢ЁЁ╡╠╡Ё╣╤╥╧╪╫юацехклмоопярстттттужвжжввввввжжжжвььыыыьзэшшэщээшшшзььзззыьвввьыввввуужжжжжтсяппомкйхгееедддддцббаю╬╪╩╨╨╤╢Ё╟╝╛╖╒°≤∙█┬┴▀▀┬├├┘├┴▄┼┼▀┬│}~~└┘┌──~}~}{z}─┌─~}└┬┼┴┴┼┴┬┘┌┌┌│~┌─~|┐└~│┐│─┐┘││┘┘─}─|{zwuy~├▌░█┤┌─│┐└┌}zyz{}~}~{zz{││─└┌──│┌┐┌└┐┌└├┘└└┌└├├┤┴▀▀▄██▄▄▌▌▌▌▐▓∙≈≤≤≤≈≤≤≤≈≤ ° ≥≥  ≥≈≈⌠▒▓■√∙■∙▓■√√∙∙∙√√∙∙∙≈≥⌡°°⌡⌡÷╔╘╙╗╗╗╘╘╘╘╙╙╙╚╛╛╝╠╠╠╝╞╟╠╡╢╥╧╫бхккйгдхийлноппржзээшыышыызывутжьыьвьыьсяппнояопнноомлмммллллммлмоооопяпяяяярррррряппяряяяяяяпппяяррряпяяппяяяяяяппярррррррсттуттуужьшээщщщэээщщщщщщээшызыыыьввыььыэщщэщщччччччщъчЮЮЮИ┘|зяонннооопонннопопряоояояряоопррррррррряярррсссрстсрсуьшшэччщшыээшшшшшшшззззззыыыззшзыыыззыььызвжуужввжуутсссссутрррсррярсссррряяяярстттттсяпяясрряяяпоппооооппоннннннолмооооопоржьжссуутттттуужвьыыььвврнмйфефба©©╬╫╫╬╬╬юю╬╫╥╛╕╖╔║║ё╓╒═║╒╒║÷²⌡⌡ ≥≥ ≥√■⌠⌠▓░▒⌠▓░█▀┬┤├┤┬┬├┘┐││┌─|zyz{{z{~┼█▐▄┼┼▀┼┼┴┴┼▀┼├┐││┌┌┐└└└┌└┌┌└┐│┌┌~xvy|{w|}|yvutsuuvutuwyuwvqprqmjlmmlklmnljjlmkighjjikmoortuuuttuvy}}||~┐┌┌│─~~~│││┌└├▄██┼┘┌┌┐┌┌┘┘┤┼░⌠▓░▐▌░■≤⌡°°° ≈■▓┼└xvy|zzz|~─│┌├┤┬┬┬┤├├┬┼┼▀▄▌▐▌▒∙≤ ÷╕╙╚╜╚╛╝╝╚╚╝╝╠ЁЁ╢╣╣Ё╞╠╢╤╦╨╪╫ююбехкмнннопрстууттужвжжвжужжввжжжввььыывзэшшщщэшззшзввыыыьвжжжвыввввуужжжжжтсяпяомкйхфефедеффедцббю╬╪╨╧╩╥╣Ё╠╟╝╙╔²≈⌠█┴┴┴└└├┬┤┘┤▀┴┼▀┤}~~│┐│─~}─~}┐┘└┌─│┘┼▀┴┼▄┼┼┤└┌┌│─~}~|~┌┐──┌└││├┘─}}z{│─|xwxtsx}┘▄█┴┘┌┌┐┐┐│}|{}~}~─┐~|{|─┌││~│┌┌││~~┌┤┬┤├└├┤┤┬┼▀▀┴▄▌█▄▄██▐░▓∙√≈√∙≈≈≈√■∙≈ ⌡⌡°··°≥≤≤≈≈≤≤√■■▓■√√■⌠⌠∙≈√∙∙≤ ⌡°²⌡°║╗╚╘╕╖╗╗╖╕╕╗╙╙╙╙╙╜╟╟╞╟╠╠╡Ё╣╥╦╩©еиллидхиклнопясжзэшзыызььззьутжьыьвьыытяппнояоянмннмллмллллммнлмнояяпоппяяяярряяряяярсррряяяяяпппяяяяярпппяяяпяяппяррртссррссттууужьшщэщщщэээщээщщээшшызззыььвыьвыэчщэщщщщччччэъъАЮъИ└{воооооооппоннноннпряппрппппяррсяррярссяррррссссрсттсртвызэээщщшшшшшшшшшзызшээзызызшшзызззыыыыззвжутжььжжутссттутсяясттстссссрррряррссссссррррррррссряоноооооннмнонммннмоооооооояувжттттутсссужвьььыььввурнкигеца╬╫╫╫╪╪╬цю©а╬╣╝╜╖╔ё║║ё╓╓║═║ёё═²°⌡ ≥≥≥≤√∙■⌠▒░░░▒▓░█┼┼▀▀┤└┐││┐└┌~yz{}││┐┴▄█▐░░▐▌█▌▌▄▀┼┬┘┐┘┘└└├┬┬├┐┌┌└└┌─{xwvvwyv{|wtvwvuwtoouwvuuvtrpppromlkijmnnliijigfinpponnuxyxvvvvtsw}~~}││┌│───│|│└└┐└┤┬┬██┴┴┴┘┌─│┐┬┼┤┤█▓▓▒▌▄▄▐▓ ⌡°⌡ ≥≥≥√░┘~|xvxvwxz}┌├┤┘├┴▀▄▀┴┤┬┴┼┼▄░░█⌠≈⌡·║╔╗╘╗╕╗╜╝╛╚╛╝╠Ё╢╢╤╤╢╥╣╢╣╧╪╫╫аабцхлннмнпррстуттуужжуужжжжжжжжжввжвььвьзшшэээзэшшзззззжвввжжввыьвжуууужжжжусяпонлкйихггедегхгфбююаю╫╨╧╨╥╢╡╟╞╜╛╕═ √▒▀┤┤┘└┤▄▄┬┬▄┬┴▀┬─yy}}┐└──││┌││──┐├┤└┌└┼▌▄▄▐▌▌┤┌└├┐│~}~~───││─~┌││|yy}│~{xxz{|~│┬┼├┘┬┤│┐──│|z{{{~────~}}│┌│─~~}~─│││─┌└└├├┤┬┴┼┼┴┬▀▌▐███▐▐▒∙≈√⌠⌠√≤√√≈≤≈≈≤√≥²÷·°²² °·÷÷°≈▓■■■■■■■■≈≈≈≥ °°⌡⌡²║╓╕╖╖╗╘╗╖╖╕╕╖╖╙╙╙╛╝╞╝╜╟╟╟╡╣╤╥╥╧╪юдгийкхгхкмноппуышшшзыьььышзьжввььвввьурпоооооонлмопнмллллккллллмноооояпяярряяряяяяяяяяяяррррряяяяяяяяппппппппяяяяяярряррсссссутувьызэшэщщщщчъщэээщщшызыьыыььзьввышэщщщщщщщччччъчъъъХ┐{вооннноноооонопоопряппяппппярррярряясрпрррсссстсррстстуьзшшэщэшшшшшшшшшэшззззыызызшшзызззыыыыыыжжуужьвууутттттуусррсссрссссррррррррссссррряяяяярррряпоноооооннмнооммоонннннооооптжутсттссррсувьььььььввтрнкигдба©©╬╪╩╫юда©╫╦╞╘╖╓╓ё╓╓ё╒║═÷÷║╒═··⌡ ≥≥≤≈√∙■⌠▓▒░▒▓⌠⌠░█┼┼┬├└┌│─┌┐│~z|}│┤┬┬▄░▒▓⌠▓▒▐▌▐█▀┴┬┬┤┤┬┬├┘┤┴┴┬└┌─│┌─~~|zyxvvvy|{wuvxxvwurqtutrstsqpprtspnkikonnljjkkihknoopruy{{yvuuussy~~}}{z|~~~~│}┌├┤├┬▀▄▀▐▌▀▀┼┤┘┘┘┘┴▀┤├▀▒▒░█▀▀▌░≈≥°·² ≤≈√▒┤│~zxzyxx|│└┬┘├┬┴┼┼┼┼┤┼▄██▌▐▐≈⌡═║╒╔╘╚╗╕╗╛╝╛╚╛╛╞╠╡Ё╣╤╤╥╤╣╥╧╪╫╫ююацглмммоярсстутттттууужжуужжжжжввжвььвьзшшэээшэшшзыыыыььььжжжжьвжжуууужжжутсяпонлкййххгфефгггфцаааю╫╨╧╦╤Ё╠╞╝╛╚╕║⌡≈▒┼┘┘┘└├┴┴┤├┬┬┼▀┬│zy|}┐┌────│┌┐┌┌┘┤┬┐┌┘┼▄▄█▌░▒▄├├┤└┐}|}~─┌~}}}{z|─~}}~│┐~zwxy{}┐┘┘│─┌└┘─~~~}|||zz}─┌┌│─┌┌│────~~─└┐│~│└┘├┘└└├┴┼▀┴┼▄█▌▐▐░░▒■√∙⌠■≈≥≥≥ ≥≈≤ ≤≥⌡°²····═╒ёё║² ∙■⌠⌠⌠∙√≈≤≤≤≤ ⌡⌡⌡²÷ё╔╕╕╕╕╗╗╖╖╖╖╗╗╘╘╘╚╜╝╞╟╟╟╟╠Ё╢╢╢╥╨╬беиклйхгилнннпуышшшзыыььыззьжввьввввьурпопооонннннннммммллклмлммнооооопяяяпяярряяяппяррряяяяяяяяяяяяяряяяяпппяяпяяярррррррсссутувьызэшэщщщщччщэээщщшызыьыыььыьвьышэщщщщщщччччщчщъъъХ┐{вонннннмноооопяоопяяппяппппяяррррряяряпрссссстттррсттстьзшшэщэшшшшшшшшшщэзыыыззшззззззшззыыыыььжжжжввжтууутттттутррссррсссрррряррссссстрряяяяяярряяпооооооооннмнооннооомммнооопосуутсттрррртжьыыыьььььвтянкигдбююю╬╩╨╬бец©╧╡╛╖╓ёёё╓╓ё═÷·²²·÷···⌡ ≥≤≤≈∙■⌠⌠▒▒▒▒▓⌠∙⌠░▄┬├└└┐│─││─~~│└┬█▌█░▒▓⌠⌠⌠▒▐▌█▀┬┤┤┬┴┼┼┴┤├┤┼▄▄┘─}}~~||~|{zxvvw~~|yvvxzxwvutssrqrrqnnprutqnjhkppomkkllkjmoppquxz|{xvvvusty|yvtruwz{{{}─~┌┤┬┬┴┼▀▄▌█▄█▀┴┴▄▀┴▄▌┼┬▀⌠⌠▓▐▄▄▌▒∙√≥²²≥≈≈√▓▀└│|y{zww|┐┴┤┬┴┬┬┬┼▀┴▀█▌▄▄▐⌠ ÷ёёё╔╘╚╕╔╖╛╜╛╚╛╚╜╟╠Ё╣╥╦╦╦╦╧╨╪╫╬©юацглмлноярсстттсссстуужжууужжввььввььвышшшшээшэшшзыыыыыыыьвжжжвжжуууужуууутсяпонлккйихххххгггфдбааю╫╨╨╥╣Ё╠╞╝╛╙╕╒²≥▒┴└└┘┘┘┘├├├┘┴▀▄┴┌{yz┌┌─┐┐││┌┐┐┌┌└┘┘┌└┤┼▄███░⌠░┼┴┤┘└┌|{|~│~|zywwy}─│┌┐┐─}zz{}│─│┌│~|}─||||{{|~|z|│└┐│────┌┌──~~~~└┐─||┌┐└┐┌┐├┴▀▀▄▄▄▌░▓▓▓▓⌠∙√∙■√≤⌡⌡°⌡≥≤≥°≤≈≈≥⌡²··║╓╖╖╕╕╓╒≥≤∙⌠⌠■≈≤≥≤≤≥ ⌡°°·║╓╕╕╔╔╕╗╗╖╖╖╗╘╙╘╘╘╙╚╜╞╠╟╟╠╠╡ЁЁ╡╣╥╨╬цхкмнйхилмммпуышшшзыыьььызыьввввввььурппппооннонмммнммммллммммнноооооясрппяссрряяпппрряяяяппяяяяяяяяяяяпппооппппяяррсрррррссжуувьызээщщщщщщщщэээщщшызыьыьввььвьызэщщщщщщччччщчэъъъХ└{вонннннннооопппооппппппяяяяяярррряпяяяпррсссссссррстсстьзшшэщщшшшшшшшшшэшзыызшэшззззззшзззыыыыыввжжжжутттууууттутсссссрссссррряррсссссссрррряяяяяпооооонооооннннннннооомнннооопорууттттсрссувьззыььььввсямкигдбююю╬╪╫юддц╫╢╜╘╕ё╔╓╒╒║║║═°⌡⌡°²²°⌡⌡ ≥≤≈√∙■⌠⌠▒░░░▒▒■■⌠▐┴┘┐┐└┌──│┌┌├┼▄▌▒░▐▒▒▒▓⌠⌠▓░▐▀┼┬┤┤┬┴┴┴┬┘└├┼█▌├│|{}}||~|zyxwxz│|{xuvyywvvurprrrqmjjmpsrpmjikmqpnlkklllossqqsvxzzwvxyyyy~─|xwuxz||zz}┌─└┬┬┤├├├┼▀┼┼▀┴┤┴▐█▀█░▌▄▐∙√∙▓▐▐░▓≈∙∙≤≥≈√≤∙■▌┬┐}y{yvvy|└┼┴┼┼┴┤├┬┼▀┼┼┼┴┼▒≥ ·║╒ё╔╗╘╓╓╖╚╜╛╛╜╛╝╟╡Ё╤╧╨╦╧╩╩╩╪╫©╬юбдхлмлноярсстссссссттужжуттувьвььввььвзшшшшэщэээшззыыьььььвжжвжжууууужтттттряпнмлккйиииийихгггецаа©╫╩╩╦╥╣Ё╠╝╛╚╕╒÷ ▓┴└└┤┤┘┌┐┤┤├┴▄▐▀┐|z{┌┌┌┤┬└┌│││──│┌┌│├┼▄█▌█▀▐▓▐▀┼┬└┐┌~zz|}│─}zwvvz~─│┌││┌┌┌┌─~}~}}~~|{|}{yyzz{}──}}─┐└┌────~}|}~}}|||│─~{|~│┌┌┌┌┘┴▀▀┼▒░░░▓⌠■■∙∙√√√√≤ ⌡°⌡ ≥≤≥ ≈≈≈≤ ⌡²²║╓╗╗╗╖╕╔÷²≥√■■■∙≤≈≤≥⌡°²·÷║╓╔╓╓╕╗╗╖╖╕╖╗╘╙╙╚╚╚╚╛╝╟╠╠╠╡╡╡╡╡Ё╣╥╪афикпмккллмнпуызшшзыыьььыззыьввжжвьыжрппяпоооооннмммммнмллммммннооооярссяярссрряяяяяяяяяяяппяяяяяяяяппппппппппяяярррсрряярссжужьыызэщщщщщщщщээээщэшззыьыьввьвввьышщщщщщщщщщччъщъъъХ┐{воонннооооооппооппппяппяяяяяяярряппяррррррррррсррттсяруьзшээчщэззззззззшшшззшшээззззззэыыззззззывжуууууттууууттттссттттсссссрррррссрррсррррряяяяппоноооннооонннммннооооооооооооосжжутууттттжвыззыььььвжспмкигдбю©╬╬╬ацдбю╧╞╘╕╔╒╕╓╒║║║║║⌡°°°²° ≤ ≥≤≈√∙■⌠■⌠▓▒░▐▐▐▒⌠■▒▀├┐┌┌││┘┬┼▄▒⌠▓▓░░⌠⌠⌠■∙∙■▓░┼┼┴┴┴┴┬┤┤├└┌└┬▄█┬┐~}~~}{{{{zz{}|{{yvvxzwuutqprrqnjfgjnrqonoomlomlkjjlmpsutrrtvxzzxy}~{{│}~~─|z~┐┌┘┬┴┤└┐└┴┼┴┬┤┐┌┘┼┼┬▀▐▐▐▓√≈≈∙▓░▒▓√⌠▓■∙∙∙≈∙■▐┼┘~yzyywux─├┬┴┼┼┴┤├┤┴┼┬┤┬┴▄⌠  °·═ё╖╗╖ё╓╖╚╜╜╝╝╛╝╟╡Ё╣╦╩╧╨╫╫╫╫╬©©юбдхкмлооярстссрстуууттжутттувьвььввььвзшэшшщщээээшззыывььвжжжжууутуужжстттсряпнмлллкйийкккихггфцбаю╫╩╩╨╧╥╣╡╞╜╛╕ё÷⌡⌠┼┘├┴┬└─│├┴┬┬▌▒▄┌{{~─┌│└┴┴┘┌~}~│┐└┌┬█▐░░▌┼▌░█▀▀┴┐│}{yz|~│─}yvuw{┌└┌──┌┌┌││││┌─~||yvx~│─{yxy{}~─┌┐│─┌┐┌~~~~~}|{yz||||||~}~│┐┐┐┌┐├┴▄▄▀▓▓▓▓▓⌠∙≈√≈√√≈≤ ⌡⌡ ≤≈≤≤≤≈≤≥⌡°⌡⌡²÷═╓╗╘╗╗╖╔╒═² ≈∙■■■■√≥⌡⌡²÷╒ё╓ёёё╕╗╖╖╕╕╕╖╗╗╙╚╜╜╛╛╝╞╞╟╟╟╠╠╡ЁЁ╢╥╨©цфхонммкклоптьззззыыьььыыззыьвжжвьыжрппяяпояонноонмммнммллмннннооооррррррсрряяяяяррпппяяяяяяяяяяяяяяяррррррпяяяррсссрряярстжужьыышэччччщщщщээээщэшззыьыывввввввьзэщщщщщщщщщЮЮчъъъХ┐{воооооопоооопоопппппяяпряяяяяяярппярррсрррррррряртусясуьзшшэщщэззззззззшэээшзззшззшшззшызззшшшззьжуууувтттуууттттттттттссстссррярссрярсяяяяяяппппооооооннооонннмммоооопооооооооосжжуууууууужьыззыььььжурпмкигдбю©╬╬аддбю╫╣╜╗╕╔╒╓ё╒╒╒╒║═²²·²²° ≈≥≤≈√∙■⌠▓∙■▓▒▐▌▌▌▌▒⌠▓▌┬┐│─││┌├▀▐▒▐■∙⌠▓▓▓■∙■■∙∙■▒▐▄▄▀▀▀┴┤├├├└┌┌┘┬┴├┌─~~xy}|{|ywwyywvwyvutsqqspoliggjmrrqrturnljiijkmpuuutsswzz}~{}│┐│}{~}|~~~}|yvy~~─┐┘└┌│┌┤▀┼├┐~─└┘└├┼▀▄░⌠∙√∙▓▐▐░▓▒▒⌠∙√∙⌠■⌠▌┼┤─{{z|zuw─├├┤┬┬┬┤├┤┬├┘┘┤┼▐■≤⌡°·║╔╘╘╖ё╔╗╚╜╝╝╝╛╜╟╡ЁЁ╤╨╧╩╬©юююа©ацдгкллооястттсрстужутсжутттувьвььввььвзшэээщщээээшшзыыьььвжуууууутуужжстттсряпнммммлккккккйигфецбаю╫╩╩╨╧╦╣╡╞╝╜╗╓÷ ⌠▀┤┤┴┬└─└┤┬┴▌▒▀│|}┐└└┤█▄├┐}{}┐┤▀├┼▌░▓▓▌┼▌▐▄▀▄┬┐─}}}}||~~{wuuw{~┌┐─~─┐┘└└┘┘├├┐─|}zxz{{yy{}~─┐└┐──┌┐┌~~}}|{zyxz{||||}}}}}~│┐┐└└└┘┤▀█▌░▒▒▒▓⌠√≤√≈≈√≤≥  ≥≤∙∙√≤≈∙≈ ²²°⌡²·═ё╕╖╗╗╖╔╒╒║÷² ≤≈■■∙≥  °÷╔╔╓ё╒ё╔╕╕╕╕╕╕╖╖╖╘╚╛╜╝╝╝╝╝╝╝╝╝╟╠Ё╢╣╥╧╪юдгллннкйкоптьззззыыьььыззшшывжввььжсппряпояоннпяомммннмллмннннооппряпяррряяяяяяррспппяяяяяяяяяяяяяяяяяррррпяяррсссрррррсстжужьызшщъчщщчщщэээээээшшыыьыыввьввввьзэчщщщщччччААъЮъчГ┐{воооопппооопппоппппяррпрряяяяяясяпяряярррррррррррсутссувызшэщщшшшшшшшшшшшэшзыызшззшшззшзззззззыыьввжуувттттууууттттсссссссссррярстсрярсяяяяяпппооооооооннноооннмммопоопооооооппосввууууууужвьызыыььььусрпмкигдбююююцецю╪╥╟╙╗╖╕╔╒╒╒╒ё╒═·²··°°° ≈≤≈∙■■⌠⌠▓⌠▓▒▐▌████▐▒▓▐┼└┌└├┤▀▐▓▓░■■⌠∙∙⌠■▓▓▓⌠⌠▓▐█▌█▀┼┴┬┤├├├┘┐┐┘┤┤└┌─│┌─~x{┌│}{{uuuvwvuuwvuttsssqpomllllsttuwxuqmlkkklosvvuttuwyz~~|}┌┐──}}~{yzywvuvsqruwx{~}~┘▄█┤┐─┌┐└┐└├┤┬█▒⌠√∙▓▐▌▌▌░▒▓∙≤√▓⌠▓█▀┴┐~}z{zxz┐└┤├├┘┘┘├├┐└┘├┼▐∙≤⌡·═╓╖╙╙╗╔╖╙╛╜╜╜╝╙╛╞╡╡╡╣╧╨╪©абцбббцефхкмнопясууусрстуууттуутттувввььввьыьзшээщчщээээшшззыььььжжжжжууууужжттттсряпонннннмллккккйхеецааю╬╪╩╨╧╦╣╡╠╟╟╚╔·≥▓▀┤┤┴┤└│─┌└├┼▌▌┬│}~─└┘┤▀▒░┼┬│}z{~┐┬█┼▀█▐▓▓▐▀█▌█▀▀├│─││──~{{}}yvuvx|─│┐┌~}│┘├┤┬┬┤┤├┐|||}~}zvzz{}~}~─│┐┌──┐└┌──~|zxwyz{{{||}}~}|}─┌┌└┘├┤┴▄▐▒▒░░░▓⌠■∙■∙∙√≈≥≥≈≈≈∙■∙≈≤√≤≥⌡°°°²·║╒ёё╓╔╔ёёёёё╒═·² ≤≤  ≥°═╕╔╓╓╓╔╔╔╓╔╕╖╖╖╖╖╚╚╛╜╝╝╝╜╝╝╜╛╜╝╠Ё╤╤╥╥╦╪цгйкмнмклняуыззшзыььььызшшэзьввьььвспяррпопоноопонмнннммммммнноопяяяяяяярррряяяррряяяяяяяяяяяяяяяяяпппппппппяррсссрррсстттуужьззэччщщщщщщэээээээшшыьызыььььььвьзщъччччъъъъЮАчъччХ┐{воооппяпонопяпопяпояссярряяяяяятряяряярсссрррррсрртутттжьззшээшшшшшшшшшызззыызшшззээззшшшшззыььыввьвуувтттттууутттссрррррсссряярсттряртррррряяпоооооооонннооонннмнппопяннноопппосввуууттттувьзшыьььыьуррпмкйгдбюаббдеб©╤╟╙╖╖╖╖╕╒║║║║║═÷²·°   ≥≈≈√∙■⌠⌠▓▓░░▌█▄▀▀▀█▌▐▒▐▀└└┬▀▄▌▒▒░▓∙■■≈≤■▓░░░▒⌠▓░█░█┼┤├├┤┤┘├┘└└┤┬┬┘└└┘┘┐││{}─┌─|{{uutsttsquvuututtssrrrpnlrtvvwwusqpnnnnqtvvvvuuutx{|z|─│~yuvwtsrqqpprqnnqstw{|{|~┌▄▐┴└┌┐┘┘┤┘└┘┘├▀▒■≈≈■▒▐▌▄▐░░■ ≤⌠▓▒█▀▀├─xwwy|~│└┬├└┐┐┐└└┐┘├└┤▐√≥⌡÷ё╕╗╙╙╘╖╘╛╜╜╜╜╜╙╛╞╡ЁЁ╣╧╩╫©бдедцдфггимопппртжжутссстттттутттуужвжььввыыьышщщщчщшшшшшшзыыввььвввьжжуууужжттттсряпоооооонмлккклкхедбаба╬╪╩╨╧╦╤Ё╡╡Ё╛╔²≤▓▀┤┤┬┤┘┐│─┌┘▀█▀┘─│┐├▀▓▓█┼┐~yy|─├▀█▄▀▌▒▒▐▄▄▌▌▀┴┐─│~┌}ywwx{~┌┘┘┌}}┌├├┴┴┤┘└┌{}zy|}{{~y{~~|}───│┘┘┌┌┌│|zxwyyzzz{|}││}}─┐┐┐┘┬▀▄▌░⌠⌠▒▐░▓■⌠▓▓■■∙≈≤≈∙∙≈√■■≈≤≤   °·÷════÷·÷╒╒║╓╔╔╕╔╓╒║═²⌡⌡ ≥²║╓╓ё╓╕╖╕╔ё╓╕╖╗╗╗╖╜╛╛╛╜╜╛╚╞╞╝╛╛╝╡╢╥╥╥╣╤╩бииймоонмняуышшшшзьььыызшшщшьввьььвспясрпонооооноомноонммнммнноппяярсряпртсрряяяярряяяяяппяяяяяяяяррряпппоопярррссяррстттууужьзшэччщээщщэшээээээээыьыззььыьььььзщЮъъъъъЮЮЮъЮчъччХ┐zвопппппппппппппппяяяяяяпярррряпррряяряпррярстсрсррстутсжьзэщщщщшшшшшшшшшзззшшзззззшээшзызшзыььыььььвжуттужжутуутссттссттуусрсрппрттсряяяяяпппппяпооппооонммнннноооооооопоннопппосвжтсстссуьззыьььввьжтяопнйхфдбююбеге©╨╡╚╖╖╖╔╔╖╒║║║║║║║║· ≥ ⌡ ≥∙∙∙∙■▓▒░░░░▐▄▄█▐▄█▐▒░█┬└┼█░▒▒⌠⌠⌠■∙∙⌠⌠⌠▓░▌██░▒░▐▌▌▄┴┤├├┤┬├┤┬┤└┌┘┼▀▀▀┴┤┘┌z{~||{ytsttsssqrtuuwzxtvvvutsqoqrsrtuusttrpqtuututrqrstvywuwxutqqrpnlllnmmnmmoqrquz|zy{┌▀▐┼└┐└┐┌┐└├├├┴█▓∙≤≤√■▒▌█▌▐▐⌠≤≤√■▒▐█▄┴├┐}{y{~└┤├└┐┐└┘┘┘┘┘├┼▒√≈⌡·╒╔╘╚╘╕╔╘╜╜╜╝╞╟╛╝╜╞Ё╢╣╨╪╬©юцфгфхийккмоппяртжжжусссттттууууттувывжужввьзышэщщэээщщшзшэшьззыьвввввжужжвжуужутстсрсрппппонмлкккйихедцбю╬╪╩╨╧╤╢Ё╡╠╠╚╓· ■▄┤┤┴├┬┼├┐└├▄▌┘}─~┐└├▌▒█┴┐}yy|└┼▐▌▌▒⌠▓▐▌░▐█┼┤└┌││~|}┌┌│z}zy~~|┌┌┐└└┐┘┬┴┼▀┼├┌~}─│~}}{~──┌─┌┌│┐├├┐┘┌~{yz{||{{{|}~│└├┘└┤▀▄██▐▒■⌠▓▓▓▓⌠⌠▓■∙∙≈≥≥≈∙≈≤≈≈≈≤≤°⌡⌡⌡°÷╒╓÷²°·÷÷÷═÷║╔╗╗╔╓╔╓╒·°°·═║╕╔╔╕╕╔╔╖╔╕╕╖╗╘╘╘╜╚╙╙╚╜╜╜╝╜╛╜╞╠╡╡╤╥╥╦╧╪юдикмопомляувзэзвьзыьвььззэщшывьььвтррряпяпппомммнммнннмннмммннопппярррряяяярррряярррррррррррррррряяярррссярсссстуттттттттуужвышэщэээщщщээщэшэщщшызыыззззыввьзззшччъъъъъАБЮЮщъъЮХ┌zвопппопппппппппппяярррряярррряярссяярряррррстссссстстттжьзэээщщшзззззззшзззшшззшзыызззызззыыьыызыьввввввььвжттттссссррсрттррсрпясттсряяяяяяяпппооноппооооннноонноооооопооннопппнсжуссстстжьззыьььвввжсяоомйгфдбццеффб╩╤╛╖╓╕╖╕╔╔ё╒║║═÷÷÷═² ≥≤≤≤≈≈√∙■⌠▓▓▒▐░░▐█▄█▌▌▄▄▌▒⌠▒▐▐▓■⌠⌠■⌠▓⌠⌠⌠░▐▐▌▄▄▀█▐░▐▌▌▌▄┼┬┤┤┬┬┤┤┤├┐┐├▀▌█▄┼┴┤┐~|{|}zz{zwuutqqqnoqsux{ytuuvvvuttrqopsvvssssrsuusqrqomlkimqpllljiiiigdccdfefgghjmporwyxy{┌┼▐┼└┌─~}~│└├┬▄░⌠√≥≥≤∙▒█▄██▌░■∙√∙■▓░▌▀┬├└{}||┌├└│─┌┘├├▀▀┼┴▀▒∙≈°═ё╕╘╚╘╖╗╙╛╛╜╝╝╝╛╝╞╠╢╢╤╨╩╫©юбегфгхйкмопяяяртжжжуттссстужтттттужььжжвввызызэщээээщщэшшэшыыыьвжжжжжжуужвжжужжтттсртссрряппмлкйиихгедбаю╬╪╨╩╧╥╣╢╡╠╞╙╔÷≥⌠▀┤┘┬┤┬┴┤┐┐┘▄▄┐|│──┐├└└┼▌█▀┤│{z{~┘▀░░▓■■▒▌█▌▌▌▄┴┘┌─~|zy{|}}}─~}──┌└└┘├├┘┤┼┼┴┴┬├└││││─│┌│─~┌│┌┌┐┤▀┼┤└│~}~~|{|}~~}|||{~│┘┬┴┬┴▀▄▄▄█▐▐░░▒▒▒⌠■░⌠■∙≈≥≤≈√≈≤≈≤≥⌡⌡  ⌡°÷═║║·²°·÷··÷══╒╕╗╖╕╕╔╒═÷═ё╕╖╕╓ё╔╕╖╖╗╕╕╖╗╗╗╗╗╚╙╘╙╚╜╜╜╝╜╜╝╟╠╡╡╣╤╥╥╥╨╬бхикмнонняувышзьыыыььььызщщэывььььтяясряппппонмннмнннмллммммнноппппяяяяяпяярррррярррррррряяяяяяяяяяяяяррряяррррсссссттттужжвьышэщэээщщщээээшэщэшыззыззззыььызшзшщчъъъъъЮАъъщъччГ┌zвопппоояпппппппппяррррррррррррррссррссрррррссссстутсстувьзээээээшзыыыззшзззшшззэшыыызззшзыьыызззыььвввввввжтссрсррссррсярссссрясстсррррппяяяппонннноооопоннннннннооопппоооопппоосжусстутужьззыьььвввжсяоомйгфдбефггц╫╤╠╘╔ё╔╗╖╓ё╓ё╒║═÷·²═÷° ≤≈≈≈≤≈√■⌠⌠▓⌠░░░▐▌███▐▄▀▐√⌡⌡≥■√≈√∙∙∙■■⌠▒▐█▄▀┼┼▀█▐▐▌█▌█▄▀┴┬┬┴┴┬├┘└└└┬▄▌▄┴┬┬┤┌|~zz{xwz{yvutpoomlnpty}zutvxxwwwwqolmquusrrrrsspmgfda^]\Zahhcbcbbddc`]\]___`aaadhlkmrtuvy─┴▌▀┘│}zvvy~┌├┼▌▓∙≤≤≤√▓▌█▄█▌▐▒■≈√√■▓▌▀┴┴┘─{|~z|┐┤┐~┌┘┬┬▌▌█▄▌▓√≤÷║╔╗╙╚╙╗╙╚╚╚╜╞╝╜╛╞╟╠╢╢╣╨╧╪╬©юцфггхйлояррррсужвжууутсстжвтттттужььвжвььышьзшэээээщщэшэщэзыьвжуууужуужжвжжжввууутруутттсяплллйихггдцбаю╬╪╨╩╧╦╤╣Ё╟╞╚╕═≥▓▀┤└├┬┤┤┬┐─┘█┼│{~┌┌┌└┤┘└┴████├}}│┬▌▐▒■√■░█▄▄█▌█┼└~{xwuttuwx}~|~}~┌┐└┘├├┘┤┴┴┤┘┘┘┘└┐├└┐┐┘┤┘┐──││─│┐┐└└┘┼▐█┴┐│~}~──~──~}|{~──│┘┴▄┼┼┼▀▀▄▄█▄▌░▒░░▓⌠▐▒■∙√≤≤≤≈≈≤≤≥°·²  ⌡²÷══÷·²²·÷·²²═·÷ё╖╗╖╔╕╓╒ё╔╗╙╙╕ё║ё╕╖╗╘╖╖╗╗╗╗╗╗╗╗╘╚╛╜╜╛╜╜╜╝╞╟╠╠Ё╣╤╤╤╦╪юфгикмнопржьышзьзььььььыыщчэывььььтпяссяпяяппонноннонмлллмммннопппппяяяяяяяррррррсссррррряяяяяяяяяяяяяяяяяррррррррссттуууввьызшэщэээщщщэээшшшээзыззззшшзыыьышшзшщчъЮЮъъъЮъЮчъчщГ┌zвоппооояпппппооппярррссрррррррряррррссрррррссттттутссттжьзээшшшщэшзззшшшзззшшззэшззззззшзьвьзззвьыыывусуууутттсрярссррсррссссрясссрряяяппяяяпооонннооооонмммммлноооппяяооппяппоятжутужжужвыззыььввввуспонлйхфддеггею╧╡╜╘╕╓╔╖╖╔╒ёёёё║÷²°÷÷·⌡≥≈≈≤≤≈√∙■⌠▓▓░░░░░▐▌█▐▌░∙°÷·⌡≈≈≈≈√√√√■⌠░▌▄▀┼┼▀█▐░▐▌█▌█▄▀┼┴┴┴┴┬├┘┘├┬┼█▀┴├├┬┬┌|zz{yxz|wutsonpnmnorx|ztvwyyxwwwtroorttrrqpoomhdca]XWXXXYce`_bcdfec_\\]_^^___^adiikoqrsuz┐┴┬┐zvqqsy└┤┼▐▒■∙√≈■▒░█▄▌░▒■≤≈√■▓▐▄▀┼┤│|}~z{┐┼┘─│└┤┼┼▀█▐▒∙≥⌡║ё╕╘╚╛╛╚╙╚╚╚╛╝╞╝╛╞╟╡Ё╡Ё╦╥╩╬©©бегииймпрстсстжвьвжжууттужвууууужвььвжвввызьзэщщщщщэээшэщэзыььвжжуууужжжвввжввжжжутттттсрпнмммкихххддцба©╫╩╨╨╧╦╤╢╠╞╛╗║≥▓▄┤┘└┼┤└├│┤█┬z~┐└┐│┘├┤▄▌██░┼┐┐┼▒▌▐▒■⌠▐▄▀▀▄█▀┬│zutttrqsvy{|{zyxz~│─│┌┌│┌└┘┐││┌└├├├└┐└├├└││┐└┐┐└┐┘┘┘┬┼┴┘┌─}|~│┐┐──│┌│─~}─┌││┐┬▄┴┴┴▀█▌███░▓▓▐▌▐▓▐░▓■∙√≤≥≤≤≤≥°·÷²²°°°°²÷═···÷÷·²°·²²÷ё╔╔╓╕╔╔╖╘╚╙╘╖╓╒╒ё╔╖╗╖╖╗╗╗╗╗╗╖╗╙╚╛╜╛╚╛╛╜╝╝╞╟╟Ё╣╥╥╤╦╪©бдхкмноосвььзшызьььььььыщчщзвьыыьтярссряяяппооооннонмлллннннопппяяяяяярряярррссссссссрррррррррррсссррррррррррсстссстууужввьызээээээщщщээшшзшшшзызззззшззыыызшзшэчъЮЮЮъъъъАъЮччГ┐zвоппооопппппппоопяярррррррррррряррярссрсссрссттуттттттсувзшэшшшщщэшзззшшзззшшззшшзшшшзышзьвьзззььыыьжтруууууууусррссрстссстсряяссряяяяяппппппоопппоонннонмммммлоооппяяяоопяяппоятжутужжжвыззыьььввввурпонлкигффххгд╫╣╝╙╗╖╔╓╕╖╕ё║╒ё╓ё║÷²²²²⌡≤≈≈≤≈≈√√■⌠▓▒░▐▐▐▐▐▐▌▐▒∙ ·÷·°≥≤√√∙∙■∙▓░▌▄┼┼┼┼█░▓▓░▌▌▌▄▄▄▀┼┼┴┴┤├├┬┼┼▀▄┴┤┘├┬┴┘{{}{z{{vttsooqpqpopuzxtvwxxwvuuxwutrpnmnmlkjgb_`_[WVXYYWac_`cfghgea]\]___`a__aejjmpqqqrt|┌┌zurpoqw~┐┤┴▌░▓⌠∙√√■⌠▌▄▐▓⌠√≤≥≈■▓▒░▌▄▀├│─zz─▀┤┐│─┌┤▀┴▀▐⌠∙≤ °ё╓╖╙╛╛╛╛╚╛╛╚╚╜╝╞╝╟╠╡╢╡Ё╥╥╩╬╬╬юдфййкмоясттужвьыьвужжжжжжжуужуужвььжжжввьыызэщщщщщшээшшэшыььввжжжжжжжжввввужвввьвжтсссряоннмлкихххфеедца©╫╨╧╧╧╦╤Ё╠╛╗║≥▒┼┤┘┐┼┬┐┐─┼▄┘~{~└├└│┘┤┴█▌▄▄▒▄┘││└┼▐░▌▌▐▐█┼┴▄▄▄┼┤│zvvwwustwz{z{{xvy}}}}~}||}~}|||┐├──│┐┘└│┌┘├┘┐┐┌┘├┘└┘└│─}|~┌└┐─││┌┐┐┐┐│┐┘└┌┌├┼┴┴┼▄▐▐▌██░⌠▓▌▄▌░▐▒▓▓⌠■≤⌡≥  ⌡²÷·°²÷÷·°⌡²··÷══÷·°⌡²··÷═╒╓╓╕╕╖╙╛╛╙╖╗╖╕ё╒ё╔╖╕╖╗╗╗╗╘╙╘╙╚╛╛╛╚╚╛╜╝╝╝╝╟╠╣╤╥╦╦╨╪╬©бгйлмннсьыьзшзшьььььььыэчщшььыыжтссряярппппооонмноонммннноопппяяяяяяярряяррррссрссссрррррррррррсссссрррррррсттуттттуууувввышээшэээщщщээшшззшззыззыыззззыьызшззшчъЮЮЮъъъъЮъЮччХ└zвопппооппппппппппяярррррррррррряррярссрссссрстуутсстутртжышээшшээшзззззшзззшшзззыззшзыьшзыьыыззшзыьвжжжжуттттттсррттссттсстсряррряяяяппппппоооопяппонннпонннннноопппяяяопяяяппппсууттуужьзшзыьььввжжурпонлкйхгхкифа╧╡╚╗╕╕╔ёё╕╕╔═║ёёё╒═÷²²²°⌡  ⌡√√√√∙⌠▓▒░▐▐▌▌▐▒▓⌠√≥⌡°²·÷°≥√■⌠▒░▒▒▐█▄▀┼┼▀▌▒⌠⌠░▐▌█▄▄▄▄▄▀┴┴┤├┤┴▀┼┴┴┘┘└└├├┐zxzzyyzwutttppqqsrposwwssstuutssvutrmhedhgggfc`_\][YWWWWY_`^`bcekjhd`^^_^_`a``cgkloqssrrsy~~{wtqnnpu|─└┤█░▓⌠■∙∙■■▒▐▒∙≈≥≥≤∙▓▒▒▒▐█┼┬┐~{{┴├┐│─│┤██▐⌠≈≥≥⌡²╔╕╗╙╚╙╙╚╛╜╜╙╙╛╝╞╟╡╡Ё╣╢╢╦╦╩╫╫╫©цеийлмнпртуужьызыьжжввввжжтууууужввжужжжвыышэщщщщщшээшшэшывввжжжжжжввввввьужввьььжтссрряпнмлйиххгфгффедб©╫╨╨╧╧╦╤╢╡╛╕÷≤░┬┘├└┴┬┐┌─┐▄┼┌}}┘┬┘├┬┤┬█▌▄█▓▐▀┤├┬▀▌⌠▐███▀┴┤▄▄▀┼┬┐~zwxxurrtv{y{|xvy{{zzzzxwxwwvuuw|{{}│└┐│──┌┘├└┌┌│├┬┤┘┘└┌││─~─└┘└───│┐┘┤┤┘├┬┤└┐├┼▀▀▄▌░░▐██░▓░▌▄▌░▒▒⌠⌠⌠■≤°⌡°°°²··°²═╒╒÷°⌡⌡÷═║═··°⌡²÷═÷÷║ё╔╔╕╘╛╝╜╚╙╘╙╙╕ёё╔╕╔╕╖╗╗╗╙╚╙╚╚╚╚╚╙╙╛╜╞╞╝╞╠Ё╣╤╥╦╨╩╪╫╩©еилммнсьыьшэшшььььььыышщчэыыыыжтссяпясппппппонмнооннноннооппяяпппяяяяярряррррсрррсссррррррррррссррррррряяярттттттуууууьввышээшэээщщщээшшшззззыззыызззыыььзшззшъъЮЮъъъъчъчъччГ┐zвопппопоооопппппяяррррряярррряяярсррссрссссрстуттссттссруьшээээшшшшшззышзззшшзззыыыззыызззыыьыышшыььвььжтсссссртссттррстррссррсряяяряяпппооооопппппонноооннноонооопппппппяяяппппсуутттсвызшзыьььвжжжтроомлкйихййгб╪╣╞╘╕╔╗╖╓ё╔╔╓║║║║║║╒╒÷÷÷·²²°°√√∙∙■⌠⌠▓▒▒░▐▐▒■≈≥ ⌡⌡⌡°·═· √⌠▒▌█▌▐▌▄▄▄┼┼▀▌░▓▓░▐▌▄███▌█▀┼┴┬┤┬┴┴┤┘┘│┌┐┌│─~{xxyxwzzussutqqsrsspnquuspppqrrpnmljjgc__aadfea_`^__\ZYZZ\_^^```blljfb_^^\]_```dhkloqstuurvyyxvutmmoswz~│┤▀▐▒▒▒▓▓▒▓▓▓∙≤≥≥√■▓▒▒▒▒░▀▀┘}}~─┴┘┌┌┌┐┤▄░▓∙≥ ⌡²═╖╖╗╘╘╖╖╗╛╛╙╘╙╜╟╟╠╠╟╡╤╤╤╧╧╩╫╪╫©бцфилнооястужьызыыввввввввуууууужввжужжжвьзшэщщщщщшщщэшшшывввввввввьььввььжвььььвжтсррряпонкихиихфггфедб©╫╨╨╧╧╦╤Ё╡╛╓²≥▒┤└┤├┬┬┘┐└┬█┘~|~┘┴├┴┴├┬█▌█▌▓▓▒▐▌▐░▓■▒▐▌█▀┼┴┼┼┴┴┤┐~zvwvtqpqsyuxzvtvwwvvvvtstrqonnpsuvtuz|z|z{}─│┘┤├┘┘└┌│┌┌─│└┘┐~}~│└┤┴┤┬┴┼┴┤┴█▌▌▌▌▐░░░▐░▒░▌█▌░▒⌠∙√∙■≈°²··°°²··÷═║╒║÷° ÷║║÷²²°⌡²═║÷÷║ё╓╔╖╙╛╜╜╛╛╚╛╛╘╖╖╖╕╔╖╗╗╖╗╙╚╙╚╚╙╘╘╙╚╛╜╝╝╜╝╠╢╣╣╣╥╨╪╪╩╧╫цхйлносьзышэшзыыььььыззщъщзыыыжтсррппяяпппяпонмнноннномнноппппппяяяяяпрряяяррряярсссррррррррррссррррррряяярстттттуужжжьвьыэщщээээщщщээшшшззззззыыыызыыыььзшшшшъъЮъъъъЮчъщччъХ┐zвопппппооооппппяярррсррпярррряпрссррттсссссрстуртттсрстятьзээээшээээшшзшзззшшззшзыыззшзызшзыььыыыыыыыьвжутттутттссссррссрярряртряяррряпяпонноопооппонопонммнннноооооооопяяяпппяятжжжутсвышшзыьььвжжжтяонлккйиийгц╫╥╠╜╘╕╕╙╙╔ё╓╓╒╒╒═÷÷║╒ё÷···²²°⌡≈√∙■⌠⌠■■⌠⌠▓░░⌠≤°·²°⌡⌡°·÷· ∙⌠░█▄██▀┼┼┼┬┬┴▄▐▒░▐▐█▀█▌▌▌▌▄┼┴┴┬┬┬┤└┌┌─┌┐│~|zxy{|zy}}wqqturrutrrpnptusponoppmkfdcdeca`]^bec`^_]_^ZWX[]`_]_ba_bkkjfb^\[\]_`__chjkmoruwxnqstttuuonortvy|┘▀▌█▌▌▌▄▐░░▒■√∙√√∙⌠▓▓⌠■▓⌠▀│~─│▄┤┐└┘┘┤▀░▒■≥⌡²═╓╗╖╗╘╖╓╓╔╚╘╖╖╚╟╡╡╟╟╞╠╤╥╥╨╨╪╫╪╫©абцгмппопрттжвызыыььвввввьужжжжжвввжужжжвьзшэщщээээщчэээшыььььььььвьыььвьыжьыьььвутсряяяпполихййиггффеда╬╪╩╨╧╦╥╣Ё╠╛ё² ▓┤└┴┬┤┤┤┘┤▀▄┌{{~┘┼┤┬┤├┬▐░▌▌▐▒▓▓▓⌠■∙⌠▓▒▒▐█▄█┬┬┤┤┘│{vuvvtrqrswruytrttsrrsrqpqpnkijkllqmlqwwtqsqqsvxz|~│┐┌┌┌─}~──~┌┌─~|zz~┌├┬┤┬┼▄▄▀█░▐▐▌▌▐░▓■▓⌠⌠▒▐▌▐░▒⌠≈≤≈∙≈⌡÷═÷°⌡²÷║╒═÷═║║·°÷║║·°°° ²÷÷··║ёё╖╘╚╚╚╚╛╜╛╜╜╚╚╚╙╖╕╖╗╗╖╗╘╚╙╙╙╘╗╘╙╛╙╛╜╛╚╛╟Ё╣ЁЁ╤╨╪╩╧╦╪афилоярызыэщшззыьвььззыэъчшзыывтяяряппяяпяяяпомннннммнммнооооопярррряярряяяяррпяррссррррррррррсссссссстряярссссстуужввьььзэчщээээщщщээшшшшзззззыььыыыызььзэшшэъъъъчъЮАъъщъЮЮИ┐{воооонояяяпооопппяяяяяяпяярссссяррсссссссссссссттсрстсрррузэшшщээшшзззззззззззззыььызззызшзыызэзыыьььььввжуутттсссссссстррттсрсррррряпппоооппяяооопяяпоклмннннояпопяяпопппяррпояувжтужвышшыьыьжвжжжжтяннмкийккйфб╩╡╛╛╛╚╘╗╖╖╔ёё╓║║║═·²·÷═² ⌡°° ≈∙∙■■■■⌠⌠⌠∙√∙≈°·²÷══·²²²°÷°≈▓▌▀┴┬┼┬├┤┴┼┬┤▀█▐▒▓░█┼┼▌▓░█▄██▀┤└┘┘│~~|~─~{{|~~|{||yrtwwssronpqonprslkjjkjjjedffb`_][\\]_`abc`^]\[\]_^_aa``agkomf_\\[\^_^^chmlilstrrnmnprtuwromnswxvz└▀┼┴▀▀┬┼┼▄▌░▓▓▓∙■⌠⌠⌠⌠√ ≤≥⌠┬─││─▄┤┐└┤├┤▌▒∙∙∙⌡═╒ё╔╖╗╕ё╒╓╖╙╘╗╗╛╟╠╟╟╞╞╟╡╣╦╧╧╫©╬©абафилмннясттуьзззыыьжуужввьььвжужвууужжвььшшэщщщщэччэшзыызьыззыыьыззыыььььыьььььвжсрррсромлкййййхгеффебю©©╨╧╨╧╤╣Ё╝╙╓═ ▌┘└┤┘┤┤┤▀▐▌┤~~─├┴┬├┘┴┴┼█░▒▌▀▌▒■≈≤≥≈∙⌠■⌠░▌▄▀┴┬├┘┌~xvvtvvspqrrtrrsronppomjhilojhcbfgffgfipqmlokhhijjmrzz{{yxy{{{{zz{~─}|{{|┐├├┤┬┴┼▄▐░▒░▓■▓▐░⌠⌠░▐▒▒░▌▌⌠■∙≈√∙≤°°÷║║÷²²·╒ё║÷║║·²·÷÷÷÷÷÷÷·÷÷·²·║╓╖╗╘╙╚╚╛╜╜╞╞╞╝╞╝╛╘╖╕╖╖╕╖╘╛╙╗╖╘╙╚╚╚╛╝╝╜╝╟╡╡Ё╣╦╨╨╨╧╨╩╫афкноуьзшзшзыыззььыыьээчъщзызуссурярясряяяяпомнннммноноооооппяяяяяяяясрярряпяпрсрппртрррсссссрсттсссссррррсстттуужжввыыыыышщъщщээээээззшшшзыыыыыьььььььыышэщчъъъъъчщщщщЮЮъЮГ┘{воонооопппоонооппяярррряяррррррярррссссссссссссстсрстсрсрузэшшщээшшшззззззззззшшзыыыззззшшшыызэззыыыььььвжууттссссссссстррттсрсрряяпппппппоооппооопппонклмнммннооопяяяппппяряпоятжустувзшшыьььжвжжжжтянмммлмнлйц©╦╟╚╚╚╙╘╖╕╔╓╒║╒╒║÷·²²²²°≥≤≤⌡° ≈√■⌠▓▓▓▓▓▓≈ ⌡·══²╒╒║·²²²⌡° ≈⌠▐▄┼┴┴┴┬┬┴┴┼▀▌▐░▒▓▒▐█▄▐░▐▐▐▐█▄├┌┌┌─~~~}||}││|{{zywttutsssnmoomklmmfeddefghgfhgc`^[Z[[\]^^_abba`___`_`aa_`aeilkfa^]]]^`_`dikkikppopmllmoqtvuronswvrx─┤┬┬┬┬┤┘┘┤┼█▐░░⌠▓▓▓▒░▒■≥≤⌠▀┘└└┐▀┬└┘┬┬┤▀▒∙√√⌡═╒ё╖╗╖╓║║╔╙╙╘╗╗╚╝╟╞╞╞╟╟╠Ё╥╧╨╪╫╫╬юабдгкммнпрттжьзззыыьввжвььввьвжжвьжжжжвььышэээщщээщщээшззыьыззыыыышззыыыыыыьььыьвутряяряоммлкйииггфгфебю╬╬╧╦╧╦╣╢╡╜╖║²≤█┐┐┘└┘┘├▄░▄└┌┌┘┴▀┴┤┤┴┴┼█▒■⌠▓▐▒⌠≈≥ ≥≤√√∙▒█▀┬├└┐┌─|xwxwvspnnnnqpponlklihgeddfhhheehhffjhillihigfecbdkqussttsssuvvwxz|}}~~}~─└┤├├┬┴▀▄▌▐▐▐▒■∙■⌠⌠▌▌▌░░▐░▓■■√≈√∙≈ ²·══÷÷÷═║╓╒══÷²²²²²·÷═══÷÷÷··÷╒╔╖╗╘╘╙╙╛╜╜╞╞╝╝╞╞╜╚╘╗╗╖╖╖╘╚╙╘╘╘╙╚╚╚╛╜╝╝╞╠╡╢Ё╢╤╧╩╨╦╨╩╫юейнотвззшээшызыььызыээщъщшызжстуррсрряяяяпонннннммноноопппярррррррррсрррряпярррррррсррссссссрсттссссссррррсстттужжввьыззшшэщщщээээээшшшшшззыыыыыььыыыыызшэщщъъъъъччщщщъъчЮГ┘zвнннооооопоннопппяяррррррррряяяяярррсррссссссссстсрстсрсртышшшщшшшшшшззшззззшшэшзыыыззззшшшззшэззззыьвжьвжуттссссссссттсррстсрррряяппппяяппооооооооппонллмнммннооопяяяпяпппяппоятжустжьзшзыььвжвжжжжтянлмоополгю╩╢╜╙╚╙╘╗╕╔╓ё║══╒═²°²²° ≥≈√≈≥ ≥≈√■▓▓⌠⌠▓░∙ ·║ё╔╓║╓ё║·°⌡⌡≥ ≤√⌠░▄┴┬┬┴▀▀┼▄▐▒░░▐▐▐▐▌▌▌▌▌▌▐▒░▌▀├┌││─│}|~─│┌┌─|zyyzzxussrtsnklkiffffdba`adfghghgb_]YYZ[[[[[Z\`cb``_^^_ab`^_aegijhdba`__`adgjkkijmmlnlkkmnoqswuroswupv{│├├┘┘┘│┌┐┘┬▀██▐▐░░▌█▌░▓░▌▀┴┬┬┬▀┼├┘┴┼┼▀▓√√√⌡═╒╓╘╘╖ё═║╕╚╘╘╗╗╙╜╞╝╝╞╟╟╟╡╤╧╨╨╪╬©©юббфйлмнпяттжьзззыьььвввььввььььььввввььызээээээээшээщэшзззззыыыззшшззззззьььыьвутсряяяпонммлйигффххгебю╬╫╧╥╦╥╢╢╡╜╕═°≤█└┐┘┐┐┐┘▄░┼│┐└├┴┼┬┤├┤├├┴▌⌠√≈⌠▓⌠≤°°⌡°≤≤√▒█┼┤└──~{wtvyuqljjklmqqpmjihghhgggghihhfeggfhlkiiihfededa`dkookjnponnqqrtuwxxxz}}}┐┤└└├┬┼▄██▌▐░▓∙√⌠░░░▒▒░▌░▓⌠■≈≤≤≈≤⌡²²·÷═║║║═╓ё═÷·°²·²²·═║║║÷÷÷·÷═╓╕╖╗╗╗╗╘╚╛╜╝╞╝╝╟╟╞╝╛╚╙╘╖╖╗╙╙╙╙╘╘╙╙╚╛╛╜╞╟╠╡╢ЁЁ╣╧╨╧╥╨╨╪©цхмпсжызшщщэззыввыззэээччэзывтттррссяяппппонннннммнонопппярссссрррррсррсряярсрррссряссссссссрсттсссстссрррррттттужььвьзэээээщщщээээээшшззззззыыыыыыыыыззшээщчччъчччччщччщЮГ┘zжннноопопппоопяппяярррррррррряяяяррррррсссссрррсттссттссртьззшэшшшшшшшшшззззшээшзыыыззышшэшшзшэызззыьжувжууттттссссстттсррсссррррррряяпяппооонноннноонмлммнммннппппппоояяппппоорувусувышшзыьввжжжжжжтяолмоппнид╬╧╠╛╙╙╙╗╖╕╓ё╒═÷·═÷·²²²⌡  ≤≈≈≥≥≤≈√■▓⌠∙√■▓⌡·═╒╓╖╖╕╔ё═° ≥≈√≤≤√■▒█┴┤┬┼▄█▌░⌠∙▓░█▀▀▀▄▄▌▌▐░▓▓▒▐┼├┐┐┐│~│~~┌┐│─│─}{yz{}xtsrppokhhgecbbbedb`aceeedfe`]\YYZ[\[[ZYW^b`]]][\^aca__bfghijhecb`_`dhklmlijmljkkkmqqonpuwurtwvruw}┐┘┌┌└┌│┌┐├┬┴┼▄▄████▌▐▀┬┤┴┼┬┬┴▀█┼├┴▄▌░⌠≈≤≤²║ё╔╖╗╖╓║║╔╘╗╘╗╘╚╝╞╝╞╟╟╟╠╡╣╦╦╧╪юа©©юцфйклмоясувызззыввввввввььыыыыыььььььыызээээээээээщщщээшшззыыызшззззызззьььыьвтссряпппонлмлйхгггххгебю╬╫╧╥╦╥╢╢╡╜╕═²≤█├└└┐┐┐┘▀▐┼┌┐┐└┤┴┴┤┘└┐┌└┴▐■√∙▓▓≥²²²÷ ≤⌠▐█┼├│~~{vqnqtpiddhjloqrpkgfdbeeddefghiiecdefjjjhghjhecedcfkmlkgglponpsrqrstsrrux{|~┌└│┌└┤┼▄███▐░░▒⌠▒█▒▒▒▒▐▐▐░▒■≈  ⌡°²²²²·═║║║÷╒║÷÷·°°÷··÷║╒║÷÷÷÷÷═ё╕╗╘╘╘╗╖╗╘╙╜╜╜╝╝╞╟╟╞╝╝╝╛╘╕╕╗╘╙╙╘╗╘╙╙╚╛╜╞╠╠╠ЁЁ╢╣╦╧╧╥╧╨╩╬бфлпсжьзшщщэзыьввьзшэшшщччшывтстяяссяяяяппоноонннннноопппярссссрррррсррссярсссссссряссссссссрссссрссссррррррссттувьывьзэээээчщщээээээшззыззззыыыыыыызззшшэээччччччччъщчщщъГ┘zжннноопппяяппяряяяяяяяпрррсссрряяррррррсссссссссттссттссссжызшэззшшшшшшшззззшээзыыыызыышшэшшшшшыззыьвжужуууттуусссссссссрррсссрярсссрпоооооооооннннннммлмннммннппппппоояяяппоооружусуьзшзыыьвввжжжжжтяонопполфю╪╥╟╛╚╙╘╗╖╕╔ё╒║÷·°·══÷²°⌡⌡≥≥≥≥  ≥≥∙▓▓∙≤≥≤÷═║║ё╔╕╖╔ё÷° ≤≈√≈≈≈√⌠░█▀▄▄▌░▓⌠⌠⌠▒▌▀┴┴┼▀▄█▌▒⌠■▓░░┼├┐┌┌│~──┐┐──┌│|zyzzvrqpljifedcbbaaaddcabcca`_aa^]]Z[\]^^]\[Y`c_\]]\Z^bedbbdhhhjkjgeda_afkmmnmijmlhhiilpqooruxyvuwwtuuy│└│─┐│││┌└├┤┬┴┼┼┴┼▀█▌┼├┘┬┬├└┘┬██┼▀▐▒■∙≥≥ ²║ё╕╖╖╕ё║╒╔╗╗╘╘╙╛╞╠╟╠╟╟╠╡╢╤╥╦╦╨╬╬╫╫юехкйймоясувыззыыввввввжжыыззззыьььььыыззээээээээчщщээщщщшзыыыззшззыыыыыыьььььжтрсряппоонлллйхгхххгфдца©╬╨╦╦╥╣╣Ё╝╖═°√█┘┐┌┐└└┘┬▀┼├└┐┐├▀▄┴├┘┐┌┌┘▀░■⌠░▒≤··÷═°≈▒▄▀┬┌}|{xqkiloke`bfhknnomhddb`dccbcegiijfddefjfhhgikieddcelsqjjhimonosusqpqqqprsux{}─┐├┼▄▌▌█▐░▐▐▒▒▐░▐▌▌░▒▓▓⌠√≥⌡°²·÷²°°²·÷÷·²÷·²÷÷°°²²²═╒╒═·÷÷÷═╒╔╗╙╙╙╘╗╖╖╗╗╛╛╛╜╝╞╟╠╞╞╟╠╞╚╖╕╕╗╘╘╗╗╘╘╘╙╚╜╞╟╠╠╟╢╥╥╥╦╦╥╧╧╩╬юдйптжьышщщэшыьввьышшзшэчъэзвсссяяссррряяпооооннннннопппопяяссррряяясрсссярссстссррсррррррррррссррррсрррсссссстужвьыьызшшшэщчщщээшшшэшзыыыззыыыыыыызззшшээээщщщщщчччъщщээъФ└{воооооппяяяпяяряяяяяпппяррсссссяярррсррррсссссссттссттттссуьзшшззшшшшшзшззззшшэыыыызззышшшшшшшшзззыьвжужуууууууссссссссрссрстсряярсряпоннооооооонннннммлмннмммнноппппяяппяяппопятжтстьзшыыыьвввжжжжусяппяяпнйд╬╧╣╟╜╛╙╗╗╗╖╔ёё╒═²⌡·══÷²°° ≥≥≥ ⌡⌡⌡°≈⌠▒■≥²═══║║║║║║╔╒·²⌡≥≈≈∙√√≈√∙■⌠▓░░▒⌠⌠▒▌▄┼┤├┤┬┼▀┴▄░▓▒▌██┼├│───────││││───~}}}wrqojgfdb`_`bbbbbddbcdca\\^_]]_^^_```_^^]ac_\\]]\_cffeegkklnonkhecabglnmmlijmjeegfglmnqwxz{zxwwvvux┌──┌─│└├┤┬┬┴┬┤┤┬┴┴┬┘┘┤┬┤┤┤┘▀▌█▐▒▓∙√≥  ·═╒╕╗╕ё║║ё╕╗╖╘╙╚╜╟╡╠╠╟╟╟╡╢╣╣╦╥╦╧╧╨╪©дикйймооствыыыыьььььвввжыыыыззыыыыыыыыззшшшшэээщъчщээщщчшзыыыззззыыыььыыьььььжтсрряяпоонллкйихиихгедцаю©╩╧╦╥╣╣Ё╝╗╒°√█├└┌└┘┘┘├┤┬┤┘└└├▀█▀┤┘└┌│┐┤▄▐▒░⌠ ═║╒╒·≥▒┼├┌}wxwtnhgikjfcbdfhjkljgedccffeddfjmijighgfhgijijkiegfdfnusmijjkkkmprqonoopptsstwxxwy|┌└┤┼▄▀█▌▌▐▓⌠⌠⌠▓░░▒■■⌠≈≥°°°°²°°⌡⌡°²²°⌡⌡²°°÷═²° ⌡°·║║═÷═÷÷║╓╖╘╘╙╙╘╗╖╕╖╖╙╙╚╜╞╞╟╠╟╟╡Ё╠╜╘╗╗╗╗╖╖╗╘╙╗╙╚╜╞╟╟╟╟╣╦╥╣╤╦╥╧╧╩╬©бхотжьышщщшшыььььызызшэчъщзжсстяясррррряппппоонооннпппооопярррряяяяссстряяссстсррстррррррррррссрррсрсссстттсттжвьыыыззззшщччщщээшшшшззыьыызыыыыыыызззшээээщщщэээщщчъщээшчД┌{ьоооооппппппппяяяяяяяяпяррсссссярррссссрррсстттрстсрстттсствзшшзшшшшшзззззззззшыыызшшшзшшшшшшшззззыьввввжжуууууссссррррсссрсттррррряяппнноооонноннмннмллмннмммнноппппяяопяряпппптжусуьззыьыьввьжжвжусрпяррпниб╪╣╡╞╝╛╙╗╗╗╖╔ёёё║·²····²°⌡≥≥≥≤≤≥  °≥≈√≤°═╒═══÷·²°⌡║·⌡⌡ ≤√√■■∙√≈≈≈≈∙⌠░░░░▐█┼┬├┘┘┤┤┬┬┴█▐▌┼┴┴┴┘─~│┌┌│┌││┐│}~~~~~xrnlifeca_^_aaabbdcbbdc`]\^_^_babbbbba``^_`_\[[]`aceffgimmnprpmjfeccgklkjlkkkfcdfdeiklqx|{{}|zwvwuv|──}~┌┘┤┬┬┤┬┬├├┤┤├┘└└├┬┴┼▄├┼┼▄▐▒⌠√≈  ⌡²·═╔╖╔╒╒ё╔╖╖╖╘╚╚╜╟╠╠╟╟╟╟╠╡╢╣╤╥╦╦╦╨╩╪агкйймнмртвыыыьььььвжжжжьввьыззызыыыззшшшшшшшэщщчччщщэээшзыыззззззыыььььььвввжусрррряоннмлкййииихгедцаю╬╪╧╧╦╤╤Ё╝╘╒°∙█┬├└┘├├└└└┘└┘├┤┤┴▀┼┤┘└┐┌┌┘┬▀▒⌠≈°═║═÷²≥▓┬─{wuttqlhgiihhfddfghkihgeccddeedbchljkihjhfghijjihfdffgimqqoijjhgilmmnnnnopqtsrrrsssuw{}~│┘┬┬┬┴▄░▒▓▓⌠⌠▓▒▓■√∙ °²⌡ ⌡ ≥ ⌡⌡°°⌡ ≥ ²²°÷÷²²⌡°°·÷═══╒║║ё╕╗╗╗╗╗╗╗╖╕╕╖╙╘╚╝╟╟╟╡╡╡╡Ё╡╞╜╜╛╙╗╖╖╗╙╙╗╙╜╝╞╞╟╠╠╣╥╢Ё╤╦╥╧╧╩╬©юфнтувьзщщшшыыыывьыьзшэчъчшжсттррсрррсряпппяпоноооноппооопярррряяяяссстрпястсрярсссссрррррррсттссссссттттттстувььыыыззшшшщчччщээшшшшззыыыыыыыььыыыыззшээщщщщэшшшэщщчэшшзэБ|ьпоооопоппооооппяярррряррррсррряррсссссрррсстттястррссстсртвзшззшшэшшзззззззззззыызшээшшшшшшшшзшшзыьььььвжуутттсссррряястсссутртсряяярроооооннмоннмннммлмннмммнопяяпоопопрряпппятвжужыззььыьввыжжвжусряояяпмха╩╡╞╝╝╛╘╗╗╖╖╔ёё╓║·÷·°°°°⌡  ≥≤≈√√≈≈  ⌡²÷═║║╒═·° ≥≤≥°≥≈≤≤√■⌠⌠■■∙√≈≈≤∙⌠▐▌▌▐▌▌▄┼┬┤┤┤├├┼┼▄▌█┼┴┴├└│─┌└└┐┌┐┌│┐┘─x~}|||{yxxoihfedaa^]_aa`aacb`_aa]_^_`_adddddccbaa^^__]Z[]baacdegikkmopokhgfddgjkihlnmjdadedfjlkov~{z~|xwxuvz~~~~─┐├┬┬┬├┬┬┤┤┬┤└┘┘┘┘├┬┼┼▀┴├┤█▒⌠≈≈   ²²÷╓╔╓ё╓╖╗╕╓╖╘╚╚╜╞╟╟╝╞╟╟╞╟╡╢Ё╥╨╩╩╪╩╦╬ейккммлртвыыьььььвжуууужжужьызззззззшшшзззшшэщчщчччщэшзззыызззыззыыььььыьвввжутрррряпнннмкйййихихфдца©╬╪╨╧╦╤╤Ё╝╖═≥⌠▀├┘┐├├├└┐┐┌│├┴▀┼┴┼┴┬┘┘┘└┐┘┬▀▒∙≥⌡²²⌡≥⌡≥▓┤|vuusspkhhhhdgheegiijgffc``bdfgfddimllhfhgfgffggecaa`dhjijkmhjiffjmmklnooopquutsqrsutw{||┐┤├┐└┼▐▐▌▌▄▐░▐░■≈≥⌡°° ≥≥≥≈≥ ⌡°⌡ ≥≤≥·÷²··²······÷═║ё╒╒╓╕╗╖╕╕╖╖╖╖╕╖╖╘╘╚╞╠╟╠╡╢Ё╡Ё╡╟╟╟╞╛╘╖╗╘╙╚╗╙╝╞╞╞╟╠Ё╣╣╡╡╤╦╥╦╧╩╬╬©емстжьзщщэшыыыыввывзшэчъчэжстусрсрярсряпппяпонооонооооопярррррррррссттрппсурппрттссссрррррсстттсстттттттссстжьыыыьызшшшээщччщээшшшшшзззыыыьььььыыыззшэщщщщщэшззшэщщшшзышА}zьоннппооннноппояяпппппярряяярсттсррсссряррррррстсрстуттутссжзшшэшээщэзьшшшшззыььььзшшшзшзызшшшзэшзыыьвжввжутсрррсссряррттсрсссрсссряяппноппппонпоонммммомлмнннооооооопяппппппппрсттжыззызззьввьвввжусряррянйе╬╧╡╞╛╚╛╛╙╗╗╔╓╔╔ё══÷÷·°°²⌡≥≥≤≤≥≤∙■■≥·╒╒║║║═║÷²⌡ ≥≤≈≤≈≈≈√■∙≈∙■∙≤≤∙∙≈≈∙░▄█▒░█┼┴┼▀┤┘├├┬┴┴┴┴┴┤┘└┌──┌┌─~~}}~~|y{zxvuuvvtpkfccdfeb`aa`_`^`a```a`cca_`dggeghhggda^^__][\]`efedbadlmmkijjjffeeiljfgjmlkhebdccjonnsxvsuzzxzvttw|~}|──└┘┌─└┤├┘┬▄▀┘┌┘├├├┬▀▀▄▀┼▀▀▄░■≤ ⌡°·║ёёё║║ё╖╘╗╔╖╗╘╘╛╟╡╡╠╟╟╞╞╠Ё╢╢╤╨╪╩╧╨╪бдхкмнопртвыьььььвжуууужжуужжвыыьыззшшшыэшзшэччщччччщээшзыыызшшшшзыьввввьвввввутяпопяоммлкйиихххгфедцаю©╫╩╦╣╣╣╡╞╖║≤▐┴├├┬┬┘┐└┌─└┴▀┼▄▒▌┴▄├┤├┘┤┼▄▄▐░░░⌠≈√▓∙√▓┴│|xtsrpkgfgiefhjifeggfdca_adghiheimlmmljfefghfdddcaaddfjllhefiighlnmmlorppssxvusstvwwxz{{}│┌┘┼┴▀▌▄┼▌▓▓▓■√≈≤⌡² ≈≈≤≤≥≤≤≥ ≥≥ ≤⌡···÷·²·÷══÷·╒╖║╓╖╘╘╖╕╕╖╖╕╖╗╘╘╘╙╙╛╝╟╡╡╡╠╡╡╡╡╡Ё╢╡╞╜╚╘╗╚╝╜╝╝╞╞╟╡Ё╣Ё╠╠Ё╣╥╦╦╨╪╫╬афкяруьшщщээшыьвьызызшэщчччжуттсярсяяяяпоннпнллнппомопяпппяррррряяяррсрряррсссрррррярсссррсрсттссттсстттссссуввууьзьышшшшэччщщщэшзшзыызшэшшшзыызшзызшщччщэшшээшыышщшзшшзвэ|zьоннопоооноппппяяпппяяярряяярссссррррррссррсссссрррсттсттссжышзэшшэээзышшшзззыыыыызшшшшшзыззшшзшзыььвжжвжутттттттттсрссссрррсррссрряяяпоооппоооппонннммомлмнмнооооооопяппяяяяяярсттжьыызыыыььвжььввжтссяяплхц╪╤╡╟╜╛╛╛╙╗╘╕╔╔╔ё══²²°⌡⌡°⌡≥≥≤≈≤≈∙∙≈·║╓╒═··²═÷²⌡ ≥≥ ≤√√≈≈√√≈√∙√≤≤≈√√≈≈⌠▌█▐▐█▄┴┼▀┤┘┘└├┤┬├└┐└┐┤┘┐│─│}|{zwutsqooqtutrmigffgdcbba``b_``__abbcdcbcefffikjgeb_]]^^\ZZ\^ceedbbflmmjgggfhheehkiccfiihgebccekpnmrsroqvwvxyxwz}~|}}~┌└┌││┐└└├┼┴├└┤┬┤┤┴▀▀┼┼▄▌▐▐▒⌠√≤ ⌡·╒╓╓║║╒╔╘╙╗╕╘╙╙╙╚╝╟╟╟╠╡╡╡╡Ё╢╣╥╩╫╪╩╩╫адгиклнпруьыыььььвжжууууужжжвьыыызшззшзышззшщччччччччщээшшзззззыззыьввввьвввввутрппярпннлккйииххихфецбю©╫╩╦╣╣╣Ё╞╗╒≥▐┴┤┤┤┘┐┌┐│~─┘██┼▀░▐▄▐┼▀▀┼┴┴┴┬┘┤┤┬▄▓■▓■■▒┼┐}zxtrnkhgggghjljgghhecb``beefhhfjoonnmkigffgecdedcbegikkifdhkkhhlpqnmqsqpstwvutstuuwxxyy{~─~┌┤┬┬┤┘┼▌▒▓▓■∙∙≥⌡⌡≤√≈ ⌡ ≥≥≥≥≈≈≤≤⌡²²²÷══÷÷÷═÷÷╒╕╓╔╖╖╖╕╕╕╖╕╕╖╗╘╙╙╘╚╜╞╠╡╠╞╠╡Ё╢╢╢ЁЁ╡╠╞╝╛╙╙╛╛╜╜╜╝╞╟╠╢╡╟╟╠╢╣╤╦╧╩╫╬бхмяртвзэщщщэзьььызыышэщщщщьжттсррсяяяяяппппоннпяяпмнпппярррррррррррсссрярртсссссссрсссрррсрсттссстстттттсссжььжжвьвыээээщщчщщщщшшэзззззшззззыызззызшэщчщэшщщэшззшэызззьжэ~zьоннооопооппяяпяяяяяярряяррррссрссррярсуссстуттссррстттттссуышзэшшшэшшзшзззззззззззшэшшшзззззззшзыьььвжвжттужжжттутсссссрррссссрррряяяяппооооппоооннннннмнннммноооооопяяяяяярррртуувыыызыььььжуьввжжуутяяокгб╨╢Ё╠╝╜╜╛╙╘╘╖╔╔╓╒══²²°  ⌡ ≥≥≈√∙■√ ·║╓╓╒·°⌡ °°⌡ ≤≈≤ ≥≈≈≈≈≈√≈≈≤≤≈≤≥≈∙√≈∙░▌▐▐▌█┼▀▄┴├┘┐└┤┤┐│┌┤┤└│}{}─}{yvrpomjijlprrqnkhffffeeda``b``_^_bcbbdeeefeddilkhda_^^__][[]\accdbcfklliecbbhgddhkhcadfggggebcfmrolonommsvvwzyxz}~||}||│┐┌┌─│┌└┘├┤┤┤┴┼┬┬┬┼┼┤┴█▒⌠▓▓⌠√≈≤ ·ё╓╓═║╓╕╘╘╘╗╘╙╚╙╙╛╝╟╟╠Ё╢╢╢╢╢╤╦╨╪╪╩╪╬бегххилоруьззыыыььвжууууужввььыызшшыызыьзззшэччъчччччщщэшшзззззыззыььвввьввввжутсяпрряооккккйиххкигфдца©╪╩╦╤╤╣Ё╟╗ё≥▐┴┬┤├┘└└┐─┌├██▀▀▐▌▄█▀▌▐█┼┬├└}~~└▄▒▓⌠▓░┼┌zwwtqmjhgfehikmkihhfcbabbbcccfggkpponmmljhfgedefeeehjlkifdcjllihlqtpostqpsutsssstuuwwxwwy|~└┴┬└┐┬▀▌░▒▓▓▓≤≥≥≤≤≥⌡⌡ ≥≤≥≤√√≈≤≥ ≥ °·÷·²·÷÷═ё╕╗╗╗╖╕╕╕╕╕╕╕╖╗╘╙╙╙╚╝╟╡╠╞╜╟╠╡╢╣╢Ё╠╡╡╡╡╟╜╚╚╝╝╞╞╞╟╠╡Ё╡╟╟╠Ё╢╣╦╨╩╪╬бхлпясжзэщщчщшыыыызьызшэщщщзвуттсрряяярррряооппппяяоппппярсррррррсссттсрррртсссссттссссррссрсттссссттттттсстжьывжжввзэщщщщщчщэщщшшэшшззззыьззыззззыызэщщщээъщээээшшьызыжтшzьоннооноопппяяпяяяяярррпяярррррсстсррстусрртутстсссстууттссуыззшшшшшшшшшззыыззшшшзшшэшшшшззызззшзыыыьввжутужвжусстсррррссссттттрррряяяяппппппппнннмммннмннонллноооооопяяяяяррррртжвьззызыьььвжувжжуууттрянйфа╨Ё╢╡╞╜╜╛╙╘╗╖╔╓ё╒║══÷² ≥≤≤≈≤√⌠⌠∙ ═╓║╒╒═²⌡⌡⌡≥ ⌡ ≈√≈≤≥≥≥≤≈√√≈≤≥≤≈≤ ≤■■■■▓▒▒░██┼▀▄┼┬┤└┘┤├┐─│┌└└┐─|{|~}}}|ztpmnkhhhjlnmmkhedcdhgfdb```aaa`aba``aceeedcafjkifc`___`_]]^]___aabehkkhdaa`edaafkidbeggghihbcfmtrmmlnmlquvwyxxz}~|~|}│┐┌│──┌┘└┐└┤┬┴┴┬┤├┤┬┘┬█▒⌠⌠⌠■≈≤≤ ·║╒║═╒╓╕╖╗╘╙╖╘╙╙╙╛╞╠╟╠╢╣╣╣╣╣╤╥╧╩╩╨╪©дфхгффйнятьззыыыыьвжууууужвьыыыьзшзыьыыыыззшэщчччччччщщэзыыызшшшыыыььввжвввввжуттяярсяполлллкйихкйхфецаю╫╪╨╥╤╣Ё╟╖║≈▄┬┬┤└└└└┌~┌┘┬▀▄█▄┴├┘┘┤┴┬├┐│||{|┌▀░░⌠▓▒▄┐xssrpmkhfeegiklkihhcaabddbab`cgjorponmnoomkkheeffghilnlgccdikkijnsuqqstqpstqqpqrtvxyyyyxy{}─~│┴┴┘├┤┴▀█▌▐▌▌▓∙≈≤ ⌡ ≤≥≤≤≥≥≈≈≤≥≥≥≤≤ °°²°⌡°÷╒╔╖╙╘╗╖╖╖╖╗╖╖╖╗╘╘╙╙╚╛╝╟╠╞╜╚╜╜╞╠ЁЁ╠╞╡╡╢╤╢╟╜╛╞╞╟╞╟╠╡╢╡╡╠╠╡╢╤╥╨╩╩╩╫бгйноржзэщщщэшзыызшыызшэщщщшвтттсррярррррррнопяпоппряяпппяярррсссссттутсррсссссссттсссррсссссттссссттттттттувььвввььзэщщщщщщээщщээщшшззззыьзззззшзззшэщщщщщъщээщщэззыьжутшzьонноонноппппппяяяяяррсппяррррярстсррсттсярстсрсссссстутттсуьззшшшшшшшэзззыыззшэшшшшэшшшшзыыыззшзыыыььвжуужжжусссссряррсссстуттррряяяяяоппяяпооонннннннмннонллноооооопяпяяяярррясжвызшыьыыьвжжжжжжуутттрплхдю╧Ё╢╡╞╜╜╛╙╘╖╖╕╔╓ё╒║║÷² ≤√∙∙∙■■√⌡═ё╓═══÷²⌡⌡⌡≥⌡²° ≈√≈≈≥⌡≥√√≤ ≥≥≤≈≤ ≤■⌠⌠⌠⌠■⌠▐▀▀┬┴▀┼┴┬├┘├┘└┐┐┌─┐┐┌│}|{z{}~{tmkokiiiijkjihfcbbcigdcccb`acccba_\]^_abbbb`cfhhgd`^]^_^]]^^]ZY]__aeikhdbaaba__ciifefgffghhcbdlutmkkmlkorsvzyy{~││─|~~┌┌─┌└┐│┐┤┬┬┬┤┘└└┘├┬▀█▐▓■∙≥≥  °··²°═╓╖╗╘╙╛╖╗╙╚╛╜╞╡╡Ё╢╣╤╤╥╦╥╥╦╨╨╩╫юцегфдеимпсвыыьььыьвжууууужвыыыььыыыььззыызшшээщщщщщщщээшзыыызшшшыыььввжжввжжвжуусяпрряппллллкйиийигедцба©╫╩╦╤╢╡╝╓·⌠┼┤┤├┌─││}~│┐┘┴▌█┬┐─~|~~|{{~|z{┐▄▐█■■⌠░├zrqppolhfefgijkjiihca_adedaa]`gotuqspnorsqnokgeefhjjlnkfccfhhiilpstrqrspprsqpooqtwyz{||{{{|z}|│┴┴┘┤┤┬┴▀▄▄▀▀▌▒⌠√≤≥≤√≥≤≤≥≥≤≤≥≥  ≥ °°⌡·²⌡⌡·╒╔╖╗╗╖╖╖╗╗╗╗╗╘╘╘╘╙╙╛╛╜╝╝╝╛╚╚╚╛╝╟╠╟╞╠╠╢╥╥╢╠╞╝╝╝╝╝╞╠╡╟╠╠╡Ё╣╥╦╨╩╩╨╫цгикмяжзэщщээззызшшыызшэщччшвтсссссрррряяяянпяяпоппряпппппяррсссттттуутссссссссссттсссссссссссттсссууутуууужжжжжвызыззшшэщчщээщщээщшзыыззыыззшшшшшшшээщчччччэшшщчэзэыжтутш}{ьонноонноппппппяяяяярррппяррррярррррррстряррсррррряярсттттсуьззшшшшшшшэззззззззэшшшшээшшззыыызшзыььььвжужжжутсссттсрррсррррстссррряяяппоппяяпонппоооооонмнннммноооооопяпяяяяяярпсувьззьвыыывжжвввввжутспмидб©╧╢Ё╠╞╜╛╚╙╘╖╗╗╖╔╔ё║²°⌡≥≈■■∙▓∙ ·╒╓ё║═÷÷÷²  ⌡≥⌡°²⌡≤√∙∙≤ ≥≈≈ ⌡≤≤≈√≈≈√■∙■■∙√■▐┼┴├┬┼┬┤┤├└└┐┐└┘┌~┐┐┐┐│~zwxy}zrkimihiihhihhhfdcdegebacedb`cffda]Z[[[]^^_`abddeda^_^^__]]^^\XW[^^_chkiebbbba^\`egfffeccdffcccjssmjjjhilmoszzy{~───~│─┌│~}}~─┐┐┌└┬┬┬┤├└┌┌└┘┤┴┼▄▐▓■≤ ⌡  ⌡ ≤∙ ╒╖╙╙╚╚╘╘╚╜╜╜╝╟Ё╢╣╤╥╦╧╨╨╧╧╨╩╪©цацддцдхлняуььвввьвжууууужжвьыыььвьыьыззыызшшшээщщщщээшззшшзззззыыьвжжжжжввжжжжуусяпяряппмлллкйииихфдцбаа╬╬╩╥╣Ё╟╜ё ▐┬├┘┐│~─│~│┐┐┘┤▄┼┌~~|yyyz{zzz|{yz┌▀▌█▓▓⌠░┬}uqpqqojgghhijihihgdb__bffd_\_jtzyttqoorrqnokgdcdhkjlljfdeggghjnqrrspqrooqqrqpopsuwz|~~}||}x{┘┴┬├├┬┬┴▀┼┴┼▀█▌▌▐▒∙≈√ ≥≤≥≥≈≈≤≈≤≥≥ °°⌡÷÷·²÷╒╔╔╕╕╕╕╖╗╗╗╘╘╙╙╙╙╚╚╜╜╛╛╜╜╛╚╛╛╛╜╞╟╟╠╟╟╡╤╥╤╢╢╟╟╞╝╝╝╟╠╝╞╟╡Ё╣╤╦╦╧╨╨╬еиййлпуыэщщэшззызшшыззшэщччшвтссррсссрряяяяпярряппяппппяярясссстттттууттсстссссссстссссттсрссссттссуттууужжвжттжьызыыыззшщччээщщээщззыззззыызшшшшшшээщщччччэшшэщщэзэьтсттш|{ьпнноонмопппоопяяяяяяяряяяррррррряярссссссрррррррряяястстсствызшшээшшшшззззззззэшззшэээзззыьызшзыььььвжжввутстустттсррсррррсссрррряяппппппппоонппооооооомлмнмнооооооопяяяяяяяяяятжьызывьььььввввьььвусрокфбю╬╨╣╡╠╝╜╚╙╘╘╖╘╘╖╕╓╒÷⌡  ≥≈■■∙∙⌡═ёёё║÷═÷÷÷·⌡ ⌡≥ ⌡⌡ ≤≈√≈≤≥≈≈≥ ≥≈√√√√■■■≈√√√√■░▌┼┬┴┴├┘├┘┐┐┌│┐┐─}──││{vrtuy|xpkjlhfghfeffghhfeeedb`^`bb`^cggda^[ZYY[\[\^abb`__^\`^^^^\[[\\YX[]]`chmkfbbbaa^[]cghffebbdfgdcchookihgehjiksyxy{~─││┌└┐│┐┌}│┐┐┐├┬┬┬┤┤└┌┌└└├┬┬┼█░░∙≤⌡ ≥≤√∙▓√°╒╔╖╗╘╙╙╛╞╞╝╝╝╡╢╣╤╥╦╧╨╩╨╨╩╪╬аецдддцехймяувьвввввжуутуужввьььььвьыыыззыьышшшээщщщщэшшзышшзззззыыьжууужввжжжжжжуспояряппллкййиииихедцбюю╫╪╨╤╢╡╞╛╓≤▄┤├└│─│┐┐││┐└┌┌┌┘└}||xwvvxzzz{zzyz─┬█▌░▒▒█┤─ysrrrqnkjiijifefeddcaadhge^\amvzyuomlmoomkkgdbbcgjkkjhfffghhikmpqrtpopopqprqqqrstuxy||||~|~┐┤├┘├┤┴┴┼┼┬┤┬▀▄▄▀┼▄░∙≈≤≈≈≤≤≈≈≈√≈≈≤≥⌡⌡ ·═║║╒╓╕╔╕╔╔╕╖╘╘╘╘╙╚╛╛╛╜╜╝╜╛╛╜╜╛╚╝╝╞╞╞╞╟╠╠╟╠╢╤╤╥╦╣╢Ё╠╞╞╟╠╛╝╞╠╡Ё╣╤╥╧╨╩югйййкнсьэчъщэшзззззыызшэщщчшьусрярсссрряяяяпяяяяпяяпппярсррсссттттттууттсстттссссстссстттсрссрстттстттуужввжуттжьыыыыызшэщщчщщчщээщшззззззыьызшззззщщщщщчччээээщщшзыжсрстш}{ыпонооомопяпоппяяяяяяяярррррссссрррсттстттсррссррряяясусссрсжьызшээшзшшзззшшзыышшззшэээзззыьызэшзыыыыьввввурртвсстсрррссррсттсрсрряяпппппоооооооонннннномлмнннооооооопяяяяяяяяясжьызшывыьвьыывжвьььвусянкеа©╬╩╤╠╟╝╛╚╙╘╘╖╘╘╖╔ё═°°⌡  ≤■⌠∙ ═╔╓═÷═║÷·÷═·°⌡°°⌡⌡⌡⌡ ≥≥  ≤≈≤ ≤√√∙∙√∙⌠▓■≤≈≈≈√■⌠⌠█┼▀┼├└┘┘┐┐┌││┌|z|~~|wsppquyvolmmheffcbccehhgeddaa_]\^^]\bggda_^YXYZ[ZZ\`aa^[[\\_]\\[YWWZ]\[\]^adjnlfbaa``^Z\bhjggecbehjcddglliiifehkhktxxy|┌└└┘┤┘┌└┐│┌─┌┐┐┐┘├┤┴┬┬┤┘┌┌┘┌├┬┬┼█▌▌▓√ ≥≈√∙■⌠∙≤⌡·║╔╖╙╙╛╟╠╟╝╞╟╡╢╤╤╥╦╦╪╨╨╩╪╬бефффееегимптввввввжууттуужвввььььжьыыызыьвьзшшэщччщщэшзыызыыызшшшывжттужввжжжжжжуспояяяпплкйииххийхфдбаю©╩╩╧╣Ё╠╝╚╔≤▀┬┤┐──┐┘└││┐┌~|{zzzssqquyzyz{|{z~├█░▒▓▒█┬└}vtsrrpnljiigdcccaacdfhjgc^]douwvshhhjlljgecaaabfilkigggggijklmnpsuonoopqoopqsttttvwyz{|~─┌─└├──├┤┴┴┼┴┤┘┤┼┼▀┼┬┴▌⌠√√∙∙≈≈≈≈≤≥≥≥≤≥⌡⌡  ·╒ё╔╖╗╖╗╕╔╕╖╙╚╚╗╙╚╛╜╜╝╞╜╜╜╜╝╜╛╛╞╟╠╠╟╞╞╟╠╟╟╡╣╤╦╨╦╥╣╡╟╞╞╟╛╝╟╠╡Ё╢╣╧╩╩╪агйиккмяжшчЮчщэшзыыыыыызшэщщэыжтрпясссррярррппппппппряярссяпттттттттттуттсттутттстттррстуусясррстутстттуужвьжутувььььызшээээчщщчщээщэшзззззывызззыззщщщщщщччщщщщщэшзжтсрррш{ьопоооонооппяяяпяяяяпяяярррпярттсстттряясттрярссррярссссссстжьзззшшшшшшзззыззшшшзззшшшзыыыыыыззшззыььььььвусрсстсряяяяяярссссррсряппяяропяяоннооонннннмонмннооонннопярспяяяясроотышэшзвыыыыььвжуьыьжтсякхц╬╬©╪╤Ё╡╟╜╙╘╗╗╖╖╕╔ё║·°°°⌡≤∙∙≈ ═║ё╓ёё║║²²·║║÷°⌡≥⌡°⌡⌡°°⌡⌡ ≥≥≤≤√■≈≤≈∙▒▐▒■■■∙≈≈■▓▓▌█┼┬├┘┐┌┐┌─│|xxxwusqpopsvupljhgeefeb`_agjgdb``^\\\[\]``add`__ZXWYZZ\`bba_\YY[\][YYXWY\^^[[_`_eeiiccecba`]\^djhihfdcdfcfhhijiffghjklorvy{}│┐└┬┤┤┬┬┤└┌┐││└┤┤┘┘┤▀▀▀┼┴┤└┌┐└┘┤┬┼█▐⌠⌠■∙⌠▒▒⌠■≤≥ ⌡⌡·╓╖╙╚╚╝╡╢╠Ё╣╣╣╤╧╩╨╨╩╪╫╬юбддфгффхклнсвььвжуььвутттутужвььььввьыьвьзьыззшэээщээшшзззьшэзызззввььввжжжжжвввжжсяпяпононмлиггикгггфда©╬╪╨╨╥╡╠╞╚ё∙┴└┌┌┐┌┘└┌─~~|zvwxxyzwtqonruwvvxzz{~┌┼⌠■░■▓┴├┌wvsrrplkkkhfcbba``acdgifc`bhpttrrkidbefefbdc__dhghhiihhhhiikopppppqqommoqpqsuuttvywvy||~─┌┐┐┌│└┤┤└├┤┘┐┘┤┬┼▀▀┼┼█▐░▓▓▓▓▓⌠■■≤≤≥≥≥ ⌡²°²║╓╔╔╕╗╗╖╖╘╚╚╛╜╚╙╙╛╞╟╝╚╝╝╝╜╛╚╛╛╝╠╠╞╝╞╟╞ЁЁЁ╢╤╦╨╩╤╥╦╥╢╠╞╝╞╟╡╡╡Ё╣╤╨╨╩╬бфиййймяжшщъщэшыызыьзззшээщщщзурррссяртсрярсяяяяяяяяррряярррсррстттсссттттттттутттссссссттттссттууттужжвввввжутжьььььыььыщщэщщэшшшээззззшзывзыызшыышэээээщщччщщщщэыжрстсссш}{ьппппппооопппппяррряяяррряяярссссрсттсррсттрярстсррссттсттттжьзызззшззззззззззшшзззшшшзшшззззззшшзыьвввввжуссстсссррррряррссррррряяяяяяопяпооноооооонннннммнонннноопяяяпяряяряопузшшзывььььввжжжьыьжтяойга╫╫©╪╤╠╟╞╜╚╙╙╘╗╖╕╔╓╒÷²° √∙≈⌡÷║╒╒╒╒╒║══°⌡°═║÷°⌡ ⌡°⌡⌡°⌡     ≥≤≈∙≈≤≈∙▓▒▒⌠⌠⌠∙≈≈■▓⌠▐▌▄┴├└┌│~──~|||{xwuuutrpmnpssplkhecbddca_agjgc`^^]]^\[\^`aaabdb^ZXX[\\^accb`\Z[^_^ZXZYWXZ]]ZZ^bcghiheegefeb_]^chijifddddcegikkhdbdghijnruxyz─┌┘┐┐┘┤┤├├┤┐┐┘├├├┤┴▄▀┼┴┴┬├┘┘└└┘┬▀█▌▄█░▓▓▒▓■∙≤≥≤ ⌡°═╓╗╙╚╜╟╠╞╢╤╤╤╤╧╩╩╩╪╫©ацфхегхгфхклптвьввжуьвжжуууутужжвввжьььыыььзьыззшэээщщээшшзззшзыызшзыыьввжвввввввжжжтяпяяононнлйихххггфеца©╬╬╫╫╨╣╡╝╗⌡█┐──│┌┌─|zzzytuvwyzxurppqstwy{|||~│┤▒∙▒▓▓▀├┌|xutsqnmnljfb````acdeggda_biqutqogfa`bcaadecabegfhggghiiijjloqpooqqpomlnopqtutsux{xwxz{}──┌┐┐└├├├┘┘└┐┐├┬┴┬┴┼┴┼▄▌▌▐▐░░▒▓⌠⌠∙≤ ⌡⌡⌡°·÷═╓╕╕╔╕╗╕╔╕╗╘╘╙╛╚╚╚╛╜╜╜╜╛╛╛╛╚╚╛╛╜╞╟╞╝╝╞╟╢╢╣╣╣╤╤╥╤╥╧╧╦╣Ё╡╞╟╡Ё╢╣╤╤╨╨╩╬бфийййлпузщъщщшыыззьззшшээщщщзвтссссясттрярсрряпппяряяяяяяррсррсттссттттуттттттутттсссстттттссстттттттуужжжжжуувьььььыььзэщэчщэшшшшшшшшшшшыьшззшзыызэээщщщщщчщэээшьусстсссш}{ьпппппяооооооооппяяпппясрпярссрррррссссрстсрррсссррсттттттттуьыыызззззззззззззшззззшшшшэшшзззыышшзыьвжжвжжутттуссссссррррррррррряяярряпопппоооооооооооонмммнннноопяяпппяррярряоявшэзьввььььввжжьызьжспнйф©╩╪╬╪╤╠╟╞╝╛╚╙╘╗╕╓╓╓ё═·═⌡√√⌡║╓╔╓╒║═══÷··°²÷═· ≈ ⌡°⌡⌡°⌡≥≥   ≥≤≈≈≥≥≈∙⌠▒▒▒▓■√≤≈■▓⌠▓▒▌┼├┌~{}}zvvy{xtqqrrpmkkmpqolkgc`_bdcb`afjfb_\\^_`_]^a`ca]`ge^][[^_^_adedb^[]a`_ZXZYWX\^^ZY^dggjiefhfeggfca`bdikjgegfcefgjmlgb_adeefkpruuw{~│──┌└┘┘┤┬├┤┤├┤┬┼┼▀┼┴┴┴┬┬┤┤└┌┐┬▀▄▀├┬▀▐░░▒⌠√  ≤≥⌡⌡⌡╒╖╚╜╝╟╠╟Ё╣╥╥╤╦╩╪╧╨╪©адгигииггикляувьвжжувжужввжужжвьььввьььыывьыьызшшээщщщээшшззшзьвышшышзьвжжвввввввжжутряяпооомллкйихггфедбю©╬©╬╬╪╤╡╜╔≥┼──}{}─~~zxxyzttuvyzxtrrssrsvyz|{z{|┌▀■■▒░█┤│─{ywusonmkifc`___adfgfeb_^ckrurnleea_ba^_eedefggfgfefhijikkmpponorqonmllmpruutsv{}zyyz{~│┐└┘├┘┐┘┘└└┘┤┬┤┤┬┤┤┴▀█▄██▌▐▐▐░░▒∙≥⌡⌡⌡²÷║ё╕╖╕╓╔╖╔╓╕╗╘╘╘╙╘╙╚╙╘╘╛╝╚╚╛╚╙╙╙╚╛╝╟╟╞╜╞╠╡╡╢╣╤╤╥╥╤╥╧╩╩╨╦╤╟╠╠Ё╢╤╤╤╨╨╪©цфхйийкнсьщъщщэззззьызшшшэщччэьжтсссстттсррссряпппярппппяяррсррсттсртууууутттттуттттссттттттссстттттсттууужжвжжвьввььыыызэщэччщэшшшшэшшшэшзызыызшззшээщщщщщщчщэшшыжтстсррсш~{ьппппппнноооооооппппоппсряярссррряяррссрстссрсссрррсттттттттувьыызззззззззззззззззшшшшшзззззыыышзыыьвжжввжуттттррссссррсрррррррряпярряоппппппппооооооооннммннннппярряяпрррярряпрвээыьввьььььвввьззьжспмид╬╩╪╬╪╦╡╠╟╝╜╚╘╗╗╔ёёё╒═÷═°≥°║╕╖╕╔╒÷··÷÷·÷·²·═· √ ⌡⌡⌡°²° ≥≥≥≥≤√≈≥⌡≥√■▓▒▒▒⌠∙≈≤√⌠▓⌠⌠░█┼┤┐|{{ytqrvzuronoomkkklnonlkfc__accaaafifba^^_bccabdbeb]`ff`a_^``__bfghfa^_b`_\Z[ZXX^_^[Z^cfeieaehdccfhhfecaflmhgihdfgilnlga_^`abcgloqqsx{|─│┌┐┌┐┘┬┼┴┤┤┴┼┴┴┴┬┬┴┴┬┤┬┘┐└┤┴┴┤└├┴███▌░∙⌡°≤≥⌡⌡ ═╕╚╝╞╠╠╠╠╢╤╥╤╦╩╬╨╩╫©ацфхийиггиклрувввввжвжууввжужввььььььвьььжвььызшээщщщщщээшшзшзыьыззызыьввввввввввжжутсяппоннкййкккихггфеца©╬╬╪╩╧╢╟╛╔⌡▄┌│|wx|yzzxxyzyvuuvyyvsssuvustvy{zyyy~├▓√▓█▌┴─}|zxtokifffeb`_^acfgfca_^dkqrokhfea_a`^_edehkjigeefffhijijlnonnosrpnnmmmqsvwvvxz}}{{{}─~─┌└└│┌┘┤┬┬┤┘┌┤┤┤├┬┼▀┼▄▄████▄▄█▒∙≈≈≥°═ё╔╖╕╓ёё╔╔╔╖╘╙╘╘╙╕╗╘╗╖╖╘╛╛╛╛╚╙╘╘╙╚╛╞╠╟╜╞Ё╟╠╡╢╣╤╥╦╧╧╧╩╪╪╨╦Ё╡╡╡Ё╣╤╤╨╩╪©цфхиииймявэъччщшзззыьзшэшшэччщыжтсстттутсрссрряяппяяппппяррсссссттсрууууутттттууутттттттттттссстттттттуужжжввжжвьввььыызшэээчщээшшшшээшшшшзыььызшээщшэщщчщээчщшзывтрстсррсэ~{вооооопммннопппяярряяяряррряярссррряррссссссссссрррсссстттттужьыыззззззззззззззыззшшзззыыыззззыыыыыььввьвжуттттррссссррссрррррряяяяррпояяппппппооооооооонммнооноопяряяпсрярряяпсьэшыььььььвввььыззьжтплгц╬╩╪╬╪╧Ё╡╟╝╜╚╘╖╖╓║╒╒═÷÷°²÷ё╗╘╗╕╓╒÷²·÷÷═²°°·══²  ⌡⌡⌡°·²⌡ ≥≤≤≈∙≈≥≥≈■▓▓▓⌠⌠▓∙≤≈∙■■∙▒█┴┤┬├│}{xuqopruqomlmmmlllmmmlkjfdaabcb`dbegeddcbbcfgggghgebadeeda_`a`befhjjea`a`ba^^[Y[^][Z\_bccgc_egcb`dgiihebdknjghgdefimomifa][^`bfjoppquxy|──│┌┌│┌┐┬┴┴┤├┬┬┘┤┤┬┬┴┬┤├┴┬┤┤┤┤├┘└┘┬┼▀┼▀█▓ ² ≥ ⌡°²ё╘╜╞╟╠╠╟╡╣╥╥╦╪©╬©абцегхийиххйлляувввььььжуужвжтуужжввьььвьььжвььызшшэээщщщээшшзызшшзыызььввььвжжжжжжжжжтсяооонмлйййккйиххггецю╫╪╧╥╢╟╞╛╖°▄│yrrvsstuxzywwvvxzyvsrqqstsstx{{yyy~├▌≤⌠┼█┴|{{zxtnifcdddcba`acefdb_^`djnnlifec^]_]\_bbdhkkihdegfeegjggilllmotsqpooonrtwxyzyy|}~}}───~~~}└┬┴┬├┐│┤┬┬┤┤┴┴┬┼┼▀▄▄▄▀▀▀▌▒▓⌠√°║ё╓╕╔╓ё╓╓╔╕╗╙╙╗╗╘╔╖╗╘╗╗╘╙╚╛╛╚╙╙╙╙╚╚╝╟╞╛╝╡╠╠╠╠╡╢╣╤╩╨╧╧╨╨╨╧╥╣Ё╡╡╢╣╥╩╩╫юдгхиииикпушъчччшзззыызшэшшэщъщзжсрстттутссссяяррряппяяяяррссттттуутстттттттттууууттттттттттттттттууууууужжвввжжввжжььыызшшэщщщэшшшэээшшшшшзыььыызэщщшэщщщэшшщэшыьжтрстсррсэ{вооонноммннопяяпяяяяпяяпрсряярсрррррррсссссссстсрррсссрсттттужвыызззззззззззззыыззшззыыььышшшшшыыыыьььвьвжутттсрррсссррссссрррряяяяяяппяяппяяяпооооннннонмнноооннопяяяпсяярряяятьшшыьььввжжжввьыззьжсокда╫╪╪╫╪╨Ё╠╞╝╜╛╙╘╕ё║║║÷÷║÷╒╕╘╘╖╓╒ё╒═÷·÷═║÷÷··÷÷·⌡ ⌡⌡⌡²·²⌡⌡≥≤≥≤√√≥∙■⌠⌠⌠■■∙░■√∙⌠■√≤■▐┼┤├└zyvsqonnnmlklmooolnomkjjjgfddcca`ecegeefffeegiijjnjfedcdhda_`aacgfhklidabcfeb`][^^\[\_bdebcbbfgdbadeefhgecimkhhgccdglonmld]Y\_bfjoqppstvy──│┐└┐└┘┤┤├┘┘├┘┐┘├┤┬┴┴┬├▀▀▀┴┤┘└└┐└┘┤┬┬▀▌░≥²⌡⌡ ⌡·÷ё╗╛╞╟╠╠╟╡╣╥╦╧╪ююацддегхийихикллятвььызывжутужжужжввьььььььыывьыьыззшшээщщээшшззьышэшыызьвввььвужжжввввжтсяононммлкйииииихгфец©╪╩╥╢╠╝╝╜╗≤┴~zvqqsqrsuy{yuvuwz{yvurnlmqsuvw{{zyx|┘▄√▒┴▀┬~zvwwurniecbaaabbbcbbcc`__cehjlkheda]\^\\``acfiigeceffeefhefgijkmpssrqpppqsuwy{|zx{~─~~│┌─│}||{|}┌┘└┐┐└┘┤┴┴┬┤┬┬┬┬┴┴┼▀▀▀▄┼▄▐░▒∙⌡═╒╓╓╓╓╔╕╔╔╕╗╘╗╕╕╗╖╗╙╚╚╚╙╘╗╘╙╚╚╚╛╜╚╚╜╝╜╜╝╟╞╞╞╞╠Ё╣╤╩╨╦╥╦╦╧╧╧╦╤╢Ё╢╤╦╩╪╬адгххххикоушъчъчэзззыззшшээшшчщшвсрсуттттссстяярссяпоррррррссттттууттттттттуууууууттссстттттттттттуууууууужжжвжжввжжьььзшэшшщщээшшшэээшззззыыыззыышэшээээээшшэшзьвусрсссрстэ{воонннннннноппяопппооппяяяяяяррярссррссссссссттссрссссррсссстжвьыыыыыыызззззззыызшззыььвьызшшззыыыыыьввьвууууутсссррсссрссссряяпяряпппяяпоопяппппооннммннммнооноопппяяясяярряяруьшзыьььввжжжвььызывуямха©╫╪╪╩╩╩╢╡╞╝╜╛╙╘╔╒║╒║÷║╓╖╘╚╙╕ё═÷╒ё╒║÷÷═║╒╒║·²²°⌡⌡⌡⌡⌡²·°  ≤≤  √■∙⌠■∙√∙■⌠⌠░■√■▒▓√≤≈⌠█┬└─|yxuqnljjlmkjknppnknpmjhiigggecbbbecdfeeffgffghhjmojfdccdfeb`aa`beghjljgddiifb`]\^^]\\^adeb`cghgebceecdgfdbeilmmjgecdinoooha[\^_djmppoqruy~~│└┘┘├┬┤┘└└┘┘┘├┘├┤┬┼┼┼┴█▄┼┤┘┐┐└┐┌┐└┘├┼▌▒≤²··²²║╒╓╗╛╝╟╠╠╟╠Ё╤╦╧╩╫©юбцдефххиййкмнмптвьыызывжутужввыыыыыыыыьььыыььзьыыззшшшщщээшшзззззэшззшыьввььвжвввввввжутрононмлллйиииийхедбю╬╩╧╤╢╠╞╝╛╕▓┐xusrstttuvxzwtuvy|{xuurnklpsuwx{|zxvz┌█▒█┼┼└|{tuuromheda__`ba`a_^`aaabdfgikkhdb`]]^\\`adfffgfcccdeffffffghijmqrrrqpprssvyyz{{y}│┌┐└│┐─}{zz}──│─~│└┘├┴┼┴┤┤┬┬┴┴┴┴┴┼┼┼┬▀▌░▓√≥°║║║╒╔╗╗╕╕╕╗╘╖╔╔╖╗╘╙╚╙╘╗╗╕╖╘╙╙╚╛╜╜╝╝╜╜╞╟╞╜╝╞╠Ё╣╥╦╧╦╦╥╥╥╧╨╨╩╨╦╤╤╦╨╩╪╬аегххгхикнтзъщъчэзззышззшээшыэээыурсттттсстттрссссряпсссрррррттттуууттттттужжжжжуутсссссттттттттттууужууууужжжужвжужьььзээшшщщщэшшшшээшззззыызззыызшзщщэээшшшззывутсррстсстэ~{ьооннмнооннооппппяяпппяяяпярррппяссссстссссстттттсссссрррссстжвььыыыыыызззшззыыызшзыьььжвьзззыыззззыьвжвжууужууттссрсстррсссряппяряоопряпоопппппппоннммнмммнннняяяяяяррсяпрсрярвыззыыьвьввжжвьыызыжтпкф©╬╫╪╩╨╨╩╥╢╟╝╜╚╘╖╓╒╒ё╒═ё╖╚╚╙╖╓╒║╒╒ё╓╒═·÷║║╒║·°²··°°⌡⌡°²⌡≤≤√≈⌡⌡√▓▒■√≤≥≈■▒▐▓∙√⌠▐░⌠√∙▓▌┴┐─~}zuokgfimolikopnkjnpmhghhghgecbbdebdfeeedffffffjnnidabccbfcbba__bggikkhfelke`_\[\]\[ZZ\`cb^cjigfcdfecdfd``bflrsplhcbfmoonme_]\\bijnonprv{|}─└├├┤┴┴┘┐┘├├┤┴├├┤┬┼▄▄▄█▀┤└┌│┌┐┐┌│┌┌└┴▌■≥²═╒═÷ё╒ё╕╘╛╝╝╞╟╟╠╣╤╥╦╩╬©ацдфхихиййлнонптьыыыыыжжуттжьыззыыьььвввьыьвьзыыызззззщээшшзззщзызэшзшшывжвьвжьььььввжууроноомйклкйийййгца©╬╪╩╥╣╢╡╞╝╘ё▄~spoqsstuvuuutrvwz}{wtsromoqstv{~~|ywz┌▐█┼┼┼│|~tutpmkhdca_`bb_\^[Z]acdfefghklid`^[]^\[_dhifegebcbbdghfdggghhjnrpqqqoprtswzyyzzz─└┘──└├┐┐│~|{{~┌│─~|}─┌┌└┬▀┴┤┤┬┴▄▀┼┴┬┬┤┬├┴▌▒■√≤≥÷÷÷═╓╘╘╕╖╗╘╘╖╔╔╖╖╘╙╘╕╔╓╔╔╖╗╘╘╙╚╚╟╠╞╜╝╠╡╟╠╡Ё╢╣╣╣╣╤╥╦╦╥╦╧╩╨╪╫╪╧╦╨╪╩╪╬бегххгхикнтзчщъчэззыыэззшэщзьзэщшвсрсттссстттттсссррятссрррррссстууутттттужжвжжжуутссссссттттттссттуувжжжужжжуужвжужьььзээшшщччщэшшшшэшзззззыьзыььшэшщщщэээээыыьжтсрррстсттэ~zвннннннлмнооноопппяпопсяяяяяяярррррррррссрсстссрстссрстсрррстуувввьыызззшэшшшшзшззыььыызыыызззыыызыььввжуужжжтсяярррррряяяяяяяярррряппопппяяяяяпппппооноонммннопоопяррярярссррсвшэывввужуужвьььызшьуяйд©╫╪╩╩╪╪╨╦╡╝╜╛╙╗╖╔ё║══╒╗╝╞╜╗ё╒╓╓ё║╒ёё║÷÷÷·÷÷·°°÷║╒÷°  ≥≤≈≤≥≥≥≤√■⌠√√≈≈√■▒▐⌠√≈⌠▐▌░▓▌▄┴└─}||ywphcdiljkkkklnprpmjiiihhjiecdeehgfedefghgfgfgjmlfa`bbbbcddcb`^]cgjihhgfdcba`^[YY[ZXY[^db]^gjecgdbcfgdbb^`adjprqlhdfjkmskhc_\^cglnooorwzz{|─└┤┴┴▀┴┤├├┬┴┼┬├├┬┼▀▀▄├└┐┐}┘┌┌┌─┌┴░∙≥⌡²÷··═║ё╓ё╔╙╞╠╡╠╠╡╢╥╦╧╬©бццфхффхййлоонтжьыыыыыывутужввшзыыыыыышзыьыыыььызшшшшэээшшшшээззшшшззззьвввьвжвьыьвуууутрпнмммллкиииклгдю╬╫╪╪╩╧╣ЁЁ╠╙╒²├zsrpoqrtvvssuusuuw{{wsrpoopqswzz{{zy|┌┬┤┤▀▌┴┘┌~{ytnkigda`^^_]Z\][[^bdegkgfhlkgd^_]\^]^ceeggefgccacgifeffghikmopnmorrqruwz|}|zzz┌┐┌─┌┘┤├┘─{yz}─┌~}{{}│┘┬┬┬┤├┤┬┴▀┴┴┴┴┬┴┼┬▀▐▒▓∙≥²²·÷═ё╕╕╔╕╗╗╖╖╗╗╖╖╘╘╕╓╔╔╔╕╘╚╙╖╖╙╜╝╞╞╟╠╡╡Ё╡Ё╣╣╣╢╢╢╦╥╥╦╦╦╦╧╩╪╪╫╫╩╧╦╧╩©бцефгфхиикрыэщщщщшшзшззшшшзззэээшьтсстсрсстсртсрррсррярссрррсртуттуууттттужвввжутсссртттттттуутсттууууттуутужуутужвьвьызззшэщщээшшшшшшшшшшэээшшшшшшшшшшээээшшыьвутсряссстттэ{воооономнооооопяппяяпясррррррррсссссссстсссттттссттссстссссстттжжвьызшшшээшшшшышшзыььыышзыыззыьззззыьжжжуужжуттссссссссрряяяяяясссряпонппппяяяяпппппоонпоннннопппопяррярррсряртвзшывьвжжжжвьыььыззвтогб╬╫╫╪╩╩╩╩╧╣╟╝╛╙╖╕╕ё╒ё╔╖╙╜╝╛╗╓ё╓╓╒╒╒║═÷···°²²²°²÷║═·⌡ ⌡⌡ ≥⌡ ≤√∙∙■■∙∙√√√∙⌠▓▓∙∙▒█▄▄▄┴├┐│}{zwurnjijlkklllmoprpmlkkkklljhggfehhfeeefggffggghjgb__`aabddedca_^adfeddeddb`_]\\[Y[YWXZ]bc^_fifdfdcdfggee`_`cgkmmjhfjnkinmjfa^_bfjlnopruxyz|~│└┘├▀▀┼┬┤┬▀█┼┬┬┴▀▀▀▀├└┐┐│~┐└┐│~}│┼▒■≤≥ °°°÷÷║ёё╕╚╟╡Ё╡╠╡╢╥╦╧╪╪╬юафигхиййлпряужьызззыжутттжжвзззыыыыышзыыыыыьызшшшшшэшшшшшшшшззшшзззызыььььвввьыьвжууутрпнмлллкйиииийгдбю©╬╪╨╧╥╢╠╛╕·≤┌xtusqrsrrrsssssvux}}xsqpppqrtxzz{|||~│└─├▀┴├┐|zvplieba`]\][YZ[Z]dgfdehfdeijgc_`]\]]]beeggdeeabcehihhhghggjmnmjknrtvxzz||{zyz{│───┌┘├├┌─}}─││~~}|{}│└├┤┤┤┤┤┬┼┼┴┬┬┬┬┴▀▀█░▓■≈⌡·÷═══║ё╓ё╕╖╗╖╖╘╘╘╙╙╗╔╔╖╖╕╔╗╚╚╙╗╘╚╝╝╞╟╠╠╠╠ЁЁ╢╣╢ЁЁ╢╤╣╣╥╦╦╦╨╩╪╬©╬╫╩╧╦╩©бефффгхххйяьэщщщщэшшшзшшшшшззшшэшьтрсттссттссссррррряпярряярсстуттужжуууууужжвжуууттсттттттттууттужжууттууттуууужвьввьызззшээээшшззшшшзззззшшззззшшшшшшшшшззыыьжттсррссстттэ{ьоооооонопппоппряяррррррррссссссссссссстссстуттстттссстссстссссужвьызшэшээшшшшышшзыыьььшшззыыььззззыьжуужжжуттутттсссстрррряяяярррряпооппппяяяяппппооонпоннноопппоппярррррсряртвзшывььжжжвьыыыьызыжяле©╫╫╬╪╨╧╨╪╧╣╡╞╜╙╖╖╔ёё╖╚╜╜╜╛╚╗╔╓╓ё═ё║÷···÷÷⌡°°²·÷══·²⌡ ⌡⌡⌡⌡²⌡≈∙■■■⌠■∙√∙■⌠⌠■⌠⌠▓▐█▀┴┤┘┌~{yzxvtpkjlmmmmnoprsqonmmmmnmkiiihehgfeefghfeeghfeedb``aabccdeedb`^abdcbcdedc`]\[]^Z[XVXZ\_b^^bfedcbdefgiihc`_bfghikijprmkpomhdbbdeklnqtvwx{|}─┌└┘█▌▌█▀▀▌▒█┼┬┼▄▄┼┴┤└┌┌┌│─│┐┌─}}┌┼░▓∙√≈≥≥≥°²÷╒ё╕╚╟Ё╣╢╢╢╣╥╦╧╩╨╪╬юеихйккйлпстввьзээшзвжуужжжжьыззыььышзыыызыыззшшззшэшшззззшшззззззззшзыыыььввьььвжжжутрпнмллмкйиййихецбаю╬╩╦╥╥╢╝╗╒ ■wuwurrspnorsppsuvy~}wrpopqrsuwyvwxz|}|{yz│┬┴┤└zyuokgc_``][\ZY[\[_gjfdeedbbfigbaa_]_^^bffhhdcb_`dggghhhijhfimnjhkosx}─~~|zxx{}─~}│┐┐┐───│┐┐┌│}~~}|}─┌└┘├┤┤┬┴┼┴┤┤┤┬┬┴▀▌▐▒⌠√≥²÷═║═÷÷║╒╒╓╔╕╕╕╗╘╙╙╘╖╕╖╗╖╔╕╗╙╚╙╘╘╙╜╝╟╠╡╡╠╠ЁЁ╢ЁЁ╡ЁЁЁЁ╢╤╥╦╧╨╩╫©юю©╫╪╧╩©цфгфехихгйпвшэщчщээшшзшшэшшззышщэьтрстттттттссррррряяяярррррсстуттужжжжжуууууввжжжжутутттссстууттуууууттууттуууужвьввызззззшэшшшзззшшшшззззззззззшшшшшшэшшзыыывуссссрсссттсш{ьппоооооппппоппряяярсррррррссссррссссссссрстттсттттттттсттттсрружвььызшшээшшэшзшшзыыьььззззыыььыызззьжтужжутттжссссссссррррряяяяяяяяяяяпппппяяяпппоооонооннноопяппппяррсррсрясуыззьвввжужвьыыььззьупйц©╬╫╫╪╩╨╨╩╤╢╡╞╜╙╘╗╔╔╖╚╞╟╝╛╛╙╖╔╓ё╒═ё║÷·÷═══²°²·═║║═·²⌡⌡⌡⌡⌡ ° ≤√√∙■▓√√√■▒░▒⌠⌠▒▌▄┼┴├┐┌─}|}|{y|ywwtnmopppopqsttsqoonmlnmlllkiggfffghhgeddfgecbcccbaaabbbddcb`_`bcccdeedca^\\]_\[WVXZZ]^\[]aca_acedfjjif`_dgedflklqsnmtpokgfghhkklqvxzz|}─│┐┘▌░▒▒░░▒▓▐▀┬┴▀┼┬├┤┐─│┌┌│──}└┼▌▒⌠■⌠∙√≈ °·║ё╕╙╞╡╥╥╤╤╥╦╧╨╫╨╩╫юейилмллморсыьышщщэзыьвжжжутжышшыььыззыыыыыышшшшззшшшззззззшшшшшшзззззыыыыыыььььввжжжусяоммлнлййкйхфцбаюю╫╨╥╢╣╠╙╔║≥▒ywxuqqqonoqrppquux|{upnnprrtvwwtstw{|yuwv|┐├┘┌}wvrlgda^`a][\\[]_\_giedgddbaejhbba__a`aehghgbab``fifeghfikjghmnljnru{│└┌─|zxy|~│~|─~~~─│┌┌┐┌─}~~~}~─│└┘├┤┬┬┴┴┬┤├┤┬┴▀█▒░▒⌠≈ ²··÷÷²²·═║║╒ё╒ё╓╕╗╗╘╘╘╗╖╕╓╘╘╘╘╘╘╙╚╜╝╞╟╡╡ЁЁ╠╡╡╠╠╠╡Ё╠╠Ё╣╤╤╦╨╩╫©юю©©©╪╫юцффедхииикожзщчччщэшшзшшээшззьзщщытстттттттссссрссряпрррссстттттстувжжжжжжууужжжжвжутутттсссстсссттттжутууттууужвььввызшшззшэззззшшшшэшшшззшшззшшэээээээээшзыыжсссссссссстсш~{ьооооооппппооппряяярсряяррррррррррррссссссстттсуттттттстттттсрружвввьыззшшзшээшшззыыьььыыыззыыыььыызывуужжутттжтссррррсррррряяяппяяяяррпппппппяппооооононннноопяяпппяррррссрртвзшзьввжжужвьььььшзьуоицю©╪╩╪╪╨╨╨╣╢╠╝╛╙╘╗╕╘╛╞╟╟╞╜╚╗╔╓ё╒║║══÷═║╒║═···÷║║║÷²°⌡⌡⌡⌡⌡⌡° ≤≈√√∙■≤≤√⌠░▌▐▒▒▌┼┤┘┐─~~}{yxwxxxvvyyustsrqqrstutsqpoonmpqqpnkiieffhiigfedceecaaacdcaaababcccba`_`bcddeeddb`]\]^\[WUWXXZ[ZXX\`_\`ceefijif``fhdbcijlpqllrrrokijllliinswy{|}~~─┌└█▌▐▒▓▒░▐░▄┬┬┴┬├└┘│}~─│─}}}}─┤▄▌▐▓▓▒⌠■∙≥°·═ё╔╗╜╟╢╤╥╦╦╧╩╪╫╧╨╫©ейкммнопяртыыышщчэзьвжуутссжьшшыььызыыыыыыышээшзззшшшззззшшшшшшшшшшыыыыыыызьььььввжжусяонмлмкйййигдцбюю©╫╧╥╢Ё╝╗╔╒≥▐│{xxtrrqprrppqqotsuwvpmmnqrsuwwvvttw|~{wtrv}──~zxvqidb`_bb_\\\[]`^afgccfbb`_diga__^_bcdgjggeaaccchkgdfgefjliiloonruw{─┌─~}{z{|}─}{}~}{{~──│─}~~~─│┐┘├├├├├├┤├├┬┼▀█▐▓▓▓■≤⌡°°²²°  °···÷══÷═╒╔╗╙╚╚╗╖╕╖╙╙╘╘╘╘╙╙╚╛╜╝╟╡╢╣╟╟╟╞╞╟╠╡╠╠Ё╢╣╣╤╦╩╪╬╬©©абаабцдеедхийкмптьщчъчщшззззшээшзыьзщчшжттттттсссстсссссрярррссттттутттжжжужжжжжжжжжжжжжутттттсссстсссттттжутууттуууввьвввызшшззшшззшшшшшшэшшшззшшзшшэщщщщшшэээшззьтррсррсссссссш~{ьооооооппппооопяяяяррряяяяррррррррррсссттстууутуттттттсттттсссружввввьызшшззшэшзыыыььььвьызззззьььызывжужжжуттуттссссссрррряяяярряяяяяяппппппппппоооннннннннооппяяяяярррррсрруышшзьвжжжжжвввььышывтнгца©╪╨╪╫╩╧╧╥╣╡╝╚╚╘╖╙╝╠╠╞╞╝╜╙╖╔╓╓ё╒╒··÷═║║═÷÷···÷═÷·°⌡⌡⌡⌡°°°·°≥√∙∙≈≤≤≈√⌠▒▐░░▐▄┬┘┌~{z{zzxwvwxwvx|}zvuutrrrtuusrppppppsssrnjhhgghijigddccddbaaacedccccabccccbb`abeffghccba_]]][ZVTVVUWXXVVY]^]`cefghiifa`ehdaaekorrlilstrmkmpqrmknrvy|}~~~─┐└┴┴▀█▌▌▄▀░▀┤├┤├└┐┐─}}─~}}|{─┴▐░▌▒▒░▓⌠■≤²·═ё╓╕╙╝╟╡╤╦╦╧╩╫╨╥╧╪╬циллморсствььышщщшзьвжууууужьзззыыыыыыыььыышэээшзззшззззззшшшшшшшшшыыыыыыззыыььььвжжусяомллкйиххгдбдбаю©╫╨╦╣╡╛╖╔║≈█│{xwututrtspoqpmqpqrqmklnqssuwwtsqpswzxvqosy|~~{|yrjdaa`bd`\\[Z[^`chgcbc`_^^cge`]]]_cddhjedc`addcgiecdeddimmlmoqqtwyz|}}}}}||{{{{zy{||||~─|{}~~}~───│┐└┘┘└┐┐┐┤├┤┼▄█▐▒⌠⌠■≈ °°⌡°⌡ ≤≤ ⌡ °°···²÷╒╘╙╚╚╗╖╘╛╘╙╚╛╚╙╘╗╚╚╚╛╝╟╡Ё╞╞╞╞╝╞╟╠╠╡Ё╢╢Ё╢╤╨╩╫╬╬©ацдееедцддххйлнптвщчъъщшзыызшэшшзыызщчэвуустттсссстссрссссррррсссстуутужжуууужжжжжжууууууттттттсссттсстуутуттууттуужввввввызшшззшшззшшшшшшшшззззззшшэщщщщщшшшшшзыьвспрсррсссссссш~|ьппппопяяяпоооппрряярряррррррссррррссссттттууутутттттсстссссссстуввввызшшшзызшзыыььььььвьыззыззыьвьыывужуужжуттутссссссрряяяяяярряяпппяппппппппппоонннооннооопппярсрррррррсрржзшзыьввввжввввьызшывсмеаю©╪╩╫╪╧╦╨╧╤╠╜╛╜╚╘╞╠╡╞╜╛╛╚╘╖╔╕╕╓╒╒·÷═══÷÷÷········°°°°°°²²·²⌡≤∙∙≈≥≈√∙⌠▒▐▌▌┬┤┤┘│|yyxyyzzzzyyyz}~}zwxvtstuvvtsqpqqrrtsrqojhhkjiijhfdccdedb`abdfdccdcaabbbcccbabegghjddcbba_^\[WTUUTWVUTTWZ]^_`cfgfghhc`dgebacmtusokkrtsnlqvy|vrsuvy}~}~│┌┐├├┬┬┴┴┴┼█┴┘┐┐┌┌┌┌┌│──~|}~}}┐▀░░█░░░▓⌠■≤°²÷╒╓╔╗╛╝╡╤╧╧╧╨╩╩╦╨╪╪югйклорссуввьышшшззыьжуужжжввьызыыыыызыыьыззшэээшззззззззззшшззззззыззыыьыззыььььвжутрпнлкйиихгфецбцбаю©╫╧╥Ё╞╚╗╔·∙█│zwvuuusssrpnnnnonnpnjikmpqqsvurnmlnqssromqxz|}{~{tkecccac`\\\[\_bfhgdba_]\_ceb_]^^`eedggb```addadedcdeeehmqqoqstvy{zyz|||||{zyxvwxxy{|}}──}z{|{}~────│┌┐└└└┐┌┌┐┘├┬▀█▌░▒⌠■≈ °°⌡≥≥≤√∙≈  ≤≥ ⌡²°⌡²║╕╖╙╛╚╘╙╛╚╛╝╜╛╙╘╘╛╛╛╛╜╝╟╟╞╞╟╞╝╝╝╞╡╡Ё╢Ё╡Ё╣╥╨╫©©юацегхгдццеххилмосвшщччщэзыызшшшзыьызшщэьутттутсссттсрррсттсрррстсстууужжустуужжжжжжуутууттсстттсссттссттттуттууттуужжжжжввыззшззшэззшшшшшзшзззззшшшээщщщщээээшзыьвжяортсрсссссссз}|ыппппппяяяпооопорсрярррссссссссрррссссттссстттсутссттсрссссссттсувввьзшшэшыыззыььььььььвьызыыыззыььыьвужуужжжтсттсррррсяяяяяяяяяяяпяяррппппппппппоннннооооооппппрстсррряярсрржшзыьвввььввьввьзшшыжркд©©╬╪╪╬╪╦╦╩╧╤╠╜╝╞╝╛╠╡╠╜╙╘╘╗╗╕╕╖╗╔ё╒═║║║÷··÷÷÷····÷÷÷÷·²°°°°²·²⌡≤√√≈√∙■▓░▌▀┼─│┐└─zxxvvwz}~|yzzzz}──~zyvuvwwxwusqqrrsvsqrqnlkomkiihecabdfda`acdecaaa_a```abccb``bdehjfedddcb`]]YVVUUWTSRSUX\_]]aefeehjeacffdcbnutsqmlorrnmt|─┌|wvvvx|}{{}~─└├┤├┘├┬▀┼├┌──│┌└┘┘┐─~||~─├▌░▌▄▐▐░▓⌠■≈°°÷╒ё╓╖╚╠╢╧╨╧╦╦╧╬╩╪╫╩╫дхллояяпсжжьзшшззззьжтттттввьыыззыызззыызшзшщщэшззззыыыыззшззыыызззшшзыььышзььььвжтсромкйиииихфдццааюю©╪╦╣╟╜╙╗╓°■▌─zvututqtqopollnmlmonjhjkmonpsronmmnprrrmkpvxz{y}{ulgeee^b`]]^^_aehgedcb`\\`deb__``bffdfd^]_`bdcacdeefghhintusrtuwz}|yz~||||{ywuswxvvy||}│┌~{{{y}─│─│┌┐└└└└┐┐┐└┘┘┬▄▌▐░▓▓■≈⌡°°≥≈√∙⌠■≈  ≤√≈ ⌡⌡ °÷═╒╗╜╞╛╘╘╝╝╝╜╚╙╚╛╝╝╝╞╞╝╝╝╟╟╟╟╞╝╜╝╠╡Ё╢Ё╡Ё╣╣╧╫ююаабегйиеццехххйлнсьзэщчщэшзыызшшзыьзызээыуттууутстутсяярстттссстттстууужвусууужжууувжутттттссстттссссррстссуттуутужужжжуужвызззззшэзззшшзззшшшшшэээшээщщщээчщщэшыьвуяортсррссссссз}zвнпяяяппппппяяяярсссрррссссссссяярррссссссссттутттсттттуттсссттттужвьызшшзыыыыыьыыыьььььььььвввыыыьввжжуууууттсусрссрярсряярсрряяяпоопяппппппппооооннннмноооооопярряяярртспяузшыьвввьввввжжжвышыыжохцю©╫╫╫╪╩╧╧╧╨╥Ё╟╝╞Ё╤╢Ё╟╜╚╘╗╗╙╘╗╗╗╖╓╒ё║÷·÷÷÷÷²·² ≥°·²··²⌡⌡°·÷÷²⌡≥≈∙√≈∙▓▌▄▄▀┤└┐─~~}zxxvux}││─{zz|~~|{yvuwzyvwwvtrpooprssromlqpnligeddfffca`abba`_`^[_aa_`cdca``begggeeccfhhe_]ZWUVVVSSTUVXYY]aegffgijhfedbaadjqtqmlmqrsrqt~┤┌─}zyyzy~}{yy|┌┘┌┐┤┬┘┐┘┬└┌┌│~}─└┤┘│~~┌┴░▓▐▐▐░▒▓■∙√≈ ·═║╓╗╛╜╟╣╧╨╨╩╩╧╩╪╫╬бфимнппяястжьыьыыывжжжжжжуужжвьыыыыьыыыыыыззээшшшшыьььььыззшзззыввыызззыыызвыыьввжстряпнйххйигфееццба╬╪╩╨╥╢╠╜╘╖ё⌡░┬│yuutuusvroonllnlmnnmlkkkklpstrpnprtttrqlnquwyz{│{mfggcaba_]^cfgfghfdba\[\cgc_b_acdcccdb]\`b`_abddcbehikjnuxvux{vv{}{|}}|zyvtstuuvwz~─}}ywy|~─┌┌~~│└┤├│~│├├┤┴█▐▐░▒⌠⌠∙ ²·⌡≈√■∙√√≈≤≈√≈≥≥≥ ⌡°·═╓╗╘╗╙╛╠╝╛╜╜╚╛╟╠╝╛╝╝╜╝╟╠╡Ё╠╝╛╝╟╟╠Ё╤╤╢╢╣╤╧╪╬©©ююгийихгфдххиклнрвзщъъчщшызззээзььыьзщчыспттууутсртсррррсссрярсттттссужжуустужжужжттттттууутссссстттттттттууттуужвуужжуужвзыызэщшззызээзызшззшэщщээшэчщшшэшэшыьыыьяяяяяррссссррсз||ьппяяпояяяяяяяяярссрррсссссссссяярррсссттттттттттттттттттттттсссттужвььззыыьььььыыыььььыыыыыыыыыыыыьввжууууууттусрстррррряяярряяяяпоопяяяяяяяяяпоооонннмнопоооппяряяяяряссяржызыьвввввжвввввьзэзыунгцаю╬╬╬╪╨╧╧╧╩╥╡╟╠Ё╣╤Ё╡╟╜╚╘╗╗╗╖╕╖╖╖╔ёё║÷·÷÷÷·°·²≥≥°·²²··²°²·÷══°≤√√∙⌠▒▐▄┴├└┌│}}}}zwwwwy}─│~|zz{{zyywutvxwuuutsrrqppqrrpnlkqpnkheccfeeedba_aa_^__^[]_abccb``acfggffcccceffcb`][[[ZWUUUVWXYY_aceffhikkjhecbaejpspkjkquxwvy┘└│|xvwxz~~}||~─┌┘┐┐├┤┘┐┐┬┌~}||┐└┬┤└┌│─~┌┴░▓░░░▒▒▓■∙√≈ ²═╒╓╗╚╝╠╣╦╨╨╨╨╧╧╩╫╬аеиклнопрсужьыыыззьжжжжжжжжввьыззззыыыыыыыызээшшэшзьььььыыышззшыввыьыыыыыызвыыьвжустряомйиикихфедцбю©╫╪╩╦╣Ё╟╝╙╖╒ ▐┬─yvvvvvstpmmnllmmmmnoomlkklosuusrstvvusrmnqsuwz|─┌}pfefdba_^_bfhihhhgecb]_afhc`cedca`abda^^`a_`abcdcdgkllmrxzz{~zwy┌──┐{zxvvutsuvvuvz~}~~|yyz|│┐└┐──└┘┤├┌─└┬▄▀▀█▐░▓■■■∙≈ ⌡≥≈∙▓⌠■■≈≥≤∙√≤≥≥≥  °·║╓╔╕╘╛╟╟╞╜╜╝╟╠╞╝╝╞╟╞╝╝╠╟╞╝╜╜╝╞╞╞╠╢╣╣╤╦╥╧╪╬©юабфилкйигеггиклнржьэчъччэззызээзыьыьзщчзтяттууттссттсррссстсррсттстссужууутужжуужжууттууууттсрррсссссттттттуужжжууужжжжжввзыызээшзшззэшзззшззшээээщщщчщшзшэщэшззывяяяяяррссссрссш||ыяяяяппрррррррряяррррстссссрррррррррсссстттттссттууутсссттуутссттуужжввзззыыыыыььыыьььььььыызззыыыыыьввуужжжуууутсттсррряяпяяппяяяпоопяяяяяяяяяппооооонноопоопппяяяяяярпссрсвыыьввжвввжвввввызэзыскебаю©©╬╪╨╦╦╦╨╤╡╠╢╥╥╤Ё╡╟╜╚╙╘╘╖╕╔╕╖╖╖╕╓╒÷÷══·°°²°≥≥⌡°⌡⌡²··²²·÷÷═°√■√■▐▌▌█┬┐──~}}~~|zz{||}}}~─}{xvvvvvvvussttssrqqrrqpqrsrqonmqpnjfdcchgeefeca`_]\^`^\\^`aba`^_bfihfdb`bcccdcaba_^_`]ZXXWWWXXY^_`beghiloplgedbgiorojimw}───┌│┐zutux{─│┐├┘┘├┤├└││~|||{}──┘┴┴├└│─~─┌┴▒⌠▓▓▓▒▒▓■∙√≤ °÷║╔╗╙╚╝╡╤╧╩╪╫╨╧╨╫©аейклнопрстжьыыыззьввжжжжввььызззззыыыыыыыыышшшшшшзыыыыыыььззшшыввыьыыыыыызьыывжжтртрпнмйийкйхфедцб©╫╪╫╪╥╢╡╟╞╛╗║≈▌┤─zxyxxwusnklnmmnpooprromlkknsvwwuttuvuronprttwz|│┐tiddeb`__adghijihgecb_dgiidadgda^^_`a__``__`a_`abeimnmpuxz}─┐│┘└─~─xvtrrsttuxxuv{~~~}|zzz{}┌┐┐┌─│┤┬┴┴┤├┬▄▐▌▌▐▒▓■√√∙∙∙√√√∙■▒▓⌠⌠≈ ≥∙∙√≈≤≥≤≤°°²÷║ё╗╛╞╡╠╜╛╟╡╠╟╠╟╞╞╞╝╛╠╞╜╜╞╠╠╟╞╞╟Ё╢╣╥╧╥╧╩╫╫©ацфймнмкхфгфгймортьшчъъчщшыьышэшыыыьзщчшжртттуттссттссссстттсссттттстууттуужжууужжжуттужутссрррррсрссстттттужввутсужвввввьзыышээшзэшшшшззшшзззшшшшщщщчщшшээщэшшшьурррррррссссрстш}{ьпяяяяярррррряяяяяяярстсссссррррррррссссстууутстуууутссссттттссттужжвььшшззззыыььыыььььвввььыыыыыыыыььвууужжуууттсссрррряяяппппяяппппппяяяяяяяяппооооннноппооппппяяяяяяяссртьзыьвжжжвжжжввжвызззвпхбааа©╬╫╩╧╥╥╥╥╤╢╢╤╦╥╣Ё╡╟╝╛╙╙╘╖╕╕╕╖╗╗╖╔╒÷÷══·⌡⌡²²⌡  ≥≤≥⌡·÷²²²÷²·⌡√⌠⌠▓▐▌▌█┬┐──┌~}}}}~~~}|zyyywusrssstuusrqqpomllmnmkmoqqqpnnonljgeefhgfffedc_]\\^aa^]]]]]^___bfhhfb__acbaa``_^]]^``]\[YXWWYZ\]_acfikkqtoihgehjosoknv┌┤┴┬┤┬├┌~{xvuvy}──│┌┐└├┬┴┤├┤┘┐~}{{zyz|│└┤┤└│~}~─┐┴░■■⌠⌠▓▓▓⌠∙∙≤≥ ²═ё╕╗╙╜╟╢╦╨╩╪╫╨╩╬юбгмноопяяррувььызыьвжжуужвьььызшшззыыыыызыыьыыззззыыыьыыыььызшзьвьзыыыыыыыыввввжутссяомлййккйхфедцбю╫╫╬╫╦╢Ё╟╟╜╗═√█┬│|z{z{{ysnjloooorqqstsqonlkmrvxxvtstuuqmmquvvx{}│┐│ymecdaa`abdeehklifdbabgiiifdfc`]]^^]]]_`^^```^_`cgknonqtuy┐┘┘┘┤┤┐}zzvtqqrsttuyyvw}─~~}zyz{{|~──┌└┬┴▄▐▐█▌▐██▐▓■⌠■∙∙∙■⌠⌠⌠⌠⌠▒▐░▒▒∙≤≈⌠⌠■√≤≥≤≈°⌡°·÷╒╕╙╛╞╞╜╛╝╞╞ЁЁ╠╜╜╞╞╜╞╜╛╜╟╡╠╟╟╠╡Ё╢╣╤╥╤╦╨╩╩╫юцфймннмйхгффилоясыэъъчщшызыышшзыыььзэчэвтттттттсстттсссссттсстттуттужустжжжжуттужжуттууутссрррррсрррссттттужжжусржвввввьызззшээшзэшзшшызшззззшшшшзшэщщээщшэшзшзвсссрррррсссссстш}{ьпяяяпяяяяяяяяяяяяяярстссссссссрррсссссрстуууутууууутсстсссссстсстужвьыззззззыыьыыыььььвжжвьыыьььыыыььвуууууууусттсрррряяяяяпппяяппппппяяяяппппооооннннноппоопяпппяяяяярсрясьзывжжжжжжжжввжвышзшжофбааа╬╬╫╩╦╥╤╤╣╥╧╦╦╦╤╢╠╟╞╜╚╙╘╘╖╖╕╕╖╖╖╖╔ё═÷══·⌡°²·²⌡≥≤√≈≥°²²°°²·° ≥∙░▐▒█▄┼┤┐││┌─}{{}─││~}|zwsuutsrqqqrtuspnmlljhghhfedgjmmlkkmmkjiiijhhgebaaa_^\\_ccb_^\\\]_`_bdeeeb]_ab`__``]^][[]_`_^\YXY[]\^abbdhkjquqljjhjlqtrqy┐┼█▌▀▀█▀┤}{yzzz{}~~─┌└┘└┴▀┬┘├┘└┌zvtuy}│┐┌|{{}│└┼░⌠■⌠⌠▓▓⌠■■∙≈≈≥°·╒╔╕╛╜╞╡╣╥╦╧╬╪╩╫©цхнооппяяяятжььызыьвжуттужввьыззззззыыыззыыььызззззыьвьыыыьызшзьььыыыььььввуужжжуттрпнмлййлкигфецба©╬╫╬╪╦╢╢╠╠╝╗÷√▌┴┘}}}}}tokmpppppqssssrrqonoswyzxustuuqmkrxyxy{}┐┘└}qgbb`abcbbcdfmpkebbacfffihfhc_\]^]\[]^^\]`a^`adhloppqrrsz┌├├└┘┘┐~zyztsrrtuutuzzxz─│~}zyz{{z}~─┌└├┘┬▌⌠∙▓░▐▌▌▐▓⌠▓▒▓⌠⌠▓▓▒▒▒░▌█▐▐▐▓■▒▒▓▓∙≈≤≈≈⌡ ⌡²÷═╒╔╖╖╙╜╝╛╜╟╢╢╡╞╝╟╞╜╙╚╛╜╝╞╞╞╠╡Ё╢╣╣╣╢╤╦╨╨╨╪юдгиклммлйгффилнпрвшчччщшышыызшыььььышщэьуттттттттттсссссссссстуужууужустжвжжуттужжтсстутстссрррссяярссттттттттссржжввввьызззшээшзэззшзыызззззззшшзшээээээшшшзшзжрссррррссссссстэ}|ыяяпоопппяяряяяяяррррстссссссссрррсссссрстууууууутттттттссррсттррстуввьыыыыыыьььыыыыььььвввыыыьвььыыьввууууууутсттсррряяярряппяяяппппппяяяпппппоооонннннооооопяяяпяяяяярсяятышывжуужжжжвььжьшэшшжнфцбба╬╫╪╨╦╥╤╥╥╩╬╪╧╦╤╢╞╝╜╚╙╘╗╗╗╖╖╖╕╕╔╔╔ё║÷÷÷·²²·÷·° ≤≈≈≥ ⌡°°°°║°  √▐▌▒█▀┬┘┐┐┐┐┐┌|{~│┐│──}yttuutrpppqtusomljjhfddcba_bfijjjjlkjjkllljjhea_`a``^^`deda`^^^]]_`bcbbca^`bb`_```_`^ZY[^_`_^[ZZ\^\`cdddgjjqurmkkklnrtuy┐▄▄██▄▌░░▌┐}}{{||}~│┐└│├┬├└┐└┐│zvsswz}}~~|yy{}┌├▀▐▓⌠▓⌠⌠⌠■∙∙∙√≈≥⌡²═╓╕╘╙╛╞╢╥╨╩╫╪╩╪©димлмнояяяяужььышзывжуттуужжвьызззззыыыззыьыьышшзззыьжжьыыьызшыьыыььввввжжуттужжуттрпнмлййкйхгедцба╬╬╫╩╧╥╣╢╠╟╜╖·√▐▀┬┐───vpmoqpppoprrsstuusqsvz{|yvtstsolkt{|zy{{└├┘ulfcbcdddcdegnqjcab`ba`chhgihb^]][[]^_^]_aa_acfknoprtttv~┘┬├┌┐│}ywwwtsrtvxwvw{|{}││~}{z{|{z{}~─│┐└└┤█⌠∙▓░▌░▐▐░░▐▐░▒░░░▒▒░▐▌▌░░▐▓⌠▐░▒▓⌠∙√≈√≥≥ °²·÷══║╕╛╝╜╞ЁЁЁЁЁ╡╠╝╚╙╚╜╝╝╝╞╟╟╡Ё╢╣╤╤╢╥╧╩╨╨╪аегхийлммлиххикморуыэчччэзшзыззыььвьызээыууууууууттттсссррррсстужвутуууттжжжууттужууттссстттссрсссяррсстттттссссстужввввьыззшшээшшшззшшыызззшшззшшшэщэшшшзшшшшшзжссрррррссрссрстэ}|зррппопппярррррярссрррсррссссстрррсссттттттттуууттсстттссссттттррстужввьыыыыьььыыззыььыыьввыыьвввьыыььвжжжжжуутстусррррпярряппяяпппяяпояяяяппппоооооннннооонопяяяпярррярряяузшьвжжжжвжжжььжьээззумфццбю╫╫╪╨╦╥╦╦╩©ю╪╦╥╣Ё╝╝╜╚╙╘╗╗╗╘╘╗╗╖╕╔╔╓║÷····÷÷·²°   ≥≥≥ ⌡°²²═⌡≤≤√▒▌█▄┼┬┘┐┌┐┘┐┐┌──││─││~}yustutrpppqtutrpnlihfeccbb`begijklmjiilmljkjhecbcccca``ceedb`_^\[\^bc`]^^]`bcbaba___\XWY[\]]]\ZZ[\\_cfhiklmqusokjklnprw┤▀▀▀█▌▒⌠⌠⌠▀┘───}zyz{}~──││┌┐┐┌┌│}}zwttvx}|}}{xxz}┐┤▀▌▒▓▓⌠■∙√√√√√≤⌡°²═╓╖╖╗╙╝Ё╦╩╪╨╪╫╫юфййккмояррртжььышзыввжууууужжвыззззшзыыззыьыыышшззззьжужьььзззыызыьвжжжвввжтттжжтссяонмлййкигфддцаа╬©╫╧╤╥╤╢╠╟╛╔·√░█▀├└┐──~xtqqrppqrrrrstuuwutvy|}}{xuttrnknx─{z{{┐└┐~yuojkigfffffinne_`a_^]\agffjke`^\[\_`aaaabcdcehlnoqtwwx|│└┐─~|wtssstrrtxzzyz|~─┌─~~}||}}}|z|~─│┌┌┐├┬█▒▓░▐▐▌▌▐░░▐▐▐░▌█▌░▓▒░▐▐▒░▐⌠■░░▒▒▓▓⌠∙√≤≤≥⌡²²²·°÷╓╗╚╜╠╢Ё╡Ё╣╢╠╝╛╜╜╝╝╝╞╠╡╡ЁЁЁ╣╥╥╣╦╨╩╩╨╪аефгиилннлкййкклосуыэчччэзшыыззыыыьыызэщзжууууууууутттсссррсссстужуссттттуууууттуутуутсрстттссрсссрррсстттттсссттуужжвввьызшшээшшшзззшшзызызшшззшэшщчэшшшыышшзыьжсррррррссррррстш}{ырряяярпярсссссярсссрррррррссстрррсссттууутттттутсссстусттуууттсттужжввыыыыыыыьыыззыыыыыьввьывжввьыыыьвжжжжжууусуусрссрпярряппяяпппяяпорряяяпппппооооннноооннопряпяррряяррржшзввжжжжввжжввувшэыьтлебба©╫╫╪╨╧╦╦╧╬аю╩╥╤╢╡╞╝╜╛╚╙╘╘╙╙╚╙╙╗╖╕╔╓╒÷²²·══÷·°⌡⌡°·⌡ ≥≥°²²²°≥∙⌠■■░┼┼┴┤└│─┌└─┌┐┌─~}}|zxusqssrpopqruwvusqohhgfdddeabdfgikmmjhilmkhigdcdeeeeeca`bdegc`^\YYZ[ad_ZY[\`bcccca_][XVVXYYXZ\[ZXXYZ]bgknooprutojijjllow│┤┤▀▀▌▒■■■■░┤─~|yxy{}~~~~│┐┐│─}xspsx|~~~~|xwy}┐┬▀▌░▒▓⌠∙√≈≈≈≈≈ °²·═╔╗╚╚╛╝╡╤╦╧╧╫©©бикиллморссрсуввьззыьвжжууууужвыззшшшзыызшыьыьышшыызшыжтувввззыьышзввжжвьыььуттжжсрсяонмлйййхгедцбаа╬ю╬╥╣╥╥╢╠╞╙╓²√▒▌█┬├┘┌~|{wttsqqrwussuvutwuuwz}}}~|ywvspmr{┐│}{||─│|{{xrsojgghhgjmj`\_`][YZafddijea_][\_bcdeccehfgjnoptxxy|─┌─|yxywsqrrqsrqtx||||}│┌┌}}}}}~~~}z}─┐└┘└└┴┼█▐▐▌▐░┼▀▐▓■▓░▐▐█▀▄░▓⌠▓▌▌▐██▒⌠░░▒▒▒▒▒⌠∙≤≤≤⌡²²²÷ ═╓╓╕╛╠╡╢╡╡╢╢╟╝╝╞╜╛╛╛╝╟╡╢╢Ё╡╢╤╥╣╥╧╩╨╧╩юдегхйлннлмлллклптжзщччщшызыьызыызыызшэчшвуууууужжуууттсссрсттсстжусрстттттууутттутужусрсутссрррссррссстттсттттууутужжжввьзшшээшшшззшээшззызшшшшээзэщэшээшьзшыьвусррррррссррррстш}}ыппяярсяррсссряяррсрррстсссссссррссстссжутссстуутссстттжуссстттуутстввжьььыыыььзыььыыыььвжвыыьжвьыыззыыввжжжжуусттттряппярряяярппяяяяпппоопяряпоооооооопонмнопяпярряяяряпятьшзыьжжььвжжвжувзэшзырйдббаю©╪╩╩╧╥╧╪юаю╫╦╢╟╞╠╝╛╛╜╜╚╗╗╗╘╘╘╗╗╖╖╔╒═··÷═╒÷⌡≥°══°≥≤≤≥⌡°⌡ ■⌠▓░▌█▄▄┼┴┤├┘┐─~~~}||~|~ywxupqsspooppswxutvvrjigfggedbdfecipqmlllkihheb`abbababa^^adeeb_^]ZXWY^`]ZZZZ^bffdb`^YWVXZYXYUXYWXZYVU[adhmporqswvnhfihkqw│┬┴▀▌⌠√≈√■■≈▐├─}|zz{||}}}}}}|}─│─~}{wtsw|─││~}{x}│└┴▌░▐⌠▒▒■≈≥≈∙∙ ²÷══ё╘╘╙╚╞Ё╤╥╤╦╩╬аехигклнпярррртвьыьььыьвжжжжжжужьыььзььыыыыыьыыьььыззыьвввьвжьззьььвуьвжжвввжуууууусрролкккигффедббаа©╬╪╨╧╥╤╣╡╟╛╔²√▓▒▌┼┘┌│}{yzxutuustvwuuwxv{xvwz{{||~~{yxwuz└┐|}─{z{{yupkllkklnjc__`^YY[]_acddjc^_]Z[`bfhfdeikjikorrswz||yxyywtsqqqrrrssttuwyzx{││}|z{{{{{}~|~─┐└├┤┤┬▄▐▌▌░░▌┼░⌠⌠⌠▒▌█▄▄█▌░░░░░▒░▌█▐▒▒▌▐░░▐▌░■⌠√ ²²²²·²··║╔╙╝╠╡╣╣╡╟╠╟╝╛╜╜╚╚╝╟╠╢Ё╡Ё╢╣╤╤╣╦╩╩╨╩©цффхийлнплоолкняятвэъЮчэшшзызшшзыьызшщчэыуужжутсстттуутсрсяяттртвтсрсстттуттсстттжтссттттрссссрррпрстссстссттттуужууужвььышээшшшззззшшзззышэшыызээээзззшэзыыыьвтрррсррярссрррссш~}ыппяярсяяррррряярссррррсссррсссррссстссуттсстттутссттттутсрсстсссрртвьвььыыыыыьзыьььыьььвжвьььвььыызыыывжжжжжуттттсрряяпярряяяроопяяяррппппяяяпопппоонноооооппяпярряяяряяруызыввжувьвжжжуувзэшзьрйдббаю╬╫╪╨╧╧╫юааю╫╧╣╡╠╞╜╛╛╜╜╙╗╖╖╖╖╖╖╖╕╕╔╓╒═÷÷═÷°≥≥⌡·÷²²⌡≥ ⌡⌡≈▓▒░█▀┴┴┴┴┼┴┬┘┐│──}{yz|||{{|{yxywstuurppqqrvxuuxwtomigeedcdegggmrpnkijjhfeda_`a``_]__]]`dfc`^][YWX\^_]YYZ\`bddb`]ZWUVXZZZZXYZYYYXWVW[afijknnruslgfffkqy└▄▀█░∙≥ ≥≤≈≤▓┴└│}}~──}{yx{~~~─}{{zz~│└└┐┌│~{z}┌└┴█▐▌▓⌠■√≈≤≤≤≤⌡²÷╒╒╓╘╚╛╞╡╣╤╤╣╦╨╬цфггхклноярррствььььыыьввжжввжужьыььзьыыззыыьыыыыыыззыьвввввввьыььььжвжжжввжууттуутсрянкйййхфгфдбаааа©╬╪╩╧╦╤╢╠╞╚╔²≤∙∙▓█├│~|{|}|ywvvuvwwuuwxyyxxz{z{|||}~}||~|┌┌─}|}─│─|{}}|uqnnmklooidbb_^]^_``acddgb^^]\^cdgigefijhilqssuxyywvwwusrrsssrrstssstuvwwz│─~|{zzzzz{|~┌┌┐┘┤┬┤├┴▀▌▐▐██▐█▓⌠▒░▌▀▄▄█▌▐▐▐▐░▒▒░▌█▐░░░▓▒▐▐▒▓▒▒■≤ ⌡°·÷²·═╒╔╗╙╛╞╢╤╢╠╠╠╟╞╟╞╜╛╝╞╟ЁЁЁ╢╣╤╥╥╣╥╦╨╪╬аддефхилнпноомлмоясжшъъчэшззззшззыьыззэщэыуужжуутсттстттсрсяяссрсвттсстуттттссссттутссстттррррррррярссссстссстттттуууужвьыышэшзшшзшшшшшшшшызшшззшээээшззшэзззыывусссттссстсррсссш}|ыпяяярсяяяяррррррссррррсрррррссррссттссттттттттттсттутсссррссссррррсувжжьыыьььызыьььььвььввжвввььыыыыыьжжжжжжутутсряяяяпяяяяяяяооппяяррпяяяяпппппппоонноопппппппяяряяяррртвззьужуужввжжжуувзэшзвяидбба©╫╫╪╧╧╩юбаа©╪╧╤╢Ё╝╜╛╛╛╚╘╖╖╖╕╕╕╔╔╕╓╔╕╓║══║²⌡≥ °²²·²°⌡ ≥∙▒██▄┴├┘┘├┤┬┬├┐─~─}ywz|{zy|{zz{{yxxxvsrrsssvwuuxwttqlgdcccddegioqlkhfghgdbc`^^__^]Z]^]^`ceca`^\[[\__^[XWY]bccb`^ZVTTUXZ[\]\[\]][ZZZXZbijkmpqtwuojhginu~▀▓▒⌠√ ²··°°⌡∙▐┼├┐┌┐└└└┐│|{y|│──┌└│─│┌└├┤┘└└┌}{{~─┌┘┴▄▌█▌▒■∙∙∙≈ ⌡²²═╓╔╕╙╛╞Ё╤╥╥╤╤╦╨©егффхклмояррстужвььыыыыьвввввжжжьыьыыыызззыыыыыыыыыыыыыьвжжввувввьыьвввжжввжжутттттсрпнкйййхффецаюююа©╬╪╩╨╦╤╣╡╟╚╔÷ ≥≤∙▐├─}}}}}|ywwwxwvvuuwywxz|{zz{{y{──┐─│┌│|z~{z}~|srqpnlnqoieec__bbcb`aceeeb`_^^`cegihhijjikpuutuwxtrstspnnqttrqqrusrstuvvvy~──~|{yzyyyz|}├┘├┬▀▀┴┤▌█▌▒░▄▄░▌▓▓▐█▀┼▄▀▌▐▐█▄▌▐▓▓░▌▌░▒▒▒■▓▌▐⌠▓▌░⌠√≤≥⌡²÷²÷╒╓╔╔╔╕╙╟╣╢╠╠╡╡Ё╢╡╞╝╝╞╞╠╠╡Ё╣╤╥╤╥╤╤╧╫ацддефгикмопппонмояржзчъчэшызшшззыыыыыышщэзуууууутттсссстсссяяссяруутттууууттсссстттттсссстррррррррярррррстсссссттттттужвьыышшзззшзшшшшшшшшыыззшшээээээшзшшзыыыьвтсрсстсррсрррстсз}|ыяяяярсряяяяррсрсссряярррррррссрсссттссссттттттссстуутсрррсттсртссррстуувыывжвьыыььввввьььжуужвььыыыыььууужжжтсутссряяяпяяяяяяяпппппппппяррпоппооопоооноппппяяяппяяяррррртвыывужуужввввжууьзэшыжпидббю©╫╫╩╦╧╬абюю©╪╧╤╢Ё╞╝╛╚╙╘╗╖╘╗╕╔╓╓╓╓ё╕╖╕ё║║ё÷²°··²°·⌡°°≥■▐██┴┬┤┘└┘├├┘└┐│{z|~}}~│~}~~||{ywvwwvuvwurruvstrnieccddcehjnnifdcceedbb_]]^^]\[[]^`bccdcba_]^ab_\ZWUX]bcc`][XUSTVY[]_`_]^aa]]__]^fnrtuxyz|{vpllnsw─▌≈√≤≥⌡²···²⌡√▒▄┤└└┘┤┘┐│~~│──┌└├├┘┌┌┐└┘┘├┤┬┘└┘┌}{}─┌┘┬┼▄██▄░⌠■■∙≈ °·÷║╔╕╖╛╜╠╤╧╧╥╥╥╥╧югхефййкмопрссужжвььызыыьвввввжжжьыыыыыыызыыыьььыззыьььыыьвжжвужвььыыьььввввввууутутсряолккйигфецаюююю╬╫╪╩╨╧╥╤Ё╠╛╔÷°⌡ ∙▐┤─}}~~|~─|zz{{yxyxuvxxxy{{zyz{{|~──┌┐│┌┐┐┌─}{~~}zz{}|sqqpomnqmifeb_afcccbcefedcca````cefhjlllmpuxvsstuqopqnlkkpsrpooprqpqsuuuwz}~}||}zyyyz{|}└┘┤┼▄██▄▓░▐▌▌██▌█░░█▀┴┴▄▄█▌▌▄▀▄█▒▒░▐░▓⌠▓▓⌠▓▐▐▒▒▐▓⌠∙√≈≥⌡²·═ё╓╓ё╒ё╔╙╞╟╟╠╡Ё╣╣╢╠╞╞╝╝╝╞╟╡╢╢╢╢╥╤╤╧╬бддффгхийлняппяпноррузщъъщэызшшзыызыыыызээзууууууттутсрстттсрярррртттттууутсссррсстттттррстррррррссррррррстррссссттсстужвыызшэззшшшзззззззззыызшээшшэээшзззыыьььжтрярстсррррррстсз||ыяяяярррряяярссрсссряяясррррсссссстттссрстттттсссстуутрррссттсртссррстуувыыввьыыьььвввввььжутужььыыыыььуууууутсттттсряяяяяяяяяяпппппппппяррпоопноооппоопппоппярппяяяряяярсжьыьжжуужвььвжужьшшзьуохдбаю╬╫╪╨╧╫бдб╬╬╬╪╨╤╡╟╟╝╛╙╘╘╘╘╘╗╕╔ёёёёё╕╗╖╔ёё╓║══╒╒÷·÷⌡ ≤■░█┼┴┘┘┘└└┐┌┌┌│─││──~──│└└│─┌│~|}}ywx|}zwywsoptutsrpmifdcfehkkmlhdccccccb_^\\]^]\[Z[^bedccba`^\^`a^[ZXVX\^`a]XVVVUWY[\^ab_]_cc``dbceir{~}│──}voqrtw~█≤≥≥≥ ⌡²²·· ∙░┼┘││┌└┌─~||}}┌┌┌└┘┘┐││└┤┤┘┘┘├┬┘┘├└┌┘├┴▄▌▌▌▌▐▒■√≈≤ °²═║╒╔╔╗╝╞╢╧╨╦╤╤╥╥╨юххефкйкмнпрссжжжжвьызыььвввжжжжжвызыыьыыыыыыьвьыыыыьвжьыыьжжжжвьыыыььввввжжввжжууутсряомлкйигедцбаю©©╫╪╩╩╨╧╦╤╣Ё╜╔÷°⌡ ■▐┴┐─~~~─┌│~||}|{|}|yy{zxwy{zyy{~~┐└││┐┘┘┌}|~}{z{||trqqrqpokjgb_aehdeeefgfdacddca__bbeimoppprvwurqrqonnmjikjnponoqronmnprrrxz|{zz|~zzzz{|}}─┐┤┼┼▀█▐▒░█┴▀░░█▄▐▌▄▀┬┤▀▄▄▄▄▄▀▀┼▌▐▐▐▒⌠■⌠⌠▓▓▓░▌▐▓∙∙∙∙√≈ ⌡·═╒╒╒╒╒╒╒╔╗╚╝╠╢╢╣╤╣╡╟╟╞╝╝╝╞╠ЁЁЁ╡╥╥╦╩╬ацдефггхйкмяопррпятруыщъъчэызшшзыыззыыьзээшууууууууутсрсттусряррррстссстттсссрррсстстттрррсррррррсссррррсстрррсссстсстужьыззшэшзшшшззззззззшзызшэшзшэээшзззыыыыьвтсрстутссссррсссз||ыяяярррсррррррсрсссряяярррррсстссттттссссттттссррстуутсссстттсссррррртжжвыыьььыььььввььвььвжуужвььыыыььжжуууутстууттсряряяпяяяяоооппяярпяяяпоооноооппоояпооопярпппяяряяяртжьыьвжжжужььвжжжьшшывтнхцбаю╬╪╩╩╫аеец╫╫╫╪╨╤╡╞╞╝╛╙╘╘╚╛╘╗╕╓ё╒╒╒ё╔╖╖╔╓╔╖ёёё╔╓╒÷÷⌡√▒░░█├──│┌│~|│}┌┐┌──│──│┐┘┐┌┌┌─|z{|xvy|}{yzwrnptvusrrpmjfdhhjljjjgdddbabaa]]\[[\\\ZYZ^cedca`_^][[\^\[[ZYZ\[]]YUTWYY\^^^_ab^]`debcgfilnu~┐┐├┘┐┌┐┌|uutuw|┬∙⌡≥≥ °²···≥∙▐┼┘│─┌││─~}||~┐┬┴┘│─└┬┤├├┤┬├┘┘┘┐─│┐┬┼█▒⌠▓▒▓▓⌠∙≈≥⌡²··║╒ё╔╕╘╞Ё╤╧╧╤╢╣╥╧╪афгфгййклнпрстжжжжвьыыьььвввжжжвввыззььььыыыыыььыыыыьвжвыыьвжжввьыыььыжвжжуужжвжуууутсяомлкигфдддцбю©©╪╪╩╩╨╧╥╤╢╡╛ё·°⌡≥∙▓█┬┘┌─~─│┌┌||}|}~─~}~}zxy{{zyy~}~└└─┐├┘│~}~}|{zzz{{wtrsuurokjfa`dhjhiiiiifb^`cffbaaccejnpqroqssqpopnnmligiljmonnqssnnnnnoppyzzxvvy}zz{|}~~}─└┬┴┬┴▄▐▐░█┴▄■∙▒█▌█▄▀┬├┴▄▀┼▀▀▀┼┴▀▌░▒▒⌠⌠▓⌠▒▓■▓▐░√≈≈√∙√≈≥ ···÷═║╒╒║╒╓╗╛╠╢╣╢╤╤╢╡╠╟╞╞╞╟╡Ё╢ЁЁ╥╦╨╪╬юбццдефгикмоопрссстсуыщЮЮчэззззыыззззыьзээшжуутттууутссстттрррррсррррррсссрссрррстттттсрррррряяярссссррссссррссссстсстжвьызышээшшшзззшшшшззэшззшшзышшээзыыыззззыьжтррсссрррсрррсрз||ыяяярррсрррряяярсссряяррррррсссссттттссссстсссссрсстттстсссттссряяррясужжвьььььььььввьывььььвжжвььыыыьььвжуууутуутссрррряяпяяяяоооопяярппппппооооопооонооппппяяяппяяряпясуьзыьжужуужььжвжвышзьуснгцба©╫╩╪╬бддцб╫╪╪╩╨╥Ё╠╟╟╞╜╚╙╙╙╗╗╖╕╔╓╓╓╓╔╔╔╔╕╖╘╔╕╕╔╓║²≥⌠░▌▐░▀│xy{}─~}}|}││─|│──┌┐││┌│}yxxxvtuwwxz{vqnpttsqqqrqokhkijkihgccba__``^Z\\ZXYZZYYZ^```a`^\\[YXXYZ\\]^^\]^]XVW[]]`b`^_aa^_bffegjlnpru{│└├┤├└└┘┌}yvvwy│▐≤≤≤ ⌡°° ≥⌠░█▀┬└┌┌┐┐┐┌│─│┘┼▀┤┐││┌├┬┬┬┴┼▀├┤├┘┌││┐┬┼▌⌠∙■■∙▓⌠∙≈≥⌡²·═║║ё╕╖╘╝Ё╣╤╣╢╢╤╧╪©беефгиййлнпрстжуужвьььыьььввввжвввышзььььыыыззыыыыыыьььвввььвввжвыыььывввжуужввжууутссяпнлйхфеддцбаю©©╫╪╩╩╨╦╤╢╟╞╙╒²²⌡≥√■▒█┼┤└┌└┐┐┐┌~──┌┐┌┌┌│─}{||{z{y}~~─┐┌┐├┘┌~zzzzzzzzywtuwwsoliecdgikklkkjiea]^bggbbdeegjmmnpmnnmllmnkllhffiknoomorrolmnnnnpqwxxvssvyzz|}~}┌┘┤┬┤┬▀▌▄▌▌▄▌⌠∙⌠██▀┼▀┬┤┼┼▀▀▀▀▀┼┼█▒■■⌠▓▓▒▒░▒⌠⌠▓⌠≈≈√∙∙√≤ ⌡°⌡ ⌡·═║║÷║ё╖╚╝╡╢╣╥╥╣╢Ё╡╠╟╟╠Ё╣╤╤╣╥╦╨╪©юаабцдегикмноярстутсуьэъъчээшыыызззззыышщэшжжуттттуутсссттсррррсссрряярссррссррсстттссссррярряяярсссрррсссррсссссттстужвыззышээшшшыззшшшшззшшззззззшшшшзыыыыыыыыьутяярряяяртрррррз}|ыяяяррррррряяяпррссрррряяяяррссстттттссттсссссссррсттттттсссссссррряоясуужввьвввьььвьызььыыыьвжввьыыыыьзьвууууужусряяррсряяяряяпппоопппппооппонппппоннмнопяяяппяппяяяяпясвзшзвуужутуввжвввышзвурмгцба©╫╪╫бедю╬©╫╪╩╨╧╦╣Ё╡╡╡╞╛╘╗╖╘╘╗╗╖╖╖╕╔╔╓╔╔╖╗╙╗╘╗╔╒÷≥⌠┬▄░▓░┬}vuwz}─│││}|{z{}─{──┐│||┌─|xwwtsrrppty{vqnprqoooprtsolnjjjigfb`_\\^`_[Y\\YVWXYZZ\^][\^^[ZZYWTTUY\^`b`]aa^ZY\`b`cda__```beghhjlonpssuz│┐├├┐┐┘└│zvuvuz┤▒∙√≈≥≥√▓▐▀┴┴┴┴├└┐└┐┌│││┌┐├┤┤┤┤├└┐├┬┴┴┼▄█▄┴┼┼├┐┐┐┐├┬█⌠∙■■∙▓■≈≤≥⌡·═╒║═╒╖╘╙╝╠ЁЁЁ╡╢╦╪╬ацддфггийлнпрстжуужвьььыыыььвввжвввышзььььыыззшзззззыыыывжжвьььжужьыььыьььвжжвьвжутттсррпомкхфеедцаю©©ю╬╫╪╩╧╥╢Ё╜╜╗║²²°≥√■▓░▌▀┬┤┤├├┤├└└┘┤┴┴├┘├┘└}{{|}}│┐┐┌──┐├├└│──zzz{{{{|yxvvwwsongdgihimllkjjhd`^^agfaafgfgijjjlmljhhijkjkjfdfijqqpnoqojikmmmmpruvwtqpsvyz|~──~|└┘├┤┤┴▀█┴▀█▌▌▌░▒▄▀┬┬▀┼┴▄┴▀▄▄┼┼▀▄░■≤≈■▓▒▒▐░░░▓■∙∙√∙∙∙≈≥⌡° ≤≤≥²÷÷÷²═╓╖╘╛╞Ё╤╦╦╥╣╣╢╡╟╟╠Ё╣╥╥╥╥╥╧╪юааюдеефгиклмпяясуусстьэъъщшщшыьызшзззыышщщшвжуттттуутсссссрррррстсряяярссряссррсстутсррссрпряяяярссррррссряссссстттттужьыззьзээшшзыыззззззыззшззззшшшшзыььыьььььжтсррсррррстсряярз}{ырррсряррряяярряярррррряярррярссссрсссттсрссссрсууссуустттсссстрсссряярууужвььвыыьввввьуужвььььввьыыыьвьввжжууттттсрярсяррсрряяяпоояряпооппппппооноооонооооооппппярссссосвыыьвьжвввжжжвжжьзшзвтякфдб©╬ю╫афгдю©©©╩╦╦╧╧╤Ё╡╡╟╜╙╗╗╘╗╗╘╘╘╗╖╕╓╖╕ё╓╘╛╙╗╕╔╔═≈▐▀█▀▌░▀└}wxy|┌┌~{}{z{{|}w{}~}~}|xy}─~wuwwspqrqru{volmnnmnmnoqrrqnkjlkhec^\XWY\^^\]][YWXYZ]_]\\[Z[[ZYXXVUVWZ^_`bfgecbbb`^acda`bca_ekmlkkjloqppsz──┐└┌─│wposuy└█■▓▓▓▄┬┘││─┌┤┴├└└┌┌│~┐┘┐│┘┤└┌┘┤┬┬┴┴┤┴█▐▐▄▀┬┘└└│~┌┬▌⌠√≈√∙▓▓⌠√≥⌡·║║║╒ё╕╘╛╜╠╞╞╠Ё╢╥╩ююабдфгххймпярсстттужвввззыьжужвжжжвыззыььыыььыыыыььызыьввввьььыжжжвввжвьвжжввввууттттттпоонкгефддцааюююю╬╪╨╨╦╣Ё╝╚╕╒÷²≥∙⌠▓▒░▐▄┴┤▀┬┬┴┼┼█▒▌⌠∙░┴├┤┬└┐├┤└┐┘┘┐┘├├┘┘┤┬┤┬┴┴┴┤├┘─────{zzxvwunlighkmmlnoomjfcb^^`beghighijkkjihgfdegjmlhfffgjnrssqnkiijjkmmkouxyvqonpuw{│┌~zz~┌├├┘┤┬┤┬┴▀▀▀▀█▌▐▀┴┬┴▀█▌█┴▀▄▀▀▄▐▓▒■√√⌠▒▌▄┼█░▓⌠⌠■√≈≈∙∙≤⌡⌡≥≤≥⌡⌡⌡⌡·═÷÷║╔╗╙╜╠╤╥╥╤╤╤╣Ё╢╡╟╟╡╣╥╦╤╣╥╫ююадцефеехййлмнпрсуужувэччщэыызшзььзыыызшэщщыуужттуссссссссстутряяяяпппяярсстссрррссжтсссяяряяяяяррстсррстсрсссстттттттвьызэшшыьзээыззззыыыыыызшшшшшэшзыыыььыьввжутрряяярссрссряясш|{зрррсрярряяяяяяяяярррррррсрряррссссссстссрссттссттссттсссссррссссссррррууужвььвыььвввььввььььььвввьыыьввввжжжжутуттрррсяяяяяпоояпопяряпопппппоооонооонмоооппппоопяяррррятьыьжжжжжввжжжвжжьзшзвтпйеца©╬ююцффц©╬╬╪╨╧╨╩╧╤Ё╟╟╞╜╚╙╙╙╘╘╘╗╗╖╕╕╗╗╕╓╔╘╘╖╔╓ё═≥░▀┼▄▀█▌┬┌~{|~││~zywvxz{{|z{{zzzywvw{~{ursusqpnorvxsmjklkjkjklmooppononjec`][Z[^__^^^\ZYZ[\^^\ZZZYY[\\ZWUTTUY^abceihffgfdbceebabcabeikjiijnqstsv{──│┌││┌┌┌vpnpt{┌┘└┐└├┐││}│┐├┤┤├┘└│─│┌┌─└├└└├┴┴┴┬┬┤┴▄▌▌▌┼├└┘└│~─┘▀░∙≤≈√▓▓⌠√ °÷╒╒ё╓╕╗╙╛╜╞╝╞╟╡╢╦╩©юбдфгхиикноярсстстужвввыыыьвжжжужвьыыззььььыыыыыьььыыьвьввввввьжууввввьььвжвввжууттттттпонмйфдецццбба©©©╫╩╨╨╦╤╢╞╚╕║·²⌡≤∙⌠▒░▌▄┼┬┤├├┤┬▀▒√■≈≤⌠█▀▄█▀┴▀▌▀┴┬├┬┴┼┼┴┴┼▄▀▀▄█▌█┼┬┘├├├├├├┤┘└┐{yvpromnrtsrrssplhedbcdfghijjjjihgffcbabehkmjhffefkpssrpnlkkjjknmmpvvywtsqruwz│~{|─└└┌└┘┘┤┴┼┼┼▀▄█▌█▄▀▀▀▄██├┤┼▀▄▌░▓▓■∙⌠▒░▌▄█░⌠∙∙∙∙∙≥≤≈√≤  ≤≤≥ ≥≥≥⌡²··÷║╒╓╘╝Ё╤╦╦╦╦╤╢╤Ё╟╠╢╤╤╣╣╢╥©цбаабдедехййклнпртужжжьэъчщщзызшзьызыыззшшэщыуужутусссссссссрссряррряяяяррссссррррссуссссррсрряяяяррссррссссссссттттттувьызэшшзызэшыззззыыыыыыыззззззззыььььыььввусрряяярсррррряярз||зряяррррряяяяяяяяяррррсссссррррссссссттрррсттттсттссттсррсссррсссссррррттужвььвьььвввьььььььвввьвввььььвввввжжжууутсррсрррряппояпопяяяппппппооноооооонннопяяяпоопяярряяруьыьжууужжжжжжвжвьзшыжтпкецб©©юдееда©╫╪╧╧╨╩╪╨╤╡╟╞╝╜╚╚╚╚╘╘╘╗╕╔╕╖╖╔ё╔╗╙╘╖╔╓║⌡⌠▄┼▀▀┴┴┬┌~}}}}xtsswzzzz}|ywwwussuy|ztpqsutpmotxuqljjkkjiijjkmoqrqrrpkeb`^\\]___```^]\\]]^]ZYYZYWY[[XUTUUVZ`deddiihhhgecbdecbddcfefhhfgimptvuw{~│──│└├├└ztppu┌}{yz}||~{┌│┐┬┼┬├┐│┌┌│─│├┴┬┬┼▀┼┴┬┬┴▀▄█▌▒┼┘┘┤┘┌─│┘┼▐⌠≈≤√⌠▓⌠√≥⌡²═║ё╖╘╚╛╝╞╞╝╞╟╡╣╧╫╫©цефгийклнопярссссужвььвьыывжууувьыььзшьвввызыььььыыьвжььвжжжжвжуужвввыыьвввввжууттттттрпомйфдебцддца©╬╬╪╩╨╨╧╤╣╞╛╔═··°≥≈∙⌠░▌█▀┼├┤┤├┬▌∙ ≥ ≤⌠▌▌░▒░█▌▒▐▄┴┘┴┼┼┼┼▀█▐▐▐▐░▓▒▌▄┼▀▄▀┼┼▀▄┬┤┤┐~}{vwutvy{zyyyyvrmkkjkllklmnllkhebbb`_^`ehjjgfeddglqrqomkiiiihjmnnqusutqqqquwy|~~}~│─┌││┐└┤┴┴┴┴┴┼▀█▄▄▄▀┼┼▀▄┘┤┼▄▐░▒▒░▓▓░▐░▐▌░▓■∙∙■∙∙ ≥≤≈≈≤≤√≈≤≤≈√√≤≥⌡²·÷·÷ё╖╜╠╣╦╨╨╦╤╤╣╢╢╣╣╣╢╤╣╦©ддаюацддехйййкмпртужввьэъъщщзззззыыззззззшээыутжууутссссссссяссяярсррррррррссрряяррстсрссррсррряяяяясссрррссссссттттутувьызшшззызшшыыыыыыыыыыыызззззыызыьвввыьььвуряяяяяррррсряяярз|}зряярррррряяяяяяяярррсссссссррртсссссстссссттттссссссссярттссссссссрррррссувьыььььввьььвввввжжжьвжвььььввввжжжжууттсррррррряяппппопяяяпппппооонппппоооноопяяяпппяррсрррруьывжужуужууужвжвьззыжсялфдцаабгецбю©╫╩╦╨╩╪╪╨╤Ё╠╟╞╜╛╚╙╙╗╘╗╖╔╔╕╗╕╓╓╖╘╙╗╖╕╒⌡∙▒▌█▄┤└┐┌~}~}y|{xx{zwsrsw{{yx~}zxwutsqty|ytqqqttomquvqolkklkjijjjkmprqqqqpkfca_^^_`___`a`_]]]\[ZYYYYYYXXXWWXZ[]`deeeeiiiigecaadffgiiiiedfgdehlptwxy|~┌┌│┌├┴┼┬┌{uuz│┐~~yxyxy}~┌└└┘┤┬┬┤└┐└└│┌┘┘┼████▄┴┴┬┼▄█▄█▒⌠▄┤┬┬┘┐┐├┴█▐▓■√√√∙∙≤≥ °··╒╖╚╜╝╟╠╟╟╠╠Ё╤╨╬╪©цдефхйлмнопярсссстжььььььььвжуужвьььызьвжвызыьвьыыыьвжыьжууужввжужвжвыыььвввжжууутттттсрпмйгеецддедбю©╬╪╩╨╨╧╤╢╟╛╕═··°≥≤≈■▓░▌▄▀┼┼┴├┴▒≤  ≤∙░▄▄▐▓▒▌▌░▌▄┴┘┴┬┤┤┤┼█░░░▐░▒░▐▌█▌▌█▄▄█▌┴┤├┌~─||{z{~──}xsrsrttsqqstqpnjeccccaabeggfddcdgkoqponljhgghgilnoqtrromnorvxyz|~─││┌~│┐┘┬▀┴┬┴┬┬┼▀▀┼┼┼┼┼▀▄┼┼▀█░▒▒▒▌▐░░░▓▓▓▒▒▓▓▓⌠■∙≤≈√∙∙√√√√√√∙■■∙√≈ ·║║══║╕╙╝Ё╦╩╨╥╤╦╩╧╣╡Ё╣╥╥╧╬ббббюбцдегикклмортжвввыэъчщэшззззыышзззззшшшыутжуужттттсссссяссрярссррррррррррряяррсссссрррррряяяяяярссряярсрсссттттуужьыызшшзыыззыьыыыыыыыыззззззззьызывжвьыыььжтрпяяярррррсряяррз}}зяппррррррррррряяярррррсссссссстсссссссссссссссссссссссярстсссссррррряяяяртвыыыьььвььььввввжжжвввжвььььвввжжууууттссрррппппппппппппяяяпоооппооопппппоооппппппяяпяррсрррсуьывуужуууууужьвьыззьусплгдццддгебюю©╫╩╨╩╩╩╨╨╥Ё╠╟╞╝╝╜╛╙╗╗╗╖╕╕╖╗╗╖╗╙╙╗╔╔╒⌡⌠▐▐░█┼└─~}|}}zvxxtsvvttstx{zxvyzzyvtstqtxzwronlppmmrspmlkkklkkiiijkmopmnnnmligca__```_]_aa`][Z[ZYYYYXWZWVX[\^`adffeefgjkkkifdcdgjlmoookgfhiffimquy{}│└┘┘┘┤┼▄▀▀─yy{┌│─ywwuv{┐└┤┼┬┘├┼┼┤├┤└│┐┴┬█░▒▒░█┴┬┴▀▌█▀▌▓■▌┼┴┬└┐├┬█░░░▒■∙≤≈≤ ⌡°²÷·╒╗╛╜╝╟╠╡Ё╢╢╢╥╩╬╬юццдегйклноопрсссстжвььыыььвввжжуужьыыыывжвызыььызззьвжьвжуужжвьжжввжжвььььввжжууууттттсрпмигеедддцбаю©©╫╪╩╨╧╤╢╞╛╕║÷·⌡≤≤≈∙■▓▐▄┼▌█┼┬▀⌠≈≤≤∙▒█▀▀▐▓⌠▐▐░▌▄▀┴▀┼┤└┘┬▄▐▐▐▐▌██▌▐░░▐▌▄▄▌▐█┼├─|│─~─┐┘┘└└┘┘┐}vuwwyywuvwxutqmjhiiffgffeeeccdgnttqnmmlkjihhhilopqrqqonprtxyyz{~│┌│┌┌~│┐┘┴▄┴┬┬┬┤┬┼▄▀┼▀▄█▄▀█▄▀▄▌░░░▌░▒▒▓■■⌠▒▓⌠⌠▓▓▓▓√∙∙∙■∙∙√∙■■⌠▓▓⌠■√≤°═╒ё║÷╒╓╕╛╢╨╩╧╧╩╪╩╦╣╢╢╥╧╪©ююацюацдегиймммнясжьввыэъчэээзыззызшззззззшшзутууужутттссссссттрярсрррррряяяррррррссттссрряяяяяяяярррссряярсррсстттсжужьзззэззыыыыььььыыыыыыыыыыызззьыззьжвььыььжсяпяррррррртрярррз}}зряярррррссррррярррррррррррсттсссссрссссссссррсссссссссярррряррсррррряяппртвьыыььььььььввввввььввввьыыььввжжуттутссссррпппяяяяяпппппяяпооопппоопяяяпоооппппппяяопяярряяувыывутужжуутужьвьызывтрокфдцдеффдбюю©╫╪╩╪╩╧╧╨╦╢╠╞╞╞╟╟╝╛╘╘╗╖╖╖╖╗╗╘╚╛╙╗╓╒⌡∙▌▀▌▐▀├┌~}||~}ywxwtrrrqttuwxwuusuxxtqqsqtwwtolkkmmmpsrmlllmmmlliiikmnnnijkkklkjdb_]]^^^\^``_]ZX[XWYZYXWYVVZ^``acgigeegiijlkjhgfgikmnoopolkllkknoqux{~│┐├┬┬┤┬┼▄██┌zxx{─│}vtvuv|─└├┴▄┴┘┤▄▄┴┤├┌~│┤▄▐▓▓⌠■▓▌┤┴▄█▀┼█▒▒▌▀┴┤└└├┬▄▐▐▌░⌠∙√√≈≥⌡°·═║╓╗╚╜╜╝╞Ё╤╥╤╤╦╩╫юаццдегийкмнопяртсстжвььзыьввввжжутувыыьыьььызыььыззыыььььвжжжвввжжввжжвььыьввввжуууттссяяплигедедцаюю©©©╬╪╪╩╧╤╢╞╛╕║÷·°≥≤≈√∙⌠░█▀▐█▀▀█▓∙∙≈∙▓▐██░■■░▐░▌▌▌█▌▀┤└┐┘┴▄█▐▐▌▄▄▐▒▒░▌▄▄▄█▌▄┬┐}{┌──~─┐├┤┤┴┼┼┤wtvy{zwuvxwvtqnmmmnjjkkihhhhilqyzrjjjkkkjijjkmprqpnpoqtuuvyzz{┌┐┌┌│~~│┌└┬▀┤┘├├┘┤┴▄▀┼▄▌▌▀┴▄▀┴┼▀▌▐░▒▒▒▒▓⌠⌠▒▒⌠∙√√■▓░∙■∙∙■⌠∙≈⌠⌠▓▒▒▓⌠■√≤≥⌡÷║║═║║ё╖╝╣╧╨╫╨╧╩╫╪╥╡╣╨©аа©юааацеффхйнммнпсжььвыэъчэшэзыыыызшззззззшшзууутужуттттсссртуусррсрррррряяпррррррстсттсрряпяяяяяррррррряяярррссттссуужыззшэшззззьььььььыыыыьььььыыыыызыьвьыьыьвусяпяррррярртряррры}|зряяррррррсрррярррррррясрррсссрсссрррррррссррсстссттсстрррряяярсррррряяяяртжььььььььвввьввввввввввьыыыьвввжжжууттссссссррррррррппппппяяпппппоооппяпонннппппппппопяярррржьзывууувжжутужьвьззывтрокгддфгхецбаю©╫╩╩╩╧╦╧╩╧╣╡╟╞╟╡╡╞╜╚╙╗╗╗╗╖╕╖╘╚╙╘╖╒°■▓▌▀▀▀┤┌─~}|{}}yxxxwspoqttuvvtststuvtqqsqtwvsolkklmortrnlmnnnmlkihikmnljeghhijjifc^\\]^^]^__^[YWZWUWZ[[\[XY]`abegjkhffhiikmljhhhhhiijkmoqpommnqrqstwz~┌└┬┴┴┤┤┼▄█▄┐zusy~~yttxxx{└┤┼┼┤┘┬▄▀┴┤┘└┌└┤▐▒▒░▓∙∙⌠┼▀▄▀┼▀██░█┼┴┬┤┤├┴▀██▐▓■■∙∙√≥⌡°·═╔╕╘╚╜╝╝╝Ё╤╦╥╤╧╩╫юабцефгххйлнппярттстжвььыыьььвжтууужвьыыыыыыыыыыьыззыьыыыыьввжжжжужььвжввьыььвввжжжутсррополигедедцбаююю©╬╪╪╪╨╥╣╟╛╕║÷÷·° ≥≈√■▓▐▌░▐▐░▐▐▒⌠√∙■▓▐▐▓√∙░▌▐▐░░█▌▀┬┘┘├┬┼▄█▌▌▌▐░▒▓▐▄┼▀▄▄▄┴└{{─┐─~}┌┘┤┬█▌▌▀┌xuw||zvtuuttronopqpoooooonnoty├┬siihijjjjkkkmprpnlnoquvuvyzz|┐┘└┌┌┐┐└┤┬└┌┐└└├┴┼┼▄█▌▌▀┴▌▄▀▀▄█▐░▓▓░▐░▒▓▒▒▓■∙√∙■⌠∙∙∙∙⌠▒▓∙▓▒░░▒⌠■∙≈≤≤≤ ·═══╒ё╓╖╜╢╦╩╧╧╩╬╬╨╤╥╩©юю©©юббцеффгиклмнясувььыщъчэшэзььыыышззызззшшшжужтужуутттсссрсттсррсрррррряяярряяярссрттррррпрряяяяррсряяяяяяррстттссттжьзззээшшшшыьыььььььььыьььыызззыььвььыьььжтряяяррряяррсяпяряы}|зряяррярррррряяррррряяятсррссряссррррррярррррсттссттсстсссряярсссррррряррртжвввьььььвввввжжжжжжжввыззыьввввжжжжутсстттсряяяяяяяппппппяяяяяппоннопппоннннопяяяпоппярссссувыывжжвввжутужьвьззыжтролхеехийдцбба©╫╩╩╩╧╥╨╫╨╣╢╡╠╠╡╡╞╛╜╚╘╗╘╘╖╔╘╚╙╖╕╓°⌠█▐▐▀┬┘┌}}{y{|yxwxxupoqttuvtrsuutuvurrsqtwwtrpokklorsqoklnnmkiifefhklhebegggihgjfa^]_`a_^^^\[YXXTSV[^_ab^]_abfkjlljhhhgmnonkiijhhgggimprrpmmpsuuuvx{┐├┬┬┬├┤┼▄▄▀└{rqy~zwsuzywy{┐┴▄┤┐┘┬┼▀┴┤┬┼▀▄▄░░▌▀█▓⌠▓█▌▄┼┼██▀▐█┼┬┴▀┴┤┼▀▀█░■■⌠≥≤≥°··═║╕╖╗╚╜╞╞╞╠╣╦╥╤╧╩╪╬©юцефффгилнпяярутттувьььььыывустжввжвызызззыьыыьызыььызззыьвжжуттжьыьвьвьыыьввьжжжутсряоппмйхфдфеедбааю╬╫╪╪╪╩╦╤╠╛╕═÷══÷²⌡≥≈∙■▓▒▒▓■■▒█▌▓■■■■▒▐⌠≈≈░█░▓⌠▒██▀┴┬┬┴▀▄┼▀█▐▒▓▓▒⌠░▄▀▄██▄┼┘─||│┐~─~─┐┤┴┼▐▐▒▌┘{wz~~{ustsquroorttstsrsuusqv}└┴▌█┌umkjiijjjkjjloqnknoopuwwxxy{|─└├┘┐┌─│└└└┤┘││┐┐┘┬┬▀▌░▒░▌▌▒░▐▌▌▐░▒▓▒▌▄█░▓▒▐▐▐░▓■√≤∙∙■■▒▌▐▓▒░░░▒⌠∙√√≤≥≤≤⌡··═ё╔ё╒╖╞╣╣╦╪╫╫╪╩╩╩╪╫╫╬©юаббцффегихйлортужыьзщъчщээзььыыызыыызззшшшжужтужтууттсссррттрярсрррссрряяяяяяяррсяссррсрясрряяяяясряяяряпярстттсстсуьыызшщээщэыызыыььььььззыззшшэшыьввььыьььжсрррярсряяярспояяпь|~шссряяяррррряяяпярррррсрссссссрутрррррррряяярттрстсяярттсссссрртссрряппяяпртжввьььььвьывввьььввььввььььььвжжуттууутттттссряяяяяооопппппяяяяяпонппппоооопооопяяпяярсряярввввжжвввуттуввььызыыьтпнигхгхииедба©╬╫╫╩╩╧╧╦╦╥╤╢╣╢Ё╠╞╝╝╞╘╖╘╙╘╘╜╙╙╚╙╓ ⌠▒▐▐█┼└~}~}|z{{yuuz|wqnopotwusttrsrrstuuutssturnklnpqqqollkklmljfegggjhddggedfiigeggb_^``___\[ZYXWYXYafeccbbbdglomnnlkjigjkkjhgghijiijkmntmjmqppswyz{┘┘│┐┤▌┴├┼┴▀┼┘│{tw{wstwz{|}─├┤┤├├┬┴┬┬├┤┴▀▀█▐▐▌█▀▀█▒⌠▐▌▄▄█▌██▌▌█▀▀▄▄┼├┼█▌▐▓■∙∙≤⌡²÷══║╓╔╖╙╝╠╡╡╢╡Ё╤╥╦╩а╪╬ацдегхйклнопяррттстжьыььвььвжууттжьыыыышзььыывьыызззыыьыыьвжжжжжжввввьввьыьвжуввжутссррпнмлйгехгфедцаю╬©©╬╫╪╧╣╞╚╕╒═·²·⌡ ≤√■⌠⌠⌠▌⌠■▒▐▄▌▓⌠■√≈∙▓⌠√≤⌠░▓⌠░██▄█▄┴┬┼▄█▄▌▐▌▐▒⌠■√■▓▌▄██┬├│}zz─┐───┌├┴┼┴█░▒▌┴┐─{trturuutrqruxxwvwwvxz─┐┴██┬xrrrrqpnmnmnpqoopopqsuwwwx|─│┐└└┐┐└├┤┴┼┼┐┌│┐┘├┤┴█▄█░░▌▀┼▌▌▌▐▐▐░░▒▌▄▌░▐▌█░░░░▓√≈√√∙⌠░▌█▐▒░░▒▒░▒■≤≥≈≈≈≈≤ ²÷╓╖╕╓╕╘╚╡╨╪╩╨╧╨╪╫юа©╬©ю©©аббцфххйклорсссвьзщъъчщчывьзыыэзыьызшшшзьуттттсстттсстурссряяярярсряпясяяяррряпяррссрряррррррссссррррррррсссссрруввьзшшшэээшзыыывжвыыьвызшзыьызшыьввььььвурясрпрссряярряяяястш|}зрряппяяяяррряяяярррррсррссссррутрррррррряяррстрстсррсуссссссрряяяяппппяяпясжвьыыыьввьььььььвввввжжжвввььввжууууттссрррссряяяяяоппппппппяяяяпоооооооооопоопяяяпяяяряпясввввжжвввжттужвввызыьвсомххихххгеедб╬╪╪╪╩╨╧╦╦╥╥╤ЁЁ╡╟╝╜╝╝╝╙╘╚╛╚╛╝╛╚╙╕÷≤⌠▒░█┼┤┌~|}~}|||}{xvyzwsqqqqtvtrsrpsqoopsvwtqortrnknpqqqpmjiiijkjhegigffd`addbacfhghihd_^^__`^]]_``ab__ehgfedcdhlnponlkjhggijkjhfffhiiiijlmolloqqqsuuw{│┤├┐│├█┴├┴┬▀▀┤┐~xxxvyxy|│┌┐└├├├┤┴┼┴┤├┤┼▄█░▓▓░▌▀┼┼█▌▐▐▌▌▌▌██▓▒▌▄█▌█▀┴▄▌▌▐▒⌠■√≈≤≤≥⌡·÷╒╓╗╚╜╞╡Ё╢Ё╢╤╥╥╨╬╫©аббдфхйклнояррястттжььььввььвжжуужьыыызшзььыыььыызззыыььььжжжжжжввввььвььыьвжжууууттссррпмкхгфгфдцбаю©©©©╬╫╪╧╣╟╙╓║║÷²⌡≥≥≥≤≈∙■⌠░▓▒▐▌██░∙√≤≤√⌠■√∙▓▓■■▒▐░▌▌█▀▀██▄▄█▌▐░⌠∙■√∙■▒██▄├┌~zwx└│─│┌├┼▄▄▀▄▐▒▌┴┘┐└└─ztrrtuzxusrrssvttuuvy|┐┘┬┼┴└}xwvtsstuutsrrqonorqrtvwwwx}┌└┘┘└┐└└├┬┼┼┼┴┌││┐┘┘┤┬▀▀█▐▌▄┼▀██▌▌▌██▄▒█▀▄▌▌██░░▐▌░■√√√■▓░▐░░▒░░░▒▒▓∙≤≈√√≈≈≈ °²╒╓╓ё╔╗╙╞╢╧╫╬╨╧╫╬юа©╬©юю©ацбцфххийлнпрствьшщЮЮъччывызыышзыыызшээзьуттутсстттсстттттсяпппряяяярррпярряяяряярррряярряяярррсссссссрррсссссссуввьзшшшшшшшзззььььььььыыыыызззшзьвььььввуряряпрррряяяряяяястш|}зрряппяппяяррряяярррррсррссссррутрррррррррррсссрстссртусссссррсрряррррряппясувьыыыьввььььььввжжвввввьььььввжжжжуутсррряррряяяяяпппяппппппяяяпоооооооооооопяяяяпряяяппртвььвжжввжжуужжжжьызыьжромийкиихфбцца╬╫╫╬╩╨╦╥╥╥╥╥╣╢╡╟╝╝╞╞╜╜╛╛╛╜╜╜╛╙╕÷≥■▒▐▐▀┤└│~||~~~}~~|zyyxvutrpsuurqrpnrolklpuxsnlpsqnmqqqponkhgghiihfefgeccb`aaa_^_cfgfggc`___^``abeggihefjjijjgfhlpqqlihjkjjkhijjhfefghiiijmopqrrrqqppnpy│┘┐│┘▄┬└┘└┬▄┼┘│zwy|yx|┌└┐┌└├┤┬┴▀▄▄┬┤┬┼▄▐▓■⌠▒▌▀┴┬┴┼█▌▐▐▐▐▐▐■▓▐█▌░░▌█▐▒░░▓■∙≤≤≈≈≈≥⌡²÷╓╘╛╛╝╡╤╣╢╣╥╥╥╧╫юабббцфхийлнояррпсттужввььввьььвввввьыыыззыьвьыььыззззыыьььвжуужвввввььььььыыьвжууттттссррянйггхгфедцбаююю©╫╫╪╧╤╠╘╒║ё╒÷°   ≥≤≈∙■⌠⌠▐█▐▌█▌■∙≈≤≈∙∙≈≈∙∙√■▒░▓▒░▐▐░░▐▄█▐░░▓■∙■■∙≈■▌█▀┘│}zww~┐││┐┤┼┼┬┤┼█▐█┤┐┐┘┐~yvtrtw{xttuusqutstuvz}┐┘├├┐{yzywvvwxz|{yxvtssvtsvwvvxy┘┬┴┬├└├├┬┼▀▀┴┤┐┌│┐┘├┤┬┼▀▄█▀┴┴┼▄▄███▄▀┼░▄┼┼▄▄▄▄░▐█▄▌▓√≈√■▒░▒▓▓▓⌠▓▒▒▓⌠■≈≈√√≈≈≈≥°°÷║║╒╔╖╗╙╜Ё╪ю╩╧╬©аа©╬©юаюбцццеггхйлноясувьшчЮАъчщзьызыышшзыыышээзьуттуттттттсстттттсряппрпопярряпрсряпртяярррряяяяяяяяррсстттссрррсссссстужвышшзшшшшшзззвььььььыыввьзшшззыьвььььввурппяпярряяпяряяяяртш|}шссряярпяяярряяяярррярсрссссссрттсрсссррррссссрсстссрссрсссрррсссссссссяпппртвьыззьввьвьььььввжьььььььыьвввжжжжжуттсссрррряяяяяяяяяяппппппппппооооооооооппяряяпряяяяяртьььввжввжжжжжжууьызывуяонллмкйифаааю©╬╬©╪╨╧╦╦╦╦╦╤╣Ё╠╞╝╞╞╝╞╝╚╚╛╜╚╗╔·√⌠▒▌┼┼┬┘└┌}}~~~|yzzxwusqottsppqompmkiknrurmkorpnprrqomljgggijigffefeccb`b`_^]]`dfgggeba``^adfhkkjlkilpomnnljjmoqrjffjljjlijjigffgghklkkorsvwuuusqnjlw─│~}┐┼├│││┘▄▄┤└┘{─}}│├┤├└┘├┬┴┼▀▄▄┼┼┼┼▄▌▒⌠░▐█┼┴┴┼┼┴▀▐░░░▒⌠⌠▓░▌▌░▓▓▒⌠■⌠⌠∙≤≥  ⌡⌡⌡⌡°°÷╓╙╛╜╞╢╦╤╤╥╧╧╦╨╫абццдегиийкмпяряястстжввыьвввььвьвввьыззшзыьььыыыызззззывььвжжжжввввввььььььыыьввжуттсряяполйиийгфедцбаюаю©╫╪╩╧╤╞╗╒╒╔╔ё══÷² ≤√∙■∙■░█▐▐▌▐▓■≈≤≤≤≥ °≥≈√■▒░░▒▒▒▓▓▒▐▄▌▒▓▓⌠⌠⌠▓▓∙≈■▌▄┼┘┌|xw|}{}│├┬┤┘└┴┼▀┴┘─~~zzyxvtstusrsvxwuvvvvuvx{─┌┐│~{zzzzzyyyz{│─}|{{{|yx{|{{~}┌┤┴┼┼┴┤┬┬┴┼▀┼┤┘┘┐│┌└┘├┬┼┼┼┼┴┴┴┴┼▀▄▄█▄▄▀█┼┴┼▀▀▀▀▌█▄▄▌▒■√■⌠▒▒▓⌠■■√■▓⌠■■■∙≈√≈≤≤≤≥⌡⌡°·═ё╕╗╗╖╘╜╤╬╫╪©абаю©©юаюабццдфгхймноятжжвшчЮАъчщзьыззызшзыььзшэшьжттуутттттссстссссррррппопярряярряяярсяярррряяяяяяяяярссттттсрррсстттсууувышшзшшззззыывввььььььввьызззььвжввввжжтяооппяяяяппяяяяяпясш|}зссряярррррряяяярррряррсссссссстсссстссррсссссртттсррярррссрррсррряяяяяяпппясжьыззьввьввввьььввввжжвввввввжжжжжжутттттсяяяяяяяяяяяяяяппппппппоопоооооппопяяряяпрярсррстьььввжввужжжжуууызззьтяонмннкйхедбююю©╫╩╪╩╧╦╧╧╧╧╥╤╢╡╠╞╞╝╞╟╞╚╚╛╛╘╒·√░░░▄├┘┘┘┘┐───~}zwxxxwtrppsrpoopommlkkkmopqnmopnorqqolkjigggijjgfgghfddb_``_]\]^adiiihgedddfhikmmloooswuqrqomkklnpkggjkgfgkkjigghjijlmlknqsuvuwzyuoilw~||┌┬┘│┐┐┴▄█┴┤┬┐│├~─┐├├┘└┘├┬┴┴┴┼▄▄▄▀▀▄▌░▒▌█▀┼┼┼▀▄┬▀▌░░░▓■■∙⌠░▐▒⌠∙∙≈≈∙∙≈≥ °°°°²²··║╓╘╛╝╠╢╤╤╥╦╧╧╧╩╫абцефгхиййкнпяяярссррувьыьвжвввжввввьызшззыьььыыыызззззыььььвжжвввввввввььвьыыьвьжууттсряомккййифедцббю©аю╬╪╩╩╦╣╜╘╔╓╔╔ё╒╒║÷² ≤∙■∙∙▓▐▐▐▐▒⌠√≤ ⌡°·÷÷⌡√⌠▓▒▐▌▐▐▒▓▒▐█▄█▒■■⌠⌠⌠▓▓∙≈⌠█┼┴└─~}yw{~{xz┘┤├┘├┬├├├┐}wurwxvttrnoopsvwwwuwxwvvwx}~─~{xwxyz{{{}─┌┌││─│┌┌└│─┌└┐└├┐├┴┬┬┬┬┤┤├├┤┬┬┤┘├┐──│┐┘┤▀┴┤┤┬┴┬┤┬┴┼▀▄███┴┬┬┼▄▄▀┼▀▀▄█▐▒⌠■▓▓⌠▓▓⌠■√√■⌠■√√√√≤≤≤≥≥≤≥⌡⌡⌡²═ё╕╗╘╗╙╙╞╧©юацббаююабюабццдефикмооятвужыщЮЮъчщшыыззззшзыььызшшьуттуутттттссстсссссрряооппппярряппярряяррссрряяяяяяярррссттссррсстттттутувышшзэшзззыьвьвжжьыьввьыьььызьввввввжжусяоопяяяяяпппяяяяпярз||ыяяяпппррррряяяяррряярррссссссрссррстссрррссссстттсрряяярссрррссрряппппппппярувьззвжььввввььььвввввввьььввжжжжжутсстттсяррряяяппяяяяяпппппппооопоооооппопяяяяяярярссрстьььвжжжвужжжууууззшшьтяпнмнлихгцда╬©аю╫╨╩╨╨╧╨╨╧╧╨╦╥╣╢╡╠╟╞╞╝╛╛╛╙╕°≈▓▌▌▌▀┤┐└┘├└│─~──}|yvuvwvtqqrqpnnnnmlkllmmlmmpooonmorppmjiihghfgjjgefggececaa`^]]]^_addfikkkknnljjlnoqrsvyvqqpomkijlnhghjjgefklkjhijlkklmlijmrsttwyxunjmw|{z|~─┤├└├┤█▄▄▀┴┴┤├┼┌┌┐┘├┘┘┘┬┴┼▀▀▀█░▐░▐▌▌░▒▒▌█▄▀▀▄▄▄▄█▐▐▐░▓■≈≤√⌠▒⌠∙√≤≥≥≈∙√≤≤²°  ⌡²÷║ё╔╗╛╞╡╢╣╤╥╦╦╦╧╩╫юацдфгхикклняряпстсрртвьыьввввжжввввьызэзыыыыььыыыззшзззььььвжввввввввввьвжвьыьввуттуутсрпмллкихгфеддцбаюю╬╫╪╨╥╢╜╙╖╕╔ё╒╒÷═÷·° ≈∙■∙⌠░░▐░⌠√≤≥  °··÷ ■▒▒▒▐█▄▄▌░▐█▀▀┼▐⌠∙∙∙■⌠■∙≈⌠▄┼┬┐~}}{z~┌─}}─└└┐┐├┬└┐└┌{tppuvroqokmoqsttuurvxwvvwwz|~}zwuuwxxxz}┌┘└┘┘└┘├┤├┤┤├┤┬┼▀▀▀▄▄┴├├├├┐┌┌└├┤├┘├┐┌┌┐└┘┤┼┬┘┘┤┴┬┘┘├┬┼▀▄▄▄┬┤┬▀█▄▀▀┼▀▄▐░░▒▓░▒▓▓▓▓⌠∙■▓▓■≈≈≤≥≤≤≥⌡ ≥≥⌡°⌡°÷ё╔╖╗╘╚╙╚Ё╪юбецццбаабаабцццегикмопртжтжьэъЮъъчшыьызззшззыьызшшьуттуутттттссстттсссрпонояпоояссяопрряпяррссрряяяяяяяррярссссссрсстттттутуьыззшщшзыыыьвывжжьыьжьызыьвызььвььььввтяппопяяяяяпппяпяяппяз|{ьяяппопяяррряяяяррряяррррррррррряяррсрррррррсттссссссррярссрярттссряяррппяпяртувззвжьывввьььвввьььььььыььвжжжжвжтссстсррррряяпппппяяяппяпппооооооонооппопппппяяряяррясуьььвжжжвужжуутужззшшьтяяоннкгггцб©╬©юа©╪╨╨╨╨╨╨╧╦╩╧╤╣╢╢ЁЁ╞╝╝╝╜╙ё²√⌠░▌▄┼┴┴┘└└┘└│~}{}~~}{ywttuvtqqsnnmmllkkklmmmlmmopomlnooqpmihihghffijgddfebaddbb`^]_````bbekopqrusplkmppptttwupmnmkjjkkkfhijihhijkllkjlmljklkggjoqstvvvupnqwyww{{}└┘┘┤┤▀┬┬┼┼┬┼▄▀█▀┴┼┼┼▀▄▀▀█▐▐░⌠≈√√∙⌠▓▓▓▒▌█▄▄█▌▌█▐▐▐▌▐░⌠∙≥≤√■∙≈≤≈≥  ≤√√≈≤⌡ ≥ °÷║╒╕╖╙╜╟╡╢╣╥╦╦╦╦╧╩╫ббцдфгийлклояряпрттрсуввввввььвввввввьышыьыззььыыыззшзззвььввжжввввввввввжужвььвжуттуутряяонлкйиихффедцбюю©╫╪╩╥Ё╞╚╗╖╔ё║║═÷·° ≥≤≤∙√■▓▓▓▓∙≈≥≥≤≥⌡²²²⌡≈■⌠▓░▌█▀▄▌▐▌▄▀▀▌▒■≈≤∙▓▓■≈■▐█┼└│──}{─┘┘┌─│┐┌│┐┬┼├┐┐─yroorspnmmkmnpqrssssvxwvvwwyz||zwvuvwxyz~┌├┘┤┬┤┬┼┼┴┴▀▀┼▀▐▐▌░▒░█┴┬┤├─┌┘├└┌┐┌┌└┘┘├┤┤├┘└├┬┤┘└├┴▀▄▀┴┬┴┬┴▄██▄▄▄▄▌░▐▌▐░▐▐░▒▒▒▓▓⌠▓▓∙√≈≤≥≈≤≥⌡⌡  °°⌡⌡·═║ё╔╖╙╙╚╞Ё╨бфддддббцаабдддеххйлнпрсстуьшчЮЮъчэыььзшшшшшзыызшшьусстттттттсссттссссрпоопппппяррряярряпярррррряяяяяяярряяррссттрссттуууутжьыызшэзыыызыьыьввььввьыыььыызььььыыьввсоопппяяяяяпппяпяяппяз|{ыяяяппяппяярряяяррряярряярррряяяяпярррясррррстуссссттссярссрярттсрряррсппяяяяствззвжыывьььььвжжвввввввьыььвжжвввуссттсярррряяпопппяяяяпяяппооооооннноппопппооярряппппсуьььвжужжужжуттужзззшьсяяяонкгггдцбюю©╬╪╨╨╧╧╨╨╨╧╦╦╤Ё╠╠╠╡╡╞╝╜╝╜╕°∙▓░▐▌┼├┬▀┬┘┐┐┐─}zy|}}}|zxvuuutqpqmmllkjijllmlllmoopokloolqpmihhhgiffijgddjga_aa__`^^acbaahhjossstwuromopppttsutpmljijlmljjmmkihijikmmlllmkiikkhgjjmquvvwyutvyxvw{xz┌┐└┘┌┘┌└┴┼┤▄░█▐▀┤├┤┬┴┼▀▀█░▒⌠≈⌡°°⌡≈∙■▓░▌███▌▐▐▐░▐▌▌▐▒■≈≤√⌠⌠≈⌡⌡≥≤  ≤≈≤≥≥≤≥ ²═╒╒╒╗╙╜╟╠╡╣╥╧╨╨╦╦╧╪╬едддфхйкллмояряпрстстуввжжвьыыыьввввжвьзыьыззььыыызшшзззввьвжжжввввввввввжтувььвьжттттряоппомлклхгфеедцбюю©╬╫╩╥Ё╞╚╗╗╖╔ё╒ё═°≤√≈≥⌡√≈■⌠∙∙■√≤  ≥≥°···²⌡≤∙⌠▒▐▐▄▀▌▒░▌██▐▒■≥ ∙░░▓√∙▒░█┤┘┐│}z~└└┌──┐┐└┴▐▄┬┘└vpnmnprplklllnpstttuxzxvvxxwxz{zyxwwy|}~┌└┐┘┤┤┬▀▀┼▄▐░█▐⌠■░▒⌠■▒▌▄┼┴~┌┘└│~~}┐┘└└└└┘┘└└├├┘└┤┼██▀┤┘▀┼┼▄█▄▄█▌▌▐░▐██▐▌▌▌▐▒▒▒░⌠⌠⌠∙∙∙√≈√≈≥⌡°⌡⌡²°⌡⌡²··═╒╓╖╘╚╛╚ЁафедеецбцбабдеефихикмпярятувзчЮЮЮъэывьзшшшшэшзызшшьуссттттуттссстррррсряпяпоояряпррссряяпяярррряяяяяяяяяряяррсттурссттууутужыыьыэшыььзззыыыыыьввьыьвьыззывввьььвжврнояяяяяяяяпппяпяяппяы||ыяяяррярррррррряяяррсряярссряяпссссррррссссссрряярсссссрсссяярстссяяярсярряпяртжвьввьыыжьыыыьььввввжвьыьвжжвьььжуутссссряяррпоояяррряяппяяпоннппннппннпопппяяяярппррясвыьвввуужвжттуууувзэзжрппсоллкифдюаббю╫╨╦╨╨╨╨╨╧╥╤╥Ё╞╝╟╡ЁЁ╠╞╝╛╖·■▌▒▐▀┴┴┴┴┴├┤┘│}yy}~}{vsrttronlmmljhfehjlkihkopmlnnlkmqomllkgdhddjmiedffffc_^__]]_abfkppooqtvxyyxvtqomoruutrnjljilnnmlkkighjkjfimnmllkjjhiljgghlrtuvwx{{yursvxruz~│┐┐┌┌│┘▀█▐░░⌠▒▄┴┬┬┬┤┼┼┼█▌▌⌠²²═ёё÷≥■▒░░░▐▐░▒▓░▓░░▓▓▒■≤≈∙■■√≥⌡·⌡≤≤≤≥ ⌡⌡≥≥²╓╓╒╓╚╜╟╡╢╣╤╥╦╧╨╨╨╩╫©ацддехииллмпряяррстсссувььвжжьыьывжужвььыыыьььыызшшззшшзььвввжжжвьььвжжжжжжжжввьжжжжусррпонммммлигедедцаюаа©╪╨╦╣╟╛╙╙╖╔╔ё╓╒═·° ≥≥≤≤≈√√≈√∙≈≤≤≤ ·÷·÷══²≤■▒░▐▐▒▓░▐▐▓░▐░■≥≥■▐░░■≤√⌠▌┬┴┤┐~~│┘┤┘~├▄▄█▒▌┬┐┌xqmnnqqnnppnnnpsssuxyzzzxwvuxz{|~zwy|└┤┤┘├┤┬┼▀▀┼┴█▐⌠√√■■∙⌠■∙⌠▐▐▒▐├┌─││──{z{~│┐├┤┘└┘┘└┬┘┘┴▄┼┬┤┤┴▄▐▌▄█▌▒█▀▄█▄▄▄▄▄▀▄▌░░░▐▒⌠√≈≤≈≈⌠√≥ ⌡⌡⌡ ≥≥⌡°·÷══╓╓╕╙╚╛╟╣аееаафгцюаабдеггййкнппясуувзчЮъччэзыззыьщэзыьыыышыжтсттужутттстусряяяяяппооопппоряяяяяяпссряяярспярряяяярссррстрррссстувсувышшшшзззззыьвзыыыьжжььвьызззьжжвьввжууспопяяпяяппппяяпяяпярш}|ыяяярряссрряяяяяяяррсряярссряяяссррррррсссссррррррссссррсссррррссряппрсяяяпппярувьввьььжьыыььььввввжвьыьвжжвььвжжуттссссряряппяяяррряпппяяяоноппооппооппппяяяяррпяссртвыьвввуужжуттууууышшзжсррролккхедаааю©╫╪╩╩╩╨╧╧╧╦╥╤Ё╠╡╢╣╣Ё╝╟╞╖²≈▓▐▐█┼┴┬┬┬┬┬┬┘│~}y{~~~|{vttvvromjkmljgedeilmkjkmkmnnmnnnmlllkjihheejmlihfeeeca`accdghjlopqqprwzz~}{xtpmkortutsoknmmorspmiihfgijihjmmmllmnnkklhdddgntvttw~|xsrtuuqtw{}~~~││├█▐░▒░⌠▒▌▀┴┬┤├┤┤┤┼▄▄▒⌡÷╓╗╘╔·≤∙⌠▒▐▌▌▐▒▓⌠∙⌠▓■■⌠∙≈√■⌠⌠∙≤≥°° ≈≤ ⌡ °°°÷ёёё╗╟╡╢╤╤╤╥╥╧╧╧╧╧╨╪╫ацддфхйиллмпяяярярттттужвьвжжьыььвжжвьььыыыьььыыышшшшшшыььввввввжвьвжжжжжжжжжвввжжжжутррряоммлкййхфефедбаббю╫╩╦╣╟╚╙╙╗╖╖╔╔╓╒═÷²°°° ≤≈≈√√∙≤≤≤ ²║╒═║╒ё╒÷ ≈■▓▒▓▓▓▒▒⌠▓▓⌠√  ≈⌠▓▓√≥≤∙░┴┼┬┘┐┘┬┴┬├│└┬┴▀▌▌┬┐│~vqonnrspopnlnorvustvxz{{xvtuy|}││~│┐┘┤┼┼┴├┤┴┼▀▄▄▄▀█▒■∙■∙≈≈√√∙⌠■⌠░▄┬└┘├└│~zz~┌││┐└┘└┌┌┐┘└┤┬┼┼┬├┬▀┼▄█▄▀▄█▌▄┼┬┼▀▄▄█┼┴┼▀█▌▐▐▒▓■∙√√∙∙▓∙≤≥≥⌡⌡  ⌡°·÷══║ёё╔╖╙╜╠╣╩аеццффдаабдефффййкнппрсужвшчЮЮъчэшзыыыышзыыьыззэзжтстужжттттссутсрррряяяпооппппррррррррррряяяяяпярряяяярссррттсррссстувужьышшшшззыыььььыььыьжжььььыззыьужвьььвжсяппяяпояяппппяяпяяппрз}|ыяяяррясррряяяяяяярррряррсряяярррррррррррсссрррсссссрррссррссрррсряяярсяяппппяптжььвььввььыьвввввввжжвььввввввввжжутттттряряяясяярряяпопяяяоооппооппоопяяяпяярррярттсуьыьвввуужжуууужжузшшьусстрнккйхедбаю╬╬╬╬╬╪╩╨╧╦╦╥╥╣╣╢╤╥╥╣╡╝╟╚÷∙⌠▒▐▄▀┴┬┬┬┬┤┴┴├│──}}~}}|{vuuvuqmjjlnmkgfecgknnlkkgmpmlnonikllihhigfgkoqnkfdccdddefilmnpqqrtsprx{z─|xtokimoqstsolmnnptwsmffeehkmlikllkkkmnnkjkgbcdeksursx|xspqttrrtvy{|}~│┴░▒▒▓░▒░▐▌▀┬├┘┘┘┘┤┴┼▐≥÷╕╝╟╛╓·⌡≈■░█▌░▓⌠√≤√⌠∙√√≈≈∙⌠▓⌠■≈≤≤°°≤≤⌡°≥°··═╒║╓╚╟╡╣╦╧╨╨╩╩╨╨╧╨╩╪╪абдефиййклмпяпяряртуутужвьвжжьыыввжвььььыыыьыыыыышшшшэшыьььвввввжвввжжжжвжжжжжвввввжутсрсронмлкйкихггфедбццю╬╪╦╣╟╚╙╚╙╘╙╗╔╓╓╒║║═÷═·⌡≥≤≈√√≈≈≈ ÷ёё║║║║║═· ≤∙⌠▓▓▓▓⌠■∙∙√≤≥ ≥≈■⌠≈⌡ √░┴┬└││┘┴┴├├└┐└├┬▀▌▌┼┘┌}vrqpptvsrqnmopswvtuwxz{{yvtv{─│┐└┐│└├┤┬▀▄▄┬┴┼▀▄▄█▌┼▀▌▒▓▓■√≥√∙√√≤≈⌠■░▄▄▌▄┤┐┐|{│├┘└┘├┘┌──┌└└┤┼▄┴┘┘┴█┼▄█▀┼▄█▄┴┤├┬┼▀▀▄┴┴┼▀█▐░░░▒⌠■∙∙■■⌠∙≈≤≥⌡°°°²·÷══║║╒ёё╓╘╝╡╢╣╩беееффбцдеффффййлнпярсуувшчЮЮъчщэзыызззыыьыызшщзвтттжжжтсттссттсррррряяпооопппяяяррррряяярряяпппяяяяяярсссстттррссстужжвьызшшзззыьввььььььвжжвьььыыыьвтужвьвввпооояяпояяяппяяяпяяппрз}|ыяяярряяяяярррряяяярррярррряяярярррррссррррсррррссссррртсярстрярссрррссряоопяпосжььььвжьььыььввввввжжжвьвввввжжвжжуутттсрярряяряяяяяппопяяяпоппппппппппяяппяярсяяртттуььввввжужууужжжжуыззьусссянккйгедца©╬╬╬╬©╩╨╧╦╦╥╤╤╢╤╦╦╦╤╢╡╠╚║≈■⌠░▄┼┼┴┬┬┤┤┤├├└┌│┌│}|{zzvuuuspljjlmljgfgdgjmnmlkhkmlklmlijlkhffgeghkprojfdbcfijkjnqpqssrwxvrrwyx}|yvsolkmnprtspmkmnpuzwqhhhhjmonjklljhhjiihhjgdehilpqruxusqpsvvttuuwz}─┌─┐▄⌠⌠▓▓▐██▌▌▄┬├┘└└└┘┬┴▌√⌡╔╠╢╠╘ё═°≤⌠░░▓■∙≈ ≈⌠√≤≤≤√∙▓▓⌠√≈≤≤⌡°⌡ ⌡°⌡°·÷═╒║╓╚╞╠╢╦╨╪╪╪╫╩╨╨╩╪╫╫абцегхийллнпяпярясттттужжввжжьыыввввввььыыыыыыыззшшзшэшыьььвввввжвввжжжжжжжжжжжжвввжутсррпомммллкйххггфеддца╬╪╦╣╠╛╚╚╙╙╙╖ё╓╓ё╒ё╒║║÷°⌡ ≤≈≈≈≈≥°═╒╒║║÷²²²²° √⌠▒░▒▓⌠▓∙√≈≈≤≤≥≥∙∙≤° ∙▌├└─{{┐└┐┘┤┤├┤▀▌▐▌▀┬└~wsrtsvxvusoqrqsvvuxyyzzyxwvx~┌┌│┐└└│┐┘┬┼▄██▄┼┴┼▀▀▀▀┼▀▄▌▐░▒■≈⌠⌠∙√≥ ≈≈■▒▒▓▒▌▄┤│─├┴├┘├┬┘││┐┐┴┼┬├┤┼▄▀┬▄▌▄▀█▄┴┬┤┬┼┼┼┴┼┴┼▀▄▌▐░░▌▐▒⌠⌠■∙√■≈≤≤≥⌡²²²·÷÷══║║╒╒╒╒╗╟╢Ё╠╤╫цфффгддеефгггййлмоярсствзщъъчччщшыызшыыыыыззшэзвутуужжтсттсстсррррряпряооопяяпппяяррряяяяяяяяяяяяяяяяррссстттссссрстуужвыззшшзыыьььььвьььвжжвььььььввтужввжжупооопппояяппппяяяяяппяз}|ыяяярряяяяяяррряяяярррярррряярряярррсссррррсррррррссссртрярстрярррряярсряппяяпосжьыыыьжыььььььвввввжжжввьььввжжжжууттттрярссяяярряяяппоппяпппппппппппппяяпппярряпясстувьввввжужуужжжжжжьызыжтсрпмкйигддба©©╬╬╫╪╨╨╧╦╥╤╣╣╢╦╩╨╥╤╢Ё╝ё≤■■▓▌▄┼┼┼┴┬┬┤┤┐┐┐┌││─~─~}{zxxvvusqomlkjjhgfffghijklmmjhhjkjjliiiihfedegggjnmihfefjnppptvtsuutz{xssvwvyxwusqoooopstspolnnpv}|vqpnllmljllnnlhfgfgfgjhfginollqtrprstwyyxvutux}│└└┬▒√■▓▒▐▀▀▄█▀┤└└┘┘└┘┤┤▀▓≤╓╠╤Ё╛╕╒║²≥∙∙√≈≤≥⌡≤√≤ ≥≥≈∙▓⌠∙≤≥≥≥≥⌡²² ⌡²²·÷║╓╓╔╚╠╡╣╦╨╩╩╩╩╨╦╦╨╪╪╪юацегхийлмояяяясссссстжвжввжвьыыыьвжужвьыыыыыыззээзызшшзыыььвввьввввжжввжжжжжжжжжжжжутсряпнмммммкйихггффдеца©╫╧╣╡╛╚╚╙╘╗╕ё╔╔ёё╓ё╒═·²·° ≈≈≤ ²÷══║ё║÷²²·÷²°≤∙▒░▒▓▓▓⌠■■∙∙√≈≤≈√ °≥■▄┘┌~{y{}│└┬▀┴┼█▐▌█▀┴┘~wsrvtvwvuurststwvuxxy{||zxwz─┐┌│┐┘┘┘├┴█░▒░▐▌┴├┬▀▀┴┬▀▀▄▌▐▐▒⌠■▒▓■⌠√  √■▓▒▒▓▓▒▄┬┴██┬├┬┤└│──┌┐└┴┴┤├┴▌▌▀▀▌▌▀▀█▀┤┤┬┼▄▄┴┬┴┴┼▀▄██▌▐█▐░▒▓⌠∙√∙≤≥≤≤ °²°²÷÷÷÷═║╒╒║ё╘╠Ё╡╟╡╥╬цфгхффееегхиийкмопррствзщччччччэшзшэзззыыззшшывуууутвутуутттсррррряпряпоопярпппяярррсрряяяррсррряяяярррссссстттсррсттувьзшшшыыззыьввввьввжввввььььььжжвввжутряонооппяппооппяяяяппяз||ыяяяррярряяяяяяяяяярряяярррряррррррссссррсссррррррссссстряяссряпяряяпяяяяппяяяпруьыыыьвьььььььвввьвжжжвввььвжжжжжууттттяярттрппрряяяппппппппппппппппппппппяяяяряяяррсуввжжввжужужжжуужжьзшзьусрпмккифддбаююю©╪╩╨╧╧╦╤╤╣╤╤╨╪╩╦╥╢╠╓⌡■■▓█▄▌▀▀▀┼┴┬┤┤┘┘└└┐┌─~─~}|yvvvwuroooolkhggggghhhhijklieeijijmhggghgedfgeceilmlkkkostssvwvuuvvyxvsrsttwwutssrrooqrrpnmmnnpu{|ytspnnomjnnproiffijiikheghnojiopknqtvxyxwxwvwz~┌┘┬█∙≈⌠▒░▌▄┼┼▄▀┤└└┤┬├├┤├┬█≈ё╠╣Ё╝╗╓╓╒· ≤≤ ⌡²·⌡ °⌡  ≤∙⌠⌠√≥   ≈≤²² ⌡÷÷÷÷╒╕╕╖╛╠╡╣╦╩╫╬╬╫╩╨╨╩╪╬╬аацфгхийлморяпясссррртжвжввжвьыьыьвжужвыыыыыыззшчэзьышэшзыыььвввввввжжвьжжжжжжжжжжжжутссряонммллкйихггффееда©╫╧╣╡╛╙╚╙╘╗╔╔╖╕╓╓╔╔ё÷²²÷·⌡≤≤≥⌡·÷·°·═···═║═·⌡ ≤∙▓▓■■▓▓▒▓⌠∙√√∙≤≥°²≤▓▄┘─~|{zz{}┐┬▄▀▀██▀▀▀┬┐|urqutvwuuvutvvxzxuvxz~│┌─~|}│┐┌│└├┤┴┼█▒▓▒░▐▌┴┘┬▀▀┴┬┼┼▀▌▐░▒⌠▓░▓⌠▒▓√≤∙∙⌠▒▒▓■■░▐▒▓▐▀┴▀├└┌│┌┐└├┤┴┼┴┼▄▌▐▓▒█┴┬┼┼┬├┤┴▀▀┴┴┼┼▀▄██▌▐▐░▒▒▒▒▓⌠∙∙≈≤≈≈≤ ⌡⌡²·÷÷÷═╒ё╒╒╔╚╟╡╟╟╟Ё╦©дгиигфеегхйийклнпррсувзщчъъъъчщэшшшшззззззззывуууттвутужутттсссссряяяяпппяряяяррррртсряяярсссрррряярррстсрстттсррстсувышшшшьызззывжжвьвжвьвввььььььььььвжутряонноппппооооппяяяппяы||ыяяярряяяяяяяяяяяяярряяяррсряярррссссстсссссррррссссрррсряяррряяярряпппппяяппяяятвььыыььвввьььвввььвжввжвьыьвжжжжуутттусрсттряярряяяяяяяппппооопяяппяяпппярррряссррртжьвжжввжужжжжжуужвызшзьусромккифедааююю©╫╩╩╨╧╥╣╣╥╦╩╪╪╨╧╤╞╗°≈⌠▓░█▄█▄▄▄┼┬┤┤┤┤├┘┘┘┐┌│─~~~}yvttutpnoppnlihijihghhhgghigghijijkggfgggedggfefinrqrqqsuvutvxywuvxxvtsrqqsuuttttuuqqssqmlmpopruxyxtspoprpnooqspjghjkjkkhfhimmihlmjmpsuvvuswwxz}│└├┼▐∙∙▐█▌██┴┬▀▄┼┬┴┼▀┼┬┴┤├┼∙║╝Ё╡╟╛╖╕╔║² ≥°·╒÷°²÷⌡≤  √⌠■≈≥ ≤≥≈≈≥⌡⌡°·÷═÷╒╕╕╗╞╡Ё╣╦╪©юа©╬╬╪╪╫©юббдгххийлмпряпясррррстужвьвжвььььььвжвьзыыыыззшшщэзызээзззыььвввввввжжвьуужжжжжжуууууттссяонммлкййихггфффедбю╬╨╤╠╛╙╚╚╙╙╖╖╘╗╔╓╕╕╓═²²÷÷⌡  ≥ °°⌡≥ °⌡⌡²÷══·°²°≥∙∙√√■▒░░⌠≈≤√■≤≥²·≈▒▄┤┌|{yxz|┐┬▄██▌▌▄▄▀├─ytrqttvxvvxxxyxz{xuvwy}─┐┐┐┌┌┘┘┐┌┘┤┤┴▀▐▒▐▄▄▌▐▀┴┼▀┴┬┴┬┬┼█▌▌▌▐▌█░⌠▒░▓⌠■■▓▒⌠∙√∙■∙∙■▒░░▒▄┴├┘┐┐┘┬├┤┴┴┬┬▄░▓▌┼┤├┤┬┤├├┬┴┬┤┴▀┼▀█▌▌▐░▒▓▓⌠▓░░▓■⌠√≤≈√≤ ⌡⌡²÷═══╒ёё╒ё╖╜╞╞╝╟╟╡╣╨афийигфффгхийллняррсувзщчъъъъчччщшззззыызззэыжтстуувутужутттссстсряяяяяппярррррррррссррррррсряяррррсрсттррррссррстутжьшээшшьыыыыьвжжььвжьььььыььвььььььвжтсппооооппяппооппяяяяппяы||ыяяярряпппяяррряппярряяпяссрряяссссссттссссссррсссссряярряярряярсссряяяопяяпппяятжвьыыьвжжжвьввввььвввьжвьыьвжжжжуууууутссссряррряяяяяяяпппооонпррппррппярсссряттсрртвывжжввжужввжуттжвыызывуряомлкифеебаююаю╬╪╫╩╦╤╢╣╦╩ю©╪╨╧╣╙·≥√▓▐▐░█┼██▄┼┬┤┤┤┘└┐┐┐┌┌┌─~~~yusprromnopnjggijhfegiigfeefkmjijjhggggfeddfgjkkmquuvvuuwvuuvy|zwwz{xvwurrtsrrssuvwuuvvrnmotssuwwwxvurqrsqnooqspjgiijjjligimmkhhknooprtvwussux|─┐┘├┴▌⌠▓▀┼▄▀█┬├┼▌██▌▌▐█▀┼┬├┴▒²╙╟╡╠╝╚╗╕╒²≥≥²═╓═²÷═ √≥⌡≈⌠■√≥≤≈≤≤≈√≤°²°÷÷÷║╓╓╗╟╤╤╥╧╩╫╬╬©©╬╫╪╪╬юццдгихийлмояяппряяррстттвььввььвжвььььышыыыыззшшщэшзшэшышзыыьвввжввжжжввуужжввжжттуууутсряонммллййихггггффдба©╩╥╠╚╙╚╛╛╛╘╗╙╗╔╓╕╕╓║·²÷÷⌡ °⌡  ⌡⌡≥≥⌡ ⌡°²·÷÷÷÷·⌡≈√≈√∙▓░░⌠≤ ≈⌠√≤²²√░▄┬┤│|yxx{~└┬▄▌░▓▒▒▌▀├~xtssstxzwxzz|{yyzxvxtuwz}│└├┤┴┬└┐┘┤┤├┼▌▐▀┤┼▌▒▌▄█▀┬┤┴┤┤┴▀▄▀┴┴┴┴█▓▒▐░▐░░▐░■≈≈■√≈≈■▓■∙∙⌠▐▀┬┘┐┘┴┬┘└├┤┤┴██┴┘┘├├├├┤├├├┘┘┤▀┬┴▀██▌▐░▓⌠⌠▓░░▓■⌠√≥≤≈≥⌡°⌡²÷══║ё╓ё║ё╘╜╝╜╜╝╠╡Ё╥©фикйигффффикллняррртвзэщччъъчъъчэзыыыыызззщзжсртуввтстжутсссрссряппяряяпярряяяяяяпррсссрряяяппрссртссутррряррррсужувыэщэшзыыьььвввжььвжьььыыыывввьжвввжтсрноооооппяппппппяяяяппяы|{ыяппрсрпярряпяяррррррряяяяяяяяяяяррсссссстсрряясрярсссрпппяяяяяяяяяяррропяпппярясуьыыьввььььвжувввввьььжжвьььвввжууууутссрряяяяпяррряяряяяпппппяяяяяяяпопяяяярспрсрртвыььввжжуужжжжжввввзэыжтссннлйххфдббба©╫╫╫╪╨╦╥╤╤╧╫╫╩╪╪╥╞╔ ≤∙▓░░▐█▄▄▄▄▄┼┤┘└┌│┌├┬┤┐───|wuutrpoopqnkgghjjigfffdcdefjljiijjegjjfcdgimponoruwwvvxzywuxyyyywuwwwwuttuqpquvuwzz}~zusuwwxyzyyyzxurooqstqrqrrmijjggijhimnomihknnknqtwywtuttw}┐┤┴▄░▐▄┴├┘┴┴┬┤┼▌▓⌠▓▐▓⌠▌┴┤┬┬⌠°╗╠Ё╠╝╚╜╕÷° ≥°═╓═·· ■■≤ ≥≈∙√≤≤√≈≈≤≥ °·÷²÷═║╒╕╛╡╦╦╧╨╩╫©аааю©╬©абецдхйххкноооноппясттсрсутужжуужвжвьыыыыззззззшээщэшшшэшшэшзыьвжжууужжжввуууууужжууууууттяяпнммммйихйиххихгеа©╬╩╦╠╜╛╝╞╝╚╙╙╖╔╖╘╙╕ё÷·°⌡   ⌡²  °≥≈≤≤≥≤≤ °²÷║═·°⌡≥≈∙⌠▒▒▓∙≤≥≈∙∙≈ °≥▓▄┼┤│|{{|{{│┴█▐⌠▒░√▓┬│~yvsqswxy||{z{xvwyzzzwxzzz─┐─┌├┬┬┘└┘├┬┬┴┬┬┴┼▀▄▐▐▄┴┴┴┬┬┘├▀█┼├├└┤┼█▄▀┼┴▌░▒░▐░▒▓▒⌠■⌠⌠∙√≈√▓▐▐▐█┼┬└┌┌└┐┌┘┼┼┤└┌┌└┘├├┘└└┐┐├┼┤┬┼▀▄█▐▒░▓⌠▓▓⌠⌠▓∙√√≈≤ ⌡°°°²÷═║╒║ё╒╔╜╟╜╛╝╞╠╡Ё╣╧юффийиххгфхилнпярсртвзэчччЮъъччщшыыыыыыыззэзвтсужутттууутттссрсрряррряяярсряяяяррсссссррррпярсррррсррсссстррссссссжвышээшшшзыввввьувььжжьзььыыьвььжжжутсррпооопяппяоноппппяпппяяы||ыяппяяяпярряяяяяяяярррряяяяррррпяярррррссттрряррряррррряяяяяяяяяяяяяяяяпяяяяяярпрувьььввввььввжжжвввьььжвьььььввжууууутссрряяяяяррряппяяяяппппппяяяяяяяппяяяяррпрсрртжьввввжжжуууужжвввьшщзвуссннлйххфдааю©╫╪╫╫╪╨╦╦╦╧╪©╬╩╩╧╡╚ё √■▒░▐▌█▀▀┼┼┼┴┬┘┐┐┐┐└├├┐}{{}~|zzvuspnmnnmljjijiigfeedbbdfhihhikkfffddfiloqssqopqxxyyz{yvvyz{zzxuuttuvwwvoopsvwy{}─┌zwvuvwyzzxusqrrpnnpspqqsuqnphfgkmlnpoomihiklnqtvxyvrwvvvy~┘┼█░░▀┬└┐┤├├┬▄▐▒▒░▐░░▄┴┴┼▄▒≥╓╜╠╠╞╝╙╕║÷·²÷══·²°≤⌠⌠√≤≤≈∙√≤≥≤≈≤≤≥⌡°···÷║╒ё╔╚╠╥╦╨╩╪╫©юаааююююадцеиихилоопооопяпрссррстужжжжужвжвьыыыыззззззшээщэшзшшшшззыыььььжжжжжжжжжуууууууууттттттряпнммллкййккиийхгдаю©╪╧╡╠╟╠╟╝╜╜╚╙╗╘╘╗╔╒═÷°⌡⌡°°°² ⌡² ≥≥≤≥≈≈ ²÷══··°≥≈∙∙∙■■∙≈≤≤√∙≈≤  ≈▒▄┼┤│|z{|}}┌┬▄░⌠▓▒⌠░├|xtroswxxzzyy{xwxxwxzxz}|{┌┌┘┤┘┐┌┌┌┬┬┬┤┤┬┴┼▄▌▐▌▄▀▀┼┬┘┐└└└┐└┌└┬┼┼┼┴┴█▐░▌▄▄▄▄▐░░▐░▓∙√√⌠▓■■▓▌▄┴├└┐─┌├┘┐┌│┌└┘┘└└└┘└└├┴┤┬┬┴┼▄▌▐▐▒⌠⌠⌠■∙■∙∙∙√≤≥⌡⌡⌡°²·÷═║║╒ё╗╜╞╜╛╝╜╞╟╠╡╤╪юфиккййиггикмопярртжыэщччъччччщэшыззззшшшэзвттужутттууттттсссссряяяяяппяряяяяярррсссрррррпяррряррсррссрстссссстттжвызшшшзшзыьввжжжвввжжвывьььвжввжжжутсррпоноопппяоноппппяпппяяы|}зяпппппяяяяяряяяяяяяярряярррррряяярррррсстсрррряярряяррряяяяяяяяяяяяяяяпяяряяяяпятжьььвжвввввввжжжввьььввьыыьььвжууууууссрряяяярррряпоояяпппппяппяяяяяяпяяяяяррярсрртвввжжжжжжжуууужжввыэщшвусрннлйххфдюю©╬╫╪╫╫╪╧╥╦╨╪╬©╫╨╦╢╛╕═ √■▓▒░▐█▀┴┬┬┬┴┬┘┐┘┘└└┘├┐~}{zzzzxxwvtqnmlmnoomkihhgffecaabdfhijkkjegfdflprtttuspqsx{}}}}{xwy{{zyvttssux{zyrstux|~─┌┌{xusuvxz{xtpnnnnnpqrrttturnojhimppqromlkihiknpsvyzwtvwxwx}┘▄▌▒░┼┘──┘└├┴▄▌░▒▒⌠▒▐█▀┴┴┼▄⌠°╓╙╛╜╜╖╔║·²·÷÷²·· √⌠▓■√≈≈√√≈≥≥≥≤≥ °·²²··═╓╔╔╙╠╥╧╩╪╫╬©©юабцбаааццеийикнопппппяяпяррррстжжжжжжжвжвьыыыызшззызшэщэшзззшшшзыыыььыыввжжжжжжжжуууууууттсссттсрпнмлллкккллкйкигдбаа╫╧╢╢╣╢╠╝╝╟╚╚╚╚╘╖╔ё╒÷²°²··²° °²⌡  ≥≤√√ ·═÷··²⌡≤■⌠∙≤≥≥   ≥≤≈≈≈≤≈■░▄▄┤│zwxz{}│┘▄▓⌠⌠⌠░█┐|zwtsprwwvwvttvuvyxuvxz|─}┌│┌└┘┐│││─┤┤├├┘├┤┴▄█▌▐▌▀┼┴┤├┐──┌┐└─┐┘┤┤┤┤▀▌▐█▄▀┼┴▄█▄▀▄░⌠■√∙√≤≥√▓░▐▄┼┬└─│┐┐┌││││──┐┐┘├├┘┘┬┬┬┬┬┼▄█▌▌░▓⌠■√≈≈∙■∙√≤   ⌡°²·÷══║═╔╚╝╜╚╛╜╝╞╠╠╡╢╦╪дхклллйхийлнпярярсжышщщччщщчччщэыззшшшшзшзьутужутттттттттссрсрряппппппяряяяяяяррссрррряяяяряяяррсррссрртссстттуувьышшшззшшззьвутвввжжжввььььвжжвжжуутсряоонноооопннопоопяпппяяы||зрппяппяяпярряпппппяярряяяярррррррсссссрсссряярпярряярсрряяяяяяяяяяяпппопяяяппппятжььььвввжжвввужжжввььвььыыььвжжуужжуусссрряяяррряпооопппппппяппяяяярряяяяяяррсттссжвьжжжжжжжжуууужжвьышэзжтрпонлиихфцаа©╬╫╫╫╫╩╧╥╦╩╫╫╫╪╤╡╜╕╒÷ ≈√■⌠▒░▌▄┬┬┴┬┬├┘└┤┤├┘├┤└~~|yyxwvuxwvsqonnqqpnkigfhggfdbaacehkmligejmmotwuzwttqosz{~──~}|zzzzxwutvuuwz|}}z}}||─┐└└┐─|zywuvvwxxwutqmilqutqruuuuqmmnmmqsrqqmkjkjhilmoquwxwutwyz{├▄█▒▐┴┐~}┌└├┴▀▄▌▒⌠■░██▄┴┤┬┬█∙°║╓╕╖╕╔═ ≥°···═÷≥■⌠⌠⌠√≈≤≈√√≈≤≥≥≥⌡··²⌡²°÷╔╕╔╙╡╦╧╨╪╪╫╬©ююбццбцдедехйклнооппоппяяррррстужжввввжжжвьыыыззэшзыышэщэшзззшшээшзыьввввввжжжуужжууутттуттсссттсрпнмлкккклллккйигдбцб╬╧╣╤╤╣╠╞╞╟╛╛╛╛╚╘╖╔ё═··÷═÷² ≥⌡²⌡  ≤≥≈≤⌡··²°··°≈▓▒∙≥⌡°²²⌡≥≥≥∙∙∙∙⌠▐▌▌┴│yvvwyz~┌█■⌠⌠■▌┬yxvuusrvvssqooqqtyzwuvz{~┌└┌┌└┘┐┌└└┌├├┘┘┘├┤┬▄▄▄█▄┬┘└┌┘┘│─┐└┐─│┌└├┤┤┬┴▀▄▀▀▀▀┼┴┼┴┴▀▐▒▓√∙√≥ ≤■▓▒░▒░▄┤┐┌│───~~┌└├┬┤┘└├┴┬┬┬┴▀▄██▐▒⌠∙√≈≈∙∙∙√≥   °·÷══÷÷══╗╝╝╚╙╚╛╞╟╠╡╡╢╥╨аеилммкийклояяяяясжышэчччщщччччщыыыззззыззьутуууттттттсстсрррряяопппппяряяяяяяярсрррряяярряяяяррсррссррссссттууувьзшэшзыззшзывусьвжжвввжыыыььвввжжуутсяпнннннноооннопоопяпопяяы||зяяяяяяяпппррряпппппяяряяяяяяярррррррссрррряяяяярсряярсяяяяяяппяяяяяппппппяяяпппртжьььььвввжжжжужжжвввьввььььвввжуужжутсссррряяяяряпппппппоопппппяяяярряяяяррррстсствьвжжжжжжжжуууужвььзшэыжсяоонлиихфцба©╬╫╫╪╪╧╦╦╨╫©╬╩╧╠╙╕ё║÷ ≤≈∙⌠▓▐█▄┴┼▀┼┤┘└└├├├├┤┤┌|yyxxyywvuvutsqqqrpnlkjhgihhhfcabddgjlkhehpvvvyzy~{ywrot|─┐┐┌~}|zyxwvvvwxxyz{|}~~┌└│~│┘┬┤└─}|}{yvvurpquxsolnsvsonstuvsppqpqssrpokiikjhiknopsuvvvwxz{}│├┼▄▐▌┬┐}|─└┤┼▄▄▌▒⌠▒▄┬┴┼┴┬┬├▀▒√≥°·║ё╒·  ²÷··═·≈▓⌠■■∙√≤≤≈√≈≥   °··° °⌡÷╔╖╕╛╢╧╧╨╨╩╫©ююююбццеххффхлннннооооопяяррррстужжжввввжжвьыыызшээзззшщчэшззззшэщэзыввжжвввжжуууууууттттууттттттсрпнллкклмммллккигеццб╫╦╤╤╣Ё╠╟╞╝╝╜╛╛╜╚╗╕ё║÷═║║·⌡≤≈ ⌡≥≥≥≈≈≈ ²²²°²÷÷°≈▓▒∙ ⌡²÷² ≈≈≤∙■∙∙▓▐██┼┌zwwxz{{┌░√▓▓⌠▌└{vvutusossqrpnoporwzzyyzxz|~┌┐─│┐┐┌└┬┬├┘┘┘┘├┤┬┬┼┴┼┼┤└│─└┘│─┐┐│└└┘├┤┬┴┴┤┬┴┬┴┼▀▀┬┴┴┴▄▐░▐▒▒▓√≤≈∙■▓⌠∙∙▒▀├└─~}───┌│┐┘┬┤├├┤┴┬┤┤┬┼▀▄█▌░⌠∙∙∙∙∙∙√≤ ⌡⌡⌡·═╒ё║÷÷÷ё╚╠╞╚╚╛╜╜╝╟╠╠Ё╣╥╫бгймомкййкмопооясжышэчъччщччччщыыыыззыьззьутуууттттсссссрряряяпопппппяряяярррррсрррряяярряяяяррсррссррсссстттууьызээшзыыыззыьжтььввввввыыьььввжжууттсяонннннннооннппооппооппяь{{ыяяярряяяппяррряппппяяряяяяяяяяяяяяяяяррррряяяррррррярряяяяяяяпяяяяяяяяряяяяяяпяртжьььььььввжжжжжжжжввввьььььвввжжжжжутссссрряяяяяяппяяпппоопппяяяяяярряяяяррррссррсжвжжжжжжжжжжууужвьышээыутрпонкииифцба©╬╫╪╩╩╦╧╨╫юа╬╩╢╚╔╒═║÷ ≈√■▓░▌▄▀▀▀▀┼┬├┘┘└┐┐┘├└zxxxxyzxustuutsstqomkjjjiihiigdbcfdegiiijntyyxy{|||}}yvy└┘└│~}|{wusstuxz{||{{{|}~│┐│~└┤┘┐│~~{wutrmjlrwpqssrpnmosutusqqpqrrqpnmkkjjjiikmnquxz{}~}||~│┘┬┼██┴┘─~─┌├▀▌▐▐░▒▒▀┘└└┘┘├┐┴▐⌠∙√≥°²²°°°··°··⌡√⌠⌠■■⌠∙≈≥≤≈≥⌡⌡⌡⌡²··²⌡°°÷╓╕╗╝╤╧╧╨╨╩╫©абююцддгккихилннноооооопяяяяяррстжжжвььвжжвыыззшшщэшшшэщчэшшзззэщэшзььввввввжжуутууутттттууууууттсяпнмлммнооммммлихецца╪╥╣╣Ё╠╟╟╝╛╟╝╛╛╛╚╗╕╔ё╒║║═²⌡≈≈≥≥≈≤≥√∙√ ²²²·═÷÷°≤■⌠√≤²÷║÷⌡≤≈≈√√∙∙▓█▀▀┤│zxyzz{z┘▓√⌠▓░█┐ytsrqrpnqqprrqqrqqsx|}|yvvy|{│┌┌┘┼┼├┘┘┘┘├┤┤┤┘┤┤┘┐┌│─┌┘┘│─┌┐│┘┘┘┘├┤┤┤┴┼┼┴┴▀▄▀┴┴┴┼▄▐▌▄┼┼█▒■∙∙∙√√√∙⌠▐▀┴┘┌─│┌││┐│┌└├┤├┬┼┤┤┬┬┤┬┼▀▄█▐▓■⌠▓▓■∙≈≥⌡°°°÷║ёё║÷═║╗╝╠╞╛╛╜╝╜╝╟╠╠Ё╣╤╨╬цхлоомлккмоппопсжьзшщъччщччччщэшззззыьззьуттууттсссссссрряряяпппяяппяряяярррррссрррряярряярррррррссррсссссттттьышэщэшзыыыыыьвжьььвввввьвввввжжжутттспомннмммнооноппооппоооппь{{ыяяяряяпяяяяярряяпппяяряяяяяррряяяяяяяярррряярррряярряяяяяяяяяяяяяяяяяясяппяяяяяртжвььвввьььвжжжжжжжжжжьььыыьввьвжжжжтссссссряяярряппяряяппппппяяяяяяяряяяярссррряятввжвжжжжжжжжжуужвыышэзвтсрпонкииифцаюю©©╬╪╩╧╪╬юаа╪╥╞╖╒═÷═÷⌡√∙⌠▒▐█▄▄█▀┼┼┼┴├└└││└┘│}{{{zyyywtstuvuuuurqoljhhhhhijheccfddfijmpsuxxxy{~z|──┌┐┌─~~}{xvuvwx{~~~}|}}}}}~~~─┐┐┌─~}{wssrpmkmquprsrommnrutqpomnnpqpnllklmmlkmnnqrv{~─│┐└┐┌││┐┘┤┬▄█▀┴└││┐┤▀▌▐▐▐░▒█┤└└└┐│┌┴▓√√≈ ·²°°²²²°°⌡⌡≥≈∙∙∙■■∙≈  ≥ ⌡⌡°²·÷··²²·║ё╔╘╠╦╧╨╩╪╫╬юбцабдеехллллклмноппппппяррряярсстууужььвжвьызззшэщщэээщщчээшзззэчэшзьввььввжжууттттттттттууужууттсрпоннноппомлммлихгдб©╨╤╢╢╡╟╟╟╞╜╞╜╛╚╙╙╗╖╗╕╓╒═÷²⌡≈≈≥≤≈≤≥√√√≥°··÷═·²⌡≤≈√≈≈⌡²÷÷° ≤≤≤√∙■░▄┼▀┘─{z{zzy|┴⌠∙∙▓█┼│xrrpppooqporspoqstru{}zwuw{|~}x~─││┘┼┼┘┐┐┐└└└┐┌│┘├│~─││┐┘┘┐┐└└┐└┐┐└┘├┘┘┴┼▀▀▀██▄▀┼┴┴▀▌█▀┤┤▀▐▓⌠⌠⌠√√∙⌠▓▒▐▌█┴├├┘┌│┐┐┐└┘┘├┬▄├┬┴┴┬┬┼▀▄▄▌▒⌠▓▒▒▓■≈≥ ⌡°²÷║╒║··║╓╛╝╟╝╛╚╛╝╞╞╟╠╡Ё╣╤╣╧╬цинооонммояяяорувызщъчщщччъъччэзззшзышшьустжжттсссрссссрррряпппяяппяяяяррсссссссрррррррярсссррярссррсссстттттвышэщэшззыыььввввььвжжвььвжжввжжжутттспнмнннммнооопяпооппоооппь{{ыяяпяяппяяяппрсряяппяяряяяррррррряяяяррсссррррссряяяяпояяяяяррряяяяярррряооопппяртуввввжвььььввжжжжжжжжьыыыыььвьввжжутссссссряяррряппяярряяппппряяяяяяяяяпярссрсряятььввввввжжжжжуужьызшшыусряпонкииифцааюююю╬╪╩╬ааа©╧Ё╚╕╒═·÷÷°∙■▓░▌▌█▌▌▀┬┴▀▀┤┐┘─┐┘─}|{{zxyzxvtvwwwvvvssrnifefgghiheccedeilnqtttvxyy{~~─│┌┌|~~}~|{|}~─┐│}}─~}|~~}~─└┐─}{yuqqppppqsutqnllnpqqsqlkkkmmopnkiiimopnnrtsyz~┌┐┌││┘┤┬┬├├├┤┤▀█▄▄┤┐┐┘┤┼▄█▌▐▒▄▀┴┤┤┬┘─┐▄√⌡⌡°═╓╓═···°²· ≥≤≤≤≈√∙≈≈≤⌡⌡ ≥⌡°²·÷÷÷÷÷÷║╒ё╔╙╡╧╦╨╪╫╬©абдццфгфхллномккнпяяяяяярстсррссттттужьььввьыззшээщщщщщщччээшзззэчщэзьввввжжжууттттттттттттуужжутссряооопппполкллкиигда╬╧╣Ё╢Ё╠╞╟╟╝╛╛╚╙╘╗╘╙╙╗╔╒÷²²°≤≤≥≤√≤ ≈≤≈≥°·÷··²⌡ ≥≥≤≈√∙≈⌡°⌡≥≤≤≤√■⌠░▄▀▄├┌~}}|zx▄⌠■√▓┼┬─wrqqqrqqrpnqqmkmtvstzzvuty}~~}y~│││┘┼┴┐│─││┌│~┘┘~z~──┌┐┘┘┘└┌└└└┘├┤├┘├┬┼┼▄██▀▄▀┬┤┼█▄┼┤┬▀▐▓▒░░▒▒▒▒▒░░▐▌▀┴┼┴┘└┘├┘└└└└┤▀├┴▄▀┼┴▀█▀▀█▒⌠▓░░░⌠≈≥≥ ⌡²÷══·°²╒╕╜╜╜╛╚╙╚╜╞╟╟╠╠Ё╢╣╡╣╨©флнномллнпяпояувьзэчщщщщъъъъъщзыззыьшшьтстжвттссрррстсррррряппяяпппяпярсстттссссрррррярсттсрряяссррсттттттттвьзэээзышзыьввввжвьвжувььвввььввжутттспнмнннммнооопяпооппоооппь{{ьяяоопяяррряяяяпппппяяяпяяяпярспяярряяптссряяяяярсряпярсряяпяярппппппяяппппппппрррсужвввжвьвуужжжжввжжжвьыззыьвьвжжуутстряяррссрсрярссяооопппяяяяяпярссрррррсссрсрсуввжвввжжжжжжжуужвзшчэыжсррромкигфедю©©аю╬╫╫©©ба╫╨╢╛╓╒═÷÷··²≤■░░░▌▄▄▄▀┴┤┬┼┴├┐─┌└┌}~~|}─│~zvxywtqrtqtrlijhdfggggfdbegimoruxwwxyz|~~─┐┘┐~yw{||{{|~──┐┐─}┌└┐─}~┌─}zwxzzz{}}{xwurorolnrtrnllllllnollljiimoopokjlnnnnoppqsuzz{}│┐┐│┘┤┼▀┼┬┬┬▀▄█▌▀┬├┤├├┬▀▄▀▄▐▌┬└├┴┴┘│┴▓ °²═╓╕╔╕╔╒║║═÷≥  ≥≤≈√∙∙≈≤≤≤≥≥≤⌡°²·÷÷÷·²═║╒╓╚╡╥╧╪╪╪©аабедццеилнноооояпнпяссссстсрррстуужттувьвжввыззшшшэээшэччщээшззшээщшыьвввввввутуутжввутужужжуууутттсрярррррпнмлмллйиеаю©╨╢╡ЁЁ╠╟╠╟╞╜╛╛╚╚╙╚╛╙╘╖ё═·²°≥≥≥≥≥≥≥≥ ≥ ²║╒÷²⌡ ≥≤≥   √≥⌡⌡≥≥≤≈≈≈≈√⌠▌██┤┘┌}}|{├░▓▒√■▄┤│yrrttsrponoppmimoqqqvxsvy}─┌┐│~┌~}┐┴┼┬├└┌─}|||}┌┐│|y{┌─┐└┐┘┤└─┘└└┤┬├└┐┘├┬▀▌▌█▄┼┼┴┼▄▌█┼┤┴▄▌▌███▌▌███▌▐▒▐█▄▌█▀┴┼▀┤└┐┐└┤┼▀┼┴┼▄▄▄┼▀▄▌░░▌░⌠▒■√≈≈≤≥≥÷·═╒÷⌡÷╕╚╚╚╜╝╝╛╚╛╛╝╠ЁЁЁ╢╢╣╦╪бхмпоппнноппяруьззэъэщщээъъъщшшшзььзшывжжжжужжууттттттттссрряяяррряпррссрярсссссссстяярррряясрррррррссттттссуьэчщшзыыыыьввьыыввыыввыввьызывуууутсяонлллмнооппярряпппппппяпь|{ыряпопряяяяяпяяяяяяяяяяппяпппярррряяяяяррряяяяяярсряпярсрряяярряяяяяяяяппппппппрярсувввжжжввжжжжжжжжжжжььыыыыьььвжжуутссряярсссярряясрярряяяяяяряяяяррсрррррррррсрсуввжжжвввжжужжуужьзээшыжсрррнмкигфдцаюююю╬╬©цбца╨╣╟╗ё╒═····²≥∙▒░░▌▄▀┴┴┬┤┬┴┬├┌─┌┐┌─~─┌┐{wxywtrrsssrmkjheghihfedehknqtwy{zz{|}~─{z{─~}|||{zz}─└└┐│─┌┐┌┐│~}}z{wvvxzz{}yyxvtsqnrqoopponkjihghjllmnmlmoqqpnlmprqmmmnqtwyzy{┐┘└┌┘┤┼┼┤┘├┤┼▀▄▄┴┘└├┘├┬┼▀▀▄▌█┬┐└┘┘└┌▀■²═║ё╔╔╖╗╖╔ё║÷²    ≤√■⌠■√≈≈≤  ≥⌡²·÷÷÷÷═÷╒ё╓╕╛Ё╥╧╫╫╪©ююбеддефхклнопопррпярссссстссррсттужжувьыыьвьызшшшзэээшэчъщшшзыззшэщшыьььввжвжттттсуввжужжувжууууутжутсссррпомлллллкйфцаа╪╣╠╡╡╠╟╟╟╝╜╜╜╝╝╝╞╞╚╙╖ё║÷··°°⌡⌡⌡⌡⌡⌡  ⌡·║║÷²° ≥≥≥   ≤ °⌡  ⌡⌡≤≤≈≤√▒█▄┼┬┘┐│─│┌▌■⌠░■∙▌┼ystvwwxsrpprsrpooqqrwzwwxy{┌│~─~~│┘┤┤┤┤┘│~}|}~─│─}|}─┌│┐└┐┘┤├┐└┌┐┘├└┌│└┤┼█▄▀┴┬┴┼┼┼▀█▀┴┤┼██▀┴┴┼▄▄█▄▄▄▄█▐▌▌░▒▐███┴├┘└└├┴▄▀┼▀▄▄▄▀▄▀█░▒░▒▓░⌠√≈≤ ⌡ °²÷═·²║╖╘╘╘╙╚╛╚╙╜╛╜╟╡Ё╢╣╢╣╤╨©дймпррпопяяяруьыышчщччэщъъъчэшшзььзшывуууттуууттсссттттссррряяяррряррсррррсссссссссррссссрррррррррсррссссссжыэщэшззыыыьввьььььььввьввььыьвуттссрпннлммнноопопяяяппппппяяяы|{ыряпппрппяяппяяяяяяяяяяпяяяяяррссряпяяяяяпяяяярярсряпяррряяяяяряяяяяяяяппппппппяяясувььжууввжжвжжжжжжжжыььввььыьввжжутссрррссссрряяяррпсрряяяяярряяяярррррррррррррсуььжужвввжуувжуужышээшыжсяппмлкихфдббаююю©юбедц╬╤╟╚╔╓╒═···÷÷°≈⌠▓▒▐▄┴┤├┤┴┼┴┬┤┌││┌┐│~}~─┐└│|yyxwutstsqonmljifghjlnnnmptwz|}~|}}}~}}}|yxz}~~~~||{yx{─└┌──┌│─}z{zwvswz{z|}~yyxvvusqrrqomlmmmkigfgikkmoqqppqrpllossqpppruz}}~┐┤├└┐┐├┬├┐─│┐┘┤┬┬└─│┐├├┬▀▄▄▌░█┴┘└┐└┤┴▐≈÷╒╓╖╗╗╘╚╚╗╓║·⌡   ≥≤√■⌠▓■√√≤  ≥ °÷÷·²÷║║ё╔╕╗╜╢╥╧╫╬╫©ююцееефгхиймноояссрррсссссстссссстттужжвььььыызшшззэээшэчъчшшзззшээщэзыььввжвжутууттжвжжжжувжууужуувжуутсряомлкккккйигдба╪╤╡Ё╢Ё╡╡╠╞╜╝╟╠Ё╢╢╢╜╙╕ё║║═÷°°⌡  ⌡⌡⌡°°²÷║║═·°⌡       °²⌡⌡⌡²²⌡≥≥  ≈⌠▒▄┼┴┬┬┤┼▌≤ √⌠√≈░▀{uqrtuvyvutvxzyysqqssw{zxwvx}┌┌──││──┌┘┤┬├┐─~~~}───┌┐└├┤├└└┘┘┌┌││┐└┐│─└┤┼▀┴┤┤┬┬┴┼┼┼▀┼┬┬▄▌█┴├├┤┬┴┼▀▀┼┼┼▌▌░⌠■⌠▒▒░█┼┬├┘├┤▀┼┼┼┼▀▀▄█▄█▐▓▓▓▓░⌠∙√≥⌡ ≥ ⌡²²°·╓╘╘╘╘╘╙╚╚╚╝╛╚╜╠╡Ё╢╣╣╣╥╩афйпрсяппяряруьььзэчччщщчъъчщэшзьышшзвуттттутттсссртттттссрряяяррррррсрррррссссссряссссссссррррррссяяррссссвыээшшшшыыыыьвввьыьввььвввввьвжутттсрпонммммнноооппяпппппппяяяы}{ыяяпппяппяяппяяяяяяяяппяярряярсрряяяяяяппяяяяяяяррряпяяяпппппппппппппяяяяяяяяяяряяртжвьжуужввжвжжжжжжжжыьвжжвьыььвжжжтсррссттссрряяррряяппппярррряяяяяярррррсссррссжььжуужжжжуувжуувышщээзвспонмлкйифцабаюююацдда©╨╡╛╘╔╔ё═÷÷÷÷═· ∙⌠▓▐▄┬┤├┤▀█┼┬┬┘┘┘└│}|z{|~─┌│~{zxwvuttqmkmnmllkjjovzywsvy|~~||||{zyx}{z{||}}}}|yw{─│|{}~~|{~|xyyvuvz|{y{|{{{zxwwvtppomkkkmnmljihijknruutsqomkloqqotvwxz}─│└─┌┘┌─││|{{|~─┐┌|~┌┘├┬▀█▐░▒█▀┤┘┐┘┼░√°═║╓╘╜╜╜╞╝╙╔║·°≤≥≥≥≥≤√∙■√≈≤ °° ⌡⌡²··²·═╒╓╕╕╗╜Ё╥╩©ю©ююадеефггхииллмоястссттттсттттссссттстжжжжвьыыззззззшэшшшчъъэээшээщчщэзыььвжвьвжужжутужжжжжввжууужжувжуутсяпонлкккййххфцбю╩╣Ё╢╣ЁЁ╡╠╞╝╞╠Ё╣╥╥╤╜╘╔╒║║══°⌡ ≥≥  ⌡²·÷║╒╒║═°⌡   ⌡  °·÷²°²²²⌡≥≤≥ ≥≥≥■▓▒▒░▐⌠≥  ≤√≤≈▐┤zvvvvwzvvw{~~~~xttvvvyzyxvx~┐┘┐┐┘└─│└└├┘┐┌│───}~─│┌└┘├├┤├└┐└└┌│─│┐┘├┘┐┤┬┬┤├├┬▀┤┴▀▀┼┼┼┴┼▄▌▄┴├├┤┘├┬┴┴┴┼┼█▌░⌠∙∙■⌠⌠▒▐▄┼┬┤┬┬┬┤┤┬┴┼▀█▌▐▒▓▓▓▓▓⌠∙√≤ ≤√≤⌡° ⌡═╕╘╙╘╘╘╘╙╙╚╝╛╚╜╟╡╡╡╤╣╣╤╧╬дхнятсяяяпярувььзэччщщщщччъчэшыызшэзьжууууутттсссртттттсррряяяррсррррррррррссссряпсрряяррсяярррсссярррсссрвышэшзззыыыыьввжвыыжжььжввжжввжууттряпонллллммммнопппоппоопяяяы}{ьяяпппяппяяяпяряяяяпппппяяяяяррппяяяяяяяяяяяяяяяяяяяпяяппппппппппппппяяяяяяяяяясряртжввьжужвжжжжжжжжжжжввввввввььвввжусрсттттсссрррррряяппппяярряяяпппярррсссстрсстжььжжжуууужжвжужьзээшшывтяооммлкифцюаааабцееа╫╨╣╝╙╗╔╓ё═÷··÷÷· √▓░▌▀┬┬┤┴▄█┼┬┬├┤├└│~|{z{{{}~zywvuttspkjlnllmrrswz|{yx{~──}yzzzyyxxxy{}}|}~~}|zx{|{zzz{|}z}zwyywuyzyvuvwuyyxvuutrqomkjjjklmnmljiimotwyxurjjkmopooux{zz{}~│}zz{yxx{zyxxwwvy{~~|{~┐┌┐├┴▄▐░▒▄▀┬└┌┐┼░°═ё╓╕╚╞╟╠╠╝╘╓║÷²≤≤≥  ≥≈√≤ °°²··²²⌡⌡²÷÷══ё╕╖╖╘╝╢╦╫абюбббеффффгийккклортттууттттттуттссстттуввввьыыыззззззшшшзшщччщщэээщщчэшзььввжвьвжужжужжуууувьвжууужжжжжуутсяппомллкййхгецб©╨╤Ё╢╢╡╠╠╞╜╠╡Ё╢╣╤╣╡╛╗╓╒║║║═²° ≥≥   ²÷║╒╒║══°⌡   ⌡  ⌡·══÷÷·² ≤√∙■∙≤°·⌡≥≤∙∙≤²≤≤≈√∙⌠▄┐│|xwwuvyuuvy{|~─~yy|zxyyyyz|─┘┤┤┘├┘┌│┐└┌││┌┌┌┌││────│┌┐└│┌┐┐└┘├┘││┌└┬▀▀┼▄▀┴┤┤┬┼▄┴▄█▄┼┼┼┼┼┼▀▀┼┴┬┤├├┤┤┤┴┼▄▌▌░▓■√√∙√∙⌠▒▐█▀┼┤┤├├┤┴┼▀█░▓▓▒▒▓⌠⌠■∙√≤ ≤√≈ ⌡≥⌡║╕╗╘╘╘╘╘╙╚╛╝╜╜╟╡╡╠╠╢╢╢╣╦╫цгйостсряоярувььзэчщщщщщщчччщшыыызшзьжуужжуутттсссттттссррряяярссрррррррррррсссряпсряяяярсяярррсссссссссссжьшщэзыыыыыыььвжвыьжуввуввжжжжжутсрпомллллллммммнопппппяооппяяы|{ьпппппппяяяяпяяппппппппопяяппяяоопяряяяррррряяпяяяяпппппппппяяяяяяяяяяяяяяяяяяясряясувьывужвжуувжжжжжжввввььвввыььввжутрстттссстрррсряясряпппяяяяяяяяяярррсстттрсстжьвужжуттужввжжвышэшыыьжтряянмлкхеб©©абццедц╬╦╢╠╚╖╕╓ё║÷·²²²°° √▒▌▄┼┬┴┴┼▀▀┬├├┘├┘┐─}{||{zz|}|ywutsrrrqnlmnmnotw{{yxz|}──│|xxxxyyz{vx|~}zz{|}}{zyz|wwxyyxz|xyvtwwutywtqqstsxxvtttsrspljjjjilnopomlkmosvxwtqhiloqpqstxzyxxxwwurppqsswuttvwwvwxzzyy}┌~│└┤┼█▌▌▀┴┤└││├▀⌡║╖╘╛╞╠╟╢╡╝╗╓║÷² ≥ ⌡⌡ ≤√≥°÷·²²²²÷°⌡÷╒╒ё╓╔╖╘╗╙╟╥╩юццбцддефффгхикклклосуууууттууутууттттуутувввввьыыыззззззшшззэччэээээээээшыьььвжвввуужжувжуууужывжууужжжжжуттсряяонмллкйихфдб©╩╥╣╤╣Ё╡╠╟╞╢╣╢ЁЁЁ╟╜╚╗╕╓ёё╒║²⌡≥≥≥  ≥°·╒ё╒═══²°⌡ ⌡⌡⌡⌡ ·╒ё╒║═÷°≥√⌠▒▒∙≥ ≥≈√∙≈⌡·≥≈≈∙░▌┼┐zwvvttvussuvx{─┌~│}|{z|}┐┤┴┴├┘┐┌┐┘└│~│┌┐┐┐┌┐┌│─~~─┐┌┌│┌└┘┘┐┌┌┌┘┼▐▐█▌█▄┼┴┴┼┼█▐▐█▀┼┼┴┴┴┬┴┴┴┬┤┬┬┤├├┤┼▀▌▐░▓■≈≈≈√≈≈∙⌠▓░▌▄┼┬┬┼▄▄▄█░⌠▓▒▒⌠■⌠∙√≈≤  ≤≈ ⌡⌡²╒╕╖╗╘╙╚╛╜╞╟╞╞╟Ё╢╡╠╟╡╡Ё╢╥╩юдхмрууурппртвььзэчщэщщэщчччщшыыыызывуттужууутттсстттссрррряярссрррррррсррррсссряяссряярссяррррсррсттттттсжьшщэзыьзыььььвввьвжжввжввжжжжуутсрпнмллмммммнннмноооопяооппяяы||ьпппппяпяяяпппяпппяяяяяопяяяяяяпппяяяяяррррряяяяяяппппппппяяяяяяяяяяяяяяяяяяяяяряпясжьыывужвжуувввжжввввввььвввыьььвжутстттсррстрярсяяяссряпяяррррряяяярррсссттссттжьвужжууужжввжвьшэшззыьжтрррнмлйгдю╬╬адееебю╪╣╟╜╘╕╔╒ё╒═÷·²°⌡°⌡≈▒█▀▀▀▀▄▄┼┬┤┘└┐└┐│─}{{|{zz{|{xwusqqqrrpoppqstvy{{xx|──~~─~{yxwvwxz{xy{|{xwwx{{yyzywtux{{yxyvtpqvwtuxuqpqqsuyywuuvutsqmkjkllopqqppqqopruwvspllnqrrsutvusrsqmkljggkopooopsuuuttttttx|y|┌┘┬┬├┘└┌│─┌┘⌠°╕╚╞Ё╢╢╤Ё╜╖╓║÷° ≥ ⌡°°≥≈≤²═÷°⌡°²═·²║╓╓╔╖╕╗╘╘╚╠╧╫бдцбефееффхиййййлйкостттуттттуутжууттуужужжвввввыыыызззззшшыышщщээшшшшшшшзыыььвввввуужжуьжжжутжььвжужввввутсрряпонмлллкййхфдб©╩╦╥╦╥╣╢╢╢Ё╢╣Ё╠╠╡╟╚╙╙╘╗╖╔╓ё²⌡   ⌡ ≥⌡÷ё╔ё║══·²⌡ ⌡°²²²║╔╔╓ё║÷² √■▒▐░▓▒▓▓░▓≈⌡⌡≈√≈∙▄┴┤┌─|yyywvwvtuwxxz~┌─│┐┌┌┌─~─┌├▀▄▀┤└││┌┌│──│┌┐┐┐┐┐┌│─~│┘┬└┌│┐└┐│┌┌┌┘┼▐▐█▀▄▀┴┤┤┬┼▐░▐▄▀▄▄▀┬┬┴┬┬┬┤┤┬┬┤├├┤┴▀▀▌░▓∙≈≤√∙≈≤≤≈√■▒▓▐▄▀█▐▌█▄▐▒▒▒▓⌠⌠■√≈≈≈≤≥≤≈≥⌡°÷ё╕╖╘╙╚╛╜╝╞╠╞╞╠ЁЁ╠╞╟╟╠Ё╣╥╨╬афйоружспяртвввьшчщэщщэщчщъчэзззызыьуссужууутттссттттссрряярсссрясррррсррррррррррссррррссррррсрррссттуууувышэшыыызыьвьььвьввввжвьвввввжуттсяпннммммммннннмннооопяпппяяяы||ыпяяяяяппяппооппяяяяяяяпяррррррряяппяяряяррряяяяяппппппооппппппппппппяяяяяяяяяяяпппсжызыжужвжжувввжжвввввввввввыььььвутсттсрррссяярряпяряпппярсррррррррярррссттстттжьвтуужжжжжжвжвышэшыэшыжсяппнмкифц©╫╬беффда╫╨╡╜╚╗╕╔╒╓ё║═÷·°⌡²°≥▓█▄█▌█▐█┴┤┤┘┐┐┐┌─}zwyzzz{||xwvsqqrsqrrrsuxz}{yyz|}}~~||~~z{yvttuwxzyyzzyxxuyzxx{ytuvz─}yxvrnqxyxyvsppoorvyywuvwwurqnlkmoppppooqsusstvxwtqqpprrrsutsoklmibbed``fjkfghjlnpqpooonnqusvy|││~}||}}}~─▄√╒╙╞╣╦╧╤Ё╜╖╓╒· ≤≤≥⌡··° ≥·╒║²°·══·÷╒╓╓╕╙╖╗╘╗╚╡╧╬цецбфгеефгийккйилийнрсссутсстуутжууууужжввььыыьььыыыыззззшшыьзэщэээшшшшшшзыыыыьввььжжввжвжввжтужыьжжвьььжусяппоннмллллккйхеда╬╨╦╥╦╥╣╢╣╣╢╠╡╠╟╠Ё╠╜╚╚╛╚╘╖╕╔÷·°°²·°⌡⌡═╔╖╔╒║║÷·°⌡⌡²·÷╒╕╗╖╔ё║÷⌡≈∙⌠▓▐▄▀▒⌠▒▌░√≤√⌠⌠≈■┴└┐}~yvwwussvvz~~{{~─│┌┌┘┤└┐┌│┐┴▌▐▄┼└───~}}┌┌┌┌┌┐┐└││┌┌││┘┼┴┘──┐┘└┐┌┌┌┐┬██▀┬┴┬┘┌┐┬█▌▌█▀▄█▌▌┴┼▀┼┤├┤┬├├├├├┤┼▀┴▄▐▒∙≈≈∙■≈≥≥≥≤√⌠≈⌠▌█▐▒▐█▀█▌▐▒■■▓∙√≈√∙∙√√≈≤ ·║ё╕╖╗╘╙╙╙╙╚╛╝╞╠╡╠╝╝╞╟╡╢╤╦╨╫юехкосутяяртжвжвычщэщщщщъщъъщшшзыэшыжтсужуууттссстттттссряярстсрпсрярссррссррррссрррррррррррссрррррстужжжьзшшзызззывввьььывжььжвывввввжутряонммммлллмммннлмннноопппяяяяы||ыяяяяппяяпппооопппоооппяппрряппяпооопяяппярряпосряпяяпппяяяяяпоопяяппппяяяяяяппряппртжвывжжвьвжужжжжужввжжвььввввввввутсссссрряярсряппяряярряяррярссяппррррссссртттжььжжжуууужвжжьшшзышшшывтяооянйгебю╬╬дххеа╬╩╧Ё╛╘╗╗╕╓ё║║║═²°²≥ ≤⌠▌▄▄██▄┼┴┤┘└┐└┐│|{{{tz{ww|}zxusqqqqqqrtw}│}x||zx{─|}{zzzz{}ywvtqpsxwvwxwustusswzzwvvw{│}wrrqruy{zxvqprqmouwwxy}~{wrsrqoopqqtpkoppuuywtwtopqtusqssqnicaaa_\X[[X[bec_adgjloqpqmjmopqtty~{yzzvstwxwv┘█⌡╖╝╡╥╩╥╣╞╙╘╔²≤≥≈≥·═÷²·²ё╖╔║÷÷═ё÷·║╓ё╓╕╖╙╚╙╙╟╦╬цбабцццббгккийййкймятсррсттуутсртужууввжжвьььыызыьызшзызэзыьышэщъчэшшшззшшшыьвььжжввввжжььььььььввжуужввуутрпнмнклммллкйигффдю╩╧╧╦╤╤╤╣Ё╠╞╟╟╠╢╤Ё╝╚╛╛╚╘╖╔╓═÷÷÷÷÷·²·╒╕╗╕╓ёёё║÷·═║║═╒╕╕║²°° ∙■⌠▓▐▄▀▄█▓▒░√√⌠∙▒░█┴┘│|xxvvxxwwxx{~─}{}│──~─┘┬┘┐└┬▄▐▐▐▀┬├┐{{~~│┌┌┌┐└└││││┐┘├┤▀└│┘┬└───┌└┤┴┴┤┘└┐│─│└┤┼┼┴┴▀█▌▌▄▀┼┼┼┴┬├├┬┴┴┬┬┴▀┼█░▒▓■■⌠▒░⌠≥²°≥≈≤≈∙■■■▒█▀┼▄▒⌠▒▒⌠∙≈≤≈∙■■∙≈≈ ÷ё╕╖╗╘╘╗╖╖╗╙╚╞╚╝Ё╟╜╝╟╠╟╡╤╥╥╨╬афкморттяруввжьэщщщщэщщщщъъчшыызззьжуужужутттттсттссррссссряяярсррряяррряяррссттяяяяррряссссррррррсссстуьзээзыыыььвввввввввввьззьввжжуттрпнмнонмнммллммнмммммнннппппппь|{ьяяяяппяппппппппооооппярппяряяяппооопяяпппяяяяпряпппппояяяяяпппппяряяппппппппяяяяяяясжьывжжввжуужввжжжввжжвьввввжжвввжутттттсррррсрряяяряярряяррярссяяярррсссссрттужььжжжууужжвввыээззшшзывсяономйгецаюдгхфб©╩╦╣╠╛╘╗╖╔╒ё║║║÷²°°≥≥≤■▐▀▀██▀┼┴┬┤┘└┐┌─~|yxw{|zz||yvtqpopppnu}│┐┐│||||}~}~{yxxy{}|vqqstssttuwwtssutuwxvtswxz{{yvsstuwxyyyuqnnmjlqyyyy{}{yzzyuqnmmnrnloporuywuwtooqtvutrmhb^ZXXYWVVXYW[ab^\^afhkmppqnloqrstx{}~}{zytqprsst}┤∙║╖╚╟╣╢╣╡╞╞╙╒²²°²═╒╒║║÷╔╘╕║÷║╒═÷═ёё║╒╓╕╘╙╘╚╟╦╫юаацддбааеииииййииляттстсстуутсрстутужжуужььььыыыььззыызшшзззшэщщэшшшззыыызыьвжжвввжжвввььььььььввжжужжжттсронммлмнмммлйхгфеб╬╩╩╧╦╤╤╤╣Ё╠╡╡╠╟Ё╥╣╟╚╚╙╘╖╕╔╔╒║║═══÷·÷╒╕╖╔╓ё╓╓╒══║╒╒║║╓ё·⌡  ≤∙▓░▌█┼┴┴┼░▓■≥≤■∙⌠░┴┌}zwstrruvvvw|}─~│┌┌┌┌││┌└┐┌└┬▀▄▄▄▀┴┤┘┌~~─││┌┘┤┬└┐┐┘┘└└├┘~┌┘┐│┌│┌└├┬┴┬┤┐┌││┌└┘├┴┼┼┴┴┴┼▄┼┴┼▀▄▄▀┼┴┬┤┤┤┴┼▀▄▌░▐▐▒⌠■▒░⌠≈⌡⌡≥≥≥ ≥≈√√■▓▐▄▄▌▐█▐▒∙∙∙■■⌠⌠⌠∙≥·ё╕╖╖╔╗╖╖╖╗╘╙╙╜╙╛╞╝╛╝╞╠╟╠╣╥╥╧╫©димосужрсувжжьэщщщэщщщщчъъчэзызззьжуужууттстттсттссррссссррррррррряяяррррррссссряяяррррррррррррярсссстуьзээзыыыььвввввьььвввььыььввжтссрпнмнннмнммллммнллммммннпоппппь|{ьяяяяпяппппппппоооппяяярппяяяяяоппппяяяппппппяяряппппппяппппппппппяяяппппонопярпярряруьывжжжжутжжввжжввьжжвьвввжжжвввжуууууттсссррррряяряярряярсррссррсрррсссссрстувььжвжжжжжвввьзээззшззыжспонмлйгецццхигдю╫╧╣╠╝╙╘╗╕ё═╒║══·°⌡⌡≤≤≤≈▓▄┼▄▄┼┴┴┴┬├└┌│}yvwxyyzzywvtrppqrss{└┬┬┘┐│}}~~}{{}|zyyxxxzxrmnrsqoppruwwuuvvxzzxvwwyywvwwutvxxwvwxxuqnllnqwxwwy|}}~~|ytpooorqprsqruxxvxvponpqppmf^YVTRSTUUVXYY]a`\[]aeghkoprpnrtsuuz~}}}ywsonnpsv|┘▓²ё╕╚╟╞╠╟╝╞╚╓║══║║ё╔╕╔ё╖╚╗ё║╒╔÷═ё╔ё═║╓╕╘╚╚╜Ё╧╫©юбдедцабдгхиййииилпстстсстууттсстууужжужжьььььыыььыыььызшэшззшэээшззззыьызыьвжуввжжжжввьььььььььвжжууужсссяпнннлннмммлйххгеа╫╪╬╦╥╤╤╤╣╡╠ЁЁ╠╞╡╤╤╡╜╚╘╖╔╓╓╓╒║════÷·║╓╖╗╖╕╕╕╕╓║═║║╒║╒ё║°  ≥√■░█▄▀┼┴┴┴▐⌠■≈≈■∙■▌┐ysqpoonoqsuvw}}~───┌┘┘┘┘└┐┌┌┌┐┤▀▄▀┴┼▄┼┬┤├┐┌│─││─┌├┴┼┘┐└┬┬└┐┘└─~││─┌│┐┘┤┬┬┬┬├┘└┘┤┴┴┬▄██▄┼┴▀█▀▀▄█▌▌█▄▄▀┴┴▀▄█▄█▐░▌▌▐▒⌠⌠⌠∙≤ ⌡°²⌡²²⌡≥≥≤≈∙▒▌██▄▌▓∙■⌠⌠⌠■⌠⌠∙°╒╔╖╗╖╔╖╕╕╗╙╚╚╙╚╙╛╜╛╜╟╟╠╞╟╢╥╦╧╪╬бгкоружтужвжжьшээээщщщщчъъчэзззззьууужуттссттттттссссссррссссрясррряяярссссрррррряррсрряяярррррпяссссттьзшэшыыыьвввввььыььввввььььвутсряонмнннммммллмммллммммннпоопппь|{ьяяяяяяпппппппппппппяяярпоппппяоопяяяяяооопппяяяяппппяяяппооппяппопяяпоппооопярпярряруььвжжжжуужжжжжжжвьжжвьвжвжжжвььвжжжууутттсрярссрпряярряярсррррррсрсссссссрстувььвввжжжввьвьзшшзззыыьжспнмккигддегихфб©╪╥Ё╜╚╘╗╖╔╒═╒║═÷·°⌡ ≤≤≥ ∙▌▀█▀┴┬┬┼┴├└│─~~~|ywvuvwyxxwvutttuwx}~┌├┴┴┘│─}}~|wwzzzz{zwuusrqppppqoprvz{zy{zz||zyzuxywwyxvuvwwuuuvywsonpsttvwxz~┌┐~~|ytqpqprqqrsrqtvvvwuqmjifefe_XUTSSTVXYWY[[^`_]]^befgjnqsrqtvuuv{}yuspooqv{│┬▓²ё╔╗╙╙╛╚╗╗╔═÷÷══÷║╔╗╖╔╗╚╙╕╓ё╓÷║ё╔ё═║╓╕╗╙╛╞╣╩╫©ацеффдцдефхиййийкнпрсрррсттуттттуужвввжжвьыьььыыьвььвьыышщэшззшэшшшшшззызззыввжьвжжжжвьььььььььььвжуууусссрпоннлннмллкийихеб©╫╫╦╥╤╣╣╢╡╟╡╡╟╝╠╣╣╡╜╚╘╕╓ё║║═÷÷·÷÷÷÷═ё╖╘╗╗╖╗╕ё║═÷÷÷÷║║·⌡≥≥√⌠▓▐▄▀┼┴┼▀▄▐▒░░▒▓■⌠▀~rlllkihijmoqruvx{}}~─┐┐└┘├├┘└┐┘┼▌█┴┬┴▄┴┤├├├└┐┐┐┐│┌┘┬┴└│┐┤┤┌│┘├┐││─~─└┌└├┤┤├┤┼┴┬┬┬┴┼▀┼▌█▄▄┼┼▄▐░░░░▐█▀┼▀▄▄▌▐░▐▌▌▐░░░░░░∙√≤≥ ⌡°·°²²°⌡⌡⌡ ≤∙▓▒░▐▒⌠∙■■■∙∙∙■≤÷╓ё╓╖╗╖╕╕╕╗╚╜╛╙╙╚╝╜╛╟╡╟╠╞╟╢╥╦╧╨╫аеимпрсжвввууьзэээээщщщщчъъщшззззьутужууттссссстттсссссррсссрррсррряяярссссрррррряррсррррррсссспрстттттьзшэшзыыввввввььыьввввввььвжутсрпонмннммммллллммммммннннооооппь{{ьпяяяяяппппппппппппппппяонопоопоопяяяппноппяяпппппппппяяппооппяяпппяряопяяяяяппяяяяясужввжжжвжжуууужжжжьвжвьвввжжжвььвжжжууттттррярссрпряярряярсрряярссссссссссрстжвьвжвввввввььышшззззыыьжромлкйифеехйигда©╩╣╞╚╙╗╕╔╓╒║║║═·²°⌡ ≤≥⌡⌡≤▒▌▌┼┬┤┤┴┴├└~|{zyyxvuwxwxzvvwwxz{}~~└┴┼┤┐┌~|}{wwz|{{|zvtsstuussststvy|~}|─|yyyxvuvxyy{{xsutttutssssqnnqsssvy{}┌├┬┌─}xspopmmmmnpqorrrrqplgfc`^__[VSSSSTVY[VXZ[\]]]^^afggjotvutwxvvx{┌┌}{usrrrtx}├┬▐ ╒╕╕╔╕╘╗╔╓═⌡ ⌡²²°·╒╔╔╓╕╗╙╘╕ё║══║╒║═║ёё╔╖╙╞╣╨╪юабдеееефффгиииийлнпррррррстттттттувввввжвыыыыыыыьвььввыьзщщшзззшзззшшзышшшзьььььвжжжжвьььььььььььвжуутттссряпонлммлккйикйхфдю╫╨╥╤╤╣╢Ё╠╟╞╟╞╝╟Ё╡╞╘╗╕╔╓╒═··²²²·÷══÷╒╖╘╙╗╖╕╔╒÷·²°°²²° ≤≈∙▓▐▐█▀┴┤├┬▀▀▄█▄┼█░▒▓┴|oihhfba`acfhhjlqtuuvy|||~┌┘├├┘┤▀▐▌┴┬┼▄┴├└└┘└┐┐└└└└├├┘┐─│└└└┌┌┌┌││┘▀┤├┤┤┘└├┼┬┬┬┤┤┤┴▀▀┬┘├┬┴▀▌▒▒▒░▐█▄▀┼▄█▐▐▐▐░▓▒░▒▓⌠▓▒√≤≥≥≥≥≥ ⌡⌡⌡⌡°·² ≥≤≈√∙▓▒▒▓⌠∙∙■⌠■∙≥═╓╒╒╔╗╖╔╔╕╗╚╜╚╙╘╛╞╞╝╠Ё╞╠╟╠╢╥╧╧╨╪©цгкнпяжвьвууьзшшэээщщщщчъъчэшзыыьутужуууутссссттттсссссрррярррррряяяррссссррррсррррсррррррссссярсттттуызшэшзыыввввввьььвввьььввввжутрронммммммллллллллмммнннннонооопь{|ьпппппяпппппппппппппппояонопоопооппппппнопяяпоооооооопппппппппяряяяррряяяярряппяяяярсужвжжжжвввуууужжжуьжжвьвввжжжвььвжжжууттттррррссряряярряяррсряярррсссссссссртжввжжвввввввьышэшшшшзььвуромлкйигфгикхгдю╫╦╠╚╙╘╖╔╓ё╒╒═║═·°°⌡ ≥  ⌡≥∙▒▌┼┴┤┤┬┬├└}{yxyzxwvvvvwywxz{|}──│└┤┬├└┌┌~}}|yz}}{ywutuuuuuwxvswyz{|}|{}xuvwwutyxyz{ytptrqrttqonnnnoqrrquxy|┐┘│─}ytqppnlmmmpromjjigge`ca_^^][XUUUTTUWYXXY[\\]^^\_ehilqwyxwyzxxz|─└└─~}uttttuy~┤┤▄√║╔╔ёё╖╗╕╔║ √≈≤≤≤≥°·÷²÷╓╗╘╕╒÷ё╒║║╒ёё╓ё╓╕╘╞╥╪╫©юабцдфффеегхххийлопрсссррсстттссстжвжжжжвыззыыыыввььььыьзээшзззззызззыьшшзыьвьььввввввьььььььььььвжуттттссрряонкллкйкйхиихеда╩╥╥╤╤╣╢Ё╠╟╝╞╞╜╞╠╟╜╔╓╓╔╓ё═²⌡ ≥ °·÷÷║╓╗╚╚╘╖╕╒÷°⌡ ≤≤ ⌡ ≤√■▓░▌▄▀┼┤└┌┘┴┤┤┼┼┴█▒░▒┴|pigdb__]\]`bbdfjmlkloqqrty~│┌┘┘┴▌█┴┴█▄┼├┐┐└└┌│┐└┘├├└┌┐─│┐│~┐│┌┐└┌┌┤▄▀┼┴┬┘┐└┬├├┤├┘├┬┼┤┐─┐├┬┴▀▄██▌▌▌▌▐█▌▌█▄█░⌠√⌠░▒▓⌠∙√≥  ≥≤≤≤≤  ≥ ²÷·°⌡⌡⌡ ≤∙▒░▐▒⌠⌠▓▒▓■≥÷╓╓╓╔╔╓╓╓╔╗╙╚╙╘╘╚╝╞╜╞╠╝╟╟╠╢╤╦╧╨╨╪юфйлояувьвужьышшээээээщчъъчщшзыывутужуужуутстттттттссрсрряяяррррряярррррррсссссрррррряяяяррррррсттттужызшэшзыыьвввввьььвжвьыыьжжжжтсяпммммммммллллллллмммнннннннноооь{|ьппппппппппоооооопппппппоопяпоппппппоооооопппооооппоопяпппяяяяяяярряяяряяяяяяярпярряртжжжжжжжжжжууужжжуьжжвьввьжжввььвжжжууттттрсссссссряярряяррссррссяссссссстсрсжвжууввввввввзэщшшшшзььвуролкйиииййййгеб╫╨╣╝╘╗╗╖╔ё╒║║÷═÷°⌡°° ≥ ≥≤≤≤⌠█▀┼┬┤┤┤├┘┐│~|zyyyvwxvuvxy{|│┌┌┌┐┘├┬┼┬┐──│──|zz}─}zxwuuvtttuxyvqwy{zxyyywutvxxxx{wvwvsqqrqprsrolmnorttrrnqstvz~}}|zvsrrpmnnlnojeaaa_ab\a`^^^^^_\[ZXVVWW[XX\__^]_\^ejknrwyxvyyxxy}─│││─}wvuuvx|─┴┬▀∙÷ёё╒║╓╔╔╕╒⌡≈■■■■■⌠■√■≤÷╔╕ё║═╓╓ё╒╒╒ёёё╓╔╘╠╧╬©╬©абцдфгедегххиккнпяяссррррссссссстввжжвувыззыыыьвьыыььыызшээшшзшшзшшззызшшзыььььььььььььььььььььввжуттттссрряомйккййййихихецю╪╦╥╥╥╤╣Ё╡╠╞╟╞╝╞╠╟╜╕╕╔╕╕╓║·⌡ ≥ ⌡²÷═╓╕╘╚╙╗╔╓²≥≈≈√■∙≤ ≤∙⌠▒▐▌▌┼┴┬┤└┐├┴┘└┬┼┼▐⌠▒▒┴}rlifbba_]]`bbccdffefhiijlptx{~~│├┤┘┤█▌▄┴├└┘┐││┐└┘├┘┐─┌┌┌┐┌─│└└┘┤├┐┌┘┴▀┴┬┬├┐┌┘├├├├├├├┤└┌┌├┬┬┬┼┴┴┼┼▀▄▌░░▐█▄▄█▐▒■▓░░░▒■≤°° ≈√≈≤≈≥  ⌡²═║÷·÷÷·°≥√■▒▒▒▒░▒⌠∙°═╓╕╕╓ё╒╓╔╖╗╙╙╙╙╚╙╜╝╛╜╝╜╝╟╡╢╣╥╧╧╩╪©еикмптвьвужььшшэээээшэщчъъщшыыывутужууужуууужтттттссррррррррряяяярррсссссрррррряярряярррррррррсссстужызшээшыыььвввввььвжвыыыьжжжутрпнммммммммлллллллллммммнннннноооь{|ьпппооппппооооннооппппппооярпппппоооооопоооооопппяяпярсопяяяяяппяяяпопяяяпппярсоясрпптввжжжуууужууужвжжьжувьввьввввььвжвжжууууурсттссстряярряярсттррссяссссссттсрсжвжттввввввввыээшзззывввурнлкиийкллйхецю╩╥Ё╝╘╖╖╕╔ё╒║═·÷·°⌡°⌡ ≤≥≤√≈≥■▄▄▀┴┤├├├├┤└─}}|zxtxzywy{|│└├├├├├┴┤├┬┬┘┌─│┐└│|xx{}{zyxvuvsuwxyywttwywuvwxuuvxywvw{vssqnpuqqqrrqmkoorvxvsrlnpqsx|}|}}zvrpooklkggga_ZZ[[_b]^]\\\^bfba^[YWWV\WV[aa^[a^_fklnruwvuwxwwx~─}}││|ywvwx{│┘┴┬▀⌠⌡═══÷║║═╒║⌡≥⌠▒▒▓░▄▄▌█⌠°╒ё══╒╒╒╒║═÷══╒╒ё╗╟╧╬©╬©бцдефгедфхххкнмпряярряррррссрртсуььввьужьыыыыыьвьззыыыззшэээшзщэээээшззшээзыььььььььььвввввввввввжуутттсрррпнмйккййкйигийфб©╫╩╦╦╦╥╣╢Ё╡╠╡╟╝╞╠╠╝╚╙╘╗╖╔╒÷·²°²·═╒ё╓╔╖╗╕╓║═≤■▓⌠▓▒▓√≤∙▓▌▄▀▄█┼┬┤┤┤┬┼▄┬┘┬┼┴░√⌠▒┼~tomifeda^_bccda`bcdeffffhjnrtusv|~~┌┬▐▌▄┬├┘└│┌┐┘┘┘└│}─┌└└└└┘├└├┬┬┘└├┴┤┘├┬├┐┌└┤├┘├├┘┐┌┐┌┘┴┼┤┤┴┬┴┴┴┴┼▄▌▐█▀▀▄▄▄▀▌▐░▒▐▌▒√°°≤■⌠∙≈√≤⌡°²·║╒ё║╒╒║÷·° ■▓░░▒⌠√≈═╒╓╕╕ё╒╒╕╖╗╘╙╙╚╚╜╚╛╜╚╚╜╜╜╟╡╢╣╤╦╧╫╫юеийлнсжьвжвььшшээээшшэщчъъщшыыывутужутужжужвьтттттссрррсттсряяяяяррссссссрррррряярряяссссррррсссррсужззшээшзыььввввввыьввыыьвввжусянмллммммммммммммммллллммммнмннооь{{воппяяяонноппоноппонноппоннппооппоооооппооооооопопряопсяяпппооояооппоояппппяярряррррррсжжуутттужжуужжжжжжжуужжжыввввжжььвжуттужттссрряяяррряяярсрррррссссрррстусствьввьжвьььььызшшззззыьжуусокйххйллйийдб╬╧╣╟╚╘╔╔╕╕╕╓╒═⌡°²° ≥≥≥≈ ≥√≈ ∙█┼▀┴├└├┤┘┘┘┐}}}}z{|||~┌├┌┐┘┴┼┴┬┬┼┼┼┬┘┌│─┌┌┌─}{z{zzzxvuvxwvxyxwvrvvvussstwwyzxuuwyuqrsrqppooppoopvuttsrqronnswz|}|{yywtpmmhdba``a[^^]]``__^^_^]^a`bcb^ZWVXY[^^]\]^_aglpqpwywuvvtuz~~}─│~}z{{z|─┐└┤┘┬▒ ²²°°²···²≥√▄██▄┼┬┤├┴░⌡═·÷║÷·╒╔ё·²═╔ё╒ё╘╠╦╨╨╪╫юдедефефедгкмкопрсссррряяястсрртуужввужвьыззззыыызззззшшээээшшчэшээшэчэшшзыыььвььььььывжужвввжыыьвутттутсрряоммлккйихгффггц╬╩╨╨╧╦╦╥╣╢╡╠╟╟╟╟╟╝╜╕╗╙╙╗╕ё╒÷÷÷═════╓ё║║╒╒²≈░▓⌠⌠░▐▒■≤≤∙░▄┼┼┴┼┴┬┤┴▄▄┼┘┼▄┼█■≤√⌠█├~skgcdbacdccc^^^^_bdghgggilptrrqrtx}─├┴┬┘├┘│└┘┘┐┐┐┐│──│└┘┘┘├└├┴┬┤┤┤┤├┐│└┘┐┌└┴├┘┘└┌│┌┘┐└┬┬├├┬├├├├┘┘┴█▄▄█▌█┼▀█░▐▌▐▐░▓∙≥≈∙∙∙∙≈≥≥ ²·════╒ёёёё║·²⌡√■⌠▒▓≤°═║║║╒╓╔╕╔╕╗╙╙╙╘╘╗╗╙╛╛╚╚╜╟╞╟╡╢╣╥╧╪©юафкморувжжвььщщэээээшээчъЮъщшыьвжуужжвввжттужтутсрссрсряярррряррсссссрсссссссссрряррряяяррррсттттттжьызэээшззвжжввььвывжвьыьвывттсянкмммллмммммллллммнммллллммммнноь||ьопппооооооппоопппонннопоооооонооооооооппппопппооояпопрппппппоояппппоояяппппппяяррррррсжуутттттжууужввжжжжжжжжжвжжввжжввжутттттссссссссррссрррсррряррсссссррссссствьвввжвьььььышэшззззыьжуусокййийлкиххца╫╦╡╜╙╘╖╕╕╕╔╓╒═°⌡⌡°⌡ ≥≤≈ ≥≈≈≤√▒▀▀┴├┘┘┘└└└┌~}z{}─┐┘┬└┘┤┼▀┼┴┴├├┘┐│││┌~|{{|{zxwwwxxxvvvttvtvvusqqrsvwzzvrrturopqqpptqoprrstwtqqqqppromnqv|│}zxvromid_^]\\]Z\]\]`a_^]\]\\]``abba`^]ZYY[\[\^abcgkoqrwywuvwwxz┌┌~|yz{{~┌┘├┬├┬▌√ ⌡ ∙≈≤≤≥ ≥≈█▄┼┬├┘┘┘┤█√⌡⌡²·°·÷═╒ёё╒╒║╒╔╙╡╦╪╫╫╬юцддфхффффхкллопрррряппярссссрсужуужжтужвызшшшззззззшшзшшэээшшэшшээээчээшззыыьввььььььвжжжвввжввжжуттсттсряпонмлкййихгееееа╫╨╨╩╨╦╥╤╤╣╢╡╡╠╟╞╝╜╛╕╗╙╚╙╗╕╔════÷·²²·÷÷═║÷≤▓░░▒▓░▌░⌠≤≈∙░▄▀▀┼┬┴┼┼█▐▐▄┼▄██░∙≤≤√▐┴│ulfababdedcc^]\]`cdefhijjlorqqqrtwy{|─│┐│~│┌┌┌└┘└┌┐┘┤┬├┘┘└└┘├├├┤┬└┌┌└┐│┌┘┬┘┐┐┌──┐┌┌┐└└├┬└┘├├┘└┤▀▄▄█▐▐▌▐▒▐▐▐░▒░▓■∙■∙∙∙■√≤≤≥⌡²··÷·═║ё╓╓╒÷·· ≤∙▓■ ·════║ё╔╕╖╗╘╙╙╘╗╖╗╗╘╚╚╙╚╜╟╟╟╡╢╣╦╩╩©©©цгилсжььвьыыщщээээшшээщъъъщшыьвжуужжууутсстуууусрссрсряяррррярррсссррррсссссрряяяяяяррррряяятсссссуьзшээшззыьввввввжыьввьыьвьжтряпнлмммллмммммммммммммммммллммноопь{|ьпооонннопппопппппоннннпппооннннннннооопппппппппнноппппппппппппппяяпоопяяппппяяярррррстуутттттужуттужввжжжжжжжжжужввжужвввжжуууттсррсттррсррррсррряярсстсссррррсстжвжжввввввьызшэшззззьвжутсолккййккигфбю╪╣╞╚╙╙╗╖╕╔╓ё║═²⌡ °²⌡≥≥≥ ≥≈∙∙∙■▌▀┬├┘└┐┌└┌──│─}z|┌┘┤┴┼┤┤┴▀▀┼┴┴├┘┐─~~─~~}}}}~}{xwxyyyyxyyuuwwwvutttuvuwzysooqspnoqqqquqopsttsrnjknppqqnkijow─~|xuromgb^\\\\\Z]^]^`a_]\[\\\]_aabdeeed_][[[\^`gfghkortyzwtuwwyy~─┌┌}zz||}─└├├┤┤┤┼▐■≈√■∙∙■∙∙■⌠█┼├┐┌┐┐┐┬▀▓≈≤ ²⌡°°·║╓╔╓ё║ё╖╛Ё╦╪╬╬╬©бцдгйхгфхийкмпяярряпоопрсссрртужжжжжуужвьззшшшшшшшшшшззшээээээшшээшэщээшшззыыьввьыыьвжвввжжжвжуттуутссссрпоннмлкйиихгеддцю╪╨╨╫╩╦╤╤╤╣╢ЁЁ╠╞╜╛╚╚╖╗╙╙╘╗╖╕╒║═÷²° ≥ °÷═÷⌡■▌░░░░░▐▐▒≈√■░█▄▀┼┤┴▄▐⌠∙■▓▌██▐▓√≤≥√▐▀├ymgebbceecab`][]addcehkkkkmooopsuvvuvwy}~yw{z|~─┐├┬┬├├┬┼┴├└┐┐│─┌┐┌┐┘┌┌└└┌│┘┬┘┌┌│──┐┐│─└┤┬┌┐┘├┘└┘┬┴┬┴▄▌▐▐░░░▒⌠⌠▓▓■▓⌠∙≈√∙√≥≈≈≤≥ ⌡°°²÷╒╓╔ё║══·² √≤²···÷║╒ё╓╔╗╗╘╙╙╘╗╗╘╘╙╚╚╚╛╝╟╞╟╡Ё╢╦╪╩©╬╫©бфктжььььызээээшшшшээщъъъщэзьвуууужууттссттужуссссрсррррсрряррррррррррррсссяяяяяяяярррряяяятсссстжышээшзыыыьввввввжыьввььвжьжтяонннмммллмммммммммммллмнннмлммнпппвz|ьооооннноппооопппооннннноппнннонннннооооооооооопонопппоппппппппопяяпоопяяяяррссяяррррссттттуууувжттужжжжжжжжжжжуужввжуувввввжуужусряррсррряярррсрррррсссссссррясстжвжжвьввввьзшшэшзызыьвуттсолккййклкхфц©╧Ё╝╚╙╙╗╖╔ёё╒║║·⌡ ²² ≥  ≥≈√∙⌠⌠⌠▒▀┤├└││┌└│~}─┌│~}│┘┬┼▀▀┴┴┴▀┼┴┬┬└┐┐│~~~}}|}─│~}{zzzzxyz}}yvvuuvvwxxyytvwuqnopronoqqrrspprtspopljkmopqonmkikqw{{yvspmkeb_^___^]_`^^``^]\\]^]^`bcdefghhgdba```bkkkklnru{{wtuvvwx│─}}───│└┘└└┘├├┼▐▓▒░▒▓▒▒▒▐▌▄┤┌─│┌┐┐┴┴█▒⌠≈⌡ ≥°·═║╒╓╖╔╔╗╝╢╦╨╪╬╬юбцдфихфгйкклояяррсряпопррряррстужвььвжвььыыыышшшшшшшшзшшэщщщэччщээшшшэээшшззыьвжвыыьжжвввжужвжтстуутрррряонннмлккйихффедб©╪╩╩╬╩╦╤╥╤╣ЁЁ╡╠╞╛╚╚╚╗╗╗╖╕╓ё╒═÷÷²° ≥≥°·══²≤▓▌▒▐▐░░░░▒∙∙⌠▐▄▄▀┼┤┴█▓≈≥ ≥▒▐░∙≤≥≤≤√░▌┼|njjgfedb`_`a_^`ceeceilkihjkllnqttqoqtvwwsrvvwy|└┬┴┴┬┬┴┤┐─┌}|│~─┌┐┘┘┐──┐┘┌───┌┐│}~┐┘└┌└┤┴┬├├┬├┘├┬▄█▌█▐▐░▓▓▒▒⌠▓⌠∙≈≤≈≤ √∙■∙√≤ ⌡⌡²═ёёёё╒═══·°÷║·°²÷╒╓╓╓╓╕╖╗╘╘╘╘╘╚╚╚╚╚╛╜╞╝╝╟╡Ё╢╥╩╪©╬╪╬юелсувьвьызээээшзшшээщчъъчэзьжутууууууттттуужусрсрясрррсссррррррррярррррррсррсссрряяяяяррссутсстуьшэээшыььыьввввввжььвьььвжвжтянллмммммллллллммммллллмннннмммнооовz{вооооннмоппонопоонннооомнопонопннннноопоооооооопооопяпоппппппппопяяпооояяяяррсспярряярсттуууууувжутуууужжжжжжжжуужььжужууужуутсутсряярсрряярррсссрррсстсссссссссстжвжжвьвжжвызшшэшыззыввуттромлмлкккйгдц╫╣╞╜╛╙╘╖╔ё╒║║║║·²²·° ≥⌡≥≈∙√√∙⌠⌠■█┤┘┌──┌┌─}}─└┘┐┐└├┬┼▄██┼┴┬┴┬├┘┘~─┌┐┌│──}}}|}~─││──~|{zwx{{vsrprtvxyxwvsrqpooppqpopqqrsqppqqpoosqooonnoooomjhkotvvsolhfa`^^`a`^_aa__aa_]]]_`__`acffeegjmjihgdbblnponoru|}xtuvvvy│┐}}┌┐┐┐┌┐└└┌│└┘┘┬█▌▄┤┴▄█▌▐▌█┴┘│─┌└┘└┤┘┤┴▀▐∙√√≤°÷║╓╖╘╗╕╗╞╤╧╧╧╬©юцдцдфхгхкмлняяяярттряппяяппрссстжввввжввьыыыызззшшшшшшшэщччщщъъчщэээшщээшшзззьввьызьжужвжууужжуттжжтррряпонннлллллйгфгеца╬╩╨╩╫╩╦╥╥╤╣ЁЁ╡╟╝╛╚╚╛╗╖╓╒÷²°⌡°°°⌡⌡⌡  ═══÷ √▓░░▌▌▐░░░▒■■▒▌▄▀┼┴├┬▀░√⌡·÷≤√≤·═°≥≤≈⌠▓█~pmonjfb_]^`abccddddhlnkgghighkoqqmjkqrpppprqqruy}┌┘┬┤┘└│~{{~{z┌──┌┐└├┘┌─~|}}}}~~│─||─│└┘┬▀▀┴┴┼┴┬┤┴▄▌▌▄██▌▐▐▌░▓■▓▓∙≈≈≈≤√■▓▒⌠√≤≥ ⌡·═║╒ё╓ё╒╒║╒╕╖╒÷·═╒╓ё╓╕╔╕╖╖╗╗╗╗╙╚╚╙╚╛╝╞╜╝╠╢╣╣╥╧╩╬╫╪╫©емртжьььызшэээшззшээщчъъчщшыжууууужууууууутуусрсрясрррсссррррррррярррррррсрсссссрряяяярсстутсттуьшщщэзыьььвжжввььвььььььвжжжурнлклммммллллллммммллммллммнонмммннв{{вноопоонооооннооннноооомноооооонннннооооопппппппппопяяоппппппппоппппппояяяяяяяяяяряяяяртууууууувжуууууужжжжжжжжжужввжжжууужууттссррррсссррррсттсссррсттссссссттрртжввввьвжжьзшшшшзызшывжуттрпммонмкйхебю╧╠╛╛╚╘╕╕╓╒║║║║║·÷÷·⌡≥  √∙■∙≈√∙■■░┼┘│─┌~~~┌┤┼┼┼┼▀▄▄██▌┼┴┤┤┘┐┌┌}┌┐┌│~───│┐└└└┌─~}|ywxvqpportvxxvsppomlmppopooppprtrpooooqspooonmmnnmkifdfiruvrmjfc`_^^aca^_aa_`cdc^]]`a``a_ceeccfilklmlhc`jnrrposv|{vrsuuv{┌┐}z|─├┤├┘└└├┘┐┌┐┘┤┼▄▀┼└┤┼▀▄▌█▄┬┘┌│┐┘┘└┘┌┐┘├┼░▓▒▒■⌡╒╖╘╘╘╖╘╠╦╩╩╨╬©аддццдгхйлннпряпярттсряяпппястсстужутуужжвьызззззшшшшэээщччччщщччщщччщээээшшззьььызыьжжжвжууужжууужжуссрпооонмллллкйгефдбю╫╨╧╨╨╧╦╦╥╥╤╣╢╡╟╝╛╛╙╙╕ё÷°≥≈√√≤≥≥  ⌡°²║═·°≤⌠▒▒▌██▐▐▐░▒■⌠▒█▀▀┴┤├├┬▌■ ═╓═÷═ё╒²≥≈∙⌠⌠▐┌vtvqlfb_^_`acffdcdeknokhghgghknpoljjppkjkjkooprvy}─└│}{xwx{y{─└┐┌┌┌┌┐┘┘┐|~|{|}}}~}─││─}│┌┘┬┴┤┤┬┼┼┴┼▄▌▌▄▌█▌▐░▐▒⌠■▒░▒■■■■∙⌠▒▒▓∙√≈≤ °··÷║ё╖╓ё╓╕╚╜╙╕ё║╒╒╒╓╖╕╕╕╕╕╕╖╕╗╘╙╘╙╛╝╝╝╝╠╣╥╥╥╦╨╪╩╨╪╬цлрсжьььышшэээшззшээщщчъчщэыжууужуууттуууттуусссряррррссрряррррррррррррсссрррррряясрррррсстссстуьшэээзьвввжжжжььььвььыыьвжуутянлклммммлллкллллллллммлллмнонммлмнв{{вооопоопооооонноннноооннннооооннннмннннооппппппояяпопяпппппппооппонпряояяяппяяяяррряяярттуууууууууужжжужжжжжжжжжууввжжвжжжжжжжжсссррссссрярстттссрррсстсссррсстрртвьввьвжжвьзшшшшзызшзвжтссрпнмнонкигдю╫╥╟╛╚╙╗╕╕╔╒║║║══÷═÷°  ≥≈■∙∙■■■■⌠⌠▒█├│───}─┌└├┼█▌█▌▐▐▌███▀┴┬├└┌││─│┌│─┌└┘└┌┌└├┤┘┐┌│─~}}ywuqqsrssuvvtpmoonmnppnoooppprutqoopqrtmkjlnnnnjhedcbcequvqljgedb`_adc``ba_`ced`^^_aabc`cedcbdfghkoojd`gmrsqquy}uoqtuw└┐}|~┐┴┼┴┤┘├┤├┘└┐└┬┼┼┬┤├┴▀▀▀▀▄▀┼┤└┐┐└└└└│┐├┘┤▄▌▄▄█⌠ ╒╗╙╘╗╚╢╨╪╫╬╬©адеддегйллнояяпппястсяряяяясстсрсужутуужжвьыззззшшэээщээщчччщщщччщщччщэээшшшззььыззыьвввжжжжжутуужжжжутрпооомлллкйиигффдбю╪╧╦╦╦╦╦╥╥╦╧╨╥╢╠╝╜╚╗╕╒÷⌡≤√√∙∙√≈≈≥ °²··°°⌡≤⌠░░▌█▌░░░▒⌠∙■▒█▀▀┴├├├┬█■⌡ё╘╖╕╓ё║·⌡ √■■▒┤~zwojedccbbadghfeegknokiihfgikmnmkjjnmjigegmmoswy{}}{yxwuuvwxz~│┌│────┌┐┌}}||}~~~~}─┌┐┐┐┌┌└┘┘┘├┬┴┴┬┼▄█▀█▌▐▒▓▒▓■■▓▒▓⌠▓▓▓⌠▓▒▓■∙∙■≈≥⌡²²²÷═╔ё╔╘╙╛╝╝╛╗╔╓ё║╒╔╔╔╔╔╕╕╖╖╕╗╘╘╘╛╝╝╞╝╟╢╥╦╥╥╧╨╧╧╩╫бйяртвьвыэшэщэшзшэщээщчъччэзвуужжжутттуууттуутттсрррррссряярррсссррррсссссрряяяяяяссрррссттсстужьшэээшыввввжжввььввьыззыввтсяомлммммммллккллллллллллллммммнммммнвz|ьоооооояпооппомпоннноннонноппнмннмммммннноопппооярпопппяяпппоооппнмпрропппяярссррсряяярттууууттсттуввжуужжжжжжужуужжжжвжжуууууууттссрррсряярсссссррррсттсррррссрртвьььывжжвышшшшзыызшзвжтссрпннлнмкхфда╩╤╠╜╚╙╗╖╖╔ё║║══÷═║÷ ≥⌡≥■■√∙▓░░▒▒▒▓▐┬┌──~┐┤┬┴▀█▐█▐▒░▌▄▀▄█┼┬┤└┌│││───┌└│└┤├┐┌└┤┬└───}~zxvstutqqrstrolnqrpoponoopqqqtwvroprrqppljloonnhecdeeddnrsnjhhffd`^addabcb__cedb`^_abdfcdddcbbbceinpke`ekrsqqv|┘┌xqruwy└┬┘──└┬█▌▄┴┤┤┬┤└┘┌┐┤┴┬├┘┘┤┬┬┬┴┼┼▄┴┘┐┌┐┐┐│─┐├┘┘┴▀┴┼▀▄░≤╓╜╚╙╞╥╩╪╫ю╬©адедефхкмммпяппоопрсяпсрярсттссрсжвжжьвввввьььззшшэщщщэщщччщщщщъчщэщщшэээшшшззьызззыьььвжвввжустужжжжжуронппмкмлйххгггфдбю╪╧╥╦╥╥╥╥╥╦╩╬╨╤╡╞╜╚╕ё÷°≤√∙√≈≈√√≈≤ ⌡²·⌡  ⌡≥■░▐▐▐░▒▓▓⌠√∙■▒█▄▀┬├┬┤┴▌∙°╔╛╛╙╖ё═══║² ≤⌠┼│yqlhefhgedbehihghhjmnkiihefhjkjiihhiikkgeiijntwxyzxvuvuttuuwyz|~}|}~~─│─~|{{}~}|||~│┐└└┌───┌┘├├├┬├┬┬┤┴▄▄▀▀▄▌▒▓▒▒▓∙∙■∙■▓▒▓▒▒▓■√√■▓∙≤⌡²°°²·═║╖╜╜╚╛╜╜╙╗╗╕║═║ёё╓╔╕╖╗╘╕╗╘╘╙╜╝╝╞╝╝╡╤╥╤╤╧╨╦╧╩╫аиопсжвжьшшэщэшзшэщээщчъччщзвуужжжжутужжууужжутутсррярссряяррсссссрссссссссряяяяярррррстужтстужвышшээшывжжввжввьвввьыззыьвтролллноммммллккммллллммклмммммлммнноожz{ьпоооноппооооннонннноопооооооннмнноонммнооопяомппяяяяяяяяпппппппонопяпояяярряяяррррррррстутстуустууууужуууужжжжввжттжвжжжжжутужжутсррстпяррррстсяпррряррсссссттсрсжввввжььвьзшшззззззьвжттутрпоняпкгфц©╤╢╟╝╛╚╘╗╔╔╓ёё╒═══║═·°⌡≥√⌠⌠⌠▓▒░▒▓░▐▌▀├││┐└┬▄▄┼▀▐⌠▒▐▌█▀┴┬┴▄┬├┤┬┘┐┐│──┌┐┐└┘┌│┐├┘┌│┌┌│││~~─}zxxxxxqonnopontsqnmpqprrsropsrsqrtspnonmlmmljhdbced`_aflpnhffggc`]]dgddb`^]_cfca`aceghfdccddb`dehkmkgceilkikt}┤┘|vxzz{┬┼┴├┘┬▀▌▄▄▄┼┴┬┤└┐├┬┬├└└┘┤┴▀▀┴┬┴▀▀┼┤├┘└┐│┐││└├┤┬┼▄▀┴┴▄⌠²ё╛╜╠╤╩╬©©бабдедефйкллморроопяррпопрссстсяпясужвввуужвььььзззззшшээщъчщэщччччъъъчэээшшзззывьыыыыьвжввуууусжжжжжжжжжсононлййййихгфецба©╫╩╧╦╤╤╤╥╥╦╨╩╦╣╠╝╚╖ё÷·⌡≤√∙√≈≤≤≈≈≤≥≥ ⌡ ≥≤≤√▓▐▐▄▒■■∙⌠▒■░░▌▌▐┼├┤▀┴┬▄■═╙╞╞╘╕╕╔╒÷·≥ ≈▐┴┌xmlmkiigcdedefhhgehikkiggfehjiijkjifhllkjhijnsvxy{ztqtwvttuxyxwxxwyzxvw}~~~~~||~}~│└└┐││││┐┘┤┤├┘┴┴┴┼▄▌▐█▄▀▄▐▒▒▒▒∙▓░▓≈√▓▓▓▓⌠∙≈≈∙⌠■√ ⌡°°²÷·═╕╛╝╜╛╜╙╚╚╚╘╔║·═║ёё╒╓╕╘╕╖╗╘╙╛╜╜╞╞╟╡Ё╣╤╥╦╤╥╧╨╩юфмортжвызшщщэззшшзшэщчъъччзжтужжтжжутттуутттуутстссрррсстррярррряууутсяяяряярссрясррссттуттттувзэщэзььььвжввььввжвььызшывтромллммлмнмллллммллллкклллммммннммнннв{{вооннннооооооннннннноооннноонннммннннммнооооппнпппяяяппяяппооонпонопяпояяяяяяяярряяяяяясуутстттстууутуужжжжжжжжжввуужжуужжжууужутссссряпяррррсссяярсрррррссрсстсрсжввввжьььышээззыззыьвжттутрпонпнйгеа╫╢╡╞╜╚╘╗╕╔╔╓ё╒╒╒╒╒ё╒÷° ≤∙⌠⌠⌠▓░░▐░░▐▌▄┼┤├┬┬┼█▌▌▐▒▓▐█▄▀┼┬┬┴▀┴┬┴┼┴┬┬┤└┌┐┘├├├└└┘├┌~}─││││~{{}~|{zyxxspmlnpqqonljknpptstqlmppoopqpnllonmkifca_^`bb_^`bhljfefhgeb``fiffeb_]^acdcabdeffccccbbbcfgjmomhecegfdgq{┼┼└}|}┐█▌█▀┼▀█▌▌█▄▀▀┴┤├├┤┬┬├├├├┘┤┼┴┤├┤┬▄▀┼┬┤┘└└┐││┐┘├┤┬┼┼┼┴▀░≈°╓╙╡╦╩╫╬©бабдееефйлмммояяоопярряпоярррсрппяртужжжтужввьььзззззшшшзэщчщщчъччччъъчщэшшшззыывьыззыььжввуужжтжжжжуууужспнннлклккйхфдццбю╬╪╧╦╥╤╣╣╢╢╣╤╥╥╢╟╛╗╓║·²⌡≤√∙∙√≈≤≈≈≤≤≤≤≥≥≈√∙⌠▐▄▄█▓■∙√⌠▒⌠▒░▌▌▌▀┤┬┼█▐▓≤║╘╜╝╛╙╘╕║²⌡≤≥√▐┬┌wmmmjhhfdecdfikkhfklljgeeggiihijjiigimmlmkjlosttuvtrrvwutuqtwwwvursvvuvz{z{{}}{{──│┐┐┌┌└┘┘┘├┤┤├┘├┬┼▀█▌▄┼▀┼┼█▌▌██▒▐▄▌⌠■▓■■■■∙≈≈≈√∙√≤≥⌡°·÷═╒╕╚╜╛╜╝╜╛╛╛╛╘╔║║║║ё╓╕╕╕╔╖╗╘╙╚╜╝╝╞╟╡Ё╣╤╤╤╤╥╧╨╩ахнортжьызшщчэззшшшшээчъъЮчшжуужжужууттттууттуусстссррррссррррррррстттсррряяяррсрррррррсссттттувзэщэзььььввввввввввьыьыыьутянлллммкмнмллллмллккккклллмммммммммннв{zвннннмнооооонннмннноооомммнннмммммммммннооноппоопппппппяяппонннпонопяпоппяяяяяярряяяяяятуутсттсттуууттужжжжжжжжуввжжжжуужввжуууусрсттрояяррррсссррстсссярррррсссрсжвввввьььзэщэззззззывжттутрпоннмифц╬╧Ё╡╟╜╙╗╔╓╓╓╓╒║═╒ё╒ёё═° ≤≈⌠⌠▓▓▒░▌█▐▌▌▐▐▌▌▐██▌░▓▓▓▒▌▄┼┴┴┬┬┴┴┴┼┴┼▀▀┼▄┤┐└┤┤├└└┘├┘─{|─┌─││~xwy|||{ywutooorttrpkjihjmppssspkkonopqponkijjigdb`_\[]``]]_^cggeegigeeccgjgfec`^^`bedccdedb_bdcaabdhjlopnjgeeecbfq{├┼┴┘┐┘▀⌠■∙■▒░░░▐▒█▄█▌▀┴┬┼┴┬┤┤┤┬┬┘┤┬┬├┘┘├▀▀▀┼┬├┘└┌││┐└┘├┤┤┬┼┼▄▌▓∙⌡╕Ё╩╪╪╬юаабдфффхйлммнпппопяяяяррпяяяярряярстууууттужвьььыыыызззшзшщщщэщччщччъъчщшшшзззыыьыыззыыьвввжужвжжжжууууууспнммллллкйхфдццбю╫╨╦╤╣╣╢Ё╡╡Ё╢╢╢╡╝╙╕╒═÷·²⌡≥≈≈≈≤≤≈≈≤≤≈≈≤ ≤√■▒▌▀▀█▒⌠∙≈∙⌠■▓▓░▐░█┼▀█▓∙√ ╒╗╙╚╜╝╚╕║°≤≈≤∙▌┴┌xmonjggfefgghjkkhglljfcbdgiihghijiigjmmnnmlmprpnoppqtwvssuqtvvvusrptwwwyyxzyz}~|{││┌┐┌││┌┐└├┤┤┤┘└└┬▄██▄┼┬┼┼┼█▌▌▌▌░▐▄█▒▓⌠√∙∙■■∙√≈≈√≈≤≥⌡²÷║ё╓╕╗╙╚╛╝╞╜╜╝╞╝╙╕╔╒═║╓╕╕╔╔╖╘╙╙╚╜╞╝╞╟╡Ё╢╣╤╣╣╥╧╨╪билнятжьызшщчэзшшшээээщчЮАчшвуужууууууттттуттуусстсррррррссрррссррярстсрррпярррррсррррррссттттуьзэщшзььььвьвжжжжвьвьыьььжттямллммлкмнллллкмлккйкклллллмммммммммнвzzжннннмнннннннннммннннннммммммммнммллмнннооннппоооппппппяпппооннпооопппооппяяяяярррряяяпсуутстттуууууууууужжжжжжжввжжжууужвввжууутссттрпяяррррссррстттссярррррсссссжввввввьышэщэшшшшшзыьжттутрпонмкхеа╩╤╢Ё╠╝╙╖╓╒ё╓╓╒═÷═║÷║║÷°⌡ ≥∙■⌠⌠▓▒▌▄▌▌░▓■∙■⌠▒░▒▓⌠⌠▒▌▐█▀┴┴┬┬┬┴▀▀┴┴▀▄▀▀├┐└┘┘┌│└┐└┘┌~─└┐─│yvwzz{zxvtssstvvtokkjiiknppononkmomorrommjfcefda```]]]^^\\^\`dfffhieefecegeeedb``acdeedccba_ceeccdfjkmopomkkhecbfq|│┴▄┼┼█∙·⌡⌡≥√∙∙⌠▒⌠▌▄▐▒▌▄▄▌▀┬┤┤┬┴┼┤┬┬┤┘┘├┤┼┴┴┴┴┤┘┐│││┐└┘├├┘┤┴▀█▐▓■∙║╠╨╪╪╬аююадффгхйлнннппоопяяппяряяяяяррррстужуутстужввььыыыыыыззээщщэээщщщщчъъчщшшшшззззыыззззыьвввжжжввжжжжжуууусянлллмккйихфедцб©╪╧╥╣╢╢ЁЁ╡ЁЁ╡╡╞╞╜╙╖ё║║÷÷²⌡≥≤≤≥≤≈≤≤≤≈≤≥⌡≥√■▒█▀▀▀▐▒⌠≈√∙√∙∙▓▒⌠▓░▒■≤≤√≥╒╗╙╗╜╞╙╓═°≈≈≤∙▐┼└zoqokghhfgkjihijjjkifbabfiiigffghhhhjmlmommnooljknqruwvsrtvutrrrssptxyxyxx{yyz{{|}─│┐└┌}}}─┐┘┤┬┤├├┼██▄▀┼┴▀┼▀▌▐░▒▓▒▒▌█░░▒■■■■⌠■■∙√≥ ⌡⌡°·╒╔╔╔╔╔╕╗╚╜╞╞╝╞╠╟╝╛╚╕║÷╒╔╕╕╓╖╙╙╙╙╜╟╞╟╠╡Ё╢╣╣Ё╣╥╧╧╩бийлортжьзшщчщшшшзшээщщчЮАъэвууууууууууттсжууууссссрррярррсрррсссрярстсрррярсряярсррррсссстуутжышэщшыьььввввжжжввввыыьььжтспллмнмлкммллллкмлккйкллллллллммммммннвzzвооннннннннннннмммннннмммммммммнммллмнонооннопооооппппоппппппооооооппппооппяяяяяяррряяяртуттуутууужжууууууууужжввжуууужужжввжуууутссррсрррррсссррсссссрррссссстсссжвввввжвышэээшзззззыьжттутрпонмйгц©╦ЁЁЁ╡╞╚╗╔╔ё╓╔ё║═÷÷²÷·²°°⌡≥∙■⌠▓▓▒▐█▐░⌠√≤≥≈■⌠■■■■▓▐▌░▌▄┴┬┬┤├┴▄▄┼┼▄█▄┤┘└└┐┌──┘┌┌└└┐└┤┘─~──{wwxyz{{zyw|yurqpmjlkjkmopqmkklkmnjknnjijgcbefc`^^]^]\\[[\^Z]befffgeeggcdecefedbbcedgigdcccfggddgijkklmnooookgedfpy┐┼▌█▌▒√·═÷°≥≈≈√■∙░▌▒⌠▒▐░░█┴┤┤┴┼▀┴┴┬├┘┘┤┴┴┤├┤┴┬└│─│┌┐└├┤┤┘┤┴┼▄▐▓∙■÷╜╤╨╪╬а©©адефгхйлнноппопяряпппяяяяяяяяясстуууутстужжввьььььыыызэщщщщэщщщщщччъчщэээшшзззззззззыыьвжжжжжввввжжжуутсяолллмккйигфедцб©╪╧╥╣╢╤╤╣╢╢╡╟╝╘╙╚╙╗╔ё╒··²⌡≥≈≈≈≈≈≤≥≥≤≥⌡ ≈∙▓░▄▀▀▄▐░▓√∙■√≤≤√∙≈≈√≈⌡⌡≥≤⌡╓╘╘╘╝╝╖║÷°≤√≈■▌┼┘{qqpkikjghljiijkmmkgcabehkihgeddfhggjkjkmllllkihjnrstvvttuwtqnmmnoosvwvvvvwwxyxx{~─┌┌~~}│┌┘┴▀▄▀█▌█▄▄██▀▀▀▌▐▐░▓░▒▐█▐░▐▒■∙√√∙∙∙√≥°²²°·ё╗╕╕╔╓╔╖╙╛╝╝╞╟╟╟╠╠╝╚╕ё╒ё╔╕╔╖╙╙╙╙╜╟╞╟╠Ё╢╣╣╣╢╣╥╦╦╩агикнятжьзшщчщшшшззшщчччъЮъэьутууууууууттсжуууусссрррряяярррррсссрярсссряяррсряяяррррссссстуутжзээщшыьььввжжвввввжвьыыььжтроллмнмлкмнлллллммлккклмлллллллмнмммннв{zвоооооонннмммммнмммммммнмммммммнммлммномоонноооооопппппооопппппооооппппоппяяяяппяярряяяястттууууууужжууууууууууьжууттужжжжжвжжуууутррссррррсссррссрррсррссссстттстжьввьвжвзэээшыыыыыывжжттутрпонлифа╩╣╠╠╡╡╞╛╘╗╗╔╔╔╓ё║÷···²⌡⌡⌡≥√∙■▓▒░░░▐▓■√≥ ⌡≤∙∙∙∙∙■▒▐▌▌█▀┴┬┬┤┘┬┬┬┬┬┼▀┼┘┘┘┘┐─│┐┤┌─┐┘┘└┘┘│~~~|ywuvw{~}zwurqqpnkjjjmooooljjjijjegjjffgfb_cdb_^][\[ZZZZ\^Z[_cddeefgjjededhhgfdcdefkmjgffejieabhlmllllmoppqmiihipy└▀▐░▓■≈°══·⌡≥≤≤≈≈⌠▒▓⌠▓▒▒▒▌┼┬┬┴▀▄┼┴┤┘└└├┬┬├├┤┴┬┘│─┌┐└┘├┤┤┤┤┬┴┼█▒■√²╗╡╦╩╬©©©юцефгийлнноппппярряяпяяппяяпппрсттуттссужжжжвььььььыызшшэщщччччщщщчччщщщээшзззззззззыыьввввжжвввввжжжутсромллллкйхгедццбю╫╨╦╤╣╧╦╤╢Ё╟╛╙╔╕╖╗╖╔╒═··²⌡≤≈≈≈∙√≈≥≥≤≥⌡≥≈∙⌠▒▌█▌▐▓⌠▓■⌠⌠∙ ⌡≥≈ ⌡ ⌡°°°²║╕╗╗╛╝╛╔═·⌡≤∙∙⌠▌▀┤}rpokikjhhmlllkkjihebabegiigfeddegfgjjgikjkkjjhhjnqqrsuvvvtrpomlkkoqstssssqsvxwvy}│~}~─│┌└└┘└┌┐┴▌░▐▐▌▄▀█▐▐███▌▌▌▐▒▐▓░▐▒▓▒▓∙≈≥≥≈√√≈≥⌡·²²·ё╖╕╖╕╔╔╖╙╚╚╛╝╝╝╞╠Ё╞╝╜╙╗╕╔╓╕╗╙╙╙╚╜╞╞╟╠Ё╢╢╢╣╢╣╤╥╦╪афхйнятжыззщчщээшшышщччччъЮщьуттууууутттттуттуусссррррряяяррярсссррсссряяярррряяяряярррррртуутжшэшщшыььвввужжввввжвызыьвжтпнллмнмллмнмллмлмлллллллллккклллнммннов{zвооооооннммммммонмллллмннмлллллммллммннмопоноонооппппппооооооооооооппппппяяяяппоппяяяяпятуттууттттуужутуууууууувууууссувжжжввжуутттссррсрррсссрсттрярссрсттсстутстжьввььввшщщэшыыыыыывжжттутрпонлид╬╦╡╞╟╠╠╝╙╖╖╗╔╓ёёё╒÷·÷·⌡ ⌡⌡≤■∙■▓░▐░▓⌠≈≥   ⌡ ≤■■⌠⌠⌠▒▐█▀▀┼┬┴┼┬├┤┘└┘├├├├┐┐┐┌│─┌┘├││└┌│─┌│~{zzyxssuz─|xppqstsokjjknomllmkjgddebghgdccca[`b`__]ZYYZYYZ\][[]`ccdfghllgegfjjigedegilmjiigdggecdimmlmmnnoooqmkmmmsz└▄▓■√≤ ··══²⌡ ≥≥≤√■⌠▓▓▒░▒▐▄┴┴┼▀▄┼┼┬├┘└└┘├├┤┬┬┤┘└│┐┘┘┘├├├┤┤┬┬┴▄░■√²╕╝╢╧╪╬©©адффгиймнннпяппяярссрярярсрпопярстуутттуввжжвььььььыызшшээщщщщччщщччщщщщээшзыызззззыыыьвьыывжввввжжжууутрпнлкйййихфедддбю╫╩╧╦╥╦╤Ё╟╞╛╘╖╓╓╔╔╔ё═²²²° ≈√√≈∙∙√≈√∙∙≈≈√■⌠▓░▐░⌠√∙■■⌠⌠√⌡² ≤⌡°  °⌡²═ё╔╖╙╜╚╖║·²⌡≤∙√■▐█┼─unmihjjggkkkjihgfddddcehjkgddffeeegjifhkjkjjjiijmopqstuuurpppoljinoprrqppopsvwx{~┌~{}│┐└┘┬┴┬┘┘┴▄█▄▄▀┼▀█▌█▐▌▌▐▐▌░▓▒⌠▒░⌠∙■■∙≈≥≥≈∙√≈≥ °²·÷╒╓╔╕╕╔╔╖╘╘╘╙╙╚╛╝╠Ё╠╠╠╟╜╙╖╔╖╗╘╙╙╚╜╝╞╟╠╡ЁЁ╢Ё╣╣╤╥╧╫бегимпсжызыэччэээшышэщщщчЮЮщыуттууууттсстттссттсрсссрррряяряяррссрсссррярсряяярррряяррсссстуутвшщшэшыьввввужжжвввввызьвжусонллмммллннмлммлклллллллллккккллммммннв{zвноооооннммммллонмккклмннмллкккллллмммнлопононмооппппппппооонннооппоопппяяяяяппноопяяппртуутттстсстууутуууужжжжжуужусстьвжжжвжжтсстутросрррсссртутрпрссрссссстттстжььвьывьшчщэшзззззыьвжттутрпомкхц╫╤╠╞╟╠╟╜╗╔╔╕╔ё══║║÷²÷² ≥⌡°≥■∙■▓░▐░■≈ °°  ⌡°⌡⌠▒░░▓▒▐▄┴┴┴┬┼▄▀┬┼├└┘├└┐┐┌─~~┌├┘─~─│─~}│yvwyxssv{──ztvtrrrpmklklnnkihlkje_`cbggeb`_^][_a_^^[WXYZZZ[[[][\_bceggimmhfhhjjihfeghlmliijgbcgiijmnmmnopponnnkjnposy├▐√≈≥≥ ·°÷║÷°⌡  ≥≤√⌠▒▒░▐▒▐█▀┼┼▀▄▀▀┼┬├└┐┐└├┬┬├└└┘┌└├┘└┘┘└├┤┤┬┴█▒∙√°╔╜╡╥╨╪ю©адфгхикмнннпяяппястусрсссутрпярстужжуутжввжжжььььььыызэээээээшччщщщчщщщщэшзыыьзззззыыыыььззвжжвввжжуууутрпомкиххггффеедца╬╪╨╧╧╤Ё╞╛╚╙╗╖╕╔╓╓ё╒·⌡   ≈■⌠■∙■∙√√■▓▓■■⌠▓▓▒▐▌▐■≈≈■■⌠■≥⌡²⌡≤ ⌡≥≥⌡ °═╒ё╖╛╙╖╒·²² ≤√≈∙▒▐▄┐xmlgfhiggffeefgijbfiighkomfbdghfcdfjifhkkkjjkkjjknprsssssqononljillmopnmkqpqsvy~┌┌~{~┌└┐┌├┴┼┬┤┴┴┤┬┬┬┬┼▀▀┴█▄█▌▌▌░▓▓⌠░▌▓■⌠⌠⌠√≈√■⌠■√ ≥ °÷║║║ё╔╕╔╔╖╖╖╘╗╖╗╚╝╟╠╣╢╡╠╞╜╙╗╗╗╘╙╚╛╛╜╝╞╟╡╡ЁЁЁ╣╣╣╥╨©цфехкоруьыыэччщээшзшээшэчАЮщыжттуужутссстттссттсрссссррряяяяяярссрсссрярстряпярсссррсстттттуутвэщшэшыьввввжжуужжвьвызьжусрнмммммммлноммммлккллллккллккккллмммммнвzzжннноопннмммлкймммммлллмлккккммккллммннооооооннннннооооопппооппоооооппяопрряяяряяяяяяяяястутссртссссссттууужууууууужууууууужжввуутрстсярррррряясссссрряярсррссясртжжжжввышэээээызыььььвуттттсрпнлхб╩╢╠╟╝╝╟╟╛╕ёё║╒╒╒║·²²··⌡ ⌡²° ∙■▓▒▓∙ ·⌡°²°⌡≥≤≤■▌▄▌▒▐█▀▀┴┬┼▄▄┼┼┤├┤┴┬└┌┐──~~│┌┌┐┌─~─┌││─zyzyuvz}}zvuutttsqnlljhikkiggihhf`_aaffeca_^]^`_]ZYYY[\]^][\^[[ZY\bfghhhiigggjklmkhhjjllkiifcehiijmoqponoqqnlolmnopr─┬⌠≈°²⌡·═··═║║·⌡⌡⌡≈■∙■░▌▐░░░▌▀┴┼▀▄▀┴┤┘└┐┐┤┤┤┬├┌└┴└├┤┤┘└└└┤┤┤┬┼▌▓■≈═╗╜Ё╣╤╧╪╬адгхххлккмояпняярсттттярсссссрртутувьвжжжжжжввььвввьыззшээээщчщщщчщщщщэээээшззэшзыыыызшзьвввжжжвььвжужтряяпнкхихгггфедцца╫╨╨╨╦╢╡╝╚╚╚╘╔╗╖╕╕╓═ √≥⌡ ≈∙∙∙∙■∙√∙⌠▓▒▒√░▌░⌠▓▒▒≤≤≈■▓⌠√≥ ⌡°° ≥≤≤≤≥⌡÷╓╖╘╘╗╕╒·°⌡≥≈∙≈√■⌠▒┤|oiffehjidffddfgfeghggknnkigfdcdfgiighkljhjkkklkhlqtrpqstqsrpmkiglkjjlnmjnqrrsx┌└─}~┌└┘├┘┘┘├┘┘┤┼┬┬┬┤┴▀┴├┴▀█▄▄▐▓■▒▒░░▒▓▓░⌠■√≈∙■≈ °≤≤·╒══║╓╔╖╕╔╓╓╔╖╖╖╗╙╜╟╡╢╡╠╠╡╠╞╛╘╘╘╘╙╚╛╜╜╞╠╠╟╟╠╡Ё╣╤╥╩юцдфхкняуьшзшээээзьззызшщъАЮщыжттуужжуутттттссттттсутсрряяясрррссряясттсрстрряярррсссссссстууувзээшщзьвввжтужжжжжвьзззывтрпоонмммммклмлкйлмйкллмлкйккклллмммлмммнвzzжннннооонммммлкммммллллллклллллкллммннннннооооноооооооооппппоппппппппяяопяяяяяяппппппппястуутссссссстуууууууттссттууууууууужжввуутсстсясссссррррссссррррттссутсттувввввжьшээээшыыывьыьжутттттрпмкф©╦Ё╟╞╜╝╞╠╝╘╔╔╒╒╒╒║÷·²²°⌡ ⌡²²⌡≤≈≈≈≤⌡·═÷÷÷·°⌡  √▒█▐░▌▄▄▀┴┤┴┼┼┼┼┤┬┬┤┤├└┌~~─┐└┐┌│─~││─│{y{zxy{|{wutuuvusommmlihhhfdcedfea`bbeffedb_]^]\[ZYYYZ[]^][[\YZYY[`dfhffggfghjkmnnkklkkjhggfdfghghkoqnnnprspnolnnopt┌┼∙≥·═²÷÷÷÷═╒║·°°≥√∙∙⌠▌█▌░░░▌▄▀▀▄▀┼┴┤├┘├├┬┬┼▄┴┘└┤└├┬┴┬├├├┤┬┬┴┼▌▓∙ ё╙╞Ё╣╤╧╩╬аехиихлклмоппоппярссссррсссссстууужввжжжжжввььыььььыыззшээээщчщщщщщщщщэщщщээшшзззыыззшзыььььввввьвжжжжжтсррпмййихгффддаба╬╩╦╣ЁЁ╡╝╚╚╚╗╓╖╕╕╔╓═⌡≈≤≥≥√■■∙■■∙∙■⌠▓▓▓■░▌░▓▒▒▓≤≤≈∙■■≈≥⌡°·² ≤≈≤ °═╓╗╘╙╘╗╓═²⌡ ≤≈√≤≤√■▓┬}mgeghkmlihfdefffhjjjjklmigfedbbdjiijkjjjhhiiklkglqtspopqprrpnlkikjiknpomnooopty|~||}─┌┘┘└┐┌┌┐┤▄┤┴┴┴┴┼┼┴┴▀▄▄▄▌▒▓▌▐▐▐░▓▓▒■∙≈≤≈√≤ ⌡≥ ·║║║╒╓╔╕╕╓╓╓╔╖╖╖╗╙╜╟╡╡╠╟╠╡╡╟╞╛╚╙╘╘╙╛╜╞╟╟╟╟╟╡╢╢╢╢╤╩юббегймпсжызшээээшышзззшщчъЮчзвутуужжууттттттстуутстссрррррррррссррррссссссррряярррссссстттууувзээшэзьвввжужжжжжжвьзззывтяпоннмммммклмлкклнккллмлкйклллмммнмллммнжzzжннннноннннннмлмммлллллкклллллллллммнннммннооннооооооооппяяпппяппппппппнопяяпппппппппппястуутттсссстуужууууттсссттуужжжжуууужжжуутссссясссссрррярссрррссттттуутттувьввьжьшщщэшшзыьвьыьуутстутрплиц╩╣╠╟╞╛╜╝╠╟╛╗╕╓ё╒║║║·°⌡ ≥≤ °°⌡≥≥ ⌡²÷║║ёё║÷²°°²≥■░▐▌▄▄█▀┴┬┼┼┼┴┴┤┴┴├┤┬├│──┌┘┘└│─~──┌│}{{{|}~}{xvuvswxtpnnmjgddedba``cdbbdcddeffd`]^ZXZ[ZYZYY[]][ZZYZ[[\`ceigffffgijjmoonlmlkiffggehihggkoqllmqturomklllns┌▐≥°═ё÷═·══║╒╒÷²²≤≈√√▓█▄▌▐░░▐█▄▄█▀┼┬┤┤┤┬┴┴┼▄█▀┤├┬┤┴┼┼┴┬┬┬┼┼▀▀▄▐■≤²╕╜╟╢╣╤╦╨╫аехииикклноппяррссттттссссссссуужввжуужввввьыыыыььыызззшэээщщчщщщщщщщщщщщщщэээшшшзззззыьььыыььввввжжжвжусряолйкйхфеедцааю╪╦╢╠╞╠╟╝╛╛╚╗╔╕╔╔╔╓║² √≤≤√⌠⌠■■⌠■■■■▓▓▒▓▐▌░▒░░▓≈≈≤≈√√≤≥⌡²÷· ≈≈≈⌡÷╓╗╚╚╙╙╘ё²°⌡≥≈≈√≤≤≈∙▒┤|kedhknpomieefgggklmnmkjkhggfecceighmnlkmihhjmnkhkqvvsppoorsqonnmkhglpqqqoonnotwxvwyzzz}─└┌───└┴├┴▀┼┬┬┼▀┼▀▄▀▄▌▐▐█▌▐▐░▓⌠▒∙√≤  ≤≤  ⌡°·═║╒╒ё╓╔╓╓╓╔╕╕╕╕╖╘╛╝╟╟╞╟╠Ё╢Ё╡╡╟╜╚╙╙╛╜╟╟╟╞╞╠╢╤╣╢╢╤╪ацаегилорувзэщэээшышшшшшщччЮчшьууужжжууттттттттуутсссррррррярррррррррррссррррряяррррсссстттуужышээшэзьвььвжжвввжввьззыьжсяоннммлмммллллллммкклмллккллллмммммлллммжzzжнннннонммнннмлнммллккккклллллллллммнноммннннннооооооооппяппоппппоооооооопяяяппяяяяяяяяяртууттттттттттттттуууууууужжжжжжжуууужжууттссррррррррррярттссстссссстттттуввжжвжьшщщэшззыввызьуттстжурплхю╧╢╠╟╟╛╛╛╝╞╝╙╕╔ё║═║║÷°⌡ ≥≤≥ ⌡⌡ ⌡²·÷÷═║╓ё║÷°°²·⌡≈▓░█▀▄▐▄▀▀▄▄┼┬┬┤┬┬┤┤├┘┐└┐┌│┐┘└┌~}|~─└┌──~||~~}{xvvpvywtspljgddffc```dfddecb``bcb_^]YWZ[YY[YYZ\\ZYYY[\\\^ackhfedefiijknnmlmomjhhhhhlljggjoqkkmquvspmjlkkmt└■°²║ё══·══║╒╒═·· ≤≈√⌠▐██▌▌▌▌█▄▄██▀┴┤┬┴┼▀▀▀▀▄▀┴┴▀█▄▀┬┤┤┴▀▄█▌██░√⌡÷╖╝╠╣╣╣╥╨╪юдгийййкммнопярстттттутссрррссутуььутужжжвььызыыыыыззззшэщщщщчщщщщщщччщщщщщщщщээээшзыыыыыыззыььвввжжввжусрпнкйкигеедццца╫╦Ё╠╟╟╟╞╝╜╜╛╘╖╕╔╔╔╓║²⌡∙√√∙⌠▓⌠■▒⌠∙√∙⌠░▌▐▌▐░░▐░⌠√≈≤≤≤≤≤≥ ²÷² ≈≈≤⌡÷╔╘╚╚╚╙╙╒²²°≥≈≈■≈≈√∙░├|mgfijmpqlhfgihijmlnppkijjhgghgghiijnonlmijkmnnkhhowzwtrqortrpppplggmrrqsonnnquxxtuvwvvy}───~│└├┴▀▀┬┤┴┼┼▀▄▄█▐▐█▌░▒▒▒⌠⌠▓∙∙≈≥ ≥≤≥ ·═══╒╒║╒ёёёё╓╔╖╔╔╔╕╗╙╛╜╞╞╟╡╢╣╣╢╤╢╠╝╛╛╛╜╞╞╞╞╟╠╢╤╤╤╤╦╫бдцегилоржьзэщщэээззшшшэщччЮъэыжуужжжууттттутттуутссссррррряррряяярряярссрясррряяррррссстттуувзэээшшзьвььввввввввььззывурпонмммлммммлкклллккклмллкккккллллммлллммжyzжнмммннммммннмлнммлккккллкккллмммлммннонннннмммооооооооппппооопппоооооноопяяяяпяяяяяяяяпястттттттттттттуууууууужжжжжжжужжууууужуууутсррсррррррряртттттуссссссстттуввжжвжьшщщэззшзььзшыууттужурокф╬╥Ё╠╠╟╜╚╙╚╜╜╙╕╔╓║÷═║÷⌡²°    ⌡°²═╒╒═÷║ёё╒÷°  ⌡°⌡≈⌠▒▌▀▄░▐██▄▀┬┤┬┴┤┤┴┤┐┐├├┘┐┌┌└┐│{zz{}│┌└┌│┌─||}││~zvspsvvwvsopnlllkfaedfhffeb_\Y[]]]^]ZY[ZWWZZYY[[ZYYYZ[[Z[]`hecccdgijjjllklmonlkiihionlhgjnpmmoswwusqnnnorx┴ ═·÷║÷═·═══╒╒═÷÷²≥√∙■▒▌▄▄▄▄▄▄▄██▄┼┬┤┬┼▄█▄▄███▀▀▄▌█▀┬┤┬┼▀▄█▌▌▌▒√⌡÷╖╝╠╢╣╣╥╨╩╬адгйкиклмммояярсссссттсряяррстсувьутжжжжжвьыыыыызззззшэщщщщччщщщщщщччщщщщщщщщээээшшззззззззывььввввввьжусянлкйхфедддцдю╩╤╡╟╠Ё╠╞╝╝╝╛╘╖╕╔╔╓ё═²°√√√∙⌠▓⌠■■■■■⌠▒▐▌▌▌▌▐▌▌▒■∙≈≤ ≥≥≤≤≤ °⌡≥≈≤≥⌡÷╓╘╚╚╚╚╘╒²²°≤√≈■√√∙■▐├}rljkijorjiikkijlmlnqpmjkmifhkllkloponnkhijlnmjhggnx}{vsrqstrpppqlhinrqqrnnmnquwvvuuuuuw{~}~│└├┤┬┴┴┬┬┴┼▄██▌▐▌▄▌░▒▓▓■■⌠∙■∙≤ ≥≤≤²║ё║═╒╒═╒╒╒ёё╓╕╖╕╔╓╔╖╙╚╛╝╝╟╡╢╣╣╣╥╤╢╠╞╜╛╛╝╝╞╞╟╡Ё╢╤╥╦╨╫адддфхкнржьыэчщэээшзззшэщчъЮъщзвуужжуууттттутттуутссссрряяяяяряяяярряяяссрясррряяррррссстттужьзэээшшыьвввввввьвввььзыьжтяонммммммммнмккллкйклммлкклккклллллмлллммуyyжмммммнлллмнмлкммллккклмлкйккммммллммннннннннммннннноооппппооооппппппоооопяяяяпяяяяяяяяпяссссттссттуууужжжуутттууууууттжжууууужутуутррсссссссссррсттууутссстсстуужььввььзэщщшзыззыьзшыжуттувжрнхц╩╣╡╟╟╞╛╚╘╘╚╛╘╕╔╓║·÷║÷⌡°⌡≥≥  ⌡²÷╒ёё═÷═╒═÷²⌡≤≈≤≥≈∙⌠▓░█▌░▒▐█▀┬┤┬▀┼├├┴┬┌┌┤┘└┌──┌┌│zzz|~─┌└┐┌││|}──┌└└┌}wssrrtvvusttsttsnijghhffea]YVWXXZ\\ZZ[ZWVXZZ[\\ZZZ[[[\[[]_eccdefiljjkkjjknnnmligginnlhfhlnopruwxxwtpqqtx▐·ё÷÷÷·═════╒║═÷═· √■⌠▓▌▄▀▀▀┼▀▄█▌▄┼┬┤┴▀██▀█▌░░▌▄┼▀▀▀▀▀▀┼┼▀▄██▌▒∙≥·╖╜╠╢╣╣╥╨╨╪©бфйлйклллмнопртттссттсррррссттужвжужуужжвььыыыззззззшэщчччччщээээщщчщщщэээээшшшшшшэээшззззыьыыььььвжвжтромлкхгфедддцю╫╨╤Ё╟╠╡╡╟╞╝╜╙╖╕╕╔╔ё╒═²°≈≈≈√■⌠⌠∙≈∙▓░░░░░█████▌▓∙√≈≥  ≥≈≈∙√≈≤≈≤≥⌡°÷╓╗╚╛╛╛╕╒·²⌡≤√≈∙√√■▓▌├xpmlhgknhiijjiikmlmnonmmmigilmllkprpoonkjklljgefipx}{urrstsqoonnlklprqpqppooqtutvtssssuw|||}}┐┤└└┘┬┴┴┬┴┼▄▌▌▐▐▌█▀▌▒▓⌠∙√∙∙■∙≈≤≥≥ ÷ё╓ё║╒║═║╒╒ё╓╔╕╕╖╕╔╕╗╙╙╙╜╜╞╠Ё╣╣╤╤╤╣╢╡╟╝╜╜╝╝╞╟╠ЁЁ╣╥╦╨╫аддбдфимяувыэчщэээшзззшэщчъЮЮчшвуужжуууттууутттуттсссссряппряяяярряяяяррсряррряяррррсссстттужьзшэшшзыьвввввввввввьыыьвусяонннммммммнлккккйиклммлкллллллммммммммммуyyжммммммллммнмлйммлкккллллкккллммллллмннммнннннннннноооппяяпооопопппппооооопяяппяяяяяяяяярстссттрсттуууужжууттттууууууттууууууужутужуррстсссссссррястутстсрттссууужвьвжвышщщщшззыззыызьжжттжвжямфа╧╢╡╠╞╝╚╙╘╘╙╛╘╕╔╔╒÷÷║═°⌡≥≥ ⌡°·══║╒╒║═÷÷÷÷² ≤∙∙∙⌠▓▓⌠▓▐▐▒▒░▐█┼┴┼█▀┤┘┬┬┘└┘└┘┐──┌┌─~~─┌││~||~│┘┘┘└┌}wstrqttsststvvwwsomihgeeda]YWXWVWZYYY[\\ZYY[]_^[ZZ]\[]]]_acbbdefhjhikkihknnnmlhefillkhfhklprsuvxz{xstv{│┤≈═╔║÷÷²═║═══╒╒══║÷⌡≈■⌠▓░▌▄▀┼┼┼▄▐░█▀┬┬┴┼┼┼┬┼▄▐░░█▀┼▀▄██▄▀▀┼▀▄█▐▓∙≤÷╖╜╠╢╢╢╤╧╨╪╬бфиклллллммноружуттттссссстттужужжжужжжжвььыьыззшзззшэщчччччщээээщччщщээшшшшшшззшшэщщэшзззыызыыыыьвужусянлккхгфеедцб╫╩╦╤Ё╟╟╡╠╞╜╜╚╗╕╔╔╓╓ё║÷·²≤≤≤≤√⌠■√≈■▓░▐░░░▌█▄▀▄▐⌠√√≈≥  ≤√∙⌠⌠■■√≤ °²═╓╘╛╛╚╙╓ё═·⌡≥≈√≈√∙▓▐▀┘zpjjgefgdeedeghgkkjikmmmjiikmlkjjnrrqqqrpnlkighjnry|zustuurommkikmprrqpprrrqrtutsrrrrrsvyyz{|~│┘┘└┘┬┬┤┤┤┬▀▐▐▐▐▌█▀▐▓⌠∙√≈≈√√√≈≤≥⌡·║╒ёё╒╒═÷║║╒ё╓╔╕╕╗╕╔╔╖╘╘╘╙╛╝╟╡╢╣╣╥╥╥╤╣Ё╡╠╝╝╝╝╞╠Ё╢╣╤╥╧╫бддбдфилптжыэчщэээшшшззшэчъЮЮчшвуужууутттууутттттсрсссрряяпсяппрсряярррррррррряярррссссстттужьзшшшшзыьвжжжжжвввввьыььжтрпонннннмммлмлккккккклммлклмллллммммммммммжyyжммммммллммнмлймллкккллккллллллмллллммнллмнооопннноопппяяяяпоопноооооонооопяяпоппппппппярстттттттттттттутттттуутууужжуууууууужжутужуррсссссррррряпртутртррссрстттуввжжжшэщщэшззьззыыыьжжутжвжямею╧╢╡╠╞╜╘╙╙╙╚╛╙╕╕╕ё÷÷║═²°  °·═ё╕║║║ё╓ё═²═÷·⌡≈■⌠▓░▐▒■■▒░▒▐░▓▓▐▄▄▌▄┬┘┘┬┴├┐├├┘│─┌┐├└┌┌─~~─~zy{┌├└┌─~zuqsqrvtpossuvuuuqmmigfddd`]ZZ[YUUXWWX[_b`]X[_b`\ZZ\ZZ\]^_ba``abbcedgjkigimnnnlgcfjjkkhgikmoqstuwz}|wx{┌┬▐·║╖ё║═²═║║══╒╒║═║÷² √⌠▓▒▒█▀┼┴▀█░▓░█┼┬┬┬┤├├┤┬▀▌░▐▌▌██▄▄▄▄▀┼▀▄▌░⌠√≤÷╗╝╠Ё╢Ё╣╦╨╪©бфийммллмммммпсутсрсттттттттуввууввужжжжвььыьыззшззышэщчччччщщщэщччъщщэшшшшшээшззшшэщэзззззззззззывувжтрпнммхгфеедба╫╨╥╢╠╞╟╡╝╛╚╚╙╗╕╖╓╓ё╒║÷··≥≤≤≤√■∙≈⌠⌠▓▓▓▒░▌▌█▄┼▀▐⌠√√≈≤≥≥≤√■⌠▓▒▓∙≤ °·═╓╘╛╛╙╖╓╓ё÷° ≤≈≤√⌠░█┴┐~znggfcba__^^afgeiigegkmkhjlnmjiilnrusoqvvqmkkklnqty{yuvxvuqnlkifjnrssrqpprrqrtutsstutsuwvwz||{|~├├┤┬┤┘└┘┤▀▐▐▐▐▌▌▌▒■∙√≈≈≈≤≈≈≈≤ ²║║║╒ёё╒══║║╒╓╔╔╔╔╖╕╓╓╕╖╖╕╗╙╛╞╠Ё╣╣╦╦╦╦╥╤╤╣╟╞╜╜╝╠Ё╢╤╤╤╧╬деццдфилосжьшчщэээшщэшззэщъЮЮчшвуужууутттууутттттсррррррряятяопртрпярссрррсрряярррсссссссстужьызшшшзыьвжужжжжввввьыьвжтрпооонннмммллллкклллклммлклмллллллллнмммммжyyжннмммммллммлкйккккккккийкллллклкккллмнмммннноопоопяяпоооооооооооооооппопппооппяяппяяпояясттссуртууттужттттттууттуууууутуууттуувжууууттссррссряссттттсстрярсуутттжьыьвьзшщщэшззыыыыыыььжтужуурмц╫╦╣╞╜╝╜╚╚╚╙╙╙╙╚╖╔╒══║║║²⌡°═ёё╒╒╔╓ё╓ё═÷══·⌡ ≤∙■∙▓░▐▒⌠∙■▓▄▒∙■▐▀▄▌┴┤├┬┼┴┤├┴┤└│┌┘├┘┐┐└│}~││──~{xx{~┐┌~yutsqromnonnoquvvwtmjifeedfgc`__^[WVXYY[^`bcdbaabb`\Z]]\\\]`b^]\]_`aaacgifcgnpoonjffhijkihimpqqoptux~┌┌│└┼∙÷╔╔╓╒║║║═║═÷═╒╒╒║══·⌡√⌠▒▒▄┼┼┼┼█▓■▌█▄┼┬┘┘├├└├┼▀█▐█▌▌▌█▄▄█▌█▄▄▐▒■≈ ═╘╞╡╣╣╣╥╩╪╬©адхкллммллмннпярссстттттуттстуууттужввввжжжжввьььыыызшщчччъъччщщщщччэщщэшззшэшшшшшээщэшзыыззззззыььввжтянлллкйгфдцба╪╨╥Ё╠╞╞╞╜╝╛╙╘╘╘╗╔╓ёёё═÷·   ≥≤≤≤≈√∙⌠▒▐▐▐░▒█┼▄▐▒■√ ≥  ≥√■■░░▒⌠≈ ²·║╓╘╚╙╘╖╖╓╓ё║÷° ≥√⌠▓▐┬└─{xrjeddddba`^]_dhhiihgimpmlmopljjkrurnqvzxvsmjkorsxzxvvvtrtsqnkigjptsonoolmnopruvtrrttttuzww|{wy~~~│└┘┌┐├┤┴█░░▐░⌠▓▓⌠√≤≥≤∙√≥≥≤≤ ²÷═÷÷÷═║╒ё═╒ёёё╓╔╓╖╖╖╖╕╕╖╗╗╘╙╛╞╡╡╡╥╨╪╫╪╩╨╨╢╞╚╜╡ЁЁЁ╤╤╥╩©цддбегиймяувзчъщшшээшззшэщчщщчщзжужввжуттужутррсттсссссссряррррряяяпясттсряяяяяррррсррсстужжвьзэшшзжььжужжжывжввжвыььуяоопоннннммммммллммллккккккккммммммллмллллмуyyжммммммллллммлкйййййййййкклмлллмллллмннннннннннооппооооппппппппппппоооооппппппяяяппяяяпяярттссустттттттссттттттуууууууутуууттуужжуууутттсссссряссттттссттсстуужттувьввьшэщщэзыыыыыыыыььжтужттяка╩╥╢╞╝╞╞╛╚╘╗╗╗╘╙╗╖╓╒║═÷··²÷╒╓ё╒║╓ё╓╓╒÷÷║·⌡≤≈√∙√≤⌠▒░▓■√∙⌠▐▓■■░█▄▄┴┤┤┴▄▀┴┤├├├┘├┤├┐┐┐└┐│┐│~{wuwyzyvsrrrqnkkqrmjlmrtstqnmifeeehjgdca`][[]^`bceeghfeefec`]\]]]]]^_][YXY[^_`cecabfkpqrqmjjmjkklmopqoppqrrw│┘┤├┘┬▌≥ё╖╖╕╓ёёё║╒║══║╒ёё║║÷°≥∙⌠▓▌▄▄██░∙√▓▐▄┼┴┤├├┘┘┴▀┴┴▀┼▄█▌▌▌▌▐░▐██▐▓■≤⌡╒╚╠Ё╣╤╤╧╩╪╬©ацгйкклллллмопяррсстутттуутстууттттужжввввьыььььыыыызшщччччъщщщщщщщчэээшззшшшшшшшшээщээшшшээззззыььвутяомкккйхфецбю©╪╧╣ЁЁ╡╠╟╜╜╛╙╘╘╘╗╔╓ёё╒═·²²°⌡ ≥≤≤≈≤≈■▒▐▌▐░▓▐▄▌░⌠∙≤ ≥≤≤≈∙■■▒▒▓∙≥°÷═╒╕╘╚╙╗╕╔╔╓ё╒═·⌡≥∙▓▒▌┤┐zxrjgfgfeaa_]\^bfffedehmqqonmkjkmoqrpptwvywsnlmpttx{xvuusprsrqponpqqnlmnollmortvwvtsssrsuwvx|}zz}│─│┐┌─│┘┘┬▌▓⌠▒▒⌠■⌠▓⌠∙≈≤≈≤≥≥≤≥°··÷÷÷÷═║╒ё²═║║║ёёё╕╖╗╘╗╖╖╗╘╗╗╙╝╠╡╡╣╤╦╩╪╫╪╩╧╢╟╟╡╡Ё╢╣╤╦╪аццццегийлятвзчъщэшээшззшэщщщщчщзжужужжусстжутссстттсрррссрярррряяяяяярсссрряяярррссссрсстужжвышэшшзвьывжжвжывжввввыьвтпнннмммммлллллмммлклмлллллллллммммлллмллллмуyyуммммммккклммлкйййййййййкллллллммлллмнннннннннннпяпнмнопппппппппппппонноппппппяяяппяяяяпярттстусссттттсссссстттуууууууутуууттуууууужутсттсстссрсттууттсттттттужууувввьыэщщщшзыыыыыыыььвжууутсои©╧╤Ё╟╟╠╠╜╚╗╕╔╕╖╗╖╖╖╔ё║═÷║╒ё╔╔ё║═╒ёёё║·÷║°≥≈∙■■√≤■▓▓⌠∙≈√■▓▓▓▓░█┼┬┼┬┬▀▄▀┴┤┘├├├┤┤┘┌┐┐┘┘┐└┘┌~~~zvsrssrqopqqplgiqrlikjpqomlknjggffjljkhecbaabcehiiijkjjiiifb^]^__^]\\ZYXVVX[^add_\`egmorromnpmjikpssrppprtrx┐▀█▀┴▄⌠°╕╘╘╖╔╓╓╓ёё╒║═║ё╓╔╓ё║·⌡≤■▓▐▄█▌▌▓√∙▓█┴┬┤├└└└├┼▀├┘┬┬┼▀█▌▐░▒▓▓░▐░⌠√ ·╔╜╡╢╤╤╥╩╩╫©аацфхийкккклмопяяярстжууууутсттттсстттужжжжвььььыыыыызшщчччччщщщщщщщщээшзззшэшшшзшшшшшшээээээззззыыььтсяомлллихфеца©╫╪╦╢ЁЁЁ╠╞╜╜╛╙╘╙╙╘╖╔╓╓ё═·²÷·²° ≥≤≈≤√⌠░▌▐▒⌠√⌠▒▓■∙≈≥ ≤≈≈√■■∙⌠■∙≤°÷═║ё╔╘╙╘╖╔╓╓ё╒║║÷⌡≤■▒▐█┤┌~yxsmihgeca`_\\^aeedcbcgmrrsqmjjlnrtsrswywxupmlnqstxyvttsqorsttuvuusokjlmmllmpsuvuvutsqqsvvvwz{{|~┌│─│─│┘├┼▐⌠■▓▒▓■▓░░▓■√≈≤≥≥ °··²²²·÷═║ё╓ё╓ё║═║╒╒ё╕╘╙╘╗╖╖╘╗╗╙╜╞╟╟╡╡╢╦╪╫╫╪╪╧╣Ё╡╠Ё╢╢╤╨╬бдцацегиилосвзщъчээээшзззшээщщчщшвужтужусссуутссттттррррссрррррряяяяяярррррррррррссссссстужжвызээшззьыыьвввжьвжвввьывжспнннммммллллккмнмкйлмлллллллллллмлллкмллллмуyxуммммммккклллкйккккккккййккккккллллллммннннннннопппооопппппппооппяяяпоноппппппяяпппяяяппярттттжтсссуутсссссстттуууууутттуууттуууууужжтсттссттсрсттттттссттссстужуувввызээщщшзыыыыыыыыьввжжжсрнг╫╥╣╢╡╠╡╟╜╚╗╕╔╔╕╕╕╖╖╖╔╓ё╓╖╕╕╔╒═÷÷║║╒║═÷÷═² ≈∙⌠▓■√∙■⌠■√≈√■∙■▓▒▐█┼┴┼┴┼▀▄┼┤├├├┘┐┐└└┐┘└└┘└├├│}}|yurqqrrqpqqollhglnkjkhmlhfegkkihgfjmlnjgeedcbfgijlnnmmlllkhc`aaaa_^\[YZZYXY[]cec_\_dgijmnonnnmiffkprrrppuxwz└▌░▌▄░∙²╔╗╗╖╓╓╓╔╓╓ё║══ё╕╕╕╓║÷²≥■░░██▐░■√■▐▀┤┘┘└┐└┐├┴┴└└┤┤┬┴▀█▌▐▒▓⌠▓▓⌠√≥²║╖╞╢╣╤╥╦╪╫©аббцефхиийклллпппппястжуутуутстттсссссуужжуужжыыыыыызззшщщщщщчэщщчщщээээшзызшэзззззшшшззшшэшшшшшзззыььусяонмллйигеца╬╫╫╨╤╢╢Ё╠╞╝╝╜╛╚╚╙╙╘╖╕╕╔╒═÷÷·²⌡ ≤≈√√∙▓░░⌠≤⌡° ≥≤≤≥≥≥ ≤√√√∙∙√√≈≤⌡·═║║╒╓╗╙╘╗╕╔╓╒══║÷⌡≈⌠░▐█┬└─{ywrmhdbaba_]]_cffecbdhmporrommnmptvtsvxysplklmprtvvsqrrrqstuuwwwvspmllkjlllosttssttsrruwwwvuwz}────┐├▄▌░▓▒▒▒▓▓░▐░▒⌠■√√≤⌡°·÷÷²⌡°²÷═╒╓╕╘╗╔║÷║ё╓╒╔╘╙╘╖╖╗╗╘╙╚╛╜╝╞╟╟╡╤╨╩╩╪╩╨╧╤Ё╡Ё╢Ё╤╨©бцбадфхиикоржыщъчщщщэшззшшэээщчщшьжутуууутсстттсстттррррссряссррряяяярррррррррррррсссссстужжьзшээшзыыыььвввжвввввьььжуспоппоннммммлллмнмлллмллллллммллмммлллмллллмуyxумммллллллллкйиккккккккййкккккклллллллмммнноонноонопяпппппооооооопяяпоонопппппяппоппяппяяртуттжссстужжуттттттттуууууутттуууттуутттужжутттсстссрссттттссрстсррстжуужввышшэээшзззыыьыыыьвьжвжсяле╩╥╣╤Ё╡╠╝╛╚╘╖╖╕╔╓╔╕╖╕╔╔╕╖╘╗╔╒══║╒╒║÷÷║║═·²⌡≥≤∙⌠⌠■√∙∙∙√√∙■≈√■▒▌▄▄▄▀┼▀▄▄┼┬┬┬┤┘┌│┐└┐├┐┌┌│└└|{yvtrqqqqrqpnjfhhgfikjgegeaabcfjhhgfjnnnkhhigedhgginrqnmmmmmkhedcba_^\[Y[[[YZ\_ecba``cgfghknomkjheegkmonpsxzwz└░⌠▓▒⌠√°╓╖╖╕╓╓╔╕╔╓╓╒══╓╕╖╖╓║÷²≥■░⌠▐░▓■√≈■█▀┬├┘└┘┤┤┤┴┤┐┘┬┤┤┴┼▄█▐░▓⌠⌠■≈≥°═╓╙╠╢╣╥╦╧╪©ацддцдегхийкллмооооопрсуутттттсссссссссжввввввьыыыыызззшэщщщщщщщщчччщээээзыззшэзззззшшшзшшшшшззшшзззыььусяоммккйигеца╬╪╫╩╦╤╢Ё╡╡╞╝╜╛╚╙╙╙╙╗╖╗╖╓║═·²°⌡ ≤≈≈≈∙■⌠■≤²║ё╒║═÷²° ≤√√≈≈√√√≈≤ °÷╒╒╒ё╔╗╙╚╘╖╕╓ё║║║÷⌡≤⌠░░░▄┴└{zwqicaaa`_^_bfhhgeefhjlkmnnnonklqsrrtuuplijlnprsutporttprsssuvvusqomkjjmlmorsqpqsvvuuvwxxvtuy|}~─│││└┤▄▌░░░░▒▒░▐░⌠■■■∙■≥·════÷²·══║╒ё╔╔╔╓╒║╓╕╖ё╔╗╘╘╗╗╘╖╙╜╜╚╙╚╜╜╝╠╣╥╦╨╪╨╪╪╧╤╢Ё╢╢╤╨╬аббадфхиикняжьэчччщщэшззшэээшщчщшывужутужжтрттсссстттссссряпсссрррррярссссррррррррррсссстужжьзээшзыыььввввжжжвввььььжуроноонннннмммммлллммлкклллллллммммммллмллллмуyxуммллкллллллкихииииииииккккклллллммммммлмнноооонмлмоппопппооооооопппппоноппоппяпооопппояярттстуссстужжутттттууууууууууутуууттууттттууууттссттсрссттттсссттттттууттужжьзшэээшззшыьььыыьвьввжспкц╩╤╣╤╢╡╟╜╛╚╘╘╗╖╔ё╔╕╕╖╕╕╖╖╗╖╓║═╒╓╓╒═··═╒═²⌡  ≥≈∙∙≈≥≤≈≈≈√■⌠■■▓▐▄┼▄▌▄▄█▌▌▄▀▄┴┬┤└┐└└┐├┌─~││}{yvtrqpplnomkiebceedfjgaac`^_aacedfedinoomlnomkjihfhousnlllmnnljeca`_]\[[[ZYXZ^bfbbddbdhgghjmomjhhihhijliqx{yv{┘▒∙√■∙√⌡ё╖╖╕╓╓╔╕╕ё╓╓║║╔╖╖╖╓╒÷² ∙▓∙▒▒⌠∙≈√▓▀┴┤├┘└├┴▀┼┴├└┤┼┬┴┼┼▀▄▌▒▓■∙≈≥⌡·╒╕╛╡╣╤╧╩╩╫юбдедддефгхйлмммооооопрсттссстссссссттсстужжввьыььыыызззшэщчщщщщччччщщщэщэшззшшшзззшшшшшшээээшззззззыыььвтрпонмлйхфдбю╫╪╨╦╤╢╡╡╡Ё╞╜╜╛╚╘╘╘╘╗╗╗╗╔╒║÷÷·°⌡ ≥≤≈√∙■∙≤²═╔╕╖╕╓║·⌡≈∙∙√≤≈≈≈≈≈≥²═╒╓╓╕╗╙╛╛╙╗╖╕╔ё╒╒═² √⌠⌠■░█┴┐zzxqhbaba`__`dhjihgghhhghhijkmmklnoprtrnnkjlnnorrtsposvvnpqqqsuuutrpmklnoooprrqosvyyyyyxzyyxyz{z~─│┌│┌└├┬▀▌▌▐▐▐▐▌▌▒∙≈∙∙√≈°║╒║║║║ёё╓ё║║║╒╒╓╕╕╕╕╕╔╔╕╗╘╘╘╙╙╗╚╞╝╙╗╙╛╚╛╞╢╤╤╧╫╪╬╬╪╧╥╣Ё╢╤╨╬юааадфхииймпуьэчччщээшззшэээшщчщэзвувутужвурсстсссстттсссряпррррррррярсттсррррррррррсссстужвьзээшыьььвжввжжжжвьвьььвжтянмнмкнммммлллмкййлмкйккккллллммммммллмллллмуyyумллккклкккккйхииииииииййкккллллллмммннммноооннннннноопппппоооопппоооооноппппяяппоппппопярттсстсстттттуттттуууууууууууутуууттууутсстужжутттттсрссттттссттттужжууттужвьзээээшзззыьвьызывьввжроиб╪╥╣╣Ё╡╟╝╛╚╘╘╘╗╕╓╕╕╖╘╙╙╘╗╕╕╔╓╓╔╓╒╒║··═╒═²≥≥  ≥≈≤ °⌡ ≥≤≈■⌠▓▓▒▌▄▀▄█▐▐▐░▌▄▄█┴┴┤┘└┘├┘┘│─~}──}{yvtrqpokmmkgfdcbccdfgc^_a`]_`_aabddcgmmponppnmliheflrqmkjjkllkjecb``^]\\\[Z[]adedcdeghjgijjkmljiklkiikmlu{|||├▐■∙⌠▓⌠≥║╖╖╕╓ё╔╔╔╒╔╔ёё╕╗╖╕╓╒═·°≥≈≈▓▓∙≈≤√░┴┤┘└└└┘├┬┬┴├└┤┼┬┼┼┼▀▄▌▒⌠≈≈≤ °·ё╗╞╢╤╦╪╬╫╬ацдедцдеефгилмммоппппярссррррсссрррстттсрстужжвьвььыыззшэщчччщщщччщщээээщэшшшшшзззшшшшшшээээшшшшззззыььввуряппонйифдбю╬╪╧╥Ё╠╠╠╠╠╟╝╜╜╛╘╗╘╙╘╗╙╘╕╓ёё╒║÷·°⌡⌡≤≈√∙∙≈ ²║╓╕╕╔╒· √■⌠∙≈≈≤≤≥≥ ²═╒ёё╕╗╙╛╛╚╘╖╗╕╔ё╒═²°≥√≈≈■▒▄├|{wpidbccbaacfjlihghiihfffgiiiijknppqrnjljjmnlmoprrppsutoqrqrtvvwuttrpprrrrsssrrux{}~~|~|{|}||}~─│││┌└├┤┴┼┼▀▄█▄▌█▐■√∙∙≤°÷║══║║║╕╕╕╔╒║║║║╓╕╕╕╕╔ё╔╔╖╗╙╙╘╗╙╚╛╚╘╘╙╛╜╛╝Ё╣╣╥╨╪╫╫╪╪╩╧╤╢╥╩©абаацегххйлоуьшччщэшшзззшэээзщчщэшьтжуууууттстттссстттссссряяярррррряррсссррррррррррсссстужввышшзььььжжвьвжвжььььььжтспммннлммммлллллкккллкйккккллллммммммллмллллмуyyумллкйккккклкйиййййййййиийййкклкклллммммнноонммоопоннояяппппооопппоооооооппппяряппппппоппяссррсстуусссттттттуууттуууууутуууттууутсстужжууттуутссттууттстсстужжужуувььышэщщэшзыыьввьызывьжвжроиа╫╥╢Ё╡╠╠╞╛╚╘╗╘╗╕╓╕╖╘╛╝╝╛╙╕╖╖╖╖╖╓÷║║═·÷║═·≥≥  ≥≤≥°·²°⌡≥≈∙⌠▓▓▒▒░▐▌▌⌠▓▒░▌▀┼▄┴┴├┐┐┘┤┬└┌│─│┌~}zwusqommonjgeeedbadfeb__bb__^^_`accaejkommmlihhggdchmmjkihhhhgeedcba`^\\]]^_aceeffdfkmkgjkjijjimmmkijmpty{|┌┘┘├█⌠⌠░▌▐∙÷╖╖╔ё╒ё╓ё╒╔╕╓╓╖╗╖╕╔ё║═·°⌡ ∙∙≤ ⌡≤▒┼├┐└┘┘┘┘┐┘┤┘┐├┼┬┴┴┴┼▀▌▒■ ≥≥ °·ё╘╠╣╥╧©а©©бцддццдееефикммлопяяяярсрряярсссрррстутстужжжжвьввьыызшшэщчччщщщчщщэээээщэшшээшзззшшшшшшшшшшшшшшззззыььвжсяоппомлйгеца©╬╬╧╢╡╡Ё╡╠╡╟╞╞╜╙╘╙╙╘╙╚╚╗╕╔╕╔╓╒═÷²²  ≤≈≈≤⌡²⌡÷ё╓ё║²≤√⌠▒⌠∙≈≤ °°°²÷═║║╓╔╗╙╚╚╘╗╗╖╔ё║÷²°°≥≥≥√⌠▌┤┌yrlhfeedccehlnihhikkigdehkjggifmrqmkjhjhilliikmpqpqssqrttttvwxxwwxxuttsttttttuvy|~│┐┐│┐}}~~│~───┌┘┤┴┴┬├├┴▀▀█▄█▒⌠⌠∙≥║═÷²·══÷╕╖╖╕ё╒╒ё÷═║║╒╓╕╕╓╓╔╖╘╘╖╔╚╚╙╘╘╙╚╛╟╜╝╡╣╢╣╥╩╩╩╨╪╬╪╦╢╥╪юббаюбдгххилнувшччщэшзыызшээшзщчщэшьтужжутстустуттстттсссттсряяяяяярррряяяррссссссссссссстужввышшыьввьжувьвввжььььььжряомнпяоннммммллммммллллкккллллмллммллллмллллмуyzукллкйклкйййййиииккихилккклллллиийкллммммнноонннммноонооппонмояооооппппооояяпопопппяяпппяррряррттттуутсуутттттттттттттутужжутуутттуутужууутттттсрртуттуттуууууужжжувзшшщээшзыыыыыььызыывььжякеб╬╦╣╣Ё╡╟╛╛╚╘╗╖╕╕╔╗╛╝╜╛╛╚╗╘╘╙╙╙╘╔║║═÷÷··÷═°≤√≥⌡⌡ ⌡°°°⌡≥≈≈≤∙⌠▒▒▓▓▓▒░⌠∙▓▌▄▄▄┴┤┘└┘┤┤├┬└││┌│}{{wsqqrrqoonkhfffefdbdgfbbba^]^__c`\\]`fkmmkihhfdabbabddcefeddeedcbded`^^`_``_aeeffeehllkkjhghjihiihhimrw~~~┐┬┬├┼▌▌▄▄▐∙·╓╕╔║÷╒╔╔ё╕╕╔╕╔╓╖╘╔╔ё═÷÷° °·÷²≤▒▀├└┌┐└└┌│┌┐┐┐└├┬┴┴▀██▄▒≈ ⌡°°⌡°ё╙╢╣╦╩╫©©©абцдцбббцдегилоямопяряррпяяоояяпяяррсттууууужжжжвьыыыызшэээщъъчщщщээээщчщщэээшшшззшшшшшшшшшшшшзззшшыьььжжтяппоонмйгдца©╬╩╧╤╣╣╤╣╣╢╢Ё╡╟╝╛╚╛╚╙╚╛╚╘╖╖╖╕ё═·÷═·²⌡≥≥ ≥≈ °÷╒ё═°≤■▓▐▐▒∙≤≥⌡°··²²·÷║╓ёё╕╗╗╘╖╓║══· ≈ ≥≤≈∙⌠░▌├─|xpkhegggghjkjbgjhnpijkklljgfgjnqplhdbdegihfgjkmoqponnuvxxvtvy{uu}│{wywxxwvvvuxz|}~│┐┘└┌}││}│┐┐┌┐┐┌┤├┘┐┐┘┴▄┬┴▀▄█▒∙≥·÷÷÷═╒║══╒╓╔╓╒║═÷÷═══║ё╓╕╔╓╖╚╛╘╕╙╘╘╙╚╛╚╙╜╜╜╞╡╢╣╢╥╨╪╫╫╬╬╫╦╧╪юаююбфгггфгймржшщчъчщшшзызшшзэччщэшыжьввжутсрссссстттссстссрряярррряпрсстттссссряррсрттуутуужызшшзыььжжжжжжжжувььыыьурпнмнннлнмнолмнмллллллллккккккккмммммлкклккллмуyyткллкклкййййййииийкйиикккклллллийкклмммммнннннннммноонноопоннопооооооппоооппоопопппяяпппяррррссттттуутсттууууттуутттттттужууттуутуууттжтттттттттссууттжтттуууууууутжышшщщэшззыызыыыззшзьььупйда╬╥╢╢╡╠╞╛╛╛╚╘╖╕╖╖╗╛╞╞╞╝╛╙╗╙╚╛╜╚╕╒÷÷═÷÷···² ≥≥ ≥≥≥≥≥≥≤√∙∙∙√∙■■■■⌠▒▐▓■▓▐▌██▀┴┤├┤┬┬┤┬├┐│┌┐─zwtqoopqqpqplhffecdbbeiieccb_^_aac_[Z\_cgkjhfffeb``^]]^^\\^_`accaba`aa__a`^^^]`deffffgjkjigefgiiihhhhjouz─│││┐┘├┘┬┼┴┬▀▌⌠≥═╓╔╒═╒ё╒╒╔╕╔╕╔╓╕╖╔╕╕╓ё╒··÷═· ■▐▄┘┘└┘├┘│~─┌┐└├┬┴▀┴┼▄█▄▐⌠≥ ⌡⌡⌡²ё╙Ё╢╥╨╫©юаабццббббцдегилоямнпяяяяряряоояряяяррстттууужжжвввьыыыззшшшэщчъчщчщщээээщщщэшшшшшззшшшшшшшэээшшшзыззыыыьвжтрпппполйфдцбю╬╩╧╤╣╣╤╣╣╣╤╤╣╢╠╝╜╚╙╙╚╚╙╗╕╔╔╓║·°²²·²⌡≥≤≥≥≤≤≥⌡·═· ≈√■▒░▒⌠∙√≥⌡²²°⌡°²²═÷÷ё╕╕╖╓╒÷²²⌡≥√≤≤≤≤≈√⌠▒┼└─}vrolnoonnonlfhjinrnqsqpomjhhmnnmhdbbccefedehiklmllllrtwxvtux{xy│|yzwxxwwxwuwz|}}~─├└│~~││─┌┐┐┐┐─}│┌└└┘├┬┴┴┴┴┼█▒∙≈ °···═╒ё╒╒ёёё╒═÷·÷════╒╓╔╓╔╖╙╚╙╘╘╘╘╘╙╚╜╝╛╛╜╝╠Ё╢╢╦╩╬©©юю©╫╪╬юююацфгггфхймржшщчъчщшшзызшшзэщчччщзввжжуутссссстттттррссссррррррряяяррррррсстсррсссссттууужвызшшзьььжжжжжжввжвььыывтяонмнонммлннллнлллллллллллллллллмммммлкклккллмуyyткллкклйййййййийииййиикййккклллйкклллммммммнноонммноннноооооннноооооооопооппонооппппппппярсссттттттуутсстуужутсуттттттттуууттттутууустутттттттттттууттуттуужжууууттжзэшщщэшззыыыыьызшшшььвтнхцю╬╦╢Ё╠╟╞╜╛╛╛╙╗╖╗╙╚╛╝╟╞╝╜╜╙╚╚╚╚╙╕╒÷══║║÷·²²²° ≤≤≈√≈≈≈√∙■■■√√√√√∙⌠▒▐▒▓▒░▐█▄▀┴├┘├┤┤┤┬┬└│┐├│yusqonnoppsqkggfdba`aejjfcdb_^`abc^ZZ\^`bihfddeda`^\[\][YWXZ\`ba^^]]^^^_`_]^^]`deeghggijjifdegghjghijmqw{─┌┐┌──│└┘┌┐┬▄▌▒≈°═══║║÷║╓╔╔╔╓╒╓╓╓╕╗╖╕╔║║║═°√▒█▀┤┤┤┤├└┌─││┌└├┬┴┼▀┴┴▄██▌▒≈≈≤ ⌡·ё╘╠Ё╤╧╪©абббббааббцдегилоямнооппяряряппяряяяярсстттуужжввььыызззшшшшэщчччщъчщщэээщщщэшзшшшзшшшшшшшэээээшшзыззыызыьжтряяяпокифдцбю╬╩╧╥╣╣╤╣╣╢╣╤╤╢╠╝╛╙╙╙╚╚╙╖╔ёё╒÷°≥≤≥°°⌡≤≈≈≤≤∙∙≈≥⌡⌡≤∙≤√■▓▓⌠∙∙≈≥°° ≥≥ ≥ ≥ ÷ёёёё║·°⌡ ≥≤≥≥≥≥≥≤∙■░┼├┌|xurqssrrqpnmklkptsyxurpmigflkkjfa`bcbcddcdghijjjjjjmosutqrtzy{~~zyzwxxxyyxuwx{{{zzz│┌││┌┌┐┐│─│─~{~─┐└└┘├┤┴┬┬┼▌▓■∙∙≥⌡  ²═╒ё╒║║╒╒║═·═║║══╒╓ё╓╔╖╗╙╚╚╗╘╙╙╙╚╜╞╛╛╛╜╞╠╡Ё╥╨╫╬©юю©баааююбдфггггхкмяузэчъчэшшзызшшзышэщщэыжууууттттттттттттрррррррсрррряярррряяярсстсррстттсстуужвьыыззыьввууужжжвввьыьыьжспоммноонмлмнккмлккллллллллллллллмммммлкклкллллуyxтккккйкиииийййййххйкйййиийййкккккклллллнммммноонммноннноооооонмоооооооопооппоноппппппппярсссссттсттуутссттууутттттттттттттттссстттутстутттттттутссстсттуужжжжжжуууувшщщщэззыыыььввьызшзььжрлфб©ю╧╣Ё╠╟╟╝╛╛╛╚╙╙╚╜╟╝╜╝╝╛╛╝╜╚╗╔╓╔╔ё═║║╒╒║÷·⌡·· ≤≤≈■√√√√∙∙∙■√∙∙√√■▓▒▒▒▒▐▌█▀┼┼┤┘┘┘┘├├┘└┌│└┘xutrommmnnrqjggfb```bgjieccc`__`_`][[\]_agfdccdca_^\\]^]\ZZY[_cb_[[\]^^]\_^``_adddfgggijjlgefgfgjijkmorw{~┌└┌}zz|│┌│┌┤┬┤┬▀▒√ °·÷·═╓╔╓╓╒═╒ё╒╕╗╗╖╕╒║═· ∙░█▄▄┼┬├┘└└└┘└┐└┤┴┴┴┼┴┼█▌▐░⌠■■√≤⌡·ё╘╠Ё╤╧╩╬юбббааюабцбдегилнпмнооопрсрряяяярряяяррсстттужввьььыызыззшшээщчччщъччщщщщщчщэшззшшзшшшшшшшээээшшшзыззыыззьусяпппонйхедцбю╬╪╨╥╤╣╣╣╣╡Ё╢╢╡╟╜╛╚╚╚╛╚╙╖╓ё╒║·≥√■⌠√≤≥≈■■■■▓⌠■∙√∙∙■∙■⌠▓▓⌠■∙∙≤⌡⌡≥≈≈≤√≈∙√°÷÷║═·° ≥≥  °⌡⌡ ≥≈√∙∙░█┤ywurstssssqsoqqsusyvtqnkgfgjijkhcbdedddddfhhijkkkkkkmqrqoprxz||zwwxwxxxzzxttuwxwuvwwz}─┌┐┘┐||}}|~─┌┌│┌┐┘└├┴█▒■■■⌠√√∙∙≤⌡°║═══║ё╓╔║╒╒ёёёё╓╓ё╓╔╖╘╘╙╖╘╚╛╛╚╚╚╛╚╚╛╜╞╠╡╥╨╫╬©юаюедццббцдффгггиклосьшщчщэшшзззшшыьзэщщэыуууууттттууттттттссрррррсссряярррсррррссстсрсттуустууужвьыыззыььвуужжжжжжвьыьььжсонммноннмлмнккмлкккклллллллллллллммммлккккллллуyyулккййиииииийййиххйкйййииййккклйкккллккнммммннонммноннннноооонмоооооооояпоппооппппппппоярссрррсссттуутсутттттуусстттуууутттсссссрсттттжтттууууутттсссттуууужуууууууьшщщщэзыыыыььввьызшшввупйдаюю╨╣╢╠╟╟╞╛╚╙╚╜╞╞╞Ё╟╞╟╝╚╙╛╛╘╔║═╒╓╓║║══║║║═ ··⌡≥≤≈∙√√√≈≈√√∙∙∙■■■■⌠▓⌠▓░▌█▄┼┼▀┬├┘└┐┌┐─||│└│{wtsqomllmmqpieed__`aeikiedeeca`^]]\\]\]_bddca`aa`^\Z[\]]\`]ZZ^cca^^^^^^\Z_^`b`acabccdgiigkhefffhkjkmopswy|─┐┌|wvy┐┘├┤┘┐┐└┬▌⌠≈ ²·║╓╔╓╓║÷═╓ё╔╖╕╖╕ё·° ≈∙▓░▌▌▄┼┤├┘┘┘┤└┌┐┘┬┴┴┼▄▌░░▐▓∙■■∙≤⌡÷╔╙╡╢╥╧╩╫©абаюююабцбдфхилнонооппярсряяяяяяряяяррсссстужввььььыыыыззээщщччччщщщщщщчччщэшшшшшззззззззээшшшшзззшшзызыьусяпяпонигедцбю╬╪╩╦╥╤╣╣╣╢╢╢Ё╡╠╞╞╚╚╛╛╚╘╕╓╓ё║²≤⌠░▌▌▓■⌠▒░▐▐▐▒⌠▓▒░▓■░▒▒▒░░▓⌠∙≈≥≥≤√√√⌠⌠▓■ ²·═²⌡≤√√≈≥ ²°⌡≥≈≈≈≈≤∙▓█┌{zzvwvuvwxwvrvwutprponmkiknkkkljffhgedefghihikmnnmlmnpqonpswy{zwuuvuvvvxyvrqqrsrqsuqtwy{}─└┘┐─}{{|}{~─│──│┐└▀░⌠⌠⌠▓⌠⌠▓▓⌠√≈≈·÷÷÷÷║╓╖╓ё╒╒╓╔╓ё╖╔ё╓╖╘╗╗╖╗╘╙╛╛╚╙╛╚╚╛╛╝╟╡╥╨╪╬©аббеффеддццеффгхийкнсьэчъчэшшшззшшышэччъчзжжжууттссууутттттутсрррррссрррррсярсстсрртсррсттттуууужвьззззыыьввжжжжжжужьььььжснммммнннмлннллмлккккллллллллллллллмммлккккллкктyyулйййиххиииииийххийкиийккккллллййккккккмммммннноммооннннноооооооооооооояпоппоопппппппооярссряярссстууттуутсстужттттуууууттссссрррсттттжууууууууууутстутттттттттттттвшщщчэзызззыыььызшшшввуохцююю╧╣Ё╟╞╟╝╛╚╚╜╟╡╡╠╢╡╡╠╞╛╗╖╗╖╔╒║ё╓ё║÷··═║║║°·÷·⌡≥≈∙√√√≈≈≈√∙∙■⌠⌠⌠⌠■■⌠▒▐▌█▀┼┼┼┤┘└│}{|zvw}─{vuponllllllooidca]_`cgkligfhgeb`^\[\]]\\^babb_\\]^][ZZ[[[\`]ZY]acaaa_]]^][]\_a_`b``aabegfceeddehjljlnpqsvxx{~}xttv~┘┴┼┴┘┌┐┐├▀▌▓∙≥⌡║╓╓ёё║÷║╓ё╔╕╔╔╔╒° ≈∙∙⌠▒▐▄▀┼┴┬┤┘┐└┌│┌┘┤┴┴▀▌▓▓░░▒■∙∙≈≥⌡÷╕╜Ё╣╧╩╪╫©юбаююаббббдфхйкмннопяяярсряппппяряяррссстстужвьььььыыыыызэщщщщщччшшшэээщщщщээшшшшшшззззззшшшшзшшшшээзззыьжусряяпнигедцбю©╫╪╨╦╤╤╤╤╣╣Ё╡╠╠╠╠╜╜╛╚╙╖╔ё╓╓║·≤▓▌▀┬▀▌▌█▄▀┼█▐░▐██▐▒▐░▒▒░▐░▒⌠■∙√√∙■⌠▐░▐▒≈ °═° ≈∙∙≈≤≥⌡ ≥≤≈≤≥ ≥≈√▒┤─{zxwy{{yvtz{vtnliiijjknrnnljiijkhfeghiijijloppnmmnoommptuvvvsqqrttuuuvtqonoppnptrrstuw}┌│││─|{{x|─┌│─│┐─└▀▐░░▐▐▒▒░░▓∙≈√ °··²²║╓╔ё╒╒ё╓╓ё╘╕╓╔╖╗╗╕╗╖╕╖╙╛╜╜╛╛╛╛╜╝╟╠╣╦╨╩╫юббдгихгфдцдефгхийкнсыэъЮъщшшшззшзышэщчъчзжжжуутттсутттттттттссррррсссрррррпярстсрятсррсттттужжжжвьззыыыыьвввввжжуужвьвввурннммммммнлннллнмккллллллкккккккклллммлккклллкктyxулййййххиииихийгхикйиикккккклллййкклллллмммнннноммоонмнноооннопнннооопппооппоояппппппоояррсррррссстууттуутттттууууууууужусссссрррсттстжууууууууужусстуттттттттттутувшщщчэзызззыыььызшшшььунгб©©ю╨╤╢╠╟╟╞╜╜╝╟Ё╢╢Ё╢╢╠╝╛╙╖╔╖╖╕╓ёёё╒÷·²·═╒╒╒═══║· √∙√∙√√≈≈√∙⌠⌠▓▓▓⌠■∙▓░▐▐▄┬┤┤├┐┌┌~yvwvttxywtsomkkklkjkllieb`_`acfhhgfggfc`^]\\[[[ZZ[^_bb^YXZ\\[[[ZYZ]_^\[]``^``^]]^]Z[[]_^`bbbcccdec`acccejlllnpqqqstvwxxurtw}┘┼┼┴┘┌┘└├┴▄▌░■≈÷╒╒║║═÷║╒║ё╔╓ёё═ ≤∙⌠▒░▐▐┼┴┬┬┴┤└┌┌┌┌└├┴┼┼▄▌▒▒▒░▒▓∙√≤≥⌡÷╖╝Ё╤╨╪╫╬©юбаюаббббцдфхйклмопяяяяяряпоппопяррррсссттужвьььььыыыыыззэщщщщщччшшшэээээщщщщээшшэшшшззшшшшшшшшшэшээзззыьвусрряонйхфедца©╬╫╩╦╥╤╤╤╣╢╡╠╟╟╠╠╟╞╝╛╙╗╔╓╓ё║·≥▓█┴└┤┴┴┬┬┬┤███▄▀▀▄█▄▐▒▒▐▌▌░▓▒▒▓⌠⌠▓░█▌█▐⌠■≈²· √∙∙≈≈≈≤≥≥≥≤≥ ⌡ ≈∙▓┼└┌─}{yy|}zwv~~xwqlgedfhjkllmliikmligfhkkklllmopqonmmoonnrwvtstspoptuvututrooprqopssrsssuy~|{|│|{{┌┐┌┌┐┘┤┬┼▀▄▄██▌░░░▒■∙√≈≥⌡°°²═╒╔╔╓ё╒╒╓╔╗╖╕╔╕╕╕╕╖╖╕╕╗╚╜╞╛╜╜╝╝╝╟╠Ё╣╥╦╨╬абеикйихебддефхиййнсьэъЮъщшшшззшзьшшээччшжууууууууттттттттсссссрррссссссрряррсссрртсррсттттуужжвьызыыыыыьввввввжжжжвьввжсяоонннмммнлннллнмллллллллкккккккккллмллккклллкктywткййкйихийиххиифхйкйхикййййййккйкклллллллмннннмоммоонмннопоннпрмннооппппоноооояпппппооояярсррссссстуууттуууутттжжжуутттжуссстсрсрсттссуууууттттуууррстсууууууутууууьэччщшыьызыьььвьызззыыунфа©©а╩╦╤╡╠╠╟╜╞╠Ё╢╣╣╣╤╢╞╘╕╖╖╔╘╙╗╔╒╒║═÷·²÷╒╓╓ёё║╒ё═ √∙√√√√≈≈√■▒▒▒▓▓⌠■■▒░▐▐▀┘┌┌┐│││~yvwtttstutqpnkkkkjihijifdbbbbcdedcceec_\[[Z][YYYYYZ^bb^XWY\[ZZ[ZY[^__^^_`^Z[\]]^^[W[Z\]]`dedfgfdca__cdbeknlopqqpopqwvuutsvz{┌┤┬┤└┐├└┘┬┼▀█▒⌠°÷÷·÷··══÷║ё╒╒║²≤≈■░▄▀▄█▀┴├┘┤┤┘┐┌┐┘┤┴┼┼┼┼▄▌░▒▓▒▒∙√≤≥≥²╕╝Ё╤╩╫╬╬©юбаюабцббцдгхйклмнпяряяяяяооппооярррсссттужвьыыыыыыззыызшээщщээщчщщщщщщээщщщчщэшшээшшшшшшшшшшшэээзшшззззывусяяпнмкигфедбю╬╫╩╧╥╤╤╥╣╢Ё╡╡╠╠╠╡╡╟╝╚╘╖╕╓ё║·≥⌠█┴┐┘├├├┤┤┤█▄┼┴┼▀┼┴┬▀▌▌▄▀▄█░▌█▌▒▒░▌█▌██▐░▓≤²≥∙⌠■∙■⌠≈≤   ≥≥  ∙⌠▒▀┘│}}{yz┌─{xx│yzvpjebdghfefklijnnkjhgjlmmmonnopqponpqsrsv{zutvvsqrvwwvuuutrqsutppsrrtvvuwzwuv{──~}┌└┘└┌┐├┴▐█┼┬┴▀▀▄█▐▒░▐▒⌠■∙≈≥⌡·═║╒╔╖╖╔╒║╔╗╔╕╕╔╓╓╓╔╕╖╘╘╘╙╛╜╛╜╝╞╝╞╟╠Ё╣╤╥╧╬ацгйлкйхфццдефхииилявшчъчщшшшззшзьшшэщъъэьуууууужжттттттттяярссссрссстссррссссссстутссстттстужжвыззыььыьвжвввввввввььвжуроппоонммммлннллнлллллллллккккккккклллллккклмлкйтyvрййкйихгхииихггххииихххххиййиииййккллммкммлмномммммннннннооннномнопппооппппппяяооооооооярсрррсттттужутсттттуууттсстужуттсссттсррсттссссутстууутжжуттутрттууууууууужзчъщшзззззыывыыыышэшььтлебю╪ю╨╤╣╢╠╠Ё╠╢╤╥╣╣╤╥╢╞╙╗╗╖╖╖╔╖╔ёё║÷═║·²═╒║║╒╔╒÷··°≥≈■■√≥≥√■∙▓▓▓▒▓⌠⌠▒▓▐▌▌┼┐─│───}wuuttsrrssrqnlkjihffffefgfdeeeeb``baa`_]\\\Z[\[XWY[^dfa[YYYXVW[][ZZ]aca^]^_\YUUX[[YZ[[\^bfhjmjca`_`acedeilnrsssrpoosuutstuuv~┌┌└┘┐┐┤├├┤┴▀░∙⌡  ⌡°²²°⌡²÷÷══·⌡ ≤■░┼├┤┼┬├┘└┐├├┐└│└┴▀▄┼┤┴▀█▐░▓⌠∙▒⌠√≥⌡═╘╡╡╥╩╫╬©©©ююаааааадегийклмнпряоооонппояпноорсяясуутужвььььввььыззшэщчщщчщээщччщэшшщщщэшшэщшшээшшшэшээшшщщшэшзшшыызывсяяпомйхгффда©╬╪╨╦╥╥╤╤╤╤╢╢Ё╡╠╟╟╡╡╝╙╘╘╗╓╔ё°≈⌠█┤├┘├├┐│└┴┴▀▄┼┬┬┤├┤┼█▄┼┴▀████▀▀██▄█▌▄▀█▌░√·⌡√∙≤≈∙√∙≥°⌡≥≥   ∙⌠░┴┬├}||~│┐│}yy}─|yvsqjeeeggdgffilmkihffijknqqsttrpppqsuvvwz|yvuvxwutvwvuvxxvwuutqoqtwxwvvxxvqsvzzz{}││┌││├█▌█▄▀┬┬┼▄█▐▌▐░░▐░⌠■√≥ ⌡²÷╒╒ё╔╔╔╓╓╔ё╔╗╗╕╔╓╔╖╕╕╗╙╛╚╙╖╙╜╜╝╡ЁЁЁ╢╥╨╩╩╬цфиллйхгффффхиииккпвшчЮъщээшшзззыышэщчъэыужвжутуууттттсстттсссссссстсрррсряяясттссссрсстутужжужвыззззьввввжжуужвьувввжжсонллннллнннммллккмлккллкимккккййкллллллкклккккктxvрйййихггхххххггххххххххиииккйийккллллкклммллммкммммннноннооннноноопппоооооооппппппппооопяррссссттттуутсттстууутттсстуууутссссрррсттссстутттууутужуттутстттуууууттстьэщэззыыззыьвьыьышшшьвсйда©╪ю╩╥╢Ё╠╡Ё╣╥╧╧╦╥╥╦╡╜╘╖╖╕╖╖╗╘╕ёё╒═╒╔╓ёё╒║║╒╒═·²°°⌡ ≤≈≈≤≈■⌠▓▒▒░▐▒⌠▓░▒▌█▄┴└│┌│~}|yutvvusqrssqljhggfeccdeefhihgedca`ac`__^][ZYY\^^\ZYZ\bea\ZZYYXWYZZZZ[_bba`_]ZXVUVWYYZZZ\`dikmnh`^^^_bdeegknoqrsrqpoopsutsrssu{│┐┐│┐┘└└┘├┬▄░√√√≈≤≥⌡⌡°²·²··²⌡≥≈■▒▄┬┤┬┬├├├┘┬┴┘├┐┘┼┼┼┴├┤┴▄▌░▒■∙■√≤ °═╘╟╡╥╫©©©©╬©ююаабббдегхйклмопяпоноппряпряопоясряртутужвььььвввьыызшшэщэщччщэщччщэээщщщээшэщшэээшшшэшээшзэшзшззшшззшыжтряпнмйхгффецбю╬╩╧╦╥╤╣╥╤╣╢╢Ё╡╠╡╡╟╝╛╛╙╖╓╔╒°√⌠█┤├┘├┘┌┌┤┴▀▀┴┤├┘└┘┤┼▀┴┬┬┴▀██▀┼┼┼┴▀▀┴┴▄▄▌⌠°°≥√√∙⌠■∙≤ ≥≤≥⌡°⌡≈∙▓▄▀┴┐─││┌┌│─~─││~{ywuqligefgegffgiihfgfgjlmnpmoqpnlmosuwxwwxyvtsstttvuutsvyzzwuuuttvyzzzyxxvsqruxzz{}~}~─┌┤▄▀▀█▄┴├┤┬┴▌▌▌▐▌█▌░⌠∙≈≤ ⌡·══╒╓╔╕╕╖╗ё╔╖╖╕╔╔╔╗╗╗╙╚╚╙╗╗╙╛╜╝╠ЁЁ╣╣╤╦╧╨╫юфиллкйихгффгххийкпуыщъъщээшшззыыышэщчъщзужжжутуутстууссттссрррррссссрррсррррстттссссстттстуужвызыыыььвжжжжжжжжжжжыыьусяннммннммннннммлллккллкйййкййккйклкккккккйлккйкктxwрйиихгфггггггггххххххххиииккйийккллллкклллккллкллммннноннооннноооооооооооонооопппппппооопярстсстсссттссутсстууутттссстууутссрряссссссттутттуууууууттуустттуууужуутуьэщэзыыыыыьввьььышшзьжяхбю╬╪©╫╦Ё╠Ё╢╢╧╨╩╩╨╦╥╤╟╛╗╖╖╕╖╗╚╚╖╓╓ёё╔╕╗╖╓═÷÷÷²²²°⌡⌡°²°≥≈≈√⌠▒░▒░▐▐▒■▓░██▄┼┤└┐┐─|ywursvxvrqrsroigfefecbacddfhjkifbaa`ab`_^^]\ZXZ]__][Z[[ada\ZZYYYWVWZ\\\`ceec_[YXWUTTVYYY[^bgjlonf]\]^`ccdehlnoopqqpommmprqpqrsvz}─┐┌│└└└└┘┘├┴▄░▒▓⌠⌠∙≤ ⌡⌡⌡  ⌡⌡≥≤≈∙⌠░▀┬┤┴┤┬┴┬▀▄┴┤└├┴┬┤┤┘┘┬▀█▐▒■√√≈≥⌡·ё╙╟Ё╧╬юю©©╬©ююаббцццегхиклмооппннопясяяряпяпяррррсууужввьвввввььызззэээщччщщщччщэээщччщэээщшэээшзшшшшшззшзззыышшзшэьжтсрпнлйхфеффедю╬╪╨╧╦╥╤╥╤╤╣╣╣╢Ё╢╡╟╝╞╞╚╖╔╔║⌡√⌠█┬┘└└┐{~└┬┴┴┤┘└┌│┐┘┤┴┬┤├├┬▀█▄┴┬┬┬┴┴┬┴▄▄█░≈°⌡≈∙■▓⌠⌠√≤≈√≤≥  ≤√⌠█▄▀┤┤├┘┌│─┌┐└┐│}{zxvronkffhgeeffffeeffhlnnmmkmonlkmptvxxvutssqppopsvvuttw{||xwwwxy{}{|}|{yurpqtwyz{}{z}│┘▀█┴┼█▌┼┘└┘├▄▄▄█▄▄▄▌░▓■√≈ °÷·═╒╓╕╖╗╘╓╔╔╔╔╔╕╕╖╖╗╙╛╚╗╕╘╙╚╜╝╞╠Ё╤╤╤╣╥╩©юфхйкклкйигггггхйкотьэъъчэшшззыыыышэщчъщзужжууттусрсуутссттссрррррсссрррррсссррстрсстттттстужжвызшзыыыыьвжввввжуужызьтяоонммннммнммммммллйкллйийккййкккклккййййййкййййктxvрииихггххггггггххххихххиххййихиййклллллййккллммлмммннннмноонннноооннооооннннооопппппооопппрттсртсррссссутсрстуутттсрртжттссрряясссссттууттуууууууутужуттттууужжжжууыщчэзыыыыыьввьььышшзьуофа©╬╫╬╬╧Ё╡╤╦╤╩╩╨╨╧╥╢╡╞╛╘╗╖╕╕╗╙╙╖╓╔╓╓╕╔╖╔║²°⌡≥≥⌡²²°⌡°·² ≈∙∙■⌠▒⌠▓▒▒⌠∙▓▌┴▀▀┬┘└┌│{wvsqsvxurqstplhgffgfecddddfijjiebabaabba____]Z]]]\[Z[\[`ca]ZYYZZXUV[^_`cefec`\[[YWTTVWX[_begijmmf__abcdccehklljlopomljkllklpsuvxz~┌─┌┐└┘├├┤┼▄█▐▓⌠▓⌠∙≤≤≤≤≈≤≥≥≈≤≈√√■▐▀┬┴┴┼▄▀▌▐▀┤└├┬├├├┘┘┤┼█▌░⌠∙∙∙≤°═╔╛╠╣╨©ю©©©©©юаабццццдфхиклнооооннояяряпяяояяпяссярууужвввввввььыызшзээээччщщчччщщэщщчччщэээээээшззшззззззззшззшшшшэывутсянлйигфффед©╫╩╨╧╧╦╦╦╥╤╤╤╤╣╣╣Ё╠╟╠╟╜╙╖╕║°≈⌠▌┴└└└┐~{~┐┤┤├┘┐│──┌┐└├┬┬┤├├┼█▄┬├┤┴┼┼┴┼▌▌▌░■  ∙■∙∙∙▓■√√∙■∙∙√√■░▀┴┬┬▀┴├┌─│┐┘└┌─~~}zwvsrnighgcdeeddefefimpomkjlnnllnqssttsrppqonnnnqtvvuuvxyxzzz{|}}}||}}|yvspptxzzzz{{│├┼▌█┬┴▄█┼├┘├┤┼┼┼▀▄▄██▌░▒⌠∙≤⌡²²÷║ё╔╖╗╗╕╕╔╔╔╕╕╕╔╕╖╘╙╙╗╕╘╘╚╞╟╝╞╡╢╥╥╤╦╫абегхикммлкиххгфгикнсьщъъчээшшззыызшээчъщшжжууттттсрстусстууттссссрррсрррррсссрярсрсстттттуужжввььшыььззьвввжжжжжжувывсяоонммннммнллллллллккллкйййккййййййкййййййййййййктxvяихиххгххггггггхххииииииххийххиййккллллййккллмммммннммммноонннноннннннноооооооппппоооооппярттрятсррссссутррсттттттсрртжррррряяярррссттуттууууууууутужжутттууууууттуьэщшзззззыьввььызэшзьтмею©╬╬╫╬╩╣╢╧╩╨╪╨╧╦╤╢╠╝╝╛╙╗╕╓╓╕╕╖╔ё╓╓ё╓╓╓╒·°°≥√≤⌡·÷²⌡⌡°² ≈∙√√√■∙■⌠⌠∙■░┼├┴┼┴├┐┌─}zxwurruvtrqstoiigffggedffeegjjhhebcdcbaca__``^]\\\[[[[[[_ba^[[[\\YUUZ^_bdecaaaa`^ZXVUUUW]cggfghmnkffgfeeddfikjigjnpomjhggghkqtuuvw{}{~│┐┘├├┬┼▄▄░■∙■⌠■√∙√≈≤≥ ≥≈≤≈≈≤≈⌠▌▀┼┼█▌▌░░█┬┘├┬┘┘┘└┘┤┼▄█▐▓∙■∙≈°║╖╝Ё╤╨╫╬╬©ю©юаабббббцдфхиклнонноонояпрппяпояряяттрсутужжвввжььььызшшшэщээщщэщчччщщщщщчччщэээшэээшззшзззшшшшээшшээшшшыьжутромйиххгфдб╬╫╩╨╨╧╧╦╧╦╥╥╥╥╥╤╣╢ЁЁЁ╠╞╝╙╗ё· ∙░▄┘└└┐─}└└└└┐│───││┌└├┤┬┬├┼▄▀├└┘┬▄▄┼▄░░▐▒∙ ≤⌠■√√√⌠∙≈≤√⌠▓▒⌠■⌠▐▀├┘├▀┴├└└├┤┬├┐─~~|{zvtqljjgddedccefdfjmpomjijlkjjmopoooopooqonnoooputuuuttt{|}~─}|{{zxvustvyzxvv{~├▀▄▌█┬┬┴┬┤├┬┴┴┼┼▀▀▄████▌░▒⌠√≥ °·═ё╔╖╗╘╗╗╖╕╕╕╕╔╕╖╖╗╗╘╗╖╘╘╛╟╠╝╝╟╠╤╨╧╧╪ацдегхйммлмкйихфгйкмсычЮъчэээшшззззшшэчъчшжжуттттттсрссссууттсссссрррсссррррсряярсрсттттттуужжвьььзьжвььвувжжуужвьвввжспонмннммннмллллллллллккллкйккййййййкйййййккййййклуyuяххххххххххгггггхххииииихиййиийккккккййлккллкклмммннммлмнооннмнннннннннооооооппоооооооопяярссрятсссттсстсррсттттттссстурррряяяррррсттттттутттууужутужжттууууууутттжыщщшззззззьвьььышээывскдю╬©©╪╬╫╦╦╩╫╪╪╩╦╤╢╡╞╜╚╙╘╖╓╒╒ё╒╓ё╒ё╒═╒ё╒═·²² ≤≥⌡·÷·°  ⌡ ≤≈≤≥≥≤√√∙■■▓█┤┘┬┼┼┤┐││}{zzwsrstsqprsnihgeeeedcffffhjjhfdcefeccba____^]Z[\]]][Z[_bb`^_`_^[XWY\]cdc`^`cdc_[XWWUTX]cghhijqtrnmkgeedehkjhfgilnljgeabehlqttvwx{~|}~│┐└┘┤┴┼▄░∙≈√∙∙√∙≈≥ ⌡⌡ ≈√√√≤≈■░▐▄█░▒░░░▄┼├├┬┘└└┌└┤▀▄█▌▓∙√≈≥²║╖╝╢╥╨╪╫╬юаююаабббббцдфгийлноммоонояпряяряояяярсссстттужжжжжьььыызшшэщщээщщэччччщэщщэщччщээшшшэшшззшзззшшшшэщээээззшыьжууспнкйиххфда©╬╪╩╨╧╦╥╧╦╥╥╥╥╥╥╣╣╣╤╢╡╠╡╜╙╕╒· ∙▒┤┘┐┐─}┌┌┌││──│─││┐┘├┤┬┤┴▄┼┘│┐├██▀▄▐▐▐▓≈≥√▓⌠■■∙∙≈≥ ≤■▒░▓■⌠░█├┐┘┬┤┤┤┴▀▄▄┼┘─}}}}~|xusonliggfdbabccfjlnnmkiijjijklmkjkmoopqonoponotuwxvttv{}~─┌┌┌}zyxvuuwxz{yutu}─┬▀┼┼┼┤┘┘└└├┴┼┴▀▀▀▀▄██▀█▌▌░▓■≈≤ °·║╔╗╘╘╘╘╘╘╗╖╕╔╙╘╘╗╗╗╗╗╘╙╜╟╟╞╝╞╟╣╨╨╧╨╬ацеффхкммнмлкигхйкмрзъЮъчщэээшззззшшэчъчэвжутууууусрссстуссрррррсрррсссрррррряярсссттттттттужьызззьвввьвжвжутужьыыввусомлмннммннммммммммммлккллкихиииикккййккккккййййккуyuяхггггггггххггфгггхххххихиййиийккккйййилйкллкклллмнннмммноонммммнноооонооооооопооооппппопяррррсттттуутсссрсстссттсстууурссряяярррстуутссттттттууууттжутууууууутттувшчщшззззззьввььызэшыжяйцю╬©©╫╬╬╪╩╪╫╪╫╩╦╣╡╟╝╛╙╘╗╖╓║║ёё╔ё╒ё╒═║║═÷÷·°⌡⌡°°°²²° ≤ ⌡⌡  ⌡⌡ ≈≈√■▓░▄┤└┘┤┴├│─┐}{{|ysqrsqonpqnjigeddddceghggghgeddfgfeebbbba_]\[\]^__]\_addb`acb`^][[]`ddb``bded`\ZYXWVX[_chlprw{ysplgeccfjkhfdghiifda`]aehkosuwzz|│┌~┌└┐└├┬┬┼█▓∙√√√≈√≤≥ ⌡⌡≥≈⌠⌠⌠∙∙⌠▒▒▌▐▓⌠▒▒░▄┤┐┐┘┘└└│└┤▀▄█▐⌠≈≤≥⌡·╒╗╟╤╥╧╨╪юба©©юааббццдефгхйлмнллооннппрррсроппярярссрсстужжжжьььыызшшшщщэщччэщчччщээщшщччщэшшшшшшшзшшшззшшззшщшшэшззззьжутсяомкиххгдцю╬╫╪╩╨╧╦╧╦╥╥╥╥╥╥╣╣╣╥╤╢Ё╢╞╛╘╕╓═⌡≤█┴├┘┐─│┌│─│──┌│┌┐└┘┘├├├┬▀▀┤┐└┤▌▌▄▀██▌⌠≈≤∙▒▒░░⌠∙√≤ ≤■▒▒░⌠⌠▒▐┤│└┘├┬┴┼▀▄▄┴└}|{|~zwvuqpolkjgdbaabbfikklmljiiijjjijhghkmnnpooponnptvyzwuvz{}~}}─┐└│}zywvuvxyzzwuvy│├┤┘├┬┤└└┐└├┴┬├┬┼┼┼▄▌▌▄██▌▐░⌠∙√≥≥°÷ё╔╕╕╗╙╛╛╚╗╖╖╙╙╘╘╗╗╘╘╙╛╝╝╝╞╞╞╠╢╦╩╩╩╬бцефффилмнммлйггилмяьщъччщээшшзззшшшэчъъэвжутууууутсттссурррррррсрррсттсрссрррсссссстттууттувыззышзыьььввввжуужвьвввжрмлнмннммннмммммммммлкккккййхиихиклкийкклкйййййййктxvяхггффеффгххгфеффггххххиххииххииийййййййииклклнйклмннннлмнонммммнопппооооннооооооопппяяопярярсттттужутссррсттсстсстужутсттсряяяррстуусрстттсстутутстутсууууутттяртжзщэызззззыьжввььзэшьупицю╬©©╫╬©╬╪╪╪╪╪╩╦╢╠╝╜╛╘╘╗╖╓║║ё╕╖╔ё╓ё║╒÷·÷═·  ²·° ⌡°° ≤⌡°²⌡⌡°⌡ ≥≥√⌠▒▐▄┴┐┐└┤└─└}|||yspqrpnlnpoljheddedddhkiedefeddfggggceffda^\_^]^_``_cefecaacca`a`_adhfcbceedda^[ZYYYYYZ_gpvy{|uplhgabeijgdcggfda^]\\aeghmsxvz{|│┐─~┌┘├┘└├┬┬┤▀▐⌠∙√≈≤≈≤≥≥  ≤√▒░▒▓▓▒▒▓░▒■■▓▒░▀┌~┐└┘└┌┐┤┼▄█▐■≤≥ °÷ё╘╡╧╥╦╨╫адб©╬©юабцццдефгхйлммйкооммоояярсяоооярпясспрстужжжжььььызшшшэщщщччщщччщэээщшэщчщэшшзшшшшзшшэшзшшыызэшзшшзызыьуттсяпнлйххгед©╬╫╪╪╪╩╨╨╦╥╥╥╥╥╥╤╣╣╥╦╤╢╢╟╜╙╘╗╓═°√▒▄┼┬└┌┐┌│─│──┌│┐┘├├┘┘┘└┤▀█▀┤┤┼▐▐▄▀▄▄▌■∙√■▒░▌▌▓⌠⌠∙≈√▓░▒█▓▒░▐┤┌└├┬┬┤├┬┴└│~}|{{|xvwvrqqpmkhfdcccafiiikmmihghiihfhgfgjllknoppnmorsuxxurv{{}|zy}│┐─}zyxvvwwxyxvvz┌┌┐┐│└┬┤└└┘┘┤┬┤└┘┤┬┴▄░░▐███▌░▓⌠■≤≤ ²═╒╒╒╗╙╝╝╛╙╗╗╗╗╗╘╘╘╙╙╚╝╞╜╜╞╟╞╡Ё╤╩╫╫юецегффхкмнннмйггиммпвэчччэээшшззышшшэщъъщьжутуууууттуусстрррррсссрррсттсртсррсттсттссстуужжжвыыыьзыыьвжжвввжжжжжжужвжялмплннллннлмммлллллйкллйийкиййииййихикллкйийиииййсwwпгхееедггхиххгфгггфффффихггхииихййихйкййииклкклйкллккклммнноонноооооооооппппппяппппппоояппяррртутсррстуттттттсрттсссстттсррссрярстутттуттуутсттужжутттууууууууууувышэшзыззыьвьызывьшщшьынфб╬╫╬╬©бца©╬╪╨╩╧╥╢╠╝╚╘╚╘╖╕╖╖╔╓╓╔╔╓ё╓ё║║║÷²²··²²²°⌡²·°≥°  ⌡⌡ ≥≥≥√⌠▓▒▌┼┴└┌┐└┐┐┌─~{yxvqmonmlmonknkgefhhggghjhdceegihhiigccdggc^\_^^^^^acdhecfd___`bdeefhlhdccccdgc`__^]]]\^dlrvxwyytplhdaaeiidabhgda^]_``bfgipwwyyz~│┌┌┐┘└┐┐└├┤┬┬█▓√≤≥≥ √≤≤≤≥≥≤√⌠▐▐⌠■░█▐▀░▓▓▓▓▐┼└|─└┘└└┘┬┴┼▌░▓√≈⌡÷╒╖╜╢╧╦╩╫╬юба©╬©ююаабцддеггхйллмнннннонорсрппрссррряяястуужвввжввьызззээээччщэээээээээээщэшшэээшшззшэээшшшшшшшшшшзззззььыьжтряплкйгфеб╬╫╫╫╫╫╪╩╧╧╧╨╦╥╥╧╧╤╣╦╧╤Ё╠╜╛╘╖╕╓╒÷≤▒▄█▀┤┘┬├┐┌┐┌││┌││┌└├├┘└└├┴▄█▄▀┴▒▒▐▄▀█▐░░▒⌠▓▐▀▀█▒⌠√√■▓░░▒▒▓▒▀└─┐┘┘┐┐├┤┤└┌|{{zzwwusrqpplkihhhhhjjlopmjjhhhiigfffgggilmmkmnnopnlqruwvuwz}{||z|~~┐─│{wvtwyxxz}─│}│┐┘┤└└├┬┤└┌┐┌┘┤┤┴▌░▐┼█▐▌▌░▒▓⌠√≥⌡²═╒ё╕╚╜╚╙╛╛╙╘╗╗╘╘╖╗╙╛╝╝╛╝╠╡╟╡Ё╢╤╨©ббдеефгхйлмнонлииикмявэчъчээшззыыызшээщъъчыутжуужуусттрстсрррсттрпсяпрссрсррстттттстуусстжтужввьызщыжвьвжужуутужввжввтяооомннмкклнммллллллккккййййииииййййиийкккйййкйиккрwwогхффффгггххгггггггггггихггхиихиййихиййихиклллмклммлллмлммннннноооооооооппппопяпппооооопппррррссссссссттссттттстттсстттсряяррряярсссссттууутсттуууутттууууууттттужышээшызыьввьыыьвьшщшьвмфц©╫╬╫©бдбю╬╪╨╨╧╥╢╠╝╚╘╗╘╙╘╖╔╓ёё╔╕╓ё╒╒═══·°°²··÷·° °·÷·⌡ ⌡°°≥≈√√⌠▒▒░█┼┴┬└┐┐││┌|ywwurpoonmnonkokhghiihgfhkiedfdghhhigeaadgifcaca_^^^`cefbaee`__adfedgjlhdcbbdfgecbbcba``bglquxxxvsplgc``addb``edb`^]]^cdhikrxwyy{~──┌└└└┘├┬┼┼▄░∙≤≥≥≥≥≤≤≈≤ ⌡≤⌠▓▒▒▓▓░▌█┼█▌▌░▓▒█├─|└┘├┤▀▄▀┼█▐▒∙≤⌡═╔╙╞╣╧╧╩╬╬©ю©╬╫╬©юаабцддегххиклмнннннопппяпоясяяяррсссттужввжжжввьыззшшшшэщщээщщщщщщщщэщщэшшэщээшшшшшэшшшшшшшшэшшзззззььввжтряпмлкхгфбю©╬╫╫╫╫╪╨╧╨╨╧╥╦╧╦╤╤╦╧╥╢╡╞╛╘╖╕╔ё╒ ▒▀▄▄┴┤┬┤┘└└┘┐┐┐┐┐││┌└┘┘┤┬┴▀█▌▌▌░░▐█▌░▒░▌▌▐▐▌▄█▌▒▓⌠■⌠░▌▄▐▒⌠▒┼┌~~┐┘┘┐┌┐┐┌┌─~}{xwyutsqppoomlllllkjjkmoomllihhihfeefghhjmoollllmoponpsuuuwzzxxxwx{z──┌└┌|vstvwx{~││┌~~─┐┘┤└┌└┤├┐─┌┐└├┬▀██┼▌▒▒░░▓▓⌠≈ °²÷║╒╖╙╙╘╘╜╝╜╚╗╖╘╙╘╘╘╚╛╜╜╝╟╠╟╢╤╥╥╨╬ааццдегиклмоппнкййклпжшчъчщщэшзззззшээщъъчшутжужжттсттстжуссссссряряпрсррсссстттссстуусстутужввьызэыввввжвжуууужжвжвжспоонмннмллмннмллллллллккккййииииййййххиййиииийиикйрwvнфхффггффгггггггггггххххггхииххйккихииийийклкллкллммммммммнннннооооооооооппооппооооооооппярсррсррсстссстссстуутсттттттссряяярррярссссссуууутстттууттттууууутттсстжышэээззыьвввьььвьшщшьукецю╬╬╫©цфдю╫╩╨╨╦╤╢╠╝╚╗╕╘╚╙╕╓╓╔╓╕╖╔ё╒╒═·÷²⌡⌡²····²⌡°·══°⌡⌡°⌡≤■⌠▒░▌▌▄┼┴┴┼├└┐───}~{xvvvtrqqpppqpnplijkjijggikiedffhjjjigeedfijgcab`_^^_bfggcbfhec_adecacgkhdbaadghigeegfcbcfjmptwxussrmgd_^^_aa`_```_^^_`efiknuywxz}│└┤├┤┴▄▌▐░▐⌠≈ ⌡ ≥≤≥≈∙√ ⌡≈▒▐▓⌠▓▒▒▐▀▄▄▀▀▌▓▓▐├─{}─┐┘┤▌▐▄▀█▐▒√≤ ║╗╜╟╢╧╧╪╬╬╬╬╫╫╫╬©ююабцддегххийлмннооопяпопппяряяярсстттужжвжжувввьыззшэээщчччщччччщщщщщщщщэээщээшшшшшшшшшшшшшшээшшззззыьжжутрпяммлихгцбю©╫╫╫╫╫╩╩╩╪╩╧╦╧╥╤╤╧╨╧╤╢╟╜╘╕╕╔╓╓÷∙██▌█▀┼▀┴┬┴┼┴┤├┤├└┐┐└├┤┴┴┼▀█░▓■▓░▐▌▐▒░█▄┼┼▀▄▄█▐▒▒▓▓▒▌▀┴█░▓▌├}yy─┌┐┌││─~~}}zutvpppoonnnmmnoomkihjllkkllihhhgedeegijjmopkkkjlnonmoruvwy|zwwwvx{z~┌┘└┌~yuvwxz┌┐││─~~~~─┐┬├┌┌└├└│┘┐┐├┬┴┴┼┼▐▓▓▒▒▓▓■≤°²²·═║╓╕╖╖╙╜╞╜╚╘╖╘╚╚╙╘╚╚╛╝╞╞╟╠╢╤╦╦╧╪юацббдгиккмояяомлкйлоузчъчщщэшззззышэээчччэжужжжжтустусужутттсррррряярсррсссттсссстууутстуужжввьыышыввжжжьуужжжжввжвжроннмннонмлнонмллммллллллккккййййииииххииииихийиикйрwuмефеефффффффффгггггггххггхииихгиййихииикккккййййкклллммннноооопооооооооооппооппооооопппппястсрсррссстттутсстуууссттттсстсяярсссрсттссттуууутстттуууттуууууутттттувышээшззыьвввьььвьшщшьсйдбю©©╬адгфб╫╩╨╧╥╣Ё╟╜╙╗╕╗╗╖╔╔╖╘╔╕╕╔╔╔ё║·÷÷²²···°·÷·²····°⌡⌡≤■▒░▐█▀┼┴┤┬┴┴├├├┐│{~|yxxxvuttsrsttsqmkmmkklihijheeghiijjigfhghiifb`ba`aaadfiifcfiigcdeeb__bhfdb``cfillhhihdddgjnpsvvsqrqlge_^]]`aa`]]]^_bdeggjlow{yx|─┌││┘┴▀▀▄▌▓■∙∙▓∙≤⌡⌡ ≤≈≈√∙√ ⌡√░▌▒⌠∙■▓▌▄▐█▀▀▌▒▓░┬│|{~┌┘┤▄█▀▀▌░⌠≤≥⌡╒╚╞╟╡╤╧╪╬╬╫╪╪╫╫╬©ююабццдегхгхйлмноппяяпопрсрппсссссссстууужжжжввььызшшщщщччъччччщщщэээщщщщээщщщээшшшшшшшшшшшшээээшшззззьжужусяянннкйхдаю©©╬╫╫╫╪╪╪╪╪╨╧╧╥╥╥╧╨╧╥╢╠╛╘╖╖╕╓╓╒ ▓░░▐▌▌█▀▀▄██▀┴┴┼┼┴┬┬┴┼▄▀▀▄▐▓√≤√⌠▐█▌▐▄┬┼┬┬┴┴┼▄▌▒▓▓▒▐▄┴┤▌▌█┬vrrvxz{||||{~~zvsrrmmmnnmnoonnonkhfgjjhgiklihhihfeedgiiiknojkkklmliknqtux{}zwwwvy}|┐└│}{{||~│└┌─~~~~│└├┤├┌│┐┘┘┤└└┤┬┬┤┴▀▐▓⌠⌠■⌠▒∙≥²²°²·÷÷║ё╖╚╜╜╚╚╘╘╘╚╚╙╘╚╙╛╞╟╞╟╡╡╢╣╥╨╫юбдббцгйкйлнпяпнмлйкнсыщъчщщэшзыыыышшшэччщэвжвуужтжтужттутстутсррсряяссррссссссссстууутсттжжввььыыьыыьвжжвужжвввввжвуяоннмннннммноннммммллллллккккййййииииииийййииийииккрwuнефддфеееееефффгггфффффггхиййиххийххиййййййййиикккклмммннннооппооооооооооппооппооопппппяярттссттссрсттужутттуууссттттсстсяярссссстттттуууутссттууууттужттууууууужьзшшшзшзыььььььььышщшьрица©юаацфхгц╬╩╨╦╤╢╠╞╛╙╗╗╖╖╕╕╖╗╘╕╔╓╓╕╗╔║÷║╒═÷÷··⌡·══÷÷÷÷╒÷⌡≥∙▓▐▐▐█┼┬┤├┬┼┼┤┤┤└┐│}~}}||{xvuutrsvxxromnnmlmkjjhfefhhgghhgfefefhigdcfeeedccehihedhjihfedb`_`edcba`adhlmkjkjffefjortuurqqnidc]\[]_aa`\\[\_cgihhkmqz~|~│┘┤├┘┴█▌▌▌▒■√≈√⌠∙≤  ≥≤≈√≈≈≤  ≈⌠▐▐▓≈≈▓▌█▌█▀▄▐▓▒▐▄├─~─┐├┬┴▀▀█▒▓■  ·╓╚╝╝╟Ё╦╨╫╫╫╪╪╫╫╬©ююабццдегхгхйллмнопппяпястряяттсссрррттсстувьввььызшшээщщщщщщччщщщэээщччщээщщщщээшшшшшшшшшшшээээшшзззшывжжжтрроннлйид©ююю©╬╫╪╫╫╫╫╪╪╩╨╦╦╧╧╨╧╥╣╟╛╘╘╘╕╓ё║°√▓▐▌▌▌██▄█▐░▌██▌▌█▄▄▌▐▐▐▐░▓∙≤  ≈▓▐▐▐█┴┼┼┼┼┬┤┼▌░▓▓░▄┬┤┬█┼├─yqmmklnprsuvxxrsrnkklmmmoqronnmjhhhiigfhkmlkjjhedddghggilmjjjjkmkhiknqsvy{ussttx{z││}|}~}│┌┐┐┐┌─────┐├┘├┘│─┐┘┘└┌┐├┬┤┤┴█▐░▓∙√■▒∙≥²²°°²·²·║╕╙╛╛╚╙╙╚╚╚╚╚╚╛╚╜╟╟╞╟ЁЁ╡Ё╤╩©абецбдгиййкмоппоонллмрыщчччщэззыыыышшшэщччшьввссуужтужттусрсуутсссрррссрстссссстттууууттттжжжвьыыывьзывжжжтуужжжжуввуяоннмнннммммннмммммлллллккккйййййииииийййййииийииккрxvофгееффееееффффггффееееггхиййихгхихгииигииийккйллллммнмммммннооооооооооооппооппппппппппяпястсстттсррсуужуттууттсттттттссряяяррррссссстуттттсстуууууттууттууужжжжвызззззшзыььььььыызэщшьягбаюаддефггц╬╨╨╤╢╠╞╜╚╘╗╘╗╖╗╘╘╖╔╔╓╒╒╔╖╔║║ё╓╒═÷÷·÷║╒║║╒ёёё÷ √▓▐▌▌░█┼┴┬┤┬┼▄┬├┘┌┐┌─~~}zwvvtssvxytrponmllllkiffgiihhijihgfeeghgecffgihgghijkgdhlifdaaa`abdcbba_`bfjmllmljgefkprssvusqmhcaZXY]_]\]][Z[^bfijlptw└┌┘├┴┼┴┬▀▌▌██▐▓∙∙∙■√≈≥≥≥≤≈√≥⌡⌡⌡ ≤■░▌░√≈▒██┴┴┼█░▒░▐▌┼└┌┐├┬┴┴▀▄▐⌠⌠■ °╒╗╛╜╜╟Ё╥╦╩╫╪╪╪╬╬©ююааццддегххийкклмнооосряррярсссссссссттсстжвыььььызшээщщчщщччччччщщщщщччщээщщщщээшшшшшшшшшшшшэээшшззызыьввусрроннлкие©юббю╬╪╩╫╫╫╪╪╪╪╨╧╧╧╧╧╧╥╣╟╛╙╚╚╗╓╒÷·≥⌠▌▄▄█▐░░▒▓■■⌠⌠▓░▌▌▐▓■■■■■√≤ ⌡° √⌠▓▓▒░▄█▌█┼┴▀▐░▓▓▐┼┤┤┼┼├─{uolkgghijkmpt|~wrtrlkjjlmmostpnonkklhgfeeehknlkjheccefgffhklkjhgjlmkjlnpruxyroprsvyx|}|zz{||─┐┘┘└└┐││─│┌┐┐┘┤┤┘│─┐┘└│─┌┘┤┬┬┴█▌▐░■√■▓∙≤ ⌡⌡°²²÷·÷ё╖╗╚╜╘╚╛╚╚╛╛╛╛╛╝╞╞╞╠Ё╤ЁЁ╥╪юаадццдфиййлмопяяяпнмнрьщччччэшзззззшшшэщччшьввссуутртуттжтястууттсрррссрстррсссттуууууттттжжжвьыыывызывжжусстуууутжжтпнннннннммлллммлмммллкккккйййййййиииииииииииихйихккрwvнефдеффдееффффффффеефффгфгхииххгхиггхххгхиийллкмлллмнммллмммноонннннннннопооооппппппооояппррррстсссссттттсттттстттсстттсряярррярсссрстттттссстутуутсстттттууууужьзшззззшыьььььььызшээзвнфбббцфффееец╬╨╧╤Ё╟╜╚╙╘╘╙╘╗╗╘╘╖╔╔╓ё╒ё╔╔ё╒╓╓║÷÷══╒╓╔╓╓╓ё╒÷⌡√▓▐█▄██▀┴┴┼┴┬┬┴┘┐┌───}|}~─}zxvwvuuvwwwwtommljllljihijjijmomjiigfhhfdcddfhiijljklidhlgc`_^^_adecaa```adgkllkklfegjnooprqoljhc^YWZaa[XY[ZYZ^begmqx}─├┴┤┴┬┴▀▀▀▄█▐▌█▌▓■∙■√≈≤≤≥≤≤≈≈≥⌡⌡⌡ √⌠▓▐▌▒⌠░█▀├┤┼█░▒░▐▐▄┬├┤┴┼┼┼▀▄▐⌠⌠■≥÷╕╛╛╛╝Ё╣╥╥╧╪╫╪╪╫╬©юаабцдддегххиклклмноооряяряпясррррссстттуужжввььььызшээщчччччъщщщщщщщщщщщщээщщщщэээшшшшшшшшшшшэээшшзыыьььвжтряроннкйифббцбю╬╪╩╬╬╪╩╩╫╪╩╧╨╧╦╦╧╦╤Ё╝╚╜╜╘╔╓║║²√░█▄▄░▓⌠⌠■≈≥≥≥≈■⌠⌠∙≈≤≤≈≈√≈≤≥ ≤≥≥√■■∙■░░▒▓░▌▐▒⌠⌠▓▌┼┴┼▄┼├│zsmjjhgghgghjqvzyvtpljhikllpuuqnnnkkmhdbcdbejkjihgedefgfefilmljhhjmmlknopqtwwropstwywyxvwyz|~─┐┘┘└└┐┌└┐┐┘├├├├┴┘┌┐┘└│┐├┬┴┴┼┴┼▄█▌▐▓⌠▓∙≈≤≤ °²²÷··╒╓╓╖╛╙╛╛╚╛╜╜╚╛╝╞╝╜╞╡Ё╤╢╢╦╪╬юацццдехийклмопяяяпннрьщччччэзыыыззшшшэчъчщьжжуужтсрсустусссттуутсяярсряртссссссттуттууууужжжвьззыьыывжжжутттууууужуронннннннммлллллллмммлкккккйййииииййййиииихххххиххййяwtмдеддффддефгффефееефффгфффгххххгиигфгггхийийккймлкклммлммммноппннннннннноооооопппоооооопоояяярссссссссррррсттссттсссстттсррссрясссссстуссссрстуттттсрссууутттттжьзшзззззыьвььььызшшээзвмебцдегфгеддб╬╨╦╣╡╝╚╙╘╘╘╚╘╗╖╖╗╘╘╔╕╔ё╒ё╔╔╒ёё═²·═║╓╕╗╗╕╓║²⌡√▓▐▄┼┼┼┼┬┤┴▀┴┤├└│││~|x{|}~~}{ywxywwwwuz{wolmlhklmlkjkkihkoqnkihgfhhgedddegghikiikhchjcba_^]^bfgc`````adfikjhijeegjkjkmjigeee`ZZX]ddZVXYXY[_cfgpv┘┤▀█┼┴┬┬┼▄▄▄█▒▐█▐▓∙√√≤≤≤≤≥≤≤≈≤≥   ≤■░▓░█▄▌░█┴├┬▀▌░░░▐▒▐▄┼▀███┴┼┼▌▓▒⌠≥║╙╟╜╚╟╤╦╦╥╦╩╫╪╩╪╬©юаабцдддеггхйлмммноппоопрсяоояррррсссстужвввжжььььызшэшэщщщэщчээээээээщщщщэээщэээээшшшэшшшшшшшээшшшзыьжвввусяпсонмкйифдддб©╫╪╪╬╫╪╨╨╫╫╩╧╨╧╦╦╧╧╥╣╟╜╝╝╙╖╔╓╓║ ⌠░▌▄▌▒⌠▓⌠≈ ⌡²⌡ ≥ ⌡  ≥≤≈√√≈≤≥■≈≥≈■⌠■∙▓▓⌠■∙⌠▓⌠√∙▓▐▄▄█▐▀┬└|skhhhffgfddfoqw{zsnmihhjkkouuqnnliijjdadebdjgffggffgggfegknollkkmnlikmnnorttrpqstwxvxtrtx{┐│┐└└└┘┐│├┘┘├┤├┘┘┬┤┤┬├│─│┐┬▄▄▀▀▀┴├┴▀▀▀█░▓∙√√≈≥°·²²°·╒ё╒╓╗╚╛╚╚╜╞╝╙╛╝╞╛╛╞╡╡╢Ё╢╥╩╫©баббцегикйклмопяяяоорьщчччщшыьььызшшшэчъчъьтужввстрттрссяутссттсряяярряясттсссссстттууууужужвызззззьуужжужжжжжжввутрнмнннооннммлклкллмммлллккккййииииййййииииииххгхггиияvtлцееедбццддедддеедеефффгхххгфггггффгххихиййккййммлкккллммнооонннноннннноопоннопооооопппоопярсссрстсррссрряррссрссттттттссрррррсрррссттттссстууужутсстужттутттстувьыззшшыыььыыьььыззэчзтмфцгхххфгфедб╬╧╣╡╠╝╚╙╚╙╘╗╘╙╙╙╘╘╗╖╘╙╖ё═║ёё═²°²÷║╒ё╕╗╘╕═ ≈⌠▓▐█┴┤┬▀▄┼┴┬┤├└┌┌~─|{yz~│{z}{xwwuvvtwyxtolkjilmlkjhgffiljijhfefhjifbfffgfefhgijhedba^add_\_figb_aa`bbdghhgffjjihhhiid`^_``_^\_cec^ZZ[_aaehkpv|┐┬█░▌┴┼┼▀█▌▌▌▌▌▐░▒■≈≈∙≈ ° ≤≤  ⌡  °²⌡√░▓▌┼┴┼┼┼▀┼▀█▐░░▒▒▒▓▌▄▒■▒▌▀▄▐▓√≤⌡²╖╛╞╛╛╟╣╥╦╨╪╫╫╫╫╫юююююацеегффийикллмноооопяряппярссссссссутужвввьььььызшшэээээщщщщчъщэээшчщээщщэээээщщщщщшшшшшшшшщэшзззшшшьвжтяпяяпнннлифдцбаю╬╫╫╫╫╪╪╫╪╪╩╩╨╧╧╧╧╧╦╡╠╞╞╝╛╖╓╓╕╖║√▌▌▓▓▓⌠⌠▓▓∙≥°°°²÷═÷²°≥≈≈≈∙∙√√√√∙⌠∙≈∙■■■∙■⌠■≈≤≈∙▓▐▌▐░▐█┼└{qjgifdegfeegnvywtokliimooqsnjhjkhfggfffeddffdbcgiigegiiijmqnmlkklljllmnoopsutsrsvtqquvw|──│┌┐┐┌┘├┤┬┼┴├┘┤┤┐│┌┘├┴▄▐░▐▄┼┴┬┼▄█▀┼▐∙≤∙∙≈≈√≥² ≤≥°·÷═ё╕╗╙╚╚╜╞╠╝╞╞╝╝╟╡╣ЁЁ╣╧╩╫©ббцддфийикккмноятрррржшччъэзыззыьшшшшэщччэзвууужжуууутсрясттссттсрррсссссррррссссуууууууутужвьыыьыыььввжуууужжжжужтянммммонмлмммлкллмммллмннмкйииййиииийййиххххххфгххггяwtлцеееецддддддддфеееееееффггггххххгггххиииийййййлккйййккллмннннннннннннноопооопяпппооооооопярсррстттсссттссстттстттттссссррррррррссссттттссстууууутсстууутттттссвьыззыызыььььыьвьыыыэщзтлфеххххгхфддб╬╧╢╡╡╞╛╚╚╙╘╕╖╗╘╘╙╙╙╖╘╘╕╒══╒║═÷÷═║╒ё╓╕╗╖╒°≈∙▓░█┼┬┤┬┴┬┬├└│~}─~}}~|zzyy|||{xxxuvvstuusqpnkkmmjhghhihkkhhjjggggggedhgffeccddeedccdc_bdd`^aeihebca_`cdefffffjkkjhgfe`][[]_bdhgffeb__afgfkosw}┌┬▄░▓░▄▐▐▐░▐▐▐▐▒▓⌠■√≈√■≈ ° ≥≥ ⌡⌡°²··⌡√░▌┼┤┤┬┴┼▄┼█▐▒░▐▐▌░▓▐█▒■▓░▄█░⌠≈⌡═╓╘╜╝╛╜╠╣╥╦╨╩╪╫╫╫╬юююююацеефффийилклмооппппяяяяярсррррссттуттжжжжвььььызшшээщщщщщщщччэээээчщэээщээшэээщщээшшшшшшшшэшшзззшшзьжжуррсяпонмкхфдццбаю©©╬╫╫╪╪╪╪╩╪╩╨╨╨╨╧╧Ё╡╠╟╞╜╙╖╖╗╖╒≥⌠⌠√∙■⌠▓▒▒⌠√≤≥ °÷║═·° ≥≥≥≈√√≈√√∙■√≥≈■∙√≈√■∙≈√≈≈∙▓░░▒░░▌┼│vnkljhihecbfkruusnjijjknprqkhgijgffeggdccdbdb`chkjhhjlllmoqnnmkjklkkjknppqsrrqqrtsqsvwy~┌┌┐─~}}│┌┐┐└┘├┤┴┬┘├┤├┘┘┤┴┴┴┼▀██▄▀┴┼▀██▀▀▐■≈∙∙√√∙≥÷²⌡≥ ⌡°²÷ё╔╘╛╜╝╟╠╠╟╝╝╝╟╠╠ЁЁ╤╨╪╫╬аабддфийикйкмноятссрсжшчъчэззззыьшшзшшщщчэзвуууууууутттсссттстуутсрррррссссссстттуууууууутужььыыыььььвжууууужжжжужтянммммнммлмммлмммммлллллллкййййиииииииииххххххггххггяvtмдфееедедддддддффедееддефгггггхииххгхххиииийййкккккллллклммнннннннннннноопооопяпппоооооппппяряяссттссстссрссссртттттсррррррррррттттттссттсстуууууттттууутссттссьызззыызыььььььвызыышэыскфгииххгхфдцб©╦╡╠╠╝╛╙╚╙╗╘╘╗╖╖╖╗╗╕╕╔╒÷²²·÷÷║╒ёё╓╔╔╕╖ё²√⌠▓▒█┼┴┴┬┤┤┤├┘│}{{|~}|}|yyy{z{~}}~|yxwtttrqrrrrqolmoolihijjikjefjkiigfddeehgfec`````^]^acc_bdb``bcgigdda^_bbcdeeffhijifc`^]ZY[^bhmoliiigdcgmnlqx|~─┘┴▄░▓▒█▒▓▓▒░░▒▓⌠■√≈≥ ≤∙√≥⌡ ≥ ⌡°²÷║║÷°≈▓░▀┬┤┬┼▄▌┴▄░▒░▌███░▌▀▌░▐▐░░⌠√ ·╕╛╜╝╜╛╝Ё╤╤╦╧╩╪╫╫╬╬©©юаабцддфефииилйлнпппяряяппярссррррсттууттуууужьььыыззшшээщщщщщщччэшэщщщщэээщщэшэээээээшшшшшшшшшшзззззшывжжутстппонмйхгдцццбааа©©╬╫╫╫╪╩╪╪╪╪╪╩╨╧╢Ё╡╟╞╝╜╛╚╚╙╕÷≥≤ ≤√⌠▒░░▒⌠√≈≥²═║═·°  ⌡ ≤≈√√∙√∙■≈ ≤■∙≤≥≈■∙≈∙≤ ≥√⌠▓▓▐░▒▌├zplonnnlhdchkorutojdgihjopmiggijhggeihcadc`ca_bgjigjlmnnnpqnomkkmpplkknqrqrqqqpqrrrsvwz─└┐└│||~┌└└└└└┘┤┼┴┤┤┬┤┤┴▄█▄▀┼┴┼▀▀┼┴▀▄▄▄▀▀▌▓▓▓■√√∙≥·÷⌡≈≈≤ ⌡°═╓╗╛╝╝╞╟╡╟╝╜╝╟╟╟╡╢╦╪╫╫╬©©ацдфхииййклмнпсссствшчъчщшзшзыьззззшэщчщзвуужутжуттттуусттстуутссряяярсссстттттууууууууужвьыыыыьььввжуууууууууууспнммммммммллммнннммлллйкккйййййииихххиххххххххггххггяvtлдфееедеедддддефедддеддфгггффффххххгхххйииииййкккллммлллллмммммоннноооноооооооппппоооонпопяррряррссссссссррссряттттсссряррррррсуутттссстттттттттуууууутжтсстттсвьзззззшыьвььььвьзззээьрйгикйииххфцбб©╥╠╝╝╜╚╘╙╘╗╚╙╗╕╕╕╕╕╓ё║÷·²²²·÷║╒ё╔╕╗╖╕╒²≈⌠▒░▐▀┴┼▀┼┤┘┘└┌|{{|~~}}{yyz}}─~|||yxvrrsqqrqpoonlmprpljihhhjifhkjjifeddddedcb`___]\ZY[^``_bb`_ab`dhgdb_]___`bdffefghfc_\ZZXY]bglphhjmnkhfjpqpu|~─┐┬▀▐▒▒▐░░▒▒░▒⌠■▓■≈≥°²⌡≤≈≤   ⌡°²÷ё╓ё═² √∙░▀┴┴┴▀█┤┼▌▐▌█▄█┼▌█▀▄██▐⌠■≈ ²═╗╞╟╞╜╛╟╣╥╤╥╧╩╫╬╬╬╬╬©юааббцдфеехиилкмопппяссяппясссррррсттууттууттжьььыыззззшээщщээщщщэээщчщщщщщщщщээээээээшшшшшшшшшшззззшшьвжжутсспппнлйххдддццбббаю©╬╬╬╫╪╪╪╪╫╫╪╨╦╣╢Ё╠╟╞╞╟╞╝╛╙╔÷°⌡ √▓▒░░░▓∙≈ ÷║═·°  ⌡°⌡≥≈∙∙⌠∙√∙≤≥≤∙√≤≤√⌠■≈≈ °°≥∙⌠⌠▐▒▓░┬|rnppqrpmjjmmnpttpjceffhlmkhfgijhgggihdbccabaabefffjjkklmnollkjlqtupnmnqrqpqrrqqqrsrtux│───}|┐└└┐┌│┐├┴┴┴┬┴┼┼▀▌▌▄▌▄▀┼┼┴┬┤▀▀┼┼┴┼▄▌█▐▓√≈≈≥⌡°≤∙∙≈ ⌡°═ё╖╙╛╜╝╝╠╟╞╝╞╟╠╠╠╢╧╫╬╫╫╫╬юцефхиийийллмоярстувэъъъщшзззззззшшшэщччшжуужусуууттттусттсстутсрряяяррсссттттттууууууужжвьыыыыььввжууууууууууууронммммлмммллммннммллллйкккйиийииииххххггхххххгггхгггпusлцеддддееддцдддддццдеедффгффеффгггггхххиииииййкийккллккллмммлллонннопоонннннооопппооонноопярсссррррссссттттттсрсссттсссярррссссуууттссстттттттттуууууутжтсстуттьыззззззыьвььььвьызшщщвяйиклйиихфдбюю╬╥╟╛╜╛╚╙╙╙╘╘╗╕╔╕╖╖╖╓ё║÷÷÷═║═║║╒╓╕╘╙╖ё²≈■▓░▐▄┼┬┼▀┴┘┌┌─}||||{~~}{yz|│─│─|z}ywtpprqqsspmmnompsqmkighhjkknnijgedeeca`_____`_[ZYY[_a`aba__aa_cgfa_^^a_]\^aefgghgd`\ZYXWZahllkbekpqnkjlqrrw|||│└┴▄▐▓▓▒▌▐▐▐▐░▓■▒⌠∙≤°·² ≥  ⌡°²··═╔╕ё═÷°≥√▒▀┬┬┤┬┼┤┴▀▄▀▀▄█▀▐▐███▌▓■∙≥·║ё╗╞╡╟╜╜╠╣╤╣╣╦╪©©©╬╫╬©юааабцдффеххилкмопоопрсряпярррррррссттуттуууужввьыыззшшшээщщээщщщщээщччччщщщччээщщщщээшшшшшшшшшшшшшшшшььвутссрпппнлйххееддцббааю©╬╬╫╫╪╪╪╫╫╫╪╨╧╣╣╢╡╠╟╠╠╞╝╜╛╖═ ≈≥∙▓▒▒▒▒▓∙≈⌡═╒═°⌡ ⌡⌡°° ≤∙■▓■≈≈≤≤√≈≈≈√■▓∙≤⌡°²°≥√■⌠⌠⌠■▓▀─vrpoprrpooponpstpkgeeghhikgfghiihhjihfdccdbcddddfghhhhijlmkjhhmrvvsqnortsrrrsrqpqsqstw|}z{|}}}┌┐┌┌─~─┌┘┘┘├┬┼┼▀▄█████▄┼┬┬┬┼┼┼┴┴┼▄█▌▌▐⌠≈≥ ⌡≈∙⌠■≈⌡°⌡÷║╓╖╘╚╜╞╟╠╡╠╟╞╠Ё╞╢╧╪╫╫╫╫╫©бдфгхииийкллнпртууьэъЮЮчшыыызшзшшшшэщъъшвужжусууууутсстууссссррррсрряяррсттттттттууууужввьыыызььвжжууууууууууутяннмллмлмммммммллллллллкллкйииииииихххгггххххггггггггпtsкцдццдцдддддддддцццддеддеефеффгффффггххииииийййййклллллллмлллллоннноппоннммнноноооооонноопярссссррссттсссссссрярсссссссяяррссссууттттссстттттттуууууууууутттуужызшшзьььыььььььвьызшщщьякйклййигдца╬╬╫╥╠╜╝╝╜╛╛╛╚╙╘╖╕╖╖╕╔ё╒║÷÷═╒╓╓ёё╓╔╖╗╗╒²≈■⌠▓░▌▀┴┬┴┴├┌──~||}~}|~}|{yz|~}}│─}z|yxuqqrrrtspmnprqstrpnlkjikmnqoihecdfeb_\]]]^`a`ZZ[[^cefedb``abadhe_]]^a_\XX]bfghgfa\YXXZ[_hoplhdglqqooporrsx{z{┐├▀▐▒▒▒░░░▐▐▐░▒▓▒▓⌠∙≥°⌡ °⌡⌡°···÷═╔╖ё═÷°≥⌠▌┴┤┤┤┬┴┴┴┼┼┼┼▀▄▄░░▌▌█▐⌠■∙ ║╓╔╙╟╡╟╞╞╠╢╣╣╣╦╪©ю©╬╫©©аааабцдгффххиллмопоопясряяяяяясрррссттутужжуужжввьызшшээщщщщччщщщчщэщчччччщщччщщщщщщээшшшшшшшшшшшшшшшшььвуссряяпонлйигффедцббааю©╬╬╫╫╪╫╫╫╬╬╫╩╨╤╤╣╢ЁЁ╡╡╞╜╛╚╕·≈▓√⌠░░▒▓⌠■■∙≥÷║·°° ⌡°⌡⌡ ≤√■▓■≈≈≈≈∙≤√∙■⌠⌠√≥°°°⌡≥≈√∙√∙■⌠█┐zuqoprsrpossrruvtpnieffdehhhijkkklmjihfccfcdedddgjghhhhhjklkjjnruuqpopswwvrrrsrpqsrtux{yvwy}──│┐┐│└│───││┌┌┘┤┤┬┼▀▀┼▀▄▄┼┴┼┼┼▀▄▄▄█▌▐⌠░▌░■≤  ■⌠▓⌠√≥ ≥°²÷╒╔╙╜╟╟Ё╣╢╠╞╟╡╞╢╧╪╪╫╫╫╫╬адеегииийкллмортужьэъъъчшыьызшзшшшшшщъъшьжжжуттуууутсружутсссрярсссряяярссттттттттуууувввььыыыььвжжуууууттттттспннмллмммлмммллккклллллллллйиииииииихххгггггггггфффггпtsкцдббдццццдддццдццццддцддеееефгффффггггхиииййййкллллллмллллммммоммнопононммнооноооооооооопярссрсрррсттсряяррряпсссссссрпяярссссттттттттстууттттуууууууутуууттжьззшзыьввыььььыьвызззэщыслййкиииеццю╫╪╪╦Ё╝╟╟╞╜╜╜╛╚╙╘╗╗╖╓╒╒╒║÷÷═ё╔╔╔╔╕╖╖╓║≥≈∙■■⌠░▌▄┼┴┴├┐││~}}}||{zz|{{{|}~|y{zzyustrstspnoqqsuwvuspmkjkjjmlgedcdedb`]]]\^``_Z\]]`eikhebaaabcfie^[[\^]ZVW[`ccddc_ZXXZ_`fntrlgghkoqqrstsrty{z}└┬█▒⌠▓░░▓░▐▐░▒░▐▐░░▓∙≥ ≥°  ⌡²²²··ё╕╒÷· ■░▄┤├├┤┬┴┼┼┴┼▀██▌▄▐▐▌▌▄█▓∙∙ ё╖╖╚╟╟╟╟╟╠╡╢╣╥╧╪╬©╬╬╬юаббабцдехгфгхиллмнопппяяярряяяяррррсстууттужуужужвьззшшщщщщщччъщщчъчээччччщээщчэщщщщэээшшшшшшшшшшшшшшззььвуттсряпнмлкигффеддцббцаю©©©╬╬╬╬╬©©©╫╪╦╥╤╤╤╣Ё╠╟╜╚╘╓²∙▒▓░▐░▒▓⌠∙■■≈⌡²°°·   ≥≥≥≤∙∙▒▓■■■∙⌠∙▓░░▒⌠√≥ ≥≥≥  ≤≈√■⌠⌠▐├}wtrruwuqntuvvx{zyvqkgdcdeghijkmnooomjhggffecccdfhfhjjhgghjlmlmprsnoprvyzxsrrstssutwxz|xuwx~┌┌┌└└┌┘└┌┌─│─│┌┌└├┤├┤┬┬┴┴┼▀▀┴█▐▐▐░▒▒⌠▒▐▐▓■√∙▒▓▓▓■≈≤≈  ⌡²╒╖╛╝╟╡╢╢Ё╠╠╠╠╤╨╩╩╪╫╫╬╬ацддгййййлллмоясужьэчъчщэзыыызызшшзшщъчэыжжжжжууууутттужжттттсрррсссррярссттттттттуууувввььыыыыьвжжуууууттттттсомннккммлккммлйккллллкйкллкйииихиииииххххгггггггфффггпtsкцдббддбццдддццедцццццбеефеедеегггггфффххийййииккккккклккклммнннмлмооононмноооноооооооопппяррряряярсссррррсссрятттсссррппярссссссстттттстуутсттжуууууужсужуттвыьыззыьььыыььыыььзшзышщзтлйййиихдбцю╫╪╪╧╢╞╠╠╞╝╜╜╛╘╗╗╘╘╘╕╓╓╓ё║═║╔╖╔╔╕╗╘╔÷ ⌠⌠■■■▓░▌▌▄▀┬└││┐~││}||}{{{{{|zyyyz{zxzz||xvurssqoopomqtwyxvpkjiifcghdbcdddcbb^_^]^``^[]]]_ejmjeba`_adgie\YXXZZXVX\__^abb_\[\^`bipspkggginrssswtqtzz{├┼░∙√■⌠▓▒░▌▐░▒░▌███▐⌠≈ ≥⌡≤≈≥⌡  ⌡°╒╔╒÷°≈░█┴┘└┘┘├┤┴┴┴▀█░░░█░▐▌▌▄█▓≈≈⌡ё╗╗╙╞╞╟╠╠╠╠Ё╣╦╨╪╫╫╬╬©ббббббцдфхгфггимллмояяяяоярряяяряяррстуууттуууужуувьзшшэщщэээщчъщщчъъээщщччщэшэщээээээшшшшшшшшшшшшшшззззььвутутсрпнммкигффееддццецбааааю©©©ююю©╬╨╧╦╦╧╥╢╠╡╞╚╘╓²√⌠▐▌▌░▒▒⌠∙√■∙≤≥≥ ·≤≥≤√√≈√■∙░▐▒░▒▓▒▒▌█▌░▓∙≈≤√√≤⌡° ≤√■⌠■▓┼─ywuuy|ytortvwy|}}~{sieffedefgiknortrlijjgieb`acccfillifefeilkjknqknqswzzxtssuvuvxuxz||wtwv}┌┌│┌┐┌└┐┌┌}~││─┌└┐─┤├┘├┬┼┼┼┬█░▒░▒⌠⌠░░░░▒▒░▐░▒▒░▓√≤≤≥≥≥°÷╓╘╚╝╟╡╢╢╢╡╡Ё╥╩╩╩╪╫╫╬╬аццдфйкйкмммнпясужьшчъэээшзыььызшшззэччэывжжжвуутттужжужжутуутрррррсссярсттттттттттуууввввььыыыьвжжуууууттттттсомннккммкйкммкхклмммкйикклкйиииххииииихххгфффггффефггпtsкбдцбццдбацддццццддеддцдддееееефгггггггихгхйкйийййййкклклллммлллкклмннннооонноооонннноояяпяярстяяррррррррсрррстссссссррряяпяярсррссттттууууттттууутттттжуууутувыыыыьььььввжжввьызззшщьялккйихгфеб╬╩╨╨╧╧Ё╡╟╝╜╜╚╘╗╗╘╘╘╗╕╓╕╔ё╒╓╖╗╖╔╔╖╗╔÷≥√⌠▓▓⌠■▓▒▒░▌▀┤┘└┘┘└┐┐┌─}}│|{{|{yxvtvy{zxz|}|yvvvsqonmlmonqtvuqlifggebacfeeffdaab`a`^^_^\^\Z]aeillgcbba``fgd]VTUVYXZ[Y[^_aba__bbaahnrtoiggjkmsurpvuuvwy~┐┤┼▐■√■⌠■⌠▒▐▐░▒░▐▄█░⌠≈≥≥≥≤∙∙≤≤√≈⌡·═║║· ■▐▌┼└││┐└└┤┼▀┼▄░▒▐█▌▐▐█┼▌⌠∙≤²║╖╛╟╠╞╞╟╠╢╤╥╥╦╨╪╪╪╪╫©юаббббцдффгхххийлмоярсряяяяярряясрярсуууттссссттужвыызэщщээээщщэщщщщщщщщщщчщээщчшэщщщэзыэээээээээээшшшшзьвжутсряпоонмлйхгххфефггефебаабаабаюаббю╩╨╧╧╧╥╤╥Ё╞╚╖╓ё⌡▌▀▄░▒▐░⌠⌠░▓∙≤≈■√≥≈  ≈⌠■√≈▓▒▐░▒⌠▓▓▐█▄█▌▐▒⌠▓⌠■≈≥  ≥■▓▒▓▓▌┌vutx{yvsnsuuvz│┌~ypjjhegeegknonrutokliegcaabaacfgijheefiklihkmmoppquyxuutuxyxvvxxz{{zxw||│┐──┐├└└└┐│~~─│~z{│┌└└┐┘┴▀┼┴█▄▄▌░▒░░▒▐▐▒░▄▀█░▓⌠⌠▓⌠√≤≈≈≤ ²║╓╕╚╞ЁЁЁ╢╤╤╠╤╩╫╩╩╫юююбццдффиййклмопрсувыэчъщээшыыыыыззшшшэщщэзвужжжууууттттттстттттррярсссрутссстттттужуттжжувызььыььввжуууууттужжсонмллмномллклллллллллккйййййииййихххххххфгххгффгхффгггяvsйацбббццбацццбцбццддддддддееееееффффгггххххиииийййййкклйкллммммллллмнннннонннноооннннооппппяяррсрррррссррсрррстсссррррртсряяяррссссстттттттттттууууттттуттуттувььььььввыььььььыызззэщьрллкйихгецю╫╩╨╧╧╧╡╠╞╞╞╞╜╛╙╙╙╙╘╖╕╔╓╓ё╓╗╚╚╙╗╖╔╓═⌡≈√∙▓▐▐░░░▒░▐█▀┴┬┬┬├┘└└┌~}~┌|{{|{zxvuw{~}zy{{zxvuuspnmlkkmmnqrqokhhgfdcdghffggebbddc`]\]]\^\[]`dhljfba_^]]ab_XSSWYYWYZ[]``ba`_`cccgjntvpkmjkikrusruttwz}│└┬▀░∙√√∙√⌠▒░░░▒░▐░░▓∙≈≥≥≥≥√■≈≤≈≈ ²÷║═· ■▌▐▀┘┌│┐└┘└┬┼┼▀▐▐▌▄▄▌▌█▀▌■≈ ÷ё╖╜╠Ё╟╞╟╠╢╤╥╥╥╧╩╩╩╪╫©╬©юаабцдфгхххийклмоярррясррррррярррртууутттсттуужвььызэчщэээщщщщъъчччщээщщщщээщчээээээшшээээээээшшшшззззывжуттряряпомкигфххфеефедеебаабббццббцбю©╫╩╨╥╢ЁЁ╡╞╛╗╓║≥▌┼┼█░░▓■▓▌░⌠√∙■⌠■∙≈≈√■∙√√▓▒▐▐▐░▒▒█▄▄█▌▌░⌠⌠■■√≤ ⌡°√■▓⌠■░┘zwuvwusrooqrrv}~││}tonmkjjijloqruxvpmlhbcbabbbcfgfhjkjiikkkjkmnmprstvwurssuz{ywvuwy{{{{|||│~~│┌┐┐┐┌│~}}z{│─┐┌┌└┤┴┴┴▄▄▄▌░▒▓▓░▌▌▐▌▀┼▄▐▒▓⌠⌠⌠∙√≥≤≤ ²║ё╓╘╜╠Ё╢╣╤╤╤╧╪╬╫╫╬©юабцццдехийклмопяртжыэчъчщэзыыыыыззшшшэщээыжууууууууттттттсттттсррярссрртсррсттттттууттжуужыыььыввввжуттууттужусонмлллмммлкклллклллллкккййййихийиихгхххгфгхггффффеффгфпvrиюцбабббабцбабцббцддддцддддееефееееефгхгхххххиийййййкккййклмммммллмнннммннннннооооооооонооппяяятсряярссррсрррссрррррррртссррррсссссссссссстттууууууттттуттуттуввььыыьвжыыььььыыызшшэщьрмлййигеда©╫╩╨╧╧╧Ё╟╝╟╡╟╜╜╛╚╚╙╘╖╖╕╓╔╕╗╛╝╝╚╛╖╒²≤■⌠■■░█▌▐▐▐░▓▓▒░▌▀┴┤┤├┘┘┐─~}├┌~||||{wuux~─~{xxxwvutsspnnmlkjkkklmmkijgcbbeghefffdccdhea]\]_^^]]^_bfjheb`^\[\_`^YUVY[XWZ^`ceceb_`bdegkknuwpknonjjpsrqtrrv|─└├█▌▓∙≈√√≈■⌠▓▒▓▓▒░░▒▓∙≈≤≥≥ √■√≥≥≥≥°·÷·°≤⌠▌▌▀├┌──┌└│├┼▀▄▌▌▄▄▄█▐▌█▒√≥²╒╔╗╝Ё╣╡╠╟╠╢╤╥╥╣╥╧╩╩╪╬©╫╬©юацдефгххийкмлмояяяяятсррссррррсстуттуттттужжьььььзщъщэээщчччъъъччщщээщщщэщщчээшшшэщщшшшшшшшшшшшшззззыьжуттсрряпонлихгххгффеддефцббцдцддддецаа╬╩╧╤╡╟╟╠╞╝╙╔║ ░▀┼▄▐▒⌠⌠░█▌░▓■∙⌠▒▓⌠■⌠■∙∙⌠▓▒░▌██▌▐▀▀▄███▐▓■■■∙≈≥°·≤∙⌠■∙▓┬yvvurrrolnnorx{|─│ysqpooprrqsvyz{ytqpke``_`acehiggkoomkmkjlmnnnruxxwvtrssuxyxvvtw{||}│~|}~}}──┐┐┌┌│─}│─~}|~─┌┌┌┌└┤┬┴┬┼▀▄█▌░▓⌠░▌█▌█▀▀▄▄▌▒▓⌠⌠■∙ ≥≥ ²═║╒╕╙╞Ё╣╥╥╥╩╪╬©©©©╬╬юббббдфхийклмнппясуьэчъЮчшзыыыьыззшшшэщщэзжууууууутттттттсттттссрррррррссррстуутттууттжуужьыьвьввввжуутууттужуроонмлллкллккклкклллллкккиййихгийихггххггффггфффффдефффпurиюбааабаабцбюацббцццццбццццдеееееддефгггхиххгхийййййкккйккллмммммммннмммнннннноооооооооноопяяяяссряярррррррррссрррррррррррррсттттсссссстсссттттууууутттуттуутувьызззывжььввввььызшэщщьсмлйихгдбю©╫╩╨╧╧╧╣╟╜╠╡╞╛╛╚╚╚╙╘╗╗╗╖╖╗╙╜╞╝╚╚╔·≈▓▐▐▒▒▐▌░▓▒▐▌▓▓⌠⌠▒▌┴├┤├┘┘└┌~┤┐~||}|{wuv{│┌~ywutsssrqsqoopoljihghijjijhdbbdefdeeecbcdifb__`bca__``acedba_^\]^_`_]ZYYZWX_egjkijeacefhjkjkqvqjjoollprqqqoptz┘┴⌠⌠■√≈√∙√√∙■⌠⌠⌠▓▒▐▒⌠√≤≥≥≥ ≤≈≤≥ ⌡°²·²⌡≥√▓▌▀┴┘┌~││┘┼▄▄██▀▌█▌░▒░⌠≈⌡÷╓╕╘╝Ё╥╢Ё╡Ё╣╥╦╥╤╦╨╩╪╫╬©╫╬юабцеффгххийлмлнопяяяяссррссссрссттттсттттужжвььььызщчщэээщчччщчччччччээщщщщччщээшшэщщшшшшшшшшшшшшшззззьжуттссяпоннмкйиййхггфееггеццдецддефедб©╫╨╦╣╡╠╠╟╝╝╛╕║°√▐█▌▒▓⌠▓▌▄▄▀▄░∙∙▒▒▒▒▒▒▓▓▓⌠⌠▓░▄┼▀▄┬┼▀▄▄█▐░▓⌠■∙√≥⌡²≤√■■√■▀┐yxxvsrroklnnpsvxz|}{vrqprtwxxyz|{{yuuurmdb``beghjhhkoomlnkknoopqux|{yvuuxwwwwwwxxz}──||~}│─┌┐└└┐│──┌│──}─└└└└├┤┴┴┴┴▀▄▄▄█▐▓▓░▌▌█▄▄█▀▄▐▒▓⌠∙√≥≥ ⌡⌡²÷║╓╗╜╡╤╦╧╧╬©юю©©╬╫╪╬абабеггхйклмнопясуьэчЮАчшыызыьыззшшшэщчщшвужжуууутттттттсстттссрррррррсрррстуутссттттуужжвьввввввжжжжжтуттужтронннмлккллккллкккклкккййхийиггхйххггххггфффффффффеефееоtrиюбааббаабцбюацццццббааббббцддефеееееффгхихггхииййййкккккккллллммммннмммннннннооооооооонопяяряяяррррряпрррррррсссрррррррряярсстттсссссстттсссттууууууутуууууужььызззьвжвввжввььзшэщщэвсмлйихфцааю╬╪╨╧╧╧╥╠╝╠Ё╞╛╛╙╚╚╙╘╖╖╖╘╘╘╙╛╜╚╗╓÷≥■▒▐▐▒▓░▒⌠■▒▌▄▐░▒▓▒▐▀┬├├┘└└└┐│└│}|}~}zz|│├┘xwussssrpsrqqqqnkjhgfffffihgfddefeffedcefgebaabcdba`bba__`^]\\\^`^^^]\\]^]_ejjloonifghhjljjilstnjlopqsrrtppqsw}├▌∙■∙√≈√∙√≈√∙■⌠▓▒▒▒⌠≈ ⌡⌡  ≥ ⌡  °·÷÷÷°≥√∙▓▐┴┤├└─}}─└┴▀▄██▄░▌▐▓⌠⌠■≈°═╓╖╘╝Ё╥╤╤╣╤╥╦╧╧╦╨╩╫╫╬╬©╬©юабцеффггхийлммнпяпппяррярстттрстттттттттуужжжвьыззшэщщэээщчччщщччччччээщщщчччщщщщээшшзшшшшшшзшшшззззызьжттссрппоннмкййкйхххгеегхеццддццдефедц╬╪╨╦╤ЁЁ╢╡╟╞╜╕║·⌡▓▒▓■⌠⌠▓▐▄┴┘└┴░▓░▓▒▒▐▌▌░▓⌠■∙▓▌┼┬┬┤┴┼▀▀▄▌▐▐▒⌠∙≈≤  ≈∙■⌠■▓▄┘{yxuqrsqklnoooprtw{|ytqppruy{|{yzywtuwvtnjecehihhfgjlllllkmqssw{{}~|yvvw{{zyyzz{z{}│─~|~{{|}│└┌┌└├├└┌┌┌──│┐┌│┘┘┘├┤┤┬┴┴├┬┼┼┼▀█░■▒▌▄▄▄▄█▄█▌▐░▓■∙√≤⌡⌡ ⌡·║╓╖╛╠╣╥╨╪©юаю╬╪╪╫╪╬юаабдффхйклмнопяруьэъЮБъшзззыьыззшшшэщчщшвжжжууууттттттссстттсрссррррррррртууууссттттуужвввввжьвуттужвтуттуутямннммллкмллллллкккккййиихийиггхиггггххххгфффффффгфффеенsrиюбааббаааббаацццббаааюбббббццдеееееееефгггггххиийййккклкккклллмммнннммнноннннооооооооооопяяяррпярррряпяррряярсссррррррррррярррттссссссуутсссстууууууууууужуужььыыыьвжуььвввьыызшэщщшжсмкиххфбююю©╫╩╧╧╧╦Ё╟╠╡╟╝╜╙╚╚╘╖╕╕╖╙╙╘╙╚╚╗╓⌡≥√■▓▒▓⌠∙⌠▓▓▒▌▄▄▒░▐▐▌▄┴┤├├└┐└┘├┘┐─~┌└┐│─┐┤┼┤─zywvuutsrsssrqqnlkjhfdcbbefgfeeefeggeddfgeba``__`aaacb`^]\ZYYZ[^a^]\]_aeiggkkikpqpnkjjjklkliipvtqnrtutqorrsuuv|┤▒∙■■√≈√≈≈√√■⌠⌠▓▓▓∙≈ °°⌡ ≥≥²÷²°·═║═÷°≤√∙⌠▒┼┬├┘┌~~──┌┘┬▀█▌▌░▐░■√∙∙√°═╔╖╙╞╢╤╦╦╧╧╧╧╧╨╨╩╫╬╬©╬╬╫╬юабцдеффггхйлммопяпппяррярстттсстттттттттууужжжвызшшэщщэээщччччччччщщэщщщчччччэщщщщэшззшшшшшшззззыыыыыыьжутссрряоонмкйййиггхгефггедддцдццеедцбю╫╨╦╤╢╢╣╤╡╠╝╖║·°√⌠■∙■■■▒▌┴┐│├▄▐▐▒░▐█▄▄▐▓⌠■∙⌠▐┼┤├┤┬┴┴▀███▄▌▒∙≤≥≤≈■∙■⌠▓░▀├|ysnqtsllnpollnsvz~{vrrpprv{|zx|zxuvyzyuqlhhjigddehikmpmnqtwz─└│}zwttvvxzzzzzyzyz|~~{xywxz|│└┌┌└├┤┘└┐┐─└┬┤┘┘┬└┘├├┘┘├┤┐┘┤┴┴▀█▐⌠░▄┼┼▀▄█▐▐▐▐░▒▓⌠⌠≈ ⌡ ⌡·╒╓╕╙╝╠╣╨©юаа©╫╪╪╪©ююааабцфгиклмнопяруьэъЮАъэшззыьыззшшшэщщщзвуууутттттттттссстттсррсрррррррррттттутсттттужввввввжжутсстужтутттуспмммммлллмлллммлкйййййииихииххгхигффгхххггфффффффхфффеенsrиюбаюббаююабааабааааааабббаббцццдееееедффефггггиийййкййкккккллммммноонмннонмммнннооооннооооппяяяярррряяяррряярсррррррррррррррррттссссстуутссттуууууууууутуууужьыыыыьвжуььввььыызшэчщзурмкиххфб©©©©╫╩╨╨╨╦╣╠╞╞╝╜╛╙╙╘╖╔╕╗╚╚╚╚╙╙╖╒²≈∙■■⌠▒▒▓■▓▒▐█┼┼▀░█▀┴┴┬┤├┘┘└││└┤┬└┌│┐┤┬├┐┌┐├┬┴┤│|zyyxwvutuvusqqnlkkkifcbbeedeeeddceebabddb`^^^\[\]_ab`^^a_[XYZ]_ba_^`cgkommnnklpqopolkkkklmllqsssprssrnlouvxxx|┤▒∙■■√≈≈≈≈√√∙■■■∙√≤≥⌡°°⌡⌡⌡⌡÷║÷·═║÷°° ≈∙■⌠░█┴├┘┐│──│┘▀▐▒▓▒▐░√≥≤√√²║╔╗╛╠╣╤╦╨╪╪╨╧╧╨╨╩╪╬©©╬╬╫╬юабцеффггххйлмнояяпппясрррстттссттстуууууууужжввьызшщчщщээщчччччччччщщччччъъчщшээщээшззшшээшшззззззыыыыьвжутсрряпоонмлккиггххфггфеефедфдцддбааа╬╩╧╥╣╣╤╤╡╠╟╘║·² √∙∙■∙⌠▐█┬└┐├┴▄▌▄▀┴┼┼▀█░▒⌠⌠▓▐▀┬┤┬┬┬┬┼██▄▀▄▐■≤≥≈■⌠∙∙■▒▌┼┤┌{tnqtsmlloollnuvz~|vssrppruxyx||zxxz||yxtpmljgfefhknqtstuwz─└┤┐~zwusrsruwwwwwvyyxyyxwutsvxz─└┌│┌┐┘├┘┐│─┐┬▄█▀┴┬└┘├┘┐┌┐└┌└┤┴┼▀█▌▒▌┼┬┴▀█▌▐▐▐░▒▒▓▓▓∙≤ °·║ё╓╔╗╙╛╟╧юбаю©©╬╫╫аюююабаадфикллмнпяртвшчЮЮъщэззыыыззшшшэщчщзвуууутттттттттсссттссярсррррсррррттттжтстууужжвьввввжууттттуутутттуроммммллллллллллккйййййиииииххххххгфффггфегфеефффегеефеенtrи©аююаба©©юааююааааааббццббббццббдеееедеддефггфиийййййййййкклмнмммноонмннннмллмнноооонннннноопяряяяяррряррряярсрррряяяяяяяррсстттсррстттттсттужуууууууууттууужьзззыьввввввввьыышшэчщзурмйхххфб©╬╬╬╫╩╨╨╨╦╤╡╝╛╚╙╘╗╗╕╔╓╖╛╟╜╜╜╚╘╔²√√■⌠⌠▒▐█▌▐▐▐▌▄┴┴▀┴┤└└├┬┴┴└└┌~┌├┬┘┐┌└┤┤┐┐└┘┤┤└|zzzyxvutwxxtrqolikmlhfeeigeeffdb`ba_]_`a`]\\\[Z[Z]aa]\`ec_[Z]_accaadghknnnpqppqpmpqmkkkjjmorsomplmmnpnmqvxyyy}┤░≈∙∙√≈√√√≈√√∙∙≈≥ ⌡°²²²·÷═·║╒══╒║²≤≤≈∙■■▒▐▌┴┘└┌┌──└▀▒∙√▒▐▒≈⌡ ≤≤·║╔╘╝Ё╤╤╥╩╬╬╩╧╧╩╧╨╪╫╬©╬╬╬©абцефхггхххйлмнпяяпппрутррссссстттстужуууужжжжввььышщъчщщщччччщччъъъъъъчччъъчщшшшэээээзшшээшшзээшшшшззыьвжжусряпооппоомлйгхиихххгфгигегеддцаююа╬╩╧╦╤╤╦╣╟╟╠╙ё÷²÷≤∙■■■▓▄┬└┌└├┤┴█┬┘└┤┴┼▀█░▒▒░▌▀┴┤┴┴┤┤┼██▀▀▄▌⌠≤ ≈■▓∙√■░█┼┬┐┌~wqrtqollopmnqwvx|{ursrollosvxzzzyyz|}|~}xromkkihjnquwyyxw{│└└│{vttsqqsuvtsuvu{zywutstqqtwz┐││──┌├├┌~─┘┼▌▌▄┬┘┘├├┘┐│┌┐┐┘┤┴┼▀▄▄░█┴┤┴▄▐▐█▌▐▒▓⌠⌠⌠⌠⌠∙≥²║╒ё╓╓╕╖╗╜╥адб©©аа©╫аю©юбцбацехйкллмппртвзщъъъчэшыыыыззшшшэщъчшьжжжутттттттутсссттссярсррррсрррстттсжтстууужжььвжьвжуужжжжуутуттттроннмллллллкклллкйййййййиийиггиихгггфффедцгеддеееееддеееоusи©аююааююююююаааббаюююадцаюацццбццдееффгффгхихггиййиийлййкллллклммммннннннннннноопппоонмммнопппряяррряпяяяярррсрряяррряррсрррстсрртсрясттттуужжжууууттжусстуужвзыыьввжжвььввьызшшэщэыурллкифдба╫╫╫╫╫╪╪╪╨╥╡╞╜╛╚╚╘╗╗╙╙╙╜╟╝╛╜╚ё²≥√■▓▒▒▐▄▀▄█▌▌▄┼┼┼┼├┐┌├┴┴┬┤├┌~|}││┌┌┐┐┐┐┌┌│┐┘├└│|yxyxussw{~{xurqppoopomkjijhfefda^``^[Z\^_^][ZYYXWXZ^_\Y\aba^[\`decegghnpmjomlrtqssnnqrrplmnquurnnikmnprqotwywv|┤░√√≈≈≤≥≥≥≈≈√√≤°° ≤≥ °·════╒╒║══·⌡∙≈≈∙■∙■▓█┴├└│}}}|}┌┼▓≈≥■∙≈≤⌡°⌡≤÷╒╕╙╞╢╥╥╩╩╩╩╩╩╩╨╧╪╬©юаа©ю©юбддегееефхйлмнпяряяяяссстттсррртууттжвутувыьвжвжвыэчщщщччччччъъччччъъъъчччщщщэээшшшззээшшшшшшшээззээшзьжууттсоппяяпнллкккйххииииииииифхгецббаю©╬╪╨╥╣╢Ё╡╟╛╘╕║²÷²≤▒▌▓▓▀┤┌│└├├┤┘┤┤┬┴┤┴▐█░▓▒░▌▀┬┼┼┼┼█░▐▀▌▐▒⌠≈ ≥√⌠≈≤■▒░█┬└│~|zwtrpqqpqrttuwtuzwqsqrqnmptuyyyyzzzzz}~{uqpppspssswvwz{zxy}│z{vrqonprssrrtsrxwvuttttsssvy{|}└│││|~┌├┤┤├┘└┐┘┘┐┌┌┘┤└├┬┬┴▀▄▀┼┴┬├┬▄▌▌┼▄▐▒▒▓⌠■√∙∙≈°═ё╓╕╓╔╗╘╚╡╩дб©╬©а©╪╪╬©аббббдфийккмняяясжзщчъЮЮчшыыыыззшшшшшщчэыввжужуттужтрттттттсстттссррррсттссстуутттуужьвввььвжжжжжууутуссттрооммммммллккккккккккййииххиййихффффгггффееееееееееццфдефлurх╬юююааюю©©©©юююююю©©ююцбааабццбббццдддффффххгггхййийкмййкллллклммммноннннннннноооппонннннопяяяяяяярряпяяярррссрряярррярррряярссррссрртстттууужвууууттууттужжвьззыьввжжжввввьзшээщщэыурлкйхфцаю╫╫╫╫╪╪╪╪╪╦Ё╝╛╚╚╚╜╚╙╛╜╜╜╝╟╚╗╓²  ≥∙⌠▓▒▌┼┼▀┼▀▄┼┴┼┼┴└┐└┤┴┬├└└│}{|~──┌┐└┘├┘┌─~─┌┐┌~{xtuwwxz}│}{yvspooopqrqpoojihgfda_`_\XY[^^][YWWXYY\]^]YWY]_`_]]`cdhikkjnnjjnmlqrpqrpsvvwwsrqqstqonklnnpsrptwyxx~┬▐∙≈≥ ≥≥ ⌡   ≥⌡²° ≈≤≥⌡²·÷··÷═÷÷÷°≥≈≤≈∙■∙∙■█┴┘┐|}─~~┐┼▒√≤≤≥≥≥ °°⌡═ё╖╚╞╢╤╥╦╧╨╨╨╩╩╩╫©аабццаббцееддфгггхикмнопяяяяярссрссссрсрсттстжвутужвввььььзэщэщщщчччччъъччччъъъъччщщщщэээшшшшшэээээээшшээззшэшшывжутсрппяяяпнмнмккйииййихггхийгихеццбаю©╬╫╩╦╤╣╡╠╝╚╗╕ё÷═·≥⌠▐▓▓▄┬┌}└┤┬┬┤┴┬┬┬┤┬█▀▌░░▐▌█▀▄▄▄█▐▓▒▌▌▌░▓⌠■■⌠⌠≈≤√⌠▒▌┼┐│──~zusvtsssstuuuttwwtsstrompstyyzzzz{{y{|yustuy{xywuyxwxxwttwz{{vqommqrttrrssrvusrqrssuuuvy{}}}||}}{y|│┐└┘└┌─│┌┌┐└┤┴┘┤┬┬┴▀▀┼┴┬┤├┬▄▌▐█▐▒▓▓▓⌠■■∙√≤⌡·═╒╔╓╔╗╘╚╡╧╬©©╬©юю©╫╬©юабцдегиййклняяясжыэчъЮЮчшыыыззззшшээщщэывжжууттужжжуттттссссттттссрррсссссстуттттуужввжвввжуууууууууутсттяонмммммлллкккккккккккййииихийихгффффффффееееееееееецедффлuqг╬ю©©юю©©©©©©©©©©ю©©©ююаааааббцбббцццддееефгггффгииийклййкллллклмнммоононнммнноооопооннннооппяяяпппяяяяппяяяяяррряррррярррряяррсрррсрстттттуууувууууттуууужжувыззыьввжжужвввьзшэщщщэьтякйигецаю╬╫╪╪╩╩╩╩╫╧Ё╜╙╙╚╛╝╝╝╞╝╜╜╝╞╖║²≤≈≤≥■⌠▒░█┼┼┼┬┴┼┴┴┴┴┬┘└┘┤┬├┘└┐┌~}~─│┌└├┤┘─}z{}~}{ywuwxyz|~}|{wspnnnopqqqqqkkjifca_a^ZWX[]][ZYXWXY[Z\][YY[\[^bcdfhjonnmknnjimllopnoqty{{}~zvsqqrponnoooqstsswzyz─┴▐⌠≈°° ≥⌡···²°°²⌡≥≈≤≥⌡²··²²²²²²²≥√√≈≤≈≈≈∙■▄┴├└│}}───└┼░∙≤··² ≥⌡²·║╔╙╜╞Ё╣╤╤╦╧╨╨╨╪╫╬юаббцбаддфгфддегггхиклмопяяяяррсррррссрсррссстжжуууужжжыызышээшщщщщччччъъччччъъъчччщщщщшшшшшшшшээээээээшээззшшзшзьжутсрряяяяпономккйииккйгффгийхиигедбаюю©╫╪╨╦╥╢╡╞╚╘╗╔║║÷⌡∙░▓▓▌┴└│├┬┤├┤▀┼┤┤┤┤┼┴▄▐▌██▌▌█▌▌▐▒⌠▓░▌▌▐▒░█▌▒▓■≈≈∙▓▌▀└┌┌└└─{y|xuutssuuuuvwzzutuspopsuwyzzyyzz{||zwvwz}||zx||zzyvtstvxyuqommpsttrqrsstspooprtwxxxy{|zyyz{}}|{zz{}│└┐─│││┌┐└┘├┘├┤┤┬┴┴┴┬┬┤├┬▄▌▐▐▒▓▓▒▒▓■■√≥⌡⌡°·═╓╔╕╖╘╛╠╣╦╩╬©©юаю©©©©юбдефгхиийлнпярствшчъъЮчэзыззззззшэээщэыжжжутууужжжжтттссссттттсссрррсссссстттттттужжжжжжжутууутттттуттутянмммммллллллккккккккййййиихииихгффффффффееддддддддгцддфейuqг╫©©©ююю©©©©©©©юю©©©юаа©аббаабцццццццддддеефффффгхххийкййккллкклмнмноононмммнопоооооонннннооопяппоопяррппяяррррррррррррррсррярртсррррсттттууужжвжуууттутужуттжыыыььвжжуужвввьзшщщщщшвспкйхгдбаю©╫╪╩╩╩╩╨╩╦Ё╝╚╚╛╝╛╟Ё╡╝╛╜╟╙ё·⌡≈∙∙⌠▓▓▒▐█▄▀▄┬┼┼┼┼┼┴┤┴┬├┘┘┘├├└└└┐┌│││││┐┘┤└{wxyzyxwvyyyyz{{|~|xspnnnoonnnoomlkifda`a_\YY[\\ZZ[\[ZZ\Y[[ZZ]_^`ejllloqvsqnlopmjkllnnmmpu{}}──{wtqprrqoonnnoqssty||}└▀▐▓≈°·°⌡²÷═÷·²°⌡≤√√√≈≥°²°⌡°°⌡⌡⌡ √⌠▓∙≤  ≤■▒▀┴┤┤├┌~}┌││┐┬▐√ ║╒═²⌡°÷║╒╖╛╝╟╡╣╤╤╦╨╩╩╩╪╬╬©юаабааффгхххгфффгхиклмопррррррсряяррсррррттсстуужжуужьызшшшщэшщщщщщчччъччччъъъччччщщщэшшшшшэээээээээээээшшшшшзшыьжутсссряяяпоннлйййиийкигффгийииихфецббаю╬╪╨╦╥╣╢╠╜╛╚╖ё║·°≈▓▓▓▌┴├┘├┬┬└│┘┼┼┤┤┤├┤┬▀██▀▀█░▐▐▐░▓⌠▒░▌▌░▓▐┼┼▐░▒⌠∙■▒▌▄┘┌│└┘┐││─{vvusrttsvww|~vsttsrsvxwz|}{zz{}zxz|│~~{y~}{xvuuvtvtqpnmpsstrqqrssrpopqsuwz{zz{zwtvx{}~yyyz~┌┌─┌│─┌┐┌┌┌└└┘┘├┤┬┬┬┬├├┬▀█▌▐░▒░░░▒▓∙≈≥ ⌡°²·╒╔╕╖╘╝╠╠Ё╥╪©юааюююююабдеффгххйлноясссжзчъъъчэшззззыызшэээщэыжжжуужжжуутуттттттсссссрррррсссссссттсссттуужжжжжуутвжуттссртттутпмлмммлллкклллкккййййййййииииххггггггфффеддддддддддфцддециuqг╫©©©ююююю©©юююю©©©©юаа©юббаабццццццццдддефффффгххххиийййкккккклмнмнонмонмммнопоооооннннноннноппооопярряррсссссррррррррррссрррсттсрррссууууужжжвууууттусужутувыьььвжжуужввьььызщщчщшьспкйифдбаю©╬╪╩╩╩╨╧╧╥╢╟╜╛╜╝╞╡╢╢╡╟╞╝╕÷° ≈■▓▐▓▓▒▐█▄██┴┴┼┼▀▄┼┬┴┬├└┐└┘┘└┘┤┤├└┌┌││┌└└┌~{wwwwwvvuyxwxz}─│─}xspooqponmmopomkhfdba_``]Z[\]]\]^][\^]]\Z[`ccmpttqnoqwtsqoppljjkmlllkosx{|──zwussuvusomlklnprw|┌┴░▓■≤°÷══║║═÷·²⌡≤√■■■∙≈ ⌡ ≥ ≥≥ ⌡≥∙⌠▒⌠≈  ≈⌠▒█┴├┤┬┘─|┐┌│┌┘█≈·╒ёё═·÷║╒ё╗╜╞╠Ё╣╤╥╧╩╩╩╩╪╬╬©юабцццгфефиккиггхикмопнпрссррясряярссряяртутсстужжжжьыьзшшэщщэщщщщщщчччччччъъъччччщщээшшшшшээщшшээээээээээшшзшзывжжууттсряяпонлкйклйиииххггхииииихгфддцбю╬╫╩╦╤╢Ё╠╞╞╜╘╔÷²°≥■▓░▄┘┘┘┘└┌─~│┤┬┤┬┬├├├┬▀▄▀▀▌▒▒▒▒▓⌠⌠▒░░░▓⌠▌┬┤▀▐▐░▓▓░▌▌┘│┌└┌│││|wvussupptvw}~vstvvvvwxz}─│─~}}┌┌┌│~||~└┘│─}{──~|zyxxvwurqoorrrsrqqrtsrrrrstuvz|||{xuqsvy|}~~yz{{|─┌┌┌─│┌┌││┐┐└┘├┤┤┬┬┬┤├┤┼▄▄█▌▐▐▐▐▒▓√√√≤ °²°═ё╔╕╙╞╠╞╞╡╥╫адцюаааббцццеефгхймооясссузчъъъъщэшзззыыззэээчщыжжжжужжжутттсстуутсрссррррррссссстттсссттууужжжжжуууввжттссстттусомлмммллллкллкккйййиииииииийигффггхгггфедццдддддддддбдццахuqг╫©©©юююю©©юююа©©╬╬©ююююаабааббцбббббццдефффеффиииииииййййккккккмнммннмннмммнопооооннннноооннояооппппярпяярррррярррряррярсссрссттсррсссуууууужжжуууутужтжжуужььььввжжжжжвьььыззччччэытялкигдбаю©╬╪╪╪╩╧╦╨╧╥Ё╞╜╜╞╤╢Ё╢╥╤╟╘╓· ≤∙⌠▓░▓▓▒▌█▄█▄┬┴┬┴▀█▀┴├┘└┌┌┐┌│┌└┘┤┤┘┌────~|zxxxwvuttwvuvx|││~{vsqppqqponnoponlifdcb^ab`]\^_b_]^]\_ba`^]`fkmsuwvrooqusstrpmhihkmkklklntwy}~zwvuuwxwupomllmqt{┌┐┤▐■∙≤ ²║ё╓ё╒═·²° ≈■⌠⌠⌠■≈ ⌡ ≤≤≈≥ ⌡≤√∙▓⌠∙≤≤√■⌠▒▄├┘┤┤┐─┘└┐┌┘█≤║╒╓╕╓╒╒╒╒ё╗╜╟╡╣╤╤╥╦╨╩╨╩╪╫╬╬©абццегфефйммлххийлнопнпрттсряссррссссряртутсстужвввызвышшшэщэщщщщщщчччччччъъъчччщщщээээшшшээщээээээээщээщэшзшзыьвввжутсрряпонлкклмкйихххххииийххихфдддб©╬╪╨╦╤╡╠╟╞╞╝╙╕·⌡°⌡√▒▄┤~|{||||│└┘┤┤┘┘┐┘┬▀▄█░⌠■⌠⌠∙∙■▓▒⌠▓▓▓█┬├┤▌▌▐▒▒▒░▌┘─┌└─~~}zvtttuppsvy~zwwyyxvwx{~│┌┌│──┐┐└┘┐┌┐┐~}}│┌┌┌┌│~}}}}xtsrrusrrtttturrssttttux{}}zwuttvx{||{z|}||┌└┘┌─││──┘└└├├├┤┬┬┬┤├┤┼▀▀▀█▐▐░░▓⌠≈≈≈≥°··²÷║ё╕╚╟╠╞╜╞╡╦©еецабцддцбаддефхкмноясссуыщъъъъчэшзззыызшшээчщзжжжжттуужжуурстуутсрттссрссссссссттссссттуужжжвжжууужуутттттттттромммммлллллккккккййиииииииийигффгггггффедццддддддддцбецццйtpг╫©╬╬©©©©©©©юююю©╬╬©юююааааббббцббббццддеффееееххххиииийййкккккклмммннлннммнноопооонннмноонммопопяяяпярппяррряяяррряяррпярсррссрссрсттсттуууууужутуууужтуутувьвьвввввввжвььыызшщщччэыуялкифдбю©©╬╫╫╪╩╧╥╨╩╧╣╠╞╟╡╥╣Ё╢╣Ё╚╒║°≥≈■▓⌠▓▒▓░▌▄███▄▀┴┴▀▄▀┬┘┐│─││~││┌┐└┐│}~~|{zzyyxvussutsstvy{}zwutsqpooponmmllnolgccd`ccb`acde`^___aeeefilosvstwwtppqqoprqpmhhfjmjjljikpttvyxstsrsttrpnllllos|│┐└┬▒√≈ °÷║ёё╒╒·°⌡ ≤∙⌠⌠▓▒▓∙≥ ≥≈≈≤≥⌡ ≈∙∙⌠⌠∙≈≈√■■⌠▐┼┤┬┬├└├├┘└├▌≥║ё╕╗╖╔╔ё╒╓╗╜╠╢╥╦╥╦╦╧╨╩╪╫╫╬╫╬юаабдегххйлммиййкмноппярсррсстсссттсстрястттууужввььыьзшззшээщщщээщчччччччъъЮчччщщщээээшшшээщээээээээчээщщшшшэшзыььвжтсрряпнмнлйклкихггххииййкихихеццца╬╫╪╨╦╤Ё╠╞╜╝╜╘╔² ⌡°≈▐┤─zzxvvyzzy|~│┘└┐├┌└┬▄▐▐▒⌠∙■∙≈≈√■■∙⌠▒▐█▀┴┬▀▌▐▐▒▓░█└}{~}{|}~|vstuurssv|──│{zzzyvwy{|~─┌┐┐├└┘├┘││└│─{|}}┌┌┐┘├├┘┐┌┌┌│}zzxvvtrsvxwwwssttttttvvz~}yvwwwwx{||z{}~||┐┘┤└┌┌│~─├└└┘├┘┘┤┤┤├┘┤┼▀▀┼▄▐░▒▒⌠■√≈≥°²··²··═╔╚╟╠╟╟╞╞╡╨бееабцддццбддефхйлмпярссжыэъъъъчщэшыыыззшшшэчщзжужжуттужвжуттттттссттссссстсрррсссрссттуужжужвжуууууутссстттттсянмнлллмммммккккккккййиииииийихгггффееееедддддддддддццебехмtpф╪╬╬╫╬╬╫╫╬╬╬©ююаю©╬©ааацаююббббдццццддедеффеддефффгххииййййккккклмммнмлммнннноопоооннмммннмллмоопяряяяяррстттссяррряяррпяррррсспрсрсуутттттттттуттуууувтутстжвжььььььььужьыызшэшээщшьтялкифца©©©╬╫╫╫╪╧╤╨╩╨╤Ё╠Ё╤Ё╣╤Ё╟╚╓·· ≤≈■⌠⌠▓▌░▐█▄█▐▌░▌▀┼▀▄┴├├┐~{}─│─│──┌┌│─┌│}}}{{zxvtsrppooopsuywtsttqonoqqoljiinrohccfdddccfhhea_bcbcfjkqvxvtuvwxxupnopllnnookgdimjiljhioroosuppommnnmmkiihhko|─┌┐┬▒√√ °÷║║║══° ≥≤√⌠▒▓▌█▌▒∙≈∙⌠≤≥⌡°≥∙▓⌠▓▓∙≥ ≈■■⌠▒▌▄┼┼┬┤├┤┤┤┬▐≥║╔╖╘╗╖╕╓╒╔╗╜╠╤╧╨╦╦╧╧╩╫╬╬╬©╬╬юаабдцхккйклммммноопяярряярстттттуутсуряярсужуужжвььььзшзызшшщщщээщчччччччъъЮчччщщэээщэшшшээщщщщщээээчщщчщшшэщэшзыьвжтссррпнмолйййихгхггххийклихихебабю╫╪╩╨╦╤╥╢╟╜╜╛╗╓² ⌡²≤▌┐{xxwvwyywxy{~┌┌┌┤└┘┬█░░░▒∙■∙≤≤≈∙√√■░██▌█▄┴█▐▐░▓░▀─xsvxxy|{~|ursusstrt}└}|{zxwx{|||~─┐├┤┬├├┤┘││└└┌|||}│┐┘┬┬┤┘└└│┐│─┌~ywustx{zyxuuuttuuuwvy}}xwyxvuw{}|z{|}|}─┐└└││┌┌│┌├├└└└└┐┐└┤┤├┘┤┼▄▀┼▄▐░▒▒▓■⌠√≥°°⌡⌡⌡²²÷╔╛╟╠╠Ё╠╞╞╣╫цеабццдддцддегийкляярстжыэъъъъъщэшыыззшшшшшщщыжуужвжууввутутссрстттссрррссряяярсррсстуужжжужжжуттужутсррррттссянмнлллмммммккккккккййййиииииххххгедддееееееддддддддддебгмпsoф╫©╫╫╬©╬╬╬╬©©ююююааюю©©юююааабббббббцддееддеффггггххииийййййккккллмлмномооннноооонооонмнмллллмнопяяяяярсрярсссрррсссрппяяяярррррсттуууттжвуууутууттттууууууужьыввввввввужжьышэщщщчщшвсямкхфцбюю╬╬╬╫╪╨╧╧╨╧╧╧╦╣╢╣╤╣Ё╞╘╒·²²⌡≈■⌠■⌠▒░▒▓▒▐▌██⌠▄┤┴┼┤├┤┘┌}~~~──||─}z~─│─yy{z{ytwxqqpnmlnruvuutrqrtolmqrmiihnqnidchedbcegijgeddfiklruyyxwvtuwz{wqmmmifgjmmkiimpojiklnponmoqnlkklmmllgefdbis{─├┬▀░∙≈°·═║╒╓╒· ⌡⌡≥∙▓░▐▄┼┼█▒⌠∙≤⌡°·°≥∙⌠▓▐▐▐▓∙≈≈√■▓▌▀┼┼┴┤┘▀▄┼▀▒⌡╔╘╘╚╜╝╙╕╓╔╚╞Ё╦╦╧╩╧╨╩╨╨╩╬а╫©юааабцегйййкняопяррряяяяпппярссттттттстутссттсуттужвввжвьызшшшщчщээчъччччъъЮЮАчщщщщщэшщээээээшщщщщщщщщшшээээээщщэзызьжжутряяяямлкйййихгххгиккйхггххфб©╫╫╪╪╫╪╦╣╣╢╡╟╞╝╘╔ ·²≤∙▒┘wwwyyvvwusuwy└└─└┼▐▒░░▒▓⌠∙≥  ≥≤≤√⌠░▐▌██▌▄████▌█▀┌vqttwzxz|vwvstwttx{|└┌~xxzxvxy|─┐└├┬┴▀┴┬┤┘│─~───┌┘┤┼┼├└├┤├├┘└└┘┐─}xxz||yx{wvutuuuuvxz{zxvvwxxxy{||~|{{|~───│──┐└└┌┌─}|~─│┘┤┤┤┤┼▌▐▌▐▒▓■■■⌠░⌠≈≥≤≈≤ °²║╖╛╜╝╞╝╠╟╞╡╥╫ецефецццббдефхйлнппястжыщЮЮЮъъчэыззшшшззшэщщшвуужутсуввжттттттссссссссрррттттсссттттужжжжжжжжжжууууттссссрттрпомлннмлклммйкккййййиииииииихгфффффеггфеееееедццддцбцедцдднtoф╫©╬╫╬╬╬╬╬©©юююююааюю©©©©ююааабаааббццдеддддеффффггххииийййййккккллллмнмнонмнонннмнннмлмммллмммнопяяяярряяррряпрссссрряяяяярррррсттуууттужууууууууттттттттттувьввввввжжжжвызшэээщщщшвсямкхедбаю©╬╬╫╩╨╧╦╦╥╦╧╧╤╤╤╣╡╞╚╔÷°°≥≤∙▓▓⌠⌠▒▌▓∙⌠▐▄█░░▄┴┴┴┤┘└││─││─}│─}{{}~}{x{|}|wwyxyxuxytqommmorsrpnpqqqqkiimnljjlmljjgddfeeefggffghjlmoptwyyyxvttvyzvplkmjgfhiihijnsrnlnmoppnmmomkhhjmoomigfeekt{│├┴█▓√≥°÷══╒╓╒·²²° ≈⌠░▌┤┤┴█░▓√≥²·²⌡√▓░░▌█▌▐▓⌠⌠▓█▌█▄▄▄▀┴├▀█▀▄░≥╓╙╛╞╡╟╚╕ё╗╝╡╣╦╦╦╨╨╨╨╧╧╨╬ю╬╬©юююаадгиййкнпноярсссрсряяррттсттттттттутссттстттужжжжжвьызшшэщщщээчччччччъъЮЮчщщщчщщэщэээщщээщщщщщщщщээээщээээщэзыыьжвжтсряяянмллккйиййихиййиххгххфб©╬╫╪╪╪╩╦╤╣╢╡╠╟╞╙╕°·⌡∙▓▌│tssvxwxxvtwyz}┌└┐┤▀▐░░▒▓▓■√≥⌡⌡ ≤≈∙⌠░▌████┼▀▄▀▀▀▀┴┐yuwvy||z{zz{ywxyvvx{}┌├┌─{z|zwxuz│├┬┴┴┴┴┬┤├┐~{zz|~─┌┘┤┬┼▄▀┤┘├┬┤┴┬┬┤┤┘│~~}}}{yxyxxwvvvuutwyzywwwy{{zy{}~}zyz}─┌──│┌│─│─~}─┌┐┐├┤┬┴▀▌▐░▒▓▓⌠▓▒░░⌠≈≥≥≈≤ °·ё╗╛╛╜╝╜╟╟╞╠╢╧©дееддддбцдефгикмоопртуыщъЮЮъъъщшззззззззэщщшвуужжууужжутсссттттуррррррррсссссстуттстужжуууууууууутттссрррттяонмлммлкклммийкййиииииииииииихггггффгфееддддддцццццбюбаюабкrpф╪╬╬╫╫╫╬╬╬©©ююаюююююю©©╬╬©©юаааааааббццдддцддеефффггхххииийййккйкккклммлннммннннмммннмлммммммммноппппярррссряппрррррррряяяррсссрсстуутттужутууууууууттссттттувьввввжжжжжвьзшэээшэщэзвсянкгедца©╫╪╪╩╨╧╦╥╤╤╦╨╨╦╤╤╢╞╙╔═°⌡⌡≤≈∙⌠⌠■■▓▌▒⌠⌠░▐▐▒█▄┼┴┤┘└┌─┐┘┘┐─}│~|{{{|}zwyxxyuwwtvwvxzwsqnoqssrplilopomlkjjklkjonjhjheeihgggggggjoqrrtuxyzyyywutuwywqliliedefgglmqutpmnnoqqommnlhefinqqlkjhgipw|│┤▀▐■≤ ²═║║╒╓ё÷÷·²⌡≤∙▒▌┬┼█░⌠∙≥°÷·°≤■░▌█▄▄▄█▐▒▒░┼▄▌██▌▌█▀█▌▌▐░≤ё╛╝╡Ё╟╙╔╓╚╟╢╤╧╧╦╨╨╨╨╧╦╨╫©©©©юююююцфиййкмоноярттттссссстужтттууууусттсстутттттуууужвьызшээщщщээщщщччччъъЮЮщщщщччщэщщээщщщэщщщщщщщщэщщщщщээээшзыывувжусрряянмлллкйийкйииккиххгггебю©╬╪╩╩╨╦╤╣╣Ё╡╠╞╚╖÷÷ ■▒█┌vposwwwxuuyzyz└├┬▀▌▐▒⌠■⌠∙√≥°²°≥√∙∙▓▌█▌▌▄┴┼▀┴┬┬┬┬└|yzyz~~yz~|wutwwvwx|│┘─│}{}|yxy~┘┼▄▀┼┼┴┤┘┌~zwvxy|─└├┤├▀▄▀├└├┤┤┬┴┼┼┬├┐│┐┌─~|{ywwxxxxxxxuwyyxwwxx{}{z{││~{yz}─┐─││───~~~~~~─┌┐┌┘┬┴┼▄▐▐▒▒▓▓▒░▐▌░⌠√≥≥≤≤ °÷╓╘╚╙╙╚╙╜╝╝╠╡╢╧цдеддедццдефгхйкмнорсуыщчъЮъъЮъщзззззшшшэээзвуужввжжжуттттттттууяяярррссяррссстутсстууууууууттттттттсряястспнммлллккккллклллкйййиииииииийихгггфффеедццццццббцццбюбаюаакrqф╩╬╬╬╫╪╬╬╬©ююааааююю©©©╬╬©©юааааааабббцдддцццдефффггххииииийййкййкккллмлмнмлмнмннннннмммммннммммнопппярярссяпопяпппппяяяяяярсстрсстуутттжжутуутттуууутстуууужьыьввввжжжвьызшээшшэээзвсянйфддца╬╪╪╪╩╨╨╧╦╥╥╧╩╪╨╥╢Ё╛╔═²⌡  ≤≈∙■■∙■⌠░▐▐▒■■▓▐██▀┤└┐└┐─┌└├├└│|{}}||~{xzwwxvxursvxyz{wtqruwurpliknnljnnljknomoqnkighlljhhhjlnlpuwvvy{||{yyzxvtssuupkijgdcceilpqstsolkoprrpooohfdfkoqqnonllpw|~┌┬█▒∙≥°²═╒╒╒╓ё║═·° ≥√⌠▒░▒⌠√≈≥⌡°²° ≈▓▐█▄▀┼┼▀▌░▒▒▌░░▐▌▐░░░░░░▒▒≤ё╜╞╠╠╚╕╔╖╚╠╢╥╨╨╨╪╩╨╨╧╦╨╫©юю©юабаюбехйййлнопясттуусссстужжууууууутсттссуутттттуууужвьызшээщщщээщщщъччъъъЮЮщщщщччщщщщщщчччщщщщщщщщщщщщщщщээшшззыывжжутсряяпнмллккйиийиийклйххггфебюю╬╪╩╨╦╥╤╤╤╢╡╠╞╚╕╒║⌡∙▓░┤}qoqtttuswyyxy┘┴┴┼▄▌▒∙√∙∙√≥°·² ≈√≈∙▐▌░▐▀▀▀▀┬├┘├┬┘{zz{}}xz}ytrmuvvuvz│┌─}─}|┐┘┬┼┼┼┼┼┼┤└─|zxwwy}│└┘┘└┤┬┤└┌┐┐┌┐┘┬┴┬├┘└└└┌~|xtvxyyyzzwxyywwxyxz|zz}─┐┌│~─┌┐┌┐└┐│}|{||}~─│┌┐├┬┴┴▄▌▐▐▐░░▐▐▐▐▒⌠√≥≥≤≤  ÷╔╗╗╖╕╖╗╙╚╜╠╠Ё╥юцееддцбцддегхйкмморсуыэчъъъъЮъщшшззшшшшшээзвуужжввжуттууууутттсссссссссяррррстутсстууууууттттттттттсряпттянлммлллккккккллллкййкииииииихйихгггфеееддццбббббббцбббцаабакsqф╩╬╬╫╫╪╬╬©©юююаааюю©©©©╬©©ююаааааабббцццддцццефффггххииххиийййкккккклммкмнмлмммнннннммммммннммммнопппяянояпомммпооооопяпппяярссррстттттужжутттсссуужутттуууужьзьььввввжвьышшэшшшэээзвсянйфддцю╬╬╬╬╫╪╩╨╧╥╦╩╫╬╪╥╡╝╖═° ≥≥≥∙∙⌠▓⌠∙√∙⌠▒░⌠√≈⌠░▌█┼└│┌└├└└┘┘┘└┌│}{{~~|z{|z|xwywyutsvz{|}zwuuxxuqolklmljjklkikprqoqpljikplkklmpsuswz{{|─┐│─}zyyxuspopqoljjgdcdgkpqpqrrpnmprsrponnfefimppnqstqqu{~─└┴▐⌠√ °²═╒║╒╓╓║═÷°⌡  ≤≈≤≤≤≥ ⌡⌡   ≤∙▒█▀┴┬┬┬┼█░▓⌠▒⌠■⌠▓▓⌠⌠∙⌠▒▒▓▓≥ё╚╝╟╞╙╔╔╗╜╠╣╥╨╨╨╪╩╩╨╧╧╩╫╬ю©©юацбббехииикмппясстттттттужввжжжжууттсттссууутууууужжввьышшээщщщщщщщчъъъъъЮЮЮщщщщччщщщщщщчччщщщщщщщщщччччщщээшшзззывжуттсряпонмлллккйийихиккйхгггфдбаб©╪╩╨╥╤╤╥╥╣╡╟╜╘╔ё║⌡∙▓░┴│vqprrstswwww{│┬▀▀▄█▌▓∙√■∙√≤⌡²² ≤√≈∙▒░▓▒▌▌█▀┤└┐┘┬┤│zxz{yzyvxzxxwqtvvuux{|─└┌─┌└┐┐┴┴┬┤┤├┤┤┬┤├┐│~|zvz┌┐┐└┘┌└└┌│─}~│└├├┘┘┘┐┘└┐┌┌{vvxxxwwvvwxxwxy{{{{z{~─│└└┘├├┘└└┐└└┐─}zyzz{}─│┐└┘┤┴┬┬┼█▌█▌▌▐▌▌▐░▓⌠∙≤≤≈≤ ⌡═╔╗╖╔╔╕╖╘╘╛╟╠╡╤╩афгедццццдегиклмнорстьшчъъъчъчщэшзызшшшэээзвжужтужутттуууууттсстттсссссррсрррстттстужууууууттттттттсррятспмклллммллккккййййихииииииихххихгфффееееддццбббббббббцааююаюиrpф╪╬╫╫╫╪╬╬©©©юююааюю©©©©©©©юююааюааббббббцдцццефффггххиихххиийййлкккллммкмнллмммммннмллмммммммммлмноооппнноонммнппоооппяпппппяррррстттттужжтсттссттуууттттттужьыььььвввввьызшэээээээыжсямйфдцбю╬©©╬╪╩╧╦╥╥╧╪╬©╪╣╝╕║°≥≤≈≈≈▓⌠▓▒⌠√≤≥■∙√≈√■⌠▓▐▄┴└│┌┘┴┤┘┐┐└┐┌│|||}}zxw{z}ywyvxvwtuz}|~{ywvwvspmllmmlkkjkkijmnnonkjmmmpmoqsuwxyy{}~─┌└├┐│}xvuusrpnpqqonmifgghlpmmnpstttrrrqomllghjmopnmtvwvvx}─└├▄▓∙≤ °°÷║═║ё╓╒╒║═···²²²°⌡ ⌡° ≈√∙⌠▒█┼┤┘├├├┬┼▌▒⌠▒■≈≤≤≤≈∙≈√⌠▓■√⌡ё╗╛╟╟╚╕╕╘╟╣╥╦╩╨╧╩╩╩╩╨╩╪╫╬╬╬╬©абцццфхииикмпяярссссжжжжжвььжжжжуутссттстужууужжжжвввьызшшээщээччщчъЮЮъъЮЮЮАчщщчччщщщщщщччччщщщщщщщщщччщщщээшззшзьвжтттсряооонмммллкккйххиигфгггфецаб©╫╪╨╤╣╤╦╥╣╠╝╛╗╔╓╒°∙▒█┤│|tqrrsuuwvux~└┼█░░░▒■≈√∙√≈≤ ⌡⌡≥≤∙√∙⌠⌠∙∙▓▒▐▄┬┘┐└┤┤┐{x{{xxwwxyz}}zvuttttuv~││─┐└└├┴┬┬┤├┘┘┘└├┬┬┤└─}y|─~──││─~|{}┌┐┐┌┌┌┐┘├┘┘└│~|{zyxvsqsuvvwx{}}{{}~┌└┤┴┴┬├┘┘├├├┐~|{{z|┐┘├┬┤┴┴┬┤┴▀▄█▌▌▌▌▌▐░⌠⌠■√√√≤ ²║╕╖╕╕╕╖╘╘╘╛╟╞╟╢╦╬дфффеедцдехйклмморствшчъЮччччщэшыьыззыээшзьжжжтуууттужттттттттссссррррссссрррсттстужжуууууууттттсссрррсролклллмммллккйиййиихийиииихххххгфффеедееддццббббцбббббаа©©ю©хroе╪╬╫╪╫╫╬©©©©©©©ааю©©©╬╬©©©©©©ююююааббббабццбцеффффггхххгххиийййлккклллллмнмлмнмммннмлмммммллмммлмнннннооннннооопппппппппоооопяяррсттттттужтстуттуууутттсттттжьыььввввввьыызшэщщэээшыжрпкифцбю©╬╬╫╫╩╨╦╥╤╧╩╫╬╬╧╟╖÷°≥≤≤√∙∙▓⌠▓▒▓√≥≥■∙≈≈∙■▓▓▌▀┬┤┘┐┘┴├└┌┌┐└│}}|{{zxvxy~zwxuuvyurx|z{{zxwurpnmllnnmlllllkjiihlkhinpoptvxyzzzz{|}│┌│─}|xsppqrqonqssrrokikkjjmjjlptwwvqqponmmmlmnooonnrtwyy{┐┤┴▌■≤≥ °²═╒║╒╔╕╔╓╔╓ё╒══÷··°≥≈≈∙⌠░▐█┼┬├└┐├├├├┴▄▐▒▒■≈≥⌡° ≈≤≥≈√≥⌡÷╓╗╛╟╞╚╕╕╙╢╦╧╨╩╨╦╨╩╩╩╩╪╫╫╫╬©ююабцдегййийлнопяярсссжжжжжввьжжжжуутттттстуууужжвжввьььызшшшшэшэщчщчъЮЮъъъЮЮЮччччччщэщщэщччччщщщщщщщщщщщщщщээшыыззьжжууутсрпоннмммллкккйххиигефгггецбцю╫╫╨╤╣╤╦╥╢╟╜╚╗╔╕╔═≤▓▌┬┐─wrrrsuuvvw{─├▀▌⌠■∙√≤  ≤≈≤≤≤≈≈≤≤≈≈√√≈≈≈√■▒▌▄┴┘└┘┬┤z}|yz{zxy||}│{wtuuttuz|~─┐┌┌┘├┘└┐┐┌┐┐┌┘┬┴┴┬└│~~|||}}~~~}{{|}~──│┌┐┘└┌│┌│}|{zwtsuvwwx{}──~{yz|}|~┌└┘┘┘┘├┤┬┬┘│─~}~│└├┬┼├┴┼┬┬┬┼┼█▌▐▐▌▐░▓■⌠⌠∙∙∙≈ ·╒╔╔╔╕╗╗╘╘╗╛╟╝╜╠╣╧©беххгееефхйллклняртвшщъЮъччъччшыьыззыээшзьвжжууууттууттттттттррррррррссссрррстсстууууууууутттссрррррсрянккллкллллллккийййиийкиииихххххгфеееедддддццбаббббааабба©юа©иrnе╪╬╫╪╫╬©©©©©©©©ааю©©╬╬╬©©©©©©©©©ююаааааюаббббдфееффггххгххиийййлкйклллллмнмлмнммноонммннмллллмнклмммммннмллмоонооппппоооооноопяррстттттсуутсужжжжууттссттттужьзввввввввыыззэщччэээшьурпкифца©╬╬╫╫╫╫╪╩╩╨╪╫╬╬╪╤╙═⌡≥≥≥≤√∙∙▓▓▒▌▐▓∙√⌠▓▓■√√⌠░▄┴┬┼┬┘┘┬└┌─┌└└│}}~}zz{{xwy~{xxttuxtpvzww{{zwspnmommnpnmlkkllkjhhijijnopr{|||zzz{{{|~─zvutqmkloqmllprrrrnkjmnljjijlptwvtoooonopppppponoonpuy{}│┤┼▀░√≥≥ °·╒╓ё╓╖╗╖╔╖╖╕╓║÷÷²²⌡√▓░▐█┼┴┤┘└┐┐┐┬┤├├┬┼▌░■∙√≤ °° ≥°⌡ ²═╒╔╙╛╝╜╗╔╖╚╣╧╩╩╫╩╨╪╨╨╩╩╪╫╫╫юаабабдегиккййлноопяррссуууужжжвуууууууутутстууутужвжвьыьыызшшшшэшшщчщщъъъъъъъЮЮъчччччщэщщэщччччщщщщщщщщщщщщщщээзыыззвжужжжутсяпммллллкйййихиййидегхгецбцю╬╬╩╤╢╤╦╥╢╟╜╚╘╖╗╗╓²√▒▄┤┐yssrqrruvy}┌┤▄▐■∙≈≥⌡··²≥≥≤≈∙∙√≤⌡ ≥  ≥≤≤√⌠▒▐▄┬┘└┬┴┌}~}z~|zvy}z{├┐|wxxvvxx{}│└│─└└│}|}~┐├┤┤┤┬┤┘│─~~──│}||}}|{{zz{|}~~~~~─┐┌─│└┐─~~──~{vwxxxxz{~─~zwx{}vx{}─┌└└┘┤┬┘┌─┌┌──┌┘├┤┬┘┬┼┴┬┴┴┴▄█▐▐▐░⌠∙∙■⌠■■∙≈ ·║ёё╓╕╗╗╖╖╖╛╟╝╛╞Ё╤╧╬диигффегийккйкмпртвшщъЮъчъъъъщзызшззээшзьвжжжжууууууууутссрррррррсссссссррстсссстуутууууттттсряяяярсяпнккллкйкклллллхиихххийиииххххххгфеффееддддцббаабббюююабю©©ю╬хrmц╪╫╫╬╪╫©юю©╬╬©юбааюю©©©╬╬╬╬©юабююююааааабцеееедфффгггххххиййиххййккллкклллммнноннноннммллммллкйклмноомллмооннннопппооппнопппяррсряярссстууутстутууутсссссстужььжжжжвьввышшззщщэээшзьжрпкиеца©╬╫ю╬╪╪╫╫╪╩╫╫╫╪╧╡╖·⌡ ≥≤≈√■⌠⌠▓░░▒⌠■■▓▒▓■√√⌠░██▄┼┤├├┤┐│─┐└┌─}{zxwxyzwy{{zyyzutrrtvwvyxxxuqooomllmmljkjiikllkmmmmpuxx{xz|{z{y}|{zxwvvqpqnjknnljjlmnrxurqrqnnpmrttuspprrsutru{ytpoonprppqsvz│┤┬▄▌▓≥⌡°·║╒╔╕╓╕╘╖╘╙╙╗╕╓═°≥≈■░▌█▀┴┴┘┐┌│┐┘┘┤┬┬┤┤┼░■■∙√√≤ ⌡  ≥≥ °═╔╙╛╞╡╟╘╕╚╡╩╪╪╪╩╪╫╬╨╧╧╨╩╫╬©©аццббдфеикиилнммнпсряртужжужвжуттужжжуттввутужтутужжужььыызшшшшээщэээщъЮъччъъъчъччщщччъээщщщщщщшэщчччщщчщщщччщэывьызьввжттутяппмлккллкйкйииййихддеффецбец©╪╩╩╥╢╣╢╢╡╞╛╘╖╗╖╗ё≤░▄┴┐{ttuuuwxxz~┌┤█▓√≈≥⌡²·÷═·² ≈≈≥≤√⌡°⌡≥ ²⌡≈■⌠▓▐▄┴┬┤▀█▀┘─│┐─}yxy|||─{{ywwv|~||┌─~|~~}{zz|~│├▀▀┼┴┤└~┌│~}}~│─}~~~│─|{~│┌─~~│─}~┌└┐└┐│┐└│~~}{xxxyyz{ywz{xxwx{||~─└┐│┐┤┤└┐┌│┌└├┤┤├├┤┬┼▀▀▀┼█▌▌█░■∙■■▒▓∙■▓√°╒║═══╒╕╗╕╗╘╙╛╝╞╝╞╡╤╩аеикифцегийкйкмпртвшэчъъчщчъъщшзыььышэщэывжжыжтууутуутрстуусрсссссррссссрррруутсрртуутттттсртррсряртрнкккйййллккккййкййииииииххххххггггффееддцццццццббааааааюю©©©╫гqnц╪╪╪╬╪╬╬©©©╬╬©юбааю©©©©ааю©╬©юююююаааааббццдееефффггххххийййййиййккллллмммммннонннонннмннммммммллмнннмллмнонммнппппоннооопппяяррряярсссттттсстустттсрррттттужввььввввввышшззэщээшшзьурокифцаю╬╫╬╫╫╪╪╪╫╫╬╫╩╥╡╜╔·⌡ ≤≈√√∙■⌠▓▒▒⌠■■■▓▓▒▒▓▓▒░▐░░▐▄┼┬┤└┌──││~|{zxwwxz{{zzyyxvuttrqqtwyxxxxvrqqomljiiijkjiijllloqrtx}~~zvwyxwwvwvutsrqplmnmjmppjijmmmptsstsqoqspuvuurqtttuwvsuyvsomllptrpprv{│├├┼▄▒≤°²÷║╒╔╔╓╕╗╕╗╘╗╔ё═⌡≈■▓░█▄▄▀┴┬┐┌┌──┐└┘┘┘├┬▄░⌠∙√√√√≤≤√ ≤≤≥⌡·ё╖╚╞╡╠╛╚╟╥╪╫╫╫╪╪╫╫╨╨╨╩╪╫©©©абцбцдефйкйймнммнпррярттуууужжуууужввжусужуттттууужжужььыззшшэээээээщчъЮъчччъччччщщщччъэщщщщщщщэщщччччщчщщщщщээзььыывжжжттутяппнмклммлккйййййиххгфеефееецю╬╫╪╧╣╤╣╢╡╞╛╘╖╖╖╗╔°∙░▀┬│xtuvxywvw{└┼░√≈≤≥ ⌡°²÷°≥≈≈≤≤≈⌡°⌡ °·²≥≈■░▌██▌▌▄▐▌┴┐││┌┐│}{{||}~yxsrttz||~┌└│|yzzzxvwz}─┐├┬┴┬┘┌─~~~|xvw}└┘│──│┐┌│|}─┌┌──┌┌││┐┐┐┘┘└├┤└┘┐│~}{xvxywwxxxwy{|{{|~~└┘┌┐┐┐┌└┘├┘┐┌└├┴▀▄██░░░░▒⌠⌠⌠▓▒▓■■∙≥÷╒╒║║║ё╕╗╖╘╚╚╛╝╞╝╛╞Ё╦╬цхйкиффгхииийлоясжзэчъъчщчъъщшшзыыззшэшьуттжтстууужутсстутссссссссссссссссссссссстуттттттсртрярряясянккккйкккккккккйййииииийиииииххгггффеедедццццббаааююююа©©©©©╫гpoц╩╩╩╫╪©╫╬╬╬╬©ююааюю©©©©цаю╬╬╬©©юююааааацбббцдефефффгггхииииййййййкклллллллммнннннннннннонммммннммлмммлллмнннмммоппоннннопяяппярряппярррутсррсссссссрярртттттужвьььвжжьызззззэщээшзыьуяойхфцаю╬╫╪╪╫╫╫╫╬©╬╪╥╟╚╖ё═⌡ ≤≈≈√√∙⌠⌠■■∙∙■■▒▓▓▓░▐▐▐▒░░░▐█┼┬├└│~}|{z{zxvvwyz~{yxyxvsttspoqw|yyyxvtrsonljhhijkkjjjlnpuwy|│─}yuuusstssqppoonmiikljnqpiiknnlmoqtvsoortsxzyxtswxwwxvssurqomjjnrtqoqv{│┘├┴▀░≈⌡²═╒╒╓╔╔╖╗╔╖╖╔╒·⌡√▓▐▌▄┴┴┼┴├┐~~─~}│┌┌┐┘┴█▐░∙√√√≈≤≈■≤≈√≈≥⌡÷ё╖╚╟╟╜╝╢╪╪╫╬╬╫╪╪╪╩╩╩╪╪╬©юююабццддфйлккмнмлмпррярссуууужжуууужвввжттужжтстуужввжжььызшшэээщщээщчччъччччччччщщщщщчъщщщчччщщщщщчччччщщщщщээшзыьыывууутттсяппнмммммлкккйййихгхгедддееддбю╬╫╨╥╥╤╢╡╞╜╙╘╗╗╚╘╒⌡■▌┼┐zsrvyzwuuy~┐┴█⌠⌠■⌠⌠∙≈≤⌡≤∙■∙∙∙√≤ ⌡⌡°·² ≤■░▌▐░░░▌░▒▌┴┘┌│┘┐│~~~~zztrvuyz{~│┌~ywtuvtrsx}─┌┘┬┬└─}{zwssu{┐├│~│┐│~|~│┐┐┌┌└┘├┘└└┌┐┘├└├┴┬┴├┐┐└└─|yvx{wtuwwxz||zxwwyz|─┌┌┐┘└┐┐┘┘┌─│┘┬▀█▌▌⌠▓▓⌠▓▒▒▓⌠⌠■⌠■≈°║══║║╒╓╕╗╘╛╜╛╛╜╝╝╛╝╠╣╨©ехйкйггийийймпясвзэчъъчщчъчщэшшззшэщщэыжуууттууууужтсстттсрсссссссссссссссярсстттутсссттсртряяяпяромккккккккккккккйййииииийиииииххггффееддфецццббаююю©©©юю©©╬╬©╪фpoц╩╩╩╬╪╬╬╬©©ююааааю©©©©©ю©╫╪╪╫╬©©©юююааабббббдефееееффггхххххийййййккллллллллммнннннннннмммллмммнмллллллммнннннммноооооппяяяппяряяпппярржтрярррястссрррссссстужвжввжужыэззззшшэээшшзьуянихфца©╬╫╩╩╪╬©ююю╫╧╡╚╖╕╓║°⌡≥≥≥≤≈√⌠■∙√√■▓▒▌░⌠■⌠▒▐▌░▌▄▄██▄▀┤└─|yxyz}|zxwvvw|zwwxxvtttspoqv{yyxwvtsrqpnlkjkkijkklnruxz|}──}zxtsrpqrponllmmlkhhjkjmpnklmnmjjlqvxsoqtttz~─{xz}zwvtqooorsqmkmptqoquy└┴▀▀▐√ ²║ё╒╓╔╓╖╖ё╒═²≥√⌠░▌▄▄┼┤┤┬├┌}xy}|z|─┌┘┬▀█▌▒▓⌠■√≤√⌠∙■■∙√≤⌡·╒╕╙╚╙╜╢╩╪╪╫╬╫╩╨╨╩╩╪╪╫╫©ююююабцдцфилллмммлнпяяяррсууужввууууужввжжтуьвутужужвьввьыызшээщщчщээчъъчъъчччъччъчщщщщччччччччщщчщщщщщщщщщщэээшззыыььвжуутттсяппонммнмллккккйихгфеддддцбцдца╬╫╨╥╤╣╢╡╟╞╜╜╛╚╝╜╕·∙█├┌zrqvyxuuw|│┘┬▀▐▐▐▌▌▐▓■√⌠▓▓▓▒░░⌠√≤≥⌡²° √■▓▒▒░▌▄▌▒▓▒█┬┐│└┌───│──|{}xw{xxyyz{zywvprsrprx~─│┌┘┬┤└─|yxxusuxz┌└|{{}─}}┌┐└┌┐┘┘├├└│┌┌└└┌└┤┬┬├└┘┤┤┐~|~~yuvvvwy||zwtswyz│┌┘├└┐└┘┘┌┌┘┬┼▀▄█■⌠⌠■▓▐░▓∙≈√⌠■≤²═·÷═║╒╓╕╖╚╜╞╜╛╛╜╜╝╟╡╢╥╪бехклххклййкмпясвшщччччщччъщэээззшэщщэывжжжжжжжуттжуссттсрррррррррссссссрряррссттуссссттсртсяппяяянмккккккккккккккйййиииииииххххххфффеедддедцццббаюю©©©©©©╬╬╫╫╬╪фpoб╩╪╪╬╪╫╫╬╬©юаааааю©©©©©╬╬╪╪╪╫╬©╬╬©©ююююааббцдддееефффггггггхиййийййклллллллммннннннннннкллммлллнмккклллммннннннмноооопппяяпппяяяяппппяятсяяярряссссрярррррстжвьжввжужыэззззшшээээшзьуянихфцю╬╫╫╩╩╩╬бца©╧╢╛╖╕╖╔╒°⌡   ≥≈∙⌠■∙∙■▓░▌▌▐▒⌠■⌠▒░▐█▀▀██▄┼└┐─}zxyy}|{zywvuyxwvvuuuutrqrsvwwvutttsssqommljhgikmnquywyz|}}{xurqpnopnkjiiiiihhgijimommmmljhhirwyutvxwuy}│┘┌─│}xuqnlknrtqmlnoqppqtx~┐▀█▄▐∙⌡·ё╔ё╓╓╒╒║²≈∙▒▌▄┼┴┴┴┴┬┘├┤└{vw{{z|}}┐┘├┬┴▀▄▄█▐⌠∙⌠▐▓▒▒⌠■■≈ ·╒╔╕╕╚╢╩╬╪╫╬╫╩╧╨╨╩╪╪╪╫╬©ю©©юбцццфилммммммопяррррртууужжуутттужжжжууввутужжжььввьыызшэщщщъщэщчЮЮъъъчъъъччЮъччщщщщччччччщэщщщээщщщщщщщэшшшзыыьььжутттсряппнннннмлккллкйихггфеееддццдца╬╪╧╤╣╣╢╡╡╠╠╠╞╜╝╝╖·⌠┼└┐}usvvtsuy─└├┤┬█▌▌▄▀▄▐▒▒▒▓■⌠░█▄▐▓∙≈≥  ≥∙√∙■▓▐█▄█▌▒▒▐┼┘┌┐─~~│┌─~zz|xx{xxwwvvvvvurtusqsy~┌┐┘┤┤┘┐│{xwwvtw{┐┌~}|{}~─│││┌┐─┌┐┐┐┐│~┐┌┐┌│┘┤├├├┬┼┴┤└┌┐└│|||yvvwyzzwssy{{~│┐┘┘└┐┘├├┐──┐├┬┼▀▄▄▓▒▓⌠▓▐░⌠≈≤≈■∙ ·÷²·═╒ё╔╕╗╚╝╞╜╚╚╛╛╞╟╠Ё╣╨©цфкмйиллйийлнпруыщщччччччЮчщщэззззшшзвжуужжжжууттуутссссрррррррссссррррррссрррсттссссссрртсяппяяпнмлкккййкккйййййййииииххииххгггхффеедддддцбббббаю©©©©©©©╫╫╫╫╬╪фonб╩╪╪╬╪╪╫╫╫╬ююююаю©╬╬╬©©©©╬╫╪╫╫╬╬╬╬©©ююю©юбцддццефффгггхггггхиййиийййкллмммммнноммммммннкллммлккллкйклллннмнноннмнопооооппппопяяяяппопяяяппярсссярррряяярррсужьывввжужьзшзззшзшэээшзьуянихфцю╬╫╪╪╪╪юддю╪Ё╝╖╓╕╗╕╒²⌡ ≥≥≤√⌠∙√≈≈∙⌠▒░░▐▐▐▒▓⌠▓▐▌▌▐▐▌▀┬│┌┌─~{xwzzzzyxwvxyzxvtuvutrstvvussrqrstsrpnmmlifhknprtwzy{|{yxvtpooomoomjiihhhhhgfghimomllkigfghquwvvzzywxz└└┌┘┌zvrnlkknokiknnnnpsvz─┘▄█▌░≈°÷ё╓ёё║²⌡≥∙▐▄┴┤├┘┘┘└┘└┌└├└~}xy{|}~|}─┐└└┘┤┴┼┼┼▄░⌠▒█▐▐░▒▓⌠∙≈²═╒╒╓╚╣╪©╫╫╬╬╩╨╩╧╩╪╪╪╫╬©ю©©©абццфхкммммнопярррряястттутсттссужжжжутжжуттжуувььвьыызшээщщщщщщчъЮЮъъъъъъъчЮЮъчщщщщъчщчччщээээщщщщщщщщщээшшззыьььвутутряяпоннннммлкклллйихгхфдбццдеддцю©╫╨╥╣╣╢╢Ё╡╡╡╞╛╚╙╔²▓┬└└wssroqtz─┐┐┐└┴┼▀┼┬┬┼▀▐⌠√≈≈■░▄█▐▓■∙∙∙∙∙■⌠▒▐▌▌▐▀▀▄▌▌┼┘┐└─}}─│~{zxyvwzxyvvvuvvusvwxvtuy~┐└┤┬┘┌─│}zxxwvwz│┌~}{}│┐└┐──││┌┐┐┌───┘┌┌┌─┘┤└┘┤┴┴┴┬├└├┤└─┐└─yxvvwxvsw|}|~─│┐┐┐└├┤┤┘┐│└┤┴┼▀▄█▐▐▐░░▒▓■√≈√∙≤²÷··÷║ё╔╖╗╙╚╜╝╜╛╛╛╛╜╝╞╠Ё╥╫беиллллйхййлнпруыщщччччччЮъччщзызызшзвжжжстутттуууутссссрссссссттрррррррртсрррсттссрсссрярряпяяяолмлкйкйикййййиииииииииххииихггххффееддеедцбаббаа©©©©╬╬©©╫╫╪╫╫╪еooб╨╩╩╬╪╫╫╫╫╬юаюю©©╬╫╪╫╫╬©©╬╬╫╫╫╫╫╬╬©©ююю©юаццццбеееффгггггггххииииииййккллллммннмммлмммнллллкккккйййклмлнмммннннмнооонннпппооопяпяяпоопяопяррррсярссряяяссстужьывввжвьызшыышшзшээшшзьупмйигда╬╫╪╫╫©бдб╪╦╝╙╔ё╔╗╖ё═²≥≤≤≈∙⌠√≈≤≤√∙■■▓▒▒░▐░▒⌠▐▐▐▐▐█┼┤┐┐┐┌─|yvxxxxxxxxxyzyvuuutsrsuvvuqqpnoqrqponnnnmlmpsvwxyzz}~zvrpollnnnppljjjihgijigghimoljjihffhiptwwwxyxxyz~│~┌~~{xtpnmknmihmnlkknt{─└┤▀▌░■ ²²═÷÷÷²≈∙■▐┼┤├┘┘┌│┌─││┌┘┌|}yyz}│┌}~─│┌┐└├┤┼┴┴▀░⌠▒███▐▒▓▓■√ ²·÷╒╛╥╬ю╫╪╬╬╩╨╩╧╨╪╫╪╫╬ююю©юабцдфхкмммнппрсррсряярссстсртссстужжжжутужуттствььввыызшээээшээщщчЮАъъчъъъчщъъчщщщщчъчщщччщэээщщщщщщщщччщээщшшзьььвууутряяпннннннмлкклллйиххгфдццдееедцааа╬╨╦╥╤╣╢╡╠╠╜╗╖╖╓·√▄┘┐~wrpompty}~}~─┌└├┤├┘┤┬▌■≥≥≥≤⌠█▀█▐░▐██▌▐█▀┴┴┼▀▄┼┬┬┼┼┬┘┐┘│~}}z{xyxxyvxwwvuvwtqwxxwwx|┐└├┤┘│─}zxz{yy{}|~─{y}──┌└┐│─│││┌┐│─└┘┌┌┐┌┐├┤┐└┘┤┬┤┘└├└└└┐├┤┘|xuvxwty~~{|}}}─┌└├┤┤├┘┐┘┴┼▀▀▄█████▐▓■■√∙■√⌡÷÷²·═╒╓╕╗╙╚╛╜╜╜╛╜╜╛╛╜╞╞╠╣╨©бфймнлйхйклопржзщщщччччщъчччщшзззшшзьжжжсуусстуууттсссссрррррсстрррррррртссстттсссррсрряпппопяпмкллййккикййиихххииииииххиихгффгхгфеедееедцбаааюю©©╬╬╬╬╬╬╫╫╪╫╫╪фopц╧╧╨╬╪╬╬╫╬©аааю╬╬╫╪╩╪╫╫╬╬╬╬╬╫╫╫╫╬╬©©ююа©юабццццдддеееффеффггггхиииииййкккккллмммллллммнлкййийййййийклммнмлмнннмклмноооооооооопяпяяпоопяпрссряяяяртттрряссстужвьжжжвьзшшшыышшззэшшшзьтпмййхеа╬╫╫╫©бдц©╧╣╛╘╔ё╓╖╖╕ё÷ ≈≈≈√∙∙√≈√∙■∙∙▓⌠■⌠░▐░▒▌▌█▄▄▀┼┴┤┘┐│|zxyxvuuvwxtuvvutssrrrsuvwvsrpmnoonmnnooqstsux{||{zwz|ytpnmkknooqqmijjigfhjkhgghlnkhiihghjkrvzzywwwy{}─zwzz{{yvrpnorqnnrpkjjmv~└┬┴▄░▓√°²⌡⌡  ⌡≥■▓▒▌├└└└┐─~}}}─┐─yzxwy}┘├───│┐└┘├┤├├┴▌▓░█▄█▌▒▓▓■√≈≥⌡⌡═╚╦©ю╫╩╫╫╨╧╩╧╨╪╫╫╫©юююююабдегикмннояясссстспясттттсртссстужжввжттввусрсжввввыззшшэээзшэээщъАъчччъъчщччщщщщччъчщщччщшшэщчччщщщчччщщщщэщшьььвтужурппоннооонмлкйкллкиххгггхххфефецбццю╫╨╧╦╤╢╡╟╞╚╔╓╔╓║ ▒┤┐}vqppprtxzyx{~}─└├├├┬┼▄■ ≥≥ ∙▌┼▀██┼┬┬┬┬┘┌┌└┘┘└┴├┘┤┬├└┐└┌~~~}|zvyzzysuyxustvtpuvwxy{┌└└┘┤┘│|xw{~~~~|zz│{x~─~~│┐┐│┌~│|┘┐─│└└┘┤┤┘┘┘┤┬┤┘┌┤││┘┘┘┤┤├│zuvxxu{}yz{yy│└├┤├├├┘┬┼▀▀▀▀▄▄█▄▀▌⌠∙■≈■⌠≈²÷·°·÷║╓╕╗╙╚╛╜╜╛╜╝╝╛╜╝╞╞╟Ё╦╪©бхмпмйиийкмояуыщщщччччщчщщчщшзшзззыжтттувжтртуутттсссссяяяяяррсссссррррррстуутсссррсряпнооопяоликлййккйкййиихггииииииххгхгфеефггфеедеефдцбаюю©╬©╬╬╬╬╬╬╬╫╫╪╫╬╪фplб╦╩╩╩╩╨╪╪╫╬©юю©╬╫╪╩╪╫╫╫╬╬╬╫╫╫╫╫╫╫╬ю©╬©бааабцдцбцдефгггфгххгггххиклкйийлйклммнммммммммммлкййкккйлкиийлллммммннммннннннооооппппоояяряяпяяяррряяяяррттуттсстссувьввввьыыззшшшшзззшшшззьтокйхфдбю©юабцда╨╢╟╕╕╕╕╖╖╕╔╓║°≥√∙∙∙■∙∙■⌠▓▓▓■⌠▓░▐▌██▀▀┴┴▀▄▀█┼┘└└|{yzxvvwxxwsrrsttsrpqtwyywvprqnlnmkoopqsuwxww{~~||─ywuspmkkmjimqqolljkkhhjikkjhikkihggjlmoqtvvsrvww{}ywzvqttuwxvsqqrpoqttronrv{┌┤┬▀▄▐░⌠≤≤√∙▓▓▓▓▒▐█▀┘││└┌|xyx{│┌─|wux{|~────┌┌│┐┘┘┌┐├┤┤▀▓⌠░▐▒⌠▓▐▐▓∙⌠∙■≈╒╝╦╬╬╬╬╪╩╨╨╩╧╨╪©ю©©юаюабццдфгилннопясттсррссстттттсррррстууувжуужвьыууувьввьыыызэчщззшшшшэщщччччччъъчччччщщэччъъъъччччщщщщщщщщщщщччъээшшзыьжвжусрппоомммннмклллккиххихиккйиифедааааю╩╦╤╤╢╟╚╘╕╔ё╓╔╔·≈▀├ysprvuvvuuw{~{{┘├└┘┼▐▓√≤≥≤∙▒▄▄▄▄┼┤└┌└─{vuvwwz│┐┌└┤┘┐─┌┐┌─~}~}}~|xvwzywttuspqpv|{{│┤┤┤┤├└┌││xvvx|}zw}}|{|}}|}{{~─│┌└┘└┌~z{┐┌││┐┘┤┬┴└┘├├└┐└┤┘┐┌┐└┘┤┼┘└─|{{yvz|}|yxyz}┐├┘┐└├┘┬▀▄▀▀█▐▄▌▐▐░▒▓░∙▓⌠ ··²·║══╒╕╘╚╛╛╚╘╙╝╜╙╚╚╜╞╟╟╠╥╪╬бфймнкгййкмносвшэччччччщъЮъчэзввьыыьвжтуууутттттттсссттрсссрррсрярссяпяррррссттсррссяпяяпопяпомлкккккккйййихийлииииихххггхххггффффеедцццбаююю©╬©╬╫╫╬╬╫╪╫╩╬╪╪╪дpmц╧╪╪╪╪╩╫╫╫╬©юю©╬╪╩╩╩╪╫╫╫╫╫╫╫╫╫╫╫╫╬©╬╫©аааабцдцббцдеефеефгггггхиийккйийлкккллммммммллммммлййййййкйййклллмммнннммннмннооооппппппопяяяяяярряпярсряяярссссссссствввжвьыыззшзшшззыыззззывснкигеда©╬©ааба╫╤╟╝╘╗╕╓╓╔╕╗╓║·⌡≥≈√∙▓▓▓▒▒▒▒▒⌠⌠▒▐█▀┴┬┴┴┤├┴┼┼▄┴├├├┌~||zwuwzzxrqqrttsrqrtwxwusprrnlnonqrtvwxxyxz~│{z|zwtqnjiimjilopppnkjjghjhegiijmnmljimpqqrossrruwvvwtsurnqqqsuusssrrqqtvtpsx|─┘├└└┬▀▄▐■■▓▓▒▒▓▓▓▐▀┬┐──zxxy|│─|ywuxz{}──┌┐┐┐┐┐│┐┐└├▀▐▒▒▓■■⌠▒▒⌠∙■∙⌠∙║╜╤╫ю©╫╨╧╧╨╪╧╨╪©ю©юааюабббцдфилноопясттсрссссстттсрррррстууувжжжвввжууувьввььыыышщэзшшээшэщчччччччччъчччччщщччъъъъъчщщщщэщщщщщщщччччщэшззыьвжутсряппнмммоонмллллкйххихийихггедю╫╫©ю©╪╦╣╢╡╝╚╘╗╖╕╔╔╓÷ ▌┬│}wstxvvuvwyyyyx|┌┘└┘┴▄▐▓√≥ ≤∙██▄▀┴┘│~ztommmmpvyy}││┌│┌┌││┌│┌│││~yww|{yvutspnpx~}~─┐┌─~|zzyxxxyyy{|{{|~~|{z{~─~┌┐┌─~~─┌│┌┌└┘┤┬┤┘┘└┐┌│└┬┤└┐└┘├┤┬┘┘┐│─{xyzyxvvwyz}┐┤├└└┘┘┬▀▄▀▀█▐▄▌▐▐░▓▓▒▒▒∙°═÷²²═══╒╔╗╘╙╙╙╗╙╝╜╚╜╜╝╞╟╞╟Ё╥╫аехлмликклнояуызэщщщщщщчъъчщэшьььыыьвутжуутттттуттсссссрссррррссрррряярярррсссссррссяпяпооояпнккккккйййииихххийххххххххфггхггфеееееедццбааааю©╬╬╬╫╫╬╬╬╫╬╪╬╪╪╩бnnд╨╫╫╫╫╪╬╫╪╫©ю©╬╬╪╨╧╨╪╫╬╪╪╪╪╪╪╫╫╪╪╫╬╫╫╬ююююабцццбццдеееееффгггхихийййийлкккклллмммллллмммлйииииииййклллклмннмммнмммннооппппппппппяяяяяярряпястсряяяррсссрсрртжвжжвьызшшэззшзыыыыззшыжрнлигеда©©ацбю╫╥╠╛╛╙╙╗╔ё╓╕╗╔╒·⌡ ≥≈∙▒░▐▐░▒▒▒▓▒░▌▀┬├└┤┤└┐├┬┴▄┴├├├└┌│}|yuv{{wrpoqtuutttuvvvtsoqqnmoqrtuwyz{||||~~{vvxxurpmjjjmlmoqqqrqmkjijkigjmnnoponllorrqokoqqruutrrpooljmnnoqssstuvutvzytxzyz}}}│┘┤▀░░▐░░░▒▓▓▐▀┤┌─~|zyxw|}│}wuwxxyz|─~~┌└┐┌┌┐┐│┌├┼█▐▓▓▓▒▒▒▒⌠■■■▓∙║╜╣╨╬╫╪╨╧╧╨╩╧╨╪╬©©аццаабцббцфилнопяртуусрсссрсссссрртсстуууувввььвутжужвьвьыьыыышщэзшшээээщчччччччччъъчччччъчъъъъъъчщщээээщщщщщччщщщщэшзыыьвттсряяяяонмноонммммлкйихиггхгедддб╬╩╪╬©╬╫╧╣╡╟╜╙╘╙╙╗╕╔╓║·▒┴│~zttwvuuxzzxuwux└└┘┤▀█▐▓≈ ≥≈▐█┼┴┤└─}~ysnljihilnpuxz~───│┐┌─┌┌│|xvuzzxvtsrqnrz─~}z─~{{}|zwyzzywwxzxxxy{~}{yz}─│|{~─┌│─~┌└└└┘┬┤┘┘┘└└┌│└┬├└└┘┤┤├┤┌└┘├├┘│}|{xvtuvwy}┌┤┬├┘├├┬┼▀┼┼▀█▄█▌▌▐▒▓▒▐▒≈·║═÷÷══║ё╔╖╗╗╖╗╗╙╜╛╚╝╞╞╞╟╟╟╡╢╪©цфйммлкклмояжззшщщщщщщчъъщээшзььыыьвутжуттсттуууттссссрррряярстряяяяяряяррррррсррссяяяяпопяпмйййкккййиииииииххххххххххгггггфееееееддццююаааю╬╫╪╫╫╬╫╬╬©╫╪╬╪╩╨бnnд╨╫╫╫╫╪╫╪╩╪╬©╬╪╬╪╧╦╧╩╫╬╪╪╪╩╩╩╩╩╪╪╫╫╫╫╬ю©ююаббццццдеееееффггфгхихиййййкллккккллммммллммммлиххиийиийккллккмонмлмоннннооооооппппппппяяяяррряяясссрррряррссрссртжвжужьышэээззшзыьыыышшыуянлкхфдбабедб©╨Ё╜╙╚╘╙╙╗╓ё╓╕╕╒²≥≤≥≤∙▓░▐▐▒▓▓▒▒░▌█▀┴┤├┤┤┐┌┘┤┴▄┼├┘┘└└┐}~{utxyvsqoqtwwvuuuuuutsmpqooquvwxyz|~─│┐{xustuusqqonmnnorttqppqmlmmnolmoqqqrrpqooqrpnmknpqqrrpppnmkhhjlkknpqrtwyxuw|{usspprsuz{─┘┼▐░▌▐░░░▓▓░▀┤└┌~yxz{z~}~{usv{zyz}──~z|│┘└┌┌├└┐┐├┴█▐▒▐▌█▌▒⌠■■■⌠▓≈╓╝Ё╥╦╧╨╩╩╩╨╨╨╩╪╬╬╬юцдббццццдгимоппяртууссстсссссссррутттужжуввьььвутвжжььььыызззшщэзшшээээщчъъъъччччъъчщщчъъъъъъъъччщщэээщщщщщчччщээщэзыыыьвутсрряяяпоннннмлнннмлйиххфффецццба©╫╬©╬╩╬╨╣╠╞╛╚╙╛╙╗╕╔╓╒═≈█┐{urtttvy{zuqurt{│┌┌┐┤┤┴▄▓≈≤≈▒▌┼┬┤├└│~xrmjgfehijlpprw|}}|}─~|ywvwywvuuvustv{}}{}zy{~|wvxz{zyyzxwwwz}}|y{┌┐│~}}─┌┌│~~└┘└┌┐┤┤└┘┘┤┤┘┐└┤┐└┘┬┬├├├─┌└┤┴┴┤┘└─{wvvvvz}┌┤┬┬┬┼┬┼┼┼┴┬┬┴▀▀▄█▌░░▒░■≥·══║ё║╒ё╔╕╖╖╖╕╗╗╙╛╙╙╝╟╝╞╠ЁЁЁ╢╨╫бфиклмккллмпуышэщчччччщъъчщщэзыьыыьжуужутссстуууттссссррррярррсрряяяярпярссрряррррряяяяппярплииййккйихииииййиггхххххххггггффееедддддццююююю©╬╬╪╫╬╬╫╫╬©╩╨╫╩╩╩цomц╧╪╪╪╪╩╫╪╪╫╬©╬╪╬╪╧╦╧╩╫╬╫╪╪╩╨╨╨╨╪╪╫╫╫╬©©©©ююаабццддееееефгггффгххиййййккллккклмммммммммммкиххиййиййййклмкмннмлмнооооооооооооопппппяяяяррярссрярсттсрррссрсссуввжужьзшээшзшшзыыыззшшыуянмлифдццегдю╩╤╟╚╘╙╙╚╚╗╓╒╓╕╖╒⌡∙∙≈≈√⌠▒░░▒▓▒░▒▐█▀┴┬┬┬├├┐│└├┤┼▄┤└└└┘┐~|~|vstuttrqsvyyxwvtsrrrrmoqqruy{yz|~─│┌┐├─zvuuttrqqrrqppqrtuspnnljknoqqnlmnoruusrrssplklnoppppnlmlllihikjiilnoqsxywrswupkllnppquy~└┼░░█▌▐▐▐░░▐▀┴├└~xwz}|~|{|ytsu{zyz}─|y{─┘└┌┐┤└├├┘┤█░▐▌▄▄▌▓∙∙■▓⌠■°╘╟╡╢╢╣╥╧╩╪╫╫╪╪╫╬╬╫юццаабцццдгймоппяртуутстттттттттссуттттууувввввжжжвжвьыьызызззшээзшшээшэщчъъъъччччъччщщччъъъъъъчччччщщщщччщщщчщщээщэзыыььвжутсряяппонннммлнннмлйихфееедцбцба©╬╬©╬╩╬╩╥╡╞╝╜╛╛╘╕╔╕╔╒═²⌠┴┐}wrrrtvxwtpmqopv{||}}~┌┴▐⌠⌠▒█┴┤┬┼┴┬│zsnliggiiijljkpvxyyxz}~~}zyyzzzwuvxywvzz|{z~─}yww{─┌~zxyyz{{{{xwvvy|}|y{~─│┌│─│┌└└┌─┘└│─┐└┌┘├┬┬├┘┘┬│└┬┼┬┘└┘┌┐└├┴┼┼┼┼├─{xwwvy|┌┬┼┼┴┼┴┴┴┴┬┬┤┤┴┼▀▄█▌▐░░√°·÷÷║ё║╒╓╔╕╖╕╕╕╗╘╙╚╙╙╝╟╝╝╠Ё╢╢╢╦╪афхийкллллмптьзэщчччччэчъъччэзыььыьжууутсррсттуутсссссрррярррряррррряяяярссрряррррряяппппппокхииййййихххийккиххххххххиххггффффдддддцццююю©©©©©╫╬╬╬╪╪╪╫╩╨╪╨╨╨бnmц╧╩╩╩╪╩╫╫╫╬©©╬╬╫╩╧╦╦╨╩╪╪╪╩╩╨╨╨╨╪╫╫╪╫╬©©╬©©юююабцццддддефггффффгхиииййййккккллммнммммммнлкихийййиийййклмклмммлммнноооооооооооппппяяяяяярястсяпясуутсссссстттуььвужьзшэшшзшшшзззззззьтянлкхеееееею╪╥╡╝╙╘╙╚╚╘╕╒║╓╖╕╒⌡∙⌠√√∙⌠▒░▒▒▒░▐▒▐▄┴┤┤┤┤┘┘┌│┐└└├▄┬├┘└└┌}|}}yusssvutuwyzzxvspopppprtuwz}{}─┌┐┐│─│}ywwvsqqpqssqpptrqqpnllhgjnopqnnmmoswvsqqrqliikponmmlkjjhjljjllggikmmoqwwsnnpnjjjhjllovz~┐┬▐░█▄▐▐▐▐▐█┼┬┤└yx{}}}{zzwtstzzz{}}zz}│└└┐└├┐┤┤┘┤█░█▌▄▄▌▒■⌠▒░⌠√═╜ЁЁ╢╢ЁЁ╢╥╩╬ю╬╬©©╬╫©бцаюбццццгймоппярстусстуууууууууттсссттутвввжжжвььввыыыышыззззшшзшэээээщчъъъъъъъъъччщщчччъъъъъчччъчччччччщщщщщщээщшзыыььвжжусряппнннмнннноонмлйихфеефецццдб©╪╩╪╪╪╪╪╧╣╡╟╝╜╛╗╕╕╖╔╒÷÷≤▌├─ztpprtspligkkmqttuvyyyz~┐┤┬▄┴┘┘┤┴▀▀┘|somjjkjjhhiggkptvvuw{}}}|yxyzzyvtvxxwv|{|{z}}wwy}┌┐│~~{xwxz{{wwvuvyzzxz|}~─││┌┐┐┌│─││├┌~}~─││┤├┤├┘└┤┼┐┘┬┼┤└┐└┬┤┤┬┴┼▀▄▄┴└─}{zyz~└┼▄┼┬┬┤┤┤┬┴┴┴┴┴┴┼▄█▌▐░░≈·═÷···═║ё╔╔╔╔╕╖╘╘╙╛╙╙╜╟╝╝╟╡Ё╡╡╥╨юефгхймннмняуьызэщщщщщшщъъъчэззььыыутуттсррсттттсссрррсряяррррярсррррпяяррррряярряяяяпоооонлйхиийййиихххииййигххххххххххгфффффеддцццццааю©╬╬©©╬╬╬╫╪╪╪╪╪╨╪╨╨╧юlmц╧╪╪╪╪╩╪╫╫╬╬╫╬╬╪╩╦╥╥╧╨╨╩╩╩╨╨╨╨╩╪╫╫╪╫╬©╬╬©©©©юабцццццдддеефееефгххххииииййклллллммммммммкйихиииихийкккллкллллллллмнноооопппппяяяпяяяяяяряррряярстсссссстстттжььвжвышээшзззшззззшзыьжтямккхфхигца╪╦╡╞╜╚╙╙╙╙╗╔╒╒ё╕ёё·≤√√∙⌠▒▒▒▒▒▒░▐░▌▀┴┤├├├└┘┌│┐┌│┌├┤┴┬┐│{}|||zvssvvvwwxyzwuqoopqrvwxz}││─│││─}|yyxxxwspqqrssrqrtqnoonlkihlooprppqqsuvurnnmmjhjlnljiiijkjfiljkmkhilmljkmpoliijjhigddfhmv{~─├▌▒▐▌▐░▓▒▐▄┴┬├└─}{||{}}}zwuuvyz{|~|xz~┌┐└┘├├┘┤┬┬┼▌░▐▐██▐▒⌠▒▐▐⌠≤╓╟╢╢╣╣Ё╠╠╢╦╪╬©©юа©╬юцебацддццфхлнпярсрттсстуужжжжууууутсстужжввввжжжвьввыыызшзээшшээшээщщэщчъъъъъъъъъъъъчччччЮЮЮъъъъъъъъччщщччщщэээщщэшззыывжжутсряппнннннноооонмлйхгфффгфдццццю╪╨╨╩╩╨╩╨╥╣╡╟╜╛╙╗╘╗╓═÷·⌡■▀└wooppnkgfffhknnnpsxyxwx|─┌├┘└└├┬┼▀└zojhggillifgfgkorttsuwxvxxwvwwvtstuuuvw|{|{yz}}yz{~│┌│──|xuvxz{xyyxxyyyy{|{|~─│──││││┌┐┤┌~~──│├├├├┘└┤▀├┘┘┤┤├┘├▀▀▀██▄▄█▀┼┬├┘┐│─│┌├┼▀┴┬┬┤┤┤┬┴┼┼┼┼┴┼▄▌▌░▓⌠⌡══··²°÷║ё╓╔╔╕╕╗╘╘╙╛╚╙╜╟╝╜╞╠╠╡╡╤╧╬бцдгйлноносвьызэщщщщчшщччччщшзььзыутутттсстттсссрррррсррррссрярряярряяяяяяяяяпрряпяяонопомкййййййииииииййиххххххххххххгффеффгеддццбббюааю©╬╬╬╬╫╫╫╫╪╪╩╩╨╪╨╧╧юlnц╨╪╪╪╪╪╨╩╫╫╪╪╫╬╪╨╦╥╥╦╧╧╨╨╨╨╨╩╩╪╩╪╪╩╪╬©╬╬©ю©©©юбццццддддцддедефгххгхххххийккллллммллллммкйиииххггхйлкккллккллмллкклнооппппппяярряяряяпяяяяяяррррррссстттссттжььжвьзэээшзыззззззшзывуспмйкххйлхб╫╩╤╠╞╝╜╛╚╖╗╗╖╓ё╒ё║ё║°≥≤∙▒░▒▓▓▓▒░░▌█▀┴┬┤├├└┘┐┌┐┌─│─┘▀┴┌~}z~{z~~yusvvwwwwxyvspopruv{z{~│┐┐┌├└─}{zzzvxzzywutrqrstsstromorplilloqpqsrmpstvvtrnlkkkkmolifefhjllgjmkkmikmonkgfhgfdcdfggcccehgjr|}~└▌▓▓▓░⌠∙■▒▄┴┤├└┌─}{z~─│}wvwxy{}~─|xy~│┌└┤┬┤┤├┬▀█▌░⌠░▐▐▒■■⌠░▐⌠≥╔╠╣╢╤╢╡╠╠Ё╥╧╨©юабю©адгецдеедцдгкнпястрстсстуужжжжжжжжжууужввввььвжужжыььыыызшэщщээщщщэщщщщщчъччъъъъъъъъъъъчччААЮЮЮъъъЮъъччщщщчщээээщчшшзззывжуутряяпппооннннооонмлйхггггхгеццбцб©╪╨╧╧╧╩╩╧╤╢╟╜╛╚╚╚╗ё÷÷·· ░┼┘|rnnmkigggdgkmlknrvwxwy~┐├├├┤┬┴┼▀▄┤|qkihilookffgilqrsrrrsrpsuvvvvtqruvutw||zzzwx|~z{|}~──}{xwvxyz{~─~}||{|~~||~───│┌└├┤┴┌│┐│─┐└┘┬┴┬├┤┴┤└┌└┤┴┴┴▄█▐▒▒▐▌▐▀▀▄▄▀┼┴┬┴┬┬┴┴┴┼▀┴┬┬┬┼▀┼┼▀┼▀█▐▐▒⌠≤·║÷°²·²═╒╓╔╔╕╖╗╗╘╗╙╜╛╚╝╞╜╜╞╠╡Ё╢╣╥╪юабфккноопсвьзшэщщщччэччщщччэшььзыутуттттттттссррррррсрррсссррсрппрсряяяппяяяпярппяпооярпмкклйййииииийклкйххххххггггггффеееффеедцббббюаббю╬╬╫╬╫╪╪╫╫╪╩╨╧╩╧╧╧аmnб╨╨╩╫╨╩╩╪╫╪╩╩╪╫╩╧╥╤╤╦╧╨╧╦╦╦╧╨╩╪╩╨╩╫╫╪╫ю©©юююаааббббццдеддддефгхффгхиййййййкклллкккллмлккйииииииххиййкккмммллммммллмноонппппппяяпппяяяяяярррссрррррсстттттттуувьвьзшшзззшзыьызшшзьжтсплйкиимлф╬╨╥╠╝╞╟╜╙╘╚╙╙╗╕╓╒║÷║║² ≈■▒▐▒∙■▒▒▓▐▌▄▀▀┼├├┬┐││┌┌│─│└┬┤┌|z}~~}{xwvuy{xwxywtspruuv||~│┌┌││─|yz|zuwwsqstrqttttqprwspmlnonmnoqqpqstrqw|ywuomnmjlonkigedegjkjjkllkjjijjhfec`aba_`bddacbbdejqv{─└┴▌▒░▒∙≈■▐▀┴┬┘┐}|x│┌│|yxxx}}}~~{xy}┌├┴┼┤┐┴▀▄█▐▓▓▓▓▐■≤∙■■░▌⌠·╙╡╢Ё╢╢╡╠╡╢╣╦╨╪©ацебюцеддефгедггимятсрсряярсужуууууужжвжжжжжввыыыььыьвьыззыышщщщчщэээщщчщэщъЮчЮъъъЮАЮъЮЮЮъъЮЮЮъЮЮъъъъщъъчччщщщэээээщщщээшшзьввжутсряппоннмннопнонлиггххфеддеддбццю╫╫╩╨╨╩╪╨╥╡╝╜╛╚╘╗╗╖ё·°²· ▒┴~spmkklligghjmmkntvwxz~│┐└┘┐└┤▀█▄▄┘|qkijjilmligghhpppooppopnqtrrssqsqruqpxyy{{wsv|||}||{}|||}}}|z─┌┐│~}│└├└┌│─│┐└││──┐┤┴┴├┐│┌├┤┬┴┴┬┬┬┬┘┌│┐├┤┼▄▄█▐▒■√⌠▐┼┼▄▐▓▓▐▄▄▄█▄▀┴┬┤┴┴┼┴┴┼▄▐▄▌█▄▐∙≈∙÷÷÷···÷═══ё╔╕╕╖╗╖╘╙╚╚╛╛╜╜╞╟╟╞╟╡╢╦╧╪╫╬юдхклмнпсувызшщччччччччччччзььыьутужжжуутттрстсррстрссряпярсрррряясряяппппяпяяяппооопомллкииииййиихииййииххггггггггфффффеддедцбббаа╬юбцаю╬╬╫╫╫╫╪╩╩╨╧╨╩╨╩╦©onа╨╨╨╪╨╩╩╪╫╪╩╩╪╬╨╦╤╣╣╤╦╦╦╦╦╦╧╧╨╩╩╨╩╫╫╫╬ю©©©юююаабббццдддддефффффггххииийхииийййклллммнмлйиххииихххиййкккммммммммлллмноооппоопппяяяяярррряяррссррярррссстттттужввьышэшшззззыыыззззьжусямккклмйц╪╦╣╞╛╝╞╛╙╘╙╘╗╕╓╒═÷·║╒·≥∙⌠▓░▒■⌠░░▓▐▄▀▀▀┬└└┤├┐│││~~~│┘┤└─}~~}}|zxwuxxvuvurstuw{{|│┌┌┐┌│~|zxxxwtsturoqrppsrrsrqqrroljjmoppqqpooqrssw{{ywrnmmnmkihhgfefhkmlklmmkjkiigdbba`aba^]^``cdcabcgovz─┘┼▐▓⌠⌠√≈■░▄┼┬┐}│─~}┐┌|z{{z|}~~|zy|─┐├┴▀▀┴▄░■√≈≤√■∙▓√ ≤≈≈⌠▒≤ё╜╡Ё╢╣╣Ё╡Ё╢╣╤╦╩╬юбедбееееееееехийнясрярряяртужттттттуувжуууужвьыыььыыььыззызэщщчччщщщщчъчщчъъчЮЮъЮЮЮЮъААЮЮъъъъъЮЮъъъъщъчччччщщщщщщээээшшшзыьвжжутсяпппооннноппоонлйхггфеццддддюба©╫╪╩╨╨╩╩╧╤╡╟╝╜╛╚╘╗╕ё═²°² ▒┴vrommoomkjjlnmlouz|||~┌└└│─│┘┴┼▀▄└|rlkjigjkkigggfjkmnoppoomprpoomnpnoqopwxxzzwrty{|}|zz{}{{|~─│~─││─~~─┌┌││─│┌┐└│┌┐└┘┬┴▄┼┬┬┤┤┴▄┴┬├├├┤┬┬┬┘└┘├├┤┴▀▌░▒⌠∙■⌠▌▌▌░▓▓▒░▐▐▐▐▌█▀┼└┤┴┼┼┼▀▄███▐▒■≈⌡═÷÷²²²·÷═║╒╓╔╔╖╘╗╙╚╛╛╚╛╛╜╞╠╠╠╠╡Ё╤╦╨╩╫аехклмопрувызшэщчччччччччччшьвьвттжттттттттсстсссссрррряяярсрррряяссряяпппппппоооооппомллкииййййиихииииииихххххггггффффееддедцббббаюаааю©©©╫╫╫╫╪╩╨╨╨╨╩╧╨╦©nmа╨╨╧╩╧╨╩╪╪╪╩╩╪╫╨╦╣╢╢╣╥╥╦╦╦╦╦╧╧╨╨╨╩╫╫╫╬ю╬©©©ююааббццдддццдфггфеехххххииииийййккккккллллкихггхххггххийккклллллллмллмммннооооооппяяяяяяярряяррссссрррссстттсссувьвызшэшшзззыыызззыыьжутрнллнолгю╨╣╠╜╛╜╜╚╘╙╚╙╗╕ё╒══·╒╓═≥■⌠⌠▒▒▓▒▌▐▒▐▀┼┼┼┤┐┐├├┐│─~~~~┌┘┘┐│|{{{{{zxtutstvuruyz{┌┌┐┤├┘└┌}|{xwzytststropqppqpoqsrpnpomkjlprqqqpoopqtvxz~}ywommolgegggggghknlkklkjijihd`^_```a`\Z[]_eeb`_`emwz├▀▌▓∙√≤≈■▒▌▀┬┐~}│┌──┐└─{xz|}{|│─}{{|─│┐└┤┼█▌█⌠≤⌡°⌡≥≈√⌠∙≤≈≈√▓∙°╖╟ЁЁЁ╣╤╣╢╢╢╢╢╤╧╪╫афедфдфффддефййкнпяпорряяртужттттттттжутсстужьыыьыззыьыззззэщччъччщччъъъччъъчЮЮЮЮЮЮЮЮААЮЮъъъъъЮЮъъъъщчччччччччччщээшшшшшзыьввууусяппппоооооппонлкйигфцбаабцццюаю╬╪╪╩╨╨╨╧╥╣╡╠╟╜╜╛╘╖╔╓╒·°° ▒┬ytqonpqpnmlmmllqw}~||│┐┌─┐├┤┴┼┘}tnmligijjihhfdcfjmnnnonmprpmkhkmmnomouvvxyvssuy|~}zxz||zyz}}────~─│┌┌┌┌~─┌┐┐└├┬▀┼┼▀▀▄█░▄┼├┘┘┤┬┴┬├┘┘┘└└┘┬▄▐▐▐▒⌠■░▐▐▐▐░▒▒▓▓▓▓⌠▓▐█┘┤┴▀▀▀▀▄▐██▒▓⌠≥÷═÷÷²°²·÷═║╒╓╔╔╕╗╘╙╚╛╚╚╚╚╚╛╝╟╠╠╠╠╤╥╦╦╩юефйлнппруьызшэщщщщччччччччщывввутжттттттттсссттсррряяяррррсрррряярссряппоопоонннноппнлллкиййййииххххииииихиххххггггффеееееедцббббаааю©╬╬©ю╫╫╫╪╪╩╨╨╨╧╩╧╨╦©nnб╨╨╧╨╦╨╨╩╩╩╨╩╪╪╩╦╣╢╢╣╥╥╦╦╦╥╦╦╦╧╧╨╩╪╫╫©ю╬©©©ююааббцдддццддефгффехххххииййййккккккййкллккихггхххгггхиййккккккккллклмнммноооооппяяяяяпппяяяярррссссссстттттсрсжььвзшээшзззыыыыззыыьвжутромнпоиц╬╦Ё╞╜╛╛╚╘╘╙╚╘╖╓ё║║║·║╓║ ∙⌠⌠▒░▒░██▐█▀┴┴┴┤└┐└└┌───││──┌┐┐┌zxwxyzzxsrqrv{{x{~~|─┐└┘┬┤┘┐│~|{}{{{yuuvsusprsrsqooprrommoqqonoqnoppppqruyxz─~yypnmkgddggghhggiljihhhffghfb^]_aa]]]ZXY]`dda^^_emxz┤▀█▒∙≥≤≈■▒▐▀┬└│─│─│└┌}wtvyzz}│┐│}z{~│───┐├┼██⌠≤ ⌡  ≥√⌠▓■∙■⌠▒≥═╘╠ЁЁЁ╢╥╣╢╢Ё╡Ё╣╦╨╩©ефдфефффддефийкмопоняяяярсужтттттууувутррсужьыыььыыыьызззшэщччъччччъЮъъчъЮъъъЮААЮъЮАъъъъъЮЮЮчЮЮъъъъчщщщччччччччщщээшшшшзыььвууутяпппооооооопомкййифдююююаббцюаю©╫╩╩╨╩╨╦╤╢╡╡╠╜╛╙╖╕╔╓╒÷⌡ ≤░├~ytsqoooooonlkjlqw{~}xx}───│┌└└┘┤┴┤─wpnnlikkjiiifdadhklklnonrtqnkfgjmnonortstvvttuy}─~zxy|─{vux{|{─│┐┐─}}~─┌┌│─│┌┐┌│┐├┴┬┤┤┴┼┼▄▐░█┴┤┤┬┤├┐┐┐┐┐┐┐└├┴▄▄▄█▐░▐▐▌███▐▒∙■■■√∙⌠░▄▄▄▀▀█░▓⌠░▐▒▓∙ ÷·÷÷···÷═÷═╒╓╔╓╔╕╘╙╚╚╚╚╚╙╚╚╛╝╟╠╠╟╥╦╥╣╦©ццилоппруьыызшээээщщчччччччзьввжуууттссрррссссттрпрряярсрясрярряярссряяпоопоннмннооомкклкиййииихххххххииихихххгггфгфееддеедцбббббабаю©╬╬©©╬╫╫╪╪╩╨╧╨╧╨╦╨╦©nnб╩╨╧╨╦╨╨╨╨╨╧╨╨╩╨╦╣ЁЁ╢╤╥╦╦╦╦╦╦╦╦╦╧╩╩╪╫╬©╬©©©юаааабцдддццддееффффгггххиийииийййййлкклммлкиххгххггггхийккккккккллллмннммнооооппяяряяяпппяяррррррссрссссстттсрсжьььзшшшззызыыызззыьвжуутспнпокею╫╦╡╞╝╛╚╙╘╘╘╗╕╓╒║══║°·÷· ∙▒▐▐▌░░█▄█▀▄┴┤┴┴├└└└┐┌┐┌││┌┌│─~~─┌┐{xvvwxxwusrtz─┌│┌┘┌│┐┌┌├┘┐│~}}|~}xuuvutvtrtuuvqqqqqqqporuuspppmnpqqqqqswwx~|vvsrnfbcfhhhhhfdfihgeedcdedc`]]`a`ZYYWVW[^`a_]^agowy├▀█▓≈≥≤√■▓░▄┤┘┘┌~~│└└─|xuuvxz|│zwz}}|}┌┘┤▀▒≈≥ ≥≥≈∙⌠▒▒■⌠▓▓²ё╚╡╣╤╣╢╥╤╢Ё╡╠Ё╤╦╦╧╫децефффеееееххйлноооппяярсттттттуууувутсстувьыьввььвььызшшэщщччччччъъъчъЮЮЮЮъЮАЮъъЮАъъъъъъъъчъЮъъъъчщщщщщччччччщщщщэээшзыыььууутрпппооооооооолииихеб╬╬©©юааббба©╫╩╨╨╩╨╥╣Ё╡╡╠╝╛╘╕╕╖╔╒═ ≤≈░├~wssrolkmnomkihkpvx{{ww{─│││┌└└└├┴┴┐yqnnnknmljihfcabehijmqqqtvtqnhfhklmpsttssttttux}│~ywy{┌}xwy||{~}┐┤┬└─}│┌┌┌─┐└┘┘┘├┴▄┤┘└┘├┤┼▄▐█┼┴┬├┐──│││┌└┘┴┴▀▄▄▀▀▀█▌▐▐▌▌░▒∙■⌠■√√∙⌠⌠▓░▌▌░⌠√√∙▓░⌠≤⌡ ⌡²·÷÷÷÷═÷═╒╔╔╓╓╔╗╗╘╙╚╚╙╙╜╜╜╝╟╡ЁЁ╥╥╣╢╥╫бцхкнппруььызшээээщщщччччъчшыыьжуттттссррясррстсяпсряярряпряярряяррряяяппппоннмнноннлййкйииииххгггхггхиихгхххггфффффедддддцббаабааааю©©╬╬╬╬╫╪╪╪╩╨╧╨╧╨╦╨╦©nnц╩╩╧╨╧╩╧╧╧╧╧╧╧╨╦╤Ё╠╠Ё╣╤╥╥╥╥╥╦╦╦╦╨╩╩╩╫╬╬╬╬©©ююаааббцццццддееффггффгххиииииййййййккккллккйихгхггфггхийккклллллмммммнннннопппппяяяряяяяярррррррррсррррррсстсрсжвььзшшшзыззыыыззззыжутуутяоямгб©╪╤╠╟╝╜╚╙╙╘╘╖╕╓╒║║║╒²²²·°≈▓▐▌█▐▒▌▄▀┴▀┬┤┼┼┤├├┤├├┘└┌│┌──|{}│┐}{xvvvvvxwwz┐├├┤┴┤└┘┐──└┐│}}}}{~}wtvwvvwtruvuuqssqpqrrstuutsrropqrrqpopstuxvssttofbdghihggecdgigdcbabc`_][\__^XWUUUUXZ\^]]`cjruy┘┼▌■≤≤≈√■▓░▄┤└├┐~~┐┘┐─}zxwvxzwz{yutwz|ywy}─┌┐┤█⌠≈≤√■▒▒▒▌▌▒▒▒∙║╖╝╢╥╦╥╤╥╤╣╢Ё╡╢╤╥╦╦╪бцбдффффффедфгикноппппяярсстссттттттжутстужвььвжжввжвьызшшэээщчччччъъччъЮЮЮАъЮЮЮъъъЮЮЮЮъъчщщчъЮъъъъчщщщщщччччччщщщщщээшззыыыуутсряпоооопоооннкхххгдю╬╬©©©ююацаю©╫╨╧╨╩╨╥╣╢Ё╡╠╟╜╙╖╗╗╔╒═ ≤≈▒┴voppnjikmnljhgjpuy{{yy|│└──│┌┐└├┼┬┐zpkmnmponkigeca`bfhkouuuxywurkggiikrxwutssssssv||wwxy~|yy|~}|||~┐┤┴┬┘─│┌┌┌││─┌┘┬┴┼▀▀┤└┌┌┐└┤┴▀┼┴┤├┐|│┌┐┌│┐┤┴█▄▀▄█▀┼┴▀▄▌▐▐▐░░■⌠▓⌠∙√√∙∙■■⌠⌠■∙√≤≈■▒∙⌡°≤ ⌡·÷════÷═ё╕╕╓╓╔╖╖╗╘╙╚╙╙╜╜╜╝╞╟╡╢╣╢ЁЁ╤╩адгймпясуььызшшэээээщщччъъщэшзьжутссссссссссссссряссрррряпряярряяяяяяяяяпппооннннннмкииййииххгггггхгггхихфгггффффееееддццццбаааааюаюю©©©╫╫╫╪╩╪╪╪╨╧╨╧╧╥╧╦╬mnб╩╩╧╨╧╩╨╨╧╧╧╧╧╧╥╣╡╟╠╡╢╤╤╤╥╥╥╥╥╥╦╨╩╩╩╫╬╫╫╫╬╬©юююааббццццддеффффеффгххххгййййййййййййккйййихгггфеггхийклллллллмммнммнноонппппппяяряяяяярссррррррррррррсссссстужььзшшшзззшзыыззшззжуууууряпйеб©╨╢╟╟╝╛╚╚╚╙╘╖╕╓ё╒║║╒²²·═÷ ■▒▐▄▐▒▐█▄┼┴┬┴▀┼┤┤┴┴┤├┘┌──│}zy{~|zxvuvwwz|~│└├┬┴▀▀┴┤┤┐─┌└┐─}{z{{|||yxxxyyxtruvtsqssqpqrrsrssuutsrrrrqqpppprsrstsrrplihiijfeffdehkhdb`__a_][Y[]]\XUSTUUWXZ\]_beksv{│┘┼▐■≈√√√■⌠▒▄┬┘┘┐──┐┐─}{yywvvwrsssrruwwsrv|─│┌├┼▐▓⌠▓▐▀▀█▀▀▐░▓≤ё╙╡╤╦╦╦╦╥╥╥╥╣ЁЁ╣╤╥╦╪ацбеефггфедефгилнопяяяррссссстттутттуутттужввввууввжввьызшэээщччччъъЮччъЮъъЮЮъъъъЮъъЮЮЮъъчщэчъъъъЮъччччччччччччччщщщээшзыыыыжусссрпноопппоонмкхххгцю©©юю©©©юаю©╬╪╧╧╨╨╦╥╤╤╢Ё╡╠╟╛╘╗╖╔║═°≥≤∙▐┐wjjjjiijklkiggkptz{||{|│├│──│┐└├┴├┐{pjkmnpqqnkhfda_`dhlqwzz||zyvokiklmtyustttsrrqv{~zwwyyzxvvy|~~}}~─└┤┬┬┌┌│││││││┐├┬┴┴┬┤└┌┌┐└├┬┴┬┤┘┐┌─└┘┘┐┌┘┼█▐█▀▀▀┴┬┬┬┼▀█▌▐▐░▓▓▓▓⌠∙√≈√√√√≈≈≈≈≤≈∙∙≤⌡°⌡°²·÷÷═║╒╒╒╓╕╕╔╔╖╖╖╗╘╙╚╙╙╚╛╜╝╝╞╠Ё╢╡╡╢╣╦╬дфхлоясжввьышшэээээщщччъъщщэыжттусссссссссссссрссрррряяярряярряяяппяяппппоооннннннмкихййихххгггггхгфгххгфггффффффдддддццбцбаааааааю©©©╬╫╪╫╪╩╩╪╪╩╧╨╧╦╥╧╦╬mmб╩╩╧╨╧╩╩╨╧╧╧╧╦╦╦╣╡╠╠Ё╣╤╣╤╤╤╤╥╥╥╦╩╪╩╩╫╬╫╪╪╫╬╬©ююаааабццддефггфецффххххфеххххххххккйкллкккихггфеегххйккллкккккллмонмнопонппооопппяппппяррссррррррссссттттссттужвышшшшззшэззыызшззжууужусрниец©╦╡╟╟╝╛╙╚╛╚╙╕╔╓╒║═══°°·═÷≥■▓▐█▐▒▐██▀┤┬┼▄┴├┤▄┬├└┌}~──{xxz{zyxvutvxz{┐┤┬┴┼▄▌▄┤├┘┐┌├├┐─|zyyy{yz|{xx{{ytruvsqqrrqqrrppppsvwurtsrqqqqqqorsoqvunmorqmjlifdfgfgjlieb_]]^_]ZXY\\[WTSUWWXYY\^`dflsx~└├┴▌⌠■∙√√∙⌠▒█┴┤└┐┐┐│~yvuvvtrsnooopruvtomsz─│┌┴▀█▌▐▐█▀┬▄┼┼▐▒⌠°ё╛╣╥╥╥╦╧╥╦╧╨╥╢Ё╢╣╥╦╪аццфцфиифддефхйлнпяррррссссстууужуууттттужжвжвжуувьвжвьызшшшэщччччъЮАъчъЮъъЮЮъччъЮъчъъъъъччщчъъъъЮъчччччччччъччччщщщэшззыыыывусссспноппяяпонмкиххфцю©юаю©╬©©©╬╫╫╩╦╦╨╦╥╥╥╥╤╢╡╡╠╞╙╖╔ё║═² ≥≈⌠┤xeeefhjjikkihhlpt{{|}{z├┐┌│┌┐┐┘┤┘┐|qjkmnprsqmjgeb__dilqw~}|ysnloqqvxoprttssrqw|~zwxzzyvsrty~│~─┐┘┤├└┌│──┐┌┌┐├┤┤├┼┤┘┘├┤┬┼┴┬├└┐┐└┘┘┤├┐┌┤█░▌▀┴┴┤┘┘┤┬┴┼▄▌░▒▒▒▒▒▒▓■≈≥≈≈≈≈≤≥≥ ≤∙√≥⌡ °÷÷÷÷÷═║ё╔╔╓╓╔╔╔╖╘╗╗╗╘╚╚╙╘╚╜╞╟╞╞╠Ё╣╡╠╢╣╣╩цегкнятжввьышэээээээщччъъщчэьтстжууттссррстттсстуярсряярсряярряпяппяяппооноооннммнмкииййихххгггхххгфгххгеффффффффдддддцббцбааабаабю©╬╬╬╫╫╪╩╨╩╪╪╩╧╨╦╦╥╧╦╬mmа╨╩╧╧╥╨╦╧╧╧╦╥╤╤╤Ё╡╡ЁЁ╢╣╤╥╦╥╤╤╥╥╤╧╫╫╪╩╩╪╪╫©юююююабббббцдцдеффффеффгхххггфгххггикйййклллкйиигффеегххийккклкйкмнмлммннноопооооооярппппяррссяпрссрсрсстттсссрртжьыьзшээшззззззшшшзьжусртуспйгда╫╦╢Ё╞╜╚╙╚╚╘╖╓╕╕╓║═·°⌡°²··²≤▓▒▌▌░░░█┬├┬┴┴┬┤┤┬├┘┘└─{{~}|{z{zyxxwvwy{}~┌┐└┘├┴┴┴▀┼┬├┌┌├┼┴┐}zyxww}xw}┌─|z|yvtttrqoprtrooqoonpuywttsqprttstqnopqrspqqqrqlhdfffgijijkh`[Z\\^]YVVY\]XVUUVWY\[^]`egkw}─┘┴▄▐▒▓∙∙∙∙■░▀┤┤├└┌┌─{uqssqqrrqmlkmpqqproouz|~│┬▀██▄▀┴├┤┼┼┬┼▌≈═╓╞╤╤╥╧╧╨╦╧╨╧╥╤╤╥╧╧╧╨╩╬бедеггфеддггхикмопрсттсррруужуттужууввжувзьжжвввьыььыыызззшщчщчъъчъччччъъъъъъъъъъъъъъъъъъъъъччччъъччччччччччъчщээщщэшззыьвжтстсяоопппяпнллнмкхеббб©аа©©юю╬©╫╩╩╧╥╥╦╦╦╥╣╣╤╣ЁЁ╞╛╙╕╕╕╓÷°°⌡√▓▄┘mcaddgjhghihhkorwwx{|x{└┤┘┐┐└┘└┐┤└}umiiknqrpmjgef`^bgkpv|}─│wooorvxtopnppoqsryzzzxxz~zyxwvuy||~}y~┘┘──├┬└┌┐┐│┘└┘├├┘├┬├┴▀┼┬┬┼▄▄▀┤└┘┬┤┐┘┤┤┘┘┬┼┼┼┴┬├├├┤┬┴▀▀▄▌░▒░▓▓▒▓■∙∙■≤≈≤ ⌡≥≤≤√⌠■ ²°²═²···═ё╔╔╔╓╓╓╓╓╕╗╗╘╙╙╚╛╙╗╜╜╝╝╝╟╡╢Ё╠╠Ё╣╤╩©дхклпувжвьышээшзээээщчъъъчшьжуутжжутссрррсссссррряярряярррррряпооопппоннпнммнллммкиййииййгфггффггггггггфеееееееедццддббццбааааюю╬©ю©╫╪╩╩╪╪╩╩╪╪╪╩╨╧╧╥╦╤╬mmа╨╨╧╧╥╨╦╦╦╦╦╥╤╤╣╡╟╟╡╡Ё╢╣╣╤╤╣╣╣╤╤╧╪╫╪╩╪╫╪╬©юююююабббббцдцдеффффефгххихххфгхгггикииийкккйиихгффффггхийккккййклммлмммнноооооппппяяппппяяррряярссссссссттсссррсжьыызшээшзззззззззыьуутсуурмйхдю╪╦╣Ё╟╝╛╙╙╘╖╕╓╔╓╒═÷·⌡°°°²·²≈▓⌠▐▌▐█▌█┼┬┬┤┤┤┤┤┤├┘┘└│~~~}zxxxyyzzz{}─┌└┘├├├┤┴┴┤▄┼┬├┐┌├┼┼┘~zxvwyxyz}││}xywtqpoooqqrsqooqtpnpuxxuqppruuutqpppppqsttsqqqokfffddeghghf_[[]]][XUVY[ZWVVVVWZ][^^`egmy┌├┼█▐▒▒⌠■∙∙⌠░▄┴┘┘┘└┐─yrnppoopqpqomlnoontqquyz}─┘┬┼┼┼▀┼┴┬┼┴┬▀▒≈÷╗╡╥╤╦╨╧╧╧╨╩╨╧╥╥╦╧╨╨╩╪╫юббцеффффффффгхкмооярсссстууууттужвжввжужьвжжжвжвььььыызззшщщщчъъчАЮъъЮЮЮЮЮЮъъъъъъъъъъъъъъъъччччъъчччччччччъъчщэщщщэшззыьвжтссрпоопоопомкклкйхеццц╫╬©╬╬юаю╬╪╩╨╧╥╥╦╥╥╤╢╣╤╤╣╢╟╜╙╕╔╔ё╒·° √⌠▐┼xg_aaaegdeffgkptuuvz|z|└├┘┐└┘├└┌┘┐xpkjkmopnkigec_\^dipuwy}│└│wqnnrwyuppmlmnqtswwy||zz{~{yxwvwy|}─┬┬┐~│┌─│┌┌└┘├┤┬┴┴┴┐├┼▄▀┼┼┼▄▀┴┤┬▀┼┤┴┴├┐┌└├├├┬┴┬┤├├┤┬┼▄▄▌░▒▒⌠■∙∙∙∙√≈≈√≈≥≥≤≤≥≤≈≥°²⌡ °²²°²·═╒╓╓╓╓╓╓╓╔╖╗╘╙╙╚╛╛╙╝╝╝╝╝╞╠Ё╡╠╠Ё╢╤╨╬цгйлпувжььышщщэшэээщччччъчшьжуттжуууттсссссссссрряярряярррряяяппппппонннпмлммлллмйиииххййхфггффгхххгггффффеееддддццддцбцбааюаюю©╬©©╬╫╪╪╫╪╪╩╩╩╩╨╨╨╦╦╤╦╤╫mmю╧╨╦╦╥╨╦╦╦╥╥╥╤╤╤╠╝╝╟╡ЁЁ╢╢╣╣╢╣╣╣╥╧╩╪╩╩╪╬╫╬©юююююааббббцдцддефффефггхххххггхгггхйиииийййиххггфффффггиййкккййклмлллммннннноппппппяпппппяяяряярссссссссссттсрясжьззшшээшззззыыыыыыьуутужупйихд╬╩╧╤╡╠╞╜╙╘╖╕╕╕╔ё║══·°²²°²·²≥⌠▓▐▐▐█▄▄┼▀┴┤├┤┬┬┤┘├┘└┐┌┌──~|zxxz{|}─┌└┤┴┬┬┤┤┬┼┬├┬┤├┘┐┐├┼▀┤│|xvy|x|}}}~{vwvspnmoputsrpoqtwqoswxvupoptvussonnnmmosuuromnnmjjgcabdecec^[\^^\YVUXZZXVVWXWX[_\]]_dhp{┌┘┬▄▌░▒▒▓⌠∙■▓▌▀┴┘┘┘┘┐~unjkkklnoopnllnprsussvxz|│┐┘├┤┴▀▄▀▄┼┼░∙ ═╚Ё╥╤╧╩╧╦╨╩╪╪╨╧╧╧╧╨╩╪╪╫╬╬©ацееееехгфгхкнпнпясстууууууууужвжжввжжвьжжжвжвььььыыззшэщчщчъъчЮъъъъъъъЮЮЮЮъъъъъъъъъъъъъъъччъъъччччччъъчъъчщщщщчщэшзыьвжтрррпоопооонлйкййихфдццюю©╬╬©©©╬╪╩╨╧╥╥╦╥╥╤╢╢╤╤╣╣╠╝╚╖╔╔╒ё·⌡≥√∙⌠▐└m^__]`ebcddeiosstuy~}├├┘└┘├├└┌│┌│|tnlmmonljihgc_\\aipuxy~│┐┘~sqkjpvwspnjjlnqsqrty┐┌~|zyxvvvz~└┼┴┐}}}}~│┌└├├├┬┼┴├└├┴▀┼┬├┘┤┬┬┤┴▄▀┤┼┤┘┐┐┌┌┐─┘┴┼┴┤┤┬┬┼▄█▌░▓⌠■√≤≈∙∙≈ √√≈≤≤≈≤ ≥⌡·÷·° ≥°⌡⌡·÷·÷║╒╒╓╔╔╓╓╔╖╗╗╘╙╛╛╚╝╝╝╝╞╟╠Ё╡╠╠╡╢╤╧╫аеикоувжвьышщщэшшэщчччччъщшыжутттуууууттттсссссссрярряяррряпппяяяяпонннмомлммллллихххххийхггхгггххххгффефффееддцдцдддцбцбаюююю©©╬╬╫╫╪╫╫╬╪╪╩╩╩╨╧╧╧╦╦╤╥╤╫lmю╦╧╦╦╤╧╦╦╥╤╤╤╤╤╥╠╛╜╟╡ЁЁ╢╢╢╣╣╣╤╤╥╧╩╩╩╩╫©╫╬©ю©©ююааббабцдцдддеееееффггггггхххггхийииййййиххгфффффффгхийкккйййлллллмнноонннопяппппяяяяяяяяяяярсрсттсссссттсряруызшшшэшшззззыььыыыьжууужтоихгц╪╧╧╤╠╟╞╜╙╗╖╖╗╗╖╓ёё╒═···°²·÷⌡√▐▌░▒▌█▄┴▄┼┬├┤┤┬┬┘├├└└├┘┌──}{{|~│└┘┘├┬▀┬┤├├┬┼┬┘┐┌│┌│┌┘┬┼┤┐~{{}}|yyxvwvutssstvusqpqtwvrrwyvsssqpssqoqpmkjjlqurrokiiklonkgdcb`acb][\^^[XVVY[YWVWXXWWZ_\\]_cjt}┐┘┴▄▌░▒▓■∙√∙▒█┼┬┤├┘└│{rlggghjlmnonmmortvttuvxz}{~─┌└┤┼▄██▄▌⌠≈⌡║╜Ё╣╤╨╪╨╧╨╩╪╪╩╨╧╧╧╨╩╪╪╫╫╫╬©ацццццххххйлопппрстуужжжжжуужжжутжььвьыввввввьвььыззшшэччччъъчъччччъччЮЮЮЮъъъъъъъЮЮъъъъъъччъъъъъъъъъъъъъъччщщщъчэшзыьввтрряпоопооонлккиииигедццбаю©ю©©╫╩╨╨╧╥╥╦╧╦╤╢╢╣╣╢╥Ё╟╜╗╕╔╒║² ≤√∙∙▓┼tb__]^bbbccdflqrsuy─│┐┬├┘└┘├├└┌─┌┌~wqoopqpnlkjhfc_]ajrv{~┐├┘└|pmgflrqonkjmppqqopsy│├┘┌─}{zywvvwx{}─├┼┤─~|z|~~│┌└┐│┐├└└┘├├├┘└└┐└┘├┬┴┬├├┐┐┘┘┐┐└┐┤┼▀┼┼▀┼▄▌▌█▐▓■■√≈√∙∙≈≥∙√≤≥≈∙√≤≤²╒╒═÷·°⌡ °═║·²÷║╒╓╕╖╔╔╕╖╖╖╖╗╙╚╛╛╜╜╝╞╠╡Ё╠╠╠╡Ё╤╧╩©цгкптввжвьзэээшшэщщчщччъщэзвтстттттутттттсррссстррррппяяяяпппяяяпоннннннмллмлллкиххххххйиххххггхххгггффффеееддцдццддббцбааюаюю©╬╫╫╫╫╫╫╫╪╩╩╩╩╨╨╧╧╦╦╣╥╤╫ll©╥╦╥╦╤╦╦╥╤╤╣╣╣╤╤╟╚╚╝╟╡╡ЁЁ╢╢╣╤╤╤╥╧╨╩╩╩╫╬╫╬©©©©©ююааааабццццддеееееффффффгхххххиийиииййихихгфееееффгхиййййййкклллммнооооонопппооояяяяяяяпяяярсррттсссссттсряржышэээшшшззызыыыыыыыввутуснифеа╨╦╧╤╠╝╜╛╙╗╗╘╙╗╖╕╕╕╓║÷·²°°²÷² ░▌░▒▌▌█┼▀┼┴┤┘┘├┤┘├┘┐└┤├┐││|{|│└┘┤┤├┤┬┼┬┤┘┘┤┬┤└──│┌└├┴┤└┌│┌┐┐│~}zvvxxwvvxyxwutrpqswyxuvzyustwsponlmnpliiknqtnomjijmnqpnljhc^acb^\]]\ZWVWYZYWXXYYWWZ^^^_adlx│┌┘┬▄▐▒▓■∙√≈∙▒█┼┬┼┤└│}wplgfegikmnqqqpppqrqstuwz}~wy|─┐├┴┼▄█▌▓∙ ё╟╢╣╤╩╫╩╨╧╨╩╪╩╨╧╧╧╧╨╩╪╫╬©╫©юбббццефгхйкмнпярстжжжввжжжввввуувььььыввввввььььыззшшщчъччъъчъъчъъъъчЮЮЮЮЮъъъъъъЮЮъъъъъъъъъъъЮъъъъЮЮЮъъъчччщщъчэшзыьввуссрппппнннмкйкиййигедцбюююаааа╫╩╨╨╧╥╥╦╧╦╤╢╢╣╣╢╤Ё╟╝╘╕╔╒═°⌡ ≈≈≈■▌}i^]^^^aacccekqrtuy─┐┘┴┤├└└┘┘└┌─│─}xsrqstsqonkihfa_cluz|┌┴▀┬├~skgglommnklproopoqsx~│}|{{{zwuvzyz}┌┬┼└}|yx{}||}─~{|z│┌└┘┘┘└│┐└┘├┤┤┘└│─┌└┐└┤┐└├┴▀▄▄▄▌▐▐▌█▌▒■⌠⌠■■⌠■√≈√≈  ≤∙■√≤÷╓╓ёёё║²⌡°··²²÷═║╓╖╗╖╕╖╗╗╗╗╗╘╚╛╛╜╜╝╟╠╡╡╟╠╠╡Ё╤╧╩╬афкптввжжьзэээшшэээээщчъщэшьтстттттттсстссрррсстсрррппяпяяяяяппппоннннонмлллмллйихгххххиихгххгфффггггггдеееееддцббццбабцбааааюю╫╫╬╬╬╫╪╩╩╩╨╩╩╩╨╧╦╦╧╣╥╤╫ll©╤╥╥╥╣╦╥╥╤╤╣╣╢╢Ё╝╙╘╛╝╟╠╡╡╡Ё╣╤╤╤╦╧╨╨╨╩╪╪╫╬╬©╬╬©ююааааабццццццдееффффггггггххххиииххиииххихгфеееефггхийййййккллллммннооооноооооопяяяяяяяярярссрртссссссттсррсжышшээшшшззызыыыззыььвутсрнхдц©╨╧╦╣╠╝╜╚╙╙╙╙╙╖╔╔╕╕╓║═²²°⌡⌡²²°■░▐▌█▌▐█┼┼┼┬┘└└┘┘└┐┌┐┘┘└┐│}{{~┐├├┤┤┤├├┤┬┼┴├└┘┤├└┐┌│┌┐┐┐└┤┤├┘├┤┤┘│~~─~ywyxvtuxywvttrqruyz|yxyxutvwtpmkklmlihjlmnonnnllnqsooonmke`ced`]]][WVUVWXXY[ZZZXX[_a`bdfo|┐│└┬▄▐▓■√√√√■▒▌▀┴┴├┌{uplhfegikmnopqqpooooqstvz{{uvy{|~│┘├┴▄▌▒■°╖╢╥╥╥╩╫╩╩╧╨╩╪╩╩╨╧╧╧╧╨╪©юа╫╬юабцефдефхйклмппясужввьввввььььжжьььввьжжжвжвььыыззшшшщччччъъччщщчъъччЮЮЮЮЮЮЮЮъъЮЮЮЮъъъъъъъъъъЮЮъъъЮЮАЮъъъъччщъщэшзыьжвуттсяппнмллкйиййййигеддбаююаю©©╫╩╨╨╧╦╦╧╥╥╤╣╣╤╤╣╣╠╟╝╘╖╔║÷²°°≥≤≤∙▓┤q_Z\\\^_addflsruvx~┐┘┴┴┤└└┘┘┐│~{xvuuvvvtrpmjjfcbfnw}│├█▌┼├unlloomlmlmqqmmqrqruy|||}||}zvtvz||~┌├├│|wvvy{zz{z{yxy|}{│└┘└┌──┌┐┐┐└└┘┌─│└┬┤┤├┬┼▄▄▀░░░░▐▌░⌠▓▓▓▓▓⌠∙√≈≤≥⌡≥√√√⌡═╔╔╓╔╔╔╒═²  ⌡·÷║╒╓╕╖╕╖╗╙╘╘╙╙╙╛╝╝╝╝╞╟╟╟╟╞╠╡╡Ё╤╧╨╪юекптжвввышэщэшшээшшшщчъчщэьтсттттттсррсссррррртсррряярпяррряпоооонннноммлклмлкиихггххгхихггхгфефффггггддееееддцббццааацбааааюю╫╬╬╬╬╫╩╨╨╨╨╩╩╩╨╧╦╧╧╣╤╥╬kl╬╤╤╤╥╣╥╥╥╤╤╣╢ЁЁ╡╜╙╘╚╛╝╟╡╠╡Ё╣╤╤╤╦╧╨╨╨╨╨╩╫╫╬╬╬╬╬©ююаааабцццббцдееееффффггфффгххххиххииииххгфеееефггхииййййккклллмнмммннопнооооопяяярррряярррсрярсссссттссссствзшшээшзззыыыыызззыьвжтссялгцю╫╩╨╦╣╡╞╝╛╚╚╙╘╗╔╓╓╔╔╒║║···⌡⌡°²·≈▓▐▌█▌▐█▀▀┼┴┤├└└└┌────┌┐┐┌──┌┘┬┼┬┬┬┤┤┬┬┴▄▀┬┘┘┤┤┤┤┘└┘├┘└└├┬┬┤├┤┤├└│──}{zxvtssttttuutvy{{~{xwwwutuurnlmmljiijkjjkppnlknpqmnomkhebfgfa^^][UUVVVUX\^\[[Z[^bcadffq└┌┘┴█▒■√≤≈≈∙■▒▌┼┬┘┐│─|voljgfgjkmnlnpppopqpsttw{zwttvwxy~┐┌├┴█▓∙·╙╢╥╤╥╨╩╩╩╨╨╩╪╪╪╩╨╧╧╧╩╬юбб╬©©ююбдфеефхйлноппяртжжжввжвьыыььввьыьвьвжжжвжвьыыззшшшээщчщчъъчэээщчччщъъЮЮЮЮЮАъъЮЮЮЮъъъъъъъъъъЮъъъъъЮЮЮъъъъъчщчщэшзыьжвутттрппмлкккйикйййихфеедбаббю╫╫╫╩╨╨╧╦╦╧╥╥╥╤╤╥╤╣╢╠╟╝╙╗╖ё═²²² ≥≤∙⌠▌ze][Z\\]adefmtswxx}┌├┴┴┬├├├├┐│~}{zyyyyyyxusrpmmifgjov}┐┤██┼┬│wsqqqpoljkkoomnrsqpquz}~||{yusvy|}~~}{{xwxyzzzzxxxyz|}}┌└┘└─|zy}~│┌┘┘└│~─┐├┬┤├├┬┼▀▄▐▐░▒▒▐▐░░▒▓▓▒▓∙≈≈≈≤≥ ≥≥ ·═ё╓╓╔╖╗╖╕║⌡≥°··╒╒ё╔╔╓╔╖╘╘╘╚╚╚╜╟╞╞╞╞╟╟╟╞╞╠╡╡Ё╥╧╨╩╬дйпсужвьышэээшшэщэшшэчЮчщщытсуттттттсрссссссрртрррряярррряяяппоооооннмлмлккмлкххгфгххфххгффгфеееффффффдееееддццббццааббаюююю©©╬╬╫╬╬╫╩╨╨╨╨╨╩╨╧╦╥╦╦╢╤╤╫jl╬╣╤╤╥╣╥╥╥╥╤╣╢Ё╡╠╝╚╙╚╛╞╠╡╡╡Ё╣╥╥╤╦╧╨╨╨╨╧╧╫╫╬╬╫╫╬©ююаааабцццббццдеееееееффееффгхххиииийййиггфееефггххииийййкклллммнммлмнопоооооояряяррррррррссряясрсстттсстссуьзшшщэззззыьыыызззьвжутссякфц©╪╪╩╦╣Ё╠╞╛╚╚╙╗╕╔╓╓╔ё║║ё═║═²⌡°·÷≤⌠▒░▐▐▌▀█▄▀▀▀┴├┐┐─~~}┌┐└┘┤┼▄▄▀▄▀┼┼▀▄██▄▀┬├├┬┼▀┬├┘┤┬┤├├├┴┼┤┘┘├┤┬├│}}─~zzxurppqsvwxwy|}|}zwvxytosvupmonjmmlljikmsqnjhjkklnokfccbghgb__][UVWWUUY_`]\\\^adcadffq└┐├┼▌▓∙≤≥≥≤√■▒█┴├│──│~wplkhfhjkmnmoqqooqrsuvvy|zutsttuv|┌~│└┼░∙÷╚╠╢╣╣╧╩╩╪╨╩╪╫╫╫╩╨╧╧╨╪©аббюю©╬╬юбцееефикнпряярсттсвжжжьыыьвжвыыььзьжжвввьыззззшшшэшэщщщъъчщщщчЮЮЮъъъъЮЮАААъъЮЮЮЮъъЮъъъъъъЮъъчччъЮЮЮЮъъъъчщчщшззывжвутутрппнлклкййкйййихгффцаацдбю©╫╩╨╨╨╦╧╨╦╧╦╥╥╥╣Ё╢╠╠╟╛╙╗╔═·²°≥≤≤∙▓░─mc\Y]\]aeeflsuyyy}┌├┴┼┬┤┬┬├┐─}{yy{||{|{yvutsqqlijlnu|─┐┬▀▀▀├|vtrqpojeghmooprrtpnrx|||{ywvttvx{|}{wtvz|||{zzzzwwy{|||~┌┐┐─{xxy|}}~~~─┌┐┤┬┘││┐┐┘┘├├├┬▀▌▌█▐▓⌠░▌█▐▓■⌠▒▓√ ≤√√≤ ⌡²··÷║╒ё╓╖╙╘╙╕÷°÷÷⌡ё╒ёёё╒ё╔╗╗╘╚╚╚╜╠╝╝╝╞╠╠╟╞╝╟╡╡╢╥╨╨╨╫цйосужжвьзшшшззэщчэээщЮчччзтсусттууттссстттссртрррряярссряппяяоппоонмллмлккммкгхгффхгфгхгффгфдфффффеееееееедцбцббццбабаю©©©©╬╬╬╫╫╫╫╫╪╩╨╨╨╨╨╨╦╥╥╦╦Ё╣╤╫jm©╤╣╢╢╡╣╣╣╣╤╣╢ЁЁ╟╚╗╙╛╛╜╞╟╠╡Ё╣╣╤╣╧╦╨╪╩╨╨╩╪╪╫╫╫╬©©юююююабцаббцдееедефееефгггггггггхххххийкгфддфффдгггххиииййлллллллопнлмооооооппппоппяяяяяпярсррррссстттсссссжыэщчэзззыььыыььызшыьжжтяппке╬©╬╩╧╧╥╣╡╟╜╛╚╘╕╓╖╓║║╒╒÷°║═÷÷·⌡⌡²°≈⌠⌠▓░░▓▌▄▀█▀┤┘├┐┌┌┌~z{─└┴█▌▌▐░▒░▌▄▀▄█▌▐▀┼┼▀┼┬┤┤├┘├┬┤┘┘┬├┤┬┴┤├┘├├▀┼┌}─┌─{vtuwxxyzz{~─}wywwvuwwssqoonmlkkmmjeehlqpkfehjklkkkf`^`dfecbb_ZSQRUWY]b_`_]]`aaceeeks~┴┘┬▀░■⌠⌠≈≥≤≈∙░▀┘│┐┌┘┘}uolifeilklnorrstrquuwy{{zxwrrrrruy|}}┤▐■°╗╠Ё╤╧╨╩╪╪╨╪╫╪╪╫╬╬╩╨╨╪юбаю©©╬╬©©©©ццдфилнояяяярстжввььььььвввыыььывжжвьвжвььььыззшээщщщщччщччччъъъчъъЮЮЮЮъЮъъъЮЮЮъАъъъъъъАЮЮъъъъъъъъъъъчщщщэшыььььвжуусяопмйклкйлкккккйхфеддцббцба╬╬╬╪╧╦╧╩╩╨╧╧╧╥Ё╠Ё╠╟╟╝╙╖╕═²  ⌡⌡≤■∙░┘wi_[[[\^abenxv}~─┐├┴┴▀█▄┴┘└┐|}|{z{~│─~yvvtqqomlmpw|~┌┤┴┼▀┤│|wrqqmhdhijjmqsstsqptz||zxwvustvyzzxvuwy|}|yxyttvz|}}~┌┐┐|zyx~}~│┌│┌└┌┐├┬┬├┘┘┤┤┤├┴▄█▄▒⌠▒▐▒⌠▒░█▐▒▓▓⌠√≥≥≥≤≈≈ ÷ё═║ёёё╓╕╗╙╙╘╕ё║÷²╒╒╒╒ё╓╔╕╕╗╙╚╛╛╜╜╝╝╞╠╠╟╞╝╞╞╟╡╢╤╥╦╩╫биортжыыыышээшззшэщччъъЮЮщыжуурстуутттттссссссрссяярряяяяяяпппояяппнлннммммлйхххххггггффгфеееегфффеецбефгфедддбббцббааба©╬╬╬╫╪╬©©╬╬╫╩╩╩╩╩╨╧╧╦╦╧╦╦╣╤╢╩kl╬╣╤╣╤╢╥╣╢Ё╢╣╣Ё╠╝╘╕╘╚╛╜╞╟╠╡Ё╢╣╤╤╦╦╧╩╩╧╧╩╪╪╪╫╫╬╬©юююаааааабццддееддедддеффггггггггхииихиигфддффедгггххиииийкллллмлоонлмооооооппппоппяяяяяпяррррррррррссррсстжышэщшыызыььзыььызшыьвжтпооке©©╫╩╨╧╦╣╢╡╞╜╚╙╖╔╕╔ё╒╒═÷²═·²²⌡ ⌡··≥∙▓▓▒▒▓▐█▄▀┴┤┘┘┐┌││}─┘▀▐▓⌠▓▓⌠⌠░▐▐▐▌█▄▄▄▀▀▀▀┴┬┬┤┘┘┘┘┘└┘└┘┤┬┬┬┬┴┴┴┤┐││┐└┐|wwz|||||{yz|yuvwzzwwvrspopojhjhiifccfilkiedfghkjjjf`^`efebab`\WTSSUZ_dbb`_`bbaadegnv┴┼▄█░⌠⌠⌠≈≤≤≤■▐┬┐│┌┐├└|toiighklklnprrrsqpttx}──}ywtsqooruwyz}├▐√·╘╡╣╦╨╩╩╩╩╩╫╫╫╫╬╬╫╪╩╩╫©аю©╬╫╫╬╬©ююбцефхймояяяяяртжжжвввввввввьыьььжжжвьжжвьььыыззшшэщчщщщччччччъъъъъъЮЮЮЮъЮъъъЮЮъъЮъчъъчъЮъъъъъъъчччъъъччщщэзыььььвжууспоонккмкйккйкклкихфеедбббаю╬╬╬╪╨╧╨╩╩╨╧╧╦╥╢╠╡╟╞╞╝╙╖╖╒÷²°°°≤■∙▒┼~pe_]][\_aemuy}~~─┌├┼▀█▌▄┴┘┌│~~}||}~─~~}yuttstsqoorwz}─└├┤┬┬┤─ztrqnifffghlopnrqonqvyywxyyvssvvxyxwwxy~│┌|ywtttvy{|}│┐┐│─││~}}│└┘┘┘┌┌┐├┤┤┤┬┬┬┬┤┴▄▌▌▌░▌█░░▐▐▐░░▒▓■√≈√√≈≈≥⌡÷╒═║╒╒║╒╓╕╚╚╙╗╔╓║÷═══║ё╓╓╔╕╖╘╙╚╚╛╛╝╞╟╠╠╟╞╝╞╞╠╡╢╤╦╧╩╪югнрствьыызээззшшэщщщщчъъщыжттстуутттуссссссссяррярссряяяяяяппояпоомлмнммммлйхггггггггееееддефеееефееддееедцццббцбббааюю©©©©╬╫╬╬╬╬╫╪╩╨╨╨╨╧╧╦╦╦╦╥╥╣╤╢╩kl╬╢╣╤╥╣╥╤╢Ё╢╤╤Ё╟╚╖╔╗╙╚╛╝╟╠╡Ё╢╣╤╥╥╥╧╨╨╧╧╨╪╪╪╪╫╫╬©©©юаааююббццддддддддддеффффгггххфхийихгггфееффеегггххиииийкккллмлнонммоооооопппппппяяяяяпярррррррсссссссстжьзшэшзыьыыьызыыьышшыьвжсонмйеа©╪╨╨╨╦╣╣╡╞╛╚╘╖╕╔╕╕╓║÷÷÷·²⌡⌡  °·═²≈▓▒▓⌠▓▒░▌┼┤┤├┘┐│─││┌├▀▒⌠√√√√√∙▓▓▓▒▐█▀┼▄▀┼▀┼┴┬┴├└││┐┌──│┐┘┬┼▀┼┬┌┌┐│┐┤┘|wz~~~||{xxzzxxz}|wttrqnnomgegggfdccfhhiifeefgihhhe`^`ffd`^__\[ZVTW^ehfecbdeca`dfjrz┌┼█▐▐░⌠⌠■≤≈≤≤■█┤┐┌┐├┴┘|vpiiikmmklonpoopmlppv~┌│|xutrommortuw{┐▐≥╒╚Ё╣╦╨╩╪╪╪╪╫╬╬╬©╬╪╪╪╫╬╬╬©©╫╫╬╬©юабюцефгилпяяпппртжуужжжжжжвввььввьужвьвжвььььыызшшшэчччщщщчччччъъъъъЮЮЮЮЮЮъъъъъЮъъъчщччщчъччъъъъъчщщччъчччщэзыьввьвжутрпннолммкйлкйкклкйхгффдббба©╫╬╬╪╨╨╨╩╨╧╦╦╦╥╢╡╠╞╝╝╛╙╗╗╔╒═÷·°≤∙■⌠▐├zmd`_\[]aels{~~~─│┘▄███▄┼├┌─}{z{{|||||zvrsvwwsooty{│┌└└┐┐┘┴┌|vsqnjhgfdeimmkponmosvwux|}yuuwvvwxxxww{─┌}zzxsvuvwyz||~~}}│┌│┘┤├┐│──┐┘├┬┼┴┼┼┴┼▄█▌▀▄▀▄▐▌█▐▒░▐░▓■√√▓⌠■√≥°÷══║╒║║║ё╓╚╛╛╙╗╖╔ё═÷÷║ё╓╓╓╕╖╘╙╙╚╛╛╞╟╠╠╟╟╞╝╞╟╠Ё╣╥╧╨╪╩╬фнрссжьыышээзшшшэээээчъъчзвуттууттстусстттссряррярссряяяяяяпппяомнмклллммлйхгггггггффддддцдефееееееедддедцббццццббааю©©©юю©╬╫╫╫╫╪╪╩╨╧╨╧╧╧╦╦╦╦╥╤╥╣╤╢╪lm╬╢╣╣╤Ё╢╤╣╢╣╤╤Ё╟╗╕╔╖╙╚╛╜╟╠╡Ё╢╣╤╦╥╥╦╧╧╧╧╨╩╩╪╪╪╫╬╬╬©©юаааюббццццццееееееффеффггхххгхиихгггффееффеефггххиийийкккллмлмннммноппппооооппяяяяяяпярррррссссттттсстжышэшшшыызыыызыыызшзыьвжсомлхда╬╩╧╨╨╦╣╣╡╝╚╘╗╕╕╔╔╔ё║÷÷═·²°⌡⌡°²·÷·≥▓░⌠■▓▓⌠░▀┤┤├└└┌┌└┤┼▌▒▓■∙√≈≤≤√∙∙⌠░█▄▀┼▀┴┴┴┴┬┬┴┘┌}{}┌│}|}┌├┴┼┴┘}z┌┌└┬┘~{│~}~}zy{|}}}}ztrtsoppnkhgggfdccefghiihfefggffgea_afea\Z[\\\[YX[cikihgfffdbdhjox┘▄▄▐▐▒∙√≈ ≥≥≈⌠▌┴┘└┤▀█┤}ytliiknnllnnonnnkknnt|─{wvtqmkloqsrux▌ ╔╜╠Ё╤╦╨╩╫╬╫╬©©юа©╪╪╬©©╫╫╫╬╬╬©©юабцюбдфгимпяяяпяртжууужжжжжвжвььжжвужвьвувыьььыззшэшщчъчщщщччччъъъъъъЮЮЮЮЮъъъъъъъъъъщщччщщъщчъЮЮъъчщччччччщщэзыьььььжутроннолммккмкйкккйихгггецбба©╬╬╬╫╩╨╩╩╧╦╦╦╦╤╢╡╟╝╜╛╚╙╘╗╖╓╒║═²≥√■∙⌠▄│tib`]\^bgmr|~─│─└▄███▄▀┬└│─}ywxz{zzz||xrswzytmnv}┘┐┐┌─┌┤┌}xuspmkliebdillmnooprtvty│~zxxwvvvwvutuxzyyzyxxvtvxyz{wxwvvy{{~─┌┐┘┬┘│││┌┐┐└├┬┴▀▄▄▀┼▀▀┼┼┼▄▐█▄░░▐▐░▓■√√▓▓■√ ²÷═║║╒╒╒╒╓╔╙╚╛╚╙╙╘╖ё║═║ё╔╔╔╖╗╙╚╚╚╛╜╟╠╡╠╟╟╞╝╞╞╠╡╣╥╧╨╪╪©фмясужьызэчщшззшшээээчъЮъэыжуууутсстусстттсрррссрррряяяяяяппояянлнмклккллкигеггфффффедддцццеггфеееедцдеедцццццццбааюю©©©©©©╬╬╪╪╪╪╩╨╨╧╨╨╧╧╧╧╧╧╥╤╥╢╣Ё╩km╫Ё╢╣╤Ё╢╢╣╤╣╢╢╡╞╖╕╔╖╙╚╛╜╟╠╡ЁЁ╢╤╥╤╦╧╧╧╧╨╨╩╩╩╪╪╫╬╬╬╬╬©юабббббцццццедддееффеффггхххииихгггхффееффееффгххиййиййккклмлммнннноппппооооппяяяяяяярссррссрррсссррртвзшээээззззыыззззшшзыьутспнкфба╫╨╧╧╧╥╣╣╡╝╚╘╖╕╕╓╓ё╒║║║═········²²≥▓░⌠■▓▒▓░▀┤┤├└├├┤┼▌▒⌠∙⌠■∙√≤≥≤√∙∙⌠▐▄▄▀┴┴┤├├├┘├┤┐│|z}││~|}─└┤┤├└~z|─┐└├├┌│└┐─~│┌│~{{|}{zxtstrnrrljllifecbcefgiihgfefggeefda`bfd_[YZ[\XZ[\ahkkiijigeeejnpt|┌┤█▌▒▓■≤≥≥ ≥≈■▒▌▀┬┘┼██┘}zvmiikmoomlpqpoomlppu{~}zyytqmklnprrsu}█⌡╕╝╠╡Ё╣╤╧╪╬╬©ююббю╬╫©аю╫╪╫╬╬©©©©юабабцехкнопяяяясужуужжвввввжжввжужужвьжужыьььыззшээщчъчщщщччччъъъъъъЮЮЮЮъъъъъъъъъъъщщччщщъщчъЮЮЮъъчччччщщщщэшзыььыьжттромннлммклмлйккйихфеффецццба╬╬╬╫╪╩╩╩╦╦╥╥╥╤╢Ё╟╞╝╛╛╚╙╘╗╔ёё║²≥≤∙≈√░├znf`_^`cgmry|│┌─┐┼▌███▄┴┘│┐~xvx{}}{z|~{uuyzyuprz│┌┐│───│┘└─|yvsonmkgcbehjhjmopqsuuy││~{ywvtttttssrsuwvy|xtrtyzyxvvtrsuwwz~┐└├┬┬┘└┘┤┤└┌┐├├┬▀▄▄┼┴┴┴┴┴▄▌▄▀▐█▌▐░▓■√≤∙∙√≤⌡²÷═║║║╒╒ё╔╕╗╘╙╙╚╛╚╙╗╔╒║ё╔╔╔╗╘╙╚╚╚╛╜╟╡Ё╠╟╟╟╞╞╞╠╡╢╤╦╧╩╪юфкнружвызэчщэыззшшээщчъЮъщзвужжутсстусттттсрррссрярряпяяяппоояянлннллкклкйхгфгфееффедеедцццефгфеееедцееедццццццббааююаю©╬╬╬╬©╪╪╪╩╩╨╨╧╧╧╧╧╧╧╦╦╥╤╥╢╣Ё╨jk╫╢╣╤╥╢╣╡╣╣Ё╡╡╟╜╕╔╕╗╙╛╛╜╞╠╡ЁЁЁ╣╤╤╥╦╦╦╧╨╨╩╩╩╪╪╫╬╬©╬╬╬©абцаббцццццддццдееееффггхххиихгффггфффффеееффгххиййиййккклммлмннннооооопппппппяяяяяярррррссррссссссртвзшээээшзшзыызззшшшзыьтсрпмйеб©╪╨╧╧╦╤╣╣Ё╟╛╙╗╖╖╔ё║║╒ё╒║÷÷÷··÷·°  ≈▓░▓⌠░▌▐█┼┤├├├┬┴▀█░▓⌠⌠∙√≈√≈≈√■▒▓▒▌██┼┤┬├└└└┐└┘─~{z|~~─││┌┘┘┐┐|{}│┌┌└└┐┐│}~│┌┐│}|}yvvxvtrokooihlmihfddefhhjhgggfghgeddcaadfd`\Z[^`[]`dimnmjklljghiqux{│┘┴▌⌠√≈≤⌡⌡≥≤≈■▒▐▌█┼┬┼▀┼┐{yumjjkmoomkoqpppnmqsvz{zyyztqnkkmoprrt~▐°╕╝╡╡╡Ё╢╤╧╩╫©юабба©©аба╬╫╫©╬©©©╬╬юацббдхкмнппяррсужужжввввввжжввжужжжввжужььььыызшэщщчччщщччччъъъъъъъъЮъъъъъъЮъъъъъъщщччщщъччъЮЮЮЮъъъъччщщщчщэзыыыыьжтсяоннлкллйлнккккйигфеффеццдца©©©╬╫╪╩╨╥╥╥╥╤╣╢Ё╡╡╟╝╝╜╛╚╗╕╓ё═°  ≈≥≤▓┼─ulcb`_afknuz~─│─┌┬▌▌▌▌█┴└│┐~xvy}─}|}|{~{|zxy}──~~~}}┐─|yvronkljfcdfgefjmooqsuy}~~}{xvtsrsttsuqorsruzvrosxzyxutsqsvxwuz┐├┴▀▄┴┼▀┼┤┐┐┘┐└┬▀▄┼┴┴┬┼┼▀█▀┼█▀█▐░▓⌠∙≈√√≈≤ ⌡²·═══║╒╓╔╕╕╖╗╗╙╛╛╛╚╗╔ёё╓╔╔╗╘╙╙╙╙╚╛╞╡Ё╟╞╟╟╞╞╟╠╡╢╤╦╧╦╩юеилптужьышщщэызззшэщщщчъчщзвууууутстттттсссррпрряяссряяяяппооппнмннлмлллкйххггеддеедцееедцдефееддефеедддцбббцццбааааюба©╬╪╪╫╬╪╪╩╩╩╨╨╧╧╧╦╦╦╥╥╥╥╤╥╢╢╡╧ij╫╢╣╣╣Ё╣╡╢╢╡╠╠╝╙╓╔╕╗╙╛╜╜╝╟ЁЁЁЁЁ╢╣╥╦╥╥╧╨╧╪╪╪╪╫╫╬╬©©©юююааааббццццдцццдеедфффггхххгххгффффеффффеееффгххиййиййййклммллнонноооооппппоппяяяяяяярряррсссттттттсуьзшшэээззззыыззшээшзыьтсяолхец╬╪╨╨╨╥╤╤╣Ё╠╝╚╘╗╗╔ё╒║╒ё╒║÷÷·°°²⌡≥≈≤√▓░░▐▌▄▀┼┴┤┤┴▄█▌░▒▒▓▓▓■√√∙■⌠▓░▌▌█▀▀█▀├┬┘┐┐┌┌┐┘}||}}~│┐└││┌┌──~||}│┐┐┐┌~~~─┐┐│}{ytrtwvrokiiihijihjhgffgiihfefggghhdbcbabdeca^^_beccfkoqqqnnoponnpv}│└┬┼▄▒≤⌡ ≥⌡ ≈∙∙▓░▌▌▌▌█▀┼┬┐}zumklmnnnmkmoppqonqtwyzyxwvsromlmprrqt│⌠·╕╝╠╠╡Ё╢╤╦╧╪©ююаааююаба©╬©ю╬©юю©©юбццдефикмопярсстууужжжжжжвжжввжжвьвжввжжвввььызшэччччщщчччччъъъъъъъъъъъччъъЮЮъъъЮчщщччщщчччъъъъъъъъъччччччщэзыыыыьжтсроннллллйкмйккккйиггффдцбцбаю©©©╫╪╨╧╥╥╥╥╤╢ЁЁЁЁ╡╞╞╝╜╙╙╖╓ё═⌡≥⌡≤ ≥■█┘zqkf`^`dhjqy}~─┌┤██▌▌▄┴┘┌┌~zy|┌┌│~}┌┐┐└│─~}||zyz}~|yyyy{xvsqppnnlighihffhlnoqsuy|{yyxwuutsssrrspmmnorvurpruwxytsqqtxzywxz~┌├┴█▄▀▀▀┴├┘├┐┐┘┴┼┴┬┬┬▄▄▀▄▄┼▀▄▄▌░▓■■■∙√≤≥  ⌡°═══║╒╓╔╕╔╕╖╖╗╙╛╛╜╚╘╖╕╕╕╕╘╘╙╙╙╚╚╛╜╠╡╞╝╞╟╞╟╠╠Ё╢╤╦╧╦╨©еимпсужвьшщчщззззшээщщчччэзвжуужуттттуттсррсспяяяяррряяяяяпппмонмнмкмллкйххххфеддеедбддедддефееддеффецццбааабцббаааааюю©╬╫╪╫╬╩╩╩╨╨╨╧╧╧╧╦╦╥╥╥╤╤╤╤Ё╢╡╧ij╫╣╣ЁЁ╟Ё╢╢Ё╠╡Ё╝╗╒ё╔╖╙╜╝╝╝╟Ё╢Ё╡ЁЁ╢╥╥╤╥╦╧╧╪╪╪╪╫╫╬╬©ююааюю©ааббццццедцдеффефффгггххефгхгеедеффффеееффгххиййййййййллмклнонмоооооппппоппяяяяяпяяяяярррррссссртжызшшшшшыыззыыззшээшзыьтрпнкхед╬╪╩╩╨╥╤╤╢Ё╠╝╚╘╗╗╔╓ё╒╒╒╒╒÷÷° ≥  ≈√√∙⌠▒▐█▄▀┴┬┴┬┬▄▓■∙√∙∙∙∙∙▒⌠■▓░░▐▌▌█┴├┬█▄┴┬┘┐┌┌│┌└│─│─~┌│┘┘│──~─}|──┐┴└└│}~┌┐─│└└│{vstqsvsolhjggklihiihfeefghdaacffeehdaba`becba`_aehighmqqqrsrrtuttuz┌┬▀▌▌▐⌠ °⌡≤ ≥∙⌠⌠▓▒▐▌▐░▒▄┼┬┘─|vnlnoomlllmpqrsppsvxz{{xusrqponosuqpt└≈═╕╝╝╟╡╢╣╥╦╧╩╬ююююааабббю©©ю╬юааююбдцдееефилноярсстттууужжжжвжжввжжвывжввжжвввььызшшчччщщщчъчччъъъъЮъъъъъчччъЮЮЮъъъЮчщщччщщчъччччъъъчччччъъъчщэзыыыыьжтсрономлмкикликккккйихффдбббаююю©©╬╪╨╧╥╥╥╤╣╢ЁЁ╡Ё╡╞╝╝╛╘╚╗╔╓═ ≥⌡≈≥≥∙▐┬}srka]_dfgox}|}┌├┼▀█▌▄┴├└┌─}}─┐┘├└─}┐┬┴┴┬└─~{xuurx{yvwyz|yusrrsutrnkkmnmihilopruvz|yvuvwvvvutrqpnnkijnqsvtrqqsvyssrruz{z{xwz~│└┬█┼┬┴┼┴┤┤┘└└┤┴┬├├┴▌▌▀▄▄▀▀▄▄█░⌠∙■▓∙≤°²°⌡⌡°║║║╒ё╓╕╕╕╖╕╕╖╘╚╚╝╜╜╚╘╗╖╖╙╚╚╚╚╛╛╜╛╟╠╝╜╞╟╞╠╠╡Ё╣╤╦╧╨╨╬екнпржвьышчъчшшшшшшээччччщшьвтужжутттжусрррссярряпяяпрррряяяплонмнлкмккйхгфгхфецдеецббцдддеефгфедееедддццбаббббаааааа©©©©╫╫╫╫╩╩╨╨╨╧╧╧╨╨╧╧╦╥╥╥╣╣╣Ё╢╡╨jj╧╣Ё╣╡╡╟Ё╢Ё╡╠╟╛╖╒╓╔╕╘╜╝╜╠╠╠╠╡╢╢╣╣╣╤╥╥╦╧╨╨╩╩╪╪╪╪╪╫╬©©©ююаююааббббцццдддеегеддфгхгфггфеееееееффффегффгхиииийккййиилмнннннннппопяяояяяяяпппрррррррррсттсссстжызэщэзшшзыыыззышшшшзвттсплихебю╬╪╪╩╧╤╣╣╡╟╟╝╘╕╔╓╒║ё╒÷÷╒╒÷⌡≥  ≤√⌠⌠■∙▒█▀▄▀┴├├┼░■∙■■∙≤≤√∙√≥∙⌠▒▐░▐┼┴┴┴┬├├┤┴┼├┐┐│~~─}─┐└┌─│└├┌─│~~|~┌┌~~┌└┐│──│──│┐└┘└xtsuuuspmkjhghiihhiihebceggbcdcdeecabcccddeea_^]^dljnrrppqstsuxyxxy┐┴▌░⌠∙√°⌡ ⌡ ≈⌠▒⌠▒▐░▓⌠▓▒█┴┤┘┌ypopponmmmoqrstuusuwyzzyvrqqqpopsvrt{┬√═╗╜╞╞╟Ё╣╤╥╦╨╪ююю©юаааааааааюацбаююадддццфилмпрссужвужуужвжтвжжвьвьзжвввввжжыьььызшэщччъччъЮъъъчъъЮЮЮЮъъъъъъэщъъччъЮчъъчщэщчччъъчччщЮъчччъъчщэшзыввжужуспнннммлллккклмлйхиихфедцбаааюю©╬╫╪╨╨╦╧╧╦╤╣╣╤╢Ё╡╠╟╝╛╚╗╗╕╒÷²° ≈√≈≈▓┼┌yple^^beetxzzzz┤└▀▐█┴┤├└├┘┌─┌┘├┘├┌}~└┴▀┴└┐zxwvsouxutx|~zytonquvtsoklqqmihkprrsvyy{{xtuyvuuttrqppnllkkmpqrrpprvzstuw{~|y{~─┌┐┘├┴┼┼┴┼▄┼├└┐┌└┤┬├└├┼██▄███▌█▌▓■■⌠■∙≤°··°⌡⌡°÷║║║ё╓╔╕╕╖╖╘╙╚╛╘╜╞╝╝╝╚╕╘╙╛╜╜╜╝╟╞╠╟╜╛╞╠╟Ё╢╢╣╣╣╥╥╩╪©дхкнясжызэчщэээшшшшшээчъчщэзвсжвжужжтжтяяссрппрттряоопряппяяонннмммллнлйхггггеддцццдддддеефффхффффдцдеддддццццбаааааа©©©╬╪╪╪╫╪╩╨╩╪╪╨╧╧╧╧╧╦╥╥╤╢╢╡Ё╡╢╧jj╧╢╡╢╠╡╟╡ЁЁ╡╠╞╘╓╒╓╔╕╘╛╝╜╟╟╟╠╡ЁЁ╢╣╤╥╥╦╧╨╩╨╨╩╪╪╪╪╪╫╬©©©©юаюююаааааддддддддфееефгггфгхгфеееееееееееефгххххххикккккклмнннннноппоопяопппяяяяяррррррррстттссссувызшэшышззыыыызызшшззвтсрокхгфц©╪╩╩╩╧╥╤╣Ё╠╟╜╙╖╕╔╒║╒║÷÷╒╒÷⌡≥≥≥≤≈∙∙≈≈■▐▄▀┼┴┬┼▌⌠∙√∙■∙≈≥≥≤≥≥∙⌠░█▌▌┼┴├├┬┤└┘┬▀┤┘└┌│─│┐┘└┌│┌┌~}~~|zz{|│┌│││~|~───~~─}xutttsqoljifefghghigfdbceggcccbceec`aa```bda__aabgmnprsttuuxwwz{|~─┌┘┴█░⌠√≈ ≥≥  ≤■▒⌠▒░▒▓⌠▓▒▀┬┘└│yqqqppoonnnprsuwvtuxzzzxvsrrponpsvtv~┼≈║╘╝╞╞╟Ё╣╣╤╥╪╬юю©©©юбаааааааабцбююабдддддфилоятсстттужжужвжувжжжвжжьвввввжжжььььызшэщччччччъъъъъъъъЮЮЮЮЮъъъъэщчъъъъъчъъчщщщччччъъчччЮъчччъъчщщэшыьввжжжтяонннмлккллллмлйийихггедцббб©©©╬╫╪╩╨╧╧╧╦╥╤╣╣╢Ё╠╟╞╝╜╛╙╙╖╒÷²° ≈∙√√▒▀└|soga_chjuxxxzy|┌┐┤▀▄┴┤└┐┤┬├┐┌└├├┤└──┘▀▄┴└│|wvwtqnruuvxzyzwrljnruuspnqsqmkikorrtxz{}|xuuxxvuvusqppmkmnooopqqqrtwzqtwz~─}~~─│└├┬├┬┴┴┴┴┬┤┐┌│┌┘├┘└├┴▀▀▀█▐░▌▌▐⌠∙∙∙√√≥°²°⌡⌡⌡²÷║║║ё╔╕╕╕╕╖╗╘╙╚╘╜╞╞╞╟╜╘╙╙╛╜╝╜╜╞╞╡╠╝╜╞╡╡╢╢╢╢╢╣╥╧╩╪юдхкнясжьзэччэээшшшшэээщъчщщшьтввжууутутррссряярссряпппяяпоппоннмммлллмкихггггддццбццццддеефффгеефеццдцццццццццбаааюю©©©╬╫╪╩╩╪╩╨╧╧╨╩╧╦╥╥╥╥╤╤╣╢╢╢╡Ё╠Ё╦ij╦Ё╠Ё╠╡╠╠╡╡╡╠╜╕÷║╓╕╖╗╚╜╝╞╞╞╟╠╠╡Ё╣╤╥╥╦╧╨╪╧╨╩╩╪╫╫╫╫╬╬©©ююаюююаааааддддддддефффффгхггххгеедеееееееддфхиххххгхйккклллмннннноопоннпппооппяярряяяяяяяястттссссжышшшшзыззыыыыызызшзззвтяпмиггед╫╩╧╨╨╧╥╤╢Ё╡╞╜╛╘╕╔╒═║║══║═·⌡≤≤≤≤≤≈≈≈≤≈▓█┼┴┴▄░■≈≈≈≈∙■√≥≥≥≥≤∙▓▌┼▀▄┴┴└└┬┬┐┌├┼┬├├┐││└┐┐└├├┐─||~~{yy}}│┌~}}{}zy{}}|{xxz{zwttrqpomkihgghiihhjggecdghheda`bddcbba_^`cfbacfhhkopppruvvuwwx{}│└└┘┬▀▐▓√≤≥≤≥ °⌡≤■⌠▒░░▓▓░▐┼├┘└┌│~wsqppqponoprtwywtuy{{ywustronnpsuvy│▄≈║╗╜╟╞╠Ё╣╣╣╥╫╬©©юююаццбааааабццбююабцддддфхкорттсттсжвжжжввувжужжуужвввжжжжжвьыыьышэщчччщщччччъъъъъъЮЮъъъъъъщщччъъъъъъъчщщщччччъъъччъчччъъъъщщэшзыыьжжусяонннмлкклмнмлкиййигхгфедцбб╫╬╬╬╬╫╩╨╨╧╧╦╦╥╤╣╢╡╠╟╞╞╝╜╜╚╖╒÷·°⌡≥√√√▓▌┴┌wqjdbdinuvuvyyy}─┐┬▀┼┤└└┼▀┴┘┌┌└┘┘└│─┘█▌┼┘─zvvvtpoptx||zwvtpjhjnprppruuqmljkoqruxy|}{xvvvusrstrponllnoooppprtvxz{wxxxz}──┌└├┤┤┴▀▄┼┬┤┬┐│──┐┘┘┘┬┴┴┬┬▄▐▒▐▌░⌠√≈≤≥ ⌡²²°⌡°°·═║║║ё╔╕╔╔╕╕╖╗╘╙╗╛╞╞╠╡╡╞╛╚╚╛╜╜╜╝╟╡╠╝╜╞╡Ё╣╣╢ЁЁ╣╥╧╨╪юеиймосуьышщчщээшшшшээшщчччщшыжввжуутсттттссррярссряяяпппооппомммммллллйихггггдццббббббцдеефффеддееццдбццццццццбаююю©╬©©╬╫╩╨╩╩╩╨╧╧╨╨╧╥╤╤╤╤╣╢╢╢╢╢╡Ё╠Ё╦ij╦╡╟╡╟╡╠╠╠╠╡╟╚ё°═ё╕╗╗╙╜╞╝╞╞╟╟╠╡Ё╢╣╤╤╥╦╧╨╧╧╨╩╪╫╫╫╫╬©©©юабююаааааадддддддддеггффгхфгххфеддееффеееддфххггхигхийййкллмнннннопоонноппооппяярряяярррррттутссссвзээшэшыззыыыыззышшшззвтяолхгфед╬╩╧╧╨╧╥╥Ё╢╡╞╜╜╚╖╕╒÷═║║═║²°⌡≥≤≈≈≈√√√≈√■▐▄▀▄░∙≥   ≥≈∙√≤≤≈∙∙⌠▓▌┴┴┴┤┼├┘┬┴┘┐┐├├├┤┘┐└┤┘┘├┤┘│}||{{}~}||~|~|||yzyy{{xvutvxzxtrrpoonljhghhjkjhhijihffijifdaacddcccb``cgkhhikllnpqooqttttsuy|│┌┐┘┘├┬▄░∙≈≈≈≤≥°°≥∙▓░▐▐░░▌▄┬├┘┘└├└trpqrqpossstwyxuwz|zwuttsqonoqstw|┘▐≥╒╙╝╞╞╠╢╣╢╣╥╪╪╪╬ацццедцббаббццбаююаббцдддегимпсстуутжжжжжввувжужжттуьвжжжжвввьыыыышэщчччщщщчччъъъъъчъъъъъъъъчщщчъЮъчъъчччччччччъъъъъччччъъъъщщэшззыыжутрпнммммлкклмнмлйййкигггфедбаю╫╬©©╬╫╩╨╨╧╦╦╦╥╣╢╢╡╟╞╞╞╞╞╞╜╗╓═·²° ≈≈≤∙▓█├|uoljilptsqtz{z|─┌┤▄▄┴┬▀▐█┴┘┌───│~┐▄█┴├│{xvvtqopt{─|yrrpmkjkmmlotwtpnjjloqrsuuz}{yxvtqnmqsqonjlnmllnrpqswz||{|{yxwy{|│┐└┘┘▀▀█▌▄┬┤┬┐┌──┌└├├┴┴┴┤┤▀▌░▌▐▒⌠√≤≥ °²·²°°²·÷║║══ё╔╕╔╔╔╕╖╘╙╙╘╛╞╠╡╣╣╣╝╚╙╚╛╜╝╞╠╠╞╜╜╟╡╡╢╢╢Ё╢╣╥╧╨╪афийлнрувьзщччээшшшшээшщчччщэзжвжжуууттууусрррррррррррпппппппоммммммллкйххххггддцбааббббцдееееддддддддццццццццбаюююю©╬╬╬╬╫╩╩╩╩╩╩╨╨╨╨╧╦╥╥╤╤╣╣╢╢Ё╢╠╡╟╡╥ij╦╡╟╡╠╡╡╡╠╠╠╝╗║°═ё╕╗╗╘╛╞╜╝╟╟╠╠╡Ё╣╣╤╤╤╥╦╧╧╧╨╩╪╫╫╫╫╬©©ююабюааааааабцццддеедефгффггффггфеддфффффееедфггффхйхиййййклллмннннопонннопяпппппяярррррррррстттссстьзээээшзззыыызшшзшэшшзвсрокигеддю╪╧╧╧╦╥╤ЁЁ╡╞╜╜╚╗╕ё══║║══⌡°°° ≤≤≈√∙■∙√√⌠▒░▒⌠≤⌡⌡⌡° ≤√√≤≤∙▓▓▒░▌┴┬┬┘┴┬┤┤┤┤└│─│┐┘┘┘┘┤├┤┤┤┐~{zyxy{}}}~zxyz{}─z{}}zustsuxyvqppnonmkihgfgikkhghmmkiijkjfdbcdeddddccdgkmlkkkklorrqrttstvtw{~─┌┐└┘┘┘├┴▌▓∙■∙√≈≥ ≤∙▒░▌▌▐▐█▀┬├├├┘┤┤┌vsqrsrppttttwz{z{~~zusrrqpoopqqqw~┴⌠°╔╛╟╝╞╠╢╣╣╤╦╩╩╩╬бдеефедццббцббаюююабабдддегимпрстуууужжуужвжжуужжуужьввжжжввьыззззшщчччччщччччъъъъъчъъъъъъъъччщчЮЮъчъъчччччччччъъъъъччъъъччъэээшззыыжусяпнммкллллллммкййккигфффедбаю©©©©╬╪╩╨╩╨╧╦╦╥╣Ё╢╡╟╞╞╞╟╟╠╜╘╔╒÷²°⌡≤≤ ≤∙▐┬┌|vvvsqpqpns{~}─┐┴█▌█▐■⌠▌┬└┌─~}{~}{─┤┴┘└─|xusrrprv|─|zssrpmklmjkpvvqnnijloqqqrty}|zyuqqmmrtrpolmmlkmoqpqsw{|{ywxz{{yxx}~~│┐└└┼┼┼▀▀┴┬┬┤┘┐┌┌┐└┘┬┴┬┬┴▄▐░▐▒▓■√≤ ⌡²²²²⌡°²÷═║║══╒╓╔╓╔╕╖╗╙╚╛╛╝╠╡Ё╢╤╤╟╜╙╙╚╜╞╠Ё╠╝╜╞╡Ё╡ЁЁ╢╢╢╣╥╦╧╪афхийлятжьыэчъэээшшшшшэчъчщщшыжжуууууутужусрррряяяррррппппппппммммммллйихххххгедцббаббабцдеееедддддееддддццбббаюююююю©╫╫╫╫╪╩╪╪╪╩╨╨╧╧╦╦╥╥╤╤╣╣╣╢ЁЁ╠╡╞╠╤hi╥╡╟╡╠╡╡╡╠╟╝╙╓÷²═╒╔╗╗╗╚╝╛╝╟╟╠╠Ё╢╣╤╤╤╤╥╦╧╧╧╨╩╪╪╫╫╬╬©©©©юаюааабббабббцддеедееееффгефффедддеефффеееефффффхиийййййлмклммммннпоооооояяяппппяяярррррсссстсссстьшщэшшшззыыыызшэшээшзыжрянкигеддб╫╧╧╧╦╤╤ЁЁ╠╞╝╜╚╘╕╓╒║║║══°²··²⌡≥≤≈√∙√≤  ≤≈√≈ ⌡  °≤≈≈√≈≤∙▓▐▌▐█┴┴┬└┤┬┤┘├┬┘│~~─┌┐└┘├├├├┘│|zzxxy{}~zwxyz}─{~──{wwzvwyxtpnomoonkhhheegjlkjkonljjkkigedefeefgghikmmnijjjikosssuvustwxz|}~│└┘┘├├├┤┼▐▓▓∙√√≈≥≥≈▓░▌▌▐▐█▀┬├├┘┐└└─xtrssrqqssssw|─│~xrpppppppoooou~┼■°╓╚╞╜╞╠╢╣╣╥╧╩╩╪©бцдцффеедцццбааюююааабцддехйояррсттстужуужввжужввжжвььввввввыыыззшээщччччщчъччъъъъъъЮЮЮЮЮЮЮЮчччъъъъчъччччъччччъъъъъъчъъъччччээшшзыыьвусяпонмккллллллмкйккйихфгггедбююю©©╬╫╩╩╩╨╨╧╦╥╣Ё╢Ё╠╟╟╟╟╟╟╜╘╖╓║²°° ⌡²°≥⌠▄┤│|||ysonmlqz~~││┘┼▌░▓√≥∙▌┤┐│~}|}|z}┌└│}yvrpoptw{││~{wvtqmlmplnqutpmljlnqrrqqwz}}|xtprnostqnnsplkorqnpqtwyzxvvuvxzzz{{{zyz|┌├┤┤┤┬▀▄▄▄▀┴├┘└└└┤┬┴┴▀▌░░▒⌠■■√≤⌡⌡⌡°°°⌡°²·║║║═║ё╔╔╔╕╕╗╘╚╛╜╟╠╡╡╠╡Ё╢╡╞╛╛╛╜╞╠Ё╠╝╝╠ЁЁ╡╡Ё╢╣╣╤╥╦╨╫бфххилпсжвыэчъщщэшшшшшэчъчщщэзвутужуужтууусррсяяяярряяяппяпоопмммммлккииххххгфеедббаааабцддеддцддддееддддцббааюю©юююю©╫╫╫╪╪╩╪╪╩╨╧╦╦╥╥╤╤╤╣╣╢╢╢Ё╡Ё╠╠╞╟╤hh╤╠╟╡╟╡╠╠╟╝╚╔═²·═╒╓╖╗╗╘╛╙╛╝╟╟╠╡╢╢╢╣╤╤╥╦╧╧╧╨╩╪╪╪╫╫╬©©╬©©юююаааббабббцццддедддеффффффеедефддееееедееффгггхииииийкмйклмммннпооппоояяяпппяяряяяррррсрсссррстьшщэззыыыыыыызшэшээшыьтяомйихеддц╫╧╦╧╦╤╣╢╡╟╟╝╛╙╙╕╔╓ё╒║═÷··÷÷·° ≤≤≤≤≤⌡·÷·°  °⌡≥≤ √≈√∙∙√∙⌠▌█▄▀┴┼┴┘├├├├├┤├└│─┌└┘┘├└┐┌|{{z{}~{y{|z{{y{}||└│~{xtpnnlopnjggigeehklmmpomkklkjhffffegjkkloqqmjeillklptttuxwuux{}~~~─┌┐┘┤┤├┘├┼█▓√≈√≈ °°⌠░▌█▌▌█▀┴┬┬├┐┐┌~wtssrpoqprstw{─│~zsnmnorrrpmllls}▀∙°ё╘╛╝╞╡╣╤╣╤╧╩╪╬юабббееееедцбаааааааабцддефилпярярттссужуувььвжжввжжвььььььввыььышээшщщччщщччъъъъъъъЮъъъЮЮЮЮЮччъъъъъъъччччъъчъъъъъъччъъЮъччщчщээшзыыьвусяпонмлллллллмлкйккихифгггфдбаюю©©╬╫╫╪╩╪╪╩╧╥╣╣╢Ё╠╟╟╟╟╞╞╛╙╘╖╒·°² ⌡²²⌡√▐┼├│}|zuommlpw{|┐├┴▌▓≈≤≤▓▄┘│~~~|{|─││|ywuspppvz~│└┘│|{ywsolmpnnoqrqnknoqsttsrwxy|{xusqnostomnutqoqrqnrsuwxwvtxursuwz}xxxvuw{│┘┘┌└┼▌▐▐▐▌▄┼┬┬┬┼▀▀▀▄▐░░▒⌠■⌠■≈≥≥≥ °²²²·÷═║║║╒╔╕╕╖╖╖╗╘╙╛╛╟╠╠╟╞╞╠ЁЁ╡╟╟╝╜╝╟╠╞╞╞╟╠╡╡ЁЁ╢╢╣╥╧╨╩╬бгххилоржьыэчъчщээшзззшщччччщшьжтужуужууттсррряяяярряпяооппоопммммлкййххггхгфефедббаааабцддддццддццдеццццбббааю©©©юю©╬╬╬╫╪╩╨╨╩╨╧╧╥╥╤╤╤╣╣╢ЁЁЁЁЁ╡Ё╠╠╝╞╣gg╤╠╞╠╟╠╟╠╞╛╗╒²°·║║╓╖╗╖╘╚╘╚╜╞╞╟╡Ё╠╡Ё╢╣╤╦╧╧╧╨╩╪╪╪╪╫╬╬╬╬╬╬©©ююаааааббббццццедццдффффффееефгцдддддддддегххгфггхххиклйклммммнпоояяоояяппппярряяяяррррррррррстьшщшыььвыыььызшшшээзывспнкиихедеб╫╦╦╦╦╤╣╣╠╟╟╞╚╙╚╔╕╕╓╒║═÷····²° ≤≤  ⌡²═╒║÷²°²°≤≈≥√√∙▓▓⌠⌠▓▐▄▀┼┴┼┼├├└┘┤┬┤┤┴├┐│└├├├┐─~}|z|──}|xx|~|{zwzz{|}┘▀▄┘}xurnlloqnifgihecdhjklppnllmlkihgfeeimllnqspjedjopnoruvuwz{xxz|┌│││┌│┘┤┬┘┌┌┘┴░∙≈∙∙≥²²▓░▄▀▄█▄▀┼┴┼┬┘└└─vsrrqmmpoqttvz~─{yuokkmottsoljjkt─▌≤·╔╙╜╞╟Ё╤╤╣╤╦╨╩╬юабббддееедббааабббббццдеегймпяяяртутсужуувьывжвьвжужьььыыьввыьвышэшзэщщщщщччъъъчъъЮЮччччъъъъчъЮЮъчъЮъчччъъъчъъъъъъччъЮЮЮчщщщщщэшзыыьжтрпонмлнмлкклмнккклкихйефггфдбаюю©╬╬╬╬╬╩╪╫╪╧╥╤╣╢Ё╠╠╠╟╟╞╝╚╙╙╗ё·⌡ ≈≈   √▐█┼┘~|{wrmmlotwy}┐├┬█■≥≥∙▌┴┐|{}─│}|}─┌┐|xuvvtrrtx|─└┬┐|{zyvqlkmnlkmqrplqrstuuututuyzwvwpnptupnprvxtpopptuvwwvutxursuuuuwyzywwz}}┌┐~~├▄█░▒▓▒▐▌▌▌▌▐▌██▐░▐░▓⌠▓▓■√≈≤⌡²·÷÷═║÷═║║╓╖╗╗╗╗╗╘╘╙╚╚╝╝╞╞╝╞╡╣╢╢╢Ё╠╝╜╞╜╝╞╞╝╝╞╡╢╢╢╢╣╥╨╪╪╬цгххймнржьыэчъчщщэшзззшщччччщэыжтууттууутсрррряппяррпопооппннплммллйихгггггфедеецбааааабцдддццбддццддцбббббаааю©©©©©╬╫╬╬╫╪╨╧╧╧╨╨╧╦╤╤╤╤╣╣╢ЁЁ╡╡╡╠Ё╠╠╝╞╣gh╤╟╞╠╟╠╞╟╝╙╕═⌡°═÷╒╔╕╖╘╙╚╚╛╝╞╞╞╠╣╢Ё╢╣╤╤╥╦╨╩╪╪╩╩╩╩╫╫╫╫╫╬©ююююююююабббббццдфеееффееффффггфефдцдеедцдеггххиииххххйкллллммнооооооннясоопяяппоряпярсряястсрсуьзээывьыывьыыыызшщэззыжспмлйхгфееа╪╥╥╧╧╦╥Ё╡╡╠╟╝╛╙╕╓╓ё╒═÷═÷══÷÷÷÷²²÷╒╒║═║ёё╒÷°≈■∙≈√⌠▒▒░▐▐▐█┬┴▀┬┼▄┬┐┐┐├┴┼┴┤└┌~│┘┤┤└┌~││││}~─}yxwyxy||zwvwvy||~┬■▒▌┤~wtsrtrnkihhijfeijhimqsrononlkggihijjkmoqrqlgfjpuvttvuzzy{{yy{~│─~{─┐┐┌└┘┤▄█░∙ ⌡⌡ ⌡√▌┬┼▌▌▀┴┴┴┼┴├┤└~{wsqolklpqrsw─┌|{xrlknoooqqmjjkmy┌▌≤÷╕╘╚╞╞╡╣╥╥╦╧╨╪╬ацццбцддддцбаююаббббббцддфхкмнпрсссужстжжжвььзвжььжужььыыьььььыыззшщччччччччъъъъъъЮЮЮъъъъъчччЮЮЮъъъъчЮЮъччччччччъъъъъъъъъъъъчъчщэшшзывусяонлкммллкллллкккккййфийигфедабаююаю╫╫╪╩╨╧╥╣╢Ё╡╡╠╠╟╞╝╚╙╙╙╗ё═· ≥≥≤≈∙⌠▓▄▀┤┌}yuqqmlrwy|┐┤▀▌▓∙■▓▀└|yxz~│~┌┐──┌│}xxwwxxuqsxy~└├├│|ysnlmsqooqrposuutuxwssvz{ywxyxtrsutrrqsuurooruwzzxvuvxwuttuussrtx|~}{{~~─├┼▀░░▌▌▓▓▐▐█▄▄▌▐▐▐░░▓░▌■≥≤√≤ °÷║═÷·═║ё╓╔╕╖╖╗╗╗╗╘╘╙╚╜╜╜╝╟╠╠╟╣╤╥╤╤╢╟╛╜╝╞╟╟╟╡ЁЁ╢╣╣╤╥╧╨╪╬цгххйлмптвзшщъщщээшзыышшэщчщэшывууутужутсрстсрсряяряяпооппппононнмкйххххххггффееедцббааааббцддцдцбцццацдбююбцбба©©©©©╬╫╪╪╩╩╨╨╨╧╦╦╦╥╤╣╣╢╢ЁЁ╡╠╟╟╟╟╝╝╛╝╢fh╤╟╞╠╟╟╞╞╜╘ё² °÷═ё╕╕╖╘╚╛╚╛╝╞╞╝╠╢╡╡Ё╣╤╤╥╧╧╨╩╪╪╪╪╫╫╪╪╪╫╬©©юююююаааааааббццееефффеефееффффефдцдеедцфггфффхийииийклмкккллмннннопппппоопяяпппяяяяррррястсрсуьзээзььььвьыыыызшэшзыьуянлкихфедда╪╥╥╦╦╦╥╣╢╡╠╟╜╚╘╘╖╔╓╒÷···═║═║╒╒═╒╓╕╕╔╔╕╖╖╓═⌡≤√√∙⌠░▐▌▌███▌┼┼▀┤┬┴├┘└└┘┬┴┴┴┤├┐│┌┘├├└┌│┐┘├┌}}|yxwyxxyywuuuux{|}┘▐░█┤┌}xspmmmkjiijkihkljjkqtusqrrpnjijiilkmnprsqmjkmrvwvvwx{zyzzxxz}~}{zwuz{z}┐┼░▐▒∙≥  ≥≤≈▒▄▄▐▐▄┼┼┼▀┼┬┬├{wtqomnpooruy─┌}yvqmmopolnpokjlp|└░≥═╕╘╙╞╟╡╣╤╤╥╧╪╫©аббааддееедццаабццццббцдефхклнпрсрстутужвжжжвьжжььввввьыььвььызззззэщчччччъъъъъъъъъЮЮъъъъъъъъъъъъъъъъЮЮъчччччччъъъъъъъъъъччччъчщэшззыьжсяпнмлнмллккллкккйййййгиихгфедааю©©юю╬╫╪╩╨╧╦╤╢╢Ё╡╠╠╟╝╜╚╚╚╙╘╕ё═°°⌡ ≤≈∙⌠▌█┴└│{wutpnswwx└┴▄█▌▌▄┴┌{xxz|│┐└┐┌─zyxxyzvqmuy~┐└├─┐│─}xrpputtsrqpotuvtttsqqsvy{|}}{xvusrrtopqromnpvwxwutuwwwussuuustuw{──~{~~~┌┬▀▀▄█▀▀▐░▐▒▌▄▀█▐░░▒▒▓▐▌■≥≤≈≤≥⌡°²·²²═║ё╓╔╔╕╖╖╖╗╗╘╘╙╚╝╝╝╞╟╠╟╟╣╤╦╦╥╤Ё╞╜╝╞╠╠╠╡╡Ё╢╣╤╤╥╧╨╩©дгггиймптвышщъчщэшшзззшшэщчщээыжттуттууутсррррррррррпооопппоннммллкиххгггффеедффедцбаааааббцддцццбцддбццбююабабю©╫╫╬╬╬╩╩╩╨╨╧╧╧╦╥╥╥╥╣╣╣╣╢╢Ё╡╡╠╠╟╟╝╝╛╝╢fh╤╠╞╡╟╠╞╝╛╕÷ ≥°²÷╒╔╕╖╘╚╛╙╚╜╞╝╝╟╡╠╠╡╢╤╤╥╦╥╧╨╩╩╩╪╫╪╪╪╪╫╬©©©©©ююаббаааааббцдефгфффеееееффедедцдеедцггффефгиййиийклмллллмноооннояяпноппяяяппяярррррсясссрсжьышэшыььвььыыыызшшззывтплкйигедццб╫╦╥╥╥╥╥╥╣Ё╠╞╜╙╘╚╖╓ё╒÷·²²÷║║ё╕╕╕╗╘╘╘╗╗╘╙╙╖║⌡≤≤√⌠⌠▒░▐█▀▄█▄┼▀┼├├┤┘┤├┘┘├┤┴┼┼┴┤┘└┘┘┘└┐┌┌└├┤┤┐~~}{{zxvuuuuuusruwwv|└┴┘┐┐│zspmnoonmllnnmnonmkosusrrsqplkkjkmmmmorrollnorvyxxy{|zxzzxxxz{zywtroutpt~┴▒▐▒∙≤⌡°°⌡≈■░▌▐░█┼┴┴▀┼┴┼┤│zywtqnnponrx{~─}wtpmnppnkmpqnlpv─┴⌠⌡║╕╙╚╞╠╢╤╤╣╥╧╪╫©ааааюбцддддцбббццддццццдефхклопрсрртуужжвжжввьввььввввьььввььззззззшэчччъъъъъъъъъъъъЮъъъъъъъъщщччъъЮЮЮъъччччччъъъъъъъчъъъчщчъъчэшшзыьывтяпонннммлккклйййййииихихгггфдааю╬©ю©╬╬╫╪╩╨╧╥╤╣╢Ё╡╠╟╝╜╛╛╚╘╘╘╔═°⌡  ≥≈∙■▒▐▄┬┘┌~zxwrptvutz│┤┼┴┴┬┤┘─zyz{|}─└├┘││|{yyzytpktx}─┘┐┐└└┐~xtsxxxvtrrrvxyxurpoooqv|──|zxuroqtonnnmmmouutsqruxvvtrqsvvtttuy~~~─└┴┼┴┬┴┬┬▀█▌▒▐▀┴▀▌░▒▒▓▒▌▐√≥≈≈≈≤    °²═╒ё╓╔╔╕╖╖╖╖╗╘╘╙╚╝╞╟╟╟╞╟╟Ё╤╦╦╧╦╣╡╝╝╞╠╡Ё╡╡╡Ё╣╤╥╥╦╧╩бггфгххлотвьзщЮъчщшзззшшшшэщчщщыжссуттттуутряярррррррпоопппнмммккккйихгффффееддффедцбаюаааббццдбццбцеедбббаюааюба©╫╫╬╬╫╩╩╩╨╨╧╧╦╥╤╤╥╤╣╢╣ЁЁ╡╡╠╟╟╟╟╟╝╝╛╝╢fi╥╠╟╡╠╠╞╝╚ё⌡≈ °°·║╓╔╕╗╙╙╙╚╜╞╞╝╞╡Ё╡Ё╣╤╣╤╥╤╦╧╨╨╨╩╪╫╫╫╬╬©©ю©©юююаааааааабцццдфгффеффеееффедедддееддеефффгийииххийккллллмннопонмнпяпоппяяяяпярррярстярссртжызшэзьььвььыыыышээшшзьтоккйхгедцбб╬╧╥╤╥╥╥╥╣Ё╟╝╛╙╘╙╕ё╒╒║═÷·÷═║╓╗╚╚╚╙╘╗╖╖╖╗╘╗ё°≥ ≈▓∙⌠▓▒▌▀▀▄┴┴┼┴├┘├├┬┬┬┤├┤┴▀┼▀┼┤├├├┘┘┘┘├┤├┘┐┐│~~|utsstuvwsrrsqorw|yz~~xtsssrrrqonprsqpqqpqsspprsqqmmmlmonkjmqqmlnnosx{{zz||yx{{yyvwwwuspnquslny┘▌▒■≈≥°÷÷²≈≈⌠▐▌▐█┼┬┤┴┼┴┼┤│{}}{vqonpotz|{|{vsonnonllnqspnt}┘█√·ё╗╚╛╡╢╥╧╦╤╦╩╨╩╫юабааабццдццбцццдддддддефгиклоясссстутужввьььыьььвжжжььььввььзззззшшэчъъъъъъъъъъъъъъъъъъъъъЮЮщщчччъъъЮъъчччччъъъъЮъъъщъЮъщщчъъчэшшзыьывтяппооннмлккклйййййиииихгефгфдцбю©©©©╬©╬╫╪╩╨╦╥╤╣╢Ё╠╟╝╜╜╜╚╗╗╘╓·⌡    ≥≤√⌠▒▌▀┬┘│~{yspsussy├┴┴┬├└┐zz{}}|~│└└┌~|{zywuqnpvwz{}└┘└├┬┤┐~zx{yxvuttuz}─yspoonptz~──}}{xtrsuqnmmnnoprrqomotxvvspoqtvtrruwyy{─┌┌┌└├├┘┤┴┬┤┴┼▀▐▌▀┬┴▀█▐░░░▐⌠  √∙∙≈≥≥≥≥⌡·║╒╓╓╔╕╖╗╖╖╖╗╗╘╙╚╜╝╟╟╞╞╞╟╠╢╤╦╧╧╥╢╟╞╞╟╡ЁЁ╡╡╢╣╤╥╦╧╨╪дихфхихкосжвыщЮъчщэшззшшшшзэччщзжссуутсттттряррсрррряпооппомкллкккйихгггггфффееееддцбаюаааббццдббббцеедааааааююбаю©©╬╬╫╪╪╩╩╨╨╨╧╥╤╤╥╤╢╢╢╡╡╠╠╟╟╟╞╟╟╝╝╛╝╢fh╥╠╞╠╞╞╜╛╗═≤≈ ²°·║╓╔╕╗╘╙╚╚╜╝╝╝╞╡Ё╡Ё╣╤╣╤╥╥╦╧╨╨╨╨╩╪╪╫╬╬©©©ююююююююааааббццбдфгфеееффефффеддддддедддегххххихххххийййййкклммнппнмопяооппяяяяяяррярстрсссствышэшьвьыььььыызшэээшзьтнккйхгедцбцю╩╦╤╥╥╥╤╢╡╞╜╛╙╘╘╔ёёё╒║═÷══║ё╗╛╝╛╚╘╗╕╕╕╕╖╗╕═°°≥■⌠▓▒░█┼┼▀┴┼┴┤├┘┘┤┼▀▀┼┴┬┼▀┼▀▀┴┬┬┬┬┤├┘┘└└┐┌└──│~|ysrrstuvuurponmnqporvvrsvxurqrrpmquvrpsvwywspquusqopqpqqnkjmqrooqqrw|}{{||yx|{yzssttspmlptqkmw┐█∙≥ ≥ ²² ≥≤∙░▌▌▌▀┬┤┴┼┼┼├─}}xtqprqv{zxwwwsonnmkioprsqpy└┼▒ ═╔╘╜╝╡╢╦╧╦╥╦╩╧╩╫©юаааабцддддццццдддддеефгхикмпрстссужуужввььььььввжжжььььввьыззззшэээчъъъъъъъъъъъъъъъъччччъъЮччччччччъъъчччччъъъЮъъъъщъЮъщщчъъчэшшзыьывтяппппонмлллллккккййииихфдефеддцаюю©╬╬╬╫╪╩╨╧╦╥╥╤╣╢Ё╠╞╝╜╝╚╗╗╘╔÷°⌡ ⌡°°⌡ ■▓▐█▀┬┘┐}uqstrqz├┴┼┬└││~{yz{zy|│┐─}}~|yyyxurporvuxz|┌┐└┤┼┴├┌~|}xttuuwy|│┘┐}vrqoopsw{~──}|{zyxtpmmoopqrqpnlnquuuromortuqrxzvvz─┐┘┘┐┐┐┐┘┬┬┬┼┴┴██▀┼┴┴┼█▐▐▒⌠≥·°√■■√≥  ⌡²÷║║ё╓╓╔╖╗╖╖╖╖╗╘╙╙╚╜╞╞╞╞╟╠╟Ё╤╥╦╧╦╥╢╡╟╟╠ЁЁЁЁ╢╤╥╦╦╨╨╫дигфхйхйнружыщЮъччщэшзззззызщчщшвттуутстсрсссрртсяяяяяпооонлккккккйихгфгггфффееццццббааааааббццбцбабддбаааааюю©ююююю╬╫╩╪╪╪╩╩╨╨╨╦╥╥╥╤╢Ё╢╢ЁЁЁ╡╡╠╠╟╟╝╝╛╝╢eg╣╟╝╞╜╜╚╙╓°≈≈⌡²°·╒╓╔╕╗╘╙╚╚╛╜╝╝╟╡╠╠╡╣╤╤╥╦╦╧╨╨╨╨╨╩╩╩╪╫╫╬╫╫©©юююю©©ааааббцццдеффеееффефффеддддддеддефхиххггиииииййкккккллммкояпооонооопппяяяяяяярстсссстуьзээзьвьыьььььызшщэшзьжрмййихгедцбба╫╧╥╥╥╤╣Ё╠╞╜╛╚╙╘╕╓╓╓╒║║║╒╒╒╓╘╛╜╛╛╚╘╖╕╕╖╕╗╖ё═·⌡≈⌠▓▒░▌▄▄█▀▄┼┤┬┤├┴█▌▌█▄┼┼▀┬┴┴┴┴┼┼┴┘└┌──│┐└├┌─}|zvrsrrsttsrolllllnkkmonmptwsonprqoqttqosx{~{vrtxwtqqssrsronmptvttuvx}││~{z{{yy{ywxqppqqnkjknnlow┌▄⌠≤ ≈≈⌡°  ≥∙░▌▌▌█┼┬┼▄▀┼├─z{yvsrrstsx{xuuuxtpnmkjjpqssqt~┬▌∙²╒╕╙╜╞╡Ё╤╦╦╥╦╨╨╩╫╬©юююаабцддццбцццдддефгххийлмпрттттужввввььвжуввввььььыььввьыыыызшэщщчччъъъъъъъъъЮъъъъъччччъъччччччччъъъчччччъъъъъъъччъъъчщчъъчэшшзыьывсяппппоонмллммкккккйииихгедеедецббаю©╬╫╪╩╨╧╦╥╤╦╥╤╢Ё╡╟╞╝╝╛╘╘╙╗╓²°⌡⌡²²° ∙▓▐█▀┴┤├┐┌zuttqpy└┤┤┘─{}zwwwwu{─│}{}}{wwwvtrrsossx{|│─└├├└│}|vqqsuxz|┌├┐}yvtopqsuy~┌│─~}}}{xuqmmnnoprrqolmpsutronoqrurt|}xx}~│┘├┐┌┌┐┌├┤┬┼┼┴▄█▄▀▀┼┴▄▐░■≤°═·≤√∙≈ °²²·═÷═║╒ё╓╕╖╖╖╖╖╗╗╘╘╙╚╜╞╟╟╠╠╠╢╤╤╥╧╧╧╥╤Ё╠╡Ё╢╣╢╣╤╥╥╧╨╩©цгффхихймпсжыщъчччщэшзыыззьзщчээьуууутттрррттсятсяяпяппонмлкккккккйигффгффеееееббббббааааааббццццбааццбаююааю©ю©╬╬©╬╫╩╨╪╪╩╩╨╨╧╧╧╦╥╥╤╢ЁЁ╢╢ЁЁ╡╠╠╠╟╟╝╝╚╜Ёeg╣╟╜╞╛╛╘╖═≤√≤ ⌡°÷╒╓╔╔╖╘╘╚╙╚╛╜╜╟╡╟╟╡╢╤╤╤╥╥╦╧╧╧╧╨╨╨╩╪╫╫╫╫╫╬╬©©юю©©аааааббцддддееддффеефеддддддддееефгхгггхииииийййллллммннлояооппмнооопппяяяппяссссссстжышшшзьвьььььььызэщэшывуямииихфедццба╬╧╥╤╤╣╢Ё╠╞╝╛╚╙╘╖╖╖╕ё╒╒ё╔╔╕╖╙╚╚╙╚╚╙╖╕╖╗╗╖╔ё║÷⌡≥≈∙⌠▓▒▌███▌┼┤▀▀┴█▌▌▌█▀┼┴┴┤┤├├┤┴┬┤│─~~─┌┐┌}zywxxtsssrsuusnkijkkjjiijkkkmosqnmnoqqpqpoorwz}|yvvxvqrrssqrqmppruxxvux{~│─|zyzzyyzursonnonkihiklnrv}├▐∙≤■■ ²⌡ √▓▐█▀▄▌▀┴┼█▄┼┘vusonprrtuyzvuvuxtqnlklnpsutty┐▄⌠≥÷╓╖╚╜╝╠╡╢╥╥╥╦╧╧╨╪╬©ююююабццццбббццдеефгхиийклнпястттувввввььвжувьввызыыыыьььыззыызэщщэчччччъъъчъъЮЮЮЮъЮъъчччъъччччччччъъъччччъъъъъъъччъъъъччччъчщэшззыьжтряяппоонммммнкклккйихиихфеееддббцца©©╬╫╩╨╧╧╦╥╥╥╣╣╢╡╠╟╞╝╛╚╚╙╘╖═·°°°° ≤≈⌠▐█▀┬┤├┐┐~xvtqpu{┌└┌{wzzwttuvvz}}}~}|xutttsstosty||─}─┌│─~{uqpqruzz┌└{{zwssstw{─└┌─}{{|zvuqmlllmnppomlmquutspprsruvx||zz|}─└├┘┌┌┌─└┘├┴┴┬┼▄▀▀▀▀┼▄█▓≤  ²² ≤≈≥ °·÷══·÷║╒ё╓╕╖╖╖╖╖╖╗╗╘╙╙╛╝╠╡╡╠╡╢╣╣╤╦╨╨╨╧╥╣ЁЁ╣╤╣╣╤╤╥╦╨╪бцефггхиклнржыщчъччэшззыышзызщчшшьжуутттссссссррссррряпоомкйкккййййихггфффееддддццццббаааааабббцццбааццббаюаа©©а©╬╫╫╫╪╪╩╪╩╩╨╨╧╧╧╦╥╥╥╤╢Ё╢ЁЁ╡╡╠╟╟╞╟╟╝╝╚╜Ёeh╤╟╝╞╛╛╘╔°∙∙≤  ⌡·║╓╓╓╕╖╗╚╙╙╚╛╜╞╡╠╠╡╢╣╢╢╣╣╤╥╦╦╦╧╧╨╩╪╫╬╬╫╫╫╫╬©©юююююююааббедццдедцфееееедцддддддеедефффгхиииииииййлллллммнополняямннноопппяпопяссстсссувзшзшзыьыьжььььызэщэшывуямйххгфедццаа╬╨╤╤╣╢╣Ё╡╟╞╜╚╘╗╗╗╗╖╓ё╓╔╖╗╘╙╚╙╘╖╘╙╘╕╔╖╘╘╔╒║║÷⌡≤ ≈■⌠▒▌▄▀█▌┴┤█▌█▒▌█▄┼┴┬┬┤┘┘┐┐┘├├┐|}~───{urqpsusstsrsvwvnljlmligghiijlljonmkjknppnlloruxz{{yyxtprqrpnookpqsuwyvswy}}yxyyzzyxrmonllmmjgfklmpssv~▐√≤■▓≈ ≥≥■▐█▀┴┼█▄┴┼█▄┴└~uurpprsrsuzzvuwwwtqnlknqptwvw~┤▌∙⌡║╔╖╙╜╝╠╠Ё╤╦╦╦╧╥╧╩╫©ааббцдеееддббцддеффгхиййкмноястттувжжжвьыььжыыьвызыыыыьььыззззшэщээчччччччъччъЮЮЮЮЮЮЮъччъъъччччъъъъъъчччччъъъъъъчччъъъъъъъчъчщэшшзыьжтрряяппоннмнннкккккйихиййгееедцааццаюю©╬╪╩╩╨╧╦╥╤╣╢╢Ё╠╟╠╞╜╛╙╗╖╖╔╒÷··² ≈≤⌠▐▄┼┤├├─│~yxuqppw│{xwuvussvxyz{}──~}~zvrsttrrquuyzz─│}─┌───││zurqppsxz│┌{x|}ywvuvx}│└└┐{z{yvuqnlkkkllllkknswutsrsttruy{yyzzy~─┐┘├┐│─│┐┐└┤┬├┬▀┴┴┼▄▀▀▀⌠≥≥√≤     ⌡°·═║║÷═║╒ё╔╖╘╖╖╖╖╖╗╗╗╙╚╛╞╠Ё╡╠╡╢╣╢╢╥╧╨╩╩╨╥╣╢╣╤╣╣╣╣╤╦╨╪ееегхххиккмяжзщчЮъщшззззышшызщчшшьжжуссуртттряярррсссромнлййклкйииииххгфгффедддедддццбаааааааббцццбабддцбаюаа©©аю©╫╪╪╫╫╫╪╪╩╩╨╨╧╧╥╤╤╥╤╢╢╢╢╢╢Ё╡╠╟╟╟╟╝╝╚╜Ёeh╥╟╜╝╚╙╕ё⌡■∙≤≥⌡²·═╒╓╕╖╗╗╗╘╙╚╛╜╞╟╟╠╡Ё╢╣╣╣╢╤╦╦╥╦╧╩╨╪╫╬╬╬╬©╪╬©©╬╬©юю©©юаббббцддццефеееефедцддддддеедегхххииииххийлмклллллмнлмннноппппппппппяпопяряпссрпрвзэшыьвьььвжьыызэээчшьусплйххгфедцбббю╪╦╣╢Ё╤Ё╠╟╟╞╜╚╘╘╘╖╕╔╔╕╖╗╙╛╝╜╚╙╚╘╗╕╔╕╖╖╖ё╒╓╒°≤≤≥≥≤∙▒▌▌▌▒▌▀▀█░▒░▐▌▀┴├┘└└├┐││┐└┌~}|└│zwsqoponnomprsvzzvpnmoplfafghjighjlpmhhffkmmlklnrtzzz{ytqpusqoonnnqqsy{xutvwz||yy{~yuvvspopomlljgegmponllp┴√ ▓▒∙√∙■▐┼┴┼▀▀▀┬┴┼┼┼┤┌}xtsroqttuwyxusvz|zuolnqrqsv{~┌┬█■⌡╒╕╗╙╛╛╞╡╢╢╤╧╩╩╦╥╧╫юююаццдеееддбцдегххгйихйлллнпястттужтужвввжжввьыыыыьыыьввьзэзззшэщщэччъъъъъъъъъъчъъЮЮЮЮъъъъъщщщщщччъъЮЮъъчччъччщччъъЮЮъъччччъчщщээшззжсртутроонмммномлйиийййийкхфддцддцааба©╬╬╫╫╫╩╧╥╥╤╣╢╡╡╠╠╟╝╚╙╘╘╖╔╖╔ё╒═°≤∙≤√▐▀▄┴├┘┌┌│}ywvtww}│~{xuuuttuwyx{}}─┐│|{xvtrqqqqrrty}~─│~──~~~vuspnort{||yvuwyxvvyyy{─||{yz{zwtspmmnnmhhiknqtuuuwwursvy{zwvyzz─┐┘│~│┐┐┌┘┴▄┬┌┬┴┼▀█▌░▒≥≤√∙∙∙≈≥··²⌡°÷║═╒╒║═║ё╖╘╖╕╗╙╙╖╗╙╖╙╛╜╞╡Ё╡╡Ё╢Ё╡Ё╤╨╨╩╩╨╦╤╣╣╣╣╤╥╥╦╩©ееефхиихллмосьщЮЮъчщэшшшззыьышэшшьуттуутттссрряяррряонлкмккккиийййииихгфффееддддддддцбааююабцбббббббббббцбююююю©╬╬╬╬╫╪╪╩╫╪╪╩╨╨╧╧╧╥╣╣╣╣╢Ё╢ЁЁ╡╠╟╟╞╞╜╜╚╛╙Ёeg╣╞╛╜╚╘╔÷≤⌠■≈≤ ²÷═║╒╓╔╖╖╗╘╙╚╛╜╝╟╠╠╡Ё╢╣╣╣╣╤╦╦╦╦╨╩╨╩╪╪╪╫╫╫╪╬©©╬╬©юю©©©юабаббццццдедддефедбддддддеедегххххииииийкклккллллнолмннноопппппппппппяяяярррсррсвзшшыьввьььвьыызэщэщзвтролихххгфдбаааю╪╦╣ЁЁ╤Ё╠╞╞╝╜╛╘╘╗╖╕╕╖╗╙╙╚╛╜╛╙╗╘╗╖╔╔╔╔╔╒÷÷║║²  ≤≤≈∙⌠░▐▐▄█▐░░▐▌█▄▀┴┤├┘┘┘└└┐┐┐┌~|x└├┐zrqvsqqqnlllnprvzyvspnpqmgcaflokhhkjlifeccekkjjlqvy{zzzyurpsrqonnnnssvz{yvuvvxz{zxxxtsuvtpnponkihggilljjknt┬∙≤▒▐■√∙▒▄┬┬┴┼┴┴┴┼▀┼┴├│|wtsttuvtuutsqpsx┌─|uqqststw|│├┼█∙°ё╖╗╘╙╙╞╡╢╢╤╦╨╨╧╦╨╬юаабцдеееееддддегхихкййкллмоярстттуужжжвввжжввьыыыььыыььвьзэзззшэщщщччъъъъъъъъЮъъъЮЮЮЮЮЮЮъъъщщщщччъъъъъъъъччъъчччъъъЮЮъъччччЮчщэээшшывутттсрпоннммннмлййййккййигффдбеедбаба©╬╬╬╬╬╫╩╧╦╦╤╣Ё╡╠╟╞╝╛╚╚╙╗╕╘╗╕╓║·⌡≥≤≈▓▌█▀┤┤┐┐┌{ywuvv|}yvsrtuuvxyy~~┌zwzwtrrrqpqprx|~─│~~~}||{xvspnortwxywutvxxvuvvtvyzzwuuwwvwwusstsqijkmpsuvvwwwursvxzzxwxz{~}}─┐─}─┐┐┌┌└┬┴┬┬┴┼▄█░⌠∙≤≈√■■∙≈≥²·²°·═║║╔╒═║╓╕╕╔╔╔╖╘╙╘╘╘╙╚╜╜╝╠╠╠╟╡ЁЁ╡Ё╤╦╩╩╩╨╥╣ЁЁ╣╤╥╦╥╦╩©фееегхийклмосьэъЮъчщэшшшззыьыэщээыусстттсррррряяряпонммллккккииййиииихгеффееддддддддцбааююабббббаабббббабаю©юююю╬╬╬╫╫╪╪╩╫╪╩╨╨╧╧╧╧╥╣╣╣╣╢Ё╡╡╠╠╟╟╠╠╝╛╜╚╛╙Ёee╢╝╚╛╙╖╒≥∙⌠■√≈ ²════╒╓╕╖╗╘╙╚╚╛╝╞╠╠╡Ё╢╢╣╣╣╥╦╦╦╦╨╩╨╨╨╩╪╪╪╪╫╬©©╬╬©юю©©©юабаббббцдддцддефедцеддддддддегххгххххийййййлллкклмолмнннноппппппппппярряярсррссуьзшшзьввьььвьыьыэщщэыжсяокиххихгдбюаа©╪╦╢ЁЁ╣Ё╟╞╝╜╛╚╚╚╙╙╘╙╛╜╜╜╛╛╛╙╗╖╖╖╕╔╓ёё╒²°⌡°²°⌡≥∙■■■■⌠▒░▄░■∙⌠░███▄┼┤├└└└┘┘└┐┌|zz─└┌{spswvttrnjiiklnrwvsqnlnomheaflomiijighheegfjjiikpuyyxxyxurqqqqonmnotuwyzywuwuuwyxvtrqsvxwrnonmjfefghjhgjmqv┘▒∙▐▐■√√░▀┤├┬┬┤┤┴┼┼┴┤┘─{urruvxxsusqpoosw─┌─{vttuvuw~├▀▌░≤÷╕╘╙╚╛╜╟╡╢╢╣╥╧╧╨╨╩╫юабцддееффеееедефхийккклллняярстттуувввжжжжжвьыыыыььыыыьььзшзззшэщчщъъъЮЮъъъъЮЮъъъЮАЮЮЮЮЮЮЮЮчччччъЮЮччъъъъччъъъъъъъъЮъъъъчъъЮъщэээшшььвутсррпоннннмлмлккклкккйхфффебеедцббю©╬╬╬©©╬╫╪╩╨╦╤╢╡╠╟╝╜╛╛╛╚╘╖╚╚╘╕╒÷²°≥≥∙▒░▄┴┴├┤┤┘┌{xvv{}yvrsvxxxyzy}~~┌─{x|xsrssrqonoty}──}||{yxwvspopsusuvutsuwxustsqqswvspoqtvyyxwxywtklnprstuwwxwussuwxzywux|{{z|}|││┌├┴┴┼▀▄▌▒∙≈≤≤≈∙∙√≤≥²²²°·÷═÷╒║║╒╓╔╓╓╓╔╕╖╘╚╙╖╚╛╛╛╜╞╟╟╝╟ЁЁЁЁ╣╤╪╫╫╪╨╥╣Ё╢╤╦╦╥╥╩юфффеегикклмосвшщъъчщэшшшззыьыэщэщзурррссррррррссяпонммннлкйккиийииихххфефееддддддддццбааююабббааюаааббаааю©©©ююю╫╫╫╫╪╪╩╩╫╪╩╧╧╧╧╧╦╥╣╢╣╣Ё╡╡╠╠╟╞╟╟╠╜╚╜╚╛╙ЁeeЁ╜╙╛╘╔═∙⌠⌠∙√≈ ²÷÷÷═╒╓╕╖╗╘╙╚╚╛╜╝╠╠╠╡ЁЁ╢╢╣╤╥╦╦╦╧╨╩╨╨╩╪╫╪╪╫╫©©╬╬©юю©©©ааббцбббдедцддеффффеееддцццддфгггггггххиииииллллккллммнннноооопппппяяярррррсррстжышшшзьввььывьыьыэщщшыусянкиххххфдбаюю©╫╦╢╡╡Ё╡╟╞╝╜╚╙╚╚╛╜╜╝╞╞╞╝╛╚╙╘╖╕╕╕╕╔╓╒║═⌡⌡ ≤≥⌡ ≈▓▒░▒⌠■⌠▓⌠∙≈≈■▒▐▌█▄┼┬├┘┘┘┤┘┌─~|{~}yvrrvvwwvrnkiijkmqutqnkjlnmjhhggjlkiggehiehmmmmlllnqtvttvvsqpoppommnprtuwxxwuwutssssrqrtwzytommkheddeeffhmpqs▄▓▐▒√≈≈▓▄┤┘┤┤├├┬┬┬├┘┌{ustuvxxtrpoopqsvz}~zwwxxuw┼▒⌠▓⌡║╖╙╛╝╟╠╟╡╢╢╣╤╥╦╨╨╩╫©юбццддеееееееефгхийклмлклоррсттттууввжуужввььыыыьььыыыыьызшзззшэщщчъъъЮЮъъъъъЮъъъЮАЮЮЮЮъъъъччччъъъъчччъъъъччъЮЮъъъъъъъъъъъъЮъщэшэшшььвжусряяонноомкллллмлккйигеееецффецбаю©╬╬©©©╬╬╫╪╩╧╥╣╢Ё╡╟╝╜╜╛╚╘╘╛╛╚╖ё═·· ⌡≤■▓█┼▀┼┼┼┼┴├xuu{─|wrtwzyxxyy|──┌─|{{wsqrtturpnqv{─|zyzywttsrqqsuvrtuuttuwwustsrqqrqomlosvyyxwyzyvopqrrrqqtuwwutstwxzzvsv{xzyz}|{||~~~│└┬┴▀█▐▓■√√≈≤≈√≈≤≤°°⌡°°°⌡  ·ёё║═╒╔╓╕╕╔╖╙╙╗╙╚╚╛╜╝╟╟╞╠ЁЁЁЁ╢╤╩╪╬©╬╨╥╢Ё╣╥╦╥╥╪аеффффгикклмпсвзэъъчщээшшшзььышщщщзжсррррррррррряпооннмннкййккиийиихххгфеееддддддддцццбаюююааааааююааааааюю©©©©©©╪╪╪╪╪╪╩╩╪╩╨╧╦╦╦╧╥╤╣╢╢╢Ё╡Ё╡╠╞╝╝╞╞╛╚╜╚╛╙╡deЁ╛╙╚╗ё°▓▓■√≈≤ ²²·═╒ё╔╕╖╖╗╘╙╚╛╜╝╟╟╟╠╡╡ЁЁ╣╤╥╥╥╦╦╧╩╨╨╨╪╫╪╩╪╫╬╬╬╬©©ю©©юабббцбббдддцеееееефгееддццццдфггггггххххиийййклмллллмннннннооооппппяяяпярсррсрртвышэшзывввьывьыызэщэзьурпнлйиихфедцбю©©╫╧Ё╠╡╠╟╟╟╞╜╙╘╖╘╚╝╟╟╞╝╝╜╚╙╘╗╖╕╕╕╕╔╓╒═÷⌡⌡ ≈≤⌡ ≈▓░▌▐▓∙≈√≤≈√■⌠░▌▄┬┬┬┤┤┬┬┴┤└│──}{{|{zxtqrux{ytonmmnprtvtrmjiknmkjlighjigefdggcfmonopppppqrqqsrpoomnpommnpqrssuxwtssrpoprtrsttwxtomkigfedccddfklkkw├▐░⌠≤≤≈▓▄├┘├┤┤┤├┤├┐│─}zxvvtsvxvnmnqttuvz|}|{z|}zwx│▄⌠∙■°║╕╗╘╛╞╟╠╡Ё╣╣╤╥╦╨╨╩╪╬юбцццдддддддефггхииклмллморстттттуувжууужвьвьззыьььыыыыыызшыззшээщщъъъъъъъъъъъъъъъЮъъъъъъъъъъъъчччччччъъъъъчъЮЮъччъъъъъъъъъЮъщэээшшыьжжутрпяонноомклллмммкйххгецдддфеедцаю©╬©©©╬╬╫╫╪╩╨╧╥╤╣╣Ё╟╜╜╛╙╙╚╝╝╛╘╔╒══°²⌡√⌠▌▀▄▄▀▀▄█┼─wvv{││}xssvwvuvxy}┌┐││|||zvtrtvxwtppsy~─{xvuvvsqqrrstttsstuuttuvwuuutrqqlllllnruyyxwy{zxssrqpnmlpruvutssxxzzvrtxwzzz}|{{}~~~~}~~┐├┴█▐▓⌠∙⌠√≤≤≈≤≈√ ≥ ⌡⌡⌡≥≥≥·╒ё═÷═ё╓╖╖╔╓╗╚╚╚╚╚╛╜╝╞╟╡Ё╢ЁЁЁ╢╤╥╧╫ю©╪╦╣Ё╢╤╥╤╥╪бдеггггийклмосвзэъъччщэшшшыььышэщшыжтсрряяяяпппоооппоонмлкййккииииихххгфееддддддддццццбаюююююааюююююааааюаю©©©©╬╬╪╪╪╪╪╩╩╩╩╨╧╦╥╥╦╦╥╤╢╢ЁЁ╡╡╡╡╟╞╝╝╝╝╛╚╜╚╛╘╠cfЁ╚╘╙╕═≤▒▓■√≈≤ °°²═╒╓╔╕╕╕╖╘╙╚╛╜╝╞╞╟╟╠╡╡Ё╣╣╤╤╥╥╦╦╧╧╧╧╨╩╩╩╪╫╫╬╬╬╬╬ю©©юаббббаабццббддддддефееддццццдефггффгйииийкклхикллммммннннмнноооопппяряпярсрятрртвышэззьвжжьыжьызшэщэывтяпнлйихгедцццю©©╬╧Ё╠╡╞╟╟╟╝╜╙╘╗╙╝╠╡╡╞╝╛╚╙╘╘╗╖╕╕╕╕╔ё║═·⌡°⌡≥ ²° ∙⌠░░⌠≈≥≥√■▓▒▒▐▀┬┬┬┤┤┤┤┤┤└┐┌┌│─}z{}|zvqosvz|zurqqqruvvtrplihikjhgijkljfeehghfbdjmlnqssrqpqqrrpnmolnoonnnoqrqptxxtoppnnptvrrqoqtrlkigeeecbdc``dedes┌█░∙≤≤√▒▀┘┘┬┴┬┤├├┘┌~|yywuqotyxqprvyyxy|yxyz|~{xy│▄⌠√√÷╓╗╗╗╙╜╝╠╠Ё╣╤╤╥╧╧╩╪╪╬юццдддддддддефгххиикммллнпястттттужжжжужвььвьззыььыызззыыызззшшшээщчъъъъъъъчъъъччъЮччъъъъъъъъъъъччщччъъъъъъчъЮъчччъъъъъъъччъчщэээшзыьжуутрпяонноонммллммлкйфххеццееедддцаюю╬©©©╬╫╫╫╪╪╩╧╦╦╥╥╤╡╞╝╜╚╛╝╞╞╝╚╗╔ё╒·÷°≤∙░█▌░▐▌▌▐█└|zx{──}xrrtuttwz{z─┐│││~}{xuuvxwupmoty{yvtsttrppqrssrpnrssrrrstvwwvtqppjjjklmprvwwvwyzyutromkjjmpsssttswwxxwutvv{{z|}||┌}}~~~┌┤▄▐▒⌠■⌠≈    ≥≈≤≈≤ ⌡⌡⌡⌡÷÷║╒╒║═·ё╔╖╔╓╕╙╜╜╛╛╜╜╜╜╝Ё╢╢╢╢╢╣╤╤╦╪©а©╪╨╣╣╤╤╥╦╫бдефггхиикклнржзэъъъчщэшшшывьызэчзывусряяррряяпппооппонмлкккккихиихггггфеддддцддддцбббба©©©ююююююююаааюююаю©©©©╬╫╪╪╪╪╪╩╩╨╨╨╧╦╥╥╥╥╤╣╢ЁЁ╡╡╠╟╟╟╞╞╞╞╞╜╛╛╙╚╗╠be╡╙╖╘╓²■░▒⌠∙√≤≥ °²÷║ё╓╓╓╔╕╗╙╚╛╜╝╞╞╞╟╠╡ЁЁ╣╣╣╤╤╥╥╥╦╦╦╧╧╧╨╩╩╪╫╬╬╬╬╫©©╬©юааааабббббббцеееддддддцццццдефгффггхиийккккиййкклмнмнннммннооооппяяяяяяррррсяруыззшзыьвужвыжьзшэщщшьжспомкйггффедцбю©©╬╨╢╠╡╟╞╞╝╜╛╚╚╜╝╠Ё╢Ё╟╜╙╘╗╗╗╗╖╕╕╕╔╓╒═·²°⌡⌡⌡°²°⌡≤√■⌠■√≤≥∙▓░▐▐▌▀┴▀┼┴┬┤├┘┘└└└┐}{{{|yutqrwy{{xusrpqtwwtpmlhfeghgeeghkljfeeiifefhjmmpsvvtrqstutpmmommnnonnnqqonrxwqmoooprttpqolnrqlhfdbaaaadb]\`cdgt┐█▒√≤≈√▒▄┬┴▀┼┤└└┘┐│~}|xtppw}|xwwz{{{|│{wwyzyyxvx│▀■≥⌡║╕╙╚╚╛╜╝╟╠╡╣╤╤╥╨╧╪╫╬©бддееееееееффгггхйккмммнопосттттужвввввввььвьззыьызызззыыыззшээшшэщчччъъъъъъъъъъъЮЮчъъъъъъъъъъъъъъъъъъЮЮЮъъчъЮъччъЮъъЮъъъччъчщщщэшзььжутсряппонннннмллллкйигггедееецццдцююа╬╬©╬╬╫╫╫╪╪╩╨╧╧╦╦╥╢╡╡╠╝╞╡╟╞╝╛╙╗╔ё÷═²≥≈■▒▓■■⌠▒▐█┬└│}|~}zvqpqrrswyyw|~~┌└┌│}}}{ywvvutpllosuvtrqrqpnnopqqpmkqqppppqruwxvsqppmkkmnnnortuuvwxwvtpmkjjknpqpqsttttuvxywuv{zxz}~┌|}──│┌├┼█░▒▓■≤   ⌡ ≤≈√≈≥⌡⌡⌡°║║═║╒║═·║╒╓╕╕╖╙╜╝╜╝╞╞╝╝╞╡Ё╢╣╣╣╤╤╦╧╩╬юаю©╨╦╥╥╦╨©цедефгиййкйкмпуыэъъъчщэшззьжвызэчэзьуряяярррряяяяоооннммллкклкигххгффффедддцццддддцббббю©©©©©юююааааааююююю©©©©╬╬╪╪╪╪╪╩╨╨╧╧╧╦╦╥╤╣╣╣╢Ё╡╡╠╠╟╟╟╟╞╞╞╝╛╚╚╙╙╗╠ce╠╘╕╖╒ ▒░▒⌠■√≈≤≤°²·═╒╒ёё╓╕╗╙╚╛╜╝╞╞╞╟╠╡Ё╢╣╣╣╤╤╥╥╥╥╦╧╧╧╧╩╪╩╪╪╫╬╬╫╫©╬╬╬©юаюабццбббцбдфгфедддддццццццеффффггфгийккйймлкйийкммнннмммнноооппяяпярряярсрпржзззззыьжуувыуьзшэщэшьурпнмкиффффедббю©©©╨╢╠╡╟╟╝╜╛╛╛╜╟╟╠ЁЁ╠╝╛╘╗╗╗╗╖╕╔╕╔╓ё║÷²°²⌡ ⌡°⌡  ≥≤√∙∙∙√√√⌠▐██▌▌▌┼┼┴┴┬┬┤┤┘├├┌|yz}xvstwwvxzzxusspmruxxtnjigedfhhffgfehihfdfgccjmlotvyzyvtrvwywqmmpmmmnooonqqmkqwvooppprtsqopnknsrmdca^\\^aca]\afhlx├▐▓√≥≈√■▐▄█▌▀├│┌┐┌│─│┌│─{vrt}┐│|zyzzz{~─{xz~|wtssv─▀∙°═÷╔╚╜╜╜╜╝╟╟╡╣╤╤╦╨╧╪©©юцеегффффееегггггхйлкмнмояяосттттужвььььььььжьззыьызыззззыызшэээшшэщщщччъъъъъъЮъъъЮАъъъъъъЮЮчъъЮЮЮЮЮъъЮЮЮЮъъъЮАЮччЮАЮЮЮЮъччщччччщэшывьвусярсппонмнооммлкккиххгфефгфдббцдцююб╫╬©╬╬╫╬╬╫╪╩╨╨╧╧╦╦╣╢╣╢╠╠╢╟╞╜╛╚╗╔╒═║² ≥≈■∙√√∙░▄┼┼┴┬│~}{xuqmnnnpsutx||}┌└│~z{{||zvstusnmortsqonmmkjllmopomkpponnoqrsvywtqqrqomnonmnosvvvwwwusoljklmoponnruuqrstx|zvv{yvx}─┌}|││││┌└┤┼▄▌▐░⌠√≤≈≈≥≥≈≈√√≥   ⌡·═╒╒═÷═╒═÷╒╕╗╗╙╛╝╜╝╟╠╟╟╠╟╡╢╤╥╥╤╤╦╦╧╩╬ююю╬╩╦╦╧╩юцфдцдгиккйййкотыэъъъчщэшззьжвызшччэьтяппяппппппооонммлммнлкклкхггхгфееедцддцццддддцббббю©╬©©©юююааааааюю©©©©©©ю©╬╫╫╫╪╪╩╨╨╦╦╧╦╦╥╣╣╣╣╢Ё╡╠╠╠╠╠╠╟╟╝╜╛╛╙╚╘╙╗╡de╞╖╕╕²∙▌▐▒▓⌠■√≤≥ ··÷╒╒╒╔╕╖╖╗╘╚╜╞╝╝╞╟╠╠╠╠Ё╢╣╣╣╣╣╤╥╥╥╦╧╨╩╩╩╩╪╬©©╬╫╬╬©©ююююабцббццацццдддддфдддцббцеефггггфхххиийййййккллмнммнннннмпооопяяяппяяяяяяррсуьзшэшывжжужььызэээшшжсяполййигфгфцаюю©╫╫╩╢╝╞╞╟╞╛╘╘╝╡╡╡Ё╣╣╠╝╛╚╘╖╗╘╘╖╔╗╔╒║║╒║═÷²    ≤√≤≈√∙∙∙∙√∙▒▌▌▐█▀┴├┤┬┴┼▀▀▄┴┤┐||{ywttuvyyvwrpqqppsxxwsokihddeeeeddedcdeffgccehklos{yy{yupoux{zsnpuqommnmkhnmlnqrqoopprtvsppoljkoome]\^Z\ab`c``gfhu{┘▒√≥⌡≥√■▓▐▌▌▀┘─┐┌┌│││┌┌┌~{{┐┘└─~|zzz{|}zxvwxxwuvz┐▄■ ÷║╔╙╛╛╛╜╞╠╡Ё╣╤╥╧╩╩╪╫╬юцдцффггффеегххффхййклмоппяяутттжввжввввььызыььььььыыыыззззышшээээщщъъъъъъччъъъъъъъъъъччччъЮЮъъЮЮъъЮъЮААЮЮЮАъъъъччччъъъъъъъччъчщщщэзьвутссррппоооннннннмлйиххихффффеддддццбббаю╬╫╫╬©╫╩╨╨╨╨╦╤╥╦╤╡╠ЁЁ╠╠╟╞╝╛╗╔╓║÷÷÷² ≤≤≤≈∙▒█┼┬┬┤┬┌{zxrokjkoruvwv|~~┌└┌─}|~─~yxyxtsuusstsoljgdehkklnnkijopponnopswxvvtqqllmnnnnnmptxzxusssqooonloqqpoqstqrssuxzzzz{|}~─}|}│┌──└└┬▄▐░░▐█▓∙≤≥≈■∙≈≈≈≤≤≤≈ ·≥°══÷·÷║╒╒╓╕╖╘╘╙╝╝╜╛╝╡╡╞╠╠Ё╤╥╤╤╥╦╧╨╨╪©аюб╫╩╧╥╬едфеддфхииккккмрвзчъЮъчшзыыьввьыэчээзуррряяяппппоонннммлллмллллкигггффеддддддддццццдедцбюю©╬╫╬юаю©аабааююю╫╫╬╬©╬╬╫╪╨╨╪╪╩╩╪╨╧╦╦╦╥╣╢╣╢Ё╡╡╠╠╟╠╟╝╝╜╜╛╚╙╙╗╙╖╘╟de╞╖╕╔⌡⌠█▐▒▓▓■√≤≥ ²·÷╒╒╒╔╓╕╖╘╙╚╛╜╝╞╟╟╠╠╡╡Ё╢╢╣╢╣╣╤╥╥╥╦╧╨╨╩╨╩╩╫╬©╬╫╬╬©©ююююаббббццаццддддееедцдцббцддефгфффгхххиииййййккллммммннннмпоноппппяяяяяяяяяртвышшшзьжжжувьыышээшзыжспполйихгфгфцаюю╬╪╪╩╢╞╟╟╞╝╜╜╞Ё╤╣╢Ё╢Ё╟╝╜╚╙╘╗╖╕╔╓╖╔ё║║║═÷°⌡⌡⌡⌡⌡ ≥≤≈∙■⌠⌠■■▓░▌██▄▀┼┤┬┼▀┼┼▀▄┴┬┘│~}{xsstsswywtnlnqrtwssrpmifedddddddddddddddddefijlqvyzzvpmnrrtvvqorvqrsqmjjkmkijmprsrrrrstqnkjighjjha[\^\^cdfiggmlmx─┬░⌠■≈≈√⌠▓░▌▀┬└│┐││┌┐┐└├┴┘││┐├┤┤│~{yyz{{{zywvuwxux~├█■°║╕╗╙╙╙╚╝╟╠╡╢╤╥╧╩╪╪╫╬╬юцееффффффффефгффхйклмооноясуттужввввввььыззыььььььыззззззззшээээщщщъъъъъъъъъъъъъъъъъъччччъъЮъъЮЮъъЮщчъъъъъЮъъъъъъъъъъЮЮЮъъъщчщэээшыыьжтссряпоооннннммммлйиххихгфффддддцццддцба©╬╬╬╬╩╨╨╨╩╨╧╦╤╥╣╠╠Ё╣╢╣╡╟╝╛╗╖╖ё║══·⌡  ≥≤√▓▐▄┼┼┬┴└}zwqmkijmqsuvvz{|│└┌─┐─~|xx{zvtuusstqmigecdgkjjkjijlonnmkknptxxwxwsronmoqqpnmpuxxvtsrrrqomnopqrqonqttsrqrvxxyvtw|~{|{}│┌─│└┘┬▀█▌▐▐█▐■≤√∙√≈≈≤≤≤≥≥≥⌡· ²÷÷·²÷═╒╒ё╔╗╘╙╙╛╜╝╝╝╞╟╟╟╟╡╣╤╤╤╥╦╧╨╨╪©ааб╬╫╩╦╬едеддефхииккйкмяжзчъЮъщшзызьввьышчщщзжссрряяяппппонннмммллллллкйхгфффеддццддддддддцдддцбю©©╬╬╬ююю©©юба©╬©ю╬╬╬╬╬╬╬╫╫╩╨╪╪╩╨╩╧╧╦╦╥╥╣╢╣╢╡╠╠╠╟╟╟╞╝╝╜╜╚╚╙╙╗╘╖╗╞cd╞╖╔╒≈░▀█░▒▓⌠√≤≤ ²²·║║╒╓ё╔╖╘╙╙╚╛╝╞╟╟╠╡╡╡╡Ё╢╢╢╣╤╤╥╥╥╦╦╧╨╨╧╨╩╪╫╫╫╪╫╬╬©©ююююббабббадддддеееедцдцббццдеефффффхииххиййййййккллммннннмооноопппяяяяяяяяпртьшэшзьжуужжвыьышээшзыуроппнйххгфффцаюю©╪╩╩╣╠╠╠╞╜╝╠╣╥╦╥╣╢Ё╡╞╝╜╚╚╚╘╖╔╔╔╗╖╔╓╓ё║÷≥ °²°°⌡⌡≈√∙■⌠▓▓▓▐░▐▄▀▄▄┼┬┼▀▄▀┼┼▀┴┴┤└│~{wsstqotxvokjmqstulllljhecddcccccccefecbaacdfghkqvyzwqkjmpoqrsrrtxrturmjjkkiggjov{utrpppmjghhgggfe`]`caaefjljkppqz└┼▐▒⌠∙∙■▓▒░█┴┘┌││~└├├┬▄▐▀┬┤┬┴┴┬└│~|{{ywyzzxutwyuz┌┴▐∙²╓╙╙╙╙╙╛╝╟╠Ё╣╥╦╨╪╫╫╬©©адфггффффгггфггфгиккмопнмнрууттужвььььььььыыыьььььыышээшзызшээээщщщщъъъъъъъъъъъъъъЮЮъъъъъъъъЮъъЮЮъъЮщчъъъъъЮъъъъЮЮЮЮЮЮЮЮЮЮъъчъчщщщэззьжтсряяппооннннмммлкйихгххгффедддцццдефедбю╬╬╬╬╪╨╨╨╩╨╧╦╤╥╣╡╠Ё╤╤╥╢╠╝╚╘╗╘╖╔ё╒═²°²⌡ ≤■▒▌██┼▀┬│|wqljhgjmprtuyxy┌│└│~|zwx{{xvvussuojfecbcfjiiiggjnnmmlkjnswzyy{ztrqnmorsplmpuwusssqqrrolnrrqqqomnrutrqruvvxusuz~}{||~│┌┌┐├┬┴┼┼▄▌▌▌█⌠√■⌠≈≥≈≤≈≈≥≥≥⌡²⌡°··²²÷═║║╒╓╖╗╘╘╙╛╟╠╞╜╜╞╞╟╠╢╣╣╤╤╧╧╨╨╩╬юабюю╫╩©дддддегхххккййляжзчъъъщшзззьввьышщщщшвтррряяяяппппонммннлкккллйиххфффеедддеддддддддддццбю©©©©©©©©©╬юба╬╫╬ю╬╬╬╫╫╫╫╫╫╪╩╩╩╨╧╧╧╦╦╥╥╤╣╢╢Ё╡╠╠╠╟╞╞╞╝╝╝╜╚╙╚╙╗╘╕╖╝ad╞╖╓÷⌠█┴▄▐▒▒⌠√≤≤ ²²·║║╒╓╓╔╖╗╘╙╚╛╝╝╞╟╠╠╡╡╡Ё╢╢╣╣╤╤╥╥╦╦╦╦╧╨╧╨╩╪╪╫╫╪╫╬╬©©ююююаааббббддддддеееццццббцддеефффффхиихгийкййййкккллмммннноннноппояяяяяяяяяруьшээшьжуууувьвышэщщшытяоопойгггффецаюю©╫╪╪╥╡╠╟╞╞╟Ё╣╤╤╥╣╢╡╟╞╝╜╛╚╚╘╗╖╖╖╗╖╕╕╔╓║═ ⌡°°°⌡⌡ ≈√√∙∙⌠▒░▐▒░▀┼█▄┼┬┼▄▀┴┬┬┴┬┬├└│{xuutolqtqlklopommihhiihecdcbbbcccdefda___ddfgilqtxvqmmnlhkmorttuutsqonlihhgeehoxuspmmmjgfghgfeeeaadfdbcdfgeglorz┐┼░■∙√■▓▓░▌▀┬└┌│~{~├┼┼▀░░▌▄┼┼┼┬├┘└│~{vrxyywttvxu{└▀░≈÷╔╙╙╚╛╛╜╝╝╡╢╤╥╧╩╪╪╫╬©юадфхггффгххииййххиккмноннорутттужвььвввввьььыыыыыыыышээшзышщэээщщщщчччччъъъъччъъъЮЮЮъъъъъъччъччъъччъчъъЮЮЮЮЮъъъъъЮЮЮъЮЮЮЮъъъъъчщщщэзыьжттсряпппооннннммлкйиихиихггфдеедцдефгфебю©╬╬╫╫╪╩╨╨╨╦╤╣╥╤Ё╡Ё╣╤╣Ё╠╞╜╘╗╗╙╘╗╕╓╒║═÷²⌡≈■▒▐▌██▄┤─ztniecfilnqtxxy}}}|{{ywwy{yxyxuttojedcabehijiggillkklkjnty}}||ysqqonoqqmjnpsutrqqqoprplnsspprqmnqsttuuuvvuvwvvx|}}~─┌┘┤┼┼┴┬┼▄▌█▄▒■⌠⌠∙≤≤≤√√≈≤≤≤≥⌡°²²²·÷║÷═╒ё╓╔╖╗╗╚╟Ё╠╛╚╜╜╝╟╡╢╣╤╥╦╧╧╧╩╫©юабб©╬юцццдефгхххлкййляжзчъъчщшшшзьвьььзэщщшьтряряяяяпппппнлмннлкйлллйхххгфффееееддццццццдцццбаю©╬©©©©©©©©аба©©©а©╬╬╫╪╪╫╫╫╪╩╩╩╨╧╧╦╦╥╥╥╤╣╢╢Ё╡╠╠╟╟╞╝╝╝╝╝╜╚╘╙╙╖╗╔╖╝bc╝╕╒°░▀┼▄▌░▒⌠∙≈≈ ²²·═║║╓╔╕╖╖╗╘╚╛╜╜╝╞╞╟╠╠ЁЁЁ╢╣╤╤╤╤╥╦╦╥╦╧╨╧╨╩╪╪╪╪╫╫╬╬©ююююююааббббцццццддедццццббцдеефгггггхйихгийккйййккккллммнннннннопооппппппппрсуьзээшьжуууужввзшэщчшьрпннпокфгффедцбю©©╫╫╫╦╠╟╞╟╡Ё╢╢╢╣╢╢Ё╡╟╞╝╜╝╛╙╘╘╘╖╕╔╔╔╔╓╒═·÷²⌡ ⌡ ≥≈≈≈≤≤≈∙▓▐▌░▌▀▀▌█┴┬┴┼┴┤┘┘├└└└┌─|xwtrmkopkllmnkhffgffgggfddcaabbbbbccb`_abffgjnqrrtojikmidehlquurorqnmljigffeegmu|trollljgeeedbabdaceec`_`aaabhmu|└┼▒∙√∙▓░▒█┼┴┤└┌│}│┼▌▄▄▐▌▌█▄▀┴├┐┐┌}}|xtwvutstuvw}└▄⌠ ═╓╙╙╚╚╜╝╞╟╢╤╦╦╦╨╩╩╫╬©юацфхггггххиййккихйккллмнпрсссттуужвьвввььььььыыыыыыызшэшззэчээщщщщччччччъъъъъъъъЮЮЮЮъъъъъъччъччъъччъъЮЮЮААААЮъъъъъъъъъъъъъъчччщэээшыывутттсряяяпооннннммлкйихиихххгфгфедефгхгецаю©╬╬╬╫╩╩╩╨╦╥╤╥╥╣ЁЁ╢╢╡╡╡╡╟╛╗╖╙╙╙╙╘╗╖╕╓╒÷⌡≈■▒▐▐▌▐▄┐}xqjdacgilorxz{|zyzzyxyxwwwxxz{zwutpjeccaacgjmljhhihhikjjnsx}}|wrqqqpppnlkppqstsqoqnnpqnorsonqspoqqsuvuuwyvxyvsu{│}}|{|─┘┤▀┼┬┤┴▄██▄█░⌠⌠▓■≈≈√∙≈≈≈≈≈⌡⌡⌡°²÷║╒÷║╓╓ёё╔╗╗╙╞ЁЁ╜╙╘╛╜╞╟Ё╣╤╥╦╥╦╧╨╪╬©юббааббццдфгхххилкккмяжыччъчщэшшзьвьььзэщэшьтяяяяяяяппппонллммлйклллйиииггфффеееддццббццццбббаю╬╫╬╬╬╬©©юаююююююю©╬╫╫╪╪╪╪╩╩╨╨╨╨╨╧╥╥╤╤╤╣╢ЁЁЁ╡╠╠╟╞╝╝╝╜╜╜╛╙╘╙╘╖╗╔╖╝bb╜╓═≥▄┴▀▄▌░▒▓∙≈≈≥°°²══║╓╔╕╕╖╖╘╚╛╛╛╜╝╝╞╟╠ЁЁЁ╢╣╣╤╣╣╤╥╥╥╥╧╨╧╨╩╪╪╪╪╫╫╫╬©©юююю©юабаабццбббцддеццццббцееффггххгхииххийккйййкккккллмнннннноопоопппппппярсуьзшшшьжууутувышщэщщыуяпннонкгфффддцбю╬╬╪╩╪╦╡╟╞╠╢╣╢╢╢╤╠╡Ё╠╟╞╞╜╞╜╘╗╗╖╔ёё╓╓╓╓╒═·═² ≥  ≤√≤≤≥≥≥≈⌠▒██▄▀█▐▌┼┬┬┤┘┐┌┌┌───~}zwvromlnnjmlkifdddeeffgfedcbaabbba`abbbcegffgjorqnmifeeeeedglqvwtpppoligijijjjkntxusomlmkhedcba`acbedcca_aaabdgoy─├┼▐⌠⌠▓░▌▐▀┬┴┬├└└└┐├█░█▀▄▌▌▌█▀┬┘┐┌│|}││~zwtstvwwz┤▌√²╒ё╚╚╚╙╚╝╠╢╤╦╧╥╥╨╩╨╫╬©абцехггххииййиййххйклллмояссрсттуужвьььыыыыыыьыыыззззызшшзшэщээщщщщччччччччччъъЮЮЮЮЮЮЮЮъъъъъъЮъъЮЮъъЮЮъъЮЮЮЮъЮЮЮъъъччъъъъъъчччъчэээшыьвуттттсяяяпоонннннмлкййийиххихгггффффгхгецббаю©©╫╪╪╫╫╩╧╥╥╥╤╣Ё╡╠╠╠Ё╣Ё╞╚╘╗╙╚╚╛╜╝╜╘╗╔║²≥∙▓▒▌░▐├─|skd`cfhjnpw{|{wtvzywwwvvvuwz|{xusqjeddcbcgkoomjighijjkloru|}{vrrqssrpnnnrrrtvurornlnpppqroortsrsrrrrrsw|zzxwwy}──│|}┌┤┴┼┼┬┬┴▄█▄▀┼█▓▓▐░∙≈√≈≤≤≈≈≥⌡⌡⌡²·═║╒═ё╕╕╓╓╖╙╘╙╝╠╡╝╙╗╚╜╝╞╠╢╤╤╥╤╥╧╩╩╪╬╬бцбееббдефгххииккккмяуьщчъъчэшшзьвьььзшээшыуяпряяяяппппонммммлккллкйииифффеедддеедццццццбааба©╬╪╫╫╫╬©©©ю©╬╬©ю©╬╬╬╫╫╪╪╪╪╨╨╧╧╧╨╨╦╥╤╤╤╤╣╢ЁЁ╡╠╠╠╟╞╝╝╜╜╜╜╛╙╘╙╘╕╖╔╖╝ba╚╒²√┴┬▄▄▌▒▒⌠∙√√≥⌡⌡°÷÷═ё╓╔╕╖╖╗╙╚╛╛╛╜╝╞╟╠Ё╡╡Ё╢╣╣╢╣╤╥╥╥╥╧╨╦╧╩╩╩╩╪╫╪╪╫╬©©©©ю©юабаабцббббцддедцццбабддеефггххххххххиййййййккйкклммнннннопппооопппяяярсжышшзыьжууууувышээээьсппоммнкхффедццбю╬╬╩╨╩╧╢ЁЁ╢╢╢ЁЁ╢╤╠ЁЁ╠╟╟╞╝╞╜╙╗╖╕╓ёё╓╓╓ё║÷²°⌡    ≥≈ ≥≤≤≤≤∙⌠▌▌▐▐▐▌▄▀┬├└┌│─~{}~~~|xtuqqqonnlmjgeeedcceghhfdccbaabca`aabcefghefhjmpnkjecedabfdgkpuyyvsroljiklkmopprvyvtpnmmjgedcbbaaccfcacb`cefhiiq|┌┤┼▌▓⌠▓░▐▌▀▀▄▄┴┬┼┼┼▀▐▒░█▄▒░▐█┼┬├┘└┘┐│┌├┤┘{xtstwxx}┐▀▓≥═╓╔╚╛╛╛╛╝╡╣╥╧╨╥╥╨╪╩╫╬юцццдгхххиййййиййххйклммнпярррттууужвьььыыыыыыьыызззззззшшшээээээщщщщщччччччччЮЮЮЮЮЮЮАЮЮъъчъъъЮъъЮЮъъЮЮЮъЮЮЮъъЮЮЮъъъъъъъЮЮъъъъъЮъщщщэзывжуттссяяппонннннмллкййиииггиииггггггхххфдцддцбаю©©©©╫╩╧╥╣╣╣╢╡╠╠╠╡╢Ё╟╝╜╙╚╚╙╛╞╠╠╞╝╚╗╓÷ ≈■▐▒▓┴└ukd_befilqvzzyuqrvwwwxwustwz{zwtrrlgghfeeiloomljhlmlijoqqu{}{zvrqrstsqpqrstuwxwtrpnlmoqpopqrsttuuurpqrtwz{zyz{}└├└│┌┤▀▄┴┴┴┴┼█▄┼┼┼█▒▒░▒■√≈≤  ≥ ⌡°°°²÷║║║╒ё╔╕╕╖╘╚╙╛╝╝╝╝╛╙╛╝╞╞╟Ё╣╣╤╤╥╨╪╩╪╫╫ббцихдцдефггхийиййкмптвэщъЮчщшзыьвьььзэээшзуяясяяяппппопоонммллкккйййихггффедддеедцццццдбаааа©╫╫╪╪╫╬©╬╫©╬╬╫╬╬╬╬╫╫╫╫╫╪╪╩╧╨╧╦╦╨╧╥╤╤╣╣╣╣╢Ё╡╠╟╟╟╞╝╜╝╜╛╛╛╚╙╙╙╘╕╖╓╕╜a_╘║°■┬┬█▄▐▒▒⌠∙√√≤⌡⌡⌡·÷÷╒ё╓╕╖╗╗╘╘╛╛╛╜╝╞╟╠╡╡╡╡Ё╢╢Ё╢╤╥╥╥╥╧╩╦╧╨╩╩╩╪╫╩╪╪╫╬©©©ю©©абаабццбббцддедцццаабцддеефггхгггххххиииииййкййклммнннннопппоооппяяррясжзэшыввууужужьвзшшээьсопомммкиффецццбю©©╩╧╩╩╥╤╥╤╢╡╠╠Ё╢╡ЁЁ╟╞╞╟╞╜╜╚╘╖╕╕╕╒╒ё╒═·°⌡≤ ⌡°⌡   ⌡≥≈√≈≈√∙▒▓⌠⌠░▄▀▄┴├┌─~}|y{~~~{vrwsturnnokheeggd`cfikjfdbcbabcca_cddfgggffhjkmonlkdbghdbddfhlsy|zysmkmnmkjloqsuxzvtqmlkhedbabb``bcea^ba_bhilljp{─└┬▌■∙■▒░▌█▌░▐▄▄░██▌░▓▓▒▐⌠▓▐▄┴┤├├┘┬┬├├┤┘┌yvsqrtvx├▌∙⌡╒╕╗╘╛╝╞╝╞╠╢╦╨╨╥╥╩╫╪╬╬аддцдггхийййййкллиийккнопяпярстужжужвьвььыыыыыьыызззззшшшэээшшэээщщщщщъъччччччАААААААААЮъчччъъЮъъЮЮъъЮАЮЮЮААЮъъъЮЮЮЮЮАЮЮЮЮЮъъъчъчэээшьыьжуттсряппоннммннмлккййиихггийифгггхххххфддефеддбаюю©╫╪╨╥╢╢╢╢╡╠╠╠╠╡╡╟╞╟╝╝╛╙╙╝╟╠Ё╠╟╜╘╓· ≈░⌠■▀├┌wjb^adegjquxxxtppqsvyzxtptwyzxurqtnijkjhhkmnmmmljmnkghnqow||zzvqorsssrrsttuxyywutonllnpqoorutstvwwspruuuvwy{|||~├┬┤└┘┼██┬┴┴┼▄█▄┴┴▄░▒▓⌠■⌠∙√≥  ≥⌡··²²·═║║═ё╒ё╓╖╘╙╙╚╝╝╛╚╜╝╜╜╞╞╞╟Ё╢╢╤╤╦╩╪╩╩╫╫ббдкйеддефффгийхийкмпсушщъЮъщшзыввьььзээээзжрясяяппппоопппонмммкйийййигххгффеедедцбббббдбаюаа©╫╬╫╩╪╬╬╫╪╬╬©╬╫╫╬©╫╫╫╫╫╪╪╩╧╨╧╦╦╧╦╤╤╣╣╣╣╣╢Ё╠╟╟╞╞╝╜╛╝╜╛╚╚╚╙╙╙╘╕╕ё╔╛`a╕═√▀├┬▀▌▌▐░▓⌠∙∙≤≤≥°··÷║ё╓╔╕╗╘╙╙╚╛╛╛╛╜╝╝Ё╡╠╡Ё╢╢╢Ё╢╣╤╤╥╦╦╧╧╧╨╩╩╪╪╪╪╪╫╬©юю©©юю©ююааббцццдеддддбююцееефггфегххггийихийййийкййййклмммнонояянпяяяппярптьзшэзьсстужжжжьээзэшвспонммлйихгеедцю╬╫╫╩╧╨╩╩╧╧╤╢Ё╢╢╡╠ЁЁ╡╡╡╠╞╜╛╚╙╗╗╗╕ё║╒ё╒║÷·²⌡  ⌡⌡ ⌡²⌡ ≥≥ ⌡ ≥≤∙▓░▒▓▐┼┬└──│─~}xxz||yutyvtsrokhhecdfgfdfkoniecc```abb`_ddddeffeehloonmmmhfhjgcbcehjlpv{ytnkknprqsuuttvwuupkijgbd_]_bcbcedb_^aaajklmos|┐└┬▌▓■■⌠⌠▐░▓▒░░▒⌠▐██░▓▓▒▒▐▄┼┼┼┬├┘┼┼├┌┐┘└│|wustxx|└┬▐√·ё╖╘╙╝╞╜╝╞╠╣╤╤╥╦╧╨╪╪╫╬©юбдддииииййкклммкхгилопрррррстуужжжвьыьвышшзьызззззззызшэщщээээээщщччъччччъъъЮЮЮЮЮЮЮЮААЮЮЮъъъъъъЮЮЮЮЮАЮъъъъЮЮЮЮЮЮъъъъААЮЮъъъъччччщэшзывжжжтссяяяряпнллммлккиххихффхихеффггххгфдддфгедддбаццю╪╨╦╢ЁЁЁ╡╠╟╝╟╡╡╢Ё╜╡╟╜╚╛╝╞╞╟╠╟╝╚╖╒·⌡√■⌠░▄└ymf__bdfhnrvwvsqpsrrsrpqtwuy|wtusqnkkkjiiikllkknppqplhjosuwxxvtrqsrrtttuvttvyzwvvrpnnooqtqpoqsuutxvttvwusswz{{|}}┌┤┤├┴▄▄█┴┴┴▌░▀┬▄▌▐▒▒░▓√≥≈√≈≥⌡⌡°²·²·║║÷÷═ёё╓╕╗╙╘╗╛╝╟╞╜╛╜╟╜╜╜╝╟╡Ё╢╤╥╦╦╧╨╪╫╬©цгйкйхцдеффггхгиикопржшщъЮъщшззвжжььызчщшывусяяяяппппояпонммммйкйхиихфггфееедцдддццццбцбааааю©╬╫╩╪╫╬╬╫╬©╬╫╪╬©╬╪╫╫╩╨╩╩╧╩╨╧╧╧╦╤╣╧╥╣╢╢Ё╡╠╡╟╞╞╞╜╛╛╛╛╛╛╚╙╘╗╘╕╕╕╒╓╘a`╔·∙┼├┬▀█▌▌░▒⌠■∙≤≈≥°·÷═║╓╓╔╕╖╗╘╙╚╚╛╜╜╜╝╝╠╠╠╡ЁЁЁ╡╣╤╤╤╤╣╣╤╦╦╧╨╨╩╪╪╬╬╫╫╫╬╬╬╫╬©©©юабаббцццдеддддбюацддефгггфгххгхйййхийййиййккккккллноонояпняяяяппярптьзшшзьуутуужввыщщшэшжряпонмкхгедцццбю╬╬╫╨╧╨╪╪╨╥╤╣╣╣╢Ё╠╢Ё╡╠╟╞╝╜╜╛╙╗╖╖╔ё═════÷·²°⌡ ⌡⌡⌡⌡°  ≥≥ ⌡⌡⌡° ≈■▓▒▌┼┤┐│┌┌─}|ywvwwuttyvrqpmiefedeghhgfilkgdbbca__`aa`cccdeedcggjmoomlieehjgcaadhjjlorsokikostuvxxwuuvtspkihfbb`_`abbcffdbbdddiloprw├┬▀▐▓⌠■⌠⌠■■▓░▌▐▓∙▒▐▌░▒▒░░▒▌┼┬┤├┤┴├├┐│┌┤┬├─wuuwxw|└┼▓ ═╓╖╗╚╞╞╝╞╠╡╣╥╥╥╦╧╩╫╬©©ююбдфгииййккккклмкиикмпяррррстуужжжжььыььызшзыызззззззшээщщэшшээээщщччъъъъъъЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮъъъъъъЮЮЮЮЮЮЮъъъъЮЮАЮЮъъъЮЮЮЮЮъъЮЮЮччччщэззывжжжтстряпппонмкллкййигхихггиииххххггффеедеффедддцбцда╬╪╧╤╢╢╢Ё╡╟╞╟╡Ё╢Ё╝╞╝╛╙╙╚╜╞╟╠╡╞╛╗ё÷╒²≥∙▒▄┐yqg^^cgijmquxwutstpmmmnrwzvxzuuwvrmjkmnlkjklllmoquvsniilnuuuuutsrsrrststuuvy{zvtutsrsrqqssrrstvvvuvxzzywuvx{|zyz{─┘├├▀▌▄▀▄██▐▐▀┴▄▄▌░▒▒▓√≥≤≈≈≤≥ °÷··÷║╒║║╒╒╒ё╔╖╗╘╘╜╞╞╝╛╚╜╝╝╜╜╜╞╡Ё╢╢╣╥╧╨╩╪╫╪╬бгйкйхддеефггггхийнояжшщъЮъщшзывжвввьзщщшывтсряяяяпппоооннммммйкйиийхфгфееддцбдддццццццбаюююю©╬╫╩╪╫╬╬╫╬©╬╫╫╬╬╫╪╫╪╩╨╩╨╧╧╧╦╦╦╥╤╣╦╥╣╢╢Ё╡╠╠╞╝╞╞╝╜╜╛╛╚╙╘╘╗╗╘╕╕╕╒╓╘`_ё⌡▒┬┘┬┼▄█▌▐▒⌠■∙≈≈≥°·÷═║╓╓╔╔╕╖╘╘╙╚╛╜╜╜╝╝╟╟╠╡ЁЁ╡╠╤╤╥╤╣╣╣╣╥╦╦╧╨╩╩╪╬╬╫╫╫╫╫╫╬╬©©©юабаббцццдддцццбюацццдегхгггхихийкйиийййййкллккллллнооноппняяппяяяяяуызззывжжууужвьыщщшэытпяпонмкхфдццбцбю╬╬╪╨╧╩╬╫╩╣╣╤╥╤╢╡╠Ё╡╠╟╝╜╜╜╜╛╙╖╖╖╔ё║═÷÷══÷·⌡ ⌡°²°°²²²²°°⌡°²·² √▓▐▄┴┐┌┌┌│~|{xustuuttwtpnmkfceefhjkkkhijigdcccbaacdedeeeffedchhhknoljfdcfhfcbcfiihhjlliggjnrttvxyxvttrqnligdaa``abbbdfgfddfggflpqu~┤▄░▒⌠■∙■■■√∙⌠░▐░⌠∙▓░▌░▒▓▓▓∙▒█┼┬┤┤┴└└┌─┌┤┼┴┐xwyywv~┤█√²║╓╖╘╛╞╞╞╠Ё╢╤╥╥╥╦╨╪╬©юююабдгххикклкккклмлккнпяррссстуужжжжвьыыыыыыыззззззшшззээщщщэшшэээщщчччъъъъъЮЮАЮЮЮЮЮЮЮЮЮЮЮЮъъъъъъЮЮЮЮЮъЮЮЮъъЮЮЮААЮъъъЮЮъъъъъЮЮАчччщэшззывужжтттряпоооонкллкййигхххггииихххггфедддееееддццбцдецю╬╩╦╤╣╣Ё╡╡╠Ё╣╣╤╣╞╜╜╜╚╙╚╝╠╞╡╢╡╝╘╔╒╔═°≤⌠▐┬uh]]chhhjnsvwvtssnjiikpwywyzxxyxrlginpnmjjklmnoottqmjkmnrrsuvvtsrrrsssstuvy{zwutttuwwuttuuuttuvwvz}}zxwzz{|zvwy|│┐├█░█▀▌▒░▌▌▄┼▄▄▌░▒▒▓∙≈≥≤≈≤≤≥°÷·²÷║╒╒╒ё═║ё╓╔╕╗╘╞╞╝╜╛╛╛╜╟╞╝╞╠Ё╣╤Ё╢╥╧╨╩╫╬╩╬бгйкйифеддфггффхикмнпжзэъЮъщшзыввввжвзэщэзвтрррряяпппоннмммммнккйииихфффеееедцддддццццбааю©╬©©╬╫╩╩╫╬╬╫╫╬╬╬╬╬╬╫╪╫╪╩╨╨╧╦╦╦╥╥╦╥╤╣╤╤╣╢Ё╡╡╡╠╞╝╞╞╜╜╜╛╚╙╘╗╗╗╗╘╕╕╕╒╓╘`^║≤▌┘└┤┬▀▄█▌░▓■∙√≤≥⌡²·÷═╓╓╓╓╕╖╘╘╘╙╛╜╜╝╝╞╟╟╠╡╡ЁЁЁ╢╣╤╤╤╤╤╥╤╥╦╧╨╨╩╩╪╪╪╪╫╬╬©юююю©©ююаабццццдццццбююбцддегггфхиихийййиййкккккййкклмммнооооооояпопяряяржыззыьжвжууужввьээшшьроннннмкхффедццаю╬╫╪╨╩╫©╬╨╢╣╤╤╣╢╡╠╟╟╟╞╝╝╝╝╜╛╘╖╖╖╕╓ё║÷÷═║═÷⌡ ⌡²·²²·═║═÷° ⌡°°⌡≤∙▓▌┼┤│││─~|{zvttwywtssqnlkifddfhikmmljihhgfeeeeeghigfedeffedcghijlljfeccegfeeghigefhkgeddgjmoqsvwwvtspnlljfca``abcddeffgffgijinsu}┼⌠√≈√√√√∙∙∙⌠⌠▓▒▒▒⌠■▒░▐░⌠∙≈≈≤■░▐█▀┬├├├┐┌┐├┬┬┘}||zxx│▄▒≤°═ё╗╚╛╞╞╞╡╢╣╥╦╦╦╧╨╫©аю©юацдфххиклллккйлммлмпррррсстужжжввввьызззыььзшзззшшшзззшээщэээщщщщщччъъъъъъЮЮАЮЮЮЮЮЮЮЮъъъъъъъъъЮЮЮЮЮъъЮЮЮъЮЮЮАБАЮъъЮЮАъъъъъЮЮЮчччщээшзывууутттряпппоонмммкййихгххгххихфффффеддцдеддццдбаабддбю©╫╨╦╤╣╢Ё╢Ё╣╤╣╤╢╞╛╚╚╛╛╜╟╡╟Ё╣╢╟╚╗╕╕╒· √⌠▐┬|nb`dgfeilquvusrqmjjijmruw{~{yqkfgkmmlkjijkkkjoonlkmoonpsvwwusrrssssstttuxyxvussvyzyxxvwwvttuwz~│─{wwx{zz|yuuzy~│└▀▐▌▌▌▒▐▄█▌███▐▒▒▒▓⌠∙≤≤≤≤≈≈ ²⌡°²·══║║═║ёёё╓╖╘╝╝╝╜╜╜╜╛╠╟╟╠╡╢╣╤╡╢╥╧╨╩╫╫╩╬цгйкйихфддфггффийкммпуыэъъъчэзььввжувышэщзвсрсрряяпппонннмммммккййихгфгфффффедддддццццабаю╬╫╬ю╬╪╩╩╪╫╫╫╪╫╫╬╬╬╫╫╩╩╩╩╨╨╧╧╧╦╦╦╦╥╤╣╣╣╣╢╡╠╡Ё╡╟╝╝╝╛╚╚╛╛╚╙╘╗╗╗╖╓╔╔╒╓╘`^║√▀┐┐┤┤┼▀▄▌░▓⌠■√≤≥ ⌡°²·╒╒ё╓╔╖╘╙╗╙╚╛╜╜╝╞╠╠╟╟╠╡Ё╢╢╣╤╤╤╥╥╦╤╤╥╦╧╨╨╩╨╨╩╪╫╬©©©©©©╬╬©юаабццццццбббаююбдддефгфехииххииххиийййййиййкллммоноооооопооопяяпсжыззывууужжжжжжьээшшвяпннннмкхфффедцбю©╪╪╪╫юа╬╨╤╤╤╤╢ЁЁЁ╝╞╞╞╞╝╜╜╙╙╗╕╖╗╖╔╓╒÷÷═║═÷²°²·÷²²·═║║÷⌡≥ ⌡ ≈■▓▒█┴├┌┌─~|zzzvuuwxuqoppoligfgdgiijlkiifeffeefihhhihfddbbdecbbehjjihfcbceijjjjiigeccdfedcdfhjkoqsuwvusnmllkgdc``abeggffghhhjmqrv{│▄≤²⌡≤√■■⌠▓▒▓▐▐▐░▒⌠■■▒▒▒▓∙≤  ≤⌠▐▐░▌┴├┬┤┘┐└├┤┤┤└└~yz|┘▐⌠≥²═ё╖╚╛╞╞╞Ё╣╣╥╦╦╧╧╩╫юа©©ацддеггикллккййкммнояссссстужжжвввввьыызззььзшзззшшшшзззшээээшщщщщщччъъъъъъъЮЮЮЮЮААЮЮЮъъъъъъъъъЮЮЮЮЮъъЮЮЮЮЮЮААБАЮЮЮЮААЮЮъъъъъъчччщщэшшывуууттурряяяпонмнмкййихгггхххххфффффеддцдддццццаююбцбаюю╬╩╧╥╤╣╢╢╡╢╢╡Ё╡╜╙╗╗╙╛╜╞╟╟Ё╤╤╡╝╚╙╙╕╒²≈∙▓▄┘yniigeehkotvvtrpljkkkmptx}│┘┐~{snjijkklnljiiigfopommooonqttsrrsqrssssttusrswxwurrtwyyy{xyzxvuvw{┌─zuuw{yyzxuw|{─│┐┤┼▄░▐▓▐▄▌░▌█▀█▐▒▒▓⌠∙≈√≈≤≈≈≤ ≥ ⌡°²·÷÷═╒ёёёё╕╘╚╛╜╝╞╞╝╜╞╞╞╠╡ЁЁЁЁ╣╥╧╨╩╪╫╫юехиййййгеефггфгийкннпуьэъъъчэзьвввжужышэщшвтрррряяппоооонннмммйййихгффгфффффедддддццццаббю©╬╬©╫╪╩╩╩╪╫╫╪╪╫╫╫╫╪╪╨╨╨╩╩╨╧╧╨╧╦╦╦╥╤╣╢╢╢Ё╡╠╠╡╠╞╝╝╜╚╙╙╚╚╚╚╙╘╖╕╓╒ё╓║╓╘`^═■┬│┐┤┤┴┼▀█▐▒⌠■∙≈≥  °²·═║╒╓╕╖╘╘╗╘╙╚╛╛╜╝╟╟╞╞╞╠Ё╢╢╣╤╤╤╤╥╥╣╤╥╦╧╨╨╨╩╩╩╩╪╫╬╬╪╫╫╬╬╬©ююацццбцццбабаююаддеефффегххххихгхгххииихйкккккккнннооноппооопяяятвзззывутуужжжууыщщшшжяяоннмлйгедддцббаа╪╬©юаа╬╩╧╦╥╣╢╢ЁЁ╞╞╞╞╞╜╚╘╗╗╖╕╖╗╖╔╓╒═÷÷÷÷÷═÷÷÷·²°²═║║÷°⌡⌡°≥∙▓▒░█┴├├┘┌~{zyyutssrolkppoligghhjkjkmkhebabdcdfhgeefgggecbddbabcgigfeda^binponmkigedcaaddefhijkmnoqstrqooonlifebbbcfiigefghjmsy}─┘█≤÷²≈■▒▐░▐▄▀▄▌██▌▒⌠∙∙⌠⌠⌠∙≈≥≥≤√░▀▀█▌▀┴┬┤┘└┘┬▀▄▐▄▀┌{|─┬▐■ ÷╒╔╖╘╛╟╟╟Ё╣╣╥╧╧╨╩╪╬©ю©©аеедехгилллкккклмнопрсссстувввввввввьыыыззыыызззшшшшшшшшшшшшззэээщщчччъъъъъъъЮЮЮААААЮЮЮЮЮЮъъъъъъЮЮЮЮЮъЮЮЮЮЮЮААААААЮЮААААЮъъъъъчччщщээшывуууттусррряпонммлйииихгггххгггиххгфедддддддццбаююбба©©©╬╪╨╦╤╤╣╣╢╢╢╡ЁЁ╞╚╗╗╚╝╝╝╟╠Ё╣╥╢╠╝╝╚╗╔÷≥≈∙▒▀┌xrlhfggimquvuspljklmpsuz}─├┘─~vsomlkmoroljhgfeopqooppopqrplkmooqrrrsttwurruwvsrrruvwxzwyyxvtuvw{zvuwzxwwvuy~┐┐┐└┘┤▄▒⌠░█▐▐█▄┴┼█▌░▓⌠∙∙■∙≈≤≈≤≥≤≥  ⌡°²°÷║ёёё╓╕╗╘╙╚╜╝╞╝╝╝╞╟╡Ё╢Ё╡╢╣╥╦╧╨╩╫©бфхххийлигффгггхиикноотвэъъъчэыьвввжжжьшээшьтрррряяпооооооннмллййййхфффффеееедцддццццбббббаю©╬╬╫╪╩╩╩╪╫╫╫╪╪╫╫╪╩╪╨╨╨╩╩╨╧╨╨╧╦╦╦╥╣╢╢╢Ё╡╠╠╠╠╟╝╜╜╜╚╚╚╘╘╙╙╘╖╕╓ё║ёё║ё╗`\²░└┌┤├┴┴▀▄▐▒⌠■⌠≈≥≥ °··═║╒╓╕╖╖╗╘╘╙╙╙╚╜╝╞╟╟╟╟╠╡╢Ё╢╣╤╣╣╤╤╤╤╥╧╧╨╨╧╩╩╩╩╪╪╫╫╪╫╫╬╬╬юаюацццбббцбаббаабдддефгфефгхххииххххиийииккклллккнмноонояпппппярртвзззывууууууужжзщэшытппннмлкигфдддцббаа╬юаююю©╫╨╦╤╣╢Ё╡╠╟╝╜╜╜╜╙╗╖╖╕╕╖╗╕╓ё╒║══÷÷═║═÷÷÷²²·║║═·°⌡ ⌡√■▓▒▐▄┼┴┼┬└~zxwtrqppnkjkpomkjjihklkjkmjfc`_abbcfgfeeghiihededbabceecbdc`_dimnmmmmjfeedcadeghjkkklkkmpqqprtspmlifdefefhihggikns}┘┤┬▄■²÷ ■░█▄█▄┴┤┬▌█▌░⌠∙∙■⌠■∙√≤≥≈■■▐┼┴┼┼┼▀┬┤├├┴▌⌠≈ ⌠▌┘~~│▀▓∙⌡═╓╖╗╙╛╠╡╡╢╣╤╧╨╨╩╪╫╬╬©©©аддцеххйлмлкклмноопярссстувыыьввввввьыьыыыыыызззшшшшшшшшшшшшшшээээщщччЮЮъъъъъЮЮААББААЮЮЮЮЮЮъъъъъъЮЮЮЮЮЮЮЮЮЮААААААААААЮААЮЮъъъъччщщэээшзвуууттттсряппонммлйхииххххйигггииххгффеедддеедббаацбю©©©╬╪╨╦╥╥╤╥╣╤╣Ё╣╤Ё╞╛╛╞╟╞╞╠╡Ё╢╤╤Ё╠╠╚╘╖╒°  √░┬~wpkikjknrvxwuqmkmooqtv||┘┘}yvsqpoqssqnjhhgglnonmmnmmnnmjiijloqpprsswwustvusrqrtuvwyxyzyxvuuvy|{ywwxzywusuz│└└└┘└└├▌▒▒▌█▀┴┼┬┴▀▄▌▐▒⌠■▓▓∙≤≥ ⌡ ⌡°⌡⌡°²°·÷║ёё╓╕╖╖╗╘╚╛╜╝╞╟╟╠╡Ё╢╢Ё╣╣╤╥╦╨╪╫©бфгггилмкигфггххихйооорвшъъчъщыывжввввьшшэшьусяряяпооннннннммллкйййхфеггфееддцбцццццбббаааааю╬╫╫╪╩╨╨╩╫╬╬╫╪╫╫╩╩╪╪╩╩╪╩╧╦╧╦╦╥╥╥╤╣╢╢Ё╡╡╠╠╟╟╞╜╛╜╜╚╙╙╗╗╘╗╖╕╔╓╓╒ё╓║ё╗_Y≥▄│|│├┘┬┴┼▄▌▒⌠■▓√≥≥ ²÷══║ё╔╕╕╕╕╘╘╘╘╙╚╜╝╞╟╠╡╠╡Ё╢╡Ё╢╣╣╣╤╥╤╥╦╧╧╨╧╧╨╨╨╩╪╫╬╬╬©©©©©юаюацццбббдбббббабццдефггфеггххййийиийкккйийкллмммнмнонмояпяяяяяртуьзззывужууттужвшщшыврннмллккйихффедбааююабю©©©╬╧╥╣╢Ё╡╟╝╞╜╙╙╛╜╚╘╕╕╕╕╖╗╕ёёё╒╒║═║║═÷·÷÷·÷══÷·⌡≥≈√√⌠▓▒░▌▄▀█▀┴└~ywtpmnopolklpmjjlmljjjighjgbb`_bccdhkjiijifdjfcdc`_adda_addabeiihhjkoicabeedefhjkkkklkkmpsssuxvqnmkfehhgfgiikkmpt{├░▌▌░≈²· √▐▄▀██┴┤┤█▌▒■≈≈■▒▒⌠∙√≤≥√⌠⌠▐▄┼┬┤┬┼▀┴┤┬▄▓ ═╓√▐┬┌│█∙≈⌡÷ё╖╚╛╜╡╢Ё╢╣╥╨╨╨╩╪╫╬╬╬©╬©ббадхикммлклмноппярссттувыззыввввввьыььыыззыыззшшшшшшззшшээщщээээщщччААЮЮъъЮЮААББББААААЮЮЮъъъъъъЮЮЮЮЮъЮЮЮААААААБББАЮЮААЮЮъъЮЮчщщэээшшзвууутстусяоооннннмйииихихиййхггфггггггггедеффдбдббдцю╬©╬╬╪╩╧╦╥╥╤╣╣╢Ё╤╥╣╟╞╟╡╠╝╝╡Ё╡╢╤╥╢╡╡╝╚╘╓²⌡⌡≈⌠▀┌ztooqqqsvy{yxqnnpqpprv|}├└}z{xussrtusqnjhhijkmnlihhgijlmmkhgimoooqrsvxxvtuutqpqsuvxz{|}}|zyxxyyxvvxy{zxsquz~│┐┐┘┤┘┌┐┼▐░▌▀┤├┼┴┼┼▀▄█▌▐■▒░⌠≤⌡²·°²²°°²²°°·═╒╓╔╖╖╖╗╗╘╘╚╝╟╟╟╞╟╡ЁЁЁ╣╣╤╥╦╨╪╬©беффгйлнлйхггхиххгйооояжшъъчъщыывжвььвьшшшзыжспяяяпооннмнннммллкййкиффгггфееедцццццббббаааааю╫╩╫╪╩╨╨╩╫╬ю╬╫╫╫╩╪╫╫╪╪╪╩╧╥╦╤╤╣╣╤╣╢Ё╣Ё╡╠╠╠╟╞╠╝╜╜╛╙╘╗╘╘╗╖╕╕╔╔╔ё╓╓║ё╖^Y≈┘}│┌┤┬┼▄▌▐░▒▓⌠∙≈≥⌡°²·⌡·╒╓╓╔╔╕╗╗╘╙╚╛╜╝╞╞╟╟╠╠╡╡╟╡╢╣╣╣╣╤╣╣╤╥╦╦╧╧╨╩╩╪╫╫╪╪╪╫╬©╬╫╬юаббююаббццббббббадеееефеггфгхиихиййкййккккккклллнмлмноооопяяяяррвьззыьвжжжуутужьэщщшжрпопнмкйигфеедбююаццбю©©©╬╬╧╥╢Ё╡╡╠╟╚╛╚╚╜╟╜╗╕╖╗╘╗╕╔╔╕╔╔╓╒÷÷║║÷²·÷═÷·÷÷⌡√■∙∙⌠⌠▓▒▐▌▌▌▐▐├│}vtupqnmopommnnoppmllljhghhecbcefefghlnmlnlijhdbcdcbba`^[[^bdefghgghijhc^agieehlonkjkkklortrqvtrrojijlmlhfggeepxx{└▌▓⌠■∙⌡╒═≈▒┬┤▄▐▄┴┴┼▌▒⌠∙≈≤∙▒▌▒∙≈≥⌡ ≈▓▒█┴┬┼┼┬┤┤┼▐■≤²║ё²■▄└│├▌∙ ·║ё╗╜╟╠╠╡╢╥╧╦╥╦╨╪╪╪╬╬╬аюабцдеегкноннлимояррртжужьзшшззьььжжьвжьыззыьыыыззыыызшшшшшшшшшшщщээчъчЮъъччъЮЮААААББББЮЮЮЮАААББАЮАББЮъЮЮЮЮЮЮААААААААААЮАААЮъъЮъччщэшззывтстттссссрпоооонлккккййхийхийххххххгггеггеддеебцдца©юю©╫╩╩╨╥╤╤╥╣Ё╡╡Ё╣╥╣Ё╠╠╞╜╛╜╝╣╣╢╦╤╡╡╠╝╚╕═·²≥√█┐~zussuvx{}~}}wtpnprttuy~│{{|xwvvvuqnpmkkkiggjjigefhjgilooljkfhknmlosvusstttssrrrsuwxz{}~}|{|vvvwxywuyvuuwz~││┌┐└┘└└┐┘▀░▌▀┴┼▀┼┴┼█▌▄▄█░▌░∙≤≤≥⌡══·⌡ ⌡·÷══║ё╓╓╖╙╘╘╗╖╖╗╚╜╠╟╝╜╞╡Ё╠╢╣╣╢╤╨╪╪©цфгфхйкммлкиххиггхикнпятзчъъЮщзьввььжжвзшщэзжтрппяяппонммннмлкйййкйхгхиффефффеддцббаббцббаю╬╫╪╪╩╪╪╩╨╨╪╬©╬╫╫╫╫╪╨╩╩╨╨╨╧╦╥╥╥╤╣╣╣╣╣╢╡╠╟╟╟╞╝╟╝╜╛╛╚╙╘╕╖╖╕╔╕╔ё╓╓╓ё║╒╕`X∙┐|─┌┐┤┼▀▀▀█▐▓■⌠∙√≤ ⌡²·°·╒ё╓╓╔╕╘╘╘╘╚╛╝╞╝╝╝╞╟╟╠╠╟╡Ё╣╣╣╣╣╤╤╤╥╦╦╧╧╨╩╩╪╫╫╫╪╫╫╬©©╬©ааббаабббббббббббацееефффггфгхииххиийииййкккллллмммлмнопоппяппяррвьззыьжжжжжуужьыэщщзжрпоонлккйхгеедбаацдцаю©©©╬╬╨╥Ё╠╠╠╟╞╛╜╛╚╛╝╛╗╔╖╗╗╗╕╔╔╕╔╓╓ё══╒║═··÷·²°²°≥√⌠⌠▓▒░▐▌█████▀└}xttsponnqsrommmnoonmnolihhgdbcdeeefhjloppqnihgeeffdbaa`][\`bbefgggghhge`]afhgginqpmklkkkmprrruqopponoqokfcdddiqwwz└▄▐▓√≤²╒·■▌┬├┼█▀┴┼▀▐▒▓■√≤∙▓▐▒■≈≥⌡ ≤√∙▒▀┬┬┴┴┘▀░■≥·══ё°■▄┤┘▀▓≈⌡═╒╔╘╝╠╡Ё╢╣╤╥╧╨╧╩╪╩╩╫╬╬©©абцдеехкннннлкмоярссужжвьзззыьвььввььвьыззыьыызшшзззшшшшшшшшшшэщщэщъъъЮЮъъъЮЮАББББББББЮЮЮЮЮАААБАЮЮББЮъЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮЮААЮЮъъЮъъччщэшззьжуууутттсяооопнмлкккккйхййхийхххгггггфеффдццдцбцдцаююа©╫╩╩╨╦╥╥╣╢╢╢ЁЁ╣╦╤╢╡╠╞╜╛╜╟╣╣╢╦╤╡╡╟╝╛╗╒═÷⌡∙▄└|wuuvx{~─│┌┌─{vsssqpvy~|xxzwutttsollihijihhijigffhkijmnmihighjlkkmqrqqstutssrrstuvwwyz{{zzzvuttvwvuuvy}─││┐────┌┬▌▌▄┼┴┴▀▄█▐▐▌▄▄▌▌░■≈≥≥ ÷·° ≥ °·║══ё╔╔╕╗╙╙╘╘╗╘╚╜╠╟╞╝╟ЁЁ╡╢╣╣╢╤╧╩╩╬бфггхийммлкйиииггхикмпяузчъъъэыьввьвжжвзшээзвтряяпппооомннммлккйййиххгхгфффеецбдцббабббююю©╬╫╪╪╩╪╪╩╨╨╩╫╬╫╫╪╪╪╪╩╩╨╨╨╨╧╦╥╦╥╥╤╣╢╢╢╢Ё╠╟╟╟╞╝╞╜╛╚╚╙╘╘╖╗╗╕╔╔╓ё╒╒ё╒÷═╓^X▓│|─┌┐├┼┼┼┼▀▌▒⌠⌠■√≈≤ °²²÷║ёёё╔╕╘╘╘╙╚╛╝╞╛╜╜╝╞╞╟╟╟╠Ё╢╢╢╣╣╤╥╥╥╦╦╦╧╧╨╩╪╪╪╫╫╪╪╫╬╬╫╬ююбцбаббббббццббаацддефгфгффгххххгхииииийккклллллмллмноппппппппярвьззывжжжжууужышэщщзжрпонмллккйифецбцдееца©╬©©©╫╪╦Ё╟╟╠╟╞╜╜╛╙╚╜╚╗╕╖╗╗╖╕╕╔╕╓ё╓╓╒╒╒ё╒╒║═÷²²⌡≥√■▓░░░█▄┼┼▀▀▀┼┬└{vutrspoptvupllklnonnpqnjgfecbbcefgiloosuwxslifghiiebaa_]\_bcaffffffggea]]`dfgginqqnkkllkmprtttnjloppqpmigffgiosvw|┘█░▓≈⌡÷║ ▐┴█┼▄▌▀┴┼▀▐░░▓√≤≈■▐▒■≈≥⌡ ≤≤√▓▄┬┬┼▀┴░√≤°ё╔╒╔²■█┬┬▌∙ ·╒╔╖╛╟╡Ё╣╤╤╣╤╧╩╨╪╪╩╩╪╫╫╬©бцддфгилмммннмнопртужвььызыывввььввьыыьыззыыыышээшшшшэшшшшшшшшщщчщчъЮъЮЮЮЮААААЦЦЦБААААААЮЮЮЮЮЮААЮЮААЮъъъъЮЮЮЮЮъъЮЮАЮЮЮЮААЮъъъЮъъъъчэшззывжжжжуутрпоопямлккллллкийкиийихххгфффеефецббцббцдцаааа©╫╪╪╩╧╦╦╢╢╣╣╢Ё╣╧╨╦╤╢╡╞╝╝╠╣╤╤╦╤Ё╡╟╝╜╙╔ё║°∙█┘│~zwvz}─┌┐┐┘┤├│{xwvsqvz~{wx|vtrqqqnligfghhgghiihffiljlnnkhhiiiijjkmoqpoprttsrsstttuutuwxxxxxwussuvvvtw}┐├┘┐┐│─~}~─┌┤▀▄▀┼┴┬┼▄▌▌▐▌█▀█▐▓⌠∙≈≈≈⌡ ≥≤≤ °·═·÷╒╓╔╔╔╘╘╙╙╙╚╛╜╟╠╠╟╠╡Ё╡╢╣╣╣╤╦╧╧╬бфгххииллмлкйииггхикмоптыщчччэььввввжжвышээзвтрряпоооопнннмллккйиииихгфгфеееедцдцббаббб©©©©©╬╪╪╩╩╩╨╧╧╩╪╪╪╪╪╪╩╪╪╩╩╨╨╨╧╦╥╦╦╥╤╣╢╢Ё╢Ё╠╠╟╞╞╝╜╛╙╘╘╙╘╘╗╗╖╔╓╓╓╒╒╒╒║·÷ё]V▌~{│┐└┤┬┼▀▄█▐░⌠■∙√≤≥⌡²²÷║╒╒╒╓╔╗╘╙╚╛╛╜╜╛╛╜╝╝╞╟╟╟╡Ё╢╢╢╢╣╤╥╥╥╥╥╦╦╦╧╨╩╩╩╪╪╪╩╪╬╬╫╬ю©аббаббааббццбаюбцддефгфффггхххххиййиийййййкккккллммноппяпппооясьыззывжужжутувзээщэыуяооммллккиифдббдефеца©╬©ю©╫©╨╣╡╡╡╟╞╜╜╚╘╘╚╚╘╗╘╘╘╗╕╕╕╓╓╓╔╕╔ё║ё╓╓ё═·²²≥∙▓▓░▌▐▒█▀┴┴┴┴┬├└┘~yyvswrqruwuojkjjlmmnopmifddcccefghjmosuwy|xojghjkifcaa`__addbefffffffd`]]`cegiknrrolknmlosvvutmhikklnlkkmmlnrvwwx┴░⌠▓≤⌡²°■▀┤█┼▄▌▀┴┼┼▌▐░▓√≥≤∙░▒⌠√≥ ≥≤∙⌠░▄┼▀▌░▓∙≤≥°ё╖╗╕═√▌┬┬▌∙²║╔╗╙╝╠╡╢╣╤╤╤╥╦╧╧╩╪╪╪╫╫╫╬ацдддфхйлмллноннопртжввыызззыьвьыыьвыыыыызззыыышэээшшшшшшээээээщщщщчъЮЮЮЮААААААЦЦББЮЮЮЮББААЮЮЮЮААЮЮААЮъъЮЮЮЮЮЮЮъъЮААААЮЮААЮъъъЮъъъъчщшззьжжууутутряпоопллллммммкйклййкииххгффееефецбццббцццбаабю©╬╫╪╩╧╦╣╣╤╣Ё╡╣╧╫╩╧╥╢╠╟╞╠╢╥╧╨╦╣╢╠╞╞╜╗╕ё²√▌┤┐│}zx~│└└└└├┬┴└||zxuy{~}{|wtqpppomkihhhhgfhijiggjmlmomjijlmkjijlnptqnmnqstrstuutttstuuuuuuusrstuuuux}┌└┐││└┌─~─│┘┤┬┬┬┼┼┼┬▀▄▀▄▌▌▀█▒■▓▒⌠∙√≤≈≈≤≥⌡²÷²°·║ёёё╓╖╗╘╚╚╛╝╞╝╟╟╠╠╡╡Ё╣╣╤╤╤╥╦╧©бффгхииклммлкигггхикмопсьщччъэыьввввжжвызээзвтряяппооооонммллллйииийигфедддееедццббаааб©©юю©╬╪╩╩╩╨╧╧╧╨╩╨╩╪╪╩╩╪╫╪╩╨╨╨╧╦╥╥╥╤╣╢╢╢╢╢Ё╡╟╞╞╝╝╛╚╘╘╘╘╘╘╖╖╕╓ёёё╒ёёё╒÷═╓^U┴{{~│┌┘┤┴┼▄▄▌▐▓■∙√≈≥⌡°²÷║║║╒ё╔╕╗╙╛╜╛╛╚╛╜╜╝╞╟╟╠╠╡Ё╢╢╢╢╣╤╤╤╤╥╥╥╥╥╦╧╨╨╨╩╪╫╫╬©©╬©а©абааббааабцббаюцдедеффеффгггхххххийиииййййкккккллмнноппяпопооясьыззьвуууутттжзээээытяооммлккйигфдббдфееца©©юю©╬©╪╥╣╢╡╟╜╛╛╚╘╘╙╙╙╚╚╚╙╗╖╕╕╔╔╕╖╗╖╓╒║╒ё╒÷°⌡⌡≈⌠░▐▌█▐⌠▐▄┴┬┤├└┌─└┌}|wtxutstutojjijkkkklljgeddeffhiihiklttsuzxpkijjjhfdcaccbcdfefghhhhfec`_`begjmmpssqnmomnrxzwtrlgfeegjlmorqqtz|zxy┬▐⌠■≤≥≤≈▒┼┴┘┐┤▀┼┴▀▀▌░▓■√≈∙▓▒▒⌠√≥ ≥≈⌠▒▌▌▐▒▓⌠≥≈≤⌡·║╕╛╖║≥░┴┼▒≤║╓╗╙╜╟╡Ё╢╢╣╥╦╧╦╥╦╩╫╫╫╬╬╫©аддддегйлмлмнппоопртжввыззшшзыызшшывьыыззззззззшшшшшшззшэээщщээщээщщчъЮъЮЮАААААБЦЦБАЮАБЦЦБАААЮЮААЮЮЮЮЮЮЮЮЮЮЮЮЮАъЮЮААААААААЮъъъЮчъъъчщшзыьвжууутутсряпоомллмноннлйллййкииихггфееффецбцбаббцбааабаа©╬╫╪╨╦╥╤╤╢╡╠╣╧╫╪╧╤╢╡╟╞╟╡╥╩╪╩╧╤Ё╠╠╝╙╖╓·√▐┬┘└┌}│┐┐┐┐├┬▄┬└│─~|y~─}||xurppponnmljjjihijjihhlonppnkjkmnljhjmoptqnlnprsrstuttuuttttttttrpoqsrqrtw{─│──┌│──│└┘├├┬▀▄▄┴▀┼┴┴▄█▄▄▓∙▓▐▓≈ ≥≈≈≥ ⌡²÷ °÷╒╒║ё╔╗╘╚╛╜╜╝╞╜╝╞╟╠╠╠╡╣╣╤╤╤╤╦╨ацедегййклмнмкхфххийкмопрвэчъъчшьввввжжььзээзвтрпяяяппононнмллллкйиийихфееддееедццббааааююааю╬╪╩╩╨╨╧╦╧╨╨╨╩╪╪╩╩╪╫╪╩╨╨╨╧╦╦╤╣╣╢╢╢╢╢Ё╡╠╟╞╝╜╜╛╚╘╘╘╘╘╘╕╕╕╓ё╓╓╒ёёё╒÷═╔_R┘y{|}─│├┤┬┴┼▄▌░▓⌠∙√≤≥ ⌡²·═║║║ё╔╔╖╘╚╛╛╚╙╛╛╜╝╞╟╟╠╠╡ЁЁЁЁ╢╢╣╤╤╤╤╤╤╥╥╦╧╨╧╧╨╩╫╪╫╬╬╬╬©©юааюабааабббааюдеедефедффггггххгхииихиийкклллллллмнноопяоояпоятьызыьжуууутттжышээшвспнннмллкйхгедццеееццбю©©©╬╬╬╩╦╣Ё╠╞╜╛╛╚╙╘╘╙╙╜╜╛╚╘╗╖╖╖╗╘╘╗╗╕ё║╒ё╒÷° ≥∙▓▐▌██▐▓▐█┴┤┘┐│─|│┌─}xuwvutssrokjjjkkjijiigfefghefghhjlosrpqvuomjkjhgfeccddccegggghijigfbbcdfilmnmmpqommmlnsxytolhedcbfklnprsv|│{ww{│┴▌⌠∙■■■░▀┼┐│┘▀▀┼▀▄▐▓■∙∙∙⌠░⌠▓⌠√≥≥≤≈∙▓░░▓⌠■∙≥≈≤·║║╔╚╔║≥▓▌░≤·╓╖╚╜╞╡╢╢╣╣╤╦╨╨╦╥╦╩╫╬╬©©╬юабцццефйлннопяяпярстжвьызшшшшшзшээыььызшззшшшшзззшшшшзышшэщщщээщэшэщщчЮъъъЮЮЮААЦДДЦБАБДДЦЦБААААААЮЮЮЮЮЮЮЮЮЮЮАААъъЮЮЮЮЮЮАААЮъъЮЮъъъчщщэшыыьвжжууутсряпонннноппоомкммкклихххггфффеедббцбюббббааааааю╬╫╪╨╦╥╤╤╣Ё╡╣╦╫╫╩╥╣Ё╠╞╞╞╣╩╩╩╩╦╤Ё╡╞╚╘╕║≈▒▀┬┴┴┤└───┌└┤┴▀┴├└┐┌┌│┘┌│┌│}ywzvsqqqqpooommmmlllkiijmpqrqmkjkklkhghlopqpnopqqpqrssstvwvuttttttqooqsrqrru{─┌──│┌┌│──│┌┌─┌┘┤┼█▐▌██▄┼┼▄▌▌█▓∙■▓■ · ≤≤ ⌡⌡⌡²°·║ё╒║ё╕╘╙╛╜╜╜╝╝╜╛╜╞╠╠╡Ё╢╢╣╣╣╤╧╪бцдцдгйкклмонлифххийлмооявэщъЮчшьвжввжжьвышэзвтрппяяяпоннннммлллкйиииихггфеееддццццбааааааааю©╫╪╨╨╧╧╦╧╨╨╩╩╪╪╩╩╪╪╪╩╨╧╧╧╦╥╣╢╢╢ЁЁ╢╢╡╠╠╞╝╜╜╜╛╚╙╘╘╘╗╗╔╕╕╔╓╔╓ё╒║║═·÷╓^O┌w{|}│┌┘├┬┼▀█▐░░▓■√≈≤≥≥°·═║║╒ё╓╕╕╗╘╙╙╙╙╚╛╜╜╝╞╟╟╟╠╡╡╡╡Ё╢╣╣╤╤╤╥╥╥╥╧╨╨╧╧╨╪╪╩╩╫╫╪╪╫©ааююаббааааааааддддеффдефггггхигхиииииийкллммлллмнннноппоояяпятыызыьжутттттужышшшзвроннммллкйхгдддееедцбба©╬╫╫╫╪╨╥╢╡╠╟╟╜╜╛╚╙╘╘╙╜╜╜╚╙╘╘╘╘╙╘╖╕╕╔╓╒╒ё║÷⌡≤√⌠⌠░▌█▌▌▌█▀┬└┌───|}│┐|zwxxvtrqnkkkklljijiiiihhijdeeefjnrpqonpomnkkigghfdeecbbegggffggggfehiijmonmkikllkkiknrtrmifcabccglmoqsv{│}yutuz┌┬▐░▐▐▓░▀┴┘┌┘┼┼┼▄█▌▓■■■■⌠⌠∙⌠⌠≈≥≥≤≈≤∙▓▓▓▓■≈√√ ═ё╓╕╘╓÷≤▓▓≈·╒╖╙╝╟╡╢╣╣╥╥╦╧╨╩╨╨╩╫╬╬╬©ююааабцефгймопярряясттуувыззшэээшшшээзьызшэшшшээшзшшшээшзьзшээщэээщэшэщщчЮъъъъъЮААЦДДЦААБЦЦЦББААААААЮЮЮЮЮЮЮЮЮЮЮЮЮЮАЮЮъЮЮАААААЮъъЮЮЮъъчщщщщыыьвжжуужтсяяпонооппяяпомлмнлллйгггггфффффдццццаббаааааа©ю©╬╫╫╩╧╤╤╤╥╤╣╤╦╬╬╪╧╤╣Ё╠╟╜╡╦╥╦╩╧╦╣Ё╟╛╚╘╓⌡∙▐▄█▐█┼└─}~┌├┬┬┬┬├└┐┐└├┘└└├┘│|z|yusstsrpqqonoonpnkjjloqppnkjkjihhgefkopqpopppompqqqrswyvvuuuvuusporsrrttw|─┌┌┐└┘└┐┐┐┘├┤┌└┤┴▄▐▓▓░▌████▐▒░▒⌠∙√≈ ²≥≈≈ °⌡⌡²÷═╒ё╒║╒╔╖╗╘╙╚╛╜╝╝╛╛╞╡╡Ё╢ЁЁЁ╢╣╤╧╫бцдцдгййклмоонйхххийкмнояжшщчъчшывжввжжьвышэзвтряяяппоооннннммлккййихгхххгфееддццццбааююааааю©╬╬╨╨╧╦╦╧╨╨╩╩╩╩╩╩╩╨╩╨╧╦╦╦╥╤╢╢╢ЁЁЁЁЁ╟╟╟╞╜╛╛╜╛╚╙╙╘╗╖╕╔╕╕╔╓╓ё║═══÷°·ё]M─w{|}┌└┌┘┴█▌▌▌▌▐▒■√≈≤≤≤⌡²═║║╒ё╓╕╕╖╖╗╘╙╙╚╚╛╜╝╞╞╟╞╟╠╡╡╡╡Ё╣╣╤╤╥╥╥╥╦╧╨╨╧╧╨╪╫╪╪╫╫╪╪╫юааююбццбааааааацдццеггеефггггхихийййиййййкллллклмнонноопноррпяуыызывжуттуууувызшшыжроннммлллкихдееффецбааа©╫╩╪╫╩╨╥╢╠╠╡Ё╞╝╝╛╙╘╘╙╛╜╛╚╙╘╙╙╘╙╗╓╒ё╓╓║║║═²≥∙▓▓⌠▓▌█▌█▀┼┬├┌──~}│└│─~xzzyuqolilklnmkjjjklkjiijhgfddglplomkjhimlkighigdgea`bfgffeccdeeeimnlloomnjhijkjkfinpplheb_^acdhlqstuy}|yzvsqrv~├┴┼┼█▒░┴├┌─┐┬┴▀▌░▄░⌠⌠⌠■√≈≈■■≈  ≤≈≥√■▓░░⌠≤⌠≈°═ё╕╗╗╓·∙▓∙⌡║ё╘╛╞╠Ё╤╤╤╦╧╨╩╨╨╪╫╬©©╫╫©ааббббдгхиймярстсрртууууьззшшээшшшзээзьышээшшээщэшэшээщэзыззшээээшщэшэщщчЮъъъчъЮАБЦЦЦБЮъЮБЦЦБАААААААЮЮъъЮЮъъЮЮЮЮЮЮББАЮЮААБАААЮъъЮААЮъчщщщчыььвжууувуряпппоппяяррпомлннлллйффффффффггеддедбцбааюююю╬©╬╫╫╫╪╧╣╣╤╦╧╦╥╦╪╫╩╦╤╣Ё╠╟╛╟╣╢╤╩╨╨╤Ё╟╛╛╚╕═ ⌠▐░▒▐▄┬┌}}┌├┬┤┼┼┬└│─│┐┐└┤┴┴├┐│~{wuvvutrsronoomroljjmoqmmliikkifggefjoqtrponnmloppppsw{wvuuvwwvsompqqrtxz}│┌└┬├├┘└┘┤┴▀┬┼┼┼▄░■√░▌█▐░▐▒⌠⌠▒▓√≥≤≤≥≈∙∙≥°⌡°·║║║╒╒║║╒ё╓╕╗╘╚╜╝╞╛╛╞╡╢╢╣╡╡╡Ё╢╣╨╬ацддехииккмополйххийклнняжшщччщзывжввжвьжышэзвтрряпоооопнннннмлкйййхгфхигфеееееецццбааююааююю©©©╨╧╧╦╧╧╨╩╪╩╨╨╩╩╨╧╨╧╦╥╥╥╤╤╣╢╢Ё╡╡╡╡╟╟╟╝╜╛╛╜╚╚╙╙╘╗╕╓╓╔╕╓ёё║·÷÷÷·°·ё^Fzwzz|~││┐├┴▀▌░▒▐▒⌠■■∙≥⌡⌡°·═╒ёё╓╓╔╖╗╗╘╙╙╛╛╛╛╜╝╞╟╝╝╞╟╟╠╡╡╢╢╢╢╣╥╦╦╦╦╦╦╧╨╩╩╩╪╬╬╬╫╫╫╬©ююююбццаююаббаббцддееефффггххгхййгхйкийиийклммлммннннопоояяяртыззывжужттттувышээвяяоммллмлкихгдфхихфдбебю╫╪╩╨╨╪╨╤╡╠ЁЁ╠╠╝╛╛╚╘╗╘╝╜╜╝╞╝╚╗╗╔╓ёё╒╒╓÷°⌡°⌡≤■▓▐▐▐▌▄┼▀▀┴┤└│──~|─┐┐│─}{}wwvommiklmmljgefikjiklmliffgilnhhhigfgjlkkkkkifggecehihfebabehillllmoponjggikjhekjgjf`_a`adfhjmqmntyzyzzwtrqu}└├┬▀▐░█┤│┌└┘┤┴█▐▐█░▒▒▓■≈≥≥≈∙√≤≤≈■√⌠░▌█▄█▌▒≈°²║╖╗╓╒²⌠▌▓≥÷╔╙╝╞╟╢╣╢╣╣╦╩╩╨╨╫©╫╬©©©юабабдефгийймяррртжтужввьввызшшшшшшшээшшэщэшшээщээшщэээээшзшшшшээээшшээщчъъччъъЮЮААЦБЮЮАБЦЦЦБАЮААБАЮЮЮАЮчъЮъЮААЮъъъААААААААБАЮъъъЮЮЮЮЮъчщэшыыжттжжжвжтсрррртсряяяппннммнолииихгфеффгфееддцццаюаа©╬©╬╬╬╪╪╫╪╧╤╤╥╥╥╦╥╥╨╩╨╦╤╢╠╜╛╝╜╜╡╤╤╥╤╢╢Ё╞╜╛╘ё═°≈⌠▒░░┴└─│┐├┬├┬┤└││─└└┤┼┴├┘┤┌│┌|vtrppponmnnrsoikqrnkjijjihijgeehmsvvronmlkknppnoswxzwtsuvwvtqnlosx{z|~│┌┌┐┐┌┐└└││├▄▄┼┴┴▀█▐▐███▐░░⌠∙√▓░▒▓▓■≈∙√≤≥≥ °²ё║═÷═║║║÷═╒╓╖╙╜╟╞╟╜╛╞╠╡╣Ё╡Ё╢╣╥╪абббдддфйклмноонмиггйлкмяржзщччщшьвжввжвьвышээзжряяяпонноонмммммлййиххгггеееееедццбааббю©©©ююаю©╫╩╨╧╧╧╨╧╧╩╩╩╩╨╨╧╧╨╧╦╤╤╤╤╥╢Ё╡╠╡╡╠╠╟╠╠╞╜╛╛╜╘╙╙╙╘╗╕╔╖╕╓ё╒╒║═║══÷²²╒]Eyvzz|~│┌┐├┬▀█▐░▒▓■∙∙√≥ °²·═╒ёёёё╔╕╖╖╗╘╘╚╚╚╛╛╜╝╞╞╞╞╟╠╠╡╡╢╢╢╣╣╤╤╤╦╦╦╧╧╨╨╨╩╪╫╫╫╫╫╬╬©©юююацба©юабаюббцддееефффггхххгиигхйкиййийкллллммнмннояоооппруыззьвжужуутужьзшшшвяяоммлллкйихгггггфецбдба©╬╫╩╨╩╨╦╣Ё╢╡╟╟╝╛╛╛╙╙╙╜╜╝╞╞╜╙╖╖╓╒ё╓╓ё╒· ≤≤≤∙▓░▒░▌▄┼┴┴┴┴├┐│─~─││──~|zvwvppqmllllkigfhjlkkmnnnkhijklnggggeehmoooonmkijhfdegfddb``cfhihklkkmnojjiiiiiiejgdec_`cbdgijmonlov{{yzwusrt{┌┤├┬┼▌░▌┬┌└├┴┼▄▐░▐█░⌠⌠⌠∙≈≥ ≤≈≈≈≈∙⌠░▌▄▀▄▄▀┴┴▐∙≤²ё╔╓÷ ▓░≈²╒╕╚╞╞╟Ё╣╣╤╤╥╧╨╨╩╫╬╫╬╬©©©юаббцефхйклнпрсттутужььььвьыззззшшшээшшщщэшэээээшшщэээээшзшшшшшэээшшээщчччччъъъЮААЦБААБББББАЮЮЮАААЮЮЮЮЮчъЮщчЮААААБААААААААББАЮЮЮЮАъЮЮъчщэшыьвуужвуууттттттррряпппяоонмннмййихггфггффеедддддбаббю©©╬╬╬╫╫©╬╪╤╤╤╤╤╥╥╦╨╩╩╧╥╣╡╞╜╞╝╜╠╢╢╣╤╣╣Ё╟╟╝╘╔ё÷ ∙▓░▐▄┘}│┘┬├├┘┌│┌┌┌~┌├┤┘├┬┘┌┌┐─}{xtspnmmnorspmnstrokhhijjjjhhilquwtqnmljjkprqoptvvwusstuuuusqpquy|}~─┌┌┐└└└┐┌┐┌┐┤▀▄▄█▄▀▀▄█▌████▌░⌠⌠▐█▌▌▐▓√√≈≈≈≤ ²÷║║║╒╒╒╒╒║╒ё╓╕╗╚╜╜╟╞╝╞╟╠╢Ё╡Ё╣╤╦╪абаацеефхйкмопонмйгхйлкмпяжзэщчщшыввььвьывышээзжряяяпонноонмллмллккйихгффеддеефедцббббаю©ю©юююю╬╫╩╨╧╧╧╨╨╨╪╪╪╪╩╩╨╨╨╧╧╦╥╥╤╤╣╢Ё╡╡╡╠╠╟╠╟╞╜╛╛╛╙╙╙╙╘╖╕╔╕╔╓╓╓ё╒║═÷÷·°°║\Dxuyy|~─┌└├┬┼▀█▌▒▓⌠∙≈≤≥≥²²÷═║╒ёёё╓╔╕╕╖╖╗╙╙╙╚╛╜╜╝╞╟╟╠╠╠╡╡╣╣╣╤╤╤╤╤╦╦╧╧╧╨╨╨╨╩╪╪╪╫╫╬╬╬©©ююабаю©юаааюабцддееееффггхххгиигхйкикййййккйлммнммнояоннносжззыьвжуууууувышэшшжяяпмллкййииххйигедцццаааю©╬╩╨╩╩╨╦╤╣╡╟╠╝╛╛╜╛╚╙╚╛╝╞╝╛╘╖╕ё╒ё╔╔ё║· √√√∙▓░▒▐█┼┴┴┬┬┤┘┌───│─|zz||{{{{wqrrnonllkkihkllllmnnoljkllllggfdbciorssspmjikifdddb^_]\^chiieikkklmnjjjjjjjjfhdabbacgfgijklnllqx|{yzwwuty│┤┬├┤┼▌░▌┬┐┤┴▀▄▌░▒░▌▓√√√≈≤≤  ≥≤√■▓▒██▄▄▌▐▀├┐┴▐■≥·║╒÷≥⌠■⌡÷║╔╙╝╞╟╢╤╥╦╤╤╤╦╧╩╪╫╫╫╬╬╬©юаббцдгйлмннортутттувыыыьььыыыыызшзшшшшщщщэээщээшшэшшээээшзшшшшэээшшэщщщщщччъъъЮААББАББББАБАЮЮЮЮЮЮЮЮЮЮъчъАъЮАААЮЮЮААААААААББААААААъъъъчщэшььвжжввжууужжуутяяряпопяппнммнмкиихгггггфеееееееецбббаюю╫╬╬╬©ю©╬╧╦╥╤╤╤╥╥╨╩╪╩╧╤Ё╟╜╟╞╝╟╠╡╢╣╢╣Ё╠Ё╠╙╗╕╒²≤∙▓▒▌┤─}}┌└┐┌│┌┌┌┌┌}}┐└┌┌└┘┌│──┌┌~zwrnnnopqrqpqsutsmgfgiklhhilpsuvtqonkjklsttrsvwttsrrsttsuuutuw{~│┌┐┐┐┐└┘┘┌─│┌└┤┴┼▀▄▀┬┤┼█▐▌█▄┼┼█▒░█▄▄▄▄░∙≈√■⌠■√ ²²÷║╒╒╒╒║ёёё╓╔╖╘╚╛╞╟╞╞╞╞ЁЁЁЁ╣╥╧╫абююцефффиймоппонкихкллмпяузэщчщшыьвььввывышэшзжряяяпоннонмлллллккййххггффеддееееббцбаюююююююю©╬╪╩╨╧╧╧╨╨╨╫╫╫╪╪╩╨╨╧╧╧╧╦╥╤╤╣╢ЁЁ╡╡╠╠╟╟╟╞╜╛╛╛╙╙╙╘╗╖╕╕╓ёё╓╓ё║═÷···⌡⌡═\Cwtxy|~─┌└├┬┴▀█▌░░▓∙≈≤≥≥°²·÷║╒╒ё╒╓╔╔╕╕╖╖╘╘╙╙╚╛╜╜╟╟╟╠╠╠╠╠Ё╢╣╤╤╣╣╤╥╦╦╧╨╨╨╧╧╨╩╩╩╪╬©╬╬©©ююааааююааююаббцддеееффггхххгххгхйййкйййкккйлмммммнопоооопсвзыывжжууууужвышэззуяяпмллкйииииийифдцццб©©©©╬╫╩╧╨╨╨╧╥╣Ё╠╠╞╛╛╝╝╛╙╘╚╜╝╝╚╘╗╔╓╓╔╕╓╒÷²≥∙∙√∙▒▌▐█▀┼┼┼┴┤┘└┌──│┌─}zwvwyz}yttspponmmmllmmlklllkmkjlmljjigc``dkptuutojgfiigdba^[ZYZ^cfhhehklmnnmmjhilnljhfb`ceffjjiihijknoswyyxyz{zx|┐┤├└┤▄░░▄┤└┬┼▀▄▌░▒▒▒∙≥ ≥≥≤≈≥  ≤∙▓░░▄▌▐▌▐▐▄┤└┬▌■≤⌡·÷²≥■√²÷║╕╘╜╞╠╣╦╦╧╤╤╤╥╦╨╪╫╫╬╬╬©©юаббцехкмннопрсттттжьыззыьыыыььызшызззшэщэээщщщэшшшшшэээээзшшшээщщшшэщщщээъчъъъЮЮАБББАААААБАЮЮЮЮЮЮАЮъЮъчъАААААЮЮъъААААААААБББАААААъЮъъчщэшыывжжвьввввжутсспяряонпяяяоммммлихгфффффееееефффедббцбаю╬╬╬╬©©©╬╫╪╩╧╦╦╥╥╧╩╪╪╨╥Ё╠╜╟╞╝╞╞╟╡╡Ё╢╡╡╤Ё╙╚╗╓÷⌡≤√√▒┼┐}}~│─│┘├└┌│~┌┌~─┐│~~└┤└─|vrpqppqrssttuvwpiedfilhikoruuvvtrpmklouwwvxzyuqqrrsssrsuwwwy|┌┐└┘└┐┌┌┐│─┐┘┤├┤┬├┘├▀▐▐▌█▀┬┤┼▌▌██▌██▒√≈√⌠▒▒■≈≥⌡°²÷║║║═╒╒╒ё╔╖╘╚╛╞╞╞╠╟╞╠ЁЁЁ╣╥╨╬аююацефффхйлноооолййкллмпяуыэщчщэыввввжжьвышшшзжрпяяпоноонмлллллкиииххххххгеддддцбццбаюююю©©©©©╬╫╩╨╧╧╧╨╩╩╫╫╪╪╩╨╨╧╧╧╧╧╦╥╤╤╣╢ЁЁ╡╡╠╟╞╞╞╝╜╛╚╚╚╙╘╗╖╖╕╕ё╒╒╒╒║═÷÷··²⌡⌡═[Cwsxy|}┌┐┘┤┴▀█▐░▒⌠∙≈≤≤≈ ⌡°·═║╒╒╒ё╔╔╕╕╖╖╗╘╘╙╚╛╜╜╟╟╟╠╠╠╠╠╟╡Ё╢╢╢╢╣╤╥╦╧╧╨╨╨╦╧╨╩╩╪╫©╬╬╬©ююааааааааююаабцддддеефггхххгххгхйййййййкллклмммммнноопппятвзыьвжууууттувышшзытопомлмкйийкккихфдддцбю©╬╫╫╪╩╨╧╧╧╦╥╣ЁЁ╡╟╜╜╝╝╛╘╘╙╛╜╛╚╘╗╕╕╖╕╓╒═· ≈∙■∙■░▄█▄▀▀▀┴┤┘└└┐┌──│┐~}{xuuwz{~ywwvsqqpppooonlkkkkkjjihkmljhje`]ahnrttutoiffijhea^\ZYY\_abdfgikmoqomljiikmnnjeacgklilljhghjkrrsuuuwyx{|yz─┐┌┌├█▒▐┼├┘┬┴┼┼▄░⌠⌠∙≤⌡°⌡ ≤√≤≥≥≈⌠░░▒┼▌░▌▄▀┴┤┤▀░■≈≥⌡°≈√■√°÷╓╚╘╝╟╡╤╦╥╥╣╤╥╥╥╧╩╫╫╬©©©юабабдгйлмммоярррсуужьыззыьззыьвьызьззызшшзэщщщщэшшззшэээээшшшээщщщшшээээээъъъъъЮЮЮЦБАЮЮАБББАЮЮААЮЮЮъъЮъчъАъъЮЮАББББААААААБББААЮЮЮЮЮЮЮъъщээшзьжжьыьыьжуссррярряонопярпнлмммихггггфеееееффффедббццаю╬╬©©╬╬╫╫╫╫╫╫╪╨╧╦╦╨╪╪╨╤Ё╡╞╠╟╝╝╜╜╟╠╡Ё╡╢╦╣╚╛╘╓÷°⌡⌡⌡√▐┤│|z{}││┐├┬┤├└~┐┐──┌│─~}└┼┴├│{wtrpnttuuuvvwxsmgcbfkkmoruwwwxvtqmklptvwwz|zvpqrstsssruyzz{~─│┌┘┘└│}}}┌┘└┘├├┤┼█▐▐▌▄┼┬├┬▀█▄▌░░▐▒∙≈∙■⌠⌠∙≈≥⌡  °÷║║═╒╒╒ё╔╖╘╚╛╝╜╝╡╡╟╟ЁЁЁ╣╦╪©ю©ацдефггиийкмнопмлккллмояуыэщччэыьвввжжввышшшзжсппппонооннмллллкиииххххххгедддццббцбаююю©©╬╬©©╬╬╪╩╧╦╧╨╩╩╫╫╪╪╩╨╧╧╧╧╦╥╤╤╤╤╢╢Ё╡╡╠╟╞╝╝╜╜╛╚╙╙╙╙╘╗╖╕╕╔╓ё║════÷÷··²⌡⌡═[Bvrwy|}~│┌└├┬┼█▐▒▓■∙√√√√≥ ⌡²÷═║╒╒ё╓╔╔╕╖╖╗╗╘╙╚╛╜╜╞╞╟╟╠╟╟╟╠╡╢╢╢╣╤╥╤╤╥╦╦╧╧╧╦╧╨╩╩╪╫╬╫╫╬©ююююааааааююаабццдддеефгхххххххххийййийклллллммммммноопяяятьзывжжуутуттуьзшшыьрноолллкййклллхгедддцбаю╬╫╫╪╪╩╧╦╦╦╤╢ЁЁ╠╟╝╜╜╝╛╘╚╚╚╚╚╙╘╗╖╘╘╕╒═·²≥≤√∙∙■▒█▄▄▄▀┼┤└│┐└┘└│──│zzzwtrtx{~z{yusrtuusqppnlllkjkliggilkihhd__emsttsttpjghjjhda_]\[\^aa`adijlnqspmhikjjlpulecgknokllkihjlnutssstuwsvwwx{~~─└▀▐█┤┘├┴┼┼┴▄░■∙≤≥    ≤∙≈≤≤√▓░▒▓▀▌░▐▀┬┬┴┴█▒■≈ ⌡≥≈≥≈≈°═╕╜╛╠╡Ё╤╤╢╢╤╥╧╧╦╧╩╫╫╬©©©юабацфийклмлояряясужжьыыыыьызыьввьыыззыыззыээээээшшззшэээээшшшэээщщшшээээээъъчъъъЮЮЦБАЮЮЮБЦББААААЮЮъъъЮЮъъАЮЮЮЮААААБААААААБААААЮЮЮЮЮЮЮЮъчщэээыввыыыьвутссссррряонопярянллммкйххххгфеееееееедцбацдбюю©©©╬╪╪╫╪╪╫╬╫╪╩╩╧╨╪╪╨╤ЁЁ╡Ё╠╞╞╛╚╜╟╠Ё╢╤╧╤╝╛╘╓÷°°²·⌡∙▄┐|y{││││┐├┤┤┌│┌┘┘│─~~|{─┤┬┬┘─|xtqnuvuttvvuwupjebejlnpsvxwvvtqnjijnortuy{zvprtuutuutx|~~~─││└└┐|z|~}|~┌└┘├┤┼▄▌█▄▌▄▀▀┴┤┤┴▀▀█░░▐░⌠■⌠▓⌠■√≈≈ ≥≥ ²═║║ё╒╒╒ё╕╖╗╚╛╚╜╡Ё╠╠╢╢╢╣╧╫©©©адддфгхииийкмопомлкклмоптышщччщзыььвжжьвышшшзвсппппонооннмлллллкййххггффедддеддббббаююю©©╬╬╬╬╬╬╫╩╧╦╦╧╨╩╫╫╪╪╩╩╨╧╧╦╥╤╤╣╣╣ЁЁ╡╡╠╠╟╞╜╜╜╛╛╚╙╘╘╘╗╖╕╔╔╓╔╓║═════÷·²²⌡⌡═[Burwx{|}─│┐┘┤┴▄█▌░▓⌠■■√≈≥ ⌡°·÷═║║╒╓╔╔╕╕╖╖╗╘╙╚╛╛╜╝╝╞╟╟╟╟╞╡╢╣╣╢╢╤╥╥╥╥╥╥╥╦╦╥╦╨╩╪╪╫╫╫╫╫╬юаююааааюю©©юабццдддеефгххххххххииййииййлллклммммммнооппоптызывжжуутуттуьзшшывялмнлллкййлммлигдццццбба©╬╫╪╩╩╧╦╧╧╤Ё╡╡╟╟╞╜╜╝╜╙╚╙╘╘╙╚╚╚╘╘╗╓║÷²⌡  ≤√∙■▓░▄▄█▄┴├└┐┐├┤├┌~||xxwvsqsu}~}{utuy}}ytrronmljhhkhfegjjhffecdjquttrrrnifghgdaaba_]\^bcbcfikmnpqomghiknrvxmffjjlnjkmmlklnossrrstttqrsux{}~│┘┼┼┤├┬┴┼┼┼▄▒■∙≥≤√√≤ ≤■≈≈≈∙▓▒▓⌠▐▐▒▓▐▀┼▄▄░⌠■≤²°≤ ²⌡≥·╓╘╛╝╡╡╡╢╣╢╢╦╦╧╧╨╩╩╪╫╬╬©©©абцехииикммопярртужввьььььызззыызззшшззззьзшшшшшззызшэшшээшшшшээээээшшээщчъъчъъъЮЮАБААЮЮБЦББААААЮъъъЮААъъЮБААЮААЮъБААЮЮААБААААЮЮЮЮАААЮъчщэээшыызыьжуутссссрряппппппяяоллммлйиииигееееееедддцбацецюаююа©╫╪╫╫╫╬╬╬╫╪╪╨╩╪╫╨╤╢╣╢Ё╟╟╠╝╛╝╟╟Ё╤╥╦╤╟╛╘╓÷°⌡⌡°°≤▓┴─|}││─}}│└┌┐┌┐├├┌zxyx|│┐┘┐│}zwutwxvstxyvvtqnjfgjkmquxyxvrpmjgfhkkorsvyxuqsuvuuvww{~││─││~─┌┐│~{yz}~~─┐┘┤┤┬┴▀█▄▄▄┼┼▀┼┬┤┤▀┼▀▌▐▌▐▒⌠▓▓▓⌠■■■≤≥ ⌡°·═╒ё╒║║╒╓╕╖╘╙╙╚╟╡╡╢╣╣╣╤╨©ю©©аццдгхгииийлмоппомлклнносьзэщщэзыььвжжввызшшзвсопппоноонмлллллкккйихгффедддеддцбаааббаюю©╬╬╬╬╫╫╫╩╧╥╦╧╨╨╪╪╪╩╩╨╨╧╦╦╥╥╤╣╣╢Ё╡╡╠╠╠╟╞╜╜╜╜╜╛╙╘╗╗╗╖╕╔╓ё╓ё║═════÷²²² ⌡═[Buqvxz{|─│┐└├┬┼▄┼▄▐▒▓⌠√≤  ⌡°²÷══║╒ё╓╔╔╕╖╕╖╗╙╚╛╛╛╜╜╝╞╟╟╞╞╠ЁЁЁ╠╡Ё╣╦╦╥╤╤╤╥╥╥╦╨╪╪╪╫╫╫╫╫╬юаю©ююааю©©©юаббцдддеефгххххиххиииййииййклкйлммммммнпооонпуззывжууутуттуьшшшывпклнллкйийлммлкхдбццбббаю╬╫╪╩╧╧╧╧╨╥Ё╟╠╝╞╞╜╜╝╜╚╙╗╕╖╙╜╝╝╙╘╕╒═÷² ≥≥≤■▓▓▓▒▄██▄┼┬├├└┤┴┤┌}zyzxvvustu{~|~└─yzy~┐┌}wtsqonmieehhecehhfdfghjnststqpplecceb^^aeda\Z\befgihknnoonmjgfku{{xnhhkhikiknonmmnnpqrstutssqquz}~~~─├┬┤┤┬┴┼┼▀█░⌠⌠≤√▓▓√≥≈■≤≤≈■▓▒⌠■▒▐▒■⌠█▀▌▒∙≈≈⌡═÷≥ ·° ║╙╝╞╞╡╠╟Ё╣╣╤╨╧╧╨╪╪╪╨╫╫╬╬╬©юадфиигхкннооястутвввввввьззшэшшээшээшззыьыыззшззыызээшшээшшшшшшшшээшшшэччъъччъъЮЮЮАББАААБББААААЮъччЮААъъЮЮЮъЮАББАБААЮЮААБАААААЮЮЮААААЮъщщэщэшшшыжуууутсррряпппяппояяомлммлйихихфдеееееддцдцбацедабаабю╫╫©аю©╬╫╫╪╪╪╪╫╬╩╤╣╤╡╡╞╟Ё╠╞╠╞╝╡╤╥╥╣╟╚╘╓÷° ≥≥ ≥√░├~─~┐┐}{─|~│├┬┘┌┌xuwxz~──}{zzz{|yuw}}ytsrpnkjjknsx{|zxpmigeegiimqruxxuqsvvvvwxz|─┌┌│───┌┌─}zyz}─┐├├┤├┘┘├┴▀█┼┴┴▀▀┴┤┘▀┴┴▄▌█▌░√∙■⌠⌠⌠⌠▓∙≤⌡⌡ ⌡÷╒╒║÷═╒╓╕╕╖╘╘╙╝╟╡╤╤╤╤╥╩юа©юааадгхфхийклноопонлклнносвышщщэзьвввууввызшшзвсопппоноонмлкллккййиххгггфеееедбабаааббаюбю©╬╫╫╪╩╫╩╧╥╥╦╧╨╨╨╨╨╨╧╧╦╥╥╦╦╥╤╢Ё╡╡╡╡╡╠╟╞╝╜╜╜╜╛╚╘╗╖╖╖╕╔ёё║║═════÷·²²²  ÷[@totvz{}│┌┌└┤┴┼██▌░▓■■■≤≥ ⌡°²÷═══╒╒ё╔╕╗╔╕╗╘╙╙╚╚╛╛╜╝╞╞╟╟╠╡Ё╡╡Ё╢╢╥╤╥╥╥╦╦╥╦╦╦╧╧╩╪╪╫╫╬©©©©©ююаю©©©©╬ацбцддцеффггххгйихгххийхийккклмммммммммннппнрвьзывжжвусууужьзшэьжрнлммкккййлонлигдбаабббба©╫╩╨╧╪╧╦╧╦╢╟╝╟╞╝╝╜╜╚╙╕╖╗╗╘╙╜╞╚╗╔╒÷⌡≥≤≥≤≈≈√∙⌠▒▌▄▄▌▌█▄▄┴┤┬┼├~{|zyyyuqswy}─┌┐└┌─y┌┬├~wutrpnkgddegdbbehihhjkmpqrvtspkgdddcb``bda][[^cgilnjkopljjihjlpw~}xupklnmkjjloponmooqsuutrpoqv{}─││├┬├┘├┼├└┬▄▐⌠√∙▒▐▓■⌠⌠■≤≤≤≈∙■⌠⌠√√√≈√▓▒▓■√ ²²⌡≥≥ °÷╒╕╘╛╝╝╞╟╠╡Ё╣╥╥╦╧╧╨╩╩╨╫╬ююююбцефгхгхйлнннпсужжжвьььвввззззшшззшшшшззззззззззшшыззшээээээшшшшээээшшшэщщъччччъЮАААББАЮАБЦБАЮЮЮЮъчъъъъъЮЮББАЮААБЦААААААААБББАААААЦБААЮъъчщээшзыььууутссстусяярсряоооопонмлкииихгффггфццегеедццбааааююю©©©╬©©©╫╫╫╬╫╬╫╪╩╨╥╢Ё╡╡╡╡╡╡╡╠╠╡╣╧╧╣╠╛╙╔═°⌡°²°≥√░┼┬├┌┌┘┘{|}}~{{│├┤┘┐~}{yxwvv{|}|{{{|{xx{{xutrqpnlklmrz}ywomjgffggiloswywtqrsuwy{|~}│└┐┐┌~─│┐└│}{{}│┌┐└├┤┘┘┤├┘┬┼┬┼├┤▄▌┼┬┼┼┬┬┼┼┼▄▒⌠≈≥≈■■∙√√√≤  ≥⌡÷════║ё╕╗╕╕╘╛╝╞╠╢╤╤╥╩╬╬╬╬╬абацгиийииклллмояянллмлпржыэщччзыььвужьввьзшзвуряпоннооонмлккклкихиигфгффффецбааабаааююаю╬╫╫╫╬╬╫╩╦╥╦╨╨╨╩╨╧╧╨╧╦╦╥╥╦╥╤╣Ё╡╡╡╠╟╞╞╞╞╝╝╜╛╙╘╙╚╖╖╕╕╔╔ё╒═══÷÷·····° ≥≥·[Atptuxz|│┌┐└┤┴┼██▌░▓■■■≤≥ ⌡°²·÷÷═║╒ё╓╕╖╕╖╗╘╘╘╘╘╛╛╜╝╝╞╟╟╟╡╡╠╠Ё╢╢╣╣╣╤╥╦╦╦╧╦╦╦╧╨╩╪╩╪╪╫╬╬©©ююаю©©©©©абабцедеффгггггхххххииихийкккллммммммммннпонсььыьвужвжтууувьышэыжяллммккклмнпнкхфдбббббааа©╫╩╨╨╪╨╧╨╧╣╟╝╟╟╞╞╞╝╛╙╕╖╗╘╘╚╛╜╙╖╓╒÷°≥≥∙∙∙√√∙⌠▓▄▄▌░▒▐██┴┤┤┴├─}}{{{xtuy}│┐├┤└─}┌┘│ytrqsqnliffgecabdfhhkmmpsrrupolhdccdcca__`]Z\^adhkmnonookjkjklnrw{{zzzwsponmlkmpqponqpopsuuuqqty}~─│┌┐└└┐┌┘┐└┴█▐▓√▒▐▐⌠■⌠▓⌠≈√√√≈≈≈√⌡ ≥≥√■∙≈√≥°²° ≤√≈≤≥·╓╘╚╛╛╜╟╡Ё╣╣╤╥╨╪╩╩╪╫╫╬©юаабцдфффгхйккмноястутужвьвввьзззззшшшшшшшшшшшзззззшшшыззшээээээшшшшээээшшэщчччччччъЮЮАБББААБББАЮЮЮЮъъЮЮАЮъъъъББААААББАААААЮЮЮАААААААААААЮЮъъъщээшзыыьжжуутссстсяярсряоооооонмнмкиииххфггфеддеедддцбббцббаааббаааю©╬╬╬╬╬╫╪╨╧╥╢╡╡╠╠╟╠╡╡╢╢╣╥╧╧╤╢╝╛╘╓═÷÷÷² ≤■░▌┼└┐┘└||{x||~┌└┐│─~|ywvuvxz{|}──│─|{}|yxvutqmklmns{}zwpnjhgijjjloswzywsstwz}┐├┘┘┘┐│││┌│}||~─┐┐┌┌┘┤┘└┘┘└┴▄┼┼┴▄▌▌▄▄▐█┼┴▀▀▀▄░⌠√√■▓⌠∙∙≤≈≈≤≤≤⌡÷÷÷÷÷═╒╓╕╔╕╗╛╝╞╠Ё╢Ё╤╨╫╬╬©©аабцфийкиийккмнояянллммпруышщщчшыььжтувььышэзвтппоннмммннмллккклйийигфгефффедцббббааю©©а©╬╫╫╫╫╫╫╨╦╥╦╧╨╧╩╨╧╦╦╧╦╦╥╥╤╣╢ЁЁ╡╡╠╠╟╞╞╝╝╜╜╛╚╙╘╙╙╖╕╔╔╔╓ё╒║║║═÷÷····° ≥≥²[Atostwxz~─┌┐└┤┴┼▄█▌░▓■■■≤≥ ⌡°²·÷÷═║╒ё╓╔╖╕╖╗╘╘╘╘╘╛╜╜╝╝╞╞╞╞╠╡╠╠╡ЁЁ╢╢╣╤╥╦╧╧╧╧╦╦╧╨╨╩╩╩╩╩╪╬©ююююю©╬©©юабаацееееффггггггхииихххийкккллммммммммммооосььььвуужжжтужвьышшзжоккммлйлмнппмйгфдцццббюаю©╫╩╩╨╩╨╨╨╨╤╠╞╞╞╞╟╞╝╛╚╗╗╘╙╚╚╚╚╖╔╒║·⌡≥≥▓▓⌠⌠⌠▓▒░▄█▐▓▓▐▌█┼┤┘┤├┌│┐│~~|yz|││┌┘┴┼┘─|~~{vtssqnkihffgeeddfhjknppqtrprmmkhdccd``_]\\ZX[_bdhlnnqnnmjkmlnoquwwvuuxywtqppnmmprqonmmosuuspstw{───└┘┐┐┘└─┌┌┘┼▄▄▐⌠░▐░⌠∙■∙≤ ≤≈≤⌡°⌡ ²°⌡ ≈√≈≥≈ °⌡≥≤∙▓∙■∙⌡ё╙╚╙╚╜╟╢╥╦╦╥╥╩╬╫╩╪╫©╬©юацдедгфегикккмнпрсссстувввввьыыызззшшшшшшшшшшшшшшшшшзыызшшэээээшшшшшээээээщщччччъъъЮЮАББББББЦААЮъЮЮъъААААЮЮЮЮБББАААААААЮЮЮЮЮЮЮЮЮАААААААААЮЮЮЮщээшзыыыввжуттсстсрррряпоонооонмммкиггххггггфедцедддцццбццбббццдццбаю©╬╬╬╬╬╪╨╧╤ЁЁ╡╠╟╟╠╡Ё╣╣╤╥╦╥╣╢╟╞╛╗╓╒║║÷⌡≥≤√■▐├┐└┌}zxurz}│└┌~||}~~}zwuuvxz{{|~}│┌│││─~{xvurlknnptz}|zxolhghjjjmoqtwzzxvuvy}│┐┐┌┐┤┴├├┤┘~~~~|{{}│└└┌┐├┴┴├┘└└┬▀┴┼█░▐█▄█░▐▀┴▀▄▄▄▌⌠⌠▓░░▓■√≥≈∙√≈≥²═÷÷═══║╒ё╓╔╗╛╝╞╟╡╠╡╣╨╫╬©©аююбефхйкиийккмопяянллмнпруьшщщщшыьвжтужььзээзвсооооонмлммммллкклйииигффееффеедцбббааю©©ю©╬╬╬╫╪╩╪╨╦╥╦╧╧╧╩╨╦╦╦╦╦╦╥╤╣╢Ё╡╡╡╠╠╠╟╞╝╜╜╛╚╙╙╙╙╙╘╖╕╔╔╔╓ё║╒║║═÷÷···²⌡ ≥≥²Z@snrsvwy}┌┌└┤┴┴▄█▌▐▒⌠■∙≤≥ ⌡⌡°²·÷═╒ёё╓╕╖╔╕╗╘╘╙╚╚╜╜╜╜╝╝╝╞╞╠╠╟╟╡ЁЁ╢╢╣╤╥╥╧╨╦╦╦╦╧╨╩╩╩╩╩╩╫╬юа©ююю©╬╬©юааабцдеееефффггггхххххххийкккклммммммммммооотыыьывутужжтужвьыззытнккммлклмнннлигедцццба©юю©╫╪╩╩╨╨╨╨╧╤╡╞╝╝╞╝╝╜╛╚╚╙╙╚╛╚╙╗╔ё║═·⌡≤≤■▓▒▒░▌▌▌▐▐░▒░▌█▌▄┬┘├├└└├└┌│┌│──│┐┌┐├┴┴┘─{|{xvutrnkhggghigghhhjmoqqpqroklnnlifcbb\[ZZ[\[Z[`deinqonllmmqsqqqtwvrqrqtvvtrqqqonprpnmknruuroluvx|~~││└├┘└┘┘┐┤┘├┴┼┼▄░░░░▓⌠√ ··²°°²²°°⌡⌡  ≥≈√∙√≥≤∙▓▓▒▌▓▒▓≤╒╗╙╘╙╛╞╢╥╧╧╦╧╫©╬╫╫╬╬╬╬©беггфхггхйкллмояяярстужввввввььыыыызшшшшшшшээшшшшшзззыыззшшэээээшшшшшщщэээээщъъъЮЮААААББББЦЦЦАЮЮЮЮЮЮЮЮЮАААААББББББААААААЮЮЮЮЮЮЮААББББББББААААээшззыыыьвжуутсртсрррряпоннооонмлллйхгхихгффффедееддццббцббббцдеддццаюю©╬©©╫╩╧╤Ё╢Ё╠╟╟╡╢╣╣╤╤╤╣╢ЁЁ╟╞╛╗╓╒╒╒║°  ≥≤▒├└┘┌}xurpw|│┐│}zyxxyzywusvwyzz{|~}─┐┘├├┘┌}ywvrlmqpqtx{{{zpkhhjkjjrssuwzzxyyy{~│┐└┬┼▌▌┴┤┤└~||}}|{z}─┐┘┘├┴▄▄┬├┘└┘┤┘┴▌▒▌▀┼▀▀▌┼┬┼▄▄▄█▓░▌█▐▓∙≈≤√∙∙≈ ·║÷══║║╒ёёё╔╗╚╜╝╟╠╠Ё╥╩╬©©юб©©цефгййийкккмояяяомлмнпруьшщщщшзьвжуужвьзээшвтяппппонмлмммллкйкихххгфеееффедцбааааююю©ю©©╬╬╫╪╩╪╨╦╥╦╧╧╧╩╨╧╦╧╧╦╦╤╣╣╢Ё╡╡╡╠╠╠╟╞╝╜╛╛╚╘╘╘╘╘╗╖╕╕╔╔╓ё╒║══÷·²²°²²⌡ ≥≥²Z>qmqruwx{~─┌┐├┤┤▀▄█▐▒▓■∙≈≤≥  ⌡°²÷═║╒ё╓╔╕╔╕╖╗╘╘╙╚╛╛╜╜╜╝╝╝╞╟╠╟╟╡ЁЁ╢╢╣╣╣╤╥╦╦╦╦╦╧╨╩╪╪╩╩╩╪╬юб©юю©╬╬╬©©юабцццдееееффгггггггххихийкйкклммммммммммноотыыыыьутууутужвьыззьснллллклмнмммлигеццццба©©©╬╫╪╩╪╧╧╧╧╧╤╡╞╞╞╝╝╜╜╝╝╜╛╚╚╚╙╖╔╔ё║═÷°≥≤≈■▒▐▌█▌░▓░▌▌██▌░▐▀┬┬┬┤┤┬┤├┘┘├┘┘┘┐┐└├┤┘┌─||{wtqlhkhfghijlhiiiikoqsspookhiqomieb_]ZXWY]`_^afiikpsqllnqswyurrtvtpnpsrrrrqoorpprssqprtutqopqwwxz{|~│││┐└└┌┐├▄┬┘├┴┼▄▐▌▐░▓■≈°═║║═·°⌡⌡° ≥≈≈≤≤√■≈≈⌠▌▀▀▄▀▌▐▒≈÷╔╖╖╗╙╜╠╢╥╦╦╪╬©©©©©╬╬©адгиииххиййкмннопппястжвьььввввььыьызшшшшшшшээээшшшзззыыззшшэээээээшшшээшшээщчъъЮЮААААААБББЦЦЦЮЮЮЮЮЮЮЮЮЮААЮААББББББАААББААААААЮААБЦЦЦЦБЦЦЦАЮЮЮэшшзыыыыьвжуутрятссррряпооноооннмннмкйййигфефггфффедцбббцццццддеддддццба╬аба©╪╦╣╣╢╡╠╠Ё╣╤╤╥╥╤╣Ё╡╡╟╝╚╖╓╒ё╓╓·⌡⌡⌡≥▒┤├┤┘~wtttvz│─}zxtttvxwspprtvwy|~─┌┘┴▀┬└┌~{ytoptssuw{}~~wpjiklnotttuwzzx{}─┐┘▄▐⌠▓▄┼┤┐~~─}|─│┐┘┤┴┼┼┴├├├┘├├└┼▌░▌▄▄▀┴▄┴┬┴▄█▌▌▐█▀▀█▒■√≈≈√√≤⌡²··÷═║║╒ё╓ё╔╖╘╚╜╞╟╡╢╧╫©╬╬юа©юцеегйиикллллняяяпнммопятьшщщщззьвжжввжвьшэшвтряпоооонлллллккйииххххгфффеедцбааааюююююю©©©╬╫╪╩╪╨╧╦╦╦╧╧╧╧╧╨╨╧╦╤╣╣╤╣╣Ё╡╠╠╠╟╟╞╝╛╚╜╚╘╘╘╗╖╕╖╕╔╔╔╓ё╒══÷··²°°⌡° ≥≤≤°Y=plpruwxz}│┌┘├├┼▀█▌░▒⌠■√≈≤≥ ⌡°²·÷═║╒╒╓╓╔╕╖╖╖╖╗╘╚╛╛╛╜╜╜╜╝╟╟╟╟╡ЁЁЁ╢╢╢Ё╢╣╥╦╦╦╦╧╨╩╪╩╩╨╨╩╫©ю©©ю©╬╬╬╬©©аццбцдееееффгггггггхиихиййййккммммммммммноотыьыывутуутстжвыыыыжрнллкклооомлмлйгецбцца©╬©©╬╫╪╪╪╧╧╧╧╦╥╢╟╠╟╞╝╝╝╟╠╝╜╛╚╘╖╓╒╓╒║║═²⌡ ≤■▒▐██▐⌠▒▌▄▀▄█▌░░█▄▄▀┴┴┼┴┬┬┬┬┬┤┤┐┐└┘└│z{yuqlgchgfgijkmkkjjjmqsttpmlihktqkgda^[\YW[addcfjlklorrqqtvw{|xrsttqnnoqnklnonnqpqsuuuuuwwvrpqswwwxxy|─│─│┐┌─┌┬▄├┐┘┬▀▌▒▐▒■√≥⌡·═ё╓ё═°  °⌡≤■⌠∙≤≤√≈■▌┬└└├┬▄▌▓≤·ё╔╕╖╘╛╞╡╢╥╦╫╬ююаба©юадгйкккхийййкмонннноясужвыыьььььыыыыышэшшшээээээээшшшшзызззшшэээщщээээшззшшэчъЮччъъъЮЮЮААААББББЮААЮЮЮЮАААААЮЮЮЮБББАААААЦББАААББАБЦЦЦЦЦЦБЦЦБЮъччээшзыыыыьжууутсятсссряяпооноооонлмннмлллкихгххихгфедццбцдддеееееддддедццюбддб©╩╦╣╣╢ЁЁ╢╣╤╤╤╤╣Ё╡╠╟╠╞╚╗╔╓╔╕╖╒÷·° ▓┴┘├└~vstwwz~~}zxuttuutqnnoqrsuy{{{}┌┴▌█▀┼┤└─zutuuuvy~┐└┐wnkklpttuuvx{{z}│┐┐││┐├┼▄░░▀┼┬┌──│~~┐└┘├┤┤├┘┌│└┤┤┤┴┬▀▌░▐▐░▐▄▄▀┼▀▄▌▐▐▄┼┼▀█▐▓■√≈≤≤≤ ⌡⌡°²÷══║ё╓ё╔╖╗╘╛╞╞╠╢╧╫╬╫╫╬ююабцдгиийкммклняяряоммоопсвшччщззьжжвввжжьзшшьуряонооонллллкккйийиххиигффеедбааааюююююю©©╬╬╬╫╪╩╩╨╧╦╥╥╦╦╦╧╨╨╩╧╥╣╣╣╤╤╣╢╡╠╟╟╟╞╝╜╛╛╛╚╙╘╗╖╕╔╔╔╓╓ёё║═══÷··²°°  ≥≤≤≈⌡X<okpquvxy|─┌└├┘┴▀▄█▐░⌠■∙√≈≤≥ ⌡°²·═║║╒ё╓╔╔╕╕╕╖╖╗╚╚╚╚╛╛╜╜╜╞╟╞╞╠╡╡╡Ё╢╢ЁЁ╣╥╦╦╦╦╦╧╧╨╩╨╨╨╩╪╫╬©©©©╬╫╬╬ю©абцбцеееееффгггггххииихиййййккммммммммнмноотыьыьжуужусстжьыыыыжрнлййкнопомллкихебаббю╬╬©©╬╫╪╪╪╨╩╨╧╧╦╣╡╟╟╟╞╞╞╟╡╝╝╛╘╕ё║═║══║═·°⌡≈⌠▐▌█▄▐⌠░█▀▄▌▌██▌▌▌▌█┼┴┼┼┼┼┴┬┤┤┤└┐┐┐┌~}}xyxsnkhfgggijjlnmkjijmqtutokjhjpuogbaa_]\YY]befgikllmortxxyxwz|ystsqnnnnmifhjklmnnoqrrstttttsrqquuwwwwz~─││}}│┘├┐┌┘┴▄▐⌠■∙≤ °·══╔╓╒· ≤≈≈√∙⌠▒▒■√√⌠█┤┐─┌├┬┼▐√²║ёёё╕╙╜╝╟Ё╤╧╫©ююабаацфиййккиийййклммммнпрстжвьыыыыыызшзззэчщщщэээээщщэээээшззззшээщщщщщщээшээээщчъЮъчччъъЮАААЮААБААЮЮАЮъъъЮААБАЮЮЮЮББААААББЦББАААБББЦЦДДЦЦБАЦЦБЮчччщщшзыыыыьвуужусяссссряпппоооопооммммнннммлкйййииффеддддедефффеддццццццбаюбдца©╫╩╥╥╥╤╤╤╤╤╤╣╣╢Ё╠╞╝╠╞╜╙╖╕╖╗╖╓ё║· ⌠┼│┌─|vstvy|~}|{zywwwvusrqrrqppqtwvuw|└┼▌▐▌▌▄┤┌}xutuw{┌┬┬┘┐|uqonquuvvwy||z~│└┘└┐┘┤┤┴▄▄┴┼┴┐│────│└┘┤┤├┐│~~┌┤├┤┼▀█▐░░░░░░▌▌█▄▄█▌▌▀┼▀█▌▌░▓■√≤≤≤ ⌡⌡°²·÷÷═╒╓ё╔╕╕╗╛╝╞╟╢╨╬╬╪╪╫╬юбаадгиййлмлклняярсянмнноржшщщщззьжжввуввьзшзьжяпооппнмллккккккйййххиигеееедцбббааюю©©ю©╬╫╫╫╫╪╩╨╧╦╥╤╤╥╥╦╦╧╧╧╦╥╣╣╣╣╣╢Ё╡╡╟╟╞╝╜╜╛╛╚╚╙╘╗╖╕╕╔╓ёёё╒║═÷÷··²²°°≥≥≤≈≈≈ W=pkpqtuwx{─┌└┘┘┴┼▄█▌░▓■■∙≈≤≥ ⌡°·÷═║╒╒ё╓╓╔╕╕╖╗╘╙╙╙╚╚╛╛╛╜╜╝╞╝╞╠╡╡Ё╢╣╢╢╢╥╧╧╦╦╥╥╥╦╦╩╩╩╩╪╪╫╫©©©©╬╫╬╬аююабацффеееффгхффхииихххийййййкммммммммнмноотыььвжужвжсстжьыыыьжрнкихкпноомккихифбааа©╬╬©©╬╫╪╩╩╪╪╩╧╧╧╥╢╞╞╟╟╞╞╟╠╝╜╛╗╓═···²·÷÷²°⌡∙▒▌█▀┼▄▒░█▄▌▐▌▀┴▀▄▌▌█┼┴┴┼▀▀┴┤├├├├└┌┌│~||z{ysmjjjijklllmpljgfhkortsnjhhltsj`[\^^]ZYZ]adgjkklnoquy}|{wuy|zstsnmnnmokhghhhikkmnmlmpuqmklorsstvwvvy}}──zwy}│─┌┤┼▀▐⌠≤≤≥≥⌡·══╓╒· √⌠▒▐▌▒▓░▐▒⌠⌠▄├│─~|─├┐┘┼▓≥·÷·²║╕╘╙╚╝╠╣╨╬©©юбцадгииииийихикллллллояссстжвыыызззшэшзшщъччщщщщщщщщщщщщээззззшээщщщччщщээчччщщччъЮъъчъЮАБАЮЮЮАААЮЮЮЮЮччъЮЮАААААББББАЮААБЦЦББАААББЦЦДДДЦББАЦДЦАъъъчщэшзыыыьвжжжжтрсттсряпппооопппоонмнояяпоонмлкйиффееееффдефгфецбаааааа©╬©абю©╬╫╪╧╧╧╨╧╧╦╦╦╥╤╤╣Ё╠╞╟╞╝╛╘╗╗╗╕╔╔╓÷ ⌠▀──|xuuv{~─}zyzzxzzyustutsrpoqtvvuux}┐┬▀▐▒░▀┤┐|ustw}┘▀┴┘┘─|{wsrtwxwxz|{y}┐┘┘┘├┤┬┼▀▀┴▄▀├┐┌┌│─│└┌┘┤┤└─~}~~┐┤┘├┴▀▐▐▐▐▌█▐▒▐▐▌█▄▄▄█▄▄▌░░▐▐▒░■≈≈≈ °²²··÷÷═╒╓ё╔╕╔╖╚╝╞╟╢╨╬╬╪╪╬╫ацаюцгхккллкйлопярсянмнмняузщщэшзьжувжтыьызшзьжяпппяянлллккййккйййххххеееееддцццбаю©©©╬╬╫╪╪╪╪╩╩╧╧╦╥╤╤╤╤╦╦╦╦╦╥╤╣╣╣╢Ё╡╡╡╡╟╟╞╝╜╜╜╜╙╙╚╙╗╖╖╖╔╔╓ёё╒║═·²²²°°⌡⌡≤≥≤≈√√ W>klkosuvzy|─┌│┐├┤┴▄▌▐░▓⌠■∙√≈≥ ⌡⌡·÷÷══║╒ёё╔╖╗╗╗╖╖╙╙╚╚╛╜╜╜╜╜╝╞╟╟╠╠Ё╡╡╢╣╣╤╦╥╥╥╥╦╦╧╧╨╨╩╪╫╫╬©╪╬©©╬╫╫╬юабцццдееддфффгхгххиииххиииииййймлклмлмонммноржьыжтттсссттвзыззьжялиийлоролкйкййгецбюю╬╬©©╬╬╬╫╫╫╨╨╨╨╨╧╤╣╞╞╟╟╞╝╝╝╞╚╔╒╒║═÷°·÷═·°⌡ ■⌠■⌠▐▀▀▄▄▌░▐█┼┤┘┤┴▀▄┼┤┤┴├┤┴┤┐└├└┌─────{|zvspoppomlmnomkhkjfejqvspkiigipnd\]^]]`]\\^afjllosutsw{|~{usx{ztrpppnlkijjjihijigghiilqmjijnprtxwy{{z{~┐│}ywy}}┌┘┴▌▓∙√°÷² °÷═ё÷⌡∙▌▀▄▀▀█▐░░▒▐▄├─{yxwz─~┌█≈⌡°²═╒ё╒ё╖╛╞╡╥╩╩╨╪юбацегггхихийийккйкккмпяряртвызззззщэшээшэшэщччщэээщщщчччъщэээээщччщщчъъчщщччччччъЮъъъЮАААББААББАЮЮААААЮЮЮАААААААААЦЦББЦЦАДЦБББББАЦБААБББАБЦЦАъччъщэшшшывввжуууутстряярстсяяппяяяяооннояяопоммлкхгфггдцефефеддеецаббааю©©╬╬юю╫╪╪╫╪╩╪╪╨╨╪╪╩╨╦╤╣╣╢╡╟╠╞╝╝╛╙╘╙╖╗╖ё║²√▐┘yvxzxs|┌┐}}}─}}~|yvwxvsrsuuvyyx|└┤┘┴▄█▄┴├┌zz{├▀┼├├┐─}zywvvvwwxyz|}}─┌├┤┌┬┬┴┼▄█▀┤├┘┐┌│─┌└├└┐┐┘┘┐│─┐┬┬└├▄▄█▐▐▌▌░⌠▓▓▒▌▀┼┼▀█▄▄▐▓▓░▌▐▒⌠∙≈≥⌡²²²·÷═║╒ё╕╔╓╔╕╗╚╝╢╤╨╬ю©╫╩╬╬╬юцегггйммлклннятсяпонннпжшэщщшзвжжжжжувызшшыупряоноомнмлккккккййигффффеддедбаббаюю©╬╬╬╫╪╪╩╩╩╩╨╧╦╥╤╣╢╢╥╧╨╨╧╥╥╥╤╤╣╢Ё╡╠╠╟╞╞╝╜╛╛╛╚╚╙╘╗╖╔ё╓╓ё╒║═÷÷··²²°⌡ ≥≈≤≈∙■■≥X=jkknruuxy|─│┐┘┤┴▀█▐░▒▓■■∙√≈≥⌡⌡²·÷═══║╒╒╓╕╕╕╕╕╕╘╘╙╚╚╛╜╜╜╜╝╞╟╟╠╠╡╠╠Ё╢╢╣╥╤╥╥╥╥╥╦╧╩╩╩╪╫╬╬©╫╬©╬╫╪╫©юабббццддцдффффхххииииихййииййккмлклмлмннммнпсвыьуттттттуувыььыжуялйиймпяолкккйххфдбаю╬╫©╬╬╬╬╫╫╫╫╪╩╨╧╥╣Ё╞╞╞╟╟╠╠╠╙╖ё═══·²°²²²°⌡  √√∙■░▄▀█▌░▒▐▄┴┬┴▀┼▀▀┼┬┬┼├├┤├┐┘┘┌┌}{y|~{zxtqoopqrpnmmlkiiihghlrurojhhfhnle`aa^\\]]^`chlotuxzxwy|}|vuxxurqqssqnlhijkjihhhhhijjlnhhjmoquxyz}─~{}┌┐─|xwz~││┐├┴▄░⌠∙≈·╒║·÷══║⌡√▒┼┤┬┬┤┼▄█▌█▀┬─{wwwuvy┐█■≤⌡·═╒ёё╓╗╜╟╡╥╨╨╨╪©юццеееффгхийййккйкйкмопяяртвыызззыээшээшэээщщщщщэчччччччччщщэщщччччччъъъчччъъччъъЮЮъЮААААБАААБББАААААААЮЮАААБББББАЦЦББЦЦАЦБАЮАААЮБАЮАББББАББАъщчъчэзшзьввжууужжуутсррррряяяппяяяяопонояяпонмлкихгефецбцддедддедцаббаюю©╬╬╬ю©╫╩╪╩╩╪╫╫╪╪╫╪╩╪╩╨╧╦╣╡╞╠╞╝╜╚╘╗╘╘╘╖ё═²≤⌠┼└{wy}|z└└────│┌│││┌│}z~~{yyxwvxyx|└┬┤┬┼▀┼┴┬┤┘┌││┐┬▄▀┬├└─}zyxwvwxxxy{||{}│┘┤└┘├┤┬▀██▀┤┘┐┐┐┐┐└├┘┐┐└┘└┐┌┐├┤├├┤┼┴┼▀█▌░▒▓▒▒▐▄┼┴┬┴┼┼▀█░▒░▐▒▒▒▓⌠≈⌡···÷═║║╒╒╔╓╔╕╖╗╙╜Ё╤╧╪╬╬╬╫╬╬©ацефггилмлклмняссряомммпжзээщшзьжжжжжувьзшшыупяяононмммлккккккййихгффффееддцбцбаю©╬╫╫©╬╫╪╪╩╩╩╦╦╦╥╥╤╣╣╥╦╧╧╦╥╤╤╢╢╢Ё╡╠╟╞╟╞╝╜╛╛╚╚╚╙╘╗╗╖╕╕╓╓ё╒║═÷···²°⌡ ≥≥√≈√∙⌠⌠≥X<ijjmpstwy|}│┐┐┤┬▀█▌▐░▒⌠⌠■∙≈≥ ⌡°²÷═══║║╒ё╓╓╓╓╔╕╗╗╘╙╚╛╛╜╜╜╝╞╞╟╠╠╡╠╠Ё╢╢╢╤╣╤╥╥╤╤╦╧╨╨╩╪╫╫╬╬╬╬╬╫╪╪╫©©юааббцдццдффффгфггхххггйййййкккмлклллмннммнятвыжтсттттжжувьввьжтплййкмпонмллкигхфдбю©╬╫╬╬╬╬╬╫╫╫╫╪╩╧╦╤╣╢╠╟╟╟╠╠╟╞╔ё═÷÷·° ⌡ ≥≥≥≥  ≤≈√∙▒▌▄█▀▌▐█┴┤┴▀▀┴┤┬┴┴┼▀┬├├├└┘┘│|zwuwzywuqnmnprtromlkjikhgimprsnlhffegmkheda^[Z]_bdglpt{|}~|zz{|}{wvwvqqqruvsnlhiklljhfgijjjjjjdglpqrv{}┌┌}z~┘┘│|yy}┌┘└├┼█▐▒⌠∙ ═╔╓║═÷² ▓▄┼└│┌└└┤┼▀▀┼┤└}xuvwvvx|┘█▓∙ ÷═ё╓ё╓╗╜╟Ё╤╦╧╧╩╫╬дццццддцгиййклкйккклнооортвьыыззыээзээшэээээщщщщчччччччщъччщщчччъччъЮЮъъчъъъъъъЮЮЮЮААБААААААББББААААААЮЮААБББББББЦБААББББАЮЮЮЮЮЮААЮАББЦЦБЦЦБЮъъЮчэззыьвьжууужжуурсссряяяряппяяяяяяпооярянмлкигггдддбаббцдддддцбббааю©╬╬╫╬©©╫╩╩╨╨╩╪╫╫╬╬╫╪╬╫╫╪╩╦╢╠╡╟╝╛╙╗╖╖╙╙╗ё÷·⌡≈▒┬|uv{}|┐┌─│─~┌┐│─││─}zyyxwyyx{┐┤├├┬┴┬┴▀▄▄▀▀┴┴┼▄▀┬└┌─}|zyxyyzzzz{|zz}~┐├┘┌┘┬┼▄▌▌█┬├┘├┤├┘┘┤┘┐┐┐└└└┐├┬├┘┤┴┴┬┴┼▄▐▓▓▓▒░█┼┴┤┤├├┴▀▄▌░▒▐▒▒▒▒⌠√ ²²·÷║║║║║ёё╓╕╖╖╗╙Ё╣╧╩╫╬©ю©©©ацеффехклккклнпрстспмлмоуыээщшзьжжжжжужьышшыупппононмммлккккккйиихгффеффедццццбаю©╫╪╪©╬╫╪╩╩╨╨╦╦╦╥╥╥╤╤╥╦╦╦╥╤╣╢╢ЁЁ╡╠╟╞╞╞╞╝╛╚╚╙╙╚╘╗╖╖╖╖╖╓╓ё╒║÷·²²²²°⌡ ≥≤∙√∙■⌠⌠≥W;ghilorsvy||}│┐┌┤┬┼▄█▌░▒▓⌠■√≈≥≥ ⌡²·÷═══║╒ёёёё╓╔╕╖╗╗╘╙╚╛╜╛╜╜╝╞╞╟╟╡╡╡Ё╢╢╣╣╢╤╥╥╣╤╥╧╧╧╨╩╩╪╪╪╬╬╬╫╪╪╫╫©юааабццбцдфффффффггггггииийййкклллллммнмммояувывуттттужутжьвьзьтплкклнпонлллкиггецаю©╬╫©╬╬╬╬╬╬╬╩╨╧╥╥╥╤╤╣Ё╠╠╟╞╚╗╒║═÷÷² ≤≈≈√√≈≤≤≤≈√∙⌠░▌██┴▀▄▀┴┴▀█┴┘┐┘┬┴┴┴┴├┘├┘├└yxywuvxvtrpnmnoprqnkjjjjlijnrqqqkifdeegmmkgc_\\\]afkmquy~~~}zxxzywuvxurrqsuvrnkiijlljhfhjkiijigfimqrsvz┌┌┐─zw|└└─{z|─└┤┤┬▀▐▒⌠■≈°═ё║·° ≥∙┼┘┘┌│└└┤┼▄┼┤└│~zvvwxxzy~├█▒■≥·║ё╓╓╓╘╜╟╣╣╤╥╦╩╫╬цбююаббафхиййккиккклмннортжььыызыээзээшэээээээщщччччччщщъъччччччъъъЮЮЮЮъъъЮЮъъЮЮЮЮААББААББААББББАААААААЮАААБББББЦЦБААБББЦБАЮЮААБАААААББББЦЦБАЮъЮъэзыыьвььвжууутсярссрярсряяяяяяпяряоояяямллигеффддцбаабцбцддцббаааю©╬╫╫╪╬╬╬╫╪╩╨╨╦╨╩╪╪╫╬©╬╬╫╫╫╪╧╥╣╡╞╜╚╗╖╗╙╚╗ё÷·² √█uswz{~│|─}|│~||~─│──}ywwxyy{zxz─┐┐┘┤┬┬┴▄▌▌░░▐███▀┴┐│}|zxw{{|{{zz{zxz{|│├┘─┘┴▀▄█▄▀┼┬┬┴┴┤┘├├┘└┐┐┐┐┐└├├┘└┤┼▀▄▄█▌░⌠■■⌠░█┼┬┤├┘┘┼▌█▌▒▒▐▐▒⌠∙√√≈≤ °÷║╒║═÷══ё╔╕╕╖╘╡╣╧╪╫╫©аюююацдееегкллкклопясууямлмотыэщщэзьвжжжжужьышэыжппоонннммллкккккййиххгфееффецбцццбаю╬╫╪╪╫╫╪╩╨╨╧╧╦╦╥╤╤╤╤╥╥╥╦╥╤╣╢╢╢╢ЁЁ╡╠╟╞╞╝╜╛╚╙╙╙╘╗╕╕╕╕╔╔╓╓ё╒═÷·²°°°⌡ ≥≤≤∙∙■⌠▓⌠≥W:fghkmprvy{{}─┌│├┬┼▀█▌░▒▒▓∙≈≤≥≥≤⌡°·÷÷══║ёёёёё╓╔╕╖╖╗╗╙╚╛╜╛╛╛╜╝╝╞╞╠╡╡╡Ё╢╢╢╢╤╥╥╤╤╥╧╦╧╨╨╩╩╪╪╪╫╫╫╫╪╪╪©юааабццбцдефффегхххххххииииййкклллллмммммморувььжуууттжутжьвьзьсоллммнопнлкййихгецаю©©╬©©©╬╬╬╬╬╧╦╥╤╤╤╥╦╥╣Ё╠╞╚╕ё║═÷÷·⌡≤∙■■■∙√≈√√■⌠▒░▐▌██┼▀▀▀▀▀▄▄┤└┐┘┤┤├┘┬┘┘├└┐│}wwxxuvwtrqpnmmmmnmlihhhijjmrspmmjifdeefkmlid_]^`_elqtvy|─~~|yww{yutvwvtrpprspnljjkkkjihkmljjkjhijmprtvy│││─{x{│┌|}┌┘┤┼┼█░▓⌠√≥·÷· ≈∙√√⌠┴└└┌─┐├┤┴▀▄┴┘┌──|yxxwvvv|┘█▓∙≤°║╓╔╓╔╘╜╟╣╢╢╣╥╨╫©а©╬╬юааадфххиййхкклллмнняружвьыыыщэзшшзшээшшээщчэщщщчщщщъччччщччъъЮЮЮЮЮЮъъЮЮъъЮЮААААААААЦБББААББАААААААЮАААААБББЦББАААББЦЦБААААББББАААББААААъчччъэзыьввььвжжуутсрссряяртряяяяяяпрряпоополлкифеефдццбаабцабцццбааюю©╬╫╪╪╩╪╪╪╪╪╪╩╩╧╧╧╧╨╩╬ю╬╫╫╫╬╫╪╨╥╢╡╞╜╙╗╘╘╚╘╓║═·⌡≥▒└yuwz|─│~{│~|┘┌─~}─}{ywxyz{{y{┌┌└┤┬┴┴▄██▐░░░░░▌▀┤└{xwvvxyzzzyzzyvvwz│├┘─┐┤┬┬┼▀▀┼┼▀▀┬┘└├┤┤┤├┘└┐┌├└└└└└┤┼█▐▐▐░■≈≤∙▓▌▀┴┬┤├┤█▒░░▓▓▐▌▒■√√∙∙■≈≥·║ё╒║÷·÷╒╔╖╖╗╘╡╣╨╪╫╫©юююабцдедегйллллмоопружрммнптьэчщэзьвввжжувьышэзжпооонммммллкккккйихххгфедеедцббцааю©╬╬╫╫╪╪╪╩╩╨╨╧╨╦╤╢╢╢╣╤╥╥╥╥╤╣╢ЁЁЁЁЁ╡╠╟╞╞╝╜╛╚╙╙╙╗╖╖╕╕╔ё╒╓ё╒║═·²°°⌡⌡ ≥≤≈≈∙∙■⌠▓⌠≤W9eegkloqvxz{}││┘┤┬┼▄█▐▒▒▓■≈≤≤≤≈⌡°²··÷═║╒╒ёёё╓╔╖╖╖╖╗╘╙╛╛╛╛╛╜╜╝╝╞╟╠╡╠╠╡╡╡╢╣╤╤╤╤╥╧╧╧╨╩╪╪╪╪╩╪╫╫╫╪╪╩©юаааабцбцддеффеггххххххииииийкккллллмнмммморуввьвжутстувувыввьжсоллнннопнкйййихгецаааюю©©╬╬╫╫╫╫╧╧╦╤╣╣╤╥╦╤Ё╟╜╘╓║║═÷·°≥√⌠▓⌠∙√∙■■■▒░▐██▐▌█▄▀▀┼┼┴┬┤┤┘┘├├┘┐┐┘┐└┘│}zywwvtvwurqponmlkkkjhfeffijnppmjikkgdedeilkjieabdfkrwy{}~┌─~|zyy~zutuvuuqnmnooooklllkjjknnmlllkjjjknrtvy||│|~│└┌│┐┘┘┤┼█▄▌▓⌠⌠∙≤ ≥√⌠▒▒⌠■▒┴┘└─┌└┤┬┼┼┤┐─│─}zwsqtz└█⌠√≥⌡╒╓╔╓╔╗╜╟╢ЁЁ╣╥╧╪©╬╬╫╬©абббдффгиигкклкклмноясужвьыыээзшшзшэшшшээщчээщщчщщщчщщщщщщщчъЮЮЮъъЮъъЮЮъъЮЮАААААААБЦЦБААААБААААААЮЮЮЮАААБББЦББББААББББАЮЮЮАБББААААБААААЮъчччэыыьввьвжжжжжуууусряяррряяяряяпяряонммлкйихфдддцбаааюацаабццбаюю©©╬╫╪╩╨╨╨╨╪╫╪╩╪╪╩╧╦╥╦╩©╬╫╪╪╪╪╩╨╦╤╢╡╞╚╙╙╚╛╙╕ё╒═°≥⌠┴}ww{}─│}{─┐│┌││┌└┐─}──}ywwy{{{}│└┘┘┬┼┼▀▄▄▀█▌░▒▓⌠▒▌▌┬─yuttustvwxxyyxutuz│├└│┌│┐┤┼▄┴┼▀┴┘┌┌┘┬┴┼┴┤┘└└┬┘└└┐┌└┬┼█▐▌░∙≥ √⌠░▄┼┼┼┼▀▐▓▒▒▓▒▐▐▒▓■■■■■√≥²═╒ё╒║÷═╒╔╖╖╘╚╡╣╦╩╫╫╬©ааабддддфхйкллмноппружрнноятьэчщэзывввжжжвьышшыжяпоонмлмлллкккйййиххххфдддддцббцаюю©©╬╬╫╪╪╪╪╪╩╩╨╨╦╤╢ЁЁ╢╣╥╤╤╤╤╣╢Ё╡╡╡╠╠╟╞╞╝╜╛╛╚╙╙╙╗╖╖╖╕╔ё║╒╒║═÷·°°⌡⌡ ≥≥≈√√∙∙⌠▓▓⌠≤V9degjknqvwy{}}│└┘┤┴▀█▐░▓▓■∙√≈≈≈ ⌡⌡°°·÷║║║╒╒╒ё╔╕╕╕╕╖╗╘╚╛╛╛╜╜╝╝╝╞╟╠╠╠╠╡╡╠╢╢╣╣╤╤╥╦╧╧╨╩╪╪╪╪╩╩╪╪╪╪╪╪╬©юююабцбдддефгфггггггггииииййклклмллннмнммосжвввжуутрсужувыввьусолмнонномкккйхггфцаююю©╬╬╬╫╪╪╩╩╧╧╦╥╤╤╤╥╦╤╡╜╘╔ё╒║═÷²⌡≤∙■⌠∙√√⌠▓▒▓▒░▌▄█░▐█▀▀┼┬┤┘└└├├├├┘┌┌┐┐┌└└{zy{xvusuvrsrqonllkijkjgfffiklmlljhklheffgjmkkmjfgkosw{|}─┐│─~{yy{~yussssurnllmnpqlmonlklmomlmmlkjjjkoqsuwxy|──~│├┤┘┘┬┬┬┼▌▐▌░⌠⌠▒▒■▓░▐██▐▒⌠▐┴├┐┐└┤┤┬┤└──┌┐┌─|xtrqy└█▓√ ²ё╔╔╓╓╗╛╞╡╡╢╤╥╥╧╪╪╫╬╬©юбцабддегггкккккклнмоясужьыьшшзшэшэшшшээщщщщщщччщээщщщщщщщщчъъЮъъъъчъъъъъъЮАААЮЮЮАББББАЮЮАБААААААЮЮЮАААБББЦЦББЦБАЮАЮАБАЮЮЮЮАББАААБЦББББААЮъчшзыыввввжжжжжуужуссрррярряррряпояяомкйхйихгфдцаю©©©©©юбаюабцбю╬©©╬╫╪╩╨╨╧╦╦╩╪╩╨╩╪╨╦╤╢╣╧╫╪╩╨╩╪╩╧╥╦╤╢Ё╟╜╚╙╝╝╚╖╔╔ё÷≥√█─wvz}─│}{─┘┘└───┌└┘┐─}~│zwwy{}│┘┬┴┤┴▀▄▄██▄▌▐▐▐▒▒▐▀█┴┐}xvttqsuvwwwxxvvwy~│───┌├┼▀┴┬┤┘┌─│┐┤┴┼┴┤┘┘├┬┤├┐┌┐┘├┤┼▄█▒≈ ≥■⌠░█▀▀█▌░░░░░░▒▒░▒▓⌠■■∙√≤≥⌡²÷║ёё║║╒╓╕╕╗╚╠Ё╣╦╩╫©©ааабдеддфгийклмнпппятурннпясьэчщэшыьввжуувььзшьурпопомлмлллкккйййиххиигееддцццццааюю©╬╬╬╫╫╫╫╪╩╨╨╦╥╤╢╢Ё╢╢╤╣╣╣╣╣╢Ё╠╠╠╠╟╞╝╝╜╛╚╚╙╙╙╙╗╖╕╔╔╓ё║║══÷·°⌡⌡   ≥≤≈√∙∙∙⌠▓▓▓≈U9ddfjknqvuw{}|~│┌└├┬┼▄▌░⌠⌠⌠⌠■√≈≤   ⌡⌡²÷═÷═║║╒ё╓╔╕╕╕╕╖╘╙╚╛╜╜╜╝╝╞╞╟╡╡╠╠Ё╡╠╢╢Ё╢╣╤╥╥╦╧╨╩╩╩╩╩╪╩╩╩╩╪╫╫╬©©юююабцдеддггфгггхххххиииййкллкммллннлнннпсжвжжуттсрсутсжывььжсолмоонннмлллйхфгебю©╬╬╬╬╬╫╪╩╩╨╨╦╧╧╦╥╥╥╦╦╣╟╙╔╒║╒╒║÷²⌡≤√∙∙≈≤√▓▐░▒▒░▌▄▌░░▌▀▀▀┬┘└└┘┐└┘┘┐│┌┘┐┌┘┘~yyyzxvustsotrpnmlllhjlljhhhklkjjlkhikheghilokknmilrvx{|}~─│┌│}zxy{|wsrrqrtsollmmoplnqpmlmomkkmmkiijkmoqqruxx{}}}┐▀┬├├┬┬┤┼▌▐▌░⌠▓▌█▐┼┴┴┼▄▌░▓▌▀┬┘│┌├┤├┘├├┐││┌│~zwvupy┘█▒∙⌡÷ё╔╕╓╓╗╛╞╟╠╣╦╦╤╥╧╪╫╬©©юацюаббдфгфййкйййлмлнпртжвьвзззэээщшшшээщщщчччччщэшэщщщщщщщщчъъъчъъччъъччъъББАЮъъАЦААААЮЮБЦЮААААЮЮЮАААБББЦЦБАБЦЦАЮАЮАББАЮЮЮЮАБАААБЦАААААЮъчщшззыьввььвжжутстсссттсярряррряпнпяолйхфихффедбю╬╫╫╬╬╫©ааююаццю╬©©╬╫╪╩╨╧╧╥╦╨╩╨╧╨╧╥╤╢ЁЁ╥╪╧╧╧╨╪╩╦╤╥╤╢╢╠╜╚╙╠╟╛╗╖╖╔║°≥▒┐xvz~│┌~}┌┬┴┴├└│─┌┐┌│||~~{z{z|│└┤┼▀┬┼▄██▌▐▌▓▒▐█▌▌▀┤┴┤└│~zusstvwwvvvzyzzy{}z~─┌┐┘┬┴┬┬┘┐┌──┌┤┬┬┤┘┘├┤┘┬┤┌┌├┬┘├┴▀█⌠≥≥√▓▓░█▄▄▐▒▓░▌▌▌▐░▓▐▒⌠∙√≈≈≤≥≥≥ °÷╒╓╒║╒ё╓╔╖╙╠╡Ё╤╧╫©юааабдеддфгхйклмнпппястроопясвэщээшыьввжуужвьызьурпппомлмлллккйййкииийигефеццддццаааю©╬╬╫╫╫╫╪╩╨╧╦╤╤╤╤╣╢ЁЁ╣╣╢╢╢╢Ё╡╠╠╠╠╟╞╞╝╛╚╚╙╙╘╘╘╖╕╓ёёё╒╒÷÷÷·²⌡    ≥≥≤≈√∙∙■▓▒▒▓√T8cbdhjmprtwz|}~│┐├┬┴▀█▐░▒▓⌠∙√≤  ≥≥≥⌡²²²÷÷═║║╒╓╔╔╔╕╖╗╗╗╗╚╛╛╜╜╝╝╝╞╞╟╟╠╠╡╡Ё╢╢╣╣╣╥╦╦╦╧╩╪╪╫╫╫╫╪╪╪╪╫╫╫╬юаббббццддефффггггхххийихийккйллллммннммнятужвжжжуттссуужьыывжяоппннолннмккйхеффецаююаю©╬╫╪╩╨╨╦╧╧╦╦╦╦╤╧╠╘╔╒══╒╒÷²°⌡≥≤≤≤≈∙⌠▒░▐▐░▒░█▌▒▒▌▌█▀┴┤├└┐┘┐┌┐┘┤┤┘┘┤┘ywwxyzxttwvqpttoklkihhjmkggiinnkkihieggdejmmppqsttvx~┌┐~~┌─zz}~|xwyzxsqssqrutqnlihjnrolmmmllnmkjlnoonllmpsuuuy|~~─└┤└┘┤┬┬┤▀▐░▌█▐▌┼┬┬┬┴┼▀▀█▐▓▐▄┤┌─┌┘├┐┐│~~──}~~|zzzuz┘█░√²÷╖╕╔╓╕╗╚╜╠╣╤╤╧╧╥╥╧╪╫╫©бцю©юбцдеффйиийййкмнноясттуввьызшшшзээшшщщшчччщщщщщщщщщщщщэщчъЮЮъчщъъъъччъЮББББААААААБААЮАААААЮЮЮЮЮАААЮАЦБЮЦЦББААААББЦЦБАЮъЮААБББББББББАЮъчэшзззыыььвжуутттясттсссспстсрряпоонлллхдфххедецю©╬╫╬©юааббббцда╬╬©©╫╨╦╦╧╨╧╦╥╧╨╦╣╡╡╡╟╞╟╢╥╧╥╤╥╦╦╥╤╥╤╢Ё╡╟╜╙╝╡╠╙╖╖╕ё°≥■▀┌|{|─│┌┐┘┬┼┴├┌──┐┘─}|││~z|─┐┐└┤▀┼▄▐▐▌██▄▐▐▌▀┤└┌┌┌┐┐│}|zxxxwwxyxw|}zywx|│~└┬├├┬└├┘┌────┐┬┼┤┐┌┘├┴┼┴├└┐┌│└┬▄▌⌠≈≤∙░▒▓░▌▄█▌░░░░░░▒▓▓▓⌠■∙■√≤  ⌡⌡°·═╒═║ё╓╓╓╗╜╟╡Ё╢╥╪©©едбаабцдефхийкмоопяррряпнопсьщщэзшзывууужууьзшыврпооонллллккккййкйххххгффедбцецюааю©╬╫╫╫╪╪╩╩╩╨╦╥╥╤╤╣╡╠Ё╤╣╣╢╢╢╢Ё╡╡╠╞╝╝╝╜╛╛╚╙╙╚╙╗╖╖╖╖╕╔ё║══÷·²²°°°⌡ ≥≈√∙∙∙∙■⌠▓▒░∙T7aacgiloqsvxz|}─┌┘┤┬┼▄▌▐░▓⌠■√≈≤≥≥≥ ⌡°²°══║╒╒ё╓╕╔╔╕╖╗╗╘╘╚╚╚╛╛╜╜╝╝╞╟╠╡Ё╢╢╡Ё╢╢╢╣╤╥╦╦╧╨╩╪╪╪╫╫╪╪╪╪╫╫╫╬©юааббццддеффффгггхххииихийкккккккллммммнятужвжжуутттсужжьыьвжрпппнннлмнмккйхфхгфдбааа©╬╫╪╩╩╩╩╩╨╧╦╧╧╦╣╣╞╗ё║═║╒║·°⌡ ≤√≈√∙⌠▒▒▒▒▓▒▓▒▌▌░░▌┼┼┴┬┤┘└┌└┐┌┐┘├┤├┤┬┘~wuvw{zwttvvtqstrpoliihikjghkoqmhfedgeeghijlnqsuwwx{~│┐│}|~|xw{}|ywxxxtqppoqsvrnlkkmppmjjkkkkpnkknoomlmnoqsuwvz~│┐├┬┼┬├├┤┬┬▀▌▐▄┼┼┴┘┘├├┤┬┴┼▄▐▓▌▀├┌│└├┤┌─}{|│─|}~~|{zytz└█░≈·╒╔╔╕╖╘╚╜╝╢╥╤╣╦╦╤╥╨╨╪©юююаабцддеефхгиклкккннопрстуужвызшээшээшшщщэээээээээщщщщщщччщчъъъъчщъъЮъъъЮАБББАААААААБААЮААААЮЮЮЮЮААБАЮАББЮББББББББББББАЮЮЮАААББББББББАЮъчщэшыыыыьвввжуттттттсстутряссрппонннмллкхефгфедцца©╬╬╬©аааюаабцдцю╬©╬╪╨╦╦╧╧╦╤╤╥╦╤╡╠╟╞╝╝╟Ё╣╥╤╣╤╥╥╤╢╣╢╢Ё╡╠╝╜╝╡╡╜╘╘╖ё·⌡√█└~||││┌┌┌┐├┬▀┬┘┐│─~}~}~┌└┐─}~─┐┐┐┐┘┴┼┼▀▀▄▄▄┼┴├┐─}|{─│┌┌┌┐│~}{yyyxxxz}|yxwy~─~┐┤┤┤┬┘┘└┐──┘├├└┐┘├├┴▀▀┴┤├└┐┘┤▀▐⌠∙⌠▐▄▄▀┼┴┴▀█▐▐▐░░▒▓▓▓⌠■∙√∙√≤≈≥⌡²²°⌡⌡²·║ё╓╔╙╝╟╡╡Ё╤╩©юбцдцббдефгхиййлммнпяссрроопсьэщшшшзывуужжууьзшыврпноонлллллккккййихххгффеедццдцюааю©╬╫╫╫╩╩╩╩╩╨╧╦╥╤╣╢Ё╠Ё╣╣╢╢╢╢Ё╡╠╡╟╞╝╝╜╜╛╚╙╘╘╘╘╖╕╕╕╕╔╓╒║══÷·²°°⌡⌡⌡ ≥≤√√∙∙⌠⌠▒▒░▐■S6``afhknprtvxz|~│└├┤┬▀▄▌▐▒⌠■∙√≈≤≤≥ ⌡°°°═║║╒╒ё╓╔╔╔╕╖╗╘╘╘╙╙╚╚╛╛╜╜╜╜╝╞╠╠╡Ё╡╡ЁЁЁ╢╣╤╦╦╧╨╨╩╩╩╫╪╪╩╩╪╪╫╫╬©ююаббцццдеефффгггхххххххийккккккккллмнмортужвууууттттжжжвььжутяппммнкммлйййихигедцбаю╬╫╩╨╨╩╪╫╪╩╧╦╧╨╥Ё╟╛╕║÷═║═÷²⌡ ≥≈√√∙■▓▒░▒▓⌠▒⌠▓▐█▐▐▌▀┼┴┬┬┤┘┐└┘┘┘├├┤┤┬┬┘~wtuv|zwtstuvuuttspmjhffhhhkptsldaabefehlmjknsvz}||─┘┘┐─}|{ywvz}{yxxwvuspoopqurponnnpmjhhiiijoljknpnllnprrtwywz┘┴▄▄▄┴┤├┤┬┴┴┼▄┬┘└┐│┌┘└┘├┤┬┼▌░▀┤┐─│┘├├│}yx{│┐┐}|||||zyuz┘█▒≈÷ё╔╔╕╗╙╜╟╠╣╦╤╢╤╥╤╦╦╦╩юю╫╫абцддццдддехлмлййммнопртустжвышэщшээээщщщээээээээщщэээщчъчччъъчччъЮЮЮъЮЮАБББАААЮЮААААЮЮЮАААЮЮЮЮААББАААББЮБББББББАББАЮЮЮЮАААБББББАААААЮъчщэшыыыььвввжуттттутррсутярсронннмнмлккйифгфеедцббю©©©юааа©юаацеца©╬╫╪╨╧╧╦╦╥╣╣╥╦╣╟╠╟╞╜╜╞╠╡╣╤╣╢╣╥╣╡╠╠╡╡╠╟╞╞╝Ё╢╟╛╚╗╓║÷ ▒┬│~}┐┌┌││┐├┤▀┼┬├┘┐│~│└┘┐─~~─┐└┌││┘┐┌┐┘┤┬┬├┐}{zyx|}~│┘┤├┐┌~{{zyxz|}{yyxy}│──│└┘┘└┘└┐┐│}}─├└││└┤┬├┬┼▄▄┼┴┤┘┴┬┼▌▓▒▌▀▀┼┴┬┬┼▄▌▌█▌▐▒▓▓▒⌠⌠■√≈√≈≤√≤⌡°°⌡≥≤⌡°·═╒╕╚╟╞╠╠╠Ё╦╬аюцеецбдффгхиийклмнпяррссппясвэщшшшзьвжужжуувззьжрпноонмллллкккккиихгггфеееецццбаааю©╬╫╫╪╩╩╩╩╩╨╧╦╥╤╢╢Ё╡Ё╢╢╢ЁЁЁЁ╡╠╠╟╞╝╝╜╛╚╙╘╗╗╗╗╖╔╔╔╓ё╒║═÷÷·²°°⌡⌡   ≥≈√√∙∙⌠▓░░▐▌⌠S6`_`egkmpqstvy{}│└┘├┬┼▄█▐▒⌠■■∙∙≈≤≥ ⌡⌡⌡⌡÷÷══║║ё╓╔╔╕╖╗╘╘╘╙╙╙╚╚╛╛╛╜╝╝╞╟╟╟╟╡╡ЁЁЁ╢╣╤╥╦╧╧╨╩╩╩╪╪╪╩╩╪╪╪╫╫╬©©юабцццдееффффггххххххххийкккклллмммнморуужвуутттттужжжвьвжтуяпоммнккккииййигфцбаю©╫╪╪╩╨╨╩╩╪╫╩╧╦╧╧╢╝╛╚╖║·÷÷²²⌡  ≥≤≈≈∙■⌠▓▒░░▒▐▒▓░▌▌▌▌█▀┴┬┤├└┐┘├┤┤┘└└└┤┤└~yvvwzwutrqruxwvurolkfddfgintxulb``bfhhjlmllnvy}─││└┬┤┌}|{yxxvz}{yyywtuurpppprssspnllkhffhhjklkjlnonmoprstvy{xz─┬█▌█▀┤├├├├├┘└┤└┌│──┌┘└┘┘┘├┴▄█┤└~│├├┘{wx}┐┘┘}{z||{yx|├█▒≈÷ё╕╔╔╔╗╛╠╢╢╤╢╡╢╤╤╥╣╤╨╫╫╩╩╫юацбаааббцгкмкййллмноясурстжьзэщшээээщщщэээээщщщщээшээщчъъччччъъъъЮЮЮЮЮАБББААЮЮЮААААЮЮЮАААЮЮЮААББББАБББАЦЦЦББАЮЮБАААЮАААБББББАААААААЮъчщэшзыыыььввжуутттутряртсяссянлмнммлкйиихггеегфцбцааююююааюаббцецаю╬╪╩╩╩╧╦╧╦╤╤╥╦╣╠╡╡╟╝╜╜╞╠Ё╣╣╡Ё╤╣╟╜╝╞╞╜╛╜╝╝Ё╣Ё╞╜╘╔╓ё·√█├│┐┌││┌┘┬┼██▀┤┘└┘┘─│┌┐┐│─~│└└┐┌┌─~}~─│┌┐┐─}|||{zvx{└┤┤├┘│~|yz}{|{{|zy|┌┌──┌┌─├┐┐└│}}─└│~└┬┬├┤▀▌▐▐▌▄┼█▀▀█▌▄▀▄▌▄▀┼▀█▐▐███▐▓⌠▓▒▓▓■√≈≈≈≤≥≥    ⌡°°°°²═╔╛╠╜╞╟╟╡╤╪ююцеецбдеефгийлмноояяяяррряясвэщээшзьвжжжжуувызьжроннонмлллллккккиххгффеедеедбббббаю©╬╫╪╪╪╩╩╩╩╨╧╦╥╣ЁЁЁ╡╡Ё╢╢ЁЁЁ╡╡╠╟╟╝╝╝╜╛╚╚╙╘╘╘╗╖╕╔╓ё╒║═÷÷²²°⌡  ≥≥≥≥≤≈√∙∙∙■▓▒▒░▌⌠S6`_`dgjmoprtvx{}│└┘├┬┼▄█▌▒▓⌠■■∙√≈≤  ⌡⌡⌡²·÷÷÷═║╒╓╔╕╖╖╗╗╗╘╘╙╙╚╚╛╛╝╞╞╟╠╠╠╠╡ЁЁЁ╢╢╣╤╥╦╦╧╨╨╨╩╪╪╩╩╩╩╪╪╪╫╬╬©юаббццдееффффгггххххххиийкклллмммнннморуужвттттттуужжжвввжтуяпомннкиййххийифебаю©╫╩╨╩╩╩╩╩╩╩╪╪╩╨╧╥╠╚╚╚╗║·²²⌡⌡≥≤≥≥≤≈≈■■■⌠▓░▌█▄▌░░▐▌▌█▄┼┤┘┘┘└┐┐┘┤├┘┐┌┌└┐│~{yxywtrsqoosvvwvsnllheegijotzwmdbcegikkjkorrz|┐└└┘┤└~zzzxxzy|}zxyywrsronnpqrtusnkjjigfghikmlmnooooptsrruxz{z|┌┴█▄┼┴├┘└│──│┌┘└┌│─│┐└┘┘└┘┬┼┼┘┌~~┐┤┤┘~yvx┘├┘┌~{z|}|zy}├█▒≤═ё╕╔╔╕╗╛╠ЁЁ╣Ё╠ЁЁ╡Ё╡╤╨╨╨╨╩╨╬юааюююббцфикйййкллмнортрстужьзшшшшээщщщшэээщщщщщщщщщщээъъччччъъъъъъЮЮЮЮБББАААЮЮААБААЮЮАААЮЮЮААБЦББББББАЦЦЦЦБААЮААБББАААБББАААААБББАЮъчщэшзыыыьвввжжуууутутррсссррпмлмннлйииихххгефихеццццбааюююабццдедца©╫╪╪╪╨╧╧╦╥╤╥╦╤Ё╠╡╠╞╛╛╞╠╡╣╢╡Ё╤╢╟╙╛╜╛╘╗╘╙╝Ё╤╣╡╟╛╗╗╕╒⌡▓┼┘┌┘└┌┌└├┴▀▐░▐┴└┌┐└┐┌│││┌┐┐─┌┘├└││┌~~||~~}}}}{ztvy}─┐┘├┬├┘└─|}─|}{{}|{~┐┌─~││├┐┐└┌}}──~}┌┘┘┘┤▀▐░▒▒░▌█▄█▌▀┬┼█▌██▄█▌▌▌██▌░⌠⌠▓░▒▒⌠∙≈√√≈   ≥≥ ⌡²÷·°⌡·╔╚╟╛╝╟╡Ё╤╨╬ббццццццффгиклмннопяяяррссрсвэщээшзьвжжжжужвыыьврпннонлллллкккккхххгфеееедддцбабааю©╬╫╪╪╫╪╩╨╨╧╦╥╥╣Ё╡╡╡╡Ё╣╢ЁЁЁ╡╡╠╟╞╝╝╝╜╛╚╚╙╘╘╗╗╖╖╔╔ё╒║═÷÷°⌡⌡ ≥≥≤≤≤≈≈√∙■■■■▓░▒░▌⌠S6`_`dfiloprsuxz|~─┐┘├┤┼▀▄▌░▒▓⌠■∙√≈≤≥≥  ⌡²·÷÷÷═║╒╓╓╔╕╕╖╖╖╘╘╘╙╙╚╚╛╛╛╝╞╟╠╠╠╡╡ЁЁЁ╢╣╤╤╥╦╦╧╨╨╨╩╩╩╩╩╩╩╩╪╫╬©©юаббццддефффффггхххххииийклккллммммнморууужттттттуувжввввжууяоомнмйгхиххииифецаю╬╫╩╧╨╩╩╩╩╩╨╫╫╪╨╥╢╞╚╚╙╗ё÷°⌡ ⌡≥≤≤≤≈√√⌠⌠⌠⌠▓░█▄┼▄▌▐▐▌█▄▀┴├├┤┤┤├┌└┤┬┤┘└└│}|{yyzvsqqpooqqtwvspnmkhhkllnrzwogfggijmmlntxw}~┌┘├┘┘┘┌~|||{|~|~~zxzyvqomjjloruvupkjklihghiikmmnonllnpusqruy{||┘▀▄┴┤┤┘└─{z|─┐├├┘┐──└┘┘┐└┤┴┬┌|}┌├┘┌|wtx└└┐└─}|~}{w{└█▓≥║╓ё╓╕╗╚╜╞╟╡╢╡╟╠╠╞╞╠╤╧╦╦╩╩╧╫©ааю©абццехиийкйкмммоясрстттжьззззээээщшшэээщщщччъччщщэъъъччъъъъчъъЮАЮЮББББАААААБББАЮААБАЮЮЮААБЦБАБЦБББААБЦЦЦББААББББААБАААААБББББАЮъчщэшыыььвжвввжуууутуутссттяяоммннмйииихгггффгихфдцдддбаююю©абцдеедаю╬╫╪╪╨╧╦╦╥╤╥╦╥╣╞╟╟╝╛╛╞╡╡╢ЁЁ╢╣Ё╟╚╚╚╙╖╔╕╖╛╟╢╣╢╡╟╜╚╘╔÷√▌┬├┬├└┐└├┬┴▄▒▓▌┬├┘└┘└┌│┌├┬┴┘┤┴┴└|}~}─}xwy~─│}|{xyz|}│└┬┴┼┬┘┌┌┌│||}||┌┌─}}~─││└┐└└┌~~─~||~─│┌┐┐├┼▀▄▌▌█┴▄▐▌┼┤┬▀█▌▌▐▐▌▌▌▐▐░▓⌠⌠▒▐▒░▒■∙∙√√≥   ≥≤≥≥═÷²°÷╕╚╝╜╝╠╢╣╥╨╫ббббццббггхиклллмнпппясттсрсвэщщщшыьввжжжжжвыыьвспнннмллллккккййхххгфеееедцдцбааааю©╬╫╪╪╫╪╩╨╧╦╥╤╤╢Ё╡╡╠╠Ё╢╢Ё╡╡╡╠╠╞╝╝╜╜╜╛╚╙╘╗╗╖╖╕╕╔╔╓╒║═÷·⌡⌡  ≥≤≈≈≈√√∙■■■■⌠░▐░▐▄▓R6_^^bdgjnoqsuwz{}┌└┘┤┴▀▀█▌░▒▓■∙√≈≤≤≤≥ ⌡²²···÷═║ё╓╓╔╔╕╕╕╗╗╘╘╙╙╚╚╙╙╛╜╝╞╞╞╟╠╡╡╡Ё╢╣╣╣╤╥╦╧╧╧╩╩╩╩╩╩╩╩╩╫╬©ююааббцддееффффггххххиииийклйккллммлмморууужуттсстууввввьвжууяооммлхфхиихиииффецю╬╫╪╦╧╨╨╩╪╪╪╪╬╫╦╡╝╛╚╘╗╖╓═°⌡°²⌡  ≥≈∙∙▓▓▓▓░▌▄┼┼┼▀▄██▄▀▀┴┤┬┴┴┬├┌└┤┬┬┤┘└|yxwvwyxurpppqqqstrpqpnlkloqooqwunijklmmoqrtwz{}┐├├┐┐└│~~}|}─┌│}{|zvrnkllmorwvrnlmoojihiihiklllkjlnqrqqrux{}~│┤▀┼┘┐├┐│}yy~┌┐├┤├┐─~}~┌└┘┐└┤┬├~|z{┐┌{vtw~│││└┌──│─}zvz┐▄▒≥═ё═╒╓╗╚╜╞╞╟╡╟╝╞╟╞╟╡╢╤╥╧╨╨╨╪╬юю©©юбццегиииййкмммнпярстсстжызыышэшшщэээщщщщщчччщщщщщъъъъъъъъъъъЮАААЮББББББАААБББАААБББАЮЮААБЦБАЦЦББЦААБЦЦЦЦБББАААААААААААБББААААЮъчщэшыьььвжввжжуууусттстттсяяоннонлиххихффгефффееецдддцбааа©абббддцаю╬╫╪╩╨╧╦╧╦╥╤╥╧╧Ё╠╞╝╝╝╞╞Ё╡╡Ё╢╢╡╟╜╜╛╙╖╔╔╔╕╚╞╡╡Ё╡╠╜╚╖║≥▒▀┴┴┤└┐└┘├┤┴▌▒░▌█▀┤├┘└┐├┴┼┴┘┤┼┼├zyzy{~}yxy~│┘└│──}{{{|~─┐├┬┬┬┼┬┘└┐─~~|}┐─|y{}}│┐┐└┐│}{{||}│─┌┐└┘┤┬┬┬▀█▀┤┘┤┬█▌░░░░▒▓░▒⌠■⌠▓░▌▒░░⌠∙∙∙√≈≤≥≥≥≤≤≤····╒╗╛╜╝╝╟Ё╤╥╧╩©ацдцбббгггийлллмноппясусряржшщщщшыьввжжжжвьыыььспнннмлкккккййййхиихгффффдбцдбаааюю©©╬╫╪╪╩╨╧╧╦╥╤╣╢ЁЁ╠╟╠Ё╢Ё╡╠╠╠╠╟╝╜╜╜╛╛╚╙╘╘╗╖╕╕╕╕╓╓ё╒║÷²°⌡⌡⌡ ≥≤≤≈√√∙∙■■■■▓░▌░▐▄▒R5_]]acfimoqsuwy{{~│┐└├┬┼▀▄█▐░▓■∙√≈≈≈≈≤ ⌡°²²²²·÷═ёё╓╓╔╔╔╔╖╗╗╗╘╙╙╙╚╛╜╝╝╝╝╝╞╟╟╠╠╠Ё╢╢╢╣╤╥╦╧╧╩╩╩╩╩╩╩╩╩╫©юююааббцддееффффгггххииййииклккллмммммморуууууттссттуввввььвжуяпоммкфехйиииихффецю╫╪╪╦╦╧╧╨╪╫╬╪╫╪╣╜╙╙╚╖╕╔╔║°⌡²═·°⌡ ≈∙∙⌠⌠▓░▌▄┼┴▀┼┴┼▀▀▀▀┼┴┬┬┴┬┘┌┌┐┘┤┤┘┌─zvtssuwzwroprsruurmmqrpkknstrqrtslilooqpptyzxy|{└├└││┐~~~}|z{}┌┘└─~{vrnmqrpprvuqnoqqpjiiiihhilkiiknrtnprsuw{}~│┬▀┤││┘─{z|│┐┌┘├┘┌~~~│┐└┐└┤┬├~|z{┌│~|wtw|──└┐┐┐┐│}yvz┐▄▒≈·═÷═╒╓╗╚╝╟╝╟╝╛╞╟╠╡Ё╠╡╥╧╦╦╨╪╬юю╬╬©адцехииийикмнмноярсссрсжьыьышшзшэччччччччщщэшшэщччъъъъъъчъъъЮАБАЮББББББББББЦБАААБЦБАЮЮЮАБЦААЦДЦБЦББЦЦЦББАЦБАЮъЮАААААААББЦАААЮЮчщщщшзыыьвввжжууууусррртусппяпнномкиххихфефеффццееццддцбаабюабааааююю©╫╩╨╧╧╦╨╨╥╤╦╨╪╦╢╟╞╟╟╝╛Ё╡╡Ё╢Ё╠╠╟╞╜╚╘╖╕╕║╔╚╝╟╡╡╡╝╛╗╒ ⌠█┼┬├└┐└┘├├┴▄▌▌▌▐▄┤┤┤┘┘┬┼┴┘┌└┬┼┬│{wwuw}─~}~}┌├├┌│└├─{zzz{|}│└├┼▐█┤┘┘┐┌│}|│zwyzz|│┐└┌─~{yyz{}─││││└├┤┴▀┼├┐└├├▀█░░░▒⌠■▒⌠■∙■▒▐▌▒░░▓■∙∙√√≈≈≤≤≤≥ ⌡²·═╔╚╜╛╞╝╞╡╣╤╦╨╪юдедббцфффхйлммноппопртсряяушщщщшыьввжжвввьыыььтянннлкккккйййййииихгффффцбцдцааююю©©╬╫╪╩╨╧╧╧╦╥╤╣╢╢Ё╟╞╠╢╢Ё╠╠╠╠╟╟╜╛╛╛╛╚╙╘╘╘╗╖╕╕╕╕╓ёё╒═·°⌡°⌡⌡⌡ ≥≤≈√√√∙■■■■⌠░▌░▐▄▒R4\[]`adhjmqstux{|}─┌└├┬┴▀▌▐▐▓▓▒■√√√≤≤≤ ²°°²·÷÷══║╒ё╓╓╔╕╖╖╔╕╗╘╗╘╚╛╛╛╜╜╝╝╝╞╞╞╟╡Ё╣╤╣╣╤╥╦╧╧╧╩╨╧╧╩╪╪╩╨╪©ю©юабаабддеддеееффггхгххийкклййклмммммморужутууттттттужвжжввжтяпомййкггхиххгфгебааю╬╪╩╨╨╨╪╫╫╫╫╨╤Ё╟╜╙╗╔╓╓╓║··═║² ⌡⌡≈∙∙▒▒░▌▀┴┴┼┴▀▀┼┼▀┼┴┴┴├├┤└┐┘│┐├┤├└│{xuuutstxusssrrryuokknqsrpoortuvvropqqrtxvuvwwwxy}│┌─~~{{||{{|}│└┘│──}wusqrtvxyttrqqrqmkjhghihfjjjlquurspoprv|┐┘┤┴┬┘│zyz~┌┤├┐─~─┌┘┘┘┴┴┌wxz}│┐│~|xsu{}}┘┘┴┴┐~u|└▀⌠ ÷║÷╒ё╒╔╙╛╚╛╛╜╜╜╝╟╡╠╡Ё╢╤╦╦╧╨╪╬юю©юццццдфхйкллллллнорттсрсуььызшзшэщэшшщчщчЮщщщээщччЮЮЮЮЮЮЮЮъъъЮЮЮЮЮАААЦБАБДБЦЦЦЦББЦДБАЮААББДЦББББЦЦБББББББББАЮЮъЮААЮБЦБъчЮЦАБААЮъщщэшзыыыыыьжуутстутсрстсяопоооннлкйихгггфеееддццббцбббббаююабббцбю╬©©©╬╪╨╧╥╦╧╦╥╥╧╩╥╢Ё╡╞╛╛╚╟╠╡Ё╢Ё╡╠╞╠╠╝╙╗╕╔║╒╓╖╙╛╟Ё╞╚╕╒°√▒▐┘┐││┌└├┬┤█▒░█▄▀┴┬┤├├┤┴┴┬└┌┌┐┌~zywutx}│─}~│┐┌┐┘├├┘┐─}{z{│─┌┤▀▄┴┬┬├└│─│yvttv{~|┐┤┘│┌┌─~~|yxxz{|~───│┐┘├┬├│┐┤┬┴█░▐░⌠■⌠⌠■■▓▒▒▓⌠▐░▒▒▓■√√≤∙■√≥⌡°·÷÷╒╖╙╙╚╜╛╜╞╠╡╢╥╧╨╪юдеццеегийкклмнпппноруутссжзэшшэыввжужуужвьыььрпоппомлйккллкйииййхгееффедддцбб©юаю©╫╫╫╪╩╨╧╧╦╥╤╦╣╡╡╠╠╠ЁЁ╡╠╟╟╠╟╟╝╝╝╜╛╚╙╙╘╗╖╖╕╔ё╒ё╒║═÷·°⌡⌡⌡  ≥≤≤≈≤■■■▓⌠■▒░░▐▌▀┼▐P3\[\``cgjmprsuxz{|│┐┘┤┴┼██▌░▒░⌠∙∙√≈≈≈≥⌡⌡°²··÷÷═║╒ёёёё╓╔╕╔╕╗╘╘╘╙╚╚╚╛╛╜╜╜╝╞╟╠╡ЁЁ╢╢╣╤╥╦╦╦╧╨╧╧╧╨╩╪╪╨╪©©©юабццццддеееееффгххгххийкклклллммммннпружусттттстттужвжжввжтяонлйийгхииихггддцаю©╬╬╧╨╨╩╪╫╫╬╪╦╡╝╜╛╙╗╓ё╓╓╒÷·÷·⌡≥  ≤√∙▓░▌█▀┼┴┴┼▄▄┼┤┤┬┬┬┬┘┘┤┘┌└└├┬┬├┐}xutttstuyxvtssrqtsqomnrtrrqpqsuvtporsrrtzxuvwvvvwz}~}|}~{{{{{|||─││┐└─{ywuvwwwxttsrrrolljijkkihjkmosvusommoqv}└┤┬┤┘│}||{zz|┌┘┬├┐│─~}~┐┤┬┬├┌zxxz~}zywtsvwx|├┬█▄├┌┌─w}┐┼▒≥÷║═╒╒║ё╗╚╙╚╛╛╜╜╝╞╠╟╠╡Ё╣╥╥╦╩╩╪©ююаббцдегхииклллмнопясттстувьызззшэщэшшэээщччщщщщщччччччччччъъъЮЮЮЮЮБАБЦБАБДББЦЦЦБЦЦЦББББББББББББАААББББББББББАЮЮЮААЮАБАЮъАББББАЮъчщэшзыьвввьвжжуттуутсссряоппооонлклкйиххфеффедццббдццццба©©юаабцб©©©©©╬╪╩╨╨╩╩╨╧╧╩╫╩╤╣╢╠╝╝╚╝╞╠ЁЁЁ╡╠╞╠╠╝╚╘╗╖╕╓ё╓╔╗╜╠╞╚╖╒²≈⌠▒┴└─│┐└├▀▐░▌▄┼┴┤├┘┘┘┘└┌─~|}}{yyyvsuz│─{}│┘├┘┘┬┤┘┐┌┌│~{|}~~│├▀██▄┼┴┬┤┘┌zusuuy┌└├└│┐┐─~|{zzzzzy|~─│││┐└┌└└──┐├├┤▀█▄█░▒▐▒▓⌠⌠⌠■√≤⌠∙∙■⌠∙≈≤ ≤≈≥ ⌡²·═║╓╘╛╚╚╚╛╜╝╞╟╡╣╥╦╨©цедцддфхийклмнопоноруууттвшэшшэыввжужуужвьыььспнннмммккллккйиииихгфеегфеддцба©юаю©╫╫╫╪╩╨╨╧╧╦╥╤Ё╠╠╠╠╡Ё╡╠╞╞╞╟╠╠╟╞╝╛╚╙╙╘╘╗╖╕╕╔╓ёё╒║═÷·°⌡⌡⌡  ≥≤≈≈≈∙∙∙▓▓⌠░▐▐▌█▀┴░P3\Z\_`bfjlpqrtwyz{}─┌└├┬┼█▄█▐░░⌠■■∙≈≈√≈≥  ⌡²··÷÷║║╒╒╒╒ёё╕╔╕╗╘╘╘╙╚╚╚╚╛╛╜╜╝╞╟╠╡╡╡╡╢╢╣╤╥╦╦╦╧╧╨╨╨╩╪╪╨╪╬©©©юаддцццдефеефффгххгххиййкклллллммммнпсжжустссссстттжжжжввжтромкихиггххххггцдца╬╫╫╬╧╨╪╪╪╪╪╪╦╢╞╛╚╙╗╕ёё╓╔ё÷²²⌡ ≥≤≥≥≤√⌠▒▌▄▄▄▀┴▀█▌┴┘└┤┴┴┤└└┤┘┐┘┤┴┼┴├┌~{wussssstyyxututqortronprqrrrqrtwsportuuw|ywwwusruxz|{{{|zzzz{{{{~||─┘┘│|{yxyzywwuutssrpmollnomklmoqsuutqmmnorx┘┴┤└zxwxzzzz~┐┤┴├└┐┌|{|}┌┬┴┬├┐}zxy|}zwvvtqqqtz┘┴▌▄├└┐─{~┐┴▒ ÷║╒ё╒═║╕╘╘╚╚╛╜╜╜╝╞╟╠╡Ё╢╤╥╦╨╧╨╫©ююабцдфгхггйкллмнпяпярттууувьыззшшээшшээээчччщщщччъъъъъъъъчъъъЮЮАААБББЦБАБЦАБЦЦЦБЦЦЦЦЦЦДЦБААБЦДДЦААБББББЦЦЦЦБААААААААААЮЮАББББААъчщщэзыьвввьвввжттувжтсряяяппппонлкллкййхгегфедцббаддцццба©юю©©ацб©юю©©╬╫╪╩╪╩╨╧╧╧╨╩╧╢╡╡╟╝╜╙╚╜╟╡ЁЁ╡╠╞╟╠╞╜╚╙╘╗╕╓ёё╔╗╚╛╙╖╓·≤■▓▌┘~}~}}~├┼▌▒▒▌▄▄┼┬┤├┘┐─~|yvuuvxz}xssw|─z{─┤┴┘┘┴┼┬└┐└└┐│─}{|└┴█▌▌▄▄▌▐▀├wuvuw├└├└┌└└─}|||}}{ywz|│││┌┌││─│┐└┌├┴▀▀▄▌▐▌▐▒▓■■√≤⌡≈≥≤√■√≤ °  ⌡°°²·÷║╕╚╜╚╙╘╚╛╜╜╜╞╡╣╣╥╪бфедцдегхиклмнопонортуууувшээшшывьжужуужвьыььтпмллллмлллккйййиихггфеехгеддцаюааю©╬╫╫╫╩╨╧╧╧╧╦╥╣╡╟╟╠╟╠╡╡╠╞╝╞╞╟╟╟╞╜╚╘╘╘╘╗╖╖╕╕╔╓ё║║═÷÷·°⌡⌡⌡ ≥≤≤≈≈≈∙√∙▓▒▓░▌▌█▄┼┴░P4\[\__beiloqrtvxyz}│┐├┤┼▄▄▄▐░▒■⌠⌠∙≈≈√√≤≥≥ °²···═║║╒║╒╒ё╓╔╕╗╗╗╗╘╚╚╚╛╛╜╜╜╝╝╞╟╠╠╡╡╢╢╣╤╥╥╦╦╦╧╨╨╧╧╩╪╩╪╬©©©юаццццдеефеефффгххгххиййккллккллммлнятжжуссссссттттжжжвьвжтромкиххфффффффеедца╬╪╪╪╪╪╫╫╫╪╨╧╡╟╞╜╛╘╕╓╓╓╔╔╓═²⌡≥ ≥≈≈ ≥≈∙⌠▐█▄▄▄▀▀██┴┘┘┤┬▀┴└└┤├┘┤┬┼▀┼├│}{zwutsqqruxxutwwspsutpmlmoqrsrstvrppsvxz|zxxwvrqquy|}{yyzyz{zzyyy{{─┐┌}yxwwz{ywuvuutsrqprporrnlmqsttsrqooqrru{┌├┬└ytstuwz{y{│├┤┘└└┐{z{}|─┘├┤├┐|xvx{|yvtvtqpqt{└┴█┼└└└}└┼⌠ ÷║╒╒║÷║╔╗╙╙╚╛╜╜╜╝╝╟╠╡Ё╢╣╥╦╧╧╧╪╫╬©юццдффггфийкклмопяпяртжжувььызшшэчээщщщщччччччччъЮЮЮЮЮЮЮЮчъъЮЮАААББЦЦБББЦББЦЦЦБЦДЦЦБЦЦЦЦББЦДДДЦБАБББББЦЦЦЦЦББААААААААААААБББАЮъчщщэшзыььььввьвуттжуутряяяооопонлйккккйигфффедцббадцццццаюа©╬╬ацб©юю©╬╬╫╫╫╪╩╧╦╦╦╦╦╣╞╝╞╝╜╛╘╘╚╝╡Ё╢Ё╡╟╠╠╟╝╛╚╙╕╔╔╕╕╔╓╔╖╕╕╔═≥■▓░├~}|zy{┘┤▄▒▓░▌▌▌▀┬├└─}{|zvtstwz}xttvy{||}│┤┬┘┘┬▀┴├┐┐┘├┤└~{}─│┘┴┼▀▄█░⌠░┼┘~zxvx~┌└┤├└┘┐}~───}zwy{││───────│┐┌─┘┤┬┴┼█▌█▐░▒⌠■∙≈≥≥  ≈∙≈ ⌡°  ⌡²°°°·═╔╗╙╘╗╗╙╚╛╜╜╜╟╠╡╢╧юегедефгхйкмнноооноятууууьшэшзшывьвувуужвьыььтпмллкклмлкййииийхггггфдгфедццаюбаю©╬╫╫╫╨╧╦╦╦╦╥╤╢╡╟╟╟╟╟╠Ё╡╟╞╞╝╜╜╞╝╛╚╘╗╗╗╖╖╕╔╔╓ё╒══÷÷÷·²°⌡  ≥≤≈√√∙■∙∙▓▒▒▐▌▌█▄┴┴▐P5][\__beiknpqsuwxz|~─┐┘├┴▀▀▀▌▐░⌠⌠⌠∙≈≈√√≤≤≤ ⌡°²²·÷═║║║╒ё╓ё╓╔╕╖╗╗╗╚╚╚╚╛╛╜╝╝╜╜╝╞╠╡Ё╢╢╣╤╥╥╦╦╧╨╨╨╧╧╨╨╩╪╫©©ююааацдеееееееффгххгххииййккйййклммкмпсжжутттсстттутужжвьвжусолкйихфееффффефдаю©╬╫╪╬╫╫╬╬╫╧╤╞╞╞╝╚╗╕╔╔╔╔╔╓║² ≈≥≤∙∙≈≈∙∙■▓▐▄▀▄███▄┬├├┘┘▀┼┤┬┼┴├┤┤┴▀┼├│~|zxvtrqprswxuuxxutuvuromkpqrtttssqqsw{}~~vwxxtppqv{──|xxxy{}|ywxy~||─│}zyvuvy{yusuttsrrrsvsstsommrssqooonpsttw}┌└┐ytpqsvv{}yy~┐└┐└└┐zyzy{─┌┐┘└}vsrvz{xvuvtrsux}└┤┼┤┐└┘│~─┘▄■ ²÷║║═÷║╔╘╙╙╚╛╜╜╜╝╝╞╟╠╡Ё╢╤╥╨╨╪╫╪╪╬аццддеффгийккклмняпоясужжввьзшшээчщщччщчъччччччъъъъъъъччччъъЮЮАААББЦБББББББЦЦББЦЦДЦААБЦЦЦБББББАААББББББЦЦББББББААААЮАБББАББААЮъщщээзыьььььввьвустстутсрряоооонмкииииййигффедццббббббцццбабю╬╬юцбююю©╬╬╬╬╬©╫╨╧╧╧╦╥╢╝╜╝╜╛╚╗╗╙╝╠Ё╢╢╢╠╠╡╠╞╛╙╙╔╔╕╘╘╕╓╓╓╓ё╒÷≥√■█├~}{{}─┌├▀▌▐▌█▄┬└┌─~||~}{wuuxzxutvxxwxz└┤┬┤├┘┬┴┬┘┐└├┤├─}││┌├┘┴▀█░▓▒▌┼├│|y}|┌┤┴┤├│}}│││┌│~zxy{~~~~│─│┐└┐┐┐└└├┴┼▀▌▌▒⌠■■√≤ °° ≥ ²·² ≥⌡²²°⌡²÷ё╔╕╖╗╘╘╙╛╜╜╜╝╞╠Ё╥╫дггефффхйлмнноонноястуужьзэшзшыььвувуужвьыььтпнммлккмлкйиииийиггхгфефедцццбабаю╬╫╫╫╫╨╧╦╦╦╦╥╤╢╡╟╟╞╞╞╟╡╠╠╟╟╝╛╚╛╛╛╚╙╘╗╖╖╕╔╓╓ё╒║═÷÷÷÷·²°  ≥≤≈√√∙⌠▓■■▒▒▒▐▌▌█▀┴┬▌O4][\^^`dgilnqsuvxz|~─┌└├├┴┴┼█▌▐▓▓⌠∙≈≈√√≤≤≤≥ ⌡°²²·÷═║║╒╓╔ё╓╔╔╕╖╗╖╘╘╘╙╙╚╜╜╝╜╜╜╝╟╡ЁЁ╢╣╤╤╥╥╦╧╧╨╨╧╧╧╨╩╪╫©ююаа©юбцеееееееефггхгххиийййийййклммкмпсуууттттссттттжвжвьвжусолййигфефгххфедбю©юю©╬©╬╫╫╫╩╦╣╠╟╝╛╘╗╗╘╕╕╔ёё║²≥√≈√■⌠■■⌠■■▓░█▄█▌▌█┼┤├├└┌┬┼▄▌▐▀┘└┘┬┼┴┘─}{ywutsqrtuxywwxwuvvvuuspnssttutsrqtx~│┌}vwxwsqqtw{──}yxxy|~}zxxy|{||z{xvvyzwspsrrrqqrtvvutsqpnqqpnmoooorttx│─|yuqpruxy}}yx|│┐│┌┐┌{yzx|┌┐┐┘┌ytrrw{{yyvxutwz|~┌┐┘┐│┐└─~│├▌■≤ °÷÷÷÷╒╔╗╙╙╚╛╛╛╜╝╞╝╞╠╠╠╡╣╤╩╪╫╬╫╪©бцццдеефгййккклмняпопружжввьышээшэшшщщщщъчччччччъъчччччччъъъъЮЮАААБЦБАБББЦЦЦЦББЦЦЦБАЮАБЦЦЦЦБААББЦБББББББББББЦЦББАААААБББАААААЮъщщшзыьвввввжжвжтстррсттсряооннмлйииххииихгфедцццццааббцццбца©╫©ббаюю©©©©©©ю╬╪╩╨╧╥╤╢╞╝╝╛╚╙╖╗╙╜╟Ё╢╣╣Ё╡╡╡╟╛╙╘╖╕╕╗╗╖╕╕╔╒÷·⌡≤√√┴└─~~~─~─┌├┼▌▌▄┬┐──~~}~}yvuvvsqrvyxxyy─├┬┬┬├┐┘┴┼┬├┘┘└├││┐│┌└└┤▀▌▐▐▐▐█▀┬┌┐┌{│├┴┤└|~││││─~{yz|}}}}~─│~│└├┤└┐┌┌┐├┴┼██░⌠■■√≥⌡²···÷║═·⌡ ⌡²²°⌡·═╒╒╓╖╙╚╗╙╛╜╜╜╝╞╠╡╣╨юфххфффгиклмннннноястужжьзшшзшыьывувжужжьыыьспнннмккмлкйиииииихххгффедццццбаба©╬╬╬╫╫╩╨╧╧╧╦╥╥╢╡╟╟╟╞╝╞╟╟╟╟╟╞╜╚╙╚╚╚╚╙╗╖╖╔╓ёё╒║═÷·····²° ≥≥≤≈√∙∙⌠▒▒▓░▒▒▐▌▌▄▀┬┬▌O3[YZ]\_bfgjmortuxz|~│┐┘┘┬┴┼█▌▌▒▒▓⌠∙√∙√≈≤≤≥ ⌡°°°··═║║╒ё╓ё╓╔╓╔╖╗╗╗╗╗╘╙╛╜╝╝╝╜╝╞╟╠╡ЁЁ╢╣╤╥╥╥╦╦╦╧╨╨╨╨╨╩╫©юаббаабцддееееееффггхххиийййййккллллмоястуттттсссссттжвввввутрнкййигееегххфдцбаюююааююю╬╨╤Ё╡╡╞╛╙╙╙╘╗╖╕ё║║═²≤≈∙■■⌠▓▓⌠■⌠▓▒░▐░░▌▄┴├┤┬┤┘┬▀▌░░┼└└┘┬┼┬└~{zyxwvutuwwyzzyxwvuuuvvusrttutttuwwy}│└└│~{xvtssuxy{}~}|{zyz{{zyxwyyz|}}||zwvxywroqrstsqrttvvssttrqpomnpppqtuuy{wurqqtx{}|yvvz│───│|z{}}─┌│┌ywttxzyy{z{xw{~~│─┌┌┐┐─┌└┴▐■∙≤ ²²·═╒╔╖╘╙╙╚╚╚╛╝╞╞╟╠╡╡Ё╣╥╩╩╩╪╪╫©бабцдефффиийккклмоопяртужжжвышэшшшззэщщчъччччччччъъъъъъъъъъъъъЮЮЮЮББААБББЦЦЦЦБББЦЦБААБЦЦБДДЦБББЦЦЦЦЦБББББААБЦЦББАЮААББББББББАЮъчщшзыьвжжжвжужутстррярссрппонммлкййииииихггфедццццбббцддцбцб©╫╬юбаююююююююю©╬╪╩╦╤╣╢╟╞╞╛╙╙╗╗╙╜╞╡╢╣╣╢ЁЁЁ╠╜╙╙╗╖╕╖╖╕╔╕ё÷°⌡≥√⌠▒┴└~z{}~──│├▄█┴┤┌───z}}zvuuutqquxx{~│└┤├┘└└┘┬┴┬┬┼┼┤┤└┌┐┐│─│┐└┬█▐█▌░▒▐█┴├├┘──└┘└┌~}─│─|z{||{{}─┐││└┤┴┬┘┌┌┐├┬┼▄▄▐⌠■⌠∙≥ °²·═╒║÷·°°°⌡  °÷║╒╒ё╕╙╛╘╙╚╚╚╛╝╟╠╡╢╤╪дийгффгикммнннннояртжввышэшзшыьывжвжуужььыьспнннмкклллкййиихиххгфффедццццбааю©©╬╬╫╪╩╨╧╧╧╦╥╤╢╡╟╟╟╞╞╟╟╞╞╝╝╝╜╛╙╚╚╚╙╘╗╗╖╕╓ё╒║═÷·²²²²²°⌡ ≥≤≈√∙■■■░░░░░░███▀┼┬┤▌O2ZXY[[]`dfiloqsuxz{}─┌└┘┬┴▀▌▐▐▒▒▒▓■■■∙≈≤≤≥ ⌡⌡°°··══║║╒ё╓╔╔ё╓╖╗╗╗╗╘╘╚╛╝╞╝╝╝╞╞╟╟╟╡Ё╢╣╣╤╤╤╥╥╥╧╨╩╩╨╨╩╫©абббббббцдефддееефггхххииийййкклллккопрстттттссссссстжвввввутрнйийифддегххецццца©©юбацц©╥╠╞╞╠╝╚╙╛╛╘╔╖╕ё═══°≤≤∙■∙■▓▓■∙⌠▓▓⌠■⌠▓█▄┴├┤┼▄▀┴█▌▐▌┬└┘├┬┼┬┐}yx{zyxwuwyxy{|{yxystuvvusrstutsty}}~│┐└┌─ztrsuwz{z{|~~}xwwxzzwuwwwy{}|{zwvwxvroqruwurrtrvvsswwtrqpnoppouwxw{─~xusqqswz}{urty~─~─|{{│|{}|{|zxutvwvwz}~|{~───│~─└┘├└│├┤▄▒■∙≈ ⌡°·═ё╓╕╖╘╙╙╙╚╛╝╞╟╡ЁЁЁ╢╤╦╨╧╦╨╪╫╬ю©ацеффффгхийййклнопрсттужжвьзшшззззэщщчЮщщччччччъъъъччччъъччъъЮЮъАБАЮБББДДЦЦБАБЦББББЦЦЦБЦБББАБББЦЦЦБББААЮАБЦЦЦББЮАБББАБББББАЮъчщэшзьвжжувууууссттрппрряпяпнмллкйккиииихххгфедцццццццддцбцбю╫╫©ааюааабааюююю╬╪╧╤╣╢╟╟╟╜╛╛╚╘╙╛╞╠Ё╢╣╢ЁЁЁ╡╝╚╙╗╖╖╗╗╕╓ё÷°  ≥■▌┼┼┘|vx}|x|~|│┴┼├┤┌─│─~}~{~─}yxxxwsqsux}┌├┐┌└┐│├├┤┘┘┴▐░▌┴┤┘┐┌─┌│┘▄▐█▌▒■▒░▐┼├┘└│┐┌─│~}─}~─│┌─}{||{z{~┌├│───│┐├┬┼┤┐│┌└┤┴▄▄▐⌠⌠▓⌠√≤ ⌡²═║÷°²²²°≥√≤⌡÷║╒║╒╔╘╚╙╙╙╙╙╚╞╡╠╡Ё╢╨бикхгггйлмннннмнояртжььышээзшыьыьжвжуужььыьспмммлклллллккййгхихфефффедцццбааю©©©©╫╪╩╨╧╦╦╦╤╤Ё╠╟╟╠╟╟╠╡╟╝╜╛╛╛╚╛╚╙╙╘╘╗╗╗╕╓ё╒║═÷²²°°°°⌡  ≥≤≈√∙■■∙░▐▐▐░▐▄▄▄┼┴┤┤▌O2YXZZZ^_adilmnprux{|}─┐└┘┘┤┼▄▄█░▒▒▒▓■∙√√≈≈≤≤ ⌡°²²·÷═║║║═ёёё╓╔╔╕╖╕╖╗╙╚╚╚╚╙╛╛╛╛╞╠╠ЁЁ╢╢╢╣╤╦╥╥╥╦╦╧╨╨╨╩╪╬©абцаббцддддеффгггхииххххиййийккклммммпсрсусррсрррстууувььжутянкйигффдбдгхфцццба©юаца©╪╦Ё╞╝╝╞╛╚╜╜╚╗╘╚╖╒══÷²⌡√▓▒■∙⌠▒▓⌠▒░░▓■■⌠░█▀▀▄█▄┼┼┬┬▄█┴┘┐┤┴┬┐}|{z{zyxy|~zy{{xwwtutsruwvrsqruxy}┌│}zz}─┌}yvvwxz}~{{─┐┌~||xwy{ywvtuwxxxxxxwvrooqtssttutsssptwuwxtonnonmnppv|─~zvutsrty|||utvvx|}┌│~~}|~}zxy||xtvvxxvy|z{|{{┐┐}─┌┐┘┤┤└├▀░▒⌠∙≤≥⌡²÷║╒ё╕╖╙╘╗╗╘╚╞╠╠╢Ё╟╠╤╨╧╥╦╧╨╪╫╬©юабдееееййийклммнпрряястжжвыызззыызшэчччъъъчччччъъъъъъъчъъЮЮЮЮЮъАБДЦБАБЦЦБББАБББББАБЦЦЦБЦБААБЦБАЮБЦЦБАААЦЦБАБЦБАЦББАААББЦЦБББАъчщщэзвууувжутууутссррррряонмллллмнмкихххиихгфеедцедцццццбаббаююабааааабббц©©©╫╪╧╢ЁЁ╡╟╞╝╛╙╘╚╝╟╠╠╡╡╢╣╢╡╟╟╝╛╘╖╕╕╖╖╓║÷⌡≥≤√⌠█┤┐┌}tqsuuuyzx{┐┴┴┬┘┐┐│~}}~}~~yyzy|zvtuy}~┐┌┘┐─│┐┘┤├┘┬▐■■▄┬└┐┐│~||─┤▄▌▌▐░▓▓█┤┘┤┬└─}~│┐┐┌~z~┌┐│||}}{y{│┘}~───│┐┘┤┤├├├┤┴▀▐▌█▌▐░░▒⌠■√ ²÷²°    ≤≈≤°ё═÷║ё╓╖╘╘╗╘╚╚╚╜╞╠ЁЁЁ╣╪дккхфиййкннммноопствыызээшшзыьввввжутужвжуспнммммммллкккйийихгфеедффеббцбюбю©©©╬╩╧╩╨╦╦╦╥╤╢Ё╡╟╞╞╟╠╡╞╞╞╝╝╛╚╚╙╙╙╘╖╕╕╖╖╔╓╓╒÷··²²²²°°⌡⌡≥≥≥≤∙■⌠■▓▒▐▌▌▌██┼┴┼┴┴┴▄Q2XXYYY]__cgjkloqux{|}│┐┘├├┬┼▀▀▄▌░▒▓⌠■∙√≈√√√≈≤≥ ⌡²²·÷════ёёёё╓╔╕╕╖╗╘╙╚╛╛╚╚╛╜╛╜╞╠╠╡Ё╢╢╢╣╤╦╥╥╥╥╦╧╨╨╨╩╪╫╬©юаббцддеееффггггхихххххийкййкккллмммясрсусррссрстутужвьвжттямкйихфецбцфгебцббаюабцб©╨╤Ё╠╝╛╝╜╛╜╛╚╘╘╘╔║÷÷÷·²≤⌠▒⌠⌠▓▒⌠▓░▐░▒▓▓▒░█▄▄▐░▌▄▀┴┴▀█▀┬┘┤┴┬┐~|{zxxyyz{}||~~yusprrrsvxwtusuxz{~┌~{yz}~─{xwxz|~│┌~─┌│~}ywwz{zvurtuwxxwvzwtsstsqrsvwwusrqpsuqsvsnmnppoopuy}~~}zvutssw|~~ytrtuw{~~┌│}{{yvuwzzvsuvz|{}~z{}~~─┐┌{|~│┘┤┤┘┴▄░▒▒■√≈≥⌡·║╒╓╖╘╙╙╙╙╙╚╜╞╟╡╡╠╡╤╧╧╦╦╧╨╩╫©©юабцдеффииийкллмнояряястжвьыззззззшээщщчччччччччччъъъъъчъъъЮЮЮЮЮАБЦЦБАБЦЦББББББББАААББББББАББЦБАББББАААБЦЦБААЦЦАББББББББЦББББАъчщэшывууувжууууутсррррррянннммлллллйиххиийигффеддедццццбббаааааааааааааббб©©©╬╪╨╣╢╢Ё╠╟╞╝╚╘╛╞╠╟╟╡╢Ё╣╣Ё╠╞╜╛╙╗╔╕╘╘╔║²≥≤≤√■░┼┘┌|toosutvwvy│┤┼┼┤├├┘┌~~|~|{zxyz{zy{}~─|}│──┌┐┘┤├┘┤▄▐▐┴├┌──┌┌┬▀██▌█░▓▌┼┬┬┬┬└─┌└└┐┌}│┐┐z}}~~|{}─{}──┌└┬┬┴┬┬┬┴┼▄▄▄██▐░▒▓⌠∙≤⌡°⌡≥ ≥≤≤≈≈≥²║══╒╓╔╕╗╘╘╙╚╚╚╛╝╟╠╡╡╢╧бхкигхийкмлклнооятувыызээззыьввжввжууувьвжтямммммнллкккййииихгфееееедббца©аю©©©╬╪╨╨╨╧╦╥╤╣╢╡╠╟╟╞╟╟╠╟╟╞╞╝╜╛╚╙╙╘╗╖╕╕╖╕╓ё╒║÷÷÷²²°⌡⌡   ≤≤≤≈∙■⌠▓▓▒▐▌██▄▄▀┼┼┤┬┬▀Q1WVXYY\^_bfijloqtwz{|┌┐├├┬┼┼┼▄█▐░▓⌠⌠■∙≈≈≈≈≤≤≥  °°²·÷══║╒╒╒ёё╓╔╔╖╗╘╙╙╚╚╚╚╜╜╜╜╞╠╡╡ЁЁЁ╢╣╤╥╥╥╥╥╦╧╨╨╩╩╪╫╫╬©©ббцдддеееффффгхиххххийккйккккклмлмятстусррсссстусувььжутспмкйихгфдбдфгецббаабццца╪╤Ё╡╟╜╙╚╛╜╚╙╙╘╗╖╔╒÷··÷÷ ∙▒▒▒░▒⌠░▐▐░▒░▐█▐▌█▌░▒░▌▀┼┴┴┼▄▀┬┬┴┤┌}zzzwwxz|~~~{{~}xusqoppqtwwuvvy}~}}~}zz{||||xwxz}┌┘├┐───~~}{yyyvtrqrtvyywuxvttuusqsuwwvtrqsrssppsroopqqpprz{|{{ywtutsty~─xrqssv{~}~}}yxxvvwzzvssu|──│zz~││┌┌│~yy{└├├├▄▌░░▒⌠∙√ °═╒╓╔╗╙╙╚╚╛╛╛╛╜╞╟╠╠Ё╣╦╨╧╧╧╨╩╫©юююацдеффххиййкллмояяярстжвьзшшззшэщщээщччччччччччччъъъъъччъъЮЮЮЮЮАЦЦБАБЦЦБББББББААЮАБББАББББЦББАЦЦБАААБЦБББАБЦЦББЦЦЦЦББББББББАъчээзьжуужвжууууттссрррряяннннммллкййииииийихгффедддцддцбабю©юабаюбааюааббб©юаю©╪╦╣╣╢╡╠╟╝╛╘╜╟╠╞╞╡╣╡╣╤╢╠╞╜╚╛╗╕╖╚╚╖╒°≥≤≤√∙▓█┤┐}umjnttuuux~┘▀┬├┘┤┤┘┌─}~─~|ww{~~}}─│||}~│└┐┘┤┬┤┤┼┼┴├┘┐┌──┌┘││┐├┤┬┴▀█░⌠▒▌█▄▀▄┴└┐└┘┘└└─┌┐┌z}|~││}{{z}─│──┌┐┤┴┼▀┼┼┴┴┴┼▄▄█▌░▓▓▓■≈  ≤√≤≈√√√≈⌡·═÷═ё╓╔╔╔╗╗╙╚╛╚╛╝╞╟╡╡╡╥©еккиггйккйклнопртувызшэшззыьвжжжжжжужвьвжуямлмммнлкййййихиххгффеедддцбба©ю©╬╬©╬╫╩╨╨╨╦╥╣╢╢╠╠╟╟╟╟╟╟╠╟╞╝╜╛╛╚╚╙╗╗╖╖╕╕╔ё║║═÷÷║·²° ≥≥  ≈≈≈√∙■▓▒▓░▌██▄▀▀▄┼┴├┘├┴O0VUWXY\]_aehiloqruxyz}─│┐┘┤┴┼▀▄▌▄▐▒▓▓▓■√≈≈≈≤≥  ⌡°°°²·═║║╒╒╒╒ё╓╓╔╕╕╖╗╘╘╙╙╚╜╜╜╜╞╠╡╡╡╡Ё╢╣╤╥╥╥╥╥╦╧╨╨╪╪╪╫╬©ююабббцццддеееефгхиххииййкйкллкклллмруттусрссссстусжьыьжутспмкйихгфеддфффдцбббддцб╪╥╡╞╞╝╚╗╘╛╛╘╗╗╗╖╗╖╓║÷·÷═⌡√▓▒▒░░▓▐▐░▒▒▐▄▀█▌▐▐▌▌█▌┴┴┤┘┤▀▀┴┴┼┬└|||wwvx{}||zy{zusutppoprvyzz|┌│~{z}}}}{yy{xz|~─┌┘┬┤┘│~~~│~zwuttspqrvxyvtstutrqstvvusqprsvtsrqqrqpqrqoorv}|zxwwututtuz~~|wpopptz~z{yy}|yxyyz{|zurqt|┌┌┌zz}─┌┐┌~{yxz┌┐└┤█▐▒▒▓∙≈≤²÷╒╓╔╕╖╘╙╚╛╛╛╛╛╜╟╟╟╠╡╢╥╨╧╧╧╨╪╬юа©юабцефгххиийклммояррстуужьзшшшшшэчщэшщччччъъъъъщщччъъъъччъъЮЮЮЮЮАБЦБББЦЦБББББББААААБББААББЦЦББАЦБББААБББББАБДДБЦЦЦДЦЦББББААБАЮчщшывуужвввжжуутттсрррряпммннмллкййййииххйихггггфдддддцбюаюююаааюббаааббццабцбб©╩╣╣╢╡╠╟╞╜╚╝╟╟╞╟╡╣╢╣╢Ё╡╟╜╙╛╙╗╘╚╚╖ё÷°⌡ ≈∙⌠▐┼┘wmgiotsstuy─┬┘┐┌┐├┤├┘││┌│─~yy|~~~─└├┌─~}│┘└├┴▀┼┴┴┬┤┤┤┤┤├└└┘└└┐┐┌┐├┬█░⌠▓░▐▌▄▐█┴┤┤┬┤┘┐│┌│─{~z}│┐┐─}{{~┌┐┐┌┐└┘┤┴▀▀┼┬┤┬┼▄▄▄█▐▓▓▓■√≥≥≈∙≈√√√≤ ²═÷÷═╒ё╓╓╓╔╖╘╚╛╜╝╞╝╟╡Ё╡╣╪цйлкггйлйикмопяртужызшшшззыьввжжжжжужввввтпммнммллкйййиихххггффффддцццбю╬ю©╬╬╬╬╪╩╨╩╩╧╤╢╢╢╠╠╠╠╟╟╞╞╟╞╝╜╛╚╚╚╚╘╗╖╖╖╕╔╓╒║║═÷÷═·²° ≥≥≥≥≈√√√∙■▓░░▐▌██▄▀▀┼┴┬┘└└┬M0VUVXY\]]_bdfiloruwxy{}~┌└├┤┴┼▄█▄▌░▒▒▓⌠∙∙∙√√≤≥  ⌡°°²·÷║║╒╒╒╒ёё╓╓╔╕╕╖╗╘╘╘╚╛╜╝╜╝╟╡╡╡╡╡╢╣╤╥╤╤╥╥╦╧╧╨╩╩╪╫╬©аааабббцццдееееегхиииииииийкллккллммруттуссттссрстувыыьжутспмййихгфеддеееедццдедбю╥╢╟╜╜╛╚╘╘╛╛╘╖╗╗╕╘╗╔║·²²·⌡≤■▓▓▒▒▒▐▐▒⌠▒▌▄▄▌░▒░▄┼┼▀┤┤├└┘┴┼┴┼▀┼├┌~~~wvuvy{|{zy{yututsqppsy─┘┘└┐┌|zz|}~}zxy|{~│┌┌└┤┼┤├┐───~|yvuvvwooqsvvtrpqqpoortvuspoqtvvtpqtusqqrromov|}{ywwvvvwvvwz|{xtnlllpx}zyvv{|zy{|~}ysoqt|┌┌│─}{|~─┌│|wwwz~│┌┘┼▐▒▓▒▓∙≈≤²═ё╓╔╔╕╗╙╚╚╚╚╛╜╝╡╠╟╟╠Ё╥╨╨╨╨╩╫╬юаюююабдфгииииикмонпрстуужтувзшэээзэщщээщъъъъъъъъъщщччъъъъччъъЮЮЮААББЦЦЦЦЦЦБББББЦЦБАААБЦББАББББББАББББББААБЦБАБДДЦЦЦДДДЦЦББАААААъчщэывжжввжжжжуууутсррряпомммммлкккккййиххххггххххддддддбаюаааюююабббббццддбцедца╪╤╤╢╡╠╠╟╝╝╝╝╞╟╠Ё╢╤╣╡╠╠╡╝╙╛╚╙╚╚╙╖╔ё÷²°≤√∙▒█┬┌{pfeiqpqrrsz┌┘┐││└┤┴┴┌│┐└│││~~~┐┘┘┘└└│}┐┐└┬▀▄┼┴┬┤┴┬┬┼▀┴┬┬┬┤┘┌─┌┘┬▄▐░▐█▄▄▀▌▌█▀┼▀┴├│}{~}┌┘├┘┌}─┐┘┘└└└┐┘┤┼▀┼┴┬┬┼▀▄▀▄▌░▒▒▓∙≈≤≈√∙√√≈ ²═║÷÷÷═║ё╓╓╔╖╘╚╛╜╞╞╝╞╡Ё╡Ё╧юиммихклййлоппярсужышээшзззыьвввжжуужжввжтпннонлклкййййииххгфффффдццццбю©юю©╬╬╫╪╩╩╩╩╧╥╣╢╢╠╠╠╠╠╟╞╞╟╞╝╛╚╚╙╙╙╘╖╖╖╖╕╔ё╒╒╒║÷··²²°⌡ ≥≤≈≈√∙∙∙■▓░▐▌████▄▀┬┤┬├┘┘┬M/UTVXX[\]_acehlnruwxx{}~┌└┘├┤┴┼┼▄▌░▒▒▓⌠■■∙∙√≈≥ ⌡⌡⌡°²·÷══╒╒╒╒╒ё╓╓╔╔╕╖╗╘╙╙╚╛╜╜╜╛╞╡╡╠╠╡Ё╣╤╤╤╤╥╥╦╧╧╨╨╨╨╩╫╬юаббббцццдееееефгииииииииийккккклмммртстутсстсррстжвыыьжутспмйиигфедццццддеееедб©╫╣Ё╟╜╚╚╚╚╚╛╚╙╗╗╖╖╗╕╓║·°°°°≥√■■⌠▓▒▐▐▒⌠▓▌▄▌▐▒▒▐▀┬┬┴├├┘└├┬┬┬┤┤┤┘│|{|yxwy|~~~wwz|yxwuppprv|└▀▀┬┌|xwy{yz{|{yz}|─┐┐│┌┘┬┬┬├┐┌│─z{zxvvutonnpqrpoqnllnpqpsrrrrtuvvtopxzvtoppmmry~zwttuuuvxxyyz{xusmlmlpx|{yvw|}{|~─││~yspsu|│──│─}}}│zutvy}─┐┬▄▐▓⌠▓▒⌠∙≈ ²║ё╔╔╖╗╙╚╚╚╚╛╝╞╡╡╠╟╠╢╥╨╨╨╩╪╬©ааааююацегиййиикнпояртужжжтувышэщщзшщщэщчъччъъъъъЮчччъъъъъъъъъЮЮАААБББЦБББЦБББББЦЦББББЦЦЦББББББАББААББББАЮБЦБАБДДЦЦЦЦЦЦЦЦЦББАААЮъчщэывжжввжжвжжуууутсряпонммммллкклкккйиххггфггхххфеееедцбюаббю©юааабццддддбцедда╪╥╥╣Ё╡╡╠╞╞╝╝╝╟╡ЁЁ╥╢╠╟╠╡╞╚╚╚╚╛╛╙╗╕╓║÷²≥≈≈■▐┼┘uiddmoqsrrw~┐┐│─│└┤┤┐│┐└┌┐┘┐┐┌││┐┘└┌├┘┘┌||││┘┴▀┴┤┤┤┼┬┤┴▀▀▀▄┬┬┘┌│┐┘┤▄▐░▌▀┼┼┼▀█▌█▄█▀┬┐~~}}y{┌┌└├┬┬├┐─┐┘├┘└┐└└├┬┼▀┼┼┬┴┼▀▀▄█▌░░░▓■√√∙∙∙√≤⌡÷║║══÷÷═ё╓╓╕╗╙╙╚╜╝╝╝╝╟╡╡Ё╥╫фкмкйккиймппопрружыэщэшшззыььввжжужжжвввтпмнонлкмлййййииххгффееедцбццаюююю©╬╫╪╪╩╩╩╩╧╥╣╢╢╠╠╠╠╟╞╞╞╟╞╝╜╛╚╚╚╙╘╗╖╕╕╔╔╒╒╒ё╒÷²²²²°° ≥≈≈√√∙■■⌠▒░▐▌███▄▄▀┬┤┬├├├┬M.TSUWX[[^_`behknqtvwx{}~─┐└┘├┬┼┼▄█▌░▒▒▓▓∙∙∙√≈≤≥   °²·÷÷÷║║║║╒╒ёё╓╓╔╕╗╘╙╙╙╚╛╜╛╚╝╠╡╠╠╡Ё╣╤╤╤╤╤╥╦╦╧╨╧╧╨╨╪╫©юбббббццдееееефхиггххииииййкккллмммятстутррссрсстььььвжусспмйихгфедцбббцдефгеб╬╩╧╢╡╞╛╙╙╙╙╜╚╙╘╘╖╕╕╔╓╒║÷·²°² ≈∙∙∙■⌠░░▓■▓▌▌░▒▐█▄┼┴┬┤├┘┘├┤├┘┘┘┘┘└zxy{z{|}~~~vvy|{zyumorvy}└▀▀┤─yuuxzyxy}~|{{│└┌─│└┤┴┼┴├└┐~zy{{xutrponnmmmnnqolkmoonrqqrtttsvtnnvxttoonnqvyztqpqssssvxzzyywtpllnmpvzzywy~~─│┌│}xustv}│~│┌┌───}yuuvwz─├┼▀▌▓∙■▓⌠∙≤≤⌡═ё╔╕╗╘╙╚╚╚╚╛╜╝╟╡Ё╠╡╤╧╧╧╨╪╫©юаабаююацефхийкйкнопясужжжжуувьзшэщшшээщщщчччччъъъъччъъъъъчЮЮЮЮЮЮАААААББББАБББББЦЦЦББББЦЦЦБББББААБЦБАААББАЮБББАБЦЦБДЦЦЦЦЦЦЦББАААЮъщщшывжжжжужввжуужжусряпнмннммлллллккйййиихгффгггггффееедцабббаююююабцддддцацееец╬╥╥╣Ё╡Ё╠╟╝╝╝╞╟╠╡Ё╢╢Ё╠╠╠╞╛╙╙╙╛╜╜╙╗╔╒═·≥≈≤√▒▄├─xneagkqsrrv{│┌┌┌└┘┘││└└┤┬├├┘└└├┬├┐└│┌┌}z}}┌├┬┤┘┘┤┤┤┬┼┼┴┼▄┬┬├└└├├┘┼▌░▌┼┬┴┼┴▄█▄▄▌▌▄┬┐┐─~~z|┐┐┐┘┬┴┬├││┐┘┤┤└┌┘└└├┬┼▀▀┴┴┼▀▄█▌▐▒▐▐░▓■∙∙∙∙∙√ ÷╒║║║═÷║╓╔╓╖╘╙╙╙╜╝╝╝╝╟Ё╢╢╤╩бхммлкйиимоонорртуыщчщээзыыььвжжжжжжввввжяммннллмлйиийииххгффеееецбццаюа©©©╬╫╪╪╪╩╨╧╦╥╤╢Ё╠╠╟╞╞╝╝╝╞╞╝╜╜╛╚╙╘╘╗╖╕╔╔╔╒║║╒║÷·÷²°⌡ ≥≤≈≈∙∙■⌠▓▒▒▒▐▌█▄▄▀┼┴┬┤┤└└└┤L.SRTVWZZ]^_`cfjloruvwz}~~│┐└├┴▀▀▀▀▄▌▐░░▐■■■∙∙√≈≈≥ ⌡²····║║║║║╒╒╒ёё╓╔╖╗╘╙╙╙╛╜╚╙╜╠╠╠╟╠Ё╣╤╤╤╤╤╥╦╦╧╨╨╨╨╨╪╫©юбааааббцеееддегхффгхииййийккклммммясрсутяярррстуыьвввжтсспмйихгееедцббдееггеа╪╦╤╢╠╜╙╘╘╗╖╜╘╗╘╗╕╓╔╓ё╒║║═·²·⌡≤∙∙√√∙▒░▓■▓▌▌▓▒█┴┴┼┼┬┘┘┐└┤┤└┐┐├┤┤├│{xyyzz{|{zx{yz{yxwsmpv{}└┴┴├│|xxyz{yy~┌┌}y}┌├└│┌├┴┼┼┼┬┘┌|vvxxusssrponlkkmnpppnlkmourpqrrqousljpqnpponotywtrpoqsssssvyyxwuslhjmlmruwwwz─│─┌}~}yvtssv}│}|─┐┘└┌│~zxwwwwy─┬┼┬▄▓√∙⌠■≈ ≥°║╓╕╖╘╙╙╚╚╛╚╛╛╜╜╡╢Ё╢╦╨╦╧╨╪╬©юаацбюююбдефхклллмняясужвжжжжвьызшэээшэщщщщщщщчччъъъъъъъъъчАЮЮЮЮЮАААААААААЮБББББЦЦЦББББЦЦЦББББАЮАБДЦАЮЮЮАААББАЮАЦЦАДДЦББЦЦЦББАААЮчщщшьвжжууужввжужжжусряонмоонмммммкккйййккхгфффгффхгфеееддцбааббю©╬юбцдддццацфффею╥╤╣╡╡╡╠╞╜╝╟╟╞╞╠Ё╡╢╢Ё╠╟╞╜╙╘╘╚╞╞╛╘╖ё║·≤≈≈√▓█├│zqga_fnppqtw|│┘├├┤├┘}┐├┼┼┤┤┤┘└├┴┴┤┌~~│~{|~|─┘┤┘└┘┤┘┤▀█▀┬┤┴┬┴┴┬┴┼┴├┤▀▐▄┬├┤┬┤▀▄▀▄▐░▌▄┤┤┐││}│──┐┬┼┬├┐┐┐├┬┬┘┌┘└┐└├┬┼▀┼┼▀█▌░░░▓░▐▐▓■∙∙∙∙■■≥÷╒║║╒║║╒╓╔╓╕╗╘╘╙╜╟╟╟╝╟╢╣╣╥╩юелнмкйихлннморстуыщъщэщыыыьввжжжжвввввьвялкмммммкйиииииххгфееееецбццааа╬╬╬╬╫╫╫╫╩╨╦╦╥╤╢Ё╠╟╞╝╝╝╝╝╜╜╜╜╛╚╙╘╗╘╘╖╔╓╔╕ё║║║║÷÷═²° ≥≤≈≈≈∙∙■▓░░░▒▐▌█▄▀┼┴┤┤├┘│││┘K.OPPRVWWY[^`behkmortuwz|~─┌┐┘├┬┴▀▄█▌▐▐░▒▓⌠⌠∙≈≤≈√ ≥⌡²²°²÷·÷══║║══ё╓╔╕╕╕╖╖╙╙╙╚╛╜╝╝╟╟╠╠╡Ё╣╣╣╣╣╣╤╥╧╧╩╩╪╪╫╬юаббббббццдддддегифгхххххиййклмммнкняссррсярстссужыыьвжтсртпкииигецдддццдфххгц╫╧╥╤╡╟╜╚╙╚╙╖╖╗╘╙╙╗╔ё╓╒═÷÷═══·²≥■▓■√≈⌠▒▒▒▐░▒▐█▄┴┘┐└└└└┌~~─┌┐├┤└~{|}ywxyyww{zxvvwvurx}─┌├┤├└─{xxz{~{z|─┐┌─┌┐└┘├┬┼▀┴┼┴└││~{srtusnotsmkljjmoqnkjjkosqqqrrqpnsqlhhlnosonrvwutppqsuusqpvwvwwsqkeciopqsvvx|─┐┘┘┌┌}{{vqvwy}│─}~┐└┐┌─}{zy{{|│┤▄▌▐■≈■⌠√≥ ²·║╓╖╘╘╙╙╚╛╛╛╛╜╜╞╡╢╢╣╥╧╧╧╩╪╫╫╬адббаабцддффхикмннррстуужжвввызшшэшээээээээщщщэщчъЮъчъъЮЮЮъъъЮЮЮЮЮББББААБЦБББББББЦББАБЦЦБАББББББААББББББББААААААББЦЦБББББББААААЮчщэшыжувжууужжжжжжусяпппомлммммлкклкккййиихггихфеффгффгхеацццбю©юббббцеедбабдфиифб╪╧╣╡╠╠╟╟╜╘╜╠╟Ё╣╠╤╣╢╡╟╞╜╛╘╗╖╘╜╞╝╛╘╓═·°≥≈≈⌠░┼┌|zqa\afikosv{│┘┬▀┴┐│~│┐├┤├┬┤└┌├▀┼┘┌~|}~~─┤█┬└├├┘├▀▄┬┘┘├├├┤┼█▌▄▀▀▄▄▀┼┬├┘├┴▀█▌░░▌┼┤┬┤┐───│┐┬▀┬┐┐└┘┤┴┴┤┘┤├┘┤┬┬▀▌┼┴┼▌▒▓▓⌠▓▒░░▓⌠■∙■■▓▓≈÷╒║ё║═╒╔╕╔ё╔╕╗╘╘╙╚╜╠Ё╢Ё╡Ё╤╧╪бйннкихилмммопптувшчъщшыьвввжутуужввввжтпллммлллкйййййийихгфеееееедбаю©©©╬╫╪╪╪╪╪╨╦╥╤╣Ё╟╠╟╞╝╞╞╞╞╝╝╜╛╙╘╘╙╙╙╘╖╓╓╓╕╓╔╓║══÷²²°⌡≥≥≤√∙■■■▓▒░░░▌█▀▀▀┼┬┤┤└┐│─~┐L,MNOQVWXXZ]`adgjkmprtvx{~─┌┐┘├┬┼▀▄█▌▌▐░▓⌠⌠■∙≈≈≈≈ ≥ °°°²÷·÷÷═║║╒╒╒ё╓╔╔╕╗╘╘╘╙╚╛╜╝╞╟╟╠╠╡Ё╢╣╣╣╣╤╥╦╧╨╧╨╪╪╫╬юаццбцццддбдефффффгхххххиикккклллммортсрррярссссувыыььжусрспкииигедддцбцдфхгдю╩╥╣╢╡╠╝╛╛╛╚╗╕╖╗╘╘╖╔ёё╒═══║║║°° √■■∙∙▓░▒▒▐▐░▌▀▀┬┘└┘┤┤┐│~~~~~}~│└└┌}}yvwxxwwwy{zvtvz┌┐┐┐└├┘┐┐│~{yxy{~|z|─┐└└┴┴┬┴┼▀┼┴┤┴┤┌~~~|zvrpmkmrrlijijoqnjhilnqrooooponmqnjfeinprpprttrqppprsrpnmsuuwtpohbagnpruzz|~│┐┐┐└└~zzvtx}~│└┌~~┌└└┐┌─~}{|}}~│├┼▀▄⌠≈∙▓■≥⌡²·║╔╖╘╙╙╚╛╜╝╞╞╟╠╟╡╢╢╤╦╨╧╧╨╪╫╫©ацбббццдддефгиклмнрсстуууужвьыззззшшшээээээщчъъъъЮЮъччъЮЮъъъъЮЮЮЮЮЦББББЦЦЦБББББЦЦЦББАБЦЦБАБББЦБББАББББББББААББББББЦЦБББББББААААЮчщэшыжужжууууууууттрпоппонммммммллллкййихххггихгфгффффгхгдедцбааююббддддддаацфихец╫╨╤Ё╡╠╠╟╝╚╜╟╟Ё╤╡╤╣Ё╡╟╞╜╜╙╘╗╙╝╞╝╛╘╔║÷² ≈≈■⌠▌┤│ug\]adgkotz~┌├┴┤┐┐│~┌└├┤┘└┌│┐┤├┐─}|}}}│┐└└┤┼┤├┴┴├└├┤┘┘┤┘┘├├┴▀▀┴┬┼█▐░▐▀┬┤┤┤┴▄█▌▌▐▀┤┬┬├┌|─┐├┴▄█▄┤┤┤┬┴┴┬┤┤├├┬┴┼▄▌▀▀▌▓■⌠▓⌠▓░▐▐░▒▓▒■■⌠∙ ÷║║╒╒╒ёёёё╒ё╔╖╗╗╘╚╜╞╠ЁЁЁЁ╤╦╪аинмкхгйлммнпрррсжзчъчэзыьвввжууужжввввуямлмллклкйййййииххгфееееддбаю©©©©╬╫╪╪╪╪╪╩╧╦╥╤╢╡╟╟╞╞╟╟╞╝╞╝╜╛╚╙╙╘╘╘╗╕╔╓╓╓ё╓ё║══÷²²° ≥≤≈√∙∙⌠▓▒▒░▐▌▌█▄▀┼┴┬┤┤└┐│─~┌K+KLMOTVWXZ\^`cfhkmprsvx{~│┌└├┬┴┴▀███▌░▓⌠⌠⌠■∙√√√≥≥≥ ⌡⌡°·÷÷÷═║║╒ё╒╒ё╓╔╕╗╙╗╗╘╙╛╜╞╟╟╟╠╠╡Ё╢╣╣╤╤╥╦╦╧╧╦╨╩╫╬©юаббббцдддбдеффеееххииххийккккккллмортсрррярссрсувыыььвутсрокиихфеедцаабегхеа╪╧╣Ё╡╠╠╞╜╜╜╚╘╗╖╖╗╗╕╔ё╒║═══║══⌡²°≥√■⌠▓▒░▒▓▐▐▐█┴┬┤└└├┤┤│─~}}|z{}─└┘┐|xuuvwwxwxzzxw{─┼┼┬├└┌─~}||{y{~}{|─┘┬┼▌█▄█▌█┼┬┘┤┘||~~|vpmkjmppkikkloqlgegmppolkjjjjiikkieehlorqqsrqoopoopppnllquwwqlmeaahoruw|}│┌┐┌┌┘┘─{zzz~┌┐│}~│┌┌┌┌│}|}}}~─└┬┴▀⌠≤√▓▓≈ ²÷╒╕╗╙╚╚╙╚╜╝╞╟╠╡╡Ё╢╣╥╧╨╧╥╧╩╫╫╬юаббццдддддефхйлмнрссттууужвьыззыышшшшээээщщчЮААЮъЮъччъЮЮъъъъЮЮЮЮАЦБАБЦЦЦБАББББЦЦЦББББЦЦБАБЦЦЦЦБББББББББББАБББЦБББЦЦББББББББАААЮчщэшыжужутттттттссяпоопппоонннммммллккйихххгхиигггффедфххффецццбю╬абддцбцдаюафигед©╪╦╢Ё╡╠╟╟╜╝╟╟Ё╤╢╣╢Ё╠╟╞╝╝╛╙╘╚╝╞╜╚╘╕ё║÷°≥≤√∙⌠█┤┐{p`\[_cfkrvz~└┬├┐┘┐─~│┐└├┬├└│─┌┐┐─~}}|}│┘┬┴┬┼┴┬┼┼┘┐┐┐┌└┤├┤┤┤┬┼┼┬┘┤▄▒⌠▓▐█┼┬┤┬▀██▀▌█▀┴┬┬┘┐│┐┘┤┴┼┼┤┤├┘├┤┤┤├┘├┬┴┼▄█▄▌▒⌠⌠▓⌠■▒▐▌▌▐░░░■⌠∙≥²÷═║║╓╔╔ё║╒ёё╕╘╘╗╗╙╛╝╟╡ЁЁ╢╤╦╨юхллкхгйлмлмпррясуыщъчэззыььвжууууужвььуяммммлллкййкйиххххгфеддедцбаююю©©╬╫╫╪╪╪╪╨╧╦╥╤╢╡╟╟╟╟╠╟╞╝╟╝╛╛╛╚╙╘╘╗╖╕╔╔╓ё╒╒╒═÷÷·²°⌡ ≥≤≈∙■∙▓░░▒▒▐█▄▄▄┼┴┤┤┤┤┐┌─}│J-LLLNRTVWY[]_adgkmorsuxz|}│┐└├┬┬┼▀▄▀▄▐▓▓▓▓⌠■∙∙∙≥≥≥≥≥ °·÷÷÷÷═║╒╒╒╒ёё╓╕╗╘╗╗╘╙╚╜╝╞╞╟╠╡ЁЁ╢╢╣╣╤╥╦╦╧╧╦╨╪╫╬╬©ююааббцддддддцдефххииххийлккйкклллнрсссттярсррсжьььььвутсяолйхгедецаюацфгхц╫╨╥╢╡╠╟╟╝╜╛╛╙╗╙╘╗╖╖╕╓ё║║║═══÷·°··⌡≈⌠▒░░▐▒▓░░░▌┴┴┤┘┘├┤├│~──}{z{}~┌├└─|yutuwxy|wuy}─┐├├┬┴├─|{}}{{~~}┐─}}│├▄▐▌██▐▐▄┼┬┐┐│~}~~yvrpomllkhjmmmmkkgdgkmlkjigfggggfhiggilosqqrrqpqppoooonmmquwulgjgdekruwy{}─┐└└┌─┌└┌~~│┐└~|yz}~─│─~}|{{{|~┌├┴▀⌠≤≈▓▓∙≤°÷ё╕╘╙╚╚╘╚╛╝╞╟╠╡Ё╢╣╤╦╧╧╦╤╦╨╪╫╫╬©аабцццццдефгиклмярсттууужвызззззшшшшшэщщщэщчЮЮъчЮъччъъъъъъЮЮЮЮААЦАЮАБЦБАААБББЦЦЦББББЦБББЦЦЦЦЦБББББББББББААБЦЦЦББЦББББЦББЦББААЮъщщшыжууутутттссрряпоопяяпоонмммннмллкййиихххиихххфеццдфггфедцдца©аабббббббюафигефа╬╧╤╢╡╠╞╞╝╝╞╠Ё╢ЁЁЁЁ╡╠╟╟╠╜╚╘╙╜╝╛╙╙╖╔ё║·⌡≥∙∙∙▒┼┤─vh_Z]abhoruz┌┤└┌├└││└├┘├┬▀┬┐─~~┌┘┌│~~~~~─┤┴┴█▌▀┴┬└┌┌│─┐┤┤├┘├┬┬┤┘├┴▌▒▒▒░█▄▀▄█▌█▀┼█▌┼┤┤┴┴┬└──┐┘└│└┐┌┌┐┘├┤┘└┘├┬┼▀▄▌▌▌▐▐░⌠∙▓░▌▐░▒▒░▓▓√°═÷÷║╒╔╖╕╓╒ё╓╔╖╙╙╗╖╘╚╜╞╠╡Ё╢╤╧╧©фйккйххйллмояярсуыэчщшззыььвжужуууужвьтпммннннлккккйихххххгфедфецбаааа©©╬╬╫╪╪╩╨╧╦╥╤╣Ё╡╟╟╟╟╟╟╞╝╟╝╛╚╛╚╘╗╗╖╕╕╕╔ё║║║║══÷·²⌡ ≥≤≈≈∙■■▓░░░░▐█▀▄▀┼┤├├├┘┌┌─}│J,KKLNQSUVXZ\]`cfhkmpqsvx{|~─┌└├┤┤┴▀▀▀█▐▓▓▓▓⌠⌠■∙∙≤≤≤≤≤≥°²····÷══║╒ёёёё╔╕╗╗╗╘╙╚╛╜╝╞╟╠╡ЁЁ╢╢╢╢╣╤╥╦╦╦╧╩╪╫╫╬╬©ююаббцддддддцддегхххгхийккккклммлорсссстярсрртвыььььвусрполйхфеддбююбдфгфю╩╦╥╢╡╠╞╞╝╛╚╚╙╗╘╗╖╕╕╕╔╔╒╒╒║═÷··÷÷÷°≈⌠░░░▐▓⌠▒░▓░▄▀┴├├┤├┘│}┐┐{z|~~─┐┐─}zwuvxyz|xw}└┬┴┴┌└├└─|{||{|─│┐┤┌─~}│┤█▒▌▌▌▐▄┬├┤─~~│┌|wvtssrnkhfimmmlijhfhiiijkjhfgghhehjhhjorsonoqrsssqonmmlllortriejkijpuvwyy}│┘├└│~│┌┌┌├┬├│|zwvwy{}─}|{|{{{}─┘┴┼░√√⌠⌠∙≤°÷ё╕╗╘╙╚╙╛╜╞╞╟╡╡╢╣╤╦╦╦╦╥╤╦╨╪╫╬╬©аббццццбддегийклппрстужвувызззшшшшшшшэщщщщэщчъъъЮъччъъъъъъЮЮЮЮААБАЮАБЦБЮААБББЦЦЦББЦЦЦБББЦЦЦЦББББББББББББААББББББЦББББЦЦБЦБББАЮъчщшывжууууутссррряяппппппоонмммннллллккккииииииххгедцдефгдддддцбабю©юбцбацабфхгфгб©╨╥╢╡╟╞╝╞╝╟ЁЁ╡╡╡╡Ё╡╡╠╡Ё╞╛╙╚╜╝╛╙╘╖╔ё╒÷°≥∙∙√⌠▌┴└|re\]_`elosx─└│┐├└┐└┘┐└├█▀┤└─~│┘┐│──}z{┌┘┤█▒▌┴┬└││}~│┘┘┐│┌┘├├┘┘┬█░░▐░█▌░░░▐█▄┼▄▀┬┤┼▄▄▀┘~─┌│──│┌└├┤└└┘├┬┼▀▀▌█▄█▐▓⌠⌠⌠▓░░░▒▒░░▓≈²═÷÷║╒╓╔╔╓ё╓╓╓╖╘╘╗╗╘╚╞╞╟╠╠╢╥╨╥╫дхйллйгйлмнпппрсуыэщщшзыььввжувжжууужжуяммннннлккйййихииихгфедедцбаааа╬╬╬╬╫╪╩╩╨╧╦╥╤╣Ё╡╠╟╞╞╞╞╞╞╞╜╚╚╚╚╘╖╖╖╕╕╕╔ё║║║══÷···⌡ ≥≤≈√∙■⌠▓▒░▐▌▌▌▀▀▀┴┤┘┘┘└│─}│J*IIKMPSUVWY[\^bdhjmopruw{|~─┌└├┤┬┴┼▄█▌▐░▒▓⌠■■∙∙√≈≤≤≈≈≥⌡°²²²··÷══╒ёёёё╓╔╕╘╘╘╘╙╚╛╛╝╞╠╡ЁЁЁЁ╢╢╣╣╤╥╦╦╨╩╪╫╫╫╬©юаббцдддбдеффедцггггггиййккклллмнпрссрррпрссствывььвжтсяоомкхфддбаюацееда╪╧╦╥╢╡╡╟╟╞╜╚╚╙╗╔╔╓╓╔╕╕╕ё╓ё╒║═÷÷═÷·°≤■▓▒░░▓⌠░░▒░▄▀┬├┘┘└┌┌~│┘┘│|{}~}~──~|yvvy{{y{─┘┴▀┼┼┐──│{yz{}│└┤┴└┌│┤█▒▐▌▌█┬┐┌└}}┌┌|vrrrsuxvrljloprqniiikkiijjhfeefghhijhhlqupmknqsttuspmkjjjmopqpjjonmptwwww{~┐├├┐}~~┌┘├┤┤┌~|zyxyz|{}─}||}}}}~┐├┤█⌠■⌠⌠√≥⌡÷ё╖╗╘╘╙╘╚╛╝╝╞╟╠╢╣╥╧╧╥╤╥╥╧╩╫╬©ююбцццццццдефгхийкнопртужвувызззшээшшшээщщччщщчъъъЮъччъъъчъЮЮЮЮАААБААБЦЦБААББББЦЦЦББЦЦЦБББЦЦББББББББББББББААББББББЦБАББЦЦБЦББББАЮччшьвжууууутсрррррряяпппоооннммммллллллллиййииииххфеееефгддддцбббцю©юцдцбцццдфггфдю╪╦╣Ё╠╞╝╟╞╟╢╢╠╡╠╡ЁЁ╡╡╡Ё╠╞╛╜╞╞╜╚╗╖╔ё║═°≥≈√≈√▒▄┬┌zl`]^^bhosx}│~|─┤┤┘┐──┌┘┼▀▀┬└┌┌┐┐│~~─│~z{─┌┐┼░▌▀┴┘┌─~|}─┐┐│─│└├├┘┘┬▌░▐▌▐▌░▓⌠▓▒▐▐▌┼┘┘┼▐▐█▀┬└│}~─{}~─│┐┘├┘┘┘┘┬▀▄▀█▌▌░▓■⌠▒⌠⌠▓▒▐▐▐▐░⌠≤²··÷║║╒╒╒ёё╓╓ё╔╕╖╗╘╚╜╞╟╟╟╠Ё╥╨╥╫бехлмлхкмнопяппятьэччщзыьввжууввжжуууужрнмммллмлкйййихииихгффедцбааююю╬╬╬╬╬╪╩╩╨╨╧╦╤╣Ё╡╠╟╞╝╝╞╞╞╝╛╚╚╚╙╗╖╖╖╕╕╔╓ё╒╒║═÷÷²²·⌡ ≥≤≈√∙■▓▓▓░▌██▌▀▀┼┬┤┘└└┐──~|│I)GHJLNPRUVXY[]`cgilnpruwy{}─┌└├┤┬┴▀█▌▌▌░▒⌠■■■∙∙√≤≤≈≈≥⌡⌡⌡⌡°²÷═══║╒ёёё╓╔╕╗╗╘╘╙╚╛╛╝╞╠╡ЁЁЁЁ╢╢╢╣╣╥╦╦╨╩╪╪╪╫╬©юабццдддбцеффеддффгггхиййкклллккнпрсряярпясстувыввьвжтряоонкхеддбаацеецю╪╦╤╥╥Ё╡Ё╠╠╟╜╚╚╙╘╔╓╓╓╔╕╕╕╒ёё╒═÷═══·°° √■⌠▒░▓▓▌▌░▐▀┼┬├┘├└┌┌│─┌┘└│~─~~~}}}~~}zwwz{{{│├┬┴┼┴┤┐~{}~{xz}│┤┼▀┬├┌┌└┴▌░░█▀┴┘─~─}}─}vpmoqruzzwsqruuvupjkmooliigecccdefgijijmqsnmmprstuusplkjkknonllkmsoqtxzyxw~─└├┘┌─~|│┬┬┬├─{zzz{|}}{}─~}}}}}~─~─┐┘▀▓⌠░░■≥°÷╓╖╘╘╘╘╗╙╚╜╝╞╟╠Ё╣╦╨╧╥╥╧╦╧╨╪╬©ююцццццццдеефгхийймнояртуужвыыьышэээээээщчщччъччъъЮъчччъъчЮЮЮЮЮАААААБББББББББББЦЦЦБЦЦЦЦББЦЦЦБББББББББББББББББАББЦЦЦБАББЦЦЦБББББАЮъчшььвжужутссрряяяяяяппооннннннммммлллкккйккиииихгееггффхфеццццбабю©юбддццедцдггееб╫╧╤╢╠╟╞╡╞╞╢╢╠Ё╟╡╢╢╡╠╟╟╡╟╜╜╞╟╝╛╘╗╕ё╒║· ≥≈≈≈⌠▐┼┘qd^]]`fqvxz|{z}│├┬└││┐└┤┼▀┬┘┘├┘┘┐─~│|~┌┌┌┤▄▄▀┴├┘└│}|~││─│└├├├┘┤▄▐▌▐▒░▒⌠■∙■⌠▒░┼└┘┼▌▐░▐▄┴┤┐─~~}~─┌└┘├├┘┘┤▀▄▀█▌░░▒⌠▓░░▓▓▒▐▌▐░▓≈⌡°°²÷═║║║║║╒╓╔╔╕╕╖╘╙╛╜╞╞╞╟╠Ё╤╦╦╪ацфкмлйлммнпяяпятьэъъчзыьввжуужжжжжуууврнммлккмлйииииийихггффецбббааюю╬╬©©╬╫╩╨╨╨╧╥╣╢╡╠╟╞╞╝╞╞╝╝╜╜╛╚╙╘╗╖╖╖╖╕╔╓ёёё═÷·²°°·⌡ ≥≤≈≈∙■⌠▓▒▐▌█▄▄▀┼┴┬┤┘└┐┐──~~{G)GGJKLMOTVWXZ\_begjlnpsuwy{}│┐└├├┤┼▄▌█▀▌▐▓⌠⌠⌠⌠■√≤≤≈≈ ⌡⌡≥ °·÷═║║═╒ё╓╓╓╔╕╗╗╗╘╙╚╛╜╝╞╠╡ЁЁЁЁ╣╢╢╢╣╤╦╧╨╨╩╩╪╫©юююаббцццддееддефффгггхйкйккллкйиморррррсоясттувыввввжсяпоонлхеддбабефеа╫╦╣╣╥╤Ё╠Ё╠╠╞╛╙╙╙╘╖╕╕╔╕╕╔╓║║║═÷÷÷═÷°⌡°°≥∙■▒░▓▒▄▄▌██▄┼┬┬┴┤┘│┌┐└└┐│┘│~|{|~{xxz|{│┘┤├┤┼┴└┌}}}|||{│┌┴█▄▄┴├┘┬▄▐▒░▀┤├┐~}~~}~}xqknqrruxwsutwyxwslmnqssnigfdcbcdeedgjlmoppmnpssssusqolklnonnjgghkqprv{|{yx│└┘└┐┌│{─┴┼┴┤─||||{{yx|~─~}}}z{~│─~~─┘▄⌠⌠▌▄▒≈°═╔╗╘╘╘╘╘╚╛╝╞╠╡Ё╡╢╦╩╧╥╥╨╦╦╧╩╫╬©юцбббббццеефгхиийлмнпярссвьыьвьзэщщээээщчэщъъчщщщЮъчччъччЮЮЮЮЮАААЮАББААААБББББББЦБЦЦЦЦББЦЦБББАБББББББББББЦЦБААБЦДЦБАББЦЦЦББББББАЮчшьььжжвттсрряяяяяяппоооноооонмммммлккййклкиииихедеггффгхеббцдб©юю©©абцдцфеббггдфц╬╨╥╣╡╟╠Ё╞╝╢╢╠╢╟╡╢╢╡╟╝╝╡╞╜╜╞╞╝╚╚╙╗╔ёё═° ≈≈≤■░▄┤┌ug`]]`esxywyyy{y┐┼┬┘┘┘┐┤┼┼┘└┬▀┼┴┤└───~─┘├└┤┴┬┴┤├┤┬┘{{{}│┐└└┤└└┬▀█░■⌠▓▓■≈≈√■▌▀┬┤┬┴▌■■▐▀▀▄┴┐─│┌┌│┌┐┘┤├┘└┐├┼▀┼▄▐░▌█▐░░█░▓▒▐▐▒■■≥°⌡ ²÷═║╒╒║═║╓╕╙╘╗╗╙╚╛╜╝╞╞╟╠Ё╢╤╦╫юадйлккллклояряртьэччщзыьвввжууужжжжуужяммммллнлйииииийихгфеефццццббаа╬╬©©╬╫╩╨╧╧╦╤╢╡╠╟╞╞╞╞╞╞╝╜╜╜╜╛╙╘╗╗╖╖╖╕╓ёё╓ё═·²°⌡°·⌡ ≥≤≈≈∙∙■▒▐▌▌▌▄┼▄┼┴┤┤├└┐└│─~}z~F)GFHJLMNSUXYZ\^_cfjlnprtwwy|─┌┐┐├┤┬┴┼▀▄██▌░▓⌠■■⌠∙∙√≈≤≥≥ ⌡ ⌡°÷═══╒╒╒ё╔╔╓ё╗╘╙╙╙╙╚╛╜╝╟╠╠╠╡╡ЁЁ╢╣╤╥╦╦╧╧╨╩╪╫╫╫╫абаабцццццдффффггххииииккккллллкоррппяяпярсужвьвььжтряямоокгеддюадхиц╩╤╢╥╥╣╡╠╠╟╟╝╜╞╝╚╙╙╗╔╓╕╗╗╕╔╒║║═════÷°⌡⌡°² ⌠⌠▐█▌█▄▄▐█▀┼┼┼┬├└├┐┌┘┤├┐│┌┌│|{|~~}|}─││┘┤┬┴┴┤├┘─|{|z{~~y|~┌┤┬▀░▌█┴┤┬█░▒▐▀┤┐─|zz}}zxtqqqsvwvtqptuwxurrssrsurmjjkfdffcdhggimooopnosvvuuvxsnljhhkmieefhloqtw|─}z}││┌└└└┌│}}└┼▄├}}}|zzz{|{{|}}|zy|}}~}{}└┴░▒▐▌▓√°║╖╘╘╙╚╙╚╙╛╠╡╠╠╢╣╥╧╧╦╥╦╧╦╦╧╪╬╬╬©аббббцефдфиккйййлмнопртуввььызззэшшшщчччээщччччщччччъъъъЮЮЮЮЮААБАЮАЦБЮъЮЦБББЦЦББЦБББББЦЦЦЦББББББЦЦЦБББББЦЦЦЦЦЦЦЦББААББЦЦДЦБААААЮчэывжжууттссряяпяппяяоноонмммнннммммммллкккйхгххееффггфееееедццдаааааббббцдееефгеб╬╩╦╤╢Ё╢╡╞╟Ё╤╤╤╡╠╡╡╠╟╞╟╞╞╜╛╝╠╞╚╙╘╗╗╕ё╒╓═⌡≥≈⌠░▄┤┌{nc`dggrz{utvvvy┘┤├┤┬┴▀┼┤└└┤┴┴┴┴├└┐~││┐┤┬┤┴┼┤├┤┤┤┤├┌}~┌┐┐┌┐├┴├┌┘▀▐⌠▓∙≈√∙∙∙∙■⌠░▌█▌▐░⌠▓░░▐█┼┤┘┐│┌└└┐└┘┐└├├┘├┼┼▄▐▐▌██▌▌░⌠⌠⌠⌠■∙≤  ≥ ²÷══÷÷═║║╓╗╜╗╕╙╛╙╙╜╚╜╟╠╡╢╤╥╧╫ююафкмнкикнопястжыэщщэшывжвввжттууууужурнлмннллккйййиххххгееефедцббаю©ю╬╫╬╬╫╩╨╥╥╤╣Ё╡╠╠╡╞╜╞╟╞╝╝╝╜╜╛╚╙╘╗╘╖╔╓ё╒║║║═·°°²²⌡ ≥≤√∙■⌠⌠▒░▐▌█▄▀▀┬┬┬┬├└┌┌│──}{y~G(FEHIKLNRUWYZ[]_behkmoqsuvwz~─││┘├┤┬┴┼▀▄██▐░▓▓⌠⌠■∙√≈≤≤≥≥⌡  ⌡²÷══╒╒╒ё╓╔╔╔╕╗╘╙╚╚╛╛╜╝╟╠╠╠╡╡ЁЁ╢╣╤╥╥╦╧╧╨╪╫╫╬╬╬юбаабццццдеефффггхиииййййкллллллосряяррярстужвввььжтряямонйфддддцехфю╦╢╠Ё╣╤╢Ё╢╢╡╟╟╟╞╛╙╘╗╕╔╕╖╖╔╔╓ёё╒║║══÷°°°⌡²⌡√⌠░▌▌▌▄▄▌▄▄▀┼┴┬├┘┐┌┐┘┤┘└└││─~}}}}|~─┌└├├┘┬├┘└┘├├┘}zz|{}│┌─~|│▀▌▄▄▌▐▐▄▄█▌▌┴┬├┐─}{yy}|wtrpruvwwvsqpsuwwvuuvusrrojijkigeddfgfjnoqrpnpsvyzzyytplkjfefjgeddejnsvz~┌z{~│└┘┘┐│}{}└▀▄┘~xz|||zyy{zz|}}|zx|}|}{z|├▌▒░░■≤²║╕╘╙╛╚╚╚╙╛╟╡╟╟Ё╣╥╦╦╤╤╥╦╨╧╨╪╫╫╫©юабцццдддфхйййййлмнояртжввььызззэшшшщчччщщщщщчччччччъъъъъъъъъЮЮААЮЮББААБЦЦБЦЦЦЦБЦЦЦЦЦЦЦЦЦЦЦЦББББДДЦЦББААЦЦЦЦЦЦЦЦББББББЦЦЦБААААЮъчщзьвжууттсрряппрппяяонооооонннмоонмллкккллкихххгфффггфедддцццццббааааааабддеефгдб©╩╧╤╣Ё╠╟╞╠╢╤╥╤Ё╡╡╡╡╟╞╟╟╟╝╛╝╠╟╛╛╙╗╗╕ё╒ё═⌡ ≤■▓▌┬┘─vkfgijry{xxwtsu{─┐└├┬┴┬┬┤┘├┬┴┬▀▀┬└│}|─┐└┤┬┤┴┼┬┤┴┼┴┤├└┌┌│─││──│└┴┤┌┐┤▀▐■√√⌠▓⌠∙∙≥≤√▓░▌▌▐⌠⌠▓⌠⌠▒▌▄▀├┐┌┐┐┐┐┘┐┐┘┘└├┼▄█▐▐▌███▐▒⌠⌠⌠⌠∙√⌡°°⌡ °²·÷·÷║║║ё╕╙╖╖╙╚╚╚╜╛╝╟╡╡Ё╣╥╨╪╬╬афкмолйкмопястжыэщщээзьвввжууууууужжжрнллмлклкййййииггххфееедцббааю©©╬╬©╫╩╨╩╦╥╤╣Ё╡╠╠╠╞╜╞╟╞╝╝╜╜╜╛╚╙╘╗╘╖╔╓ё╒║║══÷²°²°⌡ ≥≤√∙■⌠▓░░▐▐▐█▀┴┬┬┤├┘┐┌││──}{zG'EDGHKLMRTVXYZ\^`cgikmpruvwz}││┐└├┤┬┴┼▀▄█▌▐░▒▓▓■∙∙√≈≤≤≤⌡  ⌡°·÷÷ё╒║╒ё╓╔╕╔╕╘╙╚╛╛╛╜╝╞╠╠╠╡ЁЁЁ╢╢╣╤╥╥╧╧╨╪╫╬╬©╬юбаабцццдееефффггххииииийклмммллпссррррррсужввввьвжтряпномиеддеффффб╪╤╢ЁЁ╣╥╤╡╡Ё╠╡╠╞╝╜╙╗╘╗╗╘╗╖╕╖╕╔╓ё╒║══·°°° °°≤⌠▐█▌▌▄▀▄▄▄▄▀┴┬├├┘┘├┤├┐┌┌~}}}}|{y┘┴┼▀┼┬┴├┐┌└├├┘||}{}─│└│}┌█░▄▀▌▒⌠▓▌▄▀┼┘┘┘┐─|zzx~|tqrrtxxxwusrqtwxwvxyxuqomkijmjkjgehjjiosqrvtotx{|}~}{tokjifddhgfedekpuy|│└│|z}~│┐┘└┌─}yz┌┼┴─ywxz{{zyyz{|}}|zyx|}|{yy||┐▄░░▒■≈²║╕╘╛╜╛╚╚╚╛╟╠╞╟╠╥╥╦╦╥╥╦╧╪╩╩╪╪╪╫©юабцццццдфгиийкллмопясужввььыззшэшшэщщчщччщщщщчъъъъъччччъъъъъЮЮЮАЮЮББББЦДЦЦЦДДДЦДДЦЦЦЦДДДЦЦЦЦБББЦЦЦЦЦБББЦЦЦЦЦЦЦЦББББББЦЦБББББАЮъъчшзьвжууттсряяпряяяяооооппппнммпонллкклллллйихгггффгггфедццдддццббаююююабцдееггбаю╫╨╥╣╢╟╟╟╡╢╣╤╣Ё╡╡Ё╡╠╟╟╟╠╞╛╜╟╟╞╜╙╗╗╗╕ёё═²°⌡≈∙▒▄┤┘~skhjlrwz{}{ursw{}─┐├┤┬┤┘┘┤┼┼┴▄▌▄┴┘─~┌├├┬┴┤┴▀┴▄▌▌┼┘┐┌┌└┐┌┌│──┌┬┬└└├┴█▒▒░▌▌▓√≤⌡⌡ √▒▐▌▐░▒▓■■■▓▒▓▄├└┐┐┌│┘┐┐└┘└├┼█████▄▄▄▐▒⌠■⌠■√≥²··°°²²²··÷═║║ё╓╘╘╘╘╙╚╚╚╛╝╠╡Ё╢╤╦╨╩╩╪©дикпмклмнпярсжышщщщщшьвввжужжжууужвурнллмлклкйийййифгххгфеддцбааю©╬╬╬©©╫╨╨╩╨╦╤╢╢Ё╠╟╠╞╝╝╞╞╝╝╜╜╜╛╚╙╘╘╘╖╔╓ё╒╒║══÷²°²⌡≥ ≥≤√■⌠▓▓░▐▌▐▐▌▀┬┬┬┤┘└┌│─│──}{zH&DDFHJKMRSVWXY[]`behjloqtvxz|~─│┐└┘├┤┬┼▀▄██▌▐░▓⌠■■∙√≈≈≤≤  ⌡°²···║║║╒ё╓╔╔╔╕╗╙╙╚╛╛╛╝╞╟╠╠╡ЁЁЁ╢╢╣╤╥╥╧╧╨╩╫╬╬©©юааабццддеееееффггхииииийклммллкорряяяяярсужввввввжтрппоолхддееггфц╬╧╤╣╣Ё╢╥╣╟╝╟╞╟╞╛╚╛╚╗╗╗╗╘╖╔╔╖╕╕╔ё║÷÷÷°⌡⌡⌡≥ ° ▓▐█▌█▀┼▀▄▌▌▄┼┬┬┬┬┬┤┤├└│─~~}|{{y│┴██▄┼┬┬┤├├┤┤├└┐||~┐┐┌┘▀▄▄▌▐▒⌠▓▌┴┤├┘└┌│─}||y~|utvwwwwwutssty||xwzzwtpmljghkjklkjlnpqtvttwxvx}~~}xtmhgfddeffeefinsv{}─┘└}││┐└┘┐│|xy│├┌zvyyyyxxyyz}─│~zxxx|}|{yz~}┐┼▌▐░⌠√°═╓╗╛╝╜╚╜╛╜╞╟╞╞╠╤╥╥╥╥╦╧╨╪╪╪╪╪╪╫╬юаццццццефгхийлмнопярсужввьыыззшшшшээщщщччщщщщччъъъъччччЮЮЮЮААААААААББЦЦЦЦЦЦДДДЦДДДЦЦЦЦДДДДЦЦБББААББЦЦДДБЦЦЦЦЦЦББББББЦЦЦБББЦЦБАъъчэшыьжууутссррряяяяппппппяпонннонмлклмнллллкиггеефгхххгфдццефедцбааююююццддееффбба©╩╦╣╢╠╠╡╢╢╢╢╢╣ЁЁ╢Ё╡╠╠╠╠╟╜╜╞╟╠╝╚╘╘╘╗╕ё╒÷÷·⌡≤∙░┴┬└{oijnquw{|wttvwx{─└├▀┤┐┐├┴▀┼▀▌▌▄┼├┐└┬┤┴▀┴┼▀┴█▒▓█├┐┌┐┌┐└└┐┌││┌┤┴┤┬┴┼█▀██▄▄░∙≈≤≥≤∙░▌▐░▌░▓∙≈≈≈√√▓█┴┘│┐┌┐┘├├┬┼▄▀▀▀▄▄▄▄▌▒⌠⌠⌠∙≥°°²···÷÷÷··÷═║╒ё╓╗╙╚╙╘╙╙╘╜╞╡Ё╢╤╦╨╨╧╦╧╫цгипнмлмоярясжышщщщщшывввжужжввжжжвтянммммллкйииййиггггффеддцбааю©╬╬╬╬╬╫╨╨╩╩╦╣╢╢Ё╠╟╟╞╝╝╞╞╝╝╜╜╛╛╚╙╘╘╗╖╔╓ёё╒║══÷²°°⌡≤≤≤≈∙■⌠⌠⌠▒▐██▐▌▀┬┴┴┤┘┐┌┌──|zyH&DCFHJKMQSUVWX[\_aegiloqrtvxz|~─┐└┘├┤┬┼▀███▌▐▒▓⌠■■∙√≈≈≤≤ ⌡°²···²÷═║╒ё╓╓╓╖╖╗╗╘╙╚╜╛╝╞╟╟╠╡Ё╢╢╢╣╣╤╥╦╦╧╨╩╪╫╬©©юаббббцддееееефффггххххййклллкккняряряппясувввввввжтяпоонлгддффххею╨╤╣╢╡╞╟╢╣╠╟╠╞╟╜╘╗╙╙╖╔╔╕╕╓╒╒╓╓╓ё╒÷²²²°⌡°°≥≥°⌡⌠▐█▌▌▀┼▀█▐░█▀▀▀▀┴┤├├┬┬┘┌│┌─|z{|~├█▐█┼┴┬┬┬┴┴┴┤├├└│││}}─┌└└├┼▀▄░░░░▌▀┬┘┘┘│~──||wxywvuuuuuuwx|~}yxzyvspnmiedfkjlopnpsxxyzyy{|}│┌}}ysoieddcceeddehmqtw{}~┐┘┐┌└└└└└┐┌─zxz─│}xw{{{zxwxxx~┐┐{yzy}~|{z{─~┌┬▀▄▌▓√⌡÷ё╖╚╝╜╚╝╜╝╞╞╞╞╟ЁЁ╢╣╤╥╧╨╨╪╫╫╫╬╬╬абцццццдффгхикмопярссстуввььызззшшээээээщщщччщщщъъъъъъъъААААААААБББАББББЦБЦЦДДЦЦДДЦЦЦЦЦЦДДДЦЦБББЮААББЦЦДББЦЦЦЦББЦЦЦЦЦЦЦЦБББЦЦБАъъчэшыьжуттссссссппппппяппппоннноннллллмнллллкигфефгхиигефецдефецбааюююааддддееееццбю╫╧╤╢╡╡Ё╢╣╣╢╢╤╢╢╣╣Ё╡╡╠╠╟╝╝╞╟╠╟╝╚╙╚╙╕ёё═══° ≈⌠█▄┼┌vllpqttw{zvuuvvux~└┬▀┤└└├┴┼┼▀█▀┴┴┤└└┘└┤┼┴┼▀┴┼▐⌠░▀┬┬┴┐┐┐┌││┌┌┘┬┴┴▀▀┴┼▀█▌▌▌░▓⌠∙√∙▓▌█▐▓▐▒■≈ ⌡°°≤√⌠▐┬┌┌┌┐├┬┬┴┼▄▄▀▄▄▄▄▀█▌░▓⌠√ °⌡²··÷═║║║══÷═╒╓╔╖╙╛╙╙╚╙╗╜╞╡╢╣╥╨╩╩╧╥╦╫бфионнмнорсяруышэщчэзывввжжужвьвжжутроммнммлкйиийиихгффеееедцббаа©©╬╪╪╫╬╪╩╨╩╦╣╢╢Ё╠╟╞╞╞╝╝╞╝╜╜╜╛╚╙╙╘╘╗╖╔ёё╒╒║══÷²°° ≤≈√√∙■■⌠⌠▓▐▄▄██▀┴┴┴┬┘┐┐┌─~}~{yx~G&DCFGJKLPRTUVWY[^`dfhknprtvxy{~─┐└└┘├┬┴▀▄▄█▌▐░▓▓⌠■∙√≈≈≤≤≥ °²··²²·÷║ёё╓╓╔╗╗╗╗╗╘╚╛╜╝╞╟╟╠╡Ё╢╢╢╣╣╤╥╦╧╧╨╨╪╫╬╬©©юббббццдееддефффггххххййкккккклорррряпяртжвьввжввжтяонннкгдеггигц╪╤╢Ё╡╟╝╞╡Ё╠╟╠╠╟╛╘╖╖╖╕╓╓╓╓ё║║╒╒╒╒║·°°°²⌡°°≥≥⌡⌡∙░█▌▌█▄▄█░▒▌▄█▌█▄┼┤├┬┴┤┐─│┌{z|┘▀░▐▄┼┴┴┴┴┴┬┤┤┤┬┬└└┐~}┘└┐┘┼▀▄░▒░▐█┼┤┘┘┌}{~││──|}zxyxtrtuvvwxyzz{zxyzyvollljffhmjlrtqrv||~─||~┌┌}ztoifeffddfhgggkptuw||{└┘┘││┌┐┐┌│yz||z|z{||{ywvw|│┌}}~{~~|{z{~│┘┬┼▌⌠≈ ·ё╕╙╛╜╛╝╝╝╝╞╞╞╟╠╡Ё╣╤╦╧╨╧╪╬╬╬©©©бцццццдеффгхикмоярссссттвввьыыззшшэээшшэээщччщщэччччъъъъЮЮЮЮЮЮЮЮАББАБББББББЦДДЦБДЦЦЦБББЦДЦЦЦЦБББАААБББББББЦЦЦЦББЦЦЦЦЦЦЦЦААББББЮъЮчэзыьжуссррррссоппопяяпоппнммнпонмллллммллккихгггхийигеееддеецбааююююабеддддддцдцба©╩╥╣Ё╡Ё╢╤╥╤╤╥╣╢╣╤╢ЁЁ╠╠╠╟╟╟╠╠Ё╠╝╛╚╙╕╒╓║║═° ≤■░▌█┬|plnswvvxxvvtvvuw~┘┴┤┘┘┤┴┴┴┬█▌▀├├┘┘┤┌│┐┤┤┬┼┴┬█▒░▄┴┬┬┘┘┌}┌└┬┼┴┴▀┴├├┬▀▌▐░▓■■∙∙⌠▒▌█▐▓░░▓√ ²²²≤≤≤∙▐┤┐┌┌┌└├┬┴┴┼█████▄▄▄▀▄▌░⌠√≥⌡⌡²÷·÷═║║ё╒║═║ё╔╔╔╗╙╙╛╜╛╙╛╝╠╢╣╥╧╩╪╧╥╧╫аеимннммоярпруьшэщчшзыввжжжтжвввжуууспнммлллкйййиихихфееееедцббаа©©╬╪╩╫╬╪╨╨╨╦╣ЁЁ╡╠╟╝╞╞╝╝╞╝╜╜╜╛╚╙╘╘╗╖╕╓ё╒╒║║══·°⌡⌡ ≤√√∙■■■⌠⌠▓▐▄┼▀▀┼┴┬┴┬┘┐┐┌─~||yxw}F&DCEGIJLOQSTTVXZ\_bdgiloqtwxxz}─┌┐┐└┘├┬┼▀▀▄█▌▐░▒▓⌠■∙√≈≤≤≥ ⌡⌡⌡°²·÷═║ёё╓╔╕╖╖╗╗╗╘╚╛╜╝╞╟╟╟╡╡╢╢╢╢╣╤╥╦╧╨╨╩╪╫╬©ю©юбцббцбдееддефффгххииийййййкклкняррряортжвььвжжввжтяоннмкгефгхфд©╦╢╡╡╠╡╠╟╠╡╡╟╞╟╝╚╙╗╕╓╓╓ёё╓ё║║╒═║╒═·²°²° ⌡°≥≤≥≥√░██▌█▄█▌▒▒▌▌▐░▌▌█┼┤┤┬┤┘┐┐┐│~┌┘┼▌▒▐▄▀▀▄┼┴┬┤┤┬┬┴┴├├┘}└└│┌┤┴┼▌▐▐░▐┼┘└└─}~┌└│}|zywwxuqquvwwwwxxvuuvxxwumkijighknlmrvxy{─┌┐┌~~}~{vpleddffefjlmlkmquvx~~z}┌└├─┌└└┐─~}~─}{|}y{|}|zyxyz|}~~─}}{zyy}}─┐├┴█▓√ ÷ё╕╗╚╜╜╝╝╝╝╝╞╞╞╠╡Ё╣╥╧╨╨╧╪╬╫╫©ююбцдеееефефггхйлнярссссстжввььыззшшээшшшшээээщщщщччччъъъъъъЮЮЮЮъъЮАБАБЦЦАБББЦДДЦБДДЦЦББББЦЦЦЦББББББББББББББЦЦЦЦББЦЦДДДЦЦБАААБББЮъЮчэзыьвжутссрррсяряпояяпопяпнмнонмммллммммкккйиххгхиййихееффедбюбаююююабдцбццццбдцааю╬╨╤╣Ё╡Ё╣╥╥╤╥╣╢╣╤╣ЁЁ╡╡╡ЁЁ╡╠╟ЁЁ╟╝╜╚╗╓╕ё╒═° ≥∙⌠▒░▌└uljqxyvvwvusvxwx}┐┤┘└┘┬┼┴┴┴█▒▌┴├┘├┴┘│┌└└┘┬┤┤▀▌█▀┴┤┘┘├┐}┌└┬┼┴┬┴├└┘┐├┴▀█▒■√■■⌠▒▐▐░▒▐▌▐▓≈⌡⌡ ≥≥ ≥√▐┼┤└└└└├┬┴┴┴▀█▌█████▄█░■≈≥≥⌡²···═╒╒ёё╒║╒╓╔╓╔╕╗╚╝╝╛╙╚╝╟╡Ё╣╥╧╩╧╥╧╪©цгкмомлнопоруьшэччэшывжуужужжжутууусянммллккйййихгхгфееееедцбааю©╬╬╫╪╫╫╩╧╧╦╥╣Ё╡╠╠╠╝╞╞╝╝╝╝╜╜╛╚╙╘╗╗╗╖╔╓ё╒╒║═══·°⌡⌡ ≥√√∙■⌠⌠⌠▓▒▐█▀┼┼┴┬├┬┤└┌┐│~}||ywv|E&CCEGIJKOPRSSUWY[]acehknpruvvx{~│┌┐┐└┘┤┬┴┼▀▄▌▐▐░▒▓⌠■√≈≤≤≥≥≥≥≥ ²÷═║╒╒ё╓╕╗╔╕╗╘╘╙╚╚╜╝╞╞╟╟╠╡╢╢╢╢╣╤╥╥╨╨╨╩╪╫╬©ю©©бцббцбцеедцдфггххиииииииийкллймпяяяпнтувыыьвжжввжтяоннмкгегххца╪╣╡╡Ё╡╡╠╟╟╠Ё╡╟╜╙╘╙╘╔ё╓ё║║╒╒════║╒║÷²²·⌡≤≥ ≤√≈√∙░▀▄█▄▀█▌▒▒▌▌░▒▐▄▄┼┬┤┴┼┼┴┬├┘┘┤▀▌▀▐▒▐█▄█▌▀┴┤┤┴┼┴┬├└┘┘│─┐└│┐┌│┌┐┤▌▄▌▒░┼└┌┐──┌┤├ywvvuvwsptuvwxwvuusrruwwutrnjifdfjnnoqw┌│└┬├─}─~}||}ztnkcaacccglnpomlosuy─z{─┐┘│┐├┬┴├┐─│┌┌~{{{|zz{zz{|||zxy|~}zyxxz~─┐├┴▄▒■⌡÷ё╕╖╙╜╝╝╝╜╜╜╝╞╞╟╟╡╢╤╥╦╦╨╫╬╫╪╬ааацефффффеффгхикмпярсссстжжввьыыззшээшзшшээшшшэщчщщччъъЮЮъЮЮЮЮЮъъчЮБАБДЦББББЦДДЦЦДДЦЦББББЦЦББББББАААББЦДДББЦЦЦЦББЦДДДДЦЦБББББЦБАЮЮъэзыььввжутссссрсрппяяоояряомммкллммннннмлкккйиггфхикммфгххфдбабаюю©юааббаабцбадбюааю╪╦╦╣╡╡╢╤╤╣╥╣╢╣╤╣Ё╡╡╡Ё╢╣╢╡╟╡╡╟╝╜╜╙╖╗╓ё║²⌡ ≈≈■■■▀{nikuxttutsswzyy|─┐┘└┘┤┴┴┼▄┬░▒█┬┘├┴┼└┐┐┌┐┘├├┴▀▄▄▀┼┬┌┘┘┐│┌┐┐├┴┴┬┤┘┐├┌└┘├┬▄▒⌠⌠⌠▓▓▒░░░░██░√  ≤⌡≥ ⌡⌡√▐▀├┘┐┐└┤┬┴└┤▀███▌░▐▌▌▒√≥≥≤ °²²·║ёёё╓ё╒ё╔╓╒╕╕╗╛╞╝╛╙╚╜╞╠╡Ё╣╥╧╥╤╦╨╪аеймомллнноруьзэчъэшывжууужжутссужсрпнммммккккйигфггффффецццааюю©╬╬╬╬╬╪╧╦╧╦╥╣Ё╠╠╠╠╝╞╟╝╝╝╝╜╜╛╚╙╘╗╖╖╕╔ё╒╒║║═══·⌡ ⌡⌡≥≈≈∙■⌠▓▓▒▐▐█▄┼┴┬┤└├├┐┌┌─}}||xwv|E%BBDEHIKMORRSUWX[]`bdgiloqtuvwz{}~─┌└┘├├┬┼████▌░▓▓⌠■■∙√≈≈≈≤≥⌡°²²÷═║╒ё╓╔╕╔╖╗╗╗╘╚╜╛╜╝╞╟╟╠╠Ё╢╢╢╢╤╥╧╧╧╧╧╨╪╬©ю©©юцдееццддддддеефггххиииййкккклнярряппртжввжуужжутрпнллнлгеггеа╫╥╢ЁЁ╡╠╡╟╝╝╞╟╟╟╜╚╙╘╗╖╕╔ёё╒╒╒╒║║═÷··÷══÷⌡ ≥≤≤≤≈√√⌠░▌█▄▄█░▐▐░▓▓░▌▀┼┬┬▀█▄▀┴┬┤┼▌▒▓▒■▓░▌▌█▌▌▀┴┤┤┬┼┬├┤┘└├┬├┐││┌┐┐──└┼░▌██┼├┌│┌┘├┐}yyzxvxyutvvutssuwtppopuxxwwrplgefjmnnot|┘┬┤┬┘┐┌─~}~y}~xspkfbbaachlmnppomnsxz~{~┌┐┐┌┤▄▄┴┘┌─│└─{|yv{xyz{|||||zxy|~~{xxxx}}─└├┬▌■°╒╓╓╗╚╛╛╝╝╜╜╝╝╝╝╞╠Ё╢╢╤╥╥╩╫©©╬╬юцбдееефгфцегиийлмнопрссттьыыыььыышээшшээшшшэчъчщшэщчъъчъъъъъъЮЮЮЮЮАБББББАББЦЦДДЦЦББББББББЦЦБББААААААБББББАБЦЦББЦДЦБАБЦДДЦЦБАААААЮъчщшьвьыттттсрррярсряпяряяяпяпппонмноооннмлккйихгххилнмкихфффецабаююааююцаююбба©аддю╬©©╪╦╤╣╣╥╦╥╥╤╣╢╢Ё╡Ё╢╢Ё╡╣╤╣Ё╡╠╟╝╜╝╝╙╔╕╖╕╓═²°²⌡≥■▐▄┌tmlqvvtsqpptxyy|─┌┌│┌└┤┬┴▀▄▌▐▄┤┘├┴┴┘┐┐│|}┌├┤▀▌▄┴┬┴┐┐┐┌││┌┐├┴├┐┤┼├┌┌│┌┐└├┼▐⌠⌠⌠▓■∙▒▀▐▌▄█▒√≥  ⌡·═·≥∙∙▒┴┐└├├┘├┤┴┼▄▄███▒░▓√≤≤≥   °═║══║ё╕╓╒╓╕╕╖╔╖╘╙╚╛╚╙╜╝╞╟╡╢╤╥╣╣╤╧╨╪юдилнпоооопсжвьшщчщшывутттжжуттужутпмллккккйиииииххггфеееедцбабаю©ю©╫╪╩╩╨╧╣╣╢Ё╠╞╝╝╞╝╜╝╞╞╝╛╛╚╙╙╘╘╖╖╖╕╓╒╒║══·°  ⌡ ≤√√∙■■⌠▓░▐██▄▄▀┼┤├├└│───~}|{zwxuzF&CBDEGHJKMPRSSUW[]_acfjlnpsuvxz|}~─┌└┘├├┬┼▄███▐░▒▓⌠■■∙√≈≈≤≥ ⌡°²·÷═║╒╒ё╓╔╔╕╖╗╗╘╚╛╛╜╝╞╟╟╠╠ЁЁЁЁ╢╣╥╦╦╦╦╧╨╪╬©©©©юаццдццдддееееффггхииииййкклллнярряппсувььвжжжжутрпнлклйггхгд©╩╤ЁЁЁ╠╟╟╞╝╜╝╝╞╞╛╚╘╘╗╗╖╕╒║║║║║║║═÷·÷══÷²°⌡≥≤≤≤≈√≤∙░█▀▄▌░▒░▐░░░▌█▀┼┴┴┼▀▀┼┼┴┼█▓∙√∙■⌠░▐▌▌▐▐▌▄┴┬┬┴┬├┤├┤┼▄┴└│~─┌┐│─└┴░▌▄▄▀┴┤├┘├┘─zwwyvuwwtsutsrqprsronnquxxwxqolihkorpprw┤▀┼┴├┐┌─}{{|{xtqojfdedcehklmprolmsxz~~|┌┌│─┘┴▀┼┬┐┐└~z{yw{vwxyz{{{|zxy|──~|||yvvx{|└├┬█⌠ ║ё╓╗╛╛╛╞╞╞╝╜╜╜╝╟╡ЁЁ╢╤╥╥╪╬юю©©ацбдееефггдегийклмнояяррстжвьььызшшээшшээшэээщччщээщччччъъъъъъЮЮЮЮЮАББЦЦББББЦЦЦЦЦЦББББББББЦББББАААББББББЦЦАБЦЦББЦЦЦБААБЦЦЦЦБББББАЮъчщзьввьууутссссррсряяяяяппяяяяяпонннноонмлккйихгххикммкигфффецабаююююю©аю©юбцба©бцю©ю©╫╨╦╤╤╤╥╤╣╥╤╤╥╤╢╢╤╢╡╡╢╤╢Ё╡╡╠╞╝╝╝╚╗╕╖╖╔║÷··· ∙▓▌┤znmrvurqpopsw{||~~}┐┤┴┼▀▀▌░▐┼┤┘├┘┐┐└┐│┐├└├▀▌█┴├┘┘┘└┌│┌└┤├┼┬└┘┘└└└┐┌┐└┘┴█▒▓▓▓■√⌠█████▐▓∙≈≥ °÷·⌡≥≥∙░▀▀┼┤├┬┤┴▀▄▀┼┼▀▐▐▓≈≥≥≥⌡ ≥⌡·÷÷÷═║╓╓ё╕╖╖╗╕╖╗╗╘╚╛╛╛╜╝╞╠╡Ё╢ЁЁ╣╦╧╩╬бхкноооооптввышщччщшывжжжжжуттужутпмллкккййиххххгхггфеееедцбабаю©©╬╫╫╪╩╧╦╢╣╢Ё╠╟╞╞╞╝╜╝╞╞╜╚╚╙╘╘╘╗╗╖╖╔╓ё╒║═÷²°⌡⌡⌡ ≥≈≈√■⌠▓▓▒░█▄▀▀┼┴┤├┘┐│──}|{zyvvtxD&CBDDFGIJKNRSRTW[\^_beimmoruvxz|}~─┌└┘├├┴┴┼▄█▌▐▐░▒▓⌠■■√≈≤≥ ⌡°²···÷═║╒╒ё╓╓╔╕╗╘╙╚╚╛╛╜╞╞╟╠╠╡ЁЁЁЁ╣╥╦╥╥╦╧╨╪╫╬╬©©ююабцццддееефеффгххииййиййклллояррппптувььвжжжжутяонмлкииихда╩╦╣ЁЁ╡╟╞╞╞╞╝╝╝╞╞╜╛╙╘╗╖╕╔║═÷═║║║║║═÷÷═÷²°²° ≥≤≤≈√≤√▓▌▄▄▐░▒▒░▐▌█▄▀▀┼┼┼┴┴┼┼▀▀▄▐■√≈√■▓░█▄▄██▌▄┼┴┴┬┬┤├├┬▄█┴└│|│┌──┘▀▐▄▀▀▄▄┼┼├┘┌}xvwywxxuruywtsqpopponptwxwvvqolklortpqt{┐▀▌▌▄┴├└│~{z{wsqqojeiihggjlmptuqlmrvx}~~┌┐│││└┤┴┼┴┘│├┐|y{{yzwwxy|}}|{yxy|││}zy{ystxyz~└├┬▄▓≤÷╒╓╘╛╛╜╜╞╞╝╛╚╛╝╠ЁЁЁ╢╤╦╧╫©ююююаццефефгххффгиклллопяяяяртжжвььыызшээшшээшщэээщччщщщччччъъъъъЮЮЮЮЮЮАББЦЦЦЦЦЦЦЦЦЦЦЦББББББББББББББААББЦЦЦЦЦЦББЦЦББЦЦББББББББЦБББЦБАЮъчэзьввввжутттттссррррряоппяяярряяпнммнннмлккйиххххийллйигееедцбббааю©©юю©©ацдца©бцаюю©╫╪╨╦╤╤╤╤╣╥╥╦╧╦╤╤╥╣ЁЁ╣╤╣╢ЁЁЁ╠╟╞╝╜╚╕╖╗╖╓╒══·≥∙▓▌▄│posvuqonnpqv}}{{|{|─┘┤┴┼▀▌▓⌠▒▄┤┘┐┐┌┌│┌┐└┐┘┬▀┼┤┐┌└┘┘└┐└├┴┤┼┴└│~─┘├┘┐┌┌└┬▄▐▒▒▓■≈■▐▄█▐▐▌▐▓∙√≤⌡²·²°² ≤√■░▀┴┼┴▀█▄▀┴┴┼█▐▓≈≥  ⌡²°²····÷═ё╓╓╖╖╕╕╕╕╕╔╖╙╛╜╝╝╝╟╡Ё╡╠╡Ё╤╦╨╩╬афилнооппятвьзэщччщшывжжжужуттууутямммлклйихххххгхггфеееецббаааюю©╬╫╫╫╪╧╤╢╢╢Ё╠╟╟╟╝╝╝╞╞╞╜╚╙╘╗╗╗╗╗╖╔╔╓ё╒║═÷°°°⌡  ≥≤≈√■▓▓▒░░▄▀┼┴┬┬├┘┐┌─~}|zyxutrvB&CBCDFGHJJMRSRSXY[]_adhllnqtvxz|}~│┐└┘├┴┬┴▀█▌▐▌▐░▒▓⌠■∙≈≤≥ ⌡°²···÷═║║╒ё╓╓╔╕╗╙╚╚╙╛╛╜╝╞╟╟╠╡╡ЁЁЁ╣╥╦╥╥╦╧╩╪╫╫╬©ааюабццццддееффффгххиииииийкллмнясрппятужвжжуужжусяомммлллйею╫╦╤╢ЁЁ╡╟╝╝╞╞╞╜╛╝╞╝╜╙╗╖╔ё╒╒║÷÷║╒╒║═÷÷÷═÷²⌡²° ≥≥≤≤≈√√■░▌▌▌▌░░░▌▄┼┼▀┼┼┼┼┴┬┼▄▌▌▐▒■∙■⌠⌠▒▌┼┬┤┬┴┼┴┼┼┼┴┴┴┘┘├┴┴┘│}│││┤█▌▄▀█▌█┼┴┌│|yxyzzyxrpw~~xwtqoopppswyxuttqpnnpqqqoqw┬▌▐▐▄┼┤┘┌~{xvsqrrnhdjjihhknoswvqlnqrw{}┐┐┌┌┘├├├┬┴┬┤┬┌zw{}|{yxxz}~}|yxxz}───{yxywsswyz┘┬┴▄░≈²║╓╙╜╜╝╝╞╞╝╜╜╞╠╡ЁЁЁ╣╦╨╩╫╬ююююабдффффхиихххилмммоппппяртжвьььььызээшшээшщэээщччщщщщщщчъъъъъЮЮЮЮЮЮАББЦЦЦЦЦЦЦЦЦЦЦЦЦЦБББББББББББББАЦЦЦЦЦЦЦЦЦЦЦЦБББЦЦБББББББЦБЦЦЦБАЮъчэзывввввжутттттсрррряпооппппяяярряоммнонмллкйихиххиккйигфедддцбццбаююааююацдбаюббаюю©╫╪╨╦╥╥╥╥╥╥╥╥╦╦╤╤╦╥╣╣╥╦╥╤╣╣╢Ё╠╞╝╜╜╘╙╙╙╗╔ё║·≤√⌠▌▐┴wstutqonopot|─}yx|yx|─└├┬┴▄▒∙∙░┴└┐└┌~─┌│┘┘├┤┬┤┘└┌┌┐└├┤┬┬┴┼┤┌~{}┐┘┘└┌│┌┤▄░▒▓▓■≈■░▐▐░▒▒▒▓■■√ ²÷·²²²²²°≤▓▌█▀▄███▄▄▄▌░⌠√≤≥  ÷÷··²²²²═ёёё╔╔ёё╕╕╔╓╔╘╚╚╞╝╞╠Ё╢╡╟╠Ё╤╧╨╩╫©дгкноопяятьызэщчщэшывуужужуттууттянммлклкйииииххгггфеееебббааююю©╫╪╪╪╩╦╤╣╣╢Ё╠╟╟╟╝╝╝╞╟╞╜╚╙╘╗╗╗╗╖╕╓╓ёёё║÷·⌡⌡⌡⌡ ≥≤≤≈∙■▓▓▒▐▌█▀┴┬┤├┘└│─~~~}|zywtsquA$AACDFGIJILQRQSXWY\_adgiknqsuwy{|}~─┌┐└┘┬┬┬┴▄▌▌▌▌▐▒▓⌠■∙√≤≤≥ ⌡°²²·÷═║║╒ё╓╔╔╕╗╙╚╚╙╛╛╜╝╞╟╟╠╡╡ЁЁЁ╣╥╦╦╦╧╨╩╪╪╫╬©юаююацццццддефеффггхииииииийкллнясропртужвжууужжусянммммнниб╫╪╣╢╢ЁЁ╡╟╝╛╜╝╜╙╙╚╜╜╛╘╖╕╓ё║ё║÷÷═║║══÷··÷÷²°²° ≥≥≥≥≤∙√∙▒▐▌▌██▌▌█▀┴┼┼┼┼┼┼┼┼█░⌠⌠⌠■√√■⌠▓▒▌┼┤├├┤┤┤┴▄█▀┴┴┤┘└└┐│──~│┐┐┌└┬█▐▌▐▒▒█┬┘~|{zyxxvrqy││{yvronoprvyzwusrppqrsrpnosz┐▄░░▌┼┬├┐│~yusqqqpkfchiighkoqtusonoqpy{|┌┌─┌┘├┤├├┤┴┴┬─yx{~|xwwx{|{zwxy|~}yzyvttuuz{─┤┼┼▄▐≈°═╓╚╝╝╞╠╠╟╞╟╠╡Ё╡ЁЁ╢╤╨╪╪╪╫©ю©юабдфгггийийиийлннмнопппясуужвььььызшэшшээшэээщччщщччщщщчъъъъъЮЮЮЮЮЮААБЦЦЦЦЦЦЦЦЦЦЦЦЦЦББББББББББББББББББББББЦЦЦЦЦЦЦБЦЦЦЦЦЦЦЦЦЦЦЦЦЦАЮъчэшыььввжжуттттсряярряпопяппооппрсрпнммонмлккихиииххййиихфеедддбцццаююаююабддца©юааааю╬╬╪╧╦╥╥╦╦╦╥╥╦╥╥╦╧╦╥╥╦╦╥╤╤╤╤╢Ё╟╝╝╝╜╜╜╜╚╗╔ё÷ ≥∙▐▓░┌vusqonoopnpy~{xvywwz~│┐└└┤▄▓■▒┼┘┘┘┐~┌└┐┘├├┤┬┴┴┬┐│─┌├┼▀▀▄┼└─}}──┐┤┤┘┘┬▀▐░▒▒■≈√⌠▓░▐▒⌠⌠⌠■■≈⌡·══²⌡·²··²≥■▒▄▀▀▀█▐▐▌▒⌠∙√≈≤≥ ²²°⌡⌡°°²║╓╒║ёёёё╕╖╖╕╖╘╙╙╜╛╜╟╡Ё╠╝╞╡╣╥╦╧╩╪цфймопярятьызэщщщщэзьжжвужжттууттянммлклкйииииххгггфееддбббаююю©©╫╩╨╩╨╦╥╤╣╢╡╟╞╝╞╝╝╞╞╞╞╜╛╚╙╘╘╗╖╕╔╓ёёё╒║÷²⌡⌡⌡ ≥≤≈≈∙■■⌠▓░▌▄█▀┴┤├┘└┐──~}}|{yxvsspuA#@@BDFHIIIKNPPRVVX[^`cfhkmprtuxz{|}│┌└└┤┤┤┴▀▄██▌▐▒▓▓■∙√≈≤≤≥ ⌡°°·÷═║╒╒╓╔╔╕╖╗╘╙╙╚╛╛╜╝╞╟╟╟╡╡╡ЁЁ╣╥╧╧╧╧╨╨╩╪╪╫╬©юююааццбццдееееффгххихииййккклнясроптжвввжжужжжуспнммкмомга╪╨╢╢ЁЁЁ╡╟╝╜╝╜╛╘╘╙╛╙╘╖╕╕╔╓ёё═·²÷════÷····²°°⌡≥≤≤≥≤≤∙√∙░██▌█┼▀▄▄┼┴┴┴▀┼▀▌▌▌░■∙∙∙∙√√∙■▒░▌▀┴┬┴┼┤┤┬▄█▀┬┬┴┤└┌──┌~┌├┤├┤┬┴▐▐▒⌠▒▄┤└┌│─~{xvvwxwv{──{xtqonoqsvxxutrqnpruutqoru|├█▌█▄┤├└┌─}xsqqpolifchjkklorstrpprtuu}}|}~~┌┐┘┤┤├┤┬┬┤zy{~|xwwxz{{zxy{}}|y{yusuvvz|│┤▀▀█░≈°÷╓╚╝╝╟Ё╠╞╞╞╟╠╠╢╣╣╣╥╩╫╫╪╫©юююабегхххииийййклммнмояяпясусужвьыыззшэшэщэшээщчъъщэччщччъъъчъъЮЮЮЮЮАААББЦЦЦЦЦЦЦЦЦЦЦЦЦББББББББББББББББББББББЦЦБЦЦЦЦЦБЦДДЦЦЦЦДЦЦЦЦЦБАъчэшзыьввжжуутттсрряяяппопяяоннопярряонмнмлккйихййиггхихихгфеддцабббаююю╬©юцдедц╬╬©юабааю╬╩╦╥╥╦╦╨╧╧╧╦╦╧╩╦╥╥╦╦╤╤╤╤╣╢╢╡╞╝╞╟╞╞╝╜╙╖╓÷°⌡≈▓■⌠▀{vpnnnnoomnuzzwvttv{~─┌└┬█░░▄┴┼┴┘│─┌┐┌│┐├┤┬┴┬┤┤└─│┘┼▄█▌▀┘│┌│─|┌┤┼┼┼┼┴▄▌▐▐⌠≤≥≈∙░▌░■∙■■■≈°÷║║·⌡²°°·÷²≤■▐█▀▀▄▌▐▐■√≈≈≈≤  ⌡⌡°⌡°·══╒╓╒═╒ё╓╔╕╗╘╗╘╙╙╘╛╛╝╟╡╡╟╞╞╡╣╤╥╧╨╩беилноярятвьышщщээшывжжжужжттттстямммлклйииииихгггфффеддбббаю©©©╬╫╩╨╧╧╦╥╥╤╣╡╟╝╝╝╝╝╞╞╞╝╜╜╛╚╙╘╗╖╕╔ёё╒╒╒║÷²⌡⌡ ≥≤≈√√■■⌠⌠▓▐█┼▄▀┬├┘└┌││─~|zyxxwurrpuA#@@BCFGIHJKMNPSVVX[]_aegkmpqstvxz{|~─│┐┐┤┤┤┬┴▀▄▄▌▐▒▓▓⌠∙√≈≈≤≥ ⌡⌡°²·÷║║ё╓╔╔╕╖╗╗╗╙╚╚╛╜╝╞╟╟╟╠╠╡╡Ё╢╥╦╧╦╦╧╧╩╪╫╬╬╬©аааацццццдееееефггхххийккккклмятрояужвввжуужужуспнмнкннйдю╩╥ЁЁЁЁЁ╡╟╞╞╞╜╚╘╘╙╚╘╗╖╕╕╔╔╓ё═²²÷║║═║═·²²²°⌡° ≤≈≈≈≈√⌠∙∙░██▄▀┬┴┼▀▀┼┴┬▄▄▌⌠∙⌠⌠√≈√√∙∙∙■■░░▐▄┴┬┴┼┬┘┘┼▀┴┤┤┤┘┐┌─~─┌┌└├├├┬┬┤█▌▐░▌┼┬┤┤└│~|zwuwwzzxz}}yvsqqqrusvvtrqpoloruutrptv{┌┤┬┤├└┐│}ztnmopnmmiehlopprssrporuux{─}zz}|┘└┘├├┬┼┼┴┤─||z}zxxyz{||}{{|}~~}||zxvttwyy{─┤▀▄█░≤⌡·ё╙╜╝╟╡╠╞╝╝╞╟╠╤╥╤╥╧╪╫╪╪╬©аабццдгииийихййккклмммпрряпртстжььызззшэээщэшщщэщчччщъчччъъъччъЮЮЮЮЮЮАААБББЦЦЦЦЦЦЦЦДДДЦББАБББББББББББББББББББЦБББЦДЦЦБЦЦДЦЦЦДДДЦЦЦЦБАчщшззыьвжжжжжутссссряппяояррпооппооопооннмлккйихййигфгххххгфедцбааааааю©╬©ацеедцю©©юааааю╬╩╧╥╥╧╨╨╨╨╨╨╧╧╩╧╦╦╧╦╤╣╤╤╢╢╣╢╡╟╠╠╟╞╝╝╚╗╔║═² ≤≈■░│xpmmnooonoty{zxtuvyz{|~┌┌└┬▄▌▌██▀┤└┌┌│─┌┘├├┤┬┤┴┤┘┐┘┤┼▀▀▄┬┌┌┐│││┐┘┴█▄┼▀▄██▒≈ ≤≤▓▌░⌠■⌠■⌠√ ²═║·⌡⌡⌡⌡°²² ≈∙⌠▒▌▄▄▐▒∙≤ ≥≤ ⌡⌡ °°°²═║║╒╓╒═║ё╒╓╔╖╗╗╘╙╙╗╛╜╞╟╠╠╟╞╞╡╣╤╤╧╩╩адхкмнпяятжвьзэщшшшыжуужужжттттстпмллкккййиийихгфффффеддббба©╬╬╬╪╪╪╩╧╦╥╥╥╤╣╡╟╝╝╝╝╝╝╝╜╜╜╜╛╚╙╘╗╖╔╓ёё╒╒║═÷·°⌡ ≥≥≤√■■⌠⌠▓░▌▄┼┼┴┤├┘┐┌│~~|{ywwvuspqotA#@@BCEGHIKLLMQTVWXZ[]`dhkmoqrsuwz{|}│┌┐├├┤┬┬┼▀▄▌▐▒▓▓⌠∙√≈≈≤≥  ⌡⌡°²÷═║ё╓╔╔╕╗╖╕╖╘╚╚╛╜╝╞╟╟╟╟╠╠╡╡╢╤╦╦╦╥╦╧╩╪╬©╬©юбцбаддцццдеедеефггхххикллллккмптрояжжжвжутууужуспммнмомгб©╧╡ЁЁЁЁ╡╠╟╞╞╝╚╘╖╖╗╙╘╗╖╕╕╔╔╓ё═²·═╒ё╒ё═·²²²°⌡° ≤√√∙∙∙▐■∙▓▐█▀┤┤┬┼▀▀┼┬┤██▒≈≥≈∙√ ≥≈√∙∙■⌠▐▐▌▄┬├├┤├┌┌├┴┬├├┐┐┌│}~─├├┘┐└┤┬┬▀▀▄▄┼┬┬┼┼├─|{ywvywxyvvyzxurstuwyuvuroomkknrttrqqttx~││──~|zxtnhhlpprsngfkpqqqpopmmrssv{─|wx{|│┴┬┤┘┘┬▄█▄┤─~~z|~ywxyz{|}~~}}}}}}}~ywwusv|xy~├┼▄▌▒≤⌡²╒╙╜╜╟╠╡╡╟╞╟Ё╤╦╦╦╦╧╪╪╩╫╬юбццдддгййййхгийкйййлмнпрряпястувьььыыышэээщэшчщээщчччъччъЮЮъччъЮЮАЮЮЮААААББББЦЦББЦЦДДДЦББААББББББББББЦЦББББББЦБББДДДЦАБЦЦЦЦЦДЕДЦЦЦЦББщэшззыьвжжвввутссстсяпяяоярряопяпнммнооопоммлкйийкигфгхггхггецбабааабба©©юбдедцабаюююю©©╬╫╩╧╦╧╩╪╧╧╨╩╨╧╦╧╩╨╧╨╧╥╤╥╣ЁЁ╣╤╢╡╡╠╟╝╝╝╛╘╕╔╓═²·⌡∙⌠┘{pmnpppopquz~}zyxwvvwz│─│┐┬▀█▌▀┴┤┤┤┘└┐┌┘├┘┘┤┼▀┬┴┴┬├┘┘┤┬█┼└┌┌┌┐└─|}└▄▌▄▀█▄▄░√≤≤ ⌠▐░⌠⌠⌠∙▒■≈ ·═·⌡⌡  ⌡°° ≤⌡ ≤▓█▄▐⌠√≥°⌡ ⌡⌡⌡ °°⌡°÷═÷╒╓╒÷║║══ё╔╕╖╗╘╘╗╚╛╝╞╝╝╜╜╝╠╢╢╣╥╧╨адхклмопятжжвыэщэээзьжжвужжттттстпмллкккккйккйихфффффеддбцба©╬╬╬╩╪╫╪╧╥╤╤╥╥╣Ё╟╞╝╞╝╝╜╜╛╛╛╜╛╚╙╘╗╖╕╓ёё╒║║═÷·²⌡≥≥≥≤√■∙■▓░▐█▄┼┬┤├┘└┐┌│|||{zyxwtsroont@$@>@ACDGIJLNPRTUVWY[]adgjkmosuwxxxz}──┌└┘┬┴┼▀█▌▐▐░⌠⌠▓⌠∙■√≥  ⌡°²···═╒ёёё╕╕╕╖╗╘╘╘╛╛╝╞╞╞╞╞╡╟╟╡╢╢╣╤╥╥╥╦╧╨╩╩©©©ююююацббабцдеефггггггигхкллклйлпряпсвтжвутувьужтянмммомкга╨╢ЁЁЁЁ╡╟╞╝╝╜╛╚╘╖╕╖╖╙╘╗╖╕╔╓╒║═÷═╒ё╓╔╒═÷÷·⌡  ° ≤≈≈≤≤≈√⌠▓■▓▄┬┬┬┴┼▀┴┬┬┼▌▓≈≥≥≥√▓≤≤√■■∙⌠░▌▄┴┤┘└└└┘││└└┘┬┘└┐┌──┌┘├┬┤├├┤┼█┼▄▌┼┼▄┼┼┌}{yyzyxxwsnqwywursvxyxttsqnkkmoprpmlpvwwxz─└┌~zxvsssoljoqrsqmlkqsonrqmmnonorssxyxz}~│┤┤┘└├┼██▀┤┐─~|yxyxxz{{|}~~}|}~~{ywxvtuz{yy│┴▄▐√≥°║╕╚╝╞╟╤╣╢╣╥╧╧╦╩╩╧╦╧╩╪╩©©юацдеефгийкйихийклкллммпррппрсстжвыыыышшэщээщчщщщщщчччччччччччЮъъЮААЮЮББББББЦЦДЦББЦЦЦБДЦБААББЦЦЦЦЦЦЦЦЦАБДДДЦБАЦЦЦЦЦЦЦБЦББББЦЦЦЦЦЦЦЦЦБАъщшыььввввввввжужтттсяпяяррссрряооонннояяонммллкмлйхгхгегффеедддаааабаю©аюаццббцббаю©╬╬©╫╬╫╪╩╩╩╧╦╦╨╫╫╩╨╨╧╪╪╦╤╦╦╤╥Ё╡╢╤╣╣╤╟╞╝╝╝╜╙╖╔ё║═·⌡≈∙█┌vnlmprrmpwxyzwwwvuw|~~}}─┐┤┼▄░▌┼├┘┬┴┴┤┬├└├┴┴├┬┬┴┴┘─│─┬█┼├┘┌~~─┌┐┐┘┬▀▌▐▌█░■≤≥≥⌠█▌⌠≈≈∙▓■■∙ ²²·≥≥≥≥   ≥ ⌡⌡≥∙▐█▓√√≤⌡²··°²²°°°°²²······÷═╓╔╕╕╕╖╗╘╙╛╝╟╟╝╛╚╝╠Ё╢╣╦╨╨╩агйлноортвььышэщэшшыжттвжттуутсспнммнлкййййигфефггфеддеббаю©╬╫╪╫╪╩╨╧╦╥╤╥╤╣Ё╟╞╟╟╜╜╛╛╜╜╜╛╛╙╘╖╖╕╔╓ёё╒║══÷÷⌡° ≤≈≈√■∙▓░▌▌█▄┼▀┴┤┘┐│~}|{zyxvttopmnmp@#?>@ABDGHIKMOQSTUVXZ]`ceijlnqtvwxxz}─│┌└├┬┴┴┼▀███▐▒▓▓⌠∙∙√≤≥ °·÷²··═╒ёёё╔╔╕╖╖╗╘╘╛╛╜╞╞╟╟╞╠╞╞╠ЁЁ╢╣╥╥╥╦╧╨╩╪©©©©юююаббббццддефгггфффиххйлкклкмпряпсвуввустууужуяоооннлйфю╧╢ЁЁ╡╠╟╞╝╝╝╛╛╚╘╖╕╖╖╘╘╗╗╖╕╓ё═══║╒ё╒╒÷·²²⌡≥≤≥° ≤√√√√√∙▓▒⌠⌠▌┼┴┼┴┬┬┤┬▀▐▓■√√≈≈√■∙∙⌠▓▓▒▌▀┴┬├└└└┘├┘┐└├┘┌│┐└┐┐┐┐┌┐└└└┘┘┘┘├├█┼▀▄┼┴┬┘┬│}|z{|{{ywtptyyttstux{|yupljjmpqrrqnmqv|{yz}──}trqqrqnmjorsvtomlpqpqtsnllllmponuy}──┘└┌┌┘┼▌▐▌┬└───~zwwvvxy{}──│|{{||}ywwvtvz{z{│┬▀▐≈⌡·ё╗╛╟╡╢╣╤╥╦╧╨╩╪╪╪╨╧╨╪╫╪©юацдффгггххииихййллллммнопяярссттжьызыышэээээщччччччччччччъъчччъъъъЮААЮБББББЦЦЦЕДЦЦЦЦЦБЦЦБББББЦЦЦЦБББББАБЦЦЦБААЦЦЦЦЦЦЦББЦЦЦЦЦЦЦЦББЦЦЦАЮъщшыыььвььввввутвутссяясрряяяяяяоооонноппомммнммммкиииигххгфеддцбаююаааааюабцббцццбю©╬╬©╪╫╫╪╪╫╪╩╧╧╨╪╪╨╧╧╨╫╪╧╥╦╦╥╦╢Ё╣╤╣╢╤╠╟╞╞╞╜╙╗╔ё║║═·⌡≥■┴zolmopplouwwwvxxvvy}~~│└├┬░░▌▀┼┼┼┬┴┴├┐└┬┴┤┤├┤┬└~─┴██┼┴┼├|~─┐┘├┤┤┴▄▌░⌠√≈√∙▒█▌▒∙√√■≈∙∙≤ ≥≥≤≤≤≥≥≥≤≤≤⌡° ≤■■≤≈≈≤ ²··²⌡°²²°⌡°²²·÷÷²²÷║╒ё╕╖╗╘╙╚╘╛╝╞╝╜╛╛╜╟Ё╢╤╦╨╨╩агймояяртвььышэщээшыжттжжууттттспмлммлкйййиихггфггфедддбааюю©╫╪╬╪╨╧╦╥╥╤╣╣Ё╠╞╝╞╞╜╜╛╜╜╜╜╜╙╘╗╖╕╔╓ёё╒╒║═÷··⌡⌡ ≤≈≈∙⌠■▓▐▌▌█▀┴┴┬├└┌─~}|zyxvtsrnomnlo?#>=?@BCFGHJLNOQSSUWZ\_acgilnortvyyz}─│┐└├┬┬┤┬┼█▄█▐▒▓▓⌠∙≈√√≈≥°²·²²·═║ёёё╓╔╖╖╖╖╘╙╚╛╜╝╞╟╟╟╠╞╞╟╡Ё╢╤╥╥╥╦╨╩╪╫╬╬©©юююааббцддццефгггфффиххйкклллнпряятвжвжтттутужтрппоолкид╬╥ЁЁЁ╠╞╝╝╝╝╝╛╚╙╘╖╕╕╕╖╗╗╗╖╔╓ё║║╒ёё╒═÷÷·²²°   ⌡ ≥≈∙■∙√■░▐▒⌠░▄┴▀┴┬┬┴▀░■∙√≈≈≈≈√∙▓▓▒░▐█┼┤┤├┘└└┘├┤┐└├├┐~}─┐┌┐┘├┘┘┘└┐┐┐┘┘┘┘▀▀┴┬┼┤┌─└||{|~}zvtrqvzxpqrrruy|}vnihilopqrrqpty~~~~─|pnmopnmnmrtvywqnmnoruvsomlkkmonkrz─┐┐~┌│─│┘┼▐▓▓▄┤┌┐┘┌}xvuvwxz~┌┌┐│|xxz|}zxxwvwzy{}┐┴▀░≥²═╔╘╛╞Ё╤╤╦╨╩╩╩╪╫╪╪╩╨╩╫╬╫╬©ацефггйииххийкккммммннпоопяссстувьыыыышэээээщччччччччччччъъчччъччъЮААЮАААББЦЦДЕДЦЦЦЦЦЦЦЦЦЦББББББББББААББББББААББЦЦЦЦЦББЦЦДДДЦЦЦББЦЦБАЮъчшзыыььыьььввутвутсррстрряпоппппппоооооонммннооммлккккийихгфедццаю©юаббюююббааццдда©╫╬©╩╪╫╪╪╫╬╫╨╨╨╩╩╧╥╦╪╫╫╧╦╧╧╥╦╣╢╣╤╣╢╤Ё╡╠╠╟╝╚╗╔╓ё╒║═·°≤▐qkmonppquxvstxwwx|─┌││──┌┘┤▄███▄▄┴├┬┬┤└├┴┴┬├├├┘│}|~┴▀┼┬┴▀┴┘~│┘┤┤┘├┴█░■√∙⌠░░▐▐▐▓■√≈≥≈∙≈≤≈≈≤≤≤≤≤≤≈√√ ⌡≥≥≥≥⌡≥≤≤≥°·÷÷≥⌡··°⌡⌡°°·═÷²²÷╒║ё╕╘╙╙╙╙╘╚╜╝╛╚╚╛╜╟╡╢╤╦╨╨╧╬дхкнппртжвьышэщэээзжтттужутстурпмлммлйкййиххххфгфедцццбааюю©╬╫©╫╨╦╥╥╥╥╢╢╡╟╞╝╞╞╝╝╜╜╜╜╛╛╘╗╗╖╖╕╓ёё╒║║═÷··⌡⌡≥≈√√■▓▓▒▐▌█▄┼┬┤├┘┐│~~}{ywvtrqplnlmkm="><?@ACFGHJKMOQRRTWZ\_abfhlnoqtvyyz}─│┐┐├┬┬├┤┼▄▌▐░▒▒▓⌠■≈√√≈≥   ²²·═║╒╒╒ё╔╖╖╖╖╘╚╚╛╜╝╞╟╟╟╡╟╟╟╡╢╤╥╤╥╥╦╨╩╪╫╬╬╬©©юююаабццддддефгффггиххийклллнпяяртвжуттужуууутяоонмлйхц╪╣╡ЁЁ╟╝╝╞╞╝╛╛╚╙╗╖╕╔╔╓╕╖╗╕╔ё╒ёё╓╓ё║÷·÷·²²°°⌡⌡  ≥≈∙■∙√⌠░▌░▓▓█┼┬┬┼█▐▒■≤≈≤≤≥≥≤√■▓▓░▌▄▀┬┘┬┤┘└┐┐└┘┌┐└└│~┌└┐└┤┴┴┬┤┘└└└└┘├┤┬▀┬┘┤└~~─{yzyz|{wrporwzwpqqqprvy}volkkjjnortuux||┌└└┌|tpnpommpruvvyvpmnmosutpmmlkjkmnns{│└┐}───┌├▀░■∙▌┬└┘┬┘yxxxxyz~┐┌└┌|ww{~|zxxxxyzz}│├▀█▒≥²║╔╗╘╛╠╣╥╧╨╩╨╨╨╨╩╪╪╩╩╫╬╫╫╬юбдефгкйииийкклмнннннояпопярсстувььыыыээээшэщчщчччччччччъъъъччъъъъъЮЮЮАААББЦДДЕДДЦЦЦЦЦБЦЦЦЦЦББББББББААББААААААБББЦЦЦЦЦБЦДДДДЦБЦЦЦЦЦЦБАЮчэззыыьзыьььвутжутсссстрряпоооооппооонмннммнноомммкклкйййихгедддбюююаббю©юаааабцддб╬╪╫©╫╫╫╪╪╫╬╫╪╩╨╩╨╦╦╦╫╫╪╨╧╧╧╥╦╤╣╣╣╢╢╣╣╢Ё╡╟╝╙╗╖╕╓╒║║·⌡ ■├ulmppsvvx{vpsutux}│┐└─}~│┘┤┤┤┴┼▀▀┼┬┘├┤┤┬▀▀┼┴┤┘┐{|~┘┬┴├└├┬┬└┌─│└┤┬┤┬┬┼█▐▒▓▒▐▒▓▒░░■≈≤ ≤√≤≥≤≥≈≈≈≤≤≈∙■∙  ≈≥°²·²⌡  °·÷÷ ⌡°²°⌡⌡⌡⌡²····═║║╓╗╙╚╙╘╘╙╛╜╛╙╙╚╜╜╞╡╢╤╦╨╨╧╫бгймопстжььзшэщэээзжтттууутттуромллмкйййихххххфффедццббааюю©╬╫╬╪╨╧╦╦╦╦╢╢╡╠╟╞╞╟╟╞╝╝╜╜╚╙╘╘╘╗╗╕╓ёё╒║═÷··²⌡ ≥≈√∙■▓▒░▐▌█▄┴┤├┘└┌─~~~}{yvtsqppkmkkim="><>@ACFGHIKLNPRSUX[]_abehlnoqtvyyz}─┌┌└├┤├┤┼█▌▐░░▒▓⌠■√√√≤≥ ≥≤²²·═║║╒╒ё╔╖╗╖╗╙╛╚╛╜╝╞╞╟╟╡╠╟╟╡╢╤╤╤╤╥╦╨╩╪╫╫╬╬©©юююббббццдецдфффгхххииийккллмопясужвуттужжужжтяоомклйгб╩╣╡╡╡╠╞╞╟╞╜╙╛╚╙╗╕╔╓ёё╔╖╖╖╔╓ёёёё╒║÷·²°°⌡⌡    ≥≥≤≈∙■∙√⌠▒▐▐▒▓▐▀┤┴▄░⌠∙≤ ≥≤≤≤≤≈∙⌠⌠▓▐▄▀┼┴┤┬┤┘┐││┌┌┐┐└┘└┐┐└┘┘┤▀██▄▀└┘┘└┐└├┴├▀┬└┘┌─}xwxwxyxwrppsxzvrrqqrtuwytonnmkjmosxzzz||┐┘└│~|ysooomossvuuvtomnmorspljihhgfhmqv|─││─││┐┘┬▄░■√▐┴┘├┬├─{zzzzz{┐┌┘└}wvz~|yvvwy{}~┌┘┼██▐∙ ·ё╕╗╚╟╣╥╥╦╧╨╩╨╦╨╩╩╩╩╪╫╪╪╬юбдефгхииииииимноонннняяяяпясттжвьььыышэээээщчщщччччччччъъъъччЮЮъъъъъЮАААБЦЦЦДДДЦЦЦЦЦЦБЦЦЦЦЦББББББББББЦБАААБААБББЦЦЦЦЦБЦДДДДЦБЦЦЦЦДЦБАЮчэшззыызыыььвутттттсссряяяяяпоноппннонлннммммммммлкклкиййиихгфедцббббаааю©юаюаббцца╬╪╫╬╪╫╫╪╪╬©╬╫╩╩╩╩╧╧╨╫╫╩╧╦╦╦╥╤╣╢╢╢ЁЁ╣╤╣╢Ё╟╜╙╗╗╗╔╒║║·⌡⌡≤█|pnpqtyz{|vqsrrsvz~│┌~|{|~┐├┘└└┘┤┴┼┼┤┤┤┤┴▀██▄┼├┐~─┐├┬┬┘┌┐└└┘└┐┐└┘┤┬┴┴┴┼▀▄█▌░⌠√∙▓▒■≈≤⌡≥√≤≤≤≥≈≈≈≤≤≈∙■√ ≥≈⌡÷║ё═·°°²÷÷÷²⌡  °²°⌡⌡°°²÷════ё╗╚╛╚╘╗╚╛╛╙╘╘╚╜╜╞╡╣╥╦╧╨╪╬бгкнпятувьызшэщэээзвттутттууутроллллкййиххггххффеедцбббаююю©╬╫╪╩╨╨╨╧╦╦╢Ё╡╠╟╟╟╟╞╞╝╝╝╜╛╚╙╙╘╗╖╕ё╒ё╒║═÷·²²⌡ ≤≈≈∙■⌠▒▒░▐▌▀┴┤┘└┐┌─~~~}{yvtsqppkliihl>!=<>?ACFFGIJKMPQSUX[]_abegkmprtvxxz}~~─│┐┘┤┤┬┼▄▀█▌▐░▓⌠■∙∙≈≥ ⌡⌡⌡°²÷══║║╒ё╔╕╖╖╗╙╚╚╛╛╜╝╞╞╟╠╟╟╞╠Ё╣╢╣╤╤╥╧╨╪╪╫╫╬╬©юююбббббцдецдеффгхигийййккккмопртууьжууууттвжурпомккхеа╪╤╡╡╡╠╟╟╟╝╛╙╚╙╘╖╕╔╓ё╓╓╕╖╗╖╔╓ё╒║═·²²²⌡⌡⌡≥≥  ≥≤≤≈√∙■∙∙⌠⌠▒▐▐▒▒▌▀▄▌▓∙≈≥° ≈∙■■■■■▓▒▐▀┼┼┼┴┬┤┘┐┌┌┐└┌┐└├┤┘┐┌┌┐├┼██▄█└┘├┘┐└├┴├┼┼┘┐┌││|wvvuuvuvrqqrvwrsrqrsuuttpmmnnoppruz}|{{~~~{z{zsnmnpruuxxvwurqonnoomigeeeddgnuy~~─│└└┤┼▄█▐▓■▒▄┬┬┼┬└│{zz{{|┐┘┤┤─xvy}}zwvy}─┌└├┤┼███░≈°╒╕╗╚╠╣╢╢╣╥╨╪╪╩╨╩╪╪╪╫╫╫╫©бдефгхххийййиимноонноояяряяястужььььызшшээээщчэщщчччщщчъъъъъъчЮЮЮъъъъЮААББЦЦЦЦЦЦЦЦЦЦДДЦЦЦЦЦЦББЦЦЦЦББББЦБААБББАЦЦЦЦЦЦДДЦЦДДДЦЦБДЦЦДДДБАЮчэшззыызыыыьвжустутттсяяярряпонопоммонлмннмлллллмлкклкийййиихгфдддддцбабю©юю©юбаббю╬╪╫╬╩╪╪╪╫©юю╬╫╩╩╩╨╩╪╪╩╧╦╦╥╤╤ЁЁЁЁ╡╡Ё╢╤╣╣Ё╠╝╚╘╗╗╔╒║╒═²°⌡⌠┐unmnrw{}|wsstttvxz}─~|{}~┌├┘┐││┐┘┤┴█▀┬┤┬▀▌░▌▄┴┘┐┐├┬┘└│─┌└┐│┐└├┤├┘├├┴┴▀▀▀┼┼▄▒■√√■⌠■√≤⌡≤∙√√∙≈≈≈≤≥≥≤√∙∙≈√≈²║ё╔ё║÷÷÷════°≥≥°·²⌡²°°·═║═÷═ё╖╙╛╛╚╙╜╛╙╗╗╘╚╜╜╝╠╣╥╥╦╨╩╫афймояужжвызшэээээшвууутстужтсромлллкйииххггггффеддццббаюю©©╫╪╩╨╨╧╧╧╦╥╢╡╠╞╞╞╞╝╜╜╜╜╝╝╜╛╙╙╗╖╕╓╒║╒╒║═÷²²°⌡≥≤≈≈∙⌠⌠▒▒░▐█▀┴┬┘└┌│─~}|{xvusqppkkggfk= <;=?@BEFGHIKMOQSUWZ\^`bdfilprtuwwy|~~~│┌└┤┬┴┼┼▀█▌▌▐▓⌠■∙√≈≤≥ °°°²÷÷══║╒ё╓╔╕╖╘╙╙╚╚╛╜╜╝╞╞╟╟╟╞╟ЁЁ╡╣╣╤╥╦╨╩╩╫╫╫╬©©ююаабццддддеффффгхфийййккййлопсжжувутууттужжтяпомкхфцю╪╥Ё╡╟╟╞╞╝╜╚╚╙╘╖╖╕╕╔╓╓ё╓╔╗╗╕ё║║║═·²°²⌡°⌡≥≥ ⌡  ≥≈√√√∙∙▓■■░▌▒■⌠▒░▓∙≈≥ °≥√⌠■■⌠⌠■▒▒▐▄▀▀▀┼┴┬├└└└┘├│┐└├├┘┐┌┌┐├┼▀┼┼▀┘┤┴┼┴┬┬┴├┤┬┘│┌┌~zvttrrtstqrrsvvrutttttsrqomllnqtttw{~~~}|zxwvwzxrlknsuvw{{yxvssomkkmmiedddeeipww}||}─┘┤┼█▌▌▌░▓▒▌┼┼┴┬┤┤─}{{{|┌├┴┴┌zvx{}||~┌┘├┘┤┤┘┤▄█▄▐≈⌡║╕╘╛╞╡╡Ё╢╤╧╩╪╫╩╫╬╬╬©©©╫юцеефхихийкккййклннооппяпяярстсжвыыььыззшэщщщщщщщчччччщчъъъъъъчъЮЮъъъАБААББЦЦЦЦБЦДЦЦЦДЕЦЦЦЦЦЦЦБЦЦЦЦББББЦБАБЦЦБАЦЦЦЦЦДДЕЦЦЦЦЦЦЦБЦЦЦЦДЦБАъчэзззыыыыьыыьвжтуутстсряяяяппооопоммоолмннмлкклкллклллйййййихгфеддееедццаююю©юаююаю╬╫╫╬╩╪╪╪╪©ююю╬╪╪╩╨╩╫╨╧╥╥╥╤╣╣╟╡╡╠╟╠╡╢╣╣╣╢╠╞╜╚╙╙╖ёё╓ё÷·²√┼|qmlpt|~zvtruuuvvw{}|││└┬├┐│┌┐└┘┬█▄┼┴┼▄▐▓▐█▀┬├├┤┬┌─}|─└┘┐┌└├┤┤┤├├┴┼▄▄┼┴▀▐▓⌠∙√√√∙■≤ ≤■∙∙■√≤≤≥   ≤≈■∙√≥═║║ёё╒║║╒ё╒║═²  °··²÷÷÷════÷║╓╖╙╚╛╛╛╝╚╗╕╖╘╚╛╜╝╠╣╥╥╦╨╧╨╬дилняжжжвьыззэшээшьжуттттуттсрпмллмкйиииххгггфеддддцббаю©©╬╫╪╪╨╧╦╦╥╤╤╢╡╟╞╝╝╝╜╜╜╜╜╝╜╛╚╙╘╗╖╕╓ё║║║═÷·°°⌡ ≤≈≈√■⌠⌠▓▒░▐█┼┴┬┘┐───}{zywvtrpoojkgfdi; <:=>@AEFGHIJLNPSTWY[]`acdgkorttvvy|~}}~│┌└┤┴┼┴┴█▐░▐▐▓⌠⌠√√≈≈≈≤ °°²÷÷══║╒ёё╓╔╖╘╘╘╚╚╛╛╜╝╝╝╟╟╟╞╠ЁЁ╡╢╣╣╤╦╧╨╩╪╫╫╬©©юююабддддцефффеефгфикййккийлоятввуусстутувттрпоомйгца©╫╦╢╡╞╞╝╜╛╚╚╛╗╖╕╕╖╖╕╔ё╒║ё╕╖╔╒║╒╒║÷·²²⌡°⌡≥≤  ≥²⌡≥≤≤≈√∙▓√∙░▌▓√≈■■√ ⌡⌡ ⌡≤∙■√≈∙⌠▓░▒░▌██▄▀┬┤┘└┐└┘┘┐└┘┘└┘├├├┤┴▀▀┴┴┼┴┼▄▐░▌▄┼└└├┘─││zytsrpprrrrtuuxyvyyyxvtrqponmllptvuw{───}zvuttvxwrlkotvuv{|zxtqqpmiimokecbbdfjpvt{~|z{└┬▀▐▐▌█▌░▐▄┴┬┤├┤┬├│}{{|┌├┴┴┐{xy{{}┌┬█▌┼├┤┘│┐┼█▌░≤°╒╖╘╚╜╞╠╡╢╤╥╦╩╫╪©юююааа╫юцеефгигххииийййкмноояяпооятжусвьззыызшзшщщщщщщщщчъъъччъъъъъъъъчъъъъЮБЦАББЦЦЦЦББЦДДДДЕФДЦЦЦЦЦЦЦЦЦББББББЦБББДДБАЦЦЦЦЦДЕЕЦЦЦББББЦЦЦЦЦЦЦБАъчэзззыыыььыыьвжжжуссттсряпооооппяолмппмммнмлкклкллклнмкйкййихфееддефффецаююю©юаююю©©╬╬╬╪╫╫╪╪╬©╬а©╫╪╩╨╩╫╧╥╤╤╤╣╢╢╞╟╠╟╞╟╡╢╢╢╢╢╡╟╝╜╛╛╘╔╓╔╓═╒÷ ▒└xpnpt}xutprrstssx~}{{│┌└┬┤┘└┘├┤┬┴┼┼▀▄▌▐░▒▐▌█┼┤├┘┘┌┌─~}─└├└└┘├┤┬┴┴┼▀▄▄┴┴█⌠▒▒▓∙≈≈∙⌠√≥≈■∙∙∙≈≤≤≥ ⌡⌡≥≤≈≈≤·╓ё═╒ё╒╒ё╓╓ё╒÷²°⌡²··²║╒╒╒═÷÷÷╓╕╗╙╚╚╚╚╝╚╖╔╕╗╚╚╝╝╠╣╥╥╥╧╧╨╬димпсжжжжвьыышшшэшьжжстуутсстрпмлммлйииииихгффеддддцббаю©©╬╪╩╫╩╦╤╤╣╣╣╢╡╟╞╞╞╝╜╞╝╝╝╜╛╙╘╚╙╗╖╕╔╓ё║═÷·²°⌡ ≥≈√√√■⌠⌠▓▒░▌▄┼┴┬├┐─}zxxvutrpnmikgfdh: ;9<?ABDEFGHJMPSSTVY[\^`dehknqsttwz||}┌│┐┘┤┬┴┼▀▄█▌▐▒▓⌠⌠■∙∙≈≤≥  °²÷══║╒╓ё╓╕╖╖╖╗╗╙╚╛╜╜╝╞╟╠╞╞╠╡╠Ё╣╣╤╤╤╥╦╩╪╫╫╫╬©©©©ааббцццдцдееефгггхииийкллймртужууутттужжуутянлкйха╬╬╫╩╤╞╜╝╝╜╜╜╚╗╗╘╗╕╕╖╕╓╒╒╒ё╖╘╖╒║ё╒═÷÷· ≥≥≥≤≤≥≤≈≥ ≥∙∙√√■■√■░░∙ ⌡°≤≤°²≥≈ ≥≤≈≈√∙⌠▓▓▒░▐▌▄┴┬├├┘├┤┴┬├└┬┴┤├┬┴┬┴█▐█▄█▄┴▐░⌠√≈∙▌┬│┤┬┐}zyvzvqnnqtvuwuqrx|}xy{{xtpmooonlmptyxy}┌└┐┌│|wssstttojmtvux{zzzytoligikklkgdbceeektxy{}}~│┐┘┼▄▀┼┴┼▐▌┤└┘└└├┤┬┐~{z{~│├▄▀┬y┐├┬▀▌░░┼┐┌│─┌┤█▒⌠⌡²╒╖╘╙╜╠╡╠╡╤╧╨╩╫╬╬©©©©ююаадфефхггхиииййкйлмннопяяяррррстуышзыышээщщчччщщэщчъччччччччъъъъччъъъЮАБЦЦЦЦББББЕДЦЦДЕДДЦЦББББББДЦЦББАББЮАББЦЦББЦБББДДДЦЦЦДДЦЦЦДДДЦЦЦЦЦЦАъщшыыыызыыьвжжужжжтсррсрряпооппяяпппппяонммннлйййййлллллкиииихгфддфхгедцбаю©╬╬©юююююю╬╫©╫╫╫╩╬аююю©╫╪╪╩╩╦╧╦╤╣╣╢╠╞╟╠╟╞╞╟╡╡╡╡╡╡╠╟╞╜╛╙╗╖╖╔╒═· ⌠▀┌wnpu}┌}soqosuuuxzy{{|~│└├┤┬├┬┴┘─│┤▀┬┴▀┴┴▄█▌█▄▄▀┼├┌┌┌│───│┌│┐┘┬▀█▀█┼┬┴┴┴▀▌░▓■≈≈■▓▒▒■≈≥≥≤≤≤≥ ⌡⌡°⌡⌡⌡≥≥⌡÷ё╓ё═ё╓╓ё╓╔╕╕═÷²°°°²····║╒╒╒ё╒╕╘╘╘╚╜╜╛╖╔╖╙╚╚╜╛╝╠╢╤╥╦╦╦╨╫югнртуужжвьызызэшывжжжттутсрсяпмлккккиххггххифффедцбабаюю©╬╪╩╨╨╧╧╧╦╤╣╣╡╟╟╞╝╜╝╛╜╜╚╙╚╚╙╘╗╖╕╕╔╓╓║═·²°°⌡⌡≥≤≈√∙∙■⌠▓▒░█▀┬├┘┐└└│~||~xywtssqoljkfebf:!;9<?ABDEFHIJLNORSUWZ[^`cegjnprstvz{{|││┌└├┤┬┼▀▄▄▌▐░▒▓▓■∙∙≈≤≥≥ ⌡°²÷═║╒ёё╓╔╕╕╖╗╘╙╚╛╛╜╜╞╞╠╟╟╠╡╡Ё╣╣╣╤╤╥╦╧╨╪╫╬©©©©юаааббццддееееефгфгхиийкллйнстужууутттужжуутпмлйифю╫╫╩╧╣╝╛╜╜╛╛╛╙╗╕╕╔ёё╓ё╒║══╒╖╙╗╓╒╒║÷÷÷·²° ≥≥≥≤≈≈≥≥≈∙∙∙√∙√∙■⌠⌠∙ ÷÷⌡≥  ≥≥  ≥≤≈√∙⌠▒⌠▒░█▄┼┴┴┴┴┤├┤┴┬├┤┴┴├└├┤├┴█░▌█▌▌▄▒⌠∙≈≈■█┤┐┤├─zxwuxuqooprsorsrtxzyyzzyuqnlponmmotw{{|─┐└┐││|vrrssrnlkpxxvxzyz{yrkfcdhjijkidddddgmsuwz{|~┌├├▀▄┼┴┬┴▌█┤┘┘┘├┤┘┘│|zyz~│└█▐█├│┬┼▀▄▌▐▐█├─┐┌─┌├█⌠≈ ²║╕╗╙╜╠╠╠╢╥╧╨╪©╬©©©©юбдцбдфдехггххиийкллмнооопяяррррстууьзыьышээщщччччщщчччччъЮччччъъъъъъЮЮЮЮБББББББЦЦЦДДЦЦДДДЦЦЦЦББЦЦЦДДЦЦЦЦЦЦААББЦББАЦБББЦДЦЦЦДДДЦЦЦДДДЦЦЦЦББЮъщшззззззыьввжжввжусррртсряяяяяяяпппппяонммннмккйййклммкйиххгфееддфгфддддцбаюююю©©ююю©╬╬╫╬╫╪©бюааю╬╫╫╪╪╧╧╦╣╣╣Ё╠╞╟╟╞╜╛╜╞╠╠╠╡╡╠╟╝╛╛╚╘╖╖╕╔═÷⌡∙▌├|tqt{│~upqsvwvwz{|xxz|┐├┤┴┘┘├└┐┤└┘├┘├┴▀▄██▄▄▀┬└~~│┌└┌└┘┘┤▀▐░▌▄┼┼┼┼▀█▒▓∙≤≈■▒░▒⌠∙≈≤≥  ≥ °²²···⌡²═╒ё╒╒║║╒╓╓╔╖╕╔║÷²⌡  ⌡⌡·²²═╒╒ёё╓╕╗╗╗╙╛╛╘╗╖╗╘╙╚╛╛╝╟Ё╣╤╥╥╧╩╫юекпяужжввьызызшшзьжууттутсрсрпмлккййиихггггхфффедцбббаю©©╬╪╩╩╨╨╧╧╦╤╣╢╠╞╞╞╝╝╞╜╝╜╚╙╙╙╘╘╗╖╕╔╓ёё╒║÷·²°⌡ ≥≤≈√∙■⌠▓▓░█▄▀┼┬┘┐└└┌|{{xxvsrrqnmklgfcf; ;9<>@ACDEGIJKLMRRTVXZ]`bcfjmoqrsvyz{|~─│┌└┘├┤┴┼▄█▌▐░▒▓▓■∙∙√≈≤≥ ⌡⌡°²÷║╒╒ёё╓╔╕╖╗╘╙╙╚╛╜╜╝╞╟╠╠╟╠Ё╢╢╢╣╤╤╤╥╥╦╩╪╬╬╬╬©юаааббццддеееееефефххийкллйотужвжуттттужвууспмлигц╬╪╪╨╧╣╝╛╛╛╚╚╚╙╗╖╕╓ёё╓╓ё╒║÷║╔╘╗╔ё║÷÷÷÷÷÷²⌡   ≈√√≤≈√√∙■∙√∙■√≥≥≤°╒╒· ≈≤≥  ²⌡≥≤≤√■▓▓░▌▀┴┴┼┼┼┼┬├┤┬┬┤┼▀┼├┘┤┬┤┴█▐█▀█▐░▐▓∙√√■▐┼┬┤│ytsttvtrqpppompstw{|{zzxurponqpnmoty|─┌┘├├┐│─{tqqrqpllntz{y{|zxxuogb`bgjggjjefebcipssuxy{~└┤├┼▀┼┴┬┴▌█┬├┘┘┬┬┐│~yusty~┘▒∙⌠▄┴▌▌▌▐░▐█┼└─┐┌┌└┬▐∙≥≥°║╔╗╘╜╟╞╠╣╥╦╧╪ю©╬╬╫╫©бдедеецехггхххийлнмноопппяррсссстуувьььзшээщщчччччччччщчъЮъъъъччччъЮЮЮЮЮББЮААБЦЦЦДДЦЦЦЦЦЦЦЦЦЦЦЦЦЦДББББББББББББББААЦБББЦЦЦБЦДДДЦЦЦДДДЦЦЦЦББъчщшзззшззыыьввжжжжусссссрряяяяяяяяпппппонммннмллкййклмнлкиххгеееддфгфдддддцбааюю©©©юю©©╬╫╬╬╫юбаааю©╬╬╫╫╩╨╦╣╢╢Ё╠╡╡╡╟╝╛╛╜╞╞╟╠╡╠╟╞╚╛╛╙╘╘╗╗║═²≤⌠█└}uuz─wqpttutuwyzvvxz~┌├┬┼┘┐┘┘┌─│┤┐┌└└┤┴┴┼▄█▄▄▀┬├}~~─│┐┐┘┤├┤▀░⌠▒▐██▄▄█▐░▒■≤≤∙▓▒▓▓■√≤ °°°²·²°⌡⌡⌡⌡═ёё║÷║ё÷║ё╔╖╘╗╕╒═² ≥≥ ⌡·°⌡²═╒ё╓╕╖╖╖╖╘╙╙╔╖╘╘╘╚╛╛╛╜╞╠Ё╣╥╥╨╪╬юдйояжжввььызызшэшывутссттсссрпмлкййиииихгггфеееедцббаю©©╬╫╪╩╨╨╧╧╧╥╤╢╡╟╝╞╞╝╝╞╝╝╜╚╙╘╘╗╘╗╕╔╓ё╒║ё║÷·²° ≥≤≤≈√∙■▓▒▒▌▀▀▄▄┴├└└┐┌}zyxwusqqpnljjeebe9 :8;=??ABDFHIKLNRRSUWY\`acfilopqtvxyz{~─┌┌┐└┘┤┴┼▄█▌▐░▒▒▓■■∙√≈≤≥ ⌡ ⌡²÷║╒║╒ё╓╓╔╕╗╙╙╙╚╛╜╜╞╟╞╠╠╟╟Ё╣Ё╢╢╣╣╣╤╦╧╧╩╫╬╫╫©юююаабцццддеееефффгхииийккйотужвжуттттужвууромкхеб╬╫╪╨╨╤╟╛╛╚╚╚╚╙╗╗╖╔ёё╓╔╔╓ё║║ё╓╔╓╓═·══÷·═·⌡≥  ≈∙≈≤√≈≤≈■■∙⌠√ ·÷²÷╒╓╒²≤≈ ⌡≥° ≤≤≤≈■▒▐▌▄┼┴┴┼▀┴┴┤├┤┴┴┬┼▀▀┴┴┼▀┼┬▄█▀┴▀▌▒▌▓■■■⌠▐▀┼┘{qlmqsssssrpnmoqsuz│─{zwsqpqrqqpqtz~─┌└┤┬┤┘┐─~xrprsrpoqrv{|}─┌|uqokhfccgiffijgfecejptvvwx{│┘┬┤┼▀┼▀▀▄░█▀┴┤┤┼┬─{vqnou{┬√ √▐▄▐▄▄█▌▌▀┴├┐┌┌┐┤█⌠√≈≤°║╔╖╘╛╞╝╠Ё╤╥╧╪©ю©©╬╫╬юбфдффефххххххиймоннооопппррсссстувьььыэщэээщчччччщччщщщчъъъъъъччччъъъъъЮАЮААББЦЦЦДЦЦЦЦЦЦЦЦЦЦЦЦЦЦДАААБББББББББББААЦЦЦЦЦЦЦБДДДДДЦЦДДДДЦЦЦББъчщшззззззыыьвжжттуттттурряяяяяяяяпппппппнмммнммлкййкммнмлкихгфеффффгфедбццццбаюаю©©©©©©╬╫╬╬╫юбаююю©╬╬╫╫╫╩╦╤╢╢ЁЁЁЁЁ╠╞╜╜╜╝╝╞╠╡╡╟╞╛╜╜╚╚╛╚╘ё╒═°≤⌠▄┘{xz─yrpqqqrsuvxvwxz|│├┴┬└┌└┘┐┌┌┘~│┘┴┼┤┬▀█▄▀┼┬├│┌┌││┐┘┤┬▀▌▒■▓░▌█▌░▓▌▐⌠≈≤√⌠▓⌠⌠⌠∙≥⌡°°²··²⌡≥≥≥⌡÷║═²°═ё║║╒╓╖╙╙╗ё║·⌡  °²·⌡≥⌡·═║╒╕╖╖╖╗╘╘╖ё╕╘╘╙╜╜╛╜╝╞╟╡╣╥╦╦╩╫©цйпсжжьььыыззызэщшвтссссссссяомлккййиииххгффеееддцббаю©©╬╫╪╩╨╧╧╦╦╥╣╢╡╟╝╝╝╜╜╝╜╜╛╚╙╘╗╗╘╖╕╔╓ё╒║╒║÷·²°⌡≥≤≈≈√∙■▓░░▌▀▀▀▀┴├└┐│─}zxxwusqponkijeeae8 :8;=??ACDEFGJLNRSTUVW[^abehknpqtvxyz{}┌┌┐└┘┤┴┼▄█▌▐░▒▓▓⌠■∙√√≈≥ ⌡ ⌡²÷║╒╒ёёё╓╓╕╗╙╙╙╚╛╛╝╞╟╞╠╠╞╟Ё╢Ё╢╢╢Ё╢╤╧╩╧╩╫╬╫╫©аюююабцццццдееефггхииииййййотуужууттттужвжтянлйгцю╬╫╪╨╧╥╟╛╚╙╙╙╙╘╘╖╔ё╒ёё╓╔╓ё╒║══║ё╓═÷║║÷²··⌡ ⌡⌡≤≈≤√√≈≥≈■⌠■∙ ·÷═╒╒╒╕╕║° ⌡⌡≤≤√∙■■⌠▒▐██▄▀┴┴┴┼┬┬┬┬┬┴┴┤┼▀▄▄▀▀▀┼┴▄▄┼┬┴█▒▓∙√⌠▓▒█┬┤─vnjjloqrstsqompqsw|│┌│|zvrpprtrtuvz││┌┘┤┤┘┐─}zuppsutrruwy}~└└|rljiijhegihhjjhedfhjpv{zxy~└┤┤┼██▄███▒▌█▄┴┬┼┬}zurpry─┼≈ √░▌░▀┼┼▀▀┼┬┤┤└┌┌┤▌■√∙≤°║╓╕╘╛╝╞╠╡╣╦╩╫╫ююаааабцддгхггихххххикмоммннооппррссстужвьььзэщэээщщччччщчъъччччЮъъъъъъъчъъъъъЮАААБББЦББДДДЦЦЦДДЦЦЦЦЦЦЦЦББЦЦЦЦЦЦББББББББЦЦЦЦЦЦЦЦДДДДДДЦЦДДДДЦЦБАЮъщшзыыыззыььвжжттуттсттсссссссспппппоооонммммнмлкклмнммллкйхгфехххгхгфеабццццбацбаюю©©╬╫╫╬╬╫юбюююю©©©©╬©╫╧╥╣╣╢╢ЁЁЁ╠╞╝╜╜╜╝╞╟╡╡╠╟╟╞╜╜╝╞╜╙╖╕ё═²≥▓▄{{ztrsrruwvwxwxyyz~└┬┘┌┌┐┐││┌zy}└┼▀┤┴▀██▄┼┬├└┘└┐│─┌┌┌┘┤▀█▐■⌠░█▄▌▓■▐░▓√≈∙▓▒▒▓⌠∙≥⌡°° ⌡²°⌡⌡⌡²·÷·²⌡°÷╒╒║═║╓╘╙╙╓╒═²°°°²² ≥ ²·÷═╔╖╗╗╘╘╖╓╒╔╖╘╛╞╞╜╝╝╞╟╡╣╥╦╥╧╪╫ахосужьыыызззызэщэьусссссттспнмлллккхххххггфееддццбаюю©╬╬╫╪╩╨╨╧╧╦╥╣╢Ё╟╝╝╝╜╛╜╛╛╚╚╙╘╘╘╗╖╔╔╓╓ё╒║═···²⌡≥≤≈√∙∙⌠▒░▐▌█▀┼┴┤├└┌}}|zyxvtsrponljjffcf9 ;8;=??AEEEFGHKMRRTUVVY]abdgjmoqtvwxy{}│┌┐└┘┤┬┼▄▄▌▐░▒▒▓⌠■∙∙√≈≥ ⌡⌡°²÷║╒╒ёё╓╓╔╕╗╘╘╙╚╚╛╜╞╟╞╟╟╞╟╡ЁЁ╣╢ЁЁЁ╤╧╪╨╪╫╬╬©юа©ююаббццбцдеефгхгхийииийййпууужттттттужвжтпмлйеа╫╪╪╩╦╦╤╞╜╚╘╘╘╘╗╘╖╔ёёёё╓╔╒╒║═·²÷ё╓║═║║═·°·²°°⌡⌡ ≥∙√≈≤≈∙■∙⌡·÷·÷╓╔╓╖╖╔═°⌡≥≈∙■⌠▓▓░▐▌███▄┴┬┬┬├┤┤├├├├└┼▄█▄┼┬┬┬▀▄▄┼┬┼▌▒▓∙∙▓▒▒▌┬─ztpmjjkpqsttrqpqsw~┐┘┌~{wspoprtx{|┌┌─┌┘├└┌│~zurpquwvusx{~─~│~xplihikiefjkklkgdeikkpx~}zz─├┴┤▌░▌█▌█▄▐▐▌█┼┬┼┤─zxvuvy└┴■≈∙⌠▓■█┼┴┬┴┬┤┤┬┬┘┌┘▀▓∙√≥²╒╓╕╘╛╝╠╡Ё╣╧╪╬╫╫╬юббццдддгигхйииииийклнммммопппрсттттужжььызээшээщщщччччъЮЮЮъъъЮЮЮЮЮЮЮЮъЮЮЮЮЮАБАББЦЦБББДДДДДДДЕДЦЦЦББЦЦББЦЦЦЦЦЦББББЦЦЦЦЦЦЦЦЦЦЦДЕДДДДДДЦДДДДЦЦБАЮъщэшзззззыььвжжужжутсррррррррсспппппоооонннннннлллмннмлкккихфффхиихгхгебцддддцбдцббаю©╬╬╫©©╫©а╬©юююююююа╬╨╦╥╤╣╤╣╣╢Ё╠╟╞╝╜╝╝╞╠╡╡╠╠╞╝╝╠╡╞╚╙╘╕ё═²≈▓┌~|{wwwtuyzxwyxyywwz─┘┘└┐┐┌──│~zz~└▄▐▄┼▄▌▌█▄┴├┐└┘└┐┐┌┐├┐│┌└┬▄▐▒░█┼┴▄░▓▒░▓∙√■▒▐▐░▓■≈ ⌡°≤ ⌡⌡  ⌡²ё║·°°²·÷╒║÷÷║╕╗╗╕╔ё║÷²°°²⌡ °²²²·ё╕╗╘╘╗╔ёё╓╕╗╛╞╞╝╝╝╞╟╡╣╥╦╧╪╬╬агостжьыыыззыызшэшьусттссттсомлклллкхххгггггееддцбааюю©╬╬╫╪╩╩╩╨╧╧╥╤╢╢╠╞╝╝╛╛╛╚╚╚╚╚╙╘╙╖╕╔╓╓╓ё╒║÷²²·²⌡≥≤≈∙■■⌠▒░▐▌█▀┴┬├├└┌}|{zywuttrpnmliidebe8:8:=>?ADEFGHIKLPQSUUUX\aacehloptuvxyz|~│┐└┘├┬┴▀▀█▌▐░▒▒⌠■∙∙∙√≤  ⌡°²÷═║╒ёё╓╔╔╕╗╘╘╘╙╚╚╜╝╟╞╞╞╟╠╠╡╢╣╢ЁЁЁ╣╦╩╩╩╪╫╬©©©©©юаабццбцдееефгфгииииииккяжуууттттстужвжтпмкид©╪╪╪╨╥╥╣╞╜╙╗╘╗╖╖╗╖╔╓╓╔╓╔╕╒═···²·═╓ё═÷═║÷°²÷²⌡ ° ≤√≤≤≈√≈≥ ═══║ё╔╔╓╔╕╔║⌡≈∙■⌠■⌠▓░▌██▄██▄┴┬┴┼┘├├┘└┘┘└┴▀▄▀┤┘┘├▄▀▀┴┴┼▌▒▒⌠▓▐▐▒█┤}xtspljloqsttttttv|└┼┴└~|yuqpqrv{──│┌│─┌┌~}}{wqpprvxwvv{~─}yywsokhghjgdgmmlkicdhklmrw}~}|─┤┼┴▐░▌▄█▄▀█▌██▀┬┴┤┌|{{|}~─┌┬▒■√√∙∙▌▀┴┤┤┤├┤┬┼┬├┤┼░■√ ·ё╔╕╘╛╜╠Ё╣╤╦╪╬╬╩╫©аббцдддфхфхйииййййклммммнояррсттууужвжьззшээшщщщщщчччъЮЮЮъъъЮЮЮЮЮЮЮЮЮЮЮААЮЮАБАББЦЦЦББДЕЕДДДДЕДДДЦЦЦЦЦБББЦЦЦББЦЦЦЦЦЦЦЦБЦДДЦЦДДЕЕДДДДДЦДДДДЦБААЮъчщээээзззыьввжвввжтсрряяяярррряяяяппоонннннннммллмнннмкккйхгггхиигфгфедееддццбддцццбю©©╬ю©╬©ю╬╬©©юааааа╬╩╨╦╤╤╤╥╤╤╣Ё╡╟╟╝╜╜╝╟╠╡╡╟╞╝╞╠Ё╠╜╛╚╗╔ё═⌡√┼┘┌┐│|z|{wvzzwwzyyyvux~┐┘└┐┐┌│─│─~~~─┤▐░┼▀██▌█┼├┌┐└└└┐┐┐┤└┌│┌└┬▄▄█▀┬┤┴▄▌░▐░⌠∙■▓░░░▒▓■√≤ ≈≥⌡⌡  ⌡²ё║÷·÷══÷═║║║╒╓╔╔╖╖╕╔ё═·°°°²÷÷··÷║╔╗╗╖╕╓ё╓╓╕╗╙╚╜╞╝╝╞╟╡╢╤╥╨╫©╬юфнссувыызззыызшшшьвсттссттснмлккккйиихггффгееддцбаююю©©╬╬╪╩╩╨╨╧╦╥╣╢╢╠╞╝╝╛╛╛╛╚╚╛╚╙╘╙╖╕╔╓ёё╒║║÷²²²² ≤≤√∙⌠⌠▓▓▒▐▌▄┼┼┬├┘└┌─~|zyxvtstsomljggbc`c6869;=>@ACEGIKLMNPSUUUX\`abdgknpttvwxz|}~─┌└┘├┤┬┼▀▄█▐░▒▒⌠■∙∙∙√≤  ⌡²··÷═╒ё╓╔╔╕╕╖╗╗╘╘╙╚╛╝╞╟╝╝╟╠╟╠╢╢╢╢╢╢╣╥╧╨╨╩╪╫╬╬╬©©ююабцццддеееффефхиииийклржжуутттсстужвжтолкид╬╩╪╪╨╥╦╣╞╜╙╗╗╗╕╕╗╖╓ё╓╔╓╓╕╓÷°²·²°²╓ё═²·║║²°÷·≥≥⌡ ∙≤  ≈≈ ·÷╒═║╕╗╕ё╒ё╓ё═≥⌠▒▓▓▓▓░█▀▀▀┼▀▄▀┼┼▀█├┤┤┘├┬┴┴┴▀▄┴┘┐└┤▀┼┴┴┴▀▌▒▓⌠▒█▄▌┼┐}xtsqmmpoprttuvwwy~├▀┼└~|zvtrssw~┌┌││─}|}|xwxvrnnpsvxxw{─~}ytttpmjgefiechonkig`fjklotv{}~}─├▀▄█▌▄▀▄▀▀█▄▀▄▄┬┬┤└┐┌┐└┐│┬░⌠≈≤√■▄▄┴├├├├┤┬┼┼▀▀▄▐⌠√⌡÷╓╔╕╘╛╜╞Ё╤╤╥╨╫╬╬©юабццдфдфгегииийккййклмммнпрсстуууужвьвыэээщээчщщщччччЮЮъъччъЮЮЮЮАААААЮЮАЮЮЮАБАББЦДЦЦЦДДЕДЦЦДЕЕЕДДЦЦЦЦЦЦДДДДДЦДДДЦЦЦБББЦДДЦЦДЕФЕДДДДДЦДДДДЦБААъъччччччшшзыььввжввжутссрррсссссрррряппомнооннммнмллмнннкллкиххигххфефедфеедцбаадддддцаюю©аю╬©ю╫╫╫╬©юаааа╬╩╨╧╤╤╤╤╤╣╢Ё╠╞╝╜╜╛╜╞╟╠╡╜╝╞╞╠╡╡╟╜╛╘╕╓╒²≤▒▄┬┤┌}|~zxzzwwzzzyvuw~┐┌│──││───~zw}┤▄┴┼▀▄██┴┘┐└┘└┐│──┘└┐┐││└┬┼▀▀┬├┬┼▀▌█▌▓∙∙⌠⌠▓▓▓▒░▒■≈∙≤⌡°°²═ё║═══╒╒║═÷╒╓╓╓╔╓╒╖╖╗╗╕╓║÷⌡²÷║═÷÷║═╓╖╕╔╓╓╓╓╓╕╘╗╗╚╟╜╝╞╟╡╢╤╥╥╨╪╪╫длрсувыызззыыззшзьвтууссттснмкйййиийихгффффееддцбаююю©©╬╬╫╪╨╧╦╦╥╤╢╡Ё╠╞╝╝╜╛╜╛╚╚╛╛╘╘╙╗╕╔ёё╒║═╒÷²²²°≥≈≤√■⌠▓▓▓▓░█┼┼┼┴┤└└┐┌}zxwusstsolkjggcdac67599;=?@BDEFHJLOQSTTUX[`acegkorrtuwxz{}──│┐┘┤┤┤┴▀███▐░░▓■∙■■∙≤  ⌡²···═║╒ё╓╔╕╕╖╖╗╘╙╚╚╛╛╜╝╝╝╞╟╡Ё╢╢╢╢╣╢╢╤╧╨╨╨╪╫╬╬╬©юаааабццццддеффгффхиййийотутссуссррсувьусомкгб╫╬╪╩╧╦╧╤╞╛╘╖╖╖╕╔╔ёёё╓╕╖╕╔═÷÷═÷°⌡°║╒╒÷·÷══·²⌡ ≥≥≥≥⌡≥≈≈°╒╔╔╕╖╖╖╖╔╓ё╒║═·≥▓░▒▓■⌠░▄┼┴┼┬██▄▀┴┬▄▀┴┤┤┤├┤┴▄┴├├┘┘┤┼▀┬┤▀▌▄▀▄▌▌▌█▀┬└┌{yvtqoopnqqrtvy~─}~└┴┬┌||~ywust{┌└~{~||ywvrnlmimruuuwzy~│~yusqoqqlgeddfiiggikkggjpsrstvzz{│┘┤┴┼▌▌▀┬┼█▌▀▀▄┴┤┼▄┴┤┬┤┐─~─├▒≈≈≈∙░█▌┼┤┤┬┬┴┼▀▀┼┼█▓≈≥ °║╔╖╘╛╞╠╢╥╧╧╨╪╬юаааббццгфффхийййиийлмлкнноопятвшьвьыьызшшззэшшъчъЮЮъччччъъчъЮЮъАЮЮЮАБАЮЮАБЮАБЦАЦЦДЕЕЦБАЦДЕЕЕДДДЦДДЕЕЕДДДЕЕЕЦЦЦДЕЕЕЕДДДДДДЕФФФЕДДЕЕФФЕДЦЦЦЦЦЦЦББччщэшэщчшыььыывужжжжжусрссстссряяяяярряпннмнооонмннмкклмнлкйийииффгффееффеддеецбабддегфцаааюю©©╬╪╫©юю©©©ю©╫╨╥╤╤╦╥╤╣╣╤╣╡╟╟╞╜╛╝╞╟╟╞╞╝╟╡ЁЁ╡╝╛╗╔ёё═²√⌠█┤┐┌─~|zxxxwuzxyyxz}}~}{|─│──}zxvw}┘│└├┴█▐▀└┤┘┐┌┐┘┐──┌┐┌┌┐└┴┤├┬┴┴▀▌▐▒▒▐▐▓⌠▓▓▓▓░▌▌▓∙≈≈≥²··╒╗╒╒╒╒ёё╒═║╒ё╔╔╔ё║╔╓╔╗╘╔ёё⌡²÷═··÷══║╓╕╔ёё╔╔╓ё╓╕╘╚╛╝╞╠ЁЁЁ╣╤╦╨╩╪©дкптжввьззыыыышэшьуусрррстуомкклкййхххгффффеддцббаа©©©╬╫╪╨╨╪╩╨╧╦╤╢╡╡╞╜╝╝╛╛╜╛╚╙╘╘╙╙╙╖╕╓ёё╒║║═÷²²²°≥≈√∙■⌠⌠▓▓▒▌▄▀┼┴┬┘┐┌│─~|{zzutsrpnkjjhec`_b97599;=?@BDEFGJLNPSUUVX[`adfhjmpqstuwxz|─┌└├├├┬┼▄▄█▐▒▒▓⌠■■■∙≈≥ ⌡°²·÷══║╒ё╓╔╕╕╕╕╗╘╚╚╛╜╝╞╞╞╞╟╠ЁЁЁЁ╢╢╢╢╤╧╨╨╩╪╫╬╬╫©©юааабццццдеефгффгхиййикотжусстсрррсужьурнкхеа╫╫╪╩╧╥╦╣╞╚╗╕╖╖╕╔╔╓ё╒ё╔╔╔╓ё║═÷·⌡ ⌡÷║╒═··÷÷°°⌡ ≥≥≤≤ ⌡°·╒╕╖╕╖╗╘╗╕╓ё╒║══÷⌡√⌠▓⌠⌠▓▐▄┼┼┼┴▄▀┼▀┼┴▀┴┤├┤┬┤┴▀┬├┘├├┤┴▄█┴┬▄▌▄▀▄▀▀┼┼┬├└┌}zvsqoopprrty{z{{{~┐┘┌|x}|wuuuy┐└|}}|zyuqmkigglprqqsuuxyvqmllmppkebcdijjiijjjlmnrtuvwx|}~┌┘├┬▀▄┼┬┼▌▐█▄┼▀┼┼▌▐┼┬┤├┐──│├▐∙≈≥≈▓▐▄┼┴┼┼┼┼▀▄▀┼┼█⌠≈≤≥°═╓╕╘╛╞╟╢╦╨╨╩╪╬©ююаббццффефхиииййийклмммннооясуыввызыьызшзэчщэъчъъъъччччъъчъЮЮъЮЮЮЮААЮЮъААЮЮББАЦДДЕЕДЦЦЦДДЕДДДЕДДЕЕЕЕДДДЕЕДДЦЦДДДДДДЦЦЦЦДЕЕЕЕЕДДЕЕЕЕЕДДЦЦЦЦЦЦББъчщээщщчзыыыыывжвжжууусррссссрряряяяяяяпннмноонннммммммммкйиииихгфффгггфеедеффдббцддегфддцбаю╬╬╬╪╫©©©©©©©©╬╩╦╤╤╥╧╦╥╥╤╣╡╟╝╝╝╞╟╟╞╝╞╝╜╝╟╠╠╟╝╜╙╖╓ё║··≤▌┘┌┐└┐~|zwutssxuvxxz{y~│|xwx{┌}─└┬▄█▀┤┤├└┐└├┘┌{|~─│┐┐┐┬┤┤┬┴┴┼▄█▌░▐░⌠■∙∙⌠▒▐▐░▒⌠∙√≤ ²═╒╓╒╒ё╓╔╔╔╓ёё╓╕╖╖╕╓╔╓╕╗╘╖╓╓══÷·²·÷═╒╒╒ё║═║╓╓ёё╔╕╗╘╘╛╝╠╡ЁЁ╢╤╥╧╨╪©дкортжвышшыыьызшшывжтсррсстолйккйййиииххгггеддцбааюю©©╬╫╪╩╨╩╩╧╧╥╤╢╡╠╞╜╜╜╜╜╝╜╛╙╘╘╘╘╗╖╕╓ёё╒║║═÷²²²° ≤√∙■⌠▓▓▒░▌▄▀┼┴┤┘┐└┐│|zxwutsqpnkijhfd`_`76589;=>@BDEFGJLMPSUUVXZ`bdfgilnqrstvxz|~~─┌└┘├├┤┴▀▀█▐▒▒▒▓■■■∙≈≤  ⌡°·÷÷÷║║╒ё╓╔╔╕╖╗╘╙╚╛╜╝╞╞╞╞╟╟╠╡╡╡Ё╢ЁЁ╤╧╩╩╩╪╫╬╫╫©©©юабббццддеффгффгийййикптжусстррярстжвурмиебю╬╪╪╩╧╤╤╢╞╚╗╕╕╖╕╔╔╔╓╒╒ё╓╓ёё║═·²⌡ ⌡°÷║═·²²²°⌡⌡  ≥≤≈≤°║╔╗╘╗╕╗╙╙╗╓║══···²²⌡≈▓⌠▓░▌▄▀┼┼┴▀┴┬▀┼┴▀┤├├┤┬┬┴▀┤├┘┤┬┴▀██▀┼█▐█▄▄┴┬┤├├┘┐┌{xvtqpprvww{|yxxy|~}zwv~{uuvz┘├┘─}{{{xwsmkkhdhmpomnpqttspkghjkoojdabdhhjllkkkqrsstwxxz~──┐└└├┼▀┼┬┴▌░░▌▀▀▄▐⌠▓▄┤┘└┌││┌┐├▌⌠√ ≥⌠░▀┼▀▄▄┼▀▄▐█▀▀▐∙≤≤≥°═ё╕╘╜╞╟╢╦╩╪╪╫╬©ююабцддееефгххгййккклмнмммнпярржжьзшзььышшэъчщъччччъъчччъъъъЮЮъчъЮААЮЮЮъЮЮъЮААЮБЦЦДДДДДДДЕДДДДЕЕЕЕЕЕЕДДДДДДДЦДДЦЦЦЦЦЦЦЦЦДДДДДДДЕДДДДДДДЦЦЦЦЦЦББЮчщщщчщэзыыыыьввьвуууутсррссрряяряяяяяяянннноонннмллноонлкйииихгхфефхихфеееггфдбцдддеггеефецю╬╪╪╪╫©©©╬╬╬╫╬╬╪╦╣╣╥╧╦╥╥╥╤Ё╠╝╞╟╟╟╞╝╝╝╜╛╛╝╞╝╜╜╜╚╗╔╓╒÷║⌡▌┐─┐┘└┐{wtpqstrsvwyyv}~─│─|{{}zxy}──{}┌┬▀▀┼┴┤├└└┘├┘┐~}|~┌┘├├┬┤├┤┬┬┴▀▄▄▌▒▓▓⌠∙≤■░▌▐░▒░▓√≤≤°║ё═║║╒ё╓╔╔╔╓╓╓╔╖╗╖╕╔╕╖╗╗╘╖╔╕ё÷²²·÷═╓ё╒║══╒╔ёёё╔╕╖╖╖╙╜╟╡╡Ё╢╣╤╥╧╪©дйнясжьзшзыьььышшзывусрррсрнлййкйиихххггффедддцбааюю©©╬╫╪╪╩╩╨╧╦╥╤╢╡╠╞╜╜╜╜╝╞╝╜╚╘╘╗╗╖╖╕╔╓ё╒║║═·²°°° ≥≈√■⌠▓▓▒░▌█▀┴┴┤└┌┐┌│|zwvutrqomjihgfea_`66589;=>@BDEEGIKMORTUVYZ_aceehknrrstux{}~~─┌└┘├├┤┴┼▀▄▌░░▒▓■∙∙√≈≈ ≥≥⌡²÷÷·║║╒ё╓╔╔╕╗╘╙╙╙╙╚╛╝╝╝╝╞╞╟╟╠╠╡ЁЁЁ╤╧╨╨╩╪╫╬╬╫©╬╬©абббцццдеефффгхийййилпувусссррррстжвусниеаю©╪╩╩╧╣╣╢╞╚╗╕╕╖╕╔╔╔╓ёёёё╒║═÷··²°⌡⌡ ·║╒÷°°°°°⌡≥≤≤≤≈≤·╓╖╘╘╖╔╗╘╘╕║·²· ⌡  °· ∙⌠░▌██▀┼┼┴▀┴┤┴┴┬┼┬┬┤┬┬┬┬┬┬┤┬┬┴┼▀▄█▄▄▐░▌▄▀┬┤├├├┘┐│}zxwvronsz|ywvuvyxxxwuvx~─}xy|─┘┼┬┘┌~zyzvsoljjhflprnkmopuspmhegkkmnkfccbcfknnllnqststwxw{─┌│┌┌┌└┤▀▄┴┬▄▒■▒▐▐▐▒■⌠▄┘┐┌┐└└└└┘▀▐⌠≤√░█┼┼▄▄▀┴┼▄▒▐▄▄░√≥≥≤°║╔╗╚╝╞╡╣╦╨╪╫╬юааббццдддеефггггхйллкклнмммнпяяпствышзыыышшэччщчччщчъЮъчъЮЮъъЮЮъчъААЮЮЮЮъъъъЮЮЮЮААББЦЦДДЕЕЕДДДЕФЕЕЕЕДДДДЦЦДДЦЦДДЦЦЦБББЦЦДДЦЦЦДДЕЕДДЦЦЦДДЦЦДЦЦЦББАъщщччэзыызыььввьвууууутссссрряяяяяяяяппнннооонннмммнннмккййййхххгффхххгееефгфецддддфххфеггфб©╪╪╪╫╬╬╬╫╫╫╫╬╬╩╥╢╣╥╥╤╤╥╥╤╣Ё╟╠╠╞╝╜╜╝╜╛╚╚╛╜╛╚╚╚╘╖╕╕ё═· ▐┐┐├┘┬│zvqnorqoqtuxyw|}─┐─{yz|~zx{│─┌┬▀┴┬┬├├└┐┐┘└│┐│~~│┘┴┼┬┤├├┤┬┴▀█▄▌▓▓░░⌠≤∙▒▌▐░░░▒∙≤ ²═║÷═÷÷÷═║ёё╕╓╓╔╕╗╖╕╕╖╖╕╖╙╙╗╘╖ё÷··÷═ё╒═══║╓╖ё╒ё╓╔╕╕╕╗╛╟╠╠Ё╢╣╣╤╦╪юеилятвызшывыььызшшзвусррсррнлййкйиихггфффеееддцбааюю©╬╫╪╪╪╪╩╨╧╦╥╣Ё╡╡╟╜╛╛╜╝╞╝╛╙╘╗╗╗╖╖╕╔╓ёё║║÷·°⌡  ≥≤≈√■⌠▓▒░▐▌█┼┴┬┤└┌──~}zxwutrpnljigfdd``a86589:=>@ACDEFHJMOQRTVY[^`bcdfkoqrstux{}}│┐└├├┤┬┴┼┼▀█▐▐▒▓■∙∙√≈≤≥≤≤ °··²║║╒ё╓╔╔╕╗╘╙╙╙╙╚╛╜╜╝╝╞╟╠╠╠╠╡ЁЁЁ╤╧╧╧╨╩╫╬╬╬©╬╬©аббаббцддееффгххииййняужусрррррстужвтрмхда©╬╪╩╩╧╣╣╢╟╙╖╔╔╔╔╓╓ёёё╓ё╒═÷²²··²°⌡ ≥²║╒═²°°²⌡≥≈√≈≤≥²╒╕╗╗╗╖╔╕╖╖ё÷⌡⌡°≥≥≤≤⌡÷²≥⌠░▌▌▌▄┼┴┼▄┼┬┬┤├┴┴┴┴┬┬┬┬┬┬┬┴┴┼▀▀▀▄▄▌░▒▐▄┼┬┤┤┤├┘┌zwutspoouzzusssvywuuvvx{}││─│┐┘┬█┴┘┌zxwtnjkkhgiprrolmnosqnkgegjlmmkihebbgorpnoqorsssvwv|│┌─││─┌┘┼▄▀▀▐■√∙⌠⌠▒░▓▒▄┘┐┐┘├└┐┐┌┘┴▌■⌠█▀┼┼▀▀┴┤┬▀░▌▄▄░√≥≥≤²╓╗╚╜╞╝╢╣╥╧╨╪©абббццццбдефгггггфилмлкклнммопяппрсувьзшшшщээччщъъчщчъЮЮъъЮЮъъЮЮъчЮАААЮЮЮъъъЮЮЮЮАААААБЦДДЕЕЕЕДДЕФДДДДДДДДЦЦЦЦЦЦЦЦЦЦЦББЦЦЦДДЦЦЦДЕЕЕДДЦЦЦДДЦЦЦЦЦЦБББЮщщщщшыыызыььвььвуууууутттссрррпярсряпоооопоооомнннлллмллккккйихххггфггффееффеедееефххгдфхгеа╬╫╪╫╬╬╬╫╫╫╫╬╪╧╣Ё╣╥╥╥╥╥╥╥╣╢╡╡╠╟╜╛╛╛╛╚╙╙╚╛╚╙╘╗╕╕╖╖╓═ ≥▒┘┌├┬┴│xrolmpoortsvzz|}─┐─|z|y}~{z}─┌┐──┘┴┴┤├├┘┐││┌││───┌┘┬▀┬┤├┘├┬▀██▄▌▓▓▐▐⌠√■▓░▌▐░▓▒⌠≤²·²²═║═·°°·═╒╖╕╕╕╕╖╖╖╕╖╕╓╔╘╙╗╙╘╗╓║══╒║÷·÷═║╒╓╒╒╒ё╔╕╖╗╖╛╟╟╟╡╢╢╣╤╦╪аеийпсвышшзвыьььызззвурррссрнлйккйихиххгггфееедцббааю©╬╫╪╪╪╪╨╧╦╦╥╣Ё╡╡╟╝╛╛╜╝╝╜╛╙╘╗╗╗╗╖╕╔╓ё╒║═÷·²⌡ ≥≤≈≈√■⌠▓▒░▌▌▄┼┴┬├└┌~~|zxwusqonljihfdc__b96488:<>?@BCDFHJMNPQSUXZ\^`bbejoopqrtvy{}~│┐└┘├┤┬┼▀┼┼█▌▌▓▓⌠■∙√≈≤≤≤≥ °²··║║╒ё╓╔╕╕╕╖╗╘╙╚╛╜╜╜╝╞╟╠╡╡╠╠╡ЁЁЁ╣╦╧╧╨╩╪╫╫╫╬╬╬©юаааббцддееефггхххийортутрррррстужввспйеб©╫╪╫╨╨╧╤╣╢╟╘╕ёёё╒╒╒║╒ё╓ё║÷²°···²°⌡≥≥⌡÷║═²°°° ≈√√≤ °╓╕╘╘╗╖╕╔ёёё║²⌡⌡° ≥≥≥°÷÷²∙▒▐░▐▄┼▀┼█▄┼┴┤├┴┼┼┼┴┴┼▀▀┤┬┴┴┼▄▄▄▌▌▐░░▌▄┴┬├┘┘└┌~{{wtqppruxwrqtutuvttvxy{}~└┤┤┴┴┬┼▄┬┘┌{wutmillhhmrqpnllllpqokggiillkjjjgcemtvsqqqmprrstuv}│─~───┌┤┴┼▄▓≤ ≈∙■■░█▐░█┬┘┘├├┐││┌└├▄⌠▒██┼┼┼┼┴┤┤┼█▄┼┼▌■≤≤≥÷╕╘╛╞╟╞╣╤╥╦╧╪©ббббццббаеефггггхфилмлкклнннопяяярсттуьзшэъщэчъчъъчччъЮЮЮъЮЮъъЮЮъъЮЮАЮЮЮАЮъъЮЮЮЮАААБББЦДДЕЕЕЕДДДЕДДДЦЦЦДДЦЦЦЦЦЦЦБЦЦБББЦЦДДДДДДДЕЕЕДДЦЦЦДДЦЦЦЦЦББААъщээшзыыыыыыььвьвжуууууууттссррпяссряоооппппооомнонлйккмлккккййииихфффггффееееедееегххфдегггда©╬©ю©╬╫╫╫╫╪╨╥╢Ё╢╣╦╦╦╦╥╤╣╢╠╠╡╠╞╛╚╙╛╙╘╘╙╚╚╙╗╖╔╔╕╖╔╒ ≤▒┤~~┐┤┤┌{tpopqpprsruz|z{}~{z{yyyz}│┐┌┐~│├┬┤├├┘└│││─~|~─┐┘┤┬┴┤┤├┘├┼█▌█▄▌▓▓░▒■■■■▒▌▌░⌠▒▓≈²² ⌡·╒║÷²°²═╒╕╕╕╔╔╔╔╕╔╔╓ё╓╖╗╖╘╙╚╘╕ё╒ё╒═÷═║═══╒║║╒╓╕╗╗╖╛╟╞╞╠Ё╢╢╣╦╪аегхмяуьшээзыььььыыыьурярссрнлйккйххихггггфееддцбаааю©╬╫╪╪╩╩╨╧╦╥╥╣Ё╡╠╟╝╛╛╜╜╛╛╚╘╗╗╘╘╗╕╔╓╓ё╒║══÷·²⌡ ≤≈√∙■⌠▓▒░▌█▄┼┴┬├└┌─}{ywvusqomlkjjgdb^^`753789<=>@ACDEHJLMOQSUWXY]`bceilmnprsuxy{}─┌┐└┘├┬┼┼┼┼▄▌▐▓▓⌠⌠■√≈≤≤≥ ⌡°²·÷║║╒╒ё╓╔╕╕╖╗╘╘╚╛╝╛╜╜╝╞╟╠╠╠╠╡ЁЁЁ╣╦╨╨╨╩╪╪╪╩╬╬©©ююааббцдеееефггггхикярттсрярррстужввснгб©╬╫╪╫╧╦╦╤╣╢╟╘╕ё╒╒║║║═║╒╒║═·²²÷÷²²°⌡≥≥≥°÷÷²°°⌡ ≤≤≥°÷║╔╖╘╗╖╕╓║║║═÷²°²²⌡⌡⌡²²²²·≥■▒░▐▄▄▌▄▌▄▀▄┼┬┴▄▄▀┼┼█▌█┴▀▀┼▀▌▐▌▒▒░▐▌▄┼┴┘┐──}zwxvtrqqtxxuqswvtvsrruwy|─┌┴▀▀▄▀┴┼┴┤└┌─}wrpljkkjmqrnklljijnqqmjllilkighihfjrwwutronopqqqtv│}│┌└┼▀▄░≈²°≈⌠▓░▄┼█░▌┼┤┘├┘┌│┌└└┘▀░█┼▄┴┼▀▄▀┴┬┼▀▀┴┼█⌠≈≥⌡║╖╘╛╟╡╠╣╤╥╦╧╪©юбццддццбефффффгххиклкклмннооопяррттссжыззчщэъъчъччччччъЮъЮЮъъЮЮЮЮЮъъЮЮЮЮЮчъЮЮъЮАААБББЦЦЦЦДДДЦЦЦЦДДЦЦЦДДДДЦБЦЦЦББЦЦБББЦЦДДДДДДДДЕДДДДДДДДЦЦЦЦББААъчэшзззззыььыыьвьвжжжжжуууттссрряррряпппопппоооонннмлккймлйййййййихггхххгггфффеецеефгххфееефгфдцббба©╬╫╫╪╩╦╤╢Ё╡╡╥╥╥╥╤╣ЁЁ╠╟╟╞╝╜╚╙╚╙╗╘╙╚╚╚╖╗╗╕╔╕╕╔² ■▀┌|}─┐└─ysrssrqrsruyzvxzzzzxvyxx{~│┌┐│}~┌┤┬┤┤┤┘┐┌┐┌─}~─┐├┬┬┤┐┘┘┘┤▀▌▌██▐▓⌠▓■√■∙∙⌠░▐░▓▓∙≤°°⌡⌡⌡÷÷÷··÷═╒ё╔╕╔ёё╓╕╔╓╓╕╖╕╕╕╘╙╛╛╙╖╕╔║÷·═║║═÷║║║ё╔╕╖╖╗╜╞╝╜╞╡Ё╢╢╥╪аеффлптвзээзвьььььыыыжсррсрпнкйккихгхгффффедддцббаюю©©╬╫╪╩╨╨╧╧╦╥╤╣Ё╡╟╟╝╛╛╜╜╛╛╚╘╗╗╗╗╗╕╔╓ёё╒═÷÷÷÷·° ≤≈√∙■⌠▓▒░▌█▀┴┬┬├└┌│─~|zxvutspomlkjhgdb^]_543679;<=?ABCEGJKMOQSUVWX\accdgjmnprtvxyz|│┌┐└┘┬┼┼┼┼█▐▐▓▓▓▓■∙≈≤≤≥⌡°°²÷═║║║╒ё╓╔╕╖╗╗╘╘╙╚╛╛╛╜╜╝╞╞╞╡╠╡ЁЁЁ╣╦╩╨╨╩╩╩╩╨╫©юю©©юббццдееееггфффгикяртсряярррстужжвтнфю╬╬╫╫╪╦╤╥╤╣Ё╞╙╖╓ёё╒║║÷═══÷··²·÷÷²°²²⌡≥≤≥²·²⌡⌡⌡  ⌡²║╓╕ё╔╖╖╕╓═²═÷÷····÷⌡⌡²÷² ⌡²°≈⌠▒▌▄█▒█▌▄▀▌█┼┼▌▐█▀▀▌▐▐█▌▌██▐░▐■⌠░█▀┼┼┴┌|{zyvtqrrrqpsvwvtwyuswsrqrsw}┐├▄▌██▀┴┼├├└│─~xqjihhilorrkhklighlqrmlnmhkkheeghhlswvuwtmonnpoorw─│~|┌┐┘▀▐▓∙≥°°≥▒▌▄┴┬█▒▐┼├┘┘└│┌┘└┐┐┤▀┤└├┴┴▄▌█▀┼┼┼▀┼┼█⌠≤ ²ё╖╗╚╟╡╡╢╣╥╦╨╪╬©ццдеееедеефееегхйййкклмнмноооояссттсрувьвшээъъщщччъчщщъЮчъЮъъААЮАъччъЮЮЮъччЮЮъъАЮААБББААБЦДДЦБББДДДДДДЕЕДЦББЦЦБАЦББАББЦДЦЦДДДДДДДДДДДДДДЦЦЦББААЮщщшзыызшзыььззьжьвжжжжжуууттссррссряоопропппоннонмммммкйлкйиийййкиггийихггххгфеецдффхихфгецдфгфееедцю╬╫╫╩╧╥╤╢Ё╠╟╢╢╣╣╣╢Ё╡╡╟╜╛╛╜╜╜╙╘╗╗╙╚╚╚╖╙╚╗╓╓╕╖═²≤▓┬~yz}┐└{trsssqrssuwvtwyyyzxtyy{}}|─┘──}─├┴┴┬┬┤┘└┘└┌│}┐├├┘│┐┘├┴▄▌▌▌▐░▓⌠⌠∙√√√√■▒░░▒■≈  °·²≥⌡°·÷÷÷═║╒╔╖╕╓ё╔╗╕╔╕╘╙╖╔╕╙╙╛╜╜╚╗╔·°⌡²÷═÷÷══╒ё╔╕╕╔╗╜╞╜╚╝╠╡Ё╢╥╩адедлптвышзыжввьььыызвсррряомкйййиггихффггфдцццбаюю©©©╬╬╫╩╨╧╧╧╦╥╤╣Ё╡╝╞╜╛╛╝╜╛╜╚╙╗╗╗╗╗╔╔╓ёё╒═÷²···° ≤≈√∙■⌠⌠▒░▌█▀┴┬┬├└┌│─~|yxvvtspnmllkfecb_]^542568:;=?ACEFGGLMNPQRTVZ\_acdfhlnqstuwyz|~─│┌┐└┘├┬┴┴▀▌░▒▒▓⌠⌠■√≈≤≥⌡°°²·÷÷══║ё╓╓╔╔╕╖╗╘╙╛╜╙╛╞╟╞╝╞╟╡╟╟Ё╢Ё╢╥╥╦╧╨╨╩╪╫╩╫╬╬юббюбдееддегефгхффимррртсрярссстужжускцаа╬╪╪╫╨╦╥╤Ё╠╟╛╔║║ё╒║╒║║║║═÷²⌡°²²²⌡⌡⌡°⌡≤≈ ·÷²⌡·²·═╒╒ё╔ё╔╖╕╓ё═·°²····²²°²÷÷⌡≤≤°° √░█▐▌▄▐▌▄█▐▓▒▐▒░█┼┴▄░▒▌▀┼▄▌▌▌▐⌠▌▄█▀├┐└┌zwwuttspqrstuspsvyzzyxvnptutv┤┬▄▌███▀┬┴┤┘┌|ywsmjghknnmlifgjkjjmoqrsrmheghfefhjjpvxwurnpmmkmnp|┌│~}│└┴▐▓⌠∙≥⌡ ≈■▌▐▄┴┴█▌▄├┐┌┘┤┬┴┴├┘┘┘├├├├┘┬▄▐█┴┴▀▀▀┬┬▐∙≤ ║╓╖╘╛╞╞╞╣╤╦╨╩╬юббцдеефгхеффдцеггиийкллллнннопяяяутттуужжжьызшэщщчщщщччччъъъъччъЮчъъъъЮЮЮччъъъЮЮЮЮЮАББЦЦЦДЦЦДДЦЦДЦЦДДДЕЕЕЦББЦДДЦБЦБАБЦДЦЦДДЦЦДДДЦЦЦДДДДЦЦЕЦААББЮчщшзшшзызыыыыььььвжввжттжутстттсряяяяппяяноопооннммнмлккллллкййиикйииииххгххффгфдддехййигфеееефффгфедца©╫╩╨╧╦╥╤╢╡ЁЁ╢╣╣╢Ё╡ЁЁ╞╚╚╝╞╛╙╘╗╘╚╚╙╘╗╗╗╗╖╖╖╖╖÷⌡≈▀zy~──|yvtqurrrsvxuuwzzyyyy{z|┌┐┌│{}─│┐├┼█▀┤└└└└┐└──│┌┐└┐┐┘└┘┤┴▀▌▒⌠⌠▓⌠■√≈≈≤≥ ≥≈■⌠⌠ °°⌡°═÷≥≥°═║║║║╒ё╔╖╗╖╔╔╓╔╔╖╙╚╘╗╖╗╛╝╜╞╠╝╗═·°°²···²║╓ё╓╕╖╕╘╛╝╝╝╞╟╟╟Ё╦╬бееегмсьшэшывжжььызшывтсрряянмкйихггггффгфеддбюаю©©а©╬╬╫╪╨╧╦╧╧╥╥╤╣Ё╡╞╜╚╙╚╚╛╛╚╙╘╘╘╗╕╔╓╓ёё╒║══÷·²°°⌡≥≤∙⌠⌠■▓░▌▐▀┼┼┴┤┘┐│─~|zyxwwuspnnmkjeea`^]]642568:;>?BDEFFGJLNOQSTVXZ^acdghlnprsuwyz|~─│┌┐└┐├┬┼▀▀█▌▐░▒▓⌠∙≈≤≈≤ ⌡⌡°·÷²·÷║╒╓╔╕╕╖╗╘╘╙╚╛╚╛╝╝╝╝╞╠╡╟╟Ё╢Ё╢╥╥╦╧╨╨╩╪╫╩╬©╬╬юааацддццефффгхгфимрярссяярссстужууяибюю╫╩╩╪╧╥╤╤Ё╠╟╛╔══╒║║ё══║║═÷²°⌡°°°°°²² ≤≤⌡²·····÷╒╓╓╓╔╔╕╔ё╒║═²°²²····²²²··⌡≤≈≥°°≥■░▌▌▌▐██▐▒▒▌▄▐▌▄┴┬▀▌▐█▀┼▀███▌▐█▀┼├┌─┌{wvtrsrpppoopompsvvwwwuqqsux|┌┴┤▄▐▌██▄┴┤┘┘┐~zwsnmlmnomjjhghijkmlnpqrqmhdgihhjlnlqvwuspmonomnqs}│─|}└┴▌■≈≈≤  ≈▓▐▌▄┴┤┤┼▄▄├└└┤┼▄▄█├├├┤┬┤┘└┘├┴▀┼┬┤┴┬▀┼┼▐■≤°╒╔╗╙╚╝╞╞╣╤╥╧╩╫юаббцегхгффггедфггийккллллооопяярссттужжууужьыыызшщэээщччщщщщщээщчщччччъъъчччччъъъчъЮАБЦЦДДЦЦДДЦЦДББЦЦЦЦЦЦЦЦБЦЦЦБАЦББББЦЦЦДЦЦЦЦДЦЦЦЦДДДДЦЦДЦББББАЮщшзшэшзшззыыььвввжжвжттжттттттсряяяяяппппппооооомннмлллммммллккйлкййййиигихггггефффхййхфдеееффгхфееедцаю╫╩╧╦╥╤╣╢Ё╢╣╣╣╣╢Ё╢╢╠╛╚╜╝╛╙╘╗╗╘╙╙╘╖╕╕╖╖╖╖╖╕║·≥▄┌}{}~~{zyxwwsrrswxsrtvxxyyywz┐┘┐|z{}─┐┤┴▀▄┬└┌┌│┐┘┐┌│─│┌┐┐├├┬┴┼▀▌▓■■∙√≤≥≥≥≈≥  ≥≤≤≥°··°⌡²° °²÷║ё╓╓ёё╔╖╗╗╖╖╕╖╕╖╘╙╘╘╘╘╚╜╝╟╠╝╘║·⌡ °·²°²║ё╒╒╔╖╕╙╜╝╜╛╝╟╟╟Ё╦╫бдееглрвзэшывжжьььышывтррряпмлккййхххггггфеддбааа©©ю©╬╬╫╪╩╧╦╧╦╥╤╣╢╡╠╞╜╛╚╚╚╛╛╙╘╗╗╘╘╗╖╓╓ё╒╒║══··²°⌡ ≥≈∙⌠⌠⌠▒▐▌▐▄▀┴┬┤┘┐┌─|zyxvvuspnmljieea_]\]5425679:>?ACDEFFIJMOQSTUUY]`cegikmpqrtwyy{}─│┌┐└├┬┴┼▀▄█▐░▒▓⌠∙≈≤≈≤≥≥ °·÷²·÷═╒╓╔╔╕╖╗╘╘╘╙╚╚╛╜╜╜╝╟╠╠╞╟╡Ё╡╢╤╥╦╧╧╨╨╩╪╪╬©╬╫╬юбабццццдеффгггхкнряярряярсссужжутмфю©╬╪╩╩╨╥╣╣╣Ё╠╟╜╕║════╒÷║╒╒═·²²²°°°°²²²⌡  ⌡°°²÷·÷╒╔╖╕╔╕╖╕╒÷·÷·²°²²·····÷²°°⌡≤≈√°²°≥⌠▌█▐▐▄▄▐░▌▄▀▐▐█▀▀█▌▌▀┴┬┴▀▄██▄▀┴├┐│──┐{wvsqqqqpnkjklmoqrrstvvsrruz~┌┘├▄░▐▌█▀┴┤├┤└}wtpppqrsqliihiihhkoppnmlljhfjlllnpqpsvvsqomnoqmnrs|~}│┼▐▓≈   ≥≈■▌┼▀┴┬┬┴┼▀▄┼┬┬┴▀┼┼┼┘├┤┴┴┤└┌└┐┘┤┬┤├┤┘┼▀▀▌▓≈²ё╖╙╙╚╜╞╟╢╢╤╦╩╬©юбббехигефххфффггййккллллопяяпяртссужжжуувьыыыыззэшшшэщщщщщчщщщщчщщщччччъчччччщщщщчъЮБЦЦДЦЦЦДДЦЦЦББЦЦЦБББЦБББЦББААБББББЦДЦБББЦЦЦББЦЦДДЦЦБЦЦБББАААщшшшээээшззыьввжжужжутужттуттсссррссряппряпооооомнннмммнммлллллклккклкйихиихгггфффгиййхгеееффггхгффеедцбю╬╩╦╥╤╤╣Ё╢╤╥╥╤╣╢╣╣Ё╝╛╜╝╜╛╙╗╗╘╙╚╚╖╕╔╕╕╖╕╔╔ё═ ▐┤┌}{|{zz{{zwsqruyxsqqsuxyzz{~┌┘┘┐│{xy~┐├┬┼┼┬├└│─│┐┐┌│─│┌┐┐┘┤┴▀▀▀▐■∙√≈≥⌡⌡⌡ ≤≥⌡⌡⌡°·═··²°⌡⌡⌡°÷²·║╔╗╖╔╒╒╓╔╖╖╖╕╗╕╕╖╘╘╙╚╙╙╛╞╠╠╝╙╔║²⌡°²²°·║╒║║╓╖╖╚╜╜╚╙╛╝╟╟Ё╦╫ацдефкяжзэшыьжжвььышывтряяполлллккихихгггфедцбббаю©ю©╬╬╫╪╩╧╦╦╦╤╤╣╢╡╠╟╝╛╚╚╚╛╛╚╘╗╖╗╘╗╖╓╓ё╒║║══·²°⌡⌡ ≤≈∙⌠▓▒░▌▌▌▄▀┴┬┤┘└┌│}zywvtuspnmkiheea_][\4415579:<>@BCDEFHJMOQRTUUX\`bdghkmoqrtvxxz|}─│┌┤┤┤├┤┴▄▐░░▒▓⌠■∙√≈≤≤≥ ⌡·═÷÷═║╒ёё╓╕╕╖╗╗╘╙╚╚╛╜╝╝╞╟╠╠╞╞╠╡╡Ё╣╥╥╦╧╧╨╩╪╪╫╬╬╫╬юбаабцццдефггггилпряпяряярярсужжуткд©╬╬╪╩╩╧╤╢╢╢╡╟╞╝╗╒═÷÷═║║ёё╒÷··÷÷·°⌡°°⌡⌡⌡⌡°°  °══╒╓╕╖╖╕╕╖╔║²°²²°²²······÷²⌡ ≥≤≈≈⌡⌡°⌡∙▌▀█▌┼┬▀▄▀▀▄█▌▌█▌▌▌▄┤├┘┤┼▄██┴┬┘┐┌┐┐┌┌{xwtqqqqqnjiknppqqoortuuttw{~─├▄░░▌▌▄┴┤┘┘┐{uroqruvvrnjjiihffimqokggikkmprqpqqqruvurpnnnopklpry~│┐┼▒⌠⌠∙≥≥≤√∙▓▌┼├┘├▀█┼┴┼▌▀┬┤├┘└┘┘┤┬┬┬┤┐─┌││┐├┬┤├┐┬┴┼█▒√²╓╗╚╙╙╚╝╟╡Ё╣╦╩©юацбцегхгффгххгггхйййкллммноппопртстужжжжжьыззззшшшшшшээщщчччччччччччччъъъччччччччччъЮББЦЦЦЦЦДДЦЦЦЦДДДДЦББББББББББАБББББЦДЦБББЦЦЦБЦЦЦДДЦЦЦЦЦЦБАЮЮЮчэшшээээшззыьввжуууууууустуусрсстттттсяпряпоооооммннннннллкклллллкллллйииййихггфефгийкйхггггффффихгфедцббю╫╨╦╦╥╤╢╣╥╦╦╥╤╤╣╤╣╠╞╝╞╞╜╛╙╘╘╚╛╛╙╗╖╕╕╕╓ё╓ё═ ▓▌┤~zzyzzzywvsstvzzuqpquxz{{┌┘┘└└┐┐|xx|─┐├┼┬┬┴┤└│││──│┌└└└┐┐└┬┼▀█▒∙≈≈≤≥     °°°°·║╒÷° ⌡°⌡²÷÷··═╔╖╖╕╒║║╒╓╕╕╕╖╔╔╖╗╘╙╚╛╙╚╞╠╞╛╚╘╖ё÷²°²²·║ё╒╒╓╕╖╙╛╛╙╙╚╝╝╟Ё╦╫юбдефйпузээзьвжвььызывтяяяпнлллллкихихггфедццбббаю©©╬╬╬╫╪╩╧╧╦╦╤╤╣╢╡╠╟╝╛╚╚╚╚╚╛╙╗╖╖╖╖╕╔╓ё╒║═÷÷·²°⌡ ≥≈√∙⌠▓░▐▌▌█▄▀┴┬┤┘└┌|zxxvttrpnlkigeea_\[[43145789;=?BCEFGIKMOQRSTUY]`bdfgjlnpqsuwxz|}─┌┐┤┤├├┤┴▄▌▐░▒▓▓⌠∙√≈≤≤≤≥⌡·═÷══║╒ёё╓╓╔╕╖╗╗╙╚╚╛╝╞╞╟╟╟╟╞╞╠╡╡Ё╣╥╦╦╦╧╧╩╪╩╪╫╬©юююаабцццдефггггйнясяпяррррпясувжутиц©©©╪╩╩╧╤╢ЁЁ╟╝╜╜╗╒═÷═║║╓╓ё║·²·═÷·°⌡°°⌡ ≥ ⌡°  ·╒╓╔╕╕╕╖╕╕╖╔╒·²··²·········²⌡≤≈≤≥ ⌡  ⌡≤▒▄▀▄┴┬┼▄▀▀▄┴▀▄███┼┤└└┐┘┬▀██┤└─~─┌┌─│{xxurrqpomjjmqtrrpmlnqruvxz|~~~┘┼▐░░░▌▀└││─zvutsuwwuqmkjhfffgilljhfhloqruvusrrqrtutqonommnilrsz┌├▀▐⌠▓▒■∙∙■▓▒▒▐▄└┌┘▀█┼┴┼┼┬└┐││└┤┤┬┬┤├┘┐─~}─┘┬┬┤┘┤┬┴▌▓≈·╔╗╚╙╘╚╜╞╠╡╢╦╪©бццддддегхфгхххххиииййкмннноппопрттууутужвжвьыыызшшшэээщщчщщщщщщщщщчччччъъщччччъъъчъЮАБББЦЦЦДДДДЦЦДДЕЕДЦЦБААББББЦЦАБЦБББЦДЦБББЦДЦЦЦЦДДДДЦЦДДЦБАЮъъччэшэээшззыыььввууууужжутууусррстстттсяопоопппонмммнннммлккклллллллмммкйийййхгфгффхиййиххгггггггихфеедцбца©╫╩╨╦╥╤╤╥╦╦╦╥╤╣╤╤Ё╠╟╟╟╝╜╚╙╙╚╛╛╛╙╘╖╖╕╓╒ё║·≥∙⌠▄yyz||zwuutvwwyzwsqquyz{{}┌├┤┘└┌│}zxz}─┘┼┬┼▀┴├┐┌┌──│┌└└└┐└└├┴▄▌▒■≥≥≥≤≤≥≥ ⌡²²°²÷║║═⌡≤ ²²·÷···÷╒╓╔╔╔ё╒║ё╔╖╗╕╔╕╗╙╙╚╚╜╚╚╝╞╛╙╙╚╚╘╓÷°²÷·═ёёё╓╔╔╖╙╚╚╙╛╜╜╞Ё╧╫©ацдейотзщщшьвжвввьзывтяпяпнлккккйхгхггффецббббааю©©╬╬╬╫╪╩╧╦╧╦╥╤╣╢╡╠╟╝╛╚╚╚╚╚╛╙╗╖╖╖╖╕╕╔╓╒║÷÷·²°⌡  ≤≈∙∙■▓░░▐▌█▄▀┴┬├┘┐┌~~|yxxwtrqomljihfea_\[[32045789<=@BDEGHIKMOPRSTVY\_aceghknprstvyz|~│┐└┘├┤┬┼▀▀▄▌▌░▒▓⌠∙≈≈≤≤≤≥⌡²÷·÷═║╒╓╔╔╓╔╕╖╗╗╙╚╙╛╜╞╟╟╞╞╟╞╟╟╠╡╢╣╥╦╦╦╧╧╩╪╩╩╪╬юю©©аабццдеефггфгкоясяопрррспясжвжтсхц©©©╪╨╨╦╣ЁЁ╡╟╜╜╙╖╒══║╒ё╓╓╒═·²·÷·²²°°°°⌡≈≤≥⌡°²║╓╕╖╕╔╔╕╕╔╔╔ё═÷═║═══÷··²²·²²⌡≥≤≥⌡° ≥≥  ∙░▄┼▀▄▌▐▌▄┼┬┴▀▀▄▄┴┘┐┐┌┐┤▀█▄┬└}~~|─zyzvrqplmlklpsurroljlopsvz{{}─└┴▄▌░▓░▄┐~}}yvvvvwxwsnkjifdegikmkkkjknpptvwussrqqrttqnnpnlmlrxy─┤▀▌░▓░░∙■⌠▒▌▌░▐▄┤┘├▀█▀▀▌┴├┌─└┬┬┴┴├┘┘┌~~}|~┐┬┴┤┤┬┴▀░■≤·╔╗╙╙╙╚╜╝╟╡╣╧╪©бддеедццфигггххггиииийклнннопппясуууууттжьжвььыышээээээщщчъчччъъччщщщщчччччччъъъЮЮъъЮААБББЦДДЦЦДДЦЦЦДДДДЦББББББЦЦДБЦЦЦББЦДЦЦБЦДДДЦЦЦДДДДЦЦДДЦБАЮъъъчщшшээшззыыььввужууужжутуутссрррррстсяоооопяяоннммнннмлмлйклммлммлмммлкииййхффгххииихгффггхххиихгееееддцба©╬╪╨╦╥╦╦╦╦╥╥╤╣╣╣╢Ё╡╠╠╞╝╜╛╛╚╚╚╛╚╙╘╖╔╓╓║÷°≤√√▐┐z{}──|wuvwyzxz{xurruyzz|─└┘┐┌┐┐┌~}zy{─├┴┴▀▀┬┘┘├├┘┐┌││┌┐┐├┘├┬▀▌░⌠  ≥≤≤≤≥≥≥⌡°°²═║÷╒°≥⌡²·²°°²²·═║ё╓╔╓╒║╒╓╔╖╕╕╖╙╛╛╛╜╜╚╚╛╚╘╗╘╙╚╛╗╒·²·²═╒ёё╒ёё╔╗╚╚╚╚╛╚╝Ё╧╫©юбдеинсыщщшывжвввьзыьуяпяпмлкккййхгхгффедцббббюююю╬╫╫╫╫╪╨╧╦╦╦╤╤╣╢╡╠╞╝╛╚╙╚╚╚╙╘╖╖╗╗╖╖╕╔ё╒═÷÷÷²°⌡ ≥≤√∙∙■▓░░░▌▄▀┼┴┬┤┘┐│}~|yxxwtqpnmkihgeea^\ZZ31/3579:<=?ACDFGHJLNOQSUWY\^_bdggjnqrstuxy{}~─┌┐└┘┤┴▀▀▄▀█▌░▒▓⌠∙√√≈≤≤≥ °···÷═╒ё╓╔╔╕╖╖╗╗╘╙╚╛╛╜╝╞╞╞╟╟╟╟╠Ё╢╢╦╦╦╦╧╧╩╪╪╪╪╬©╬╬юааабцдеееффеглпрспнояярряртжвусягб©©╬╩╦╦╥╢╡╡╡╟╝╜╙╖╒═÷║║╒╒║═÷·²²²²···²°°°≤≈≥⌡·═╒╔╕╖╖╔╓╔╔ё║ё╒═·═╒╒╒║═·²²²²²²⌡ ⌡²° ≤≤≤≥≥≤▓█▄▐▒░░░▄┬┼┼┼┼▀▄┼┤┐┐┐┐├┼▄▀┼┘│}zz|~yyzvqomlmnnptuussqnmoqrswzzz}│┐┘┤┴▀█▐▄┤yxywuuuuwxupljjifdegiloopnlkmmmtvvtrrqpprturnnpqnor{─├┴▄█░▓▓▓∙⌠▓▐┼▀▌▐█┴┤┬┼▄▄▄█┬┘┌─~~┐┤┬┼┴├┘┘│}}|~┐┬┴┤┤┴▀▌⌠■≈²╔╗╙╚╚╜╝╜╟Ё╥╨╩╬адееедддегхггхгффхййиийклмнннопртуужжуттуввьыыззэщэщщщэщщчЮъъЮЮАЮъщщщщччччъъъъъъЮЮччъЮАББББДДЦЦДДББЦДДЕДЦЦЦЦДЦББЦДДЦЦЦЦЦЦЦЦББЦДДДДЦЦДДДДЦЦЕДББББАЮччэшшщщшзззыьвввжжжуувжтуутттсррсррсттряяпоопяононнннмлкмкййкллкллккллккххиихефхххиихгфефггхиииихгеддддддцаю©╬╪╨╧╧╦╥╥╤╤╤╢╢╢╢Ё╡╟╞╟╠╠╟╞╜╛╚╛╛╛╘╕ёёё÷²°≥≈≈▓┬}~│└┌|xvwvy{{}~{wttwzz|~└┘└─~│┌┌~{y|┐┤┤┴┼┼┤├┤┤┤┴┤┘┐┐┐┐┐┘┘├┬┴▀▐⌠≥  ≥≤≤≤≥≤⌡°°²÷÷°║·⌡°²²° ⌡⌡°²÷═╒╒╒╒╒╒╒╒╓╔╕╔╕╘╚╛╛╜╛╛╚╙╗╕╖╘╗╙╛╚╖ё÷·÷═╒╒╒║╒ё╔╘╚╚╚╚╚╙╜Ё╨╬©©ацдхмрыщщшывжвввьзыыуяпяпмкйййййиххгффедцбццбю©юю©╫╫╫╪╩╨╧╦╦╥╤╣╢Ё╠╟╝╜╚╙╙╚╚╚╙╘╖╖╗╗╖╕╓╓╒║════²²⌡ ≥≤√∙∙■⌠▒░░▌▀┼┴┴┬┤┘┌─}~|ywxvsppnmjhgfdc_][YZ21/3479:;<>@ACDEGIKMOQTUVX[]^adgfjnqrrstvwy{|~─┌├├├┤┴▀▄█▌▐░▒▒▓■∙√≈≤≤≥ °²÷÷══║╒╒ё╕╖╗╗╗╗╘╙╛╛╚╛╜╝╝╞╟╟╟╟╠Ё╢╢╦╦╧╧╧╧╩╪╫╫╬╬╫╪╬аюаабцдддеффеглпрронояяярстуввуяофа╬╬╫╨╥╥╤Ё╡╡╡╟╝╜╚╗ё═÷÷÷÷÷÷÷÷÷·°⌡÷═║═·°⌡⌡⌡≥≥°÷║╒ё╔╕╕╔╓╔╓╒·══·°·║ёё╒═·²°°°²°⌡°·═²≤∙≈≤≈≤≤■▌░⌠⌠▐▌▐▄┤▀┼┴┬┴▀┼┬└└┐┐┘┼▀┼┬└┌─|ww|}yyzupmjnopruwwuuutqqsvwwz|zz~┐├├┤┤┤┼▀┤│xrrvvvvvruvtokjjjgfffhlorqmiiknouuusqqpnqsvwsooqtorx│└┌┬┤┼▄░∙∙⌠∙⌠▓█┴┴▌▐▌├├┬┼▀┼┴┬┘┐│─~└┬┬▀┼┤├┘│|─~└┴┼┤┘┴▄░⌠■√°╔╗╙╚╜╝╝╜╟╢╦╨╩╪юцфеееееееихгхфеегкйииийклмммморсттжввутужььыыызшээщщщээщчъччъЮЮъчччччъъъъъъъъъъъъэщчъАББББДДЦЦДДББЦДЕЕЕДДЕЕЕДЦБЦДЕДЦЦЦДЦБЦББЦЦДДЦБЦЦДДЦЦБЕЦББДДЦАщщэзшщщэшшзыьвжжжвжуувжтжуттттрясррсуутссяоопппооонннмлйлйххйккйкйииййййххиигеехфгхххгффгххиииххйхфеддцбдцбаю©╫╪╨╧╦╥╤╣╤╤╣ЁЁЁЁ╡╞╜╡Ё╢Ё╡╞╜╛╜╝╜╙╔║═║·²²⌡≤≈⌠▄─│└┘┌{wuuuw{}│┌}yvvy{|~│┐┐│~z~~|y~├┬┘├┬┴┬┬┬┤├┼┴┬┬┤├└┌┌┐┘├┤┴▐∙≈≤≥ ≥≤≤≤≤⌡²°²·°≥··²²²²°⌡  ⌡²÷║╒╒║ё╓╔╓╓╓╔╕╓╔╗╙╚╛╜╙╛╚╗╔╔╖╘╗╘╚╛╚╖╒·║╒╒╒╒║ё╔╖╘╚╚╙╙╙╙╛╡╨╬©©юбдглрьщщшывжжжжьыыыжяпяпмкйииййййхгфффедбцдбю©юаю╪╪╪╪╩╨╦╦╥╥╣╣╢Ё╠╟╝╛╚╙╙╚╚╚╚╘╗╗╗╗╕╓ё╒╒║═║║║·²⌡ ≥≤√∙■■▓▒░▒▌┼┴┴┬┬┤└│~}ywxvrqpomjhfecb_\ZYY2002377::;=?ABDFEGILNQTVXXZ]`bdehhjmprsswxxz~~┐└├┤┤┴▀▄▀█▌░▒▒▓⌠■√≈≤≤≥ ⌡°°·÷═║╒ё╓ё╔╕╕╖╙╙╘╙╛╝╝╜╜╞╟╟╞╞╞╟╡Ё╣╢╥╧╦╧╩╩╨╫╫╫╪╬юю╬ююаббцефегггйорррпннпяяяятжуууялга╪╨╨╨╦╥╢Ё╟╝╝╟╟╝╗╘╖╒····÷°⌡°²²°²²÷║÷°≥ ⌡  ⌡²═╒ё╓╖╔╔╕╔╒║╒║═÷÷··÷═╓║÷·══·⌡²··²··°≥∙≈≥ ⌡⌡≤■░▐▐▌████▀┼┬┤┴▀┼┤├└┐┘├┼┼┘┌┘┐|xz|{}}ztportsnnuywwzzwttttuw|│┐}─└├┬┤┘┐┐┐yqprwzyvtsttqnkihhikkilpoonlkijnsxyxtpooptsvzxrqtvuw~└┘┐┌┐┤▀▌▓∙■▒■▐▄▀┼▄▐▌└┘┬▀┼┤┘├┤┤└~│├┴┼┬├┘└┌|─└┘┐┘┬┤┴┤┴▌▓■≤°╔╖╗╙╜╠ЁЁ╡╢╣╦╪╫╬цддддццфигиигфгфеикййллйллллмноясувььвуттвьыыззззэээшэщщшэщчъъчччччччччъъъъЮЮЮъъчщъЮЮАЦЦБЦДДЦЦЦЦБДЦДДЕЕДДЦДДБАБЦБЦЦЦЦЦЦББЦЦЦДДДДДДДДДДДЦЦДДЦЦББААъчэшшэээззшшзывжувьвжуууттуутссрутррстсрпрряяпомнноопомккклмлллкйййихикмиииххгггфггггхфцииийййигйгффцацдддца©╬╬©╪╨╩╨╤╤╥╤╤╣╢╢╢Ё╡╠╤╣╢Ё╡╟╝╛╛╘╘╖║÷═·²²²°≥∙▒▐├┘┐─~}{xvuvy}│┌┌{wx||{}}~─└─~─{{~{z|─┐┐┌─┐┤┴┬├├┬┼█▐▌▀┼┬├└┌┐┤┴┼▄▐∙≤ ⌡≥≤≥  ²÷÷²⌡≥≥ ⌡²·²⌡⌡²°⌡⌡²÷═÷·÷╒╕╗╖╔ё║╓ё╓╗╙╚╚╛╚╘╗╗╖╕╗╙╗╙╚╚╙╙╖╔··═╒║·÷ё╕╖╘╘╘╗╘╙╛╢╧╩╬©©адеияыщщэзвжввжвззыжрррянккййииххггффедцбббаю©╬╫╫╬╫╪╩╩╨╧╦╧╥╤╣╣╢╟╝╞╜╚╙╙╚╚╛╛╚╙╗╖╕╕╖╒╒╒╒╒║÷·²²°⌡ ≤≈√∙■▓▐▌▌▌▄┬┴┴┬├└┌│~~|zxxvsoonmkhecdb]\ZXX10023769:;=?@BDEFHJLNPSUXXY[^adehikmoqstvwwz}~~┌┐┘├├┤┴┼▀█▌░▒▒▓⌠⌠∙√≈≤≥≥⌡°°²÷═║╒ё╓ё╓╕╕╖╙╙╘╙╛╝╝╝╝╞╟╟╟╞╞╟╡Ё╢╤╦╧╦╦╨╩╨╪╫╫╪╬юю╬юааббцдеефффиняяяоннояяярувуутпйфа╪╨╨╧╥╤╤╢╠╝╝╞╝╛╙╙╖╒··÷÷·°⌡°°°°²°²··°   ⌡°·÷║╒ёёё╒ё╔╔ё║╒║═·²²·═║╓ё╒║÷·°⌡°····² ≈√≤≥   ≤∙▒░▐▌▐░░▐┼┼┴┤├┤┤├├└└└┘┬┬┐┌┐─{xyzywyzwttsqomow{ywwvtrsttvx}│└┐┌└┘└├┤├┌}xspqtwyxwwvvuspmkkjjklknpmmkjjjkpt}}zuqppoqruyxtrsxwy┐┌──└┬▀▄░■∙▓▌▄▄▌█▌▐▄├┬┼┼┬├┘├┤┤┘│┌┘┤┬┤├┘└┌}~│┐└┤┼┴▄▀▄░⌠√ ═╕╗╘╙╝Ё╤╤╢╤╥╧╫╫©цдцдееефхфхиггггфикййллкллммннпрсужььвжжжвьыыззззэщэээчщээщчъччччччччччъъъъъъъъччщъЮЮАЦЦБЦДДЦЦДДЦДДДДЕЕДДЦДДБАБЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДДДДДДДДЦЦДДДЦББААъчэшшшшшззззыьввжжжжжжутсттттсррусррсссяярряпяпноооппонлллллллллииййииииииииииххххгефггеииийййихйфффцбдеедца╬╫╫╫©╫╫╪╦╥╥╣╣╢╢╢╢╢Ё╡╡╡╡╡╡╟╜╚╙╗╖╔÷··°°²²² √▓▐▄┘}zywwvwz}─zuuxxy|}~┘┌──{||z}┌└┌~─┌└└└├┬┼▄████▀┬┬├┘┬┴┴▀▌▓∙≥⌡⌡⌡⌡⌡ °²·²⌡≥≤≤≤ ²·°⌡ ⌡⌡⌡²÷══÷÷═ё╔╕╓║÷╒╒╓╖╗╗╘╚╘╖╕╕╔╔╖╘╘╘╘╘╚╛╙╕═·²÷═÷═╒╓╕╖╗╖╗╘╙╜Ё╦╧╪╬╬адеипьэщэзвжввжвышыжсррпмккййиххххгфффедцбааю©©╬╬╬╫╪╩╩╨╧╦╦╥╣╣╣Ё╟╝╝╜╚╙╙╚╚╚╙╙╙╘╗╖╕╔ёё╒║║═÷·²²°⌡≥≤√√∙■▓░▌▌█▀┼┼┴┬├└│─~~|zxxvsoomlkhecca]\YWX2/023658:;=?@ACDFHIKMPRSXXXY\_cegiklmortuwwy}}}││└├├├┤┼▀█▌▐░▒▒▓⌠∙√≈≤≤≥ ⌡⌡²÷═║╒╒ёё╓╔╕╖╘╙╙╙╛╝╝╝╝╞╟╟╟╞╞╟╡Ё╢╥╧╧╦╦╧╨╨╩╪╪╪╬юю©юабббцдееефгйняяпнммопяятжьжурнхеа╪╩╨╦╤╢╣╢╠╝╜╝╜╚╚╙╖╒÷·÷÷²°⌡⌡⌡ ⌡°⌡⌡⌡°°⌡ ≥°÷╒ёё╒╒╒÷═╒╔╔ё║║═÷°⌡°·║╒╒╓╓╒·⌡ ⌡⌡²÷÷·² √≈≥     ≥∙▓▐▌░▒▒▐▀▄▄┴├┤┬┴┤┘┘┘└├├┌─~{yyxxwswyxwxuqooqvyxvtqpprsuwy|─┘├┤┴┤└└├┘│}yupoqtvtrswusqrqnlmljlnnooklkkloqtx─{wtsrqrsvxyyxx{z{~|{|┐┬▀┼▄▓■▓▄┼▄▐▐▐▐▀┬┼▀┼┬┤┤┬┤┤┘┌│┌┐└┘┘└└┌─~}~{}│└┴▄▀█▄█░▓∙⌡╒╖╘╙╛╟╣╧╨╥╦╧╨╬╬©цдцдфгффффхххгххххйййммлмннооопртужвььввььыызшшшшщщщэщччэщщчччччъчччччъъъЮъъъчччччъЮЮАЦЦЦДЕЕДДЕЕДДДДЕЕЕДЦЦДДБАБЦБББЦЦЦЦЦДЦЦЦДДДЦЦДДДДДДЦЦДДЦЦБААЮъчэшшшшззззыыьввьжуужжуссттуутсртсррссряярряпяяпоопппонлмлллллллхиккйхгфхиййййихкйгддфххххийкккййгффццефедбю╬╫╫╬а╬╬╫╨╧╦╣╢╢╢╢╣╣╢Ё╟╠╠╡╠╟╜╚╘╕╔ё·²²⌡⌡°°²°≥■░▓├}~─}}wvuuw{┌ztsuuw{}|}┐┐─{~│~|─└┘─z|{{~│┐├┤┬┴▀█▐▌▀▀┬┤┬┴┴▀▌▒⌠≈ °°⌡ °°²··° ≤≤≈≤°÷÷° ⌡⌡⌡°÷║║║╒╒ё╔╕╔ё═║╒╓╔╔╔╖╙╖╕╔╓╓╓╕╘╘╖╕╖╛╞╜╙╓÷°²÷÷═╒╒╓╕╖╕╖╗╙╜Ё╤╥╩╫╬ацдхнжэщэзвжввужышзвсряолккййиххггфеееедцаааюю©©©╫╪╩╩╩╨╧╦╥╤╣╢╢╡╞╜╜╛╚╙╚╚╚╙╘╘╘╘╗╖╔╓╔╓╒║═÷··²°⌡ ≤≈∙∙∙■⌠░▐▌█▀▀┼┬┤├└┌─~}{ywvuronmljhecaa]\XVX2/023657:;=>@ACDFGIKMPQSVVWY[_bdfhjklnqttwwy}~}──└┤├┘┤┼▀█▌▐░░▒▓⌠■∙≈≈≤≥ ⌡⌡²÷═║║╒╒ё╓╔╕╗╘╙╙╙╚╜╝╝╝╞╟╟╟╟╟╟╡Ё╢╦╦╦╦╦╧╨╩╩╪╪╫╬©©©юаббббцдеефхлпяромллнпяртвьвтялгдю╪╩╨╥╢ЁЁ╡╟╝╝╝╜╛╙╘╖╓═²²²⌡⌡⌡ ≥≥ ⌡      ⌡⌡·╒╔╕╓╒║║·═╒╔╔ё║÷÷·°°²÷║╒║ёё║°≥≥ °·÷÷÷·⌡≤≥⌡°⌡  ⌡⌡ ∙▐█▌░▐▌█▐▌▀┴┼▄▌┼┬┬┤┘┘┘┌|xvxzzxxtxxvwzxstsrrtutqnoprtvxyy┘┤┴┼┬└│┐┌|{xsqrttpmorrnlnomlmjjlonnnjlklpsvx{}~|xuttstvwwz}}~{z{ywwy│┤┼┤┴▐▓░▌▀▄▌▌░░▌┬┼▀┼┼▀┼┴┘┘┐│─│┌┌┐┐┐┌─~}|~{|─┌┤▀▄██▌▐░■°╓╖╘╛╞╡╤╨╪╧╨╨╩╬╬©цдббеггфефхииххиихйийммлноооппярттужвввььыззшэээээщщэщччэщщчщщщчъчччччъъЮЮЮъччччччъЮАБЦЦЦДЕЕДДЕЕДДДДЕФЕДЦБЦЦААБББББЦЦЦДДДДДДДДДДЦДДДДДДДЦДДЦБААЮЮЮчщээшззшшзыыььььвжжжжууттужуутстссстсряяррппяряоооппомлммлкллллийклкигфхиийййиилкхеегииххийкллккххфцдффдцбю╬╬©ю©╫╫╬╪╪╩╥╣╣╣╤╤╣╢Ё╠╠╠╠╟╞╜╛╗╔╓╒·²·°°⌡°°²⌡√⌠∙┼─}─│││zwttw|─┌{vtuuwz{yy─~}{─│┌┘└~xxwx{─┌┐┌┐└├┼█▐▐▀┬┬┼┼┼█▒■■∙≈≥  ≥°⌡⌡°²° ≤√∙√ ²·²⌡⌡⌡ °·║╓╔╔╔╕╕╕╔╓ёёёё╓╓╔╕╗╖╔╓╓╓╓╖╘╘╖╔╖╚╝╝╜╗ё÷··÷═╒╒╓╕╖╖╖╗╙╝Ё╣╤╨╪╬ацдгмушщэзьжвжужьшывтрпнлккййихггееддддцббааюю©╬╬╫╪╩╩╩╨╧╦╤╣╣╢╢╡╟╝╛╚╚╚╚╚╙╙╗╗╗╗╖╕╔╓╕╓╒═÷÷·²°°⌡≥≈√∙■■■⌠▒░▐▌▀▀┴├┘├┘┐│}|zwvusponmkigec``][WUW20023657:;=>?ABCEFHJMPQRSUWY\^bdfhjkknqttwxy}~~─┐├├┘┤┴▀▄█▌▐░▒▓⌠■∙√≈≤≥ ⌡⌡²÷═║║╒╒ё╓╔╕╗╗╘╘╙╚╛╜╜╝╝╞╟╟╞╟╠╡Ё╢╥╥╥╦╦╧╨╪╪╪╪╫╫╬╬©юаббббццеефимпяянмллмояртжвжспкхдю╪╩╧╤╢╡Ё╠╟╞╝╜╛╛╖╗╖╔║²   ⌡⌡≥≤≤≥  ⌡⌡≥≤≥°═║╓╖╖╓╒══÷═╒ёё║÷···²·÷═║║║╒║÷²⌡⌡⌡²÷═÷÷÷·°⌡°²²°⌡⌡°°√░▄█▌▌▌▌▌█▀▀▌░░▌┼┴┴┘└┐│{wvz|{yyxzyvwzytwvsrrtspoqrsuvxzx└├┤┬├┐}{{}zvsttsollookiklkjjghlnmlljkknrvxy{z}}ytrsssvxx{─}{xvvvuw{─├┴┤┬▌░▌█▀▄▌▐▓⌠▒┼┼┼▀██▀┤└└┐│─│┌┌┐┌│~|{z~─┐┌┘┼██▌▐▐░∙·╕╖╘╜╠╢╤╧╨╨╩╩╪╬╬©цебацефффгхииихиихйийммлооппппястуужжжжвьззшшэээээщэээчщэщщчщщщччччччъъЮЮАЮъчччччъъЮАББЦДДЕЕДДЕЕДДДЕЕФЕДЦБЦЦАЮАББББЦЦДДЕЕДДЕЕЕЕДДДДДДДДДДЕДДЦББААЮъчщщэшзэшшзыыыывььвжжжвттуууутстттттсряяряппррроооппонлнмккллллйкклкйихиихххиййккигфхииииийкллклйихдеггдцбю©©©ю©╫╬©╬╬╫╨╥╥╦╥╤╣Ё╡╡╠╟╞╜╛╛╛╖╓ё╒··÷²²°⌡⌡°⌡≤√∙▐├~~┌└┌┌}xvx{}}|wvwuwyyvuz{{|{┌─│┐└│}ywwy~│┌││││┌└├┴█░▀┼┼▄█▄▐⌠√⌠▒▒■≈ ⌡ ≥≤≤ ≥≈∙▓⌠■√≤ °°²°⌡°÷ё╖╘╔╕╖╕╓╒ё╓╔╓╒ё╔╕╕╔╔╓╓╓╓╓╕╘╗╖╖╗╙╚╜╝╚╖ё÷²²÷╒╓╔╖╖╖╖╗╙╟╢╣╣╧╪╬абдфксзщэзьвжжужвзьжурпнлккйиихггедддддццббаю©╬╫╫╫╫╪╩╩╨╧╦╤╣╣╣╢╡╟╞╛╚╙╚╚╚╙╘╘╗╖╕╕╕╔╓╕╓╒═÷÷·²°° ≥≈√■■⌠⌠▓▒░░▐▄▀┬├┘┘└┐│}}zwvurponljigec__\ZWTV1//125589:<>?@BCDEGJMPQRQTVY[^acfgjkmorttwwx|~~┌┘┘┘┤┴┼▄█▌▐▐░▓⌠■∙√≈≤≥ ⌡°²÷══║╒ё╓╓╔╖╗╗╗╘╙╚╛╛╜╜╜╝╞╞╞╞╟╡Ё╢╣╣╤╦╦╧╨╪╪╪╪╫╫╪╫╬юаббббццдцеинпппнмллмояружжурнйхц©╪╨╧╤Ё╡Ё╠╟╞╜╚╙╙╕╖╖╕║°≥≤≥  ≤≤≤≥≥≥⌡⌡ ≥⌡═╓╓╕╕╔ё║═══║║═══÷·÷·÷═║║═·║║║═÷·²²²÷══÷═÷·°°²·²⌡ ⌡ ≈▓▌▄██▌▌▌▄▄▌▒⌠▓▐┼┴┬┘┐│~{yz}}{zzyzyxyywuwvuuvusoqsutuwyzz┐└┐└┐─}|ywy|zurrsrnjjlkigghhgfffjmkjkkkmqvyz{|{~zsppqrv{|~~}zvsrtvw{─┌├┬┬┼█▐█┼┴▄░▓∙√⌠▌▄▀██▀┤└┘├├└┌┐└┘└┌}}|{z┌│┘┤└└┴▌▄▌▐░▓≈═╖╗╚╞Ё╣╣╤╥╩╪╩╪╬╬©цфцабдефгггхиихийикйймммоопяяярстужжжжвьзззшээщщщщщщэщччщщччччщччъъъъъЮЮАЮЮЮъъъъъЮъъАББЦДДЕЕДДДДЦДДЕФФФДЦБЦЦААБЦЦЦЦЦДДДЕЕДЕЕЕЕЕЕЕДДДДДДЕЕФФЕЕДДДЦАЮъъччэшшшшшззыывьыьвжвыуутттттсттттссрряряппрррппппяпонмлккллкклккккккйиихггхиййккихийикййкклкклййхефхгеедбю©©©а©юа©╬╬╪╧╨╨╧╥╣Ё╡╠╟╝╛╙╙╙╚╖╓ё║··÷²²°⌡⌡⌡⌡≥≈⌠▓▀│}│┐│└─{z{}~}|yxxvwyxutxxz}}┌~│┌┌─}{vvy~──~┌┌┐└└┘┴▄▄▀█▐▐▌▐▓■▒▌▌▒√⌡· ≤≈≈≤≈√■░▓■■∙≤⌡²·²²²═╓╘╚╓╕╖╕ё║╒╓╕╓╒╒╔╖╔╒ё╒╒ёёё╓╕╕╖╗╘╗╗╙╜╚╙╖╒²⌡²÷╓╔╖╗╖╖╗╙╟╢╣╣╧╪╬абдеирзщэзывжуужвыьжусомлккйиххггфеедееддббаю©╬╫╪╬╫╩╩╨╨╧╦╣╣╣╣╢╡╠╞╚╚╙╙╙╚╙╙╙╗╖╕╕╕╔╓╔ё║═÷÷··°° ≥≈√∙■⌠⌠▒░▐▐▌▄▀┴┤┘└┌─~}{xvusponkjhfdc_^[YVTU0../05588:<=?@BCEEGIMOPPRTVWY[_befhjmorsswww{}~─┌└└┘┬┴┼▄█▌▌▐░▒▓■∙√≈≤≥⌡°²·÷÷═║╒ё╔╓╔╖╗╖╖╗╚╚╛╛╜╜╜╜╝╝╝╞╟╡Ё╢╣╣╤╦╧╦╧╩╩╩╪╫╫╪╫©©юббббццдцдйнпппнмлллняружжтямихц©╪╨╦╣╢Ё╠╟╞╞╜╙╘╙╗╖╗╕╒°≥≤≥ ≥≈≤≥≥≤≤ ⌡°°÷ё╖╖╕╔ё║║║║║║═··║╒╒═÷÷═║║÷²÷═╒╒║÷··°÷║║══·²⌡⌡°··⌡≥≤√√∙▒▄┼┼▀▄▄▄▀▌▒⌠▓▌┬┘┘┌─}yz{~~}||zyxxxwwxyxwyyvrosuvutvyzz~─│┌└┌~||zxxzxuqstrmhgidfedfiifhfiljjkjknsy{{{}│yroppux{}{ywvsqquy{~┌└┘├┬▀██▌┴┴█▒⌠√√⌠▒█▄█▀┘┌┐┤▀█▀┬┤┤┬├┌}|}~}{┌┌├┴├└┴█▄▌░▓∙⌡ё╘╚╛╟Ё╢ЁЁ╣╩╪╩╪╬╬©цецацдефгффгиихиклмллннмопяяррстужжжввышэээщччъъъчъччъЮЮччъЮЮъъъъЮЮъъЮЮЮАЮЮЮЮЮЮЮъЮъъАББЦЕЕФЕДДДДЦДДЕФФФДЦЦДДББЦДДЦЦЦДДДЕЕДДЕЕЕЕЕЕЕЕДДЕЕЕФФФФЕЕЕЕДААЮЮъъщэшшшшшзыывввввььыжжуттттууттсрррряяяпярряппппяяпомлккллкимкййййййииххххиииккйийкйллкккккййийхфгигеедца©©©аюаю╫╫╬╪╩╩╪╩╦╣Ё╡╟╞╝╛╙╘╘╙╘╔ё║···⌡°°°°° ≥≤√∙▐├│─}}}─}zyxwy{ywwzy{──┌~~───~}xxy|~}}~┐┌┌└└└┘┤┬┴▄░▐██▐▒▐██▒√⌡÷ ≤≈√√√∙■░⌠■■∙≤⌡²²²²÷║ё╕╗╓╕╖╕╓ё╓╔╓╓ё╒╓╔ё║══║ёё╒╒╓╔╕╗╘╗╖╗╙╚╚╘╓÷°°·╒╓╕╕╕╖╗╘╟╢╢╣╧╪╬абдеиязщэзывжуужжзьвжснллккйихггфгфедееддааю©╬╫╫╪╫╪╩╨╨╧╥╤╣╣╣╣╢╡╠╟╚╚╙╘╙╙╙╙╘╗╖╖╖╕╓╒╓╒║══÷÷·°° ≥≈√√∙⌠⌠▒▌▌▌█▀┼┴┬├┐│~~}{xvtroomkigfdc_^ZXVTT.--./44889;=>@BCEFGILOOOSTUVWZ^acdfilopqswvvz}}│┐┘┘┤┴┼┼▄██▌▐░▒▓■∙√≤≤≥⌡°··÷÷÷║╒╓╔╓╔╖╗╕╖╗╛╛╛╜╜╜╜╜╜╜╝╞╟╡Ё╢╢╢╤╦╧╦╦╨╨╨╩╫╫╪╬ю©юабббццедекпяяянмлллнясжжжтпкихц©╩╧╦╣╢╢╞╜╜╝╜╙╘╙╘╗╗╖╒°≥≥≥≥≤≈≤  ≤≈≤ ²═ё╕╖╘╖ё║══║║╒╒═·÷ё╕╖║═══║═·°°÷ёё║÷²²⌡÷║║═÷²⌡⌡ ⌡··⌡≤√■√√▓▄┤┘├┬┴┼┴▀▌░░▄┘┌┌─}zvx|──~~~{xvvvux|}zyzzvrpsvvttvyyy{}┐┘┐~{}}{zzyvtvxunhfh`dfegmnkjggjjjkjhlsyzzz|┌┌~xrqqqwxyxusrstrsw{|~│┘└└┤┼▀▄██▀█▒▓■∙▓▒█▄█┴│─└┼▐▓░▄┼┴┼┤┌}{}~}││├┴┤┘┴▄▐▒■√ ═╗╛╜╝╠Ё╡╠╡╣╩╪╩╪╬╬юдецбдеефгфегийийлмоммоонппярсстужжвввьзщъчъъЮЮАААЮЮЮъЮААъчЮААЮЮъъЮЮЮЮЮЮААЮАААААЮЮЮъъАББЦЕЕФФДДДДЦДЕЕФФФДБЦЕЕЦБДЕЕЦЦДДДДЕЕЦДДЕЕЕЕЕЕЕЕЕЕЕФФЕЕЕЕЕЕДДААЮЮЮъчэззшшшзыььжжжьыыьыьвууужвутсрряррпяряярряооопппполкккллйимкйиийиихиииииихйккйийккмллкккйиххихфхйгццццаююю©╬©©╪╪╫╫╩╪╫╪╧╤Ё╡╞╞╝╜╚╙╙╙╚╖╔╒÷··⌡⌡°²²° ≤≈≥√▒┼┐}}│┌┐─}{|~|zyxz}|yy}{}┐┌┌~}|}─│─~|{{|}}││─┐┘┘└└└┘┼▌▌▀▀█▐▌▌▐▓√⌡·≤≈√∙■■⌠▓▌▒⌠⌠∙≤  ⌡°²·═║╒ёёё╓╓╓╓╔╔╒╓╓╒╒ё╒═÷÷║ёё║║╒╓╔╖╘╘╖╖╘╛╛╙╕║·²²═╒╓╔╔╕╖╘╟╢╢╢╧╪╬юбдехпзчэзывжуужжшывжснккккйихггффеддддццюю©©╬╬╫╫╫╪╩╨╧╦╤╣╢╣╣╣Ё╡╟╟╛╙╘╘╘╙╙╙╘╗╖╗╗╖ё║ё╒║═══÷·²° ≥≤≈√√⌠⌠░█▄▄▀┼┬┬┤├┐│}|zwtsqnomkigfdc`^YXVTT--,/03498:;=>@ACDGHHILPQQRTWY[^aadfijloqqtvvx{}}─┌└┘├┬┴┼┼▄▌▐▐▐▒▓■■∙√≤≥ ⌡⌡°·÷═║╒ёёё╓╔╕╖╗╘╘╙╚╜╝╝╜╜╜╝╞╞╟╟╠╡╤╤╥╥╤╥╦╦╨╩╩╪╫╫╬╬юабццбццбдгкнппонлклноружвжролифцю╩╧╦╥Ё╟╛╛╛╜╜╚╙╗╗╔ё╓╒²≥≤⌡ ≥≤≥≥  °°²═ё╕╖╖╕╕ё══║╒╒═÷²°·╒╔╕╒═÷÷║═²⌡°°²··²°²⌡°²²··²⌡°°⌡≥≈√≈≤⌠⌠■⌠▐┴└┐┘├┴▀▀┼▄▌┬┘┐┌│|{zz{}─~xvtuwy|~~}zyyyvrrsuvvvwy{|~│└┘┌~zz{}││~zvvwwslebcdedejoqligghhijnosy|{zz─│}uqtvuttroprsrpusw|}│┌┐│┌┘┬┼▄▌┼▀█▐⌠√√■▐▐█┴┐│──┤■≈▐▀▄┴└┌├┤┌│┐┌│─│└├┬┼█■∙≈≤°╒╙╞╝╝╞╞╞╟╡╢╣╧╪╪╪╬юбцдееееффгггхикккмннмллнпоярррсувужьзээщъЮЮъъъЮЮЮЮЮъъЮААБААЮЮААААБАААААЮъБЮЮЮЮъъАъъЮБДДДЦЕЕЕЕЕЕЕЕЕЕФФЕЕДЦЦЦЦЦЦЦЦЦДДДДДЕЕЕДДДДДЕЕЕЕЕФФФЕЕДДЕЕЕДДДЕБАЮъъъчщщшшээзыыыьвввввжжвввввжувжтряяррряпппяяяноппооооппонмлкклллкйккйгххггийийихийкккклммкйййихххххииедцббаю╬©╬╬╬╬╫╪╩╫╫╩╧╥╥╥╣Ё╠╝╛╚╚╚╙╘╗╖╓║÷··²··÷÷⌡√▓⌠√≈░├~│││┐┘└┌──└└│~zy}}}~──~~─}{z{~──zz{}─~}}─┘┴┬└┌│┐└┘┬▀▄▀▐░▌▐∙  ∙▓▓■■▓▓⌠▐▓⌠⌠■√≈√ ²÷══÷÷÷╔╒ё╕╕╒ё╖╕╕╔╔╓╒═÷÷║ёё╒╒ё╓ё╔╕╖╗╘╘╖╙╚╚╘╔║·²║║ё╓╓╔╘╜╞╡╢╣╦╪©©юацгпьэщшзьжуужжььыьтоллкййиххггхфдцддцбаю©©©©╬╫╪╪╩╨╧╦╥╤╣╤╤Ё╠╟╜╚╛╙╙╚╚╘╗╘╘╘╗╖╖╕╔╓║╒╒═²°²·⌡ ≥≤≤≤≈√▓▓▓░█▄▀▀┴┬├┘┐│zzyxvsqonljigedb^\YXVST0--0143878:<>?ACDFHHILOQQRTWY[]`acfhjloqruwwy|~~─│┐┘├┤┴┴┼▄▌▐▐▐▒▓⌠■∙√≈≥   ⌡²·÷║╒╓ёё╓╔╕╖╗╗╘╙╚╜╜╝╜╜╜╜╝╞╞╟╡Ё╢╣╤╥╥╥╦╧╨╨╩╪╪╫╬╬юаабабцдцдгкнппомкйкмортжвурнкхец©╨╦╥╤╡╞╜╜╛╚╚╙╘╗╗╕╓╓╒·⌡≥ ≥≥≤≥ ⌡°°²═╓╕╖╖╕╔╔ё═÷═║═÷·°⌡·╒╔╔║══÷÷²°⌡°°°··°°²⌡·════·°⌡ ≥≈∙■■∙▓▒▒▓▒▄┤┘├┤┬┴┴┬▀▌┤┘└┐│}{zyyyz{|||yyxwwy{}}~}|{{yxvuvwvtvxx{~│┐┌│}~│┌┌~zwvvvtoifbdeefjmnkhefggikppsx|~│┐─wrssqppqpqssqpvux~─┘┘┐└┘┤┬┴█░▀█▌░■√√■░░▌┴┌~}}▀⌠■█┤┐┌┐┤┼┴└││||~┌├┬┬▀▌√√≤≥°╒╘╝╜╜╝╝╞╟╡╢╣╧╩╩╩╫юадефффффггггхйкллмннмллнпоярррсувужьшээщъЮЮъъъЮЮЮАААААББББААААББАББББЦЦБАБАЮААЮЮБААААЦДДДЕЕЕЕЕЕЕДЕЕЕЕЕДДЦЦЦЦЦЦЦЦЦЕДДДЕЕФФЕЕЕЕЕЕЕЕЕЕЕЕЕЕДДДДЕДДЦДДБАЮъъъчччээщщшззыыььыыыывввжжжжжттттсряяяяпяяяппооппонноооооомлкмммкййиххииггиихйиххийййккййииииххггххххдцбаааю©╬╬╫╫╬╫╪╪╩╩╨╥╥╥╥╥╥╢╟╜╚╙╘╗╘╗╕╔╓ё║══║║║÷⌡≈■■∙√■▄┌┌│┘┤├┘┘┤├└┌│~|─┌┌┐┐||~|{{|~{{{|}}}─┘┴┬└─|──┐├┬▀▐▓░▐▒■∙⌠▓▓⌠■⌠⌠⌠░⌠■⌠⌠√≈≤⌡·║╒║═÷═╒║║╒ё╒ё╖╕╕╕╔ё║═÷÷═║╒ё╓╓╓ё╓╔╕╕╗╗╕╙╚╚╙╖╓═÷÷═╒ёё╓╗╜╠╡Ё╢╦╫╬╬юацгпьэщэзьжутуужжввснллкйииххггхфдцддцббаю©©╬╬╫╪╪╩╨╦╥╤╤╤╥╤Ё╠╟╝╛╚╙╙╚╚╙╘╙╘╗╖╖╕╕╓ё╒╒╒═·°²²⌡ ≥≤≤≈√∙▓▓▒░█▄▀▀┴┬┤┘┐│{zxwuspnmkigfdba][XXURT/,-0143668:<=?ACDFHHILOPQRTWYZ\_acfhiknprtvwy|~~│┐┘├┤┬┬┼▀█▌▌▐░▓⌠⌠■∙≈≤≥ ≥ °²÷═╒ёё╓╓╔╕╖╗╗╘╘╚╛╜╜╜╜╜╜╝╝╞╟╡╢Ё╣╤╥╦╦╧╧╨╨╩╩╪╫╫╬юааааацдцехкнпоолййклнятжжуямкгеб╬╧╥╤╢╠╝╝╜╚╙╙╘╘╗╕╕╔ё║÷°≥≤≥≥≤≤≥°·²═╔╗╘╗╕╔╓╔ё║══÷·⌡ ≥≥⌡÷╒╒╒╒╒║·²²²°⌡⌡²²°°°⌡÷║÷÷║═²  ≤√■⌠▓▓▒▌█░▓░▀┬├┤┬┴┬┬┴▀┘└└┐│}{{xxxwwxz{{}|yxy{z|~|zz{{yvvwvstxwz~──│┐└└┐┌~{xutuurmjdfgghjkkjhffgilnporx~┌└┘┘┤┐zrpommoqrstrpowvy┐┬┤└┘┬┴┤┬▄▒▄█▐▒■∙■▒█▐▌▀┘││┐▐▒▒█├├┼█▀├┌│{{─├┴┴┬▄░√≈≤≥°║╖╚╚╛╝╝╝╟Ё╣╤╧╨╨╨╪юбеефффффгггхиклммммнмлмнпопрсссужужьшээщчЮЮъъЮЮЮЮЮЮААААЮАБААААБААББББЦЦЦБЦБАББААБЦБААБЦДДЕЕФФЕЕЕДЕЕЕЕЕДДЦЦЦДДДДЦЦЕЕЕЕЕФФФЕЕЕФФЕЕДЕЕЕЕЕДДЦДДДДЦЦЦДБАЮъъъъччээээшззззыыызыыьвжууужжссттсрряппяяряпооопонннннопппомлмммкййихииихгххгиххххийилйхгхиихффггххххдбю©©ююю╫╫╫╫╫╫╪╪╩╨╧╥╤╦╧╧╨╥Ё╞╛╙╘╗╖╔╓╓╔╔╒═║║╒═·⌡≤≈√⌠■≈▓├─┌~┐┬┴┴┴┤┤┘┐┐│┌└┘├┐~z{}|}~───}|{{|}~{{├▄▀┘│~──~|~│┐┴▌⌠⌠▐█▌░░▒▓▓⌠■⌠▓▒⌠⌠▓▒⌠√≤⌡²═║║══║║║÷··═╒╓╕╕╖╔╒÷·²÷÷═╒╓╔╔╓╓╔╔╓╔╕╖╕╘╙╚╚╙╖╓║·÷║╒╒╓╘╝╢ЁЁ╢╦╫╬╬юацговэщэшыжуттуужввтоллкйиихгггхфедддцббаю©©╬╬╫╪╪╩╨╦╥╤╤╥╥╣Ё╠╟╞╜╚╙╙╚╚╙╙╚╗╖╕╕╕╔╓ёё╒║═·²²°⌡ ≥≤≈≈√∙▓▓▒▐█▄▀▀┴┬┤┘┌─~~|zwutspmnljhfdba\ZWWTQS.,-0032668:;=?ABCEGGHKNORRTWYZ\^acfhijmorsuwy{}~│┐└┘├┤┤┴┼▄█▌▌░▒⌠⌠■∙≈≤≥ ≥ °²·═║ёё╓╓╔╕╖╖╗╗╘╙╚╛╛╛╛╝╝╝╝╝╟╡ЁЁ╣╤╥╦╦╦╧╧╨╨╩╪╫╫╫©юаааацццеилооонкййклняужжтплйгда╫╧╤╣Ё╟╝╝╜╚╙╘╘╗╖╓╔╔╒═÷°≤≤≤≤≈√≈ ²═ё╖╘╗╖╔╓ё╓╓╒═÷·°≤≤≤≈ ²══║║║═·²²·⌡  °°⌡⌡⌡°÷÷⌡ ·÷² ≥≈∙■⌠▓▓▒▌▄▌▒▒▐█┬┤┤┴┼┴┤├├┐││}|{wwvutvy{}──{xzzx{|{wuuxyyvuwurtz{|~~│┐├├┐│─~{xtrtvtpljjjjjjiiihffgjmoonpw~└┬┼▀┼└ypmlkmortttrpqz{}┐┤┼┬└┘┤┤├├┼▌▀█▐░▓⌠▒▌▀▄▌▄┬└┘┬▄▌▌▄┴┐└▀▀█▄┤┘└┌│└┤┴┬┴▌▒√√≈≤ ÷╓╖╘╚╜╜╝╟╢╤╦╨╨╧╨╫юбддееееееггхйлннмммммммопоярсттуужвыэщэщчъъъЮЮЮЮЮъъЮЮЮъъъАЮъЮЮАЮЮАААБББААЦБББББББББАБЦДДДФФФФФФЕЕЕЕЕЕЕДДДЦДДЕЕДДЦЕЕЕЕЕЕЕФДЕЕФЕЕДДФЕЕЕЕДДДДДДДДЦЦЦБАЮъъъччээшшшшзышзыьььввьввжжжжжутсрярссяяпяяяпопппоннммнноппоннлммккккиййииххххихггхииикйххииихефгхххххеца©©ююа╬╫╪╪╪╪╪╩╩╩╧╥╤╦╨╨╧╥╢╠╞╛╚╘╕╔ё╓╓╓╒═·÷÷·⌡≥≥≥∙▓⌠∙⌠┼┌─~}│├┤┤├┐└┐┌┐┌─┌┌┌┐│}{|}}│┐┐┌┌┐─}||}~~{{┬▐▐┴└┌┐┐─}|}┤▀░▓░▄▀▄▌░▒▒▓■⌠░▒▓▓░▐▒∙≈ ⌡²·÷═╒ёёё═°⌡·═║╓╕╕╓═²°°··═║ёёёё╔╕╕╓╓╔╕╔╗╗╘╚╛╙╕ё·÷═╒╒╓╙╟╤╣╢╣╦╪╬©юацгнвшщэшыжуттуужввтолкййиихгггхгеддццбаю©©©╬╬╫╫╫╩╨╧╦╥╥╤╤╣Ё╠╟╞╜╙╙╙╙╚╙╚╚╖╖╕╕╕╔╓ё╓╒═÷÷·°⌡⌡ ≤≈≈√∙■▒▒░▐█▄▀▀┴┬├└│}|}zvttspmnmkigdb`[ZWWTPR.-,./22779:<=>@ABEGGHJMNRRTWYZ\^acfghjmnrsuwxz|~─┌└└┘├┤┴┼▄█▌▐░▒⌠⌠■∙≈≤≥  ⌡²·÷═║╒ёё╓╔╕╖╗╗╖╗╘╙╚╛╛╛╝╞╝╝╝╞╠╡╢╣╤╥╥╥╦╦╧╧╨╩╪╪╫╫╫©абббббцфймоонмкййклнржжурнкифцю╫╦╣Ё╡╟╝╛╚╚╙╘╗╖╕ё╔╓║═÷²≥≈≤≈√∙√≥°ё╔╕╕╔╓╓╓║╒╒║÷·° ≥ ≥≥⌡·÷÷·²²²²²°⌡ ≤≥ ⌡ ≥≥⌡·²≥≤⌡° ≥≈∙⌠⌠▓▒░▓░▐▌▐░▒▒▌┴├┤┴┴┬├┼└~}}|zywvuttvz}~│─{yzzwzyuqpruvzwvwusv{┌~~─│┐┐├┘│~~}|yusuwvroroljihgggfeefhkmomms{┐┼▌▐▄┌umklmoprttsrrs}┐┴▀█┼├┘┘├├┤┴▄▄▌▐░▒▒▐▄▄▄▄▀├┌┐├┤┼▀┼▀┼┴▀▄█▄┴┤┬┤└┬┤├┘┤▀▒■√∙∙√≥²╒╕╖╚╝╜╝╠╣╤╧╩╩╨╩╬абцдееедеефгикноннмммммноппярсттуувьзщщщщъъъъъЮЮЮЮъЮААЮЮъЮАЮъъЮЮЮЮАААААЮЮЮББББАБААЮЮАБДЕДДФФФФФФФЕЕЕЕЕЕЕДДДДДЕЕДДДДДДДДДДЕДДЕЕЕДДЦФФЕЕЕЕЕДЕЕЕДДДДЦАЮъъъъччээшзшшзышзыьььвжвввьввжжжутсррссряппяяяяяппооннмннннннномннлллкййииййиийиихххииииййййиихффгххххггебююююю©╬╪╪╪╪╩╩╪╪╧╤╤╦╨╨╦╥╣Ё╡╞╜╚╖╖╖╔╓╒║║²··°≥≈≤ ∙■▓▒▒█├┌~{}│┐┌┌│──┌│───~}||{}─└┘┘└┐┐┌│─~}}~}}│┴░░┼┘│┌┐┌~||~┘┤▀▐░▌▄▄█░░▐▒⌠▓▐▓▓▓░▐░⌠√≤≤≥⌡²═ё╔╓╓║° ²÷÷╓╔╔ё═²²²²÷║║══║╒╕╕╕ё╒ё╓╓╕╕╖╘╛╚╗╕══║╒ё╕╛╡╢╣╣╣╤╧╪©юацгмушэшзьжууууужввснййййиихггфгфеддцбаю©╬╬╬╬╬╫╫╪╩╧╦╥╥╤Ё╣╣Ё╡╟╝╚╘╘╙╘╙╙╙╙╖╖╕╕╕╔╓ёё╒═÷÷·°  ≥≤≈√∙■⌠▒▒░▌█▄▀┼┴┬├└│}|}zvutspnmkigec`^[ZWWSPR.-,..22789:;<>?@BDFFGJLMQRTWYY[]acfghjmnssuxyz|~─┌┐└┘┤┬┼▀▄▌▐░▒▓⌠⌠■∙≈≤≥ ⌡°²·÷÷║╒╒ё╓╔╕╖╗╗╗╗╘╙╚╚╛╛╝╝╝╝╝╞╠╡╢╣╤╤╤╥╥╦╧╨╨╩╪╪╫╫╪╬юббааадфкнонмлйийклнсвжтямйифцю╪╥╢╡╠╞╝╚╙╙╘╘╗╖╔╓╓ё╒╒║² ≈≈√∙∙≈ ²╔╔╔╓ё╒╒╒·══÷·° ≤  ≥≥ °²°⌡⌡⌡°²²°⌡≥≤≤ ⌡ ≥≤≤⌡²²⌡⌡≥≤≈∙⌠▓▓▒░▌⌠⌠▓░▐░▓⌠■█┤┘┤┴┼▀█┘|zzzwuvvuuux{}}}zyzywywroosuuzyxwvvx{┌}yz}~│┌┘┘|}}{zwuvwvutwqlihgffghhggijknllpw─┴░░┼sllnopqrtuttuu}┘▀┼▀┴┬┘└├┬┴┼▄▌▐░░▒▒▌▀▄▀┼┼├┐└┤┤▀▀┴▄▌▄▀▄▄▀┴┬┴┴┬┴┤└┐┤▌⌠∙■■⌠■≈°╒╔╕╚╝╜╝╠╣╥╨╪╫╪╫©абцдеффффгфгйлнонммммнноопяярсттууььшщчщщччъъъъъъъчъЮЮъъъЮАЮЮЮЮААЮАБББАЮЮЮАББААААЮъъАБДЕЕДЕФФФФФФФЕЕЕЕЕДДДДДДДДДДДДДЦЦЦДДДДДДДДДДДФФЕЕЕЕЕЕФЕЕДЕДДЦАЮъччччщэээшшэшззыььыыыьввьььввжуууутсрясряпяяяяяпоооннмнммллмннопомллйийииккййкйиххийййхийййиххггггггггхфдбааю©©╬╪╪╪╪╪╩╪╪╨╥╤╦╧╧╦╥╤╣╢╠╝╛╘╘╗╔╒═÷÷··²⌡≤≈≈≥∙∙⌠░░░▀└┐~z{}~~}─││~~││}|{zx{~┐┘┘┐┌│┌┌┐┌│~~─┌┬█▄├│~│┌┌──│┘┘├┼▌░▐▌▌▐▐▐░▓▒░■▓▓▓▒▒⌠∙√√≈≤⌡═╓╖╒╒═°⌡·═║╓╓╓╒═÷÷═²÷║║÷·÷═ё╓╓╒║╒ё╓╕╔╕╖╙╚╙╗╔ё╒ё╔╗╝╡╡Ё╢╣╣╤╨©юацфлтзшшзьвуууууувжрмихййиихггфффедцбба©©╬╫╬╬╫╫╩╩╧╦╥╤╤╤╡╢╢Ё╡╟╜╚╘╙╙╘╘╙╙╘╖╖╕╕╔╔╓ё╒║═÷÷·°  ≥≤≈√∙⌠▓▒░▐▌█▄▀┼┼┴┤┘┌─~}{yvuuspnlkigec`^\[XWSOQ-,,./226789;<=?@ADFFGILMPQSVXY[]acfgijmossuwyy{}──│┌┐┘┤┴┼▀▄▌▐▒▒▓▓⌠■∙√≤≥≥⌡°²·÷═║╒╒╒╓╔╖╗╗╘╗╘╙╚╚╛╛╜╛╜╝╝╞╟╠╡╢╢╣╣╣╤╦╧╧╨╨╩╪╫╫╬╫╬юаааабдгкнонмлиийклнсвутплйифб©╩╤Ё╠╞╝╜╙╘╗╗╗╗╖╖╔╒║╒ё║²⌡∙∙■∙≈ ·║╕╔╔╓╓╒║÷²·÷·²° ≤  ≥≤≥  ≥ ⌡°²²°⌡⌡≥≤≈≥⌡ ≥≤√≤°÷·⌡≥  ≈■⌠⌠⌠▒▐■∙∙⌠▒▓⌠▓∙░▀┬┤┬▀▐▀┐|yyxvtwvuuwy{||{yyyzyxyxtqqtuuxyywvx{|}xuwz{|~┌├┘─}~}z{xvuuuwzxrkihhhhhjkjjjjijknsy─┤▄▌┤|snoqqttvxwvvxz─├┼┤┬┬┬├┘├┬┼▀█░░░░▒▒▌▀▄┴┴┼┴┤┴▄█▐▄┼▀▄▄▌▄▀┴┤┤┴┼┼┤┤├┤▄▒⌠⌠▒░░▒∙⌡║╔╔╙╜╜╜╠╣╤╨╪╬╬©юаацдффффгхфхймоонмннннооппярррстуувьзщщээччччъъъъъчъЮъччъААЮЮЮЮАЮЮЮАБААЮЮЮЮББАЮААъЮЮЮАЦДЕДДДЕЕФФЕЕЕЕЕДДДДЦЕДДЦЦДДЕДДДДДДДДЕДДЦДДЕЕЕЕЕЕЕЕЕФФЕДДДДЦЦАЮъчъъччэээззээзыыььыыыыввввввввттуутсррсряяррряяпнннннммммлллммопонллйхйииккййккйиийкллйихиййихххггффффгфедцбю©╬╫╪╩╪╫╫╫╫╫╩╦╥╧╨╧╧╦╤╣╢Ё╠╟╛╙╖╓║÷·²··° ≤≈≤≥∙■▓▒▒▒▌┼┘─|{|||}~│───|{~~|{zywy|│└└┌─~│└┘└┌~──└┤┘─}}}┌└└┘┤┤┤┘┘┼░▒▐▐▌▌░▒▓▓⌠■▓▒▓⌠▓▓⌠⌠⌠■≈ ÷╒╓÷÷·²²·═║ё╒║═══║╒·÷══÷··÷═╒ё║║╒╓╔╕╔╔╕╗╙╚╚╘╔ёё╕╙╞╡╠╠╡╢╣╥╨╬©абексышэшывуттттуввсмйииииихгффееддцббааю╬╬╬╫╫╪╩╨╧╦╥╥╥╥╡Ё╢╡╠╟╝╚╙╚╙╘╘╙╙╘╖╕╕╔╔╓ё╒║══÷·²⌡⌡ ≥≈√∙■▓▒▒░▌▌█▄▀┼┴┬├└┌~}yxwutrpnmkjhfca_\[XWRNP,,,/0215578:;=?@ADFFFIKLOPRUWXZ\acfgijmorrtvxxy|──││┌┘┬┼┴┼▀█▌░░▒▓▓⌠■√≈≤≥ ⌡°·÷═║╒║╒╓╔╖╗╗╘╘╙╙╚╛╜╜╜╚╛╜╞╞╟╡ЁЁЁ╢╢╣╤╦╨╨╨╨╩╪╫╫╬╫╬©ююаббдглоонмлиийклнсвусокйхфб╬╨╤╡╟╝╜╛╙╘╖╖╖╗╗╗╔║÷║ё═° ■⌠⌠∙≤²╒╓╔╔╔╔╔ё═²²÷÷··²⌡≥⌡⌡ ≥≥ ≥≤≈ ²²⌡≥≥≥ ≤≈ ⌡ ≥≤√√ ·²  ²·⌡≈√√√⌠▒■√√■■■⌠▒▓▒▐▄┴┤▀▐┤│{yxwvuwvuvxyzz|xvxyyyxzzxusstsuxxvvz}~zvtwzz|┐┤┤┌──~yzxvtrsx}xqkijjjkgjlkjihfeipx~─└┤▀┘{tqrsryyz{zxxy┌└┐┴▀├├┬┬├├┤┬┴▄▌░░░▐░░▌▀█┴┬┼┼┴┼▌▒░▄┴┴┬▀░┼┴┤┘┤┴▀▀├┴▀█░⌠▓░▐█▄▌▓≥÷╓╓╙╜╛╜╠╣╤╧╪╬©юааюцдефффгхфхймоонлнннноппяррррстужвьзщщээщщччъъъччъЮАЮъъАЦЮъъъъЮЮъъЮААЮЮЮАЮББАЮААъАЮЮЮБЦДЕЦЦДДЕЕЕЕДДДДЦЦЦЦЕДЦЦЦЦДЕЕЕЕДДЕЕЕЕЕДЦЦДЕФДДДДДЕЕФФЕДДДДЦБАЮъъъъъчшэшыышшызыьььььввжжжжвььутсррсттрррсссрппонмнннммммммллкмннмллкийииккиийкйййклмммйгхйлйиихгфееееффеедбю╬╬╪╩╩╪╫╬╬╬╬╫╨╨╩╪╩╧╥╣╢╢╢╢Ё╟╛╗╓ё║÷²°°⌡≥≤≤≥≥∙▓░▓⌠░▐▐┬┐~{{{{|─┌│─{yx{}{zzzzx{┐└┌|}─┘┤├┐─~}|}─┌─|z}|}─└┘├┬┴┴├┐┤▌▓░░██░▓▓⌠√■▒░▓⌠▓▒▒░▒⌠√ ²═║···²²²÷║╒═···═║╒÷÷÷═══÷··║╒╒╒╓╕╖╕╔╓╔╕╘╚╛╚╖ёё╖╚╞╡╡╠╠╢╥╧╩╫©юбекрьзэшывутссужвьтолкиииихгффдддццбааба©╬╬╫╪╩╪╩╨╧╦╦╦╦Ё╢Ё╡╟╟╝╛╚╛╚╘╘╙╙╗╖╕╔╔╓ё╒║═══÷·°⌡⌡ ≥≈√∙■▓▒▒░▌██▄▀┼┬┤┘┐─~}|wwwvtronkjhgeb`^\[XVRMO,++..2356789;=?AABDFGHJKNPSUWX[]`adghiknqruvvwxy}~─┌┐┘┤┬┬┴┼▄▌░░▒▓⌠■∙√√≈≈≤⌡·÷··÷║╒╒╒ё╔╖╖╖╗╙╚╚╙╙╛╝╜╜╝╝╝╞╠Ё╢╢Ё╢╣╤╦╧╧╧╧╨╪╫╫╫©©юаююаадхлппнкхйкккмятувсмйигец©╨╣╡╠╞╜╛╘╗╖╕╖╖╕╕╒ё═÷═·°²≤√≈ ·═ё╕╕╕╔╓ё║·°·²°°÷║÷⌡°°⌡≥≥⌡≥≈≤≥ ⌡ ≤≈≤√≈≤≥≥⌡⌡ ≈≥  ≥≥°÷·° ≤√∙⌠⌠⌠■∙■∙∙■⌠▒░▐▌▀┬┬┼─}yutuwywvwy{{zyxxz{{|}{zxwvuutxzxvz─~xvttw{}│┘┤┴┘─┐│xwuttuwxspopokknjknpoljijr{─┌├┴┼├─zutsqowz{~||│┬├┴█▀└│└┤┴┼┴▀▐░▌▐▐▐░░▐█▀┬┴▀███░⌠░▄┬┘├┬┼┼▌┴├┬┴┴┬┼┤┼▌░░░░▐┴┴┴▄▒≤÷ё╔╖╙╛╝╟╢╥╨╪©юююабцддегхиифхикняяоонннопрсссттттужжьшэээээщщччччъЮчъъЮЮЮъъчъъъЮЮЮЮЮЮАББЮчщАААААЮЮЮЮЮААААБЦЦЦДДЕЕЕЕДДЦДЕЕДЦББЦДДДДДФЕДДЕФЕЕФЕЕДДЕФФЕФФФФФЕДЕФФФДЦБАЮъъъчээчээшшшзыььызыьвьььвжжжжвьвжтсрсстттссссрроооонмлккккккййййкмнннллйййкккккиииийййийййийллкихфеддеегггфебю╬╬╪╩╪╪╨╩╪╫╫╬╫╪╩╨╨╧╥╣╤╤╢Ё╢╡╝╙╗╔═·÷°⌡≥≥≥   √▓▒▓▒▒⌠▓▐├~{|~}x~──}zwvw{}{z{||z~─│┌─{}─└├├└┌│──│┌─}||zy{│├┤┤┤▄┼├┐└┬█▐░▌▐▒⌠■∙√▓▓▓⌠▓▌▄█▐▐▒∙≤⌡⌡⌡²²°⌡°··²²²···÷═╒║══║═·²·══╒╓╓ё╔╗╕╖╗╖╕╖╙╜╙╙╖╒ё╙╠ЁЁЁ╢╣╤╧╫©юббцксьшшшыжууутжжьыжокййиххххгфгфецбаююа╬©©╫╫╫╨╩╨╨╨╨╧╦╥╢╢Ё╟╞╞╜╙╙╙╙╙╙╘╘╘╖╕╔╓ёё╒╒║═÷·²°°⌡≥≤≈√∙■⌠▓▒▐▌▄▄▀▀┼┤├└┌─~{ywwvtrpnmkigdba`_\XWTPNM+++..2244578:<>@BDEGHIKLOQTUVWY[_`cfghknpruwwxz{}│┐└┘┤┬┴┴┼▀█▐▒▓▒⌠■∙√≈≤≥ ⌡°²·÷═║╒╒╒╓╔╖╖╖╗╘╙╚╙╚╛╜╜╝╝╝╝╟╡ЁЁЁЁ╢╣╤╥╦╧╧╧╨╪╫╫╫╪╫©юаабцдхлопмкихййймяттжрмихфдб╬╧╢╡╠╞╛╚╙╘╗╖╖╖╖╕╒╒═÷══··≥≤≥²║ё╔╖╖╕╔╔╓╒═·²²²²÷═÷°²²⌡ ⌡⌡ ≈≥≥≥ ≥≈√≈≈≤≥≥ ²··   ≥≥⌡·║·°≤≈√∙⌠▒░▓■∙∙∙⌠░▐▐▐▌▀├└┐||{xvuvxyz{|||{{zxxz{{{{yxwwxwvuyyz|~}zvuwz|}│┬┴┼├┌┌┐─yxvuvvvvrrrsqljkjlprplkmt|└┤┬┼▀▀┤┌{tonoqswxxyy}┐┴┼▌▒▌├┌│┐├┬┴▄░▒▌▐░▒▓▒░▌█┬┴▀▌▐▐▐▒▄▀┬├┘├┴▄█┼┤┬┴┼▀▀┼▀█▐▌▀┬├┌┌└┬▌√·╒╓╖╚╛╜╞╡╣╨╪╬©©©абееефгхиихйклнпомооннопрсрсссстужжьызззшээщччччъъчъъЮЮЮъъъъъъЮЮЮЮЮЮААААААААААААЮЮъЮААААБЦДДДЕЕЕЕЕДДДДЕЕДДЦЦДДДДДДЕЕЕЕДДЕЕЕЕЕЕЕЕЕЕЕФФФФФЕДЕЕЕДДЦБААъъъчээщщэшшшшзыыыззыыыыыььввььывжутссстсррррряпооонмлкйййййййййийлмммлкклллккййиййкййихййййкллкххфеддддефффеца©╫╪╩╪╩╩╩╫╬╬╬╬╫╪╨╨╧╦╥╥╤╢╢╣╡╞╛╚╘╔═·° ≤≈≈≥⌡⌡≤■▓▓▒▓▓▌▀┘│──│─|}}~~}{xwz|}|{{{y|│──|}~│└├┘┐│││┌│─~|{yy}┐┤┬┬┬┬┤┤┤┤┬┴┼▄▄█░▓⌠■∙■▒▐░░▌▄┼█▌░⌠√≈≈≈⌡°²²··°≥°°²²·÷═║╒═══÷··═÷═║ё╒║╒╔╕╖╗╖╕╕╘╚╙╚╘╔╕╚╟╡╠╡Ё╢╤╦╪╬аццдкрвзэшыжууутужвьуокййиххххгффедцббааб©©╬╪╪╪╨╩╨╨╧╧╥╣╢Ё╢Ё╠╞╞╜╙╙╙╙╙╘╘╗╗╖╕╔╓ё╒╒╒║═÷·²°°⌡≥≤≈√∙■⌠▓▒░▌▄▀▀┼┴┤├┘┐┌}{xwusqonnkjhfdb`_ZWVSPNM+**--1244568:<>@BCDFGIJKOQTUVWYZ^_befgjmnqtwxyz|}┌└┘├┤┬┴┴┴┼▄▌▒▓▒⌠■√≈≤≥    °·═║╒╒╒╒╓╔╖╖╖╗╘╘╙╙╚╛╛╜╜╝╝╞╟╡╢╡╡Ё╢╣╤╥╥╧╧╧╨╩╫╫╫╫╬юааюааехлоомкиийклнсужуялигеца╫╦╢╡╠╝╚╙╙╘╗╗╖╖╖╕║║÷·║║÷═⌡⌡²║╓╔╕╖╕╕╔╔╓╒═÷²···÷÷·²²²°⌡⌡° ≈≥≤≤≥≥≈√√≥  ≥ ²÷═²⌡≥≤≥°÷║÷⌡≤√√√⌠░▌▒⌠∙√∙▓▌┴┴▀█▄┤┌─yyzyxxz{{~──}{{{yxxyzyxxwwxyzzywxx|──|yyxy{~~│└▄┼┬└│┌┐zxvvwvtqqrsroljimorsqorv}┐┼█████┼┐yplloqpvwvwy~┐┤▄▓▓▌┤│~|┐├▀▐▐▀█▐▒▓▒▐▌█┼┼▄▐▒░▌▌┼▀┼┤└└┬▄█▀┴┴▀▌▐█▐▀┴┬├─{zy{~┐┼⌠⌡═╒╕╙╛╛╝╠╢╧╩╫©©юацффффгхийиклмноомппооопярррссстужвььыызшээщщчщччъъъъъЮъъъЮЮЮЮЮЮъъААЮЮЮАБЦААААААЮЮъЮАААБЦЦДДЕЕЕЕЕЕДДДДДДДЕДДДДДЕЕЕЕФФФДЦЕФЕЕЕЕЕДДДЕЕФФФЕЕЕДЦЦЦДДБААЮчччээээшзззшшзыыззыыыыыыыыыыььввжуттттррррряонннммлкйихххххииихийкллкйммллккййхиккйхххийййкмлкххгфедццддееедба╬╫╪╪╪╪╪╬©©©©╬╪╩╨╧╧╧╦╥╣╣╥╣╡╞╜╚╘╓÷·⌡≈∙∙≤ ° √■⌠▓∙■█├└└┘┐┌│~}}}~~|z}~~}|{yvz~─~|||{~~│└┬┬├┌│┌┌───}yxz┘┬┬┬┬┤├┤┴┴┤┘├┴┼▄▐▒▓■∙√▒█▌░░█▀▄▌▒⌠■■■■≤⌡²··²≥∙≥ °°²·÷║║══║═÷÷÷÷══║═÷═╒╔╕╖╖╔╔╖╗╙╛╜╚╙╝╠╠╠╡╢╣╥╨╪╬аццдкржзээзвууутттжвуплйййиххггфддццббббб©©╬╪╩╪╧╨╨╧╧╦╤╢╡ЁЁ╡╠╟╞╛╙╙╙╙╙╘╗╖╖╖╖╕╓╓ё╒╒║═÷·²°⌡⌡≥≤≈√∙■▓▒▒░▌▄▀┼┴┬┤├┘┐┌─}|ywtqooookjhgec`^YVURONM+)*-,0134578:<?@ABDEFHJKNPSUVXZ\]^adegjmmosvwxy{}┌└┘├├┤┴┴┴┼▄▌░▒▓⌠∙√≈≤≥ ≥≥ °·═║╒║╒ё╓╔╖╗╗╗╗╗╘╙╚╚╚╜╜╜╝╞╟╡Ё╠╡Ё╢╣╤╤╤╧╧╧╨╩╪╫╫╬©юаююююфимонлййийклптжжсплифдбю╪╦Ё╠╞╜╚╙╘╗╖╖╕╕╔╔║║··╒╒══·÷║╓╕╖╕╔╕╔╓╓ё║÷·²··÷÷÷÷·²°⌡⌡⌡⌡≥≈≥≈≈≤≥≤≈≈°°⌡  ⌡°°² ≤≈≤ ⌡°° ≤√■⌠▒▐▌▒⌠■∙■░▄┤┤┼██┬┌~xxxxwx{}~─~|z{{xvvxxwutuw{||{{{y{─~yww{}─│─│└┤█┼┤│~│┐─{zyxwusprsrnkkllppqqqsy┐├▀▌░░░▒▌┐vooqqoqxzxz|~│┐┼░▐▀├│|w{─┘▀▌▄┬▀▌▒▓░▌█▌███▐▐▌▄█▄▄▄┴├├┴▄██▄▄▌▒░▄▄└~}{wtuuw{─┬░≈°÷╓╘╚╚╛╟Ё╥╧╪╬©юбдфгхиииииийлмопппяпппппярррссстужььызззшэээщщщщчъъъъъъъъъЮЮЮЮЮЮЮЮАААЮъЮЮАААААААААЮЮАААБЦДДДЕЕЕДДДДЕЕДЦЦДФДДДДДДЕЕЕЕФЕДДЕФФФЕДДДДЕЕЕФФФЕЕЕЕДЦЦДДБЮБЮччщэшэщшзыызззыыыыыьввьььььььвжжжжууттрррррпомммлкййииххггггггггийййййлллкккккгиййхгхиййййкммлхххгфецццдддддцбаю©╬╫╫╬╬╬©ююю╬╪╨╧╨╨╧╤╣╣╥╥╤╡╜╚╚╗╓═²≤∙∙√≤≥≥≤√■⌠≈√▐├└├┬├┘┐│~┌┌│─}{wuw{~|yyzz|┐┤┼┼┤└┌┐│~─┌yw{│┘┤┤┤┤┴├├┴┴┘└┤┴┴▄▐▒▒⌠∙√▓▐░▓⌠▒▌▌░⌠■⌠⌠⌠⌠∙≤°²·°≤∙√≈≥⌡°²÷═·÷║ёё╒÷²══════║╒╓╔╕╕╓ё╓╔╗╜╟╟╟╡╡╠╠╡╢╤╦╨╫╬юббдкяуышшзвуутсстужтямййиххггфеддццббббб©╬╬╩╪╪╨╦╦╦╦╦╥╢Ё╡╡╡╡╠╞╛╙╙╙╙╘╘╗╖╖╗╖╕╔╓ёёё══÷·²°⌡ ≥≤≈√∙■▓▒░▌█▀┼┼┬┬├┘└┌│~|zywtqoonniihgeb^\XUTRONN,)),,0134578:<>@BCEFGIJLNPSUVXZ\]^adefjmmosuvwyz|~│┐└┘├├┬┬┼▀█▌▐░▓⌠∙√√≈≥ ≈≥°··÷║╒╒╒ё╓╔╕╖╗╗╗╗╘╙╚╚╚╜╛╜╜╞╟╠╡╟╠Ё╢╣╤╤╤╧╧╧╨╩╪╫╬╪╫©юаабцгймнмкййхийкосутролхфдбю╫╥╡╞╝╛╙╙╗╗╖╕╔╓╓╓║╒÷÷╒╒══ё╓╔╖╗╖╔ё╓ё╒╒║═·°°²·÷÷÷═║·°⌡⌡⌡ ≥≤≤√√≈≥≥≥≥°²° ≥≥≥≤≥≈∙■∙∙∙∙≈≈√⌠░▌▌▌░░▒▒▓▒█┴▀┼▀█▄┤│|xxwuuvy|~~}|zyxvuwxvtstx|}{y{~}─┌~zxxw~│──┌├┴▀┴┤┌~─└┌{||zxutsuurnkkmnnllosx~┐┼▀█▐░▒▓▓▌┘ysstrotyyy}─┐┼▐▄┤┘─{y|┌┤█▐▄┴▀▌▓⌠▒░░░▒░▐▌▀┴▀██▌█▄▀▀█▌▐▐▌██▌▀├┌ztvwvuwux|│┬▐√⌡═╓╗╙╙╚╝╠╢╤╧╪╫©бдегикййййийлнппяяяяппппяяярссстужвызшшшшшшэщщщщччъъъъъъъъъъЮЮЮЮААЮАААЮЮЮЮААААБАААЮААААБЦДДДДДДДДЦДЕЕДЦЦДФДДДЦЦДДЕЕЕДДФФФФГФДЦЦЦЕФЕЕЕФЕЕЕЕФЕЦЦДДБАБЮччщэшшчэшзызыызззыыьвжввььььввжжжжжуутряяяяонллллкйиихиххгффффффгхиииииийййкклйккиггикккйийлммииихгфдцдддддццбцба©╬╬╫╫╪╫©абю╫╨╦╨╨╧╤╣╣╤╤╥╢╞╚╙╘╕ё═°≥≈≈√√≈≤≤■▒■∙░┼┤┤┴┼┼┬┌┐│─┐┘└┌}│─}yvvuy||zz{|{│┬┼▀┼┬┘┌┌}┐─zy}│└┘┘┘┘┬├├┴┬┘└├┴┴▀▌▐▐░▓∙■⌠⌠■⌠▒▐░▓⌠■⌠▓▓⌠▓∙≤≥ ⌡≥≈■∙≈≥ °·÷·÷║╒ёё═·═════║╒ё╓╔╔╔ё╒╒ё╔╚╠╡╢╣Ё╟╞╠Ё╣╥╧╩╫©ююдкптышшзвуутрстууурнййихггфедедццббааа╬╬╫╪╪╫╩╧╧╧╧╦╥╣Ё╡╡╡╡╠╞╛╘╘╘╘╘╘╗╗╖╖╖╕╔╓ёё╒══÷·°⌡  ≥≤≈√∙⌠▒░▌█▀▀┼┼┴┬├┘┐│─}zxxvtrponmihgfda][XUTQNNN,)),,00334679:<>ABDEFHIKOQSUVWYZ]^`cefjmmpsuvwyz|}─┌┐└┘├┤┬┼▀█▌▐▐▓⌠■∙√≈≤≥√≥²···═╒╒ё╓╔╔╕╖╗╗╗╘╘╙╚╚╛╜╛╛╜╞╟╠╠╠╠Ё╢╣╤╥╥╧╧╨╨╩╪╫╬╫╬©ююабдхкннлйийийклостспнкхфцаю╪╤╠╞╜╚╙╘╖╗╖╕╔╓ёё║╒═÷║║═║╗╘╘╗╗╕╓║║║══÷·²°²°²·÷═║ё╒÷²°⌡ ≤≤≈∙∙√≤≤≥ ⌡⌡ ≥≈≤≈∙■⌠▓▒▒▒░▐░▓▓░█▀▄▌▐▐▌███┼├┼┴┴▀▀┤┌|{ywuvy|}}}│{wywvxyxwvuy||yy|──│yvwyy~─┐├┬├┘└─|│~{{{xustuuuspliikljkqy┐┘▐█▄██▌▌▌▀├ytsrsvxwx}─│┌┤▄█┴┘└─{y}┐┴█▌█▀█▐▒⌠▓▓▒▓■▓▐▄┬├┴▌▌▐▐░▒▒▒░▒▐█▀┼┬└─}wuwzyvuwz└▀▒≤°ё╔╖╗╗╘╚╝╠╢╥╧╩╫юбцфиккййкккмопоопяяппппяяярссстужвьызззззээщщщщчъЮЮъъъъъъъъъЮЮЮААчЮББААААЮААБББББААААААЦДЦЦДДДДДЦДДДДДДДЕДДДДДДДДФЕДДФГГФГФДЦЦДЕФЕЕЕЕЕЕЕЕГЕДДДДЦАЦЮщщщэшшчщшшзззышшззыывжввььыьььжжжуууттяпооонмлклллкйиийихгффффффггххххгггхийккммкиггикккййкмммйййихгфеддддццббццбю╬╬╫╩╩╪╬юба╬╪╦╨╨╦╥╤╤╤╢╤╤Ё╝╚╗╖╕╓║·°≥≈√≈≈≈⌠▐░▒▌┼├┘┬┼▄┼└┌─~│└└┐}~──|wuvtvxzz{|}~┤▌▐▄▀┴┬└┌~|~│─||│┌┐└┘┘┘┘├┴┴├└┘┬┤┬┼▄██▌▓■∙⌠▓▒▐█░░▒▒▒░░▒░▓■■∙≈≥≥■∙√≈≥ ²·÷÷··═╒╒═║║║══╒╓╓╓╔╔╔ё╒╒╒╓╘╟Ё╤╥╢╞╞╠Ё╣╥╧╩╫╬©юдкпсьзшзьжутрсттуусойихгггфеееддцбааа©╫╫╬╪╪╫╨╩╨╧╧╦╤╢Ё╡╡╡╡╠╝╚╙╘╘╘╘╘╗╗╗╕╔╓ё╒╒║║══÷·°⌡ ≥≤≈√∙■⌠▒▐█▄▀▀┼┼┴┬├┘┐│}zxwvsrqomkjigec`][XUTQNMM,)),,00334679:<=?@BDEFHINPSTUVXZ]]`cdfimmoqstvy{{}│┌└┘├┬┬┴┼▄█▐▐▒▓⌠■∙√≤≥≤ °²··═║╒ё╓╔╔╕╖╗╖╘╙╙╙╙╚╛╜╜╜╝╞╟╟╟╠╡Ё╢╣╤╥╥╧╧╨╨╨╩╫©юююю©юбцйлннкииййккмпттрнлйгеца©╨╣╠╞╝╚╗╖╕╖╖╕╓╒║║÷║═÷║══╒╚╚╙╖╕╓╒÷÷···÷÷·²²⌡⌡²÷║ё╕╕╒·° ≤√√∙■■∙∙∙≈ ≥≥≤∙■■■⌠▒░▐▐▌▌█▄▄█▐▐██▌░▌█▀┼▀▀┬┘┘└├┴┴┤└┌│─~{xxz|{{}─┌│}y{xwy{{zyy{|{z{┐│}xuuvy|─~~│┘┤├┘┌~zx||{zxussuwvutsniiknkls|└┴▀▄┴┬┴▀▀▀▀┬┘xttuwwxx{─│┌┘┬┼┼├┐┐─{w{┌┬▀███▐░▒⌠■■■■∙▒█┴├├┴█░▒⌠■■⌠▓▒▒█┴┬┤└│─~{yz|{xuz}┌┬█⌠ ·╓╔╔╔╕╘╛╝╠Ё╤╦╧╩╫©бдгхииклллнпоннояпппппяяррссттжввьыыыызшээщщщщчъЮЮъъъъъъъъъъЮЮЮЮчЮАБАЮЮАЮААББББББББАААБЦЦЦДДДДДДДДДДЕЕДДДДДЕЕДДДФФЕЕЕФФФФЕЕДДЕЕЕЕЕЕЕЕЕЕЕФЕЕДДДЦЦЦъщщщэшшээшзззыьшззззыьввввьььыыввжутссряпонннмлкклмлкйикйихггггфффгггххффффгххилкихгхийклллмнмлкййихггфдддцццццбцца©©╫╩╫╪╪╬юю©╫╨╩╩╧╦╦╥╤╤╤╣╢╠╛╘╗╗╖╔╒═·⌡≥≥∙■▓▌▐░▌┼┘└├┬┼┴└~|{{~│┌┐────}yvwvuuwz}~┐▀▓░▄┼┼┴├┌}|}~}─││─│└├├└├┬┼┼┴┤├┬├┘┤┼▀▀▀▌░▒░░▐▌▄▌▌██▌▌▐▐░▒▒░░⌠√≈≈≈≈≈≈≥⌡²··°⌡²║╒║ё╓ё║╒╓╕╔╕╕╕╔╓ёёё╔╙╟╢╧╨╣╝╟╠Ё╣╥╧╪╬╬©юдкорвзшзьвжусстттутойиихгггфеддцббааа©╫╬╬╫╪╪╧╩╨╧╦╥╤╢ЁЁ╡╠╡╠╜╚╙╘╘╘╘╘╗╗╖╕╔╓ё╒╒║║══÷²°⌡ ≥≤≈√∙■▓░▌▌█▄▄▀┼┴┬└┐┌│}{yxusqqomkjhfca^\ZXTSPMLL*)),,00345789:<=@ACDFGIJLNQSUVY[\]_bdfimlmpqsux{{|~─┌┐┘┤┴┴┴┴▀█▐░░▒▓⌠∙√≤ ⌡⌡⌡°²÷══ё╓╔╔╔╔╕╗╖╘╙╙╙╙╚╜╝╝╜╝╞╟╟╟╠╡Ё╢╣╤╥╦╧╧╨╨╨╩╫©©©©©юбдфймннкихииййлоррпмкигдбю©╦╢╠╟╞╚╖╔╔╔╔╓╒║══·║═÷═══ё╚╚╘╔ё╒═²²²²·÷═÷÷²⌡ °÷║╓╖╗ё·⌡≥∙⌠⌠■⌠⌠■⌠⌠√≥≥≤∙▓░▒▒░▐▐▌█▄▄▄█▀▄█▌▐░▓⌠█▄┼┴┼▀┬┘┐┐┘┤┤└│─┌│|yxy{zz{~──~|{xwy{|{{}|{{|┐├┌zuvww{│─~┐┬┬┘┴┌{vu|─}|xuuvyzywvvqlmqpmlq{└▀▐┬┘┘┬▀▄▄▄┬│yuuwyywz}│└┐┌├┘├├┐┌┌{uz│┤▀▄▌▐▓⌠■∙√≈≈≈∙░▀┤├┤┼▄▓■√≈∙⌠░▐░┼├├┘└┐└~|zz}~}z}─┘┼▐■≥²╓ёёё╕╙╜╟Ё╣╥╦╧╨╪╬ацефгхкнллнпомноппппппяяррсстужвыыыььышээщщщщщчъЮЮъъъъъъЮЮъъъъъъъЮАЮъччъЮААББББББББАААБЦЦЦДДЕЕЕЕДДЦДЕЕДЦДЕЕЕЕЕДДФГГФДДЕФДЕЕФФФЕЕЕЕЕЕЕЕЕЕДЕЕДДДДДЦъщщщээшзыыыыыьвыыьыыыьвжжвввьыыьвжтсряяряоннннмйкмнмлкйкйихххххггггггххфффеефффгфффгийййлмноомккййихгггдцццццццбддбаю╬╩╬╫╩╪╬©©╬╩╪╩╧╧╨╦╤╩╥╢Ё╠╜╚╚╙╗╖╔ё║·²≥■▒▒░░▒░▄┤├┤┬┴┬┐{zyy|┌┐└┌││─{xwzwuv{│┌└▀░█┴┬┤├┬┐}|}}}}┌┌││┘┬┬├┬┴┼┼▀▀┼┬┘┐┘┴▀▀┼▀███▌░▐▄█▄▀▀▄█▌█░░▐██░■∙≥≥≤≈≈≤ °°°°⌡·║║·╕╕╔ё╓╕╖╖╖╖╕╔╓╓╓╓╖╚╠╤╩╪╤╞╞╟╠Ё╣╦╩╫©ююелояжшшшыьвжтстттттоийиххххгфдццббббб©╫╬©╫╪╩╦╧╦╥╤╤╤╣╣╢╡╠╡╟╜╙╙╙╙╙╘╘╗╖╖╖╕╔╓ё╒╒╒══÷²°⌡ ≥≈√∙∙⌠▓▐▌▐▌█▄▄▀┴┬┌┌│─}{zxvrqpomljgda_][ZXTSPLKK)))++/0144468:<<?ADEEFIKKMPSVXYZY\_bcehjkmprtvxz}~││┐└┘┬┴┼▀▄█░▒▓▓⌠■∙√≤≤≥ ⌡°°²÷══║╒╓╔╕╖╗╗╘╘╘╗╘╚╜╜╜╜╜╝╟╡Ё╡╡╡Ё╣╤╤╤╤╦╧╨╨╩╫╬©╬©юю©бгклмлйихгхйкмптсоккйгеб©╩╧╢╠╟╜╘╗╙╔ё║╒╒║║║║═÷÷║╔╕╔╗╙╘ё÷═║═⌡°··²²²·°°·÷═╒╓╕╖ё·°≥√⌠▒▐▒▓▓⌠■∙√√∙■▓░▐▐▐▓░█▀▀▄▄▄██▄█░▓░▄█▀┼▀▄┴┘┐├─┐┘└┐│~─│─}{{|y{|}─~||}}{z{ywwvy~─┐└yutuz│┐┌─│└├├┘┘┐~wv{─┌zyyxz~~{{zxvtrrqnmqy│├┬┤┐┘┬┬▀▌▀┘~xxyxz|~}─┐├├└┌┐┌│┌}|}│├▀▐░▐⌠■√≥≥≤≈≥∙▒▄┬┬┼▀▄▌▐▒■√∙⌠░█┤┌┌└┘└└~||}~┌┘┴▄░√°═ё╓╓╓╔╗╜╟╢╤╧╧╧╨╫юаююцегикннопоннояярррряяястссжььььььызээщчъчщщщчЮЮЮЮЮъъъъъъъъъЮЮАЮъъъЮЮЮЮЮАААААААААААБЦЦБЦДДЕЕДДЕЕДДДДДДЦЦЦДДЕЕФФФЕЕЕЕФФФЕДДДЕДДЕЕЕЕЕЕДДДДДДДДЦЦЦАчэшшээшзшэшыьызыыьььыыжжжвыззыжжтряррярряоннммммллкйихиийихггггххххххигфеффееедеееефгхймоммоомллкхгхгеедцбабцдбббббю©╬╬╫╪╪╪╫╫╫╪╫╪╨╨╨╨╧╧╧╦╥╣╠╝╚╗╗╕ёё╔╒² ≈∙∙⌠░░▓▀├└└├┴┬┌{xvvx{┌└└┐│──~|{zvsu|││─└┴▄▀┬┤┬├┌}z{~──~─│─│├┼┤┬┼█▄┼┼▄┴┤└└├┬┼▀▌▄┼▀▄█▌░█▄▄▌▐█▄█▒░▄┴▀█░■≤⌡ ■■≤⌡ ·²²÷═÷÷÷║╔╕╓╓╗╗╔╗╙╗╕╕╔╔╖╘╛╡╥╨╨╦╥╠╟╟╡╤╧╩╪╬╬агкмосызшыввутррррсрокййиихгфеддцццбю©©©©╬╫╪╨╨╩╨╧╥╤╣╢╢ЁЁЁ╠╝╚╘╘╘╘╘╘╘╘╖╕╗╕ё╒╒╒║═÷÷·° ≥≥≥∙√√■▓░░░▐▌█▀┼┴┤├┐┌─~|zywusqpnkihgd`_]ZWUQQPLJJ)))+*//023468:<=?ACDEFHJLNPSUWYZZ\_acehjlmoqsuxy|}│┌┐┘┤┬┬┴┼▀█▐▒▓▓⌠■∙≈≤≥≤≥⌡°°²÷══║ё╓╔╔╕╖╖╗╘╘╗╘╚╜╜╛╜╜╝╟╠╡╡╡ЁЁ╢╣╤╥╤╥╧╨╨╩╫╬╬╫╬юю©цхлммлкихххйкмятрниихфдб©╩╧╣╠╟╜╗╖╘╗╔ёё╒═÷÷÷·²·╒╖╘╘╘╚╘ё÷══÷°°°°°²²·°²·÷═╒ё╔ё═²⌡≥∙▒▐▐▒▓▒▒⌠■■■⌠▓░▌██▌▌▐█┼┴▀▄▄▄┼┴┼█▌▌██▀▀▄▄┬└┌┤┐┌┌┐├├│──}zxy{{|~─~|─│~zyzzvvz──│┐┌─{xww|┐┘┐┌┌└┤┬├└─{yz─┘┤┐}{||~│┌~|zyywusqomnsz─└┤┘┘┤┬┼▀┴┐~{|}}┌└┌─│┘┤┤├┐└┐││─~─}│├▀▌▐░░■≈ ⌡≥≈≈≤∙▓▌┼┴┼▀▀▌██▌▐░▐▌┤┐─┌┐┌│─}{{}│└├├┬▄▐⌠≤·║╓╔╕╖╗╙╝╠╢╤╧╨╨╩╬ааююбдфхймояпонноппяярррярттссуввьььыззшшэщщщщчччЮЮЮЮЮЮЮЮЮЮЮъъъъЮБАЮЮААААЮЮАБББЦБЦЦББББЦЦБЦДДДДДДДДДДДЕЕЕДДДДЕЕЕФЕЕЕЕЕЕЕЕЕЕДЕЕЕДЦЕЕЕЕЕЕДДЕДДЦЦЦДДЦАчщээээшззшшыыызыыьььыыьььызыььуусяяррпяппоннннммлккййиийййхгггефгхххийигееедефддддцдефхлнлмоомммйхгхгфедцбббццбццбааю©╬╫╪╫╫╫╫╫╬╬╫╩╨╩╨╧╨╨╧╦╤Ё╟╜╖╖╕╓╔╖╔═²⌡≤∙⌠░▐░█┤┐┌└┴▀┤~zwvwy}││┐└┐┐┐┌┌}{wtuz~─~┐┤┬┬┼▀┼┘}xz~─|}~}}┘┴┴┴▀█▄┼▀▌┼┬├┘├┬┼▄█▀┴┴┼▀▌░▌▄▀▄█▌▌░▒▐┴┤▀█▌░√ °≥≈≥⌡⌡°°°·═÷·÷·║ё╒ё╔╔ё╕╗╗╖╗╖╕╘╙╜╡╥╧╦╥╥Ё╡╠╡╣╦╩╫©╬аглмптызшывжусррррссокииихгффеддццббю©©©©╬╪╨╧╦╩╨╦╥╤╣╢╢╡╡╡╠╝╛╙╘╘╗╖╖╗╗╗╖╖╔ё╒╒╒║══÷·°⌡ ≥≥√√∙■▓▒░░▐▌▄┼┴┬┤├┘┐│}{zywurponkigfc`^]ZWUQQPLII)((*)../135679<=>@BDEFHJMNOQSUXYZ\^`bdgjlmoprtwy{|~─┌└├┤┤┬┴┼▀█▐░▓▓⌠■∙≈≤≥≤≥⌡°²·÷══╒ё╓╔╔╔╕╖╗╙╙╘╙╚╛╚╛╛╜╝╟╠╡╠╡Ё╢╢╢╤╦╤╥╧╨╨╩╪╫╫╪╫©©©цимммлйихххйлмясямггфецб╬╩╦╣╠╞╛╗╖╗╖╔╓ё╒═··²²²÷╓╙╛╚╚╚╘ё═══÷·²⌡⌡°²···÷══════²⌡  ≥∙▒▐▐░░▐▐░▒▒▒░▐█▄▀▄█▀▌█┴┬▀█▄█┼┼▄█▄▄▌▄▀▀▄▀┤└┌┤┘└┌┌├┤││─┌─{uz{{z|~~}─}zz{{ww|││││|{yy~└├├└┐┘┤┬├┐}{{~┐┤┬┴┌~~}─}||~}yvtspnot|│┘├└└┤┤├├┘┌─│┌┌└┤┼├┐┌┘┬┬┬┘┤┘││┌──└┴▄██▌░∙⌡·°≤≈≈≈⌠▓▐▄┴┬┴┼▀┬┘┘┤┴┼┼├│|{|}|}│~zz~┐┬┼┬▀▌▒∙ ·╒ё╓╕╖╘╚╜╟Ё╤╧╩╩╪╬юаюабддфхкорпноооопярссррсттссужжьыызззззшшэщчъъчЮЮЮЮЮЮЮЮААЮЮъъъъАААБББААЮЮАББЦЦЦДЦЦЦББББЦЦДДДДДЦЦЦДДЕЕФФЕЕЕЕЕЕЕЕДЕЕЕЕЕЕДДДЕФФЕДЦЕЕЕЕЕЕДДЕЕЦЦБЦДЕБЮъщщщщщщзызшзыызыыьььыыьыззывжуттрппяяоооонннннммлккйййййкйихггефггххийигфгфеддддцбббцдфйлллномнмйггххгдцццбццдцццббаюю╬╬╫╬╬╬╬╫©©╬╪╩╪╩╨╨╨╧╧╥╢╠╝╘╘╗╕╖╘╖╓╒═°≈■▓▒░▌┬┐┌└┼█▀┐}yyxvy~~┐├├┘┘┘┘─|xvvx{~}|}│┘┬▀▌█┤{}──~}}}||~└┬┴┼▀▀┼┴▀▌▄▀┬├├┤┼▄▀▀▀▀┼┴▀██▀┴┼▀▀█▌░█┬┤▄▌██▒√°²⌡  °⌡⌡°÷║═══÷÷═║║╒║║ё╕╖╖╘╘╗╙╚╞Ё╤╥╥╥╥╣╢╡╡╢╥╩╫╬╬ахлмптьзшывжуссрярттпкииххгфеедцбббаю©©©╬╫╪╨╦╥╨╧╦╥╣╢╢Ё╠╠╟╟╝╛╙╘╘╗╕╕╖╖╗╗╕╔ё╒╒╒║══÷·°⌡ ≥≥≈√∙■⌠▒░▐▐█▀┴┬┬┤├├└│~}{zywurpomkjgfc`^]ZWUQQOKII(((*)--.035779<>>@BDEFHIKMOQRUWYZ[]_adgilmoprtwyz{}│┐┘├┤┬┴┼▀█▐░▒▓▓■∙≈≤≥≤≥ °²·÷═÷║ё╔╔╔╔╕╖╗╙╙╙╙╚╚╙╚╛╜╞╟╠╠╟╡ЁЁ╡Ё╣╦╥╥╦╨╩╩╪╫╫╫╬©©юдимммлйхххикмняспкффедца╫╨╦╢╠╝╚╖╕╖╔ё╒ё╒═÷÷²·═ё╗╛╜╚╚╚╗ё═÷÷··²⌡°²···══║═·°⌡⌡≥≈≈≥≤∙▓▒▐░░▐▌▐▐██▌▌█▄▀▀▄┼█▄┬┬█▐█▄▀█▒░┼┴▀▀┼┼┼┴┤├├┤┘└┐┌┘├┌┐─~─┐┌~y{{{z{|}|~|zz|}{yxy}│─~||{|{z~┐└├┌──┐┘└┐|z{┐├┬▄└─~─~─┌┐│}ywurpqu{┐┘│┐┐│└┬├┘└┐┐┘┴▀┤┌─┌┘┤┤┤┴├──┌─~┐┬┼┬┬▀▐√°· ≈≤≤∙▐▐▌▀┤┘┘├└┌─│└┤┤┤├│{yz{}┌{{~┐┬┼┼▄▐⌠≈⌡÷╒╓╔╕╖╘╚╝╟Ё╣╦╨╩╪╫╬аюабццдфхняпнпяппярссссссттттужвыызшшшззшшшщъЮъчъъъъъъЮЮАААЮЮЮъъЮЮАББАЮЮЮЮЮААБББЦЦББББББЦДДДДДЦЦДДДДЕЕФФЕЕЕЕЕЕЕЕДДЕФФЕДДДДЕФФЕЕДЕЕЕЕЕЕЕДЕДДЦЦЦДДАЮъчччщщчшызшзыызыыыьыыыьызыжуттттрппяпоооооннннннлккййййййййииигггхххххгфхййгдбцццбаацдехкклннннлиггххгццбббцефддцббааа©╬╬©©©©╬╬©©╫╪╪╪╪╩╩╨╧╥╢╠╞╛╛╙╗╘╘╖╓╓╓═ ≈√■▒▌┴┘└┘▀▌▀┤┌}}zvw{}│┘├┘└└└┐}xxwvw{|{~┐┬┼▄▀┴├┐┐┐─}││─~}┐┤├┬┴┴┬┤┴▀█▄┼┤├├┴▀┴▀▌▐█┴┤┤▄▀┼┼┼┼┼┴█▄┴┴▌▐▄▀█▒≤²²⌡ °°°²═╒║║╒╒║═══÷÷═╒╓╔╔╖╖╖╙╛╟╣╥╥╥╦╦╦╤Ё╡Ё╤╨╪╪╫агкмосьзшывутстряртуякииххгфеедцббааю©╬╫╫╪╪╩╨╧╨╧╦╥╤╢ЁЁ╠╟╞╞╞╜╚╘╗╗╖╖╖╖╖╖╕╔ё╒╒╒║═÷·²°⌡ ≥≤≈√■⌠▓▒░▐▐█┼┬┬┤┤┤└┐│}|{zwtqonmkjgfc`^]ZWTPOMJHI)((*)-./036789<>>?BDEGHIJLORTVXY[\]_adgimmoprtwy{|~│┌└┘┤┬┴┼▀█▐▒░▒▓⌠■√≈≤≤≥ °²·÷═÷═╒╓╔╔╕╖╖╗╘╙╙╙╚╚╙╚╛╜╝╟╠╠╟╡Ё╡╡╡╢╥╥╥╦╧╩╪╪╪╬╬©©©юеилмлкихххикмоясойгеедцю╪╧╥╢╠╜╙╖╕╕╓ё╒ё╒══║·═ё╖╚╝╜╙╙╘╖ё═÷·²·²²²·÷÷·═║║═·⌡ ≥≈√√√√■⌠▓▐░░▐▌▌▄┼▀█▐▐█▀▀▀┴┼┬├┴▌▐▄▄▀█░▌┴┤┼▄▀┴┬├┘┤┼┬└└├└┐└┐┌─~~─│─z{{{{|}||zz||zxyy}~~~{yz|{z~┌│┌}}─┌┐┌}zy{┌├┼┴┐─│┌└┘┐│┐├┤┘│}{wurruy|}─|y}~~┌┴┤┘┐││└┬├┐}│└┘├┴└~~|z|┌┤┴┤├┴▄√⌡⌡≈√≥≤⌠██▄┬┐──}}~┌├┬┤┘┌|}~─┌└┌─┌┘┬┼▄▌▓√ ·╒╔╕╖╖╗╙╜╟╡╣╤╦╨╩╪╪╫аюаццбцефкооопяяяяррссррсссттужьызшээшшзэээщъЮъчччччъъъЮЮЮЮЮЮЮЮЮЮЮАББАЮЮААААААААББББЦЦЦЦДДДДДДДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕДЕЕФФЕЕДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕДДДДДДЦЦЮъччччщэчшызшшзыыыыыыыыыьььжтстутсрппяпоппооонннонмлкйййийййкйййххгхххххффхййгеццццбббцдегйклмнммкхггхггедбаацдфддцббббаю©©©юю©©╫©©╬╫╫╫╫╫╪╩╨╦╣╡╞╝╜╛╙╘╘╖╔ё╓║°≥≤√⌠░▀┤└└┬▄┴┼├┌│}xvx|┌┐┐└┐│└~zzyuvy─}{~┐├┬┼┼▄▄┴┘┌}┌│──┐├┘┤┴┴┬┬┴┴▄▀┼┬├├┬┴┤┴█▐▄┤└└┼▀▄██▄┴├┤┴┴▀▌█▀▄▌▐■ °  ⌡°°²═║║║╒╓╒÷÷··÷║╒╓ёё╔╕╕╘╚╠╤╥╤╥╧╧╧╥╣ЁЁ╣╧╩╩╪агклосвышывутссряятуялииихгфеедцбаааю©╬╫╪╪╪╩╨╧╨╧╦╥╤╢ЁЁ╠╟╟╞╞╝╚╘╘╗╗╘╘╗╕╔╕╔╓ёё╒║║÷²°⌡ ≥≤√≈∙⌠▓▒▒▐▌▐█┼┴┬┤┤├┐┌│~|zxvtqonmkifeb_^]ZWRNNLIHI)((*)../125789;=>?ADFGHIJLPSUWXY\]^`cehilmoprtwy|}─│┐└┘┤┬┴┼▀█▐▒░░▒▓■√≈≤≤≥⌡°²·÷═÷═╒ё╓╔╕╖╖╗╘╘╙╙╙╚╚╚╛╜╝╞╠╠╠╡╡╡╠╡╢╤╥╥╦╧╩╪╪╩╬╬©©©аеиллкйххххикноярнифдцдц©╨╦╤Ё╟╛╘╖╕╔╕╔╓ё╒══╒÷ё╖╚╜╝╛╙╗╗╕╓╒÷²°····÷÷÷÷÷══÷²⌡  ≈√∙∙■▓▒▓░▒▒▐▐▌▄┴┼▄▐░▌▀┼┼┤├└└┬▄█▀▄▄▄▌▄┼▀▌▌▄┼┬┘└┤▄┴└└├└┌└┘┌│}}~─┌z{|{|}~~~{xy{yy|}|}~{wxyyy~┌│}}}~─│││─|{}┐┬┬┐┌└└├┤┘┘┴▄┼└~{zxutvz}}|zzxvy|~│├└┌~┐├│─~}}~│┐┘├┌}}|ywz─├┴┬├┤┴⌠≈≤√√≤√░█▄┼└~zyytw|│┘├┐│~}~──│┌└┘┤┴▀▄█▐⌠≈°═ё╔╖╖╖╗╙╜╠Ё╥╦╧╩╪╫╫╫ююбццбцефхкноояряяяяяяррссстттжьызшшэшшзщщщщчъъъщщччъъЮЮъЮЮЮААААЮАБЦБАААЦБББББББББЦЦДДДДДДДДДЕДДФФФФЕЕЕЕЕЕЕЕЕЕЕЕДЕЕФФЕЕДЕФЕЕДДЕФЕЕЕЕЕЕЕЕДДДДДДЦЦЮъччщщщэщшзшшзыыыыыыыыыыыьвутттуссрппяпнпппооннмоннмлкййииййкккйгггххииихгфггфффцццццццдегйклллллхффгггфгецбааццдцццбббааю©©юююю╫©ю╬╫╫╫╫╬╬╫╪╨╦╢╡╝╜╚╙╙╙╗╖╒║÷⌡≥≈√■■▌┬┐│├┼┴▀┬└│}xvv{~─│┌┐┐┌└||{wvx}||┐┘┬┼▄▌▌┴┐─~─────┌└┘┘┤┬┴┴┼┼┴┼┼┼┴┬┬┬┬├┤┴▀┼┤┘├┘┤┼▄█▄┬┘┌├┬┴▀┼┼▄░▐▓≈≥≥≥≥⌡⌡°····═║═·°²·║╒ё╓ё╒╓╓╔╗╙╡╦╦╤╤╦╧╨╧╤╢╢╣╦╨╪╫билмосуьзыжуттряпятурмииихгффедцбаааю©ю©╫╪╪╩╧╦╧╧╦╥╣╢Ё╡╠╠╟╟╞╜╚╘╘╘╘╙╘╗╕╓╕╔╔╓ё╒║║·²⌡  ≥≈√√■⌠▒▒░▐▐▐█▀┴┬┤├┘┐┌│─~{xuusponmjheda^]\YVRNMLIHI*((*)../124689:;=>ACEGHHJLOQSUWY[\]`beghjlnprtwx{}~─│┌└┘┤┬┴┼▀█▐░░░▒▓■√≈≤≤≥⌡°°²÷══║╒ёё╔╕╖╖╖╗╘╘╙╙╙╛╛╛╛╝╞╠╡ЁЁ╡╡╡Ё╢╣╥╥╦╧╩╪╩╩╫╬©╬©афйллкйххиихкноррнхдбабб╬╧╤╣Ё╟╛╘╖╕╔╖╕╓ё║÷═╒╒╖╚╛╚╚╙╗╕╕╕╔ё═·°······÷═÷═÷·° ≥≤√∙∙∙∙⌠⌠⌠⌠▓▒▐▌▌▄┼┴▄▐▐▄┴┬┬┘┐│┐┤┴┼▀▄▄▄▄▀▀▄▌█▄▀┬└└┬█┬└┐┐─┌┘┘┐┐┌─~~│~~~||}~││}zz}{{}~|||yuuutv~┐┌|}}~─│┐┌┌│~│├┬┘┘┤┤┬┴┤┼▄█┴┌|z{ywvw{|{yvtuwx|─││─~}}~│┐~─}~─┐└└─}~|xx{┌└┘┘┘┤▐■≈≈√√▓▌▀┴┘yuttptz┌│~|~~~|zzz│└┬┼┼┼▄▌▐▒■≥²║ё╓╖╖╗╘╚╝╠╡╦╦╦╨╪╫╬╫ююбддцдфгфхмонояяяппярсттсстттуьыызшшшшшэщщщщчъЮчччъъЮЮАъъЮЮАААААБЦЦБББББББББББЦБЦЦДДДДДДДЕЕЕЕЕЕЕФФФФЕЕЕЕЕЕЕЕЕЕЕДДЕЕЕЕДДЕФФФЕДЕЕФЕЕЕДЕЕЕДДДДДЦДДБЮъчщщщщэшшэшзызыыыыыыыьывжуттттссрппппноооооннммммммлкйййййккйиихххииихигееееефцдеедцббегиккййййфефхгфееедцббббцццццбаааю©©©ююа╬юа©╫╫╫╫╬╬╫╫╪╧╤╢╝╜╛╚╚╙╘╘ё═² ≤∙∙√√▒▄┤┐├┼┬┼┬└~zxvuz}~─┌┐┐│}zxx||┌└┘┬▀█▐█┴└││───│┐└└┘┘┘├┘├┬┼┼┬┴┴┼▀▄▀┴┤├├┬┼┼┬├├┐├┬┴┴┴┤┐┌┘├├┬┬┴██▌░⌠∙≈≤≥⌡⌡⌡°⌡⌡°··÷·°°═╒║║ё╒║ёёё╕╙╡╧╦╣╣╥╦╨╧╦╤╣╣╥╧╩╫циллортьзыжуутяяпястрнииххгфеедцбаааю©ю╬╫╪╪╩╨╦╦╦╥╤╣Ё╡╠╠╠╠╟╝╛╙╘╘╘╘╘╘╗╕╔╕╔╔╓╒║══·²⌡  ≥≈∙∙■⌠▓░░░░▌█▀┴┬├┘└┐┌─~|zwutrponmjhdc`]\[XUSONKHGH)''))-./1135799:=>@CEGHHJKMOQSUWYZ\_adefiknprtvxz{}~─│┐└┤┤┬┴┼▄▌░░░▒⌠■√≤≤≥ ⌡°°²÷═║╒╒╒ё╓╕╖╖╖╖╗╘╙╙╙╜╛╛╛╜╞╠╡╢Ё╡╡╡Ё╢╢╥╥╦╧╩╪╩╨╩╫╬╬╬бгйллкйихийхкноррнхцю©аа╫╦╣╢╡╞╚╗╖╕╔╕╓ё║÷·÷╒╖╚╜╛╘╗╖╕╕╕╕╕╓║·°÷÷·²°²═╒══÷°≥≈∙∙■■∙≈≈√∙√∙■▒▌█▌█▄┴▀██┼┬┤┬└┌│└├┤┴█┴▀▄▀┼┼┴┬▀▀▀┬┘└┴▐├┘┐~|│┘└└┘┘┐─~┌┌─}{|~~}~──~}}}}|{zutrqps}└└}~}||~┌┘─~─┘└│┐┴┬├┬▀▄█▐▌▄█▀┤─||}xwuvxxvtsquxx|┌│~}||~─}─┌│~│└└┐──}yz~~~~│└├▄▓≤≥≈■░▄┤┘─zvsrrpu{│}{│~|{zy{}┌├┼▄┼┼▄▌⌠■≈⌡÷ё╔╕╗╘╙╛╞╠╡Ё╥╥╥╦╩╫╬╫©юцддцдгиефломмярряярсужуттутствыыызззшшшээээщъАччъъЮЮААъЮЮЮАЮЮЮАБЦБААББАААААББЦББЦЦДЦЦЦДЕЕЕЕФФФЕЕФФФФЕЕЕЕЕЕФФФФДДДДДДДДДФГГФДДДФЕЕДДДЕЕЕЕЦЦЦЦДЕБАъчщччщшшшэшзызыыыыыыыььжууутсрссяпппоннноонннмллмннмлкккййккйхкйиииихгхфеффдцццдеедцбафгикйииихедфхгееббцдддццбццдцбаюба©╬©юааюббю╫╫╪╪╫╪╪╪╩╧╥╣╞╝╛╚╚╙╘╘╕║° ≈■■≈≈⌠░▄┬┴┼┤┴┬┐{wwvty}}{|─┐┐┌│─|yx}~│└└┘┴█▄█▄┴┤┘└┌┐└┘├┤┤├┘└┐┌┌┘┬┴├┬┴▀█▌█┼┤├┤┴▄█┴├└├┤┬┤┬┬├└└├└┐├┤┼▌┬▀▌░▓∙≤⌡°⌡⌡⌡ ≥⌡²²══²²║║÷÷║║═╒╒╒╓╘Ё╧╦╢╢╤╤╧╧╦╥╣╣╥╦╩╫бхккнятвзыжууупппястрохххггфедецбаааюю╬╫╩╩╪╪╩╧╥╥╤╣╢Ё╠╟╟╠╠╟╜╙╘╘╘╗╗╗╗╗╖╕╔╔╔ё╒║═÷·²⌡⌡⌡ ≈∙■■■▓░░░▒▌▄┼┴┤├└┌┌│~}{yxwsrppomjgcb_\[ZWTTPNKHFH(&)(++./0145789;=?ABDEGHJKNPRTVXY[\^`beghkoqrsvyy|~──┌└├┤┴▀▄█▐░⌠▓▓⌠∙≈≈≈  ⌡°°²·÷·╒╓ё╒╓╔╔╖╕╕╖╘╙╙╙╜╜╜╜╝╞╟╠╡Ё╢╣╢╡╡╢╣╤╥╧╧╨╩╪╫╬╬╬юдхиммлкйиххйкморрлфцаюа©╩╥╤Ё╟╝╛╗╖╕ё╒║╒╒║÷║╔╙╙╙╚╙╗╕╓╓╕╗╘╖ё÷·ё÷°⌡⌡ ⌡²°°⌡≥√■■■⌠■≈≥ ≥≤≤≈∙░▄▄▌█┼┬┴┼▀▄▀┼┴├┘├┼▀┴┴▄┼┴┼▀┬┐┐┤█▄▀┼┴┬┤┘┤└─~─┐└┘┌┤┬└│─~z~│┌{z}┐~{}~~┌││{z{yussrqsx┘┌}yx{─┐└┌──┘┤├┤┴┴┤┬█▒▓▓▓▒█▄┼└|zuvutstspqtwxwy|~|zyy|~──┌└┐│─││┐┐─~┌├┌yx||└│┘▐∙≥≈∙▓▄└{zxvuutstuvz}{z}~~|wuz│┬┴┼▀▀▀▌▒⌠√⌡÷║ё╓╓╔╙╜╜╞Ё╢Ё╣╤╦╨╪╫©©юабццддеиггйлмносяярттстууутттжвзээшзшэшэщщчъъъчъъъъЮЮААъъЮЮЮЮЮЮББББААААЮЮААБББЦДДДЦББЦДЕФФФФФГГГГГФФФФФГГФФФФЕЕДДДЕЕЕЕЕЕФФЕДЕЕДФФФЕЕДДЦДДДЦББЦДЦАчщщщччщээшшшзышззьжжвььвуууутстсряяппянояяпнммлмннмлклллкклкйикйигггггххгедффецццддббдфиййййигфцбдгхггееддцццдбцддццццюююю©©ююаццю╬©╬╫╫╬╫╨╩╪╨╣╟╝╜╝╝╛╘╖╗╔║·⌡≥≈∙√∙⌠▒▌┼┤├┬┴└{uvy{x{|||{~┘┘┘┘┘┐─}z}─┌┐┐├┴▀▄█▌█┴┘┘┬┼┬├├┤┤┤┴─~┐┘└┐└┴█▐█▄█▄┼┴┤┬┼▀┬├├├├┬┼┴├└┘┤┤┘┐├┼┼├├┴▀▄▌▓√≤≥°·²≥≤⌡÷·²°°²÷÷÷═╒═·═║║╓╝╡╤╥╤╤╤╤╥╥╧╩╧╤╢╣╨╪агйкмяуьззвтстрнояясспкигггфеефдцааю©©©©╬╪╩╨╧╧╤╥╤╣╢╢Ё╠╠╟╞╛╚╚╘╖╗╗╖╗╗╗╗╗╔╓╓ёё╒═÷·²⌡≥≤≤≈≈√∙■⌠▓▒▐▌▌▄┼┬┤├┘└──~{ywurqonmjhfdca^ZWUTQPNJIGG'%((*+./0135689:=>@BCEFGIKMOQTVXZ[\^_bdfiknpqsvyz|~──│┐┘├┤┴┼▄█▐░▒▒▒⌠∙≈≈≈  °°²²·÷÷╒ёёё╓╔╓╕╖╖╗╗╘╙╚╛╛╛╜╜╞╟╟╡╡╡ЁЁ╡Ё╣╣╤╦╧╧╨╩╪╫╬╬╬аеийллкйихххикнпяпкфцю╬©╬╩╥╤Ё╞╜╚╖╕╔╒╔ё║÷²÷ё╗╛╛╛╚╙╖╔╓ё╔╗╗╕╒÷÷║·°°°⌡⌡°° ≤≈≈√∙■∙√≤≥  ≥≤≈∙▒█▄█▄┼┴┬┬┴┼┼┼┴┬├├┼█▄▄▌▀▄█▌▀┤├┬▄██▀┴┤├┤┘│~~─││┌└├┘┌──~{{┐┌─│┌┌─|z|~─┐}}||}}ytrststx│┤┘│}{|────┘┬┬┬┼┴┴▀▒√≈√∙▓▌▄┴┌}zvrsrrrsrpsuvwwxxyyxyz}~~~┌├├┐~~│┌┌└┤┬┌{y{{└│└█⌠≈∙▓▐┬│xxwusssssttx|zy||}}{~┐┼▀█▐▐▐░⌠∙≤⌡·║ё╔╕╖╚╞╞╟╢╤╣╤╥╧╩╫╬©ююабцдефггффиклмнряястсстуууууужвзшэззшшшэщччччъъъъъъЮЮААЮЮЮЮЮЮААББББААААЮЮЮААБББАБЦЦЦДЕФФФФФФГГГГГГФФФФФФФФФФФЕЕЕЕЕЕЕФФФЕФФЕДЕЕДЕЕЕЕЕДДЦДДДЦББЦДЦАъщщщччээшшшшзызззывввьвжууутсрсрряяпппопяяпнммлмннмлллллклллкйййиххххииихедеедцццдцбцдфикккйигфцацеффффедддддецдеедцццбаю©╬©юю©аа©╬©©╬╪╫╪╨╨╪╨╤Ё╞╜╜╛╚╙╘╘╕ё÷² ≤√∙∙∙■▓▌┴├┬┴┘}wwz{y|}||z}└├├┤┤┤┘┌┌┬▄█▌▐░░▀┤├┬▄▀┴├┘├┤┬┐│┌┘┘┐└┤┼▄▌▐▐▐▐▐▀┴┬┼┼┬┤┬├├┬┼┴┘┐┌┘┤├┘┤┼┴┘├┬┼▀█▓√≥≥°·² ≥°÷·²°°²÷÷÷╒ё═·═║╒╔╞Ё╤╥╤╥╥╥╦╦╨╩╨╤╢╢╨╪ахккмяувззвтстяннпясспкхфггфедедцбааю©©╬╫╪╩╨╧╧╤╥╥╣╢╢Ё╡╠╟╞╛╚╚╘╖╗╗╗╗╗╗╗╗╔╔╓ёё╒═÷·²⌡≥≥≤≈≈√∙⌠▓▓░▐▌▄▀┼┬┤├└┐│─}{ywvrqpnmkhfdcb_\YVTPOMIHGG($''*+./0135689:<>@ACDFGHJLNQSVXZZ[\^adfiknpqsvy{|}│┌┐└├┤┴┼▀▄▌▐░░▒▓■√≈≤≤ ⌡°²²··÷═╒╒ё╔╔╔╕╖╗╗╗╗╙╛╛╛╛╛╜╝╞╟╡╠╠╡╡╡Ё╣╣╤╦╧╧╨╩╪╪╫╫╫афйллкихгххихкоппнйфдю╪╪╪╩╦╥╡╞╜╚╖╔╓╒╔╓║²°═╕╘╚╛╜╚╘╖╕╖╓╕╗╗╕ё║═÷²°²²°⌡⌡°≥√∙≈≤≈√√≈≤≤≥⌡ ≈∙■▓▌▀▀┼┴┬├└┐┘┬┬┬┼┤┤▀▌▐▐▒█▐▒▒▌▀┴┴▀█▐█┬┘┘┤┘─~─┌─│├└│──~|{─┐┐└┬┴┬─|{}─┌}{z|}zsoprtttx│┬┴┘│─││──│├┴┴┼▄▀▀▌■≤≤√∙▓▌▀├{xsrrrrtvtrqqruyzyxxxz{||||}│├├┌~{{}┐┤┴┤┌}{||┐│┐▀▒∙⌠▐▀└}tttsqpqrqqrvzxuw|~┌└┘┘├┤▄█░⌠■⌠■√≥ ²÷║╓╖╗╙╝╟╟╠╢╥╥╥╦╨╩╫©юаюаббцегхгффиккмнпярттррсууууужвьышшззшшшэщччччъъЮЮъъЮЮЮАААЮЮЮААБББББААААЮЮЮЮАААБЮАБЦДДЕФФФФФГГГГФФФГГГГГФФФФФФФФФЕЕЕЕФФГЕФФЕДЕЕДЕЕЕЕЕДДДДДЦЦБББЦЦАъчщчччэшшшшзыьзззыьвввужжжтсссяяяяяпппопяяпнммлмннмлллллллммлкхххиииииййхедддддццццбцефиккккиффбюацдееееееееффееффеддддцю©╬©©ю╫╬©╬╬©ю©╫╫╪╨╨╩╨╥╣╠╛╙╘╘╘╙╖╔╒÷°≥≈√√√∙∙∙▓█┴┤┬└}wwxxy}~|{y{┌┤┤┬┴▀┼┤└│}~┐┼██▐▒⌠⌠▐┼┬┴▌▌▄├┐┘├├┘┐┐└┐┌┐┤▀▄▌░░░░░▄┼┼▄▄┴┤┬┘├┬┴┤┐─┌┘┬┬┬┼┴├┤┼▀▀▄░■≈≥⌡²²⌡ ²÷÷·²²²·÷÷ё╓║÷══╒╕╞Ё╤╤╤╤╥╥╧╧╨╪╩╦╣Ё╧╪бикйлпсжыывутсяннпярспкифффеддддцббаю©╬╬╫╩╨╧╧╦╥╦╥╣╢╢Ё╡╠╠╞╛╚╚╘╖╗╗╗╗╖╖╖╖╕╔╓ё╒║══÷²⌡ ≥≤≈≈√■⌠▓▒░▐▌▀┼┴┴┬├┐┌┌│}{xvurqonljgebba_\XUSPNLHGGH)$''*+./0135689:<>@ACDFGHIKMPSWYXYZ[]`dfikmopsvyz{|~│┌┐┐├┤┴┼▀▄█▌░░▒▓■√≈≤≈≥ ⌡°°²²·÷═╒╓╕╕╕╕╖╗╗╗╘╙╛╛╛╛╜╝╞╟╟╡╠╠╡╡╡Ё╢╣╤╦╧╧╨╩╪╩╪╪╫юфйккйхггхиййлняянидц©╩╨╩╩╧╤╡╝╜╙╕╔╓║╒ё║÷÷╓╗╗╗╙╚╙╘╗╘╙╕╖╗╗╖╕ё═²°°··°   ≈∙■√≤≤≤√≤≈√≈ ≤∙■⌠▒▌┼┬┬┬└│─┐├┬┬▀┴┴▄▐░▓■▐▒▓░█▀┼┴▀█▌█┴├┘┘├│─└├┌─┌└│──~}~┌┌─┐▀▐▌└│─~}~|yxyxsnlopqqrx│┬┬┘│──┌┐┐┌│┐├┴┼█▐░░▓∙≈≈■▓▒█┬┌|yvqqqrtwxuspnpv|~|yzzzyxxxy─││|{|z{─┘├┐──}~│┌──┐▀▒⌠▐▀┤│zsrrrqoopprsvxvsu}│┤┼▀▄▄▄▄▌▒■∙∙≈ °²÷║╓╕╘╙╜╟╠╠╠╢╤╥╤╥╧╩╬юабюааабдфххххйкклнопрттррстууужжьызшэшзшэээщчччщчЮЮЮЮЮЮЮЮЮААЮЮЮАББАБББАААБААААААААББЦДДДЦЦЕФФФГГГГФФФГГГГГФФФФФФФФФФЕЕЕФФГЕФФЕЕЕЕДЕЕЕЕЕЕЕЕДДЦЦЦБЦЦЦАъчщщщщшшззшзыьыыыыььввтжвжуссспяяяяяпппяряпнммммнннммлллллллккгхххххххкйхеддддедццббцффийкккхеебюабццдцдефффффефффеедцецаю©©©©╩╪╫╫╫╬©ю╬©╬╪╩╩╨╦╤╡╛╘╖╖╗╘╕╔ё═°≥≈∙≤√■⌠■■▒▄┤┬┘~ywvuw||zyxz┤┤┤┴▀▀┬├──┌┤▄█▀▌▒■∙▓▌┼┴▄▐█├┐└└┐├└┐┐┐┌┐├▄┼▀▐▐██▌▀┴┼██┼┤┬├├┤┤┘│~~┐┤┬┴┼┼┼▀▄▄▀▀▌▓■≤ °²°°·÷÷·²²²²·÷ё╓╒═══║╕╞Ё╤╤╣╤╥╦╦╧╨╪╫╩╦╣╦╪бикйлпяуььвжтсяоояястялифффедцццбббаю©╬╫╪╩╨╧╦╦╥╥╥╣╢╢Ё╠╠╟╞╛╚╚╘╖╗╗╗╗╖╖╕╕╕╔ё╒║║═÷÷²°  ≥≈√√■⌠▓▒░▐▌▀┼┴┬┤├└┌┌│~|zxvuqonljhec`_^\ZVSQPNLHGFG)$''*+./0135689;<>@ACDFGHJKMPSWYWXYZ]`dgikmopsvxz{|~│┐┐└├┤┴┼▀▄█▌▒▒▓⌠■∙√≈≤≥⌡°°°²·÷÷═╒╓╔╔╔╖╖╕╖╘╙╙╙╛╛╛╜╝╞╟╠╡╠╡ЁЁ╡╡╡╣╤╦╧╧╨╨╩╪╪╪╫агйккйхггхийллнярохца╬╨╧╩╩╦╣╡╝╜╙╕╓╓║÷║║═ё╖╘╗╖╘╙╙╘╘╚╛╘╗╕╕╖╗╓÷°⌡°··°≥≥≈√∙■∙√≥ √≈≈∙∙√∙▓▒░▐▄┴├┘├│─~─└┤┼┼▀▀▄█▌░⌠√▒▓▒▌▀┼┴┬▄▄██▀┴├└├│─┘├┌│─│─}}│┌─~┌┴██┤┘└┐┌{yyvuuspoqqonnqx─├┤┐}}│┌┌┌└┤┼█░⌠∙■■∙∙∙■▓░▀├─ywupqrsvxwtrrqsy~~{y||zwttwy}}}}||}wx}┐└─~~┌┐││┐┼▐░▀├┐~yusqrrpnnpuwwwutx}└▀█▌▐▐▐██▐▓■√≥²·═╒╓╕╗╙╚╞╠╡╠╟╡╢╣╣╤╦╩╬юбббббббдфхйиийкйкмнорттррсстуужвьызэщэшэщщэщччччъЮАЮЮЮЮЮЮЮААЮЮЮЮАБАБББАААБББАААЮЮЮБЦЦДДЦЦБЕЕФФФФФФЕФФГГГФФЕЕФФФФФФФЕЕЕЕЕФФЕФФЕЕФФЕЕЕФФФФФЕЕДДЦЦЦЦЦБАъчщщщэшшззззыьььььввжжтжввутсспяяяяяпппяряпнмммммнннммммллкйииххииихггйигфеддеедццббдфгхйкккифдбабццбцабдфгфедееефеддцдцббаю©╫╪╪╫╫╫╫╬©юаю╬╫╪╨╧╥Ё╞╚╘╖╖╗╖╕╔╒÷⌡≤≈≤√■⌠∙√⌠▌▀┼┤┌|yvuvyywwvx}├┘┘┤┴┼┴┤┐└└├┬▀▄▀█░■∙⌠░▄┼┼██┤┐└└┌┤┘┐└┘├┘┘┼┬┴▄▌▄▀▄▀┬┬┼┼┬┬┴┬┤├├┐─~}┌├┤┬┴▄█▄██▀▀█░▓≤≥⌡°²··÷÷÷²°°°··═╒╒╒╒÷═╔╟Ё╤╤╣╤╦╧╥╦╨╪╫╫╩╧╦╩бхййкоптььвжуряноппртрмигффеддцбааааю©╫╫╪╩╨╧╦╦╤╥╥╣╢Ё╡╠╟╟╞╛╚╚╘╖╗╗╗╗╖╕╕╔╕╓╒║══÷··²°⌡ ≥≈√∙■⌠▓▒░▐▌▄▀┴┤├┘└┐┌─}{ywuspomljgdb`^\YWURQQNLHFFG($'')*-.0134679;<>@ACDFGHJLNPSUWVWYZ]`dfikmoqsuwz{}│┐└┘├┤┬┼▀▄█▐▒▒▓⌠⌠■√≈≥ ⌡°°²·÷══║ё╓ёё╓╖╕╕╖╘╙╙╘╚╛╜╜╞╟╟╠╡╠╡Ё╢╡╠╠╣╤╥╦╧╧╨╩╫╫╬©цхкккйхггхиймлмярнга©╫╨╦╧╧╥╢╡╝╛╙╕╓ё════║╔╗╙╙╘╙╚╚╙╙╙╚╘╖╔ё╕╖╓·°⌡⌡²° ≤≈∙∙∙■■∙≤ ≈≈√√■▓░▐▌█▄┼┤└┐└│──│└┤┼▄┼▀███▌▓∙▓▒▐▄┴┬┬┴▀┼┼▄▌█┴├┐~┌┐}}}}│}}─┌├┬┬┬┤┤├┘─{wxwuspnpsrpmmqw└┬└─||}─│┐┘┬▄░■≈■■▓▒▓⌠▓▒▐┴└xtsruuwyywtsqrv}─~|{{{zwsswz{zz|}{{}vw|│┐|{|}│┐┌┌┤▄█┬┐│~ywusutqoootwvutv{─┤▄██░▒░█▌▐▒⌠∙ ÷═║ё╔╖╘╚╛╟╠╡╠╠╠Ё╢╢╤╦╩╬юбцдддддефхйийкййклмнпссррсстужжвьышщщээщчччччччъъЮАЮЮЮЮЮЮЮААЮЮЮААБАБББАААБББАААЮЮЮБББЦЦДДЦДЕЕФФФФФЕЕФФФФФЕФФФЕЕЕЕЕЕЕЕЕЕЕЕЕЕФФЕЕФФЕФФФФФФФФЕДДДДДЦЦБАъччщщэшзззззыьввжжжжжжужжжутттяяяяяяпппяяяонмммммноонммммлкиихйййййиххихггфддеедцццбдфгхийклифдбабцбббюацдееддееееедцбдцбцца©╫╫╪╫╫╫╪╪╬юаба╬╪╨╨╦╣╠╞╛╘╖╗╖╕╔ё÷⌡≥≈≈≈≈≈≥≥■▌█▀┬┐~zvtvxvsuvwz┐┐┐└┤┴┼┼┬┴┬├┤┴▄▄▄░⌠■■▓▌▀┴▀┼┤└┘┘└┤└┌┐┘├┘└┤├┤┼█▌▌█▄┬┘├├├┤┼┬┤├└┌─}─└├├┤┼▄┼▄█▀▀▌▒▓≈≤ °·÷÷÷═÷·²°°²·÷║╒ёё÷═╕╞Ё╤╤╤╥╦╧╤╦╧╨╪╫╫╪╧╩югййкнотььввуромнооясямйгффеддцбаююю©©╫╫╪╩╨╧╦╦╤╥╤╢ЁЁ╡╟╟╟╝╛╚╚╙╗╖╖╖╖╖╕╔╔╓ё╒║══÷··²°⌡ ≤√∙∙■⌠▓▒░▌██▀┴┤├┘└┐│}{ywtrqpnljgdba_[XVTRQPNKHFFF'$&&)),-/023569:<=?ABDEFHJLNPRTUVWY[]`cehjmoqsuvy{}─│┐┘├┤┬┼▀▄▌▐▐░▓▓⌠■√≈  ⌡⌡°²·═══╒╓ё╒ё╔╕╕╕╖╗╘╙╙╚╚╛╜╝╞╟╠╡╠╟╡Ё╡╡╡╢╣╥╦╦╦╧╨╪╪╫©дикйкйхггхиймлнярлеа╬╪╦╣╣╤╤╢╠╝╛╘╔ё╒÷║══ё╖╘╘╘╘╙╙╙╙╘╘╘╗╗╕ё╓╔ё÷⌡    ≈∙∙∙■⌠⌠■√≈≤√∙∙√▓▄┼▀▀┴┴┬├┐│┌──~┌├┬┬┴┴┴┴▀█▐░█▀┼┬┘├┴┘┘┤┼▌▌▀┬│~}~~{z}}~~~┌└┘┘┤┤┤┬┬├│zuvvtqooqrqponqv}│├└─~}─││└┬▄▐▓■√▒▓░▌▌░░▌▀└│xsux{zzzxuttpsz─{y{z|}zvtvyvvxzywy~zz{~─~zwyx|}┐─┌┬▀┬└┌{xwxyvrqtpuvvwx{─└┼▄▀█▓⌠▒░▐░▓■√⌡÷╒╒ё╔╕╗╚╜╟╠ЁЁЁЁ╢╤╤╥╧╪╬абцддедеегхйййккклнммнрссссстужвьызшщчщщчъчЮъччЮААЮЮЮЮЮЮЮААААААААББАБББАААБЮЮЮЮААААБААБЦДДДДЕФФФФФФЕЕФФФЕЕДФФФЕЕЕЕЕДЕЕФФЕЕДЕФФЕЕФФЕФФФФФФФЕЕДДДДДЦЦЦБЮъъчщэшшззшшзывжуужжжжжжуууутсяяппппппппяпонмммммноонмнннмлйййккйййииихггхгеддедцдцбцегххиклйгдбаббббцюююабццдддддедцбдцббцбю╬╫╫╫╬╫╪╪╬╬©аа©╪╨╨╥╢╡╟╜╙╗╗╕╕╔ё÷⌡≤≈≈≤≤≤≥ ∙▐▌▀┬└{wuwxtqtvwx}~│└┤▀▌█▄┴├├┴▀▄▌▒⌠■■▓▐▀┴┬├└┐┐└┘┬┘┌│┐└┘└┘┘├┬█▒▒▐▄┬┘┘┘└┘┬┘└┐┐│~}~~─┐┘└└┘┤┴▀▄▄▀█░░√≈≥⌡·═÷÷║║÷²°°·÷÷║╒ёё═╒╘╛╟╢╢╢╤╥╦╥╧╧╦╦╩╪╪╨╨©еийкмотььььуяоммонпрялиффеддддбаюююю©╫╫╪╩╨╧╧╦╤╥╥╣ЁЁ╡╟╞╞╝╛╚╛╙╗╖╖╖╖╖╕╔╔╓ё╒║║═÷··²°⌡ ≤√■■⌠▓▒░▐█▄▄▀┴┤├└┌││}{zxtrqpnljgdba^[YWTRONLJGFEE&#&&(),,/0134689;=?@BCEFHJLNOQSTWXZ\]`bdhjmprstuwz|~~─┌└┘┤┬┼▀█▌░▌▐▒▓⌠■√≤≥    ⌡²÷²·║╓ё╒╓╖╔╕╖╖╖╖╘╚╙╚╛╜╝╞╟╟╡╟╞╟╡╡╡Ё╢╣╥╥╦╦╧╨╨╩╪©дхйийихггххиллорпйда╬╪╥Ё╡╢╣╢╠╜╚╘╓ё╒÷║÷║╕╙╘╖╖╖╖╗╘╘╘╗╖╖╘╗╓ё╓ё═⌡≥≤≥≤√■⌠√■▓⌠∙≈≈√∙⌠■∙░┬├┴┴┤├┤┘┌──~|zy{─┐├├┘┘├┬┴┴█┴┤┬┤┐└┬─│└┬▄█▀┴─~}}~~|z}}|}───~└┘┘├┴├┤┴┴┤│ysoqqopstsnoppptz│~}~─┌┐┌├▀▐▒▓⌠⌠▓▓▒▐▌▐▐█┤─~~xtx}~|zyurrtsw~┌}vtwz}─}xttvstvwtrw~─}zz||zvwtw||─┐~~├▀┴├┘│}wy{|wrsxtxxx{┌┤┴▄▄▀▌∙√⌠▓▒▓■∙≈⌡÷ёёёё╔╗╚╝╟╡Ё╣╣╣╤╦╥╧╨╫©абцццддеегхкйкммлнпмлмястстстуввьзшшщчщщчъчАъчъАЦБАЮЮЮЮЮЮААААББББББААББААББъъъЮЮАААЦБААЦДДДДЕФГГГФФЕЕФФФЕДДФФФЕЕЕЕЕДЕФФФФЕДЕФФЕЕФФЕФФФФФФЕЕЕДЦЦДДЦБЦБАЮъъчщшшззшшзыьжууужжжжутттутсяппоооопопппонмммммнооонннонмкклйййииииииггхгдццдддддццехххийлкхдбюааацдюю╬╬©ацеддддеедбдцааббаю╬╫╫╬╫╪╪╬╩╬юа©╪╨╨╣Ё╠╟╜╙╗╘╖╖╖╔║² ≤≤≥≤√√≤√▒▐█┴├┌}zxyytptwwxyz|~│├▄░▐█┼┤┤┴▀▀▐▓■■■⌠░▄┴┘┌│││┐┘┼┬┘┌┌└├┤└┘├┬▄▒▒▌┼┤├┬┤└┌┐││││|{|│┐└┐┌│┌┼▄█▄▀▄▌▌√√≤⌡·══·╒║═·°°·═÷║╒ёё═ё╚╘╝╠╡Ё╢╣╤╦╨╧╥╤╦╩╩╨╨╬дийклотььььуяомнооясрлхфеедцдецаю©ююю╫╫╪╩╨╧╧╧╥╦╥╣╢Ё╡╟╞╞╝╛╛╛╚╘╕╖╖╖╖╕╔╔ёё╒╒║═÷·²²°⌡ ≤√■■▓▒░▐▌█▄▀┼┴┬├└│─}|zxurpomkifca`^[YWTPMLKIGFEE&"$%)(+,-.024689:<>@BDEGHJLMNORTWY\]]_cehjmopqstv{|}~~┐┘├┬┴┼▀█▌▐▐░▓∙√√∙≤   °°°÷÷═╒ё╒╒╓╔╓╕╗╗╗╗╗╘╚╚╚╛╜╞╟╠╡╡╡╡╡╡ЁЁ╢╤╤╤╥╧╨╧╨╨╪©дгйййкигхххйклнпнхб╬╪╧╣Ё╡╠╡╢╟╟╜╘╔╒║║║ё╔╗╘╗╕╓╗╖╕╕╖╕╓ёё╔╕╔╔╔ё║÷≥∙≈≈∙⌠▓■■■■■∙≈≤≤■░▐█┴├┘┬├┤┬┤├└}~ytxy}┘┬┴┬┤┘├┬┼▀┘│┐├┤└┌│┌└├┴▀▀┼└{|~~}}|}}||~─┌┌└├┤├┤┬├┘┘┘┘│ztrnnpruuqkoqqrrv}}yy}┌┬┤┴▀█▌░▒▓⌠■▓▒░▐▀┬┐{zyyz}─~{wutssvx}zsrt{││~ysqtqvvsssvz│{wxzzxvrqwz}|~z└┬┼┬┐│{zzywspruxz|┌├┴▀┼▄▄█░■∙■√≥ √∙≥·║╒ё╓╔╖╘╛╜╡╤╧╦╤╤╥╦╧╧╩╫юбцддеффеегикклммммнмллмпртттувьыызззэщэээщъъЮЮЮААААЦБАЮЮААБББББББЦЦЮАБЦБАААААААААЮЮББББЦЦДДЕЕЕЕЕЕФГГФЕДДЕЕЕЕФФФЕЕФФФФФФФФФФГФФФФФФФГГФФФФФФЦЦЦДЦЦЦЦЦБАЮъчщшэшззшшзьжжввввввуууужжуттсяппяппяяяяппоонллноммоммммммлллкиххиииихгфедддедццццдггхиийккхецаааааабаююю©юббцдедцццбббаю©©©©╬╫╫╫╫╫╪╫╫╬ю©╪╨╨╥╣╡╟╝╚╗╕╗╕╕╖╓·  ≥≈√≈  ≈■⌠▌▀┬┐─~zyxtpquvtvvy|~├▌▓▐┴┤┼┼┤┴▐▓■■■⌠▓▐▀┘┌┌└┐┌├├├┘└└┘┤└│┌┤▀┼▀█┴┘┘┬┤┌│┐┌}}}{{|─│┌│──┘┬┼┼▀█▐▌⌠≈  °═╒║══║║═÷÷·═║═÷·║╔╘╘╛╟╠╠╡╢╣╣╥╦╥╣╤╧╪╨╫╬афикннсвььжсяннннноярнйфефеццааааюю©╬╫╪╩╩╨╨╦╦╤╤╣Ё╡╠╠╠╠╟╝╛╚╙╘╗╗╗╖╕╕╕╕╕╔╓║═÷÷··° ≥  ≈√√■■⌠▐█▌▌█┼▀┼┤┐│──~|{zwtronmljgdb_]ZWTRQOLJHEDBD'!#$((*,-.0245799;=@ACEFGIKLMORUWZ\]]_begilnoprsuz{|~~┐┘├┬┴┼▀█▌▐▐░▓■∙∙∙≈   °°°÷÷║╒╒║║ё╓╔╕╖╗╗╗╗╘╙╚╛╜╞╟╟╠╟╟╠╠╡ЁЁ╢╡╢╣╤╥╨╨╨╨╨╪юехййиигегггилмояохб╬╩╦╣Ё╠╟╠╢╟╜╙╗╔ё╒║ё╓╕╗╗╖╕╔╗╖╕╕╕╔╓ё╒╓╓╓ё╓ё║²≤■√≈√∙√■■∙∙√≈ °≥■░█▄┴┤┤┤└┐└└└└─~~xuz}┘┤┤┬├┘┘┤┬┘{}┌└┐│──│┐┘┤┬┬│}}}}┌~~}{{~─└┐┐└└└└└┤┘└┐┌~xtsonopqpllnoqqps{|{yz─┌└┬▀▄▄██▌░▒▒▒░▌█▀┬└│}zyyyz|~}{ywwxyzz{{vporz~|xsoqouvsrrv{|wuvxxutpotvwyvx|┘┬┴├┌│|yzywsprv|─└┘├┤▀▌▌▌▌█░■√√√≤≤≈≤⌡÷╒╒╓╕╖╖╘╛╝Ё╣╥╥╤╥╥╥╧╨╪╬юбццефггфгикккллммммллклоярсрсжвызшшышэщэщчъЮЮЮААББББАААААБББББАБББЦББАБЦЦБАББББББААААББЦЦЦДЕЕЕЕЕФФГГФЕЕФФФЕФФФФЕЕФГФФФФФФФФФФЕФФФГГФФФГГФФЕДДДДДЦЦЦДЦАЮъчщээшззззыьжввввввжссстуууутсяяяяппяяяяпооннллннллнмммммллкмкиииииииигфедддедддццдггхиийлкиебюабааабаю©╬╪╪╬бцееедцццццбаюююю©╬╫╫╫╪╩╪╪╫©©╪╨╨╦╣╡╟╞╝╚╘╙╕╓╔╓═·÷≥≈√≈≥ ≤√⌠█┼┬├└│{y{wposusuuy~│├▀▀▄┬├┬┬├┬▄▐░▒▓▓▓▐▄├┐│─│┌┐┌┐└┘┘┘┘├┤└┌┐├┬├├┬┤┘├┬┤└┌┐|{||||}│┌┌─~~└┤┬┴┼█▐░▓■√≥°÷═÷═╒╒║·²²·══║══╒╔╗╗╛╝╝╞╠╡╡╣╤╤╣╣╥╧╩╨╫╬юегхлнржььжспммннопрсойфеедццаааюю©╬╬╪╩╨╧╧╦╥╤╤╣╢Ё╠╠╟╟╞╝╜╜╛╚╘╗╗╖╖╕╕╕╕╕╔ё║═÷÷··° ≥ ≥≈√√■■▓▐▌▌▌▄▀┼┴┤└┌│─~}|zxvtrpomkheca^\YVTRONLJHEDCD'!#%((+,-.023578:;>@ACEFGHJKLORUWY\]]_befhkmnprsuyz{~~─┐└├┤┬┼▀▄▌▐▐░▒⌠■∙∙√≥≥≥⌡°°·═║║║║║╒╓╔╔╕╖╗╘╘╗╙╚╛╝╞╟╟╟╞╟╟╠╠╡Ё╢╡Ё╣╤╥╧╨╧╨╨╪афййххигфхххйммопнга╫╧╥╢╡╞╝╟╢╠╛╗╖╕╓╒ё╕╖╗╘╗╖╕╖╖╕╔╓╓╓ёё═╒╒╒╒╒╒║²≤■∙≈≈√≈⌠■∙√≈≤⌡²≥■▐▄┼┴┴┴├│─│┐└─|zvu{│┐┤┬┬┤├┘┘├┌|xz┌│─┌┘┤┐┐┌|z~┌─|zz}─│├└┐└└└└┘┤├┐─}yvtsonononjmnorroqz||y{│┘┤▀▌██▄▀▄█▌░░▌▄▀┴├┌~{yy{||}}}||{{}~~{ywsppsz|zwvrnoovwtqqu{yvtuwwvvrpssstru{└┤┬┘││}zz{yuruy┌├┼┼┬┴▄▒▒▒▐▐▒∙≤≥≤≤≥⌡°²÷╒╒╔╗╘╗╘╛╞Ё╢╣╣╤╦╦╥╩╪╫©юабцефгггхйкккклммммлллмнпярясувьышшызэщщчъЮъЮЮААБББААААББЦЦББАААБББДБЮАЦДЦАББЦЦЦББАААББЦЦДДЕЕЕЕФФФГФФФГГГГФФФФФЕЕФФФФФФФФФФЕЕЕЕФГГХЕФГГГФЕЕЕЕЕЕДДЦЦЕЦАЮъчщщэшззззыввввввжжурррсттттсряяяяппрряяпоономмннллнммммллккмкйииииийигфееееедддццеггхийклкифб©юббаюбаю©╫╩╨╪бцдеедцбдддцбаюааю╬╫╫╫╪╩╨╩╫©ю╫╩╩╧╤╡╟╠╟╝╜╜╘╕╖╕╒÷·⌡≤√≈≥  ≥∙█┤├├┤└~{}zrosutsty┐├┤└┤┤┤┤├├┬▀█▐░░▒▒▐█┬├┐│──│││┐┘├├├├├┤┘├┤├┐┌└└├┬┴┬┤└┐}|{|||||~─┌│~~─┌└┘┤▀█▐▐░▓≈⌡²²²║ё╔ё═·÷║║═══║╓╖╗╖╛╜╛╛╞╠╟╢ЁЁЁ╣╤╦╧╩©юаегиморувьвспмнооопяспкфдддцдаааю©╬╫╫╪╩╨╧╦╦╥╤╣╣╢Ё╡╠╟╟╜╜╜╜╜╛╙╗╗╖╖╕╕╕╔╔╓ё║÷÷÷··° ≥≥≤≈√√⌠⌠▒▐▐▐█▀▀┼┬├┘┐┌──}{ywuspoljheca][YVSPNLKIHFECD'"$%))+--.023578;<>@BDFGGHJKLOSVWY[\\^befikmoprtuyz{~~─┐└┘┤┬┴┼▄█░░░▒▓■∙√√≥≥≥⌡°°·═║║║║║ё╓╕╕╕╖╘╙╘╗╙╚╛╜╞╟╟╟╠╠╠╠╠╡╡Ё╡╢╤╤╥╦╦╥╨╨╫бгйигхигфхиикммноле╬╩╦╤╢╠╝╜╞Ё╡╜╘╗╕ё╒╔╗╘╚╙╗╖╕╖╔╓ёё╒╒╒╒═║║║════·≥√√≈∙■⌠⌠⌠■∙≈≤≈≈√⌠▌┼┴┬┴┴└─~─│┐┌~yxwx}┌┘├┴┼▀┼┬├┘└┐{{|~~}~}|{{~┌┘┌┐┌{z}│┌─|zz|─┌├┐┌└┘├├┤├┘┌~zvtrrnnonppmpoptupq{─~{{│├┼▌██▄▀┼┼┼▀▌▌▄┼┼┬└─{yxz}~|}~~}}~}zwvustvzyurtrpqsxxtrqswywuuvvwxsprqqrqt{└┤┬├┌┐z{}|yx{─┘┬▀┼┬┴█▒▓▒░░⌠√≥⌡²⌡°÷═÷═╒╒╔╗╙╙╛╝╟Ё╢╣╣╥╦╧╦╩╪╬юаабцдеффгхикккклмммммммнопяррсужвьызышщчъъъЮЮЮЮЮЮАААААББЦЦЦБББББББББДБЮАБЦЦБББББББААААББЦДДДЕЕФФФФФФФФФГХХГФЕЕЕЕЕЕЕЕФФФФФФФФЕЕЕЕФГГХФФГГГФФЕЕЕЕЕЕДДЦДЦАЮъъччэшззззывввввжуутсрррсссррряяряяпрряпппонпннооммнммммллкклкйийййийигфееффедддццегхиийллкйеа╬©ббаюаю©©╬╪╪╬юацддцаюдддцбааааю╬╫╫╫╪╪╨╩╬юю©╫╪╨╥╡╟╠╠╟╞╝╚╙╚╚╕÷⌡°≥≈√≤   √█├┐┐├├┐~~{vttuvttz─┌└└│└├┤┤┤┬┼▀▌▐░░░░▐█▄┴┘┌││││┐└├┤┤├├┘┴┴┴┬┘│─┌└┤┴┴┴┴├┌}|||{z{{│─}}~~│┐┘┬▀▄█▄▐■≈≤ ²═╒╔╔ё╒╒╒║═·÷║╔╗╙╗╛╜╙╚╞╟╝╠╠╠╡Ё╢╤╦╨╬юбегинорувьвтпооппоопяпкфддццдббаю©╬╫╪╪╩╨╨╧╦╥╤╤╣╢ЁЁ╡╟╞╜╜╜╜╜╛╙╘╖╖╖╕╕╔╔╔ё╒═÷÷÷··²⌡≥≤≈√√∙⌠▓░▐░▐█┼▀┴┤├├┘┌──}zxvutpnljhged][XUSPMKJIHFECD&!$%()+--/023578:<>@ACFGGHJKMOSVWY[[[]adfhkmnortvyz{}~┐┐┘├┤┴┼▀█░░▒▒▓■∙√√≥≥≥°°°÷══║║╒ё╓╔╕╕╕╖╘╙╙╘╚╚╚╛╜╞╟╠╠╠╠╠╡╡ЁЁЁ╢╣╤╤╦╦╥╧╨╫бгйхфгхфегххкмммнкд╫╨╥╣Ё╟╜╛╝╡╡╝╚╗ё═╒╔╘╙╛╚╙╖╕╕╓╓ёё╒║║║║║║║÷÷÷═· ≤≈√■▒░▓▒▓∙≈≈⌠░▒▐▄┼┬┬┤├┐─┌┌┐│|yz}~│├▀▄██▄▀┬┘┐┌┌│{yy{|{zywwz┌~~~||~─┐┐│}{{}─┐└┌│┐┘┘┘├┐┌│}yurqpmmnnprqrpptupqz}~|}┐┤▀▌▄▄▄▄┼┴┴┴▀┼┴┬┬├┌~{zyz}~~|y{~~~}}yxvwwwwwvurquurrswvssrrstvvvtsssolommoos}┤┼▄┴┘┘│{}─┌┤┬┬┬┤┬┼▌▒▒░▒⌠√≤ ⌡·²²║╒║║╒ё╓╕╘╛╞╠╠Ё╣╥╥╥╦╨╩╩╫©юабцдддефгхийккклмнммнннноопярсужвьыззэщъъъъъАААААЮЮЮАБЦЦЦЦББЦЦББББЦЦЦБААААБЦБББЦЦБААБББЦЦДДЕЕЕФФГГФФЕЕФГХХГФФФЕЕЕЕФФФФФФФФФФФФФФФФФГГГГФФФФФФФФФЕЕДДЦБЮъъъччэшззззыьвввжжутссрррссссрряррряпряппппонпононмлмннммллллкйййкккйиигфффффедддццдгиийкллкйеа╬©ббю©ю©©©╬╫╫©©юбццбаюцддцаааааю╬╫╫╫╫╪╩╪╬ююю╬╫╩╦Ё╟╟╟╟╞╛╙╚╝╝╙╒°⌡≥√∙√≈≤≥√▌┬└┌└┤├┐~zzxtsuwx}──┌─│└┤┤┬┼▄▄█▐▐▐▐░░▐▐▀┤└└└└└├├├┤┤┤┤┤┴┼┴┬└──┌└┬┼┴┴┴┘│─~||{zyz|│||}}~│┐┘┤┴▀┼▀▌▓⌠⌠≈²÷═╒╓╓ё═··²·═ё╖╘╘╗╚╛╙╙╜╞╜╝╝╟╠╠╟Ё╦╧╫юадегкнрувьвтпоппоооппялфдцццдцбаю©╬╫╫╪╩╨╨╧╧╥╥╣╣╢ЁЁ╡╟╞╞╝╜╛╚╚╙╘╖╖╖╕╕╔╓╓ё║═÷÷··²°⌡≥≈≈√√∙⌠▒▐▐▐▌▄┼┼┬├┘┘┘┌─~}{xusrrpnljhged][XUROMKJIHFECD& "$''*,-.0235789:<>@BDFFHJLMPSUVXZZZ\`cegiklnqsvyyz}~┌┐└├┤┬┴▀▄▐▐▒▒▓⌠∙√√≤≥≥⌡°°÷÷══╒ё╓╔╔╔╔╕╖╗╘╘╘╚╚╙╚╛╝╟╠╟╟╟╠╡Ё╢╢╡Ё╢╣╤╧╨╧╧╩╬цгихфгхффххикнммнйд╫╨╤╢╡╟╜╚╜╞╟╞╚╕║═ё╕╘╙╙╙╘╗╔╓╓╓╓╓ё╒╒╒╒║║═÷²·═·⌡≤√∙⌠▒▐▒▒▒■≈√▒▄▄▄▀┴┤├┘┐┌─┌││zz}┌┐┌┬▐▐▌█▄┴├└┌││┌─|yy{|xwvuvx|~}}{{}─│─┌─~~~~─┌┐┐┐┘┘┐┌┐──}zvrppmmmlorrrpoqrnovv{~─├┴▀███▌█▀┼┴┴┼┼┬┤┬┤┌}z{zzz{{zwxz|}}||wvvwwwutpqprxwsqqtsrssqqquyyvqnkjhllloos~┬▄█┼┘┘│─┌└┘┘┤┼┼┬┤┤┼█░▓▒▒▓√≥ ⌡²²²÷╒ёёёё╓╓╔╘╜╠ЁЁ╢╤╦╥╥╧╩╪╩╫юаббцдеефгхийклкклнннмммннноппяртжвьзшшэщчъъъъБББББАААББЦЦЦЦЦЦЦЦЦЦББЦЦБББАЮЮБЦБЦЦДЦЦБАББЦЦЦДДДДЕФФГФФФЕЕЕФГГФЕГФФФФГГФФФФФФФФФГГФФФФФФГГГФФФГГФФФФЕЕДДЦБАЮЮъчщэзыыззыьвввжутссряярстуусррррррррпоппяпооннммлллнмммллллййййклкйххгггффффдддццегйийклкййфб©юбаююю©©©╬╪╪╬ююабццбабццбаюааа©╬╫╫╫╫╪╪╫©©©©╬╪╩╦╣╠╞╝╞╟╟╝╝╝╝╙ё· ≥≈∙∙∙∙√⌠▐▄┴┘┘┤├┤│||zust||─││──┌┘┤┴▀▀▀▀█▌██▐░░▐▄┴├┘├┬┴┬┤├┤┬┴┼▀▀▀┼┤└┌┐└┘┬┴┬┬┤└│|zyyyyz}──~|||z~~─┐└┘┤┴┬▀▐▒░▒√⌡÷═║ё╓╒÷° °·╒╕╗╖╕╖╘╘╘╙╚╛╚╛╛╞╟╞╝╠╤╧©бцдцеимяжьвжсяннннноярялфддцццббаю©╬╬╫╩╩╧╧╦╦╥╤╢Ё╡╡╡╠╞╜╟╞╜╚╚╙╘╗╖╖╖╕╔╔╓╓╒║═÷··²°⌡ ≥≈≈≈√■■▒▐▐▌█▀┼┴┬┘┘┘└┌─}|zwtrqqomkigeba]ZWTQOMKJIHFECD'"#''*+,.0124678:;=?ACEEHJLMORTVXYYZ[_bdfiklnpsuxxy|~┌┌└┘┤┬┴┼▄█▌░▒▓⌠■∙∙≤≤≤⌡⌡°·÷÷═╒ё╓╓╓ё╓╔╕╕╖╗╘╚╚╚╚╜╝╟╠╟╟╟╠╠╡Ё╢Ё╢╢╢╤╧╨╨╧╩юдгххгхигфхиилнмммйц╫╧╣Ё╠╞╜╚╚╛╝╝╚╓║ё╖╗╘╗╖╖╗╖╔ё╒ё╓╓ё╒╒║║═══·²÷║═²≥∙⌠▓▒░▓▓⌠■■▓▌┼┴┼┼┬├┘┐││~~~|}~{}─┘├┐┴░▐▌█┼┤└┌│───~{zz{zwvuuwy{|~}||~│─~│──││┌┘├└│─~~~}zwsqpmlljnrsrqmmmkkps{│└┬▀▀▌░░▐█┼┴┬┬▀┼┴┬┬┤┌}xz{yy{{{wvvwz{{zvvvuuuttnnnqwwsrpttstspprx|zuojghgmnoqqv┴█▌┼├┬┘┘┘┤┼▀┼┼▀▀┼┴┼█░▓⌠⌠⌠■≤⌡°²··═╒ё╓╔╔╔╔╔╖╙╝╠╢╣╤╥╥╥╦╨╪╪╪╬абббцдффгхиййклкклнонммннннопяястжвьзшзшэщчъъЮББББББЦЦББЦЦЦДДДЦЦЦББББЦББААББББББЦЦЦЦБАББББЦЦЦЦДДФФГФФЕЕЕЕФГГФЕГФЕЕФГФФФФФФФФФФГФФФФФФФГГГГГГФФЕФФФЕЕЕДДЦБАЮъщшзыььызыьвввжутсрряярсууусррррсссяонояряяооннммллммллллммкккклкййгггхгффефеееддфхйииклйиигцаабаааю©©©╬╪╪╫©©©абцббабббаааааю╬╫╪╪╪╪╪╫╬╪╪╫╪╨╩╧╤╡╞╝╞╠╢Ё╠╟╝╙╓÷°⌡ ≤√∙■■▒▌█▀┤├┤┘┬┘│}zyyx||─┐┌┌┐│┌┌└┬▀▀┼┴▄██▄▄▌▐░▌█▀┤┐┐┤┼┴┬┤┬┴┼▀▀▄▀┴┤┘└┘┤┘├┤├├└┐│|yxxxy{}──}|~}{|}┌└└┘┤┤▄░▒▒▓∙≤÷÷═╒╒║·² °÷╒╔╕╕╕╖╖╖╘╙╙╙╙╚╚╛╝╝╜╞╢╧©цдецдхляжвжусяннмммоясялгедцббааю©╬╬╬╬╩╨╧╦╦╥╤╣╢Ё╡╡╡╠╞╛╝╜╛╚╚╙╗╖╖╖╕╕╔╓╓ё╒║═÷·²°°  ≥≈≈≈√■■▒░▐█▀┼▀┬┤┘└┐┌│}|{xurqpmljhfda_\ZVSPNMLKIHEDCD( "$'(*,,-/023569:<=?ADEEGJLMOQSVWYYY[_begiklnqstvwx|}┌┌┐┘├┤┴┼▀▄█▐▒▓▓■∙∙≈≤≤⌡⌡⌡·÷÷║╒ёёё╒╒ё╔╔╔╕╖╘╙╚╛╜╝╞╟╟╠╠╠╟╠╠╠╠╣╣╣╢╣╦╧╧╧╪адфгххфхфегггймлллхб╪╦╣╡╟╞╜╚╙╙╜╝╙ёё╗╚╙╘╖╔╔╕╕╓╒║╒╓╓ё║═══÷÷÷·²÷╒ё÷≥■▓▒▒░■■∙⌠░█┼┴┬┴┴┤┘└┐─│~|zxz}}┌┐┬┬┘▀▒▐▌▄┴├┐┌││~}zxxyxuwvvwy{||{|{|┐┐─~││─}┐┘┌~|}~}||zxtrpmlkjmstsqmkkihlv~└├┴▀▄▐▓▒▐▄┴┤├┤▀┼┬┤┤┘─zuxzyz|~xvttwyyywvutttuuonkmsuttpvwvurppty|xqkhfggmopsrw│┼▌▐█┼▌▄┼┼▀█▐▌▄▀▀▀▄█░▓⌠■√∙√≥°°·÷║╓╕╔╓╕╕╔╔╖╘╚╜╟╢╥╥╥╤╤╦╪╪╩╫©бцбабцеффгиййймлкмоонмннооооярстужжвьзыззшщчЮЮАААБББЦЦБББЦЦДЕЕЦЦББББББДБААЦДЦАААБЦЦБАЮББББББББЦДЕФГФЕЕФЕЕЕФФФЕФЕДДЕФЕЕФФФФФФФФФФФФФФФФФГГХХГФЕЕЕФФЕЕЕЕЕЕДЦАъэзыьвьыыьвввжжутсрсрррсттттсрярсттпоноярряпппонннмллллллммллкклкйифггххгеегфеееефикийклйххгеццбаааю©©ю©╬╬©©╬╬©абббааббаааббю╬╪╪╩╩╩╪╫╫╩╨╩╨╦╨╨╦╢╞╝╟╡Ё╡╡╡╟╛╕║··²⌡≤√∙■▒█▀┴┘├┤├├┴┘}z}─~yy~└├┤├┐└┌└┴▄▀┴┬▌▐▐▄▄█▌▐█▐█┤─~┐┬▀┼┴┴┼┼┼┴┼┴┤└┐┐┘├┘└┘┘└┐┌┌│}zxxxy{|~~}~│─}}~─└├┘├┬┤▄▒▓▓■∙∙⌡²·÷····²²·÷║ё╕╖╖╕╖╚╚╘╘╚╛╙╙╜╝╜╝╡╣╫бцдццгйпжвусряоонмлмпрялгедцббюю©©╬╬╬╬╩╨╧╧╦╦╤╤╣╢ЁЁЁ╡╞╜╛╛╛╛╚╙╗╕╖╖╕╕╔╓ёё╒║═÷·²°⌡≥ ≥≈≈≈√⌠■▓░▐█┼┼▀┤├┘└┐│─{{zwspookjihgdb`\YURONMLKIGEDCE(!"'')*+,.0134669<>>@CEDFIKLNPQTVXYZ[^`cfhikorsuuvy}──┌┐┘┤┬┴┼▀▄█▌▐▒⌠∙√∙√≈≥⌡²·÷·═╒╒║║║╒╔╔╔╔╕╖╖╗╙╚╛╜╝╝╞╞╞╟╟╟╟╟╠╡ЁЁ╢╢╤╥╦╦╨╪юфхгфггггффгийммнлг©╦╤╢╡╟╝╛╙╗╖╚╜╜╖╓╙╜╙╗╖╕╔╔╔╔ё║╒╓╔╓╒║═÷÷÷÷·°·║ё·≥∙▒▐░▓■⌠⌠▓▌┴┬┴┬┤├┘┐││┌~~}zxz}└└┬┬┤▐∙▒░┼├┘└│|}{vuvurrvy{{z{}{}}~┌├┘┌││───~|{~│┐─|yyz{}|z|ztqnnihmmnuutnhhikpy─┤┼▀█░▓▓▐█▀┬┘├┴├┬┴┤┘┌{tvxyx{─}wuvzzutvxurnouwqlkklpuxxux|zrorsxz{xrkfdfmppuxyz├▀▐▒▒▓⌠▓░░▒▒▐██▐█▄█░∙≈√■∙∙√≤ °·÷ё╓╕╖╖╕╕╖╖╘╚╝╟Ё╤╦╥╥╤╥╧╩╪╪╪©аю©адедегхийкклклмнмнооонннпяряяртжьзшышээъААъАААБЦДДЕЦЦЦДДДДДБЦЕДБАЦДЦЦДЦЦБЦЦББББББАААБЦЦЦБББЕЕФФФГГГЕФФФГГФФЕЕЕГГФЕЕГГГФФФГГФФГХХХГГГГГГФФФФЕФФФФЕДДАБЦБЮщшзшззыььььвжутссссссрсстттсряяррррппопярррппоннмллнмлкклмнккйкмлйхихгггггфдеедцдфхййкккйхгфдббцддд©абю╬╪╫╬╬юю╬╫╬©©юббююююцца©╬╪╩╩╩╩╫╫╪╩╩╨╨╨╨╥╢╡Ё╢╢╢╡╟╞╞╝╘ё·÷═²≈⌠▒▒▓▐▄┴├┘┤┴┤┤┘┌──}}┐┤┴┬┤├├┤┴▄█▀┬▌▌▐░░▌█▌▌▌▀┘─┌┘┴┼┼┼┴┬┴┴▀██┴┐──┌─┐┤├┘┤├│─}zxxz|}~}}}}~|─┐┌┘▀┼┤▄▐▐▌░▓⌠√≤ ⌡°²═║║ё╒╒ёё╒╓╔╕╖╗╘╙╚╚╗╘╙╛╜╝╝╝╣╫аацдцейпууууспомлмооопомиецддцаю©ю©╫╫╬╩╨╧╦╥╥╥╥╤╢Ё╡╡╠╝╛╜╛╚╛╚╘╖╕╖╖╕╔╔╓╓╓╒║══÷·° ⌡ ≥≈√∙∙■▓▒▐▌█▄▀┼├├┘┐┌─~~~zwtsromljhhfb__[XURPNLKIHGECBC% "&&)*+,.012457:=>>?ADEFIKLNOQSUWXY[]_behiknqstvxz|~─┌┐┘├┤┴┼▀▄█▌░▒⌠■■√≈≤≥ °²²²÷║╒║║╒ё╔╔╔╕╕╖╗╗╘╙╚╛╜╝╝╝╝╞╟╟╟╟╠╡╠╡Ё╣╤╤╥╥╧╩юфхгффггггггийкклкф©╧╤╢╡╞╜╚╙╗╖╚╚╛╙╘╜╜╗╖╕╕╕╔╓╒══╒ёё╒╒║║║·²····÷═· √⌠▓⌠∙■▓▒▐▀┤├┤├└┐┐┌──}|{{zz|┘┘┴┬├▄▓░▐┼┘┌─~|{yzyusttrruyyyxz|─│┌└├├┘┐┌│─~}}}┌┌│}xuvy{}{y{{wunokimllppqpnmkpy─└┬▀▌░▒▒▌▄┼┬├┘┤┴┘├┬┬┘~ywxz{{|}|zxvwyxustrnmnqvvollkkotwxvwzwpnsuuvvsmiffhosty|||┬▄▒⌠∙≈≤≈√∙■⌠▒▌▄██▌▐▓■∙√√∙√√≤ ²═║╒╓╕╖╗╘╙╙╙╚╝╟╡╢╤╦╧╦╥╦╨╩╪╪╪©юююбдддфхиийккллмоонноооноопяяррстжьызшэщщъЮЮчАААБЦЦДДЦЦЦЦДДДДБЦДДББЦДБЦЦЦБББЦЦЦЦЦЦЦБББЦДДДЦЦЦЕЕФФФФФФФФГГГГГГГФЕФФЕЕФГГГГГФФФФФГГХХГГГФФФФФФФЕФФФЕЕДДБЦБАъщэшшзыыььвввжутсссстсрссттссряяррссяяппяяяяппонннмлммлкллннлкккллйххххгфффгееедцдфхийкккйххедцбццдцюююю©╬╫╫╬юю©©©╬╫╫юаюаююббаю©©╬╫╪╩╪╫╪╨╨╨╧╧╦╢╠╟╡╢Ё╡╠╟╝╝╝╚╗ё╒÷°≈■▓▒■⌠░▄┬┤┬┼┬┴┬└┌││─┌┘┤┤┤┤┬┴┼┼┼┴┬┼█░▓▒░▌▄▌█▀┤└┌┐├┼┼┼┼┴┼┼┼▐▐▄├─}}──││──┘├──~}{{|}~~}|}~┌│┌┌│┌┘┘┤▀█▄▄▌▒▓■■∙≈⌡·═║║╓ёё╔╓ё╔╓╓╔╕╘╚╛╜╗╘╙╛╝╝╝╝╣╪абддцдйпуууусппнмнннноомиецдцба©©©╬╫╪╫╩╨╧╥╥╤╤╤╣╢╡╡╡╠╞╜╝╛╛╛╛╘╖╕╖╖╕╔╓╓ёё╒║══÷·° ⌡ ≥≈√∙∙∙▓▒▐▌█▄▀┼┤├┘┐┌─~}{ywusrqplihgeb_^[YURQPMLJHGDCAC&!%&)*+-./12458:=>>?ACEFHJLNOQSUWXXZ\^behijnqrsvyzz{~││┐└├┤┬┼▄▀▄▌░▓⌠⌠⌠√≈≤≥ ⌡°²²·═║║║╒ё╔╔╔╕╕╖╗╘╘╙╚╛╜╜╝╝╝╞╞╟╟╟╠╡╠╡Ё╢╤╤╤╤╦╩афхгеефггггхйкййкйе╬╦╣╡╠╞╛╚╘╖╕╗╗╚╜╝╞╛╕╔╔╕╖╕╓╒══║║║║║╒ё║·°²÷═·²²·°≈⌠■∙∙⌠▒▌┼├┐└├└│───~}|zxwxy{┌├┤┴┬├┼▐▐▄┴└~{zyxvxxtrrrqrtwwuvy|──┌┐└┐└├┌┌│~~┐│|xtuy|}{xzzwwopkikllnlmnrusw─├┤┴▀▌░▐▄┼┴├┌┌└┘┘└┘┤┬┐|xz{{|~}zvtwwwwwvtqmijnsvtmkkkjlpuxwvvsmmqssrpmigghkrvx}│┌└▌▓√≤⌡²²°≤≈√√⌠░▐▐▌░⌠■⌠■≈≥≥≥≥ ⌡·║╒ё╕╖╗╘╛╜╛╛╝╟╡╡Ё╤╦╨╧╧╧╨╩╪╪╪╬юабдддефхиййккллмпяпопнооппяяясттужвьышэщщчЮъчЮААББЦЦДДЦЦЦЦДДЕЦЦЦЦЦЦЦЦББЦББАББЦЦЦЦЦЦБББЦДДДЦЦДЕЕЕФФФФФГГГГХХГГХГФФФЕФГФФГГГФФЕЕФФГГГГГГФЕФГГФФФФФЕЕЕДДДЦАЮъчщэшзыььвввжжутсссстссссссссряярссссряяяяпппоононнммллллмнолккклкйхииигффгхфффецдфхиийккйихедцццццббю©©юю╫╩╬юаюю©╫╨╧╫©юба©абаюаба©╫╪╫╫╪╩╨╨╦╨╦╢╠╠Ё╢╢╟╠╟╝╜╜╜╛╗╔═°≥≈■⌠▓⌠░▀┤┬┴┴┼▀▀┬├└┌─┐┌┌┌└┘├├┤┴┼┼┬├┤┬┤▄░▒▒▓░█▐█▄▀┬┘└├┴┴┼┴┴┴┴┼▌█▀├─||}~}}┘┬┐~─│─}||{z{}│┐┌│┐┐└┤┴┴┴┬┴█░▓▓▒░■ ·═║╒╓╓╓╔ё╒╓╓╓ё╔╗╙╛╛╗╘╚╜╝╞╞╞╢╩юбеецдхотутсряпоннмлмоонйецццаю©╬╬╬╪╩╪╨╨╧╥╤╤╣╣╢Ё╡╡╡╠╞╝╝╜╛╜╛╘╖╖╖╕╕╔╓ёё╒╒║═÷·²⌡   ≥≈√√∙∙▓░▐▌█▄▀┼┤├┘└┌─~}zzxvtrrrligfda_^\YTRRQOLJHFCBAB& %&)*,-.0124569;=>@BDEFHJKMOPSTVWXY\^begijmpqtvyyyz~││┌└┘┤┴┼▄▄█▌▐▒▓⌠⌠∙√≈≥⌡°··°·÷═║║╒ё╓╔╔╔╕╖╗╗╙╙╚╛╜╝╝╝╜╝╞╟╟╠╠╡╡╡Ё╢╣╤╥╥╦╪бгхгееффгггхйлкккиц╪╤Ё╠╟╜╚╙╗╕╔╔╔╚╠╠╞╙╓╔╔╕╖╖╔ё╒══║║║║║╒║÷²·══÷°⌡÷·≤■■■⌠▓▐▀├┐┌└┤┐│──~{ywuuvz}│└┤┤┬┬┬┼▄▄┴┤┌{xyywvxxurrrrqstsrtx|~┌┐┌┐┘────│┌│─}{{{xuvz~{xywuuqpkhjmoomnnt}─│└┤┤┬┴▀▀┴├├┘│}}─│─┘┘├┘│}{||{}─~vqpsuwwxxtomikprspkjlkjkouxyvtqkknnqnkiijkkouy|│┤▀▐≈≥°²÷═÷² ≥≥≤∙▒░▓▒⌠∙∙∙√≥⌡·²²°°·║╒╔╗╘╗╘╜╝╜╛╞╠╡╡Ё╣╥╨╨╧╨╨╪╪╫╫╬юбдеедфгхийййкклняяпоонопяяяряттужввьышэщщчъъъЮЮАББЦЦЦДЦЦБЦЦДЕДЦБЦЦДЦББЦЦББАБББББЦББББАБЦЦЦЦЦЦЕЕЕФФФФФГГГХХГГГХГФГФЕФГЕФГГГФЕЕЕФФГГГГГГФЕФГХГФФЕЕЕЕЕДДЕЦАЮъъщэшзыьввввжутсссссутсссссррряярссссряяяяпооонннннмммлллммнллккккихийихфегифффдцдегхиййййихеедццббаба©©юю╬╪©©ю©ю©╪╦╦╪╬©аю╬юаююацц©╪╫©©╫╪╪╨╧╨╦╤Ё╡╢╢Ё╟╟╟╝╜╜╛╚╙╖ё÷⌡≥≈√░▓▐┬┘┬▀▀▄█▄┼┬├└┌┘├┤├└┐└┘├┤┬┬├└┘├├▄▐▌░⌠⌠▒▓▐█▌█┬┘┘┘┬▀┼┤┘├┬┴┴┴┤┐}|}{{|─┤┬┐}┌┐└┐┐┌─}|~}yz}}│──└┘┘┼┼┬├┘┤▀▐▒▓░░⌠≤°÷║ё╔╓ёё║║ё╖╕╓╓╕╘╙╙╗╘╚╜╝╞╟╟Ё╨©бфеццфмрсрряппоннмкмоонйецббаю©╬╬╫╩╨╩╨╨╧╦╤╤╣╣╢Ё╡╡╡╠╞╝╝╛╛╛╚╘╖╖╖╕╕╔╓ё╒╒╒║═÷·°⌡ ≥≥≤≈√√∙∙▒░▌██▄▀┼┤├┘└┌~||{yvsqpokigeca_^\XSRRROLJHFCA@B% %&)*,-/0124668;=>@BCEFGIJLNPRTVWXY\^aeghjmpqtuvxy{}│┌└├┤┴┼▀███▌▐▒⌠■√√≈≥⌡°··°²·══║╒ё╓╓╓╔╕╖╗╗╘╙╚╛╜╝╝╝╜╝╟╟╟╠╠╡ЁЁЁЁ╢╤╥╧╦╫цгхгееффгггийллккхц╩╣Ё╟╞╛╙╘╖╔╓╒╓╜Ё╡╜╘╔╖╕╕╕╔ё╒╒══║║║══÷══════÷² ÷÷ √∙■▒░▌┴└┌┐├┬┘│──~zwvuuw{~┌┘┤┤┤┴▄▀┴┬┘┐yvwvsuwxvttuvpqqqqty}─~~┌┘└└┘~─│└┘│|xvuuutw{~}zzwturomllnpoptuw│┴┴┬├┤┬┬┤┤└┌|yz}~|┌└┌~││}}{}─}uooptwxxwsmmknponmkklmlmqvz}wrmhilllhfhlppot{│┘┼▌▒∙⌡²÷═÷÷·²²··⌡∙▐▐▒∙∙∙∙√≤ ⌡÷÷··²÷║╓╕╗╘╗╙╝╟╞╝╟╡╢╢╢╤╦╧╧╧╨╩╪╫╬╬╬юбдееефгииййййклнярпоонопяррррстужвьыышшэщччъЮЮЮАБББББДЦЦББЦДЕДЦББДДЦББЦЦЦБББББББЦЦБББАБЦЦЦЦЦДЕЕЕФФФФФГГГГГГГФХГГХХФЕФЕФГГГФЕЕФФФГГГГФГФФФГХГГФЕЕЕЕДДДДБАЮЮъщшшзыьввжжжутстттсутсссссрряяярсссрряяяяпоонмнннммнмммммммлллккйиххиигеефхефедццегхийййиххееедббааааюю©©╬╫©©©╬╬╬╩╦╧╪╪╪╬╬╬юа©©юбб╬╩╬©©╫╪╪╨╦╦╦╥╢Ё╡╠╟╞╝╜╜╝╝╛╘╖╕╓║² ≥≥⌠■░┤└┤▄▌▐▐█┼┬┬├┘└┤┼┼├┐┐┐┐┌┐├┤├┘├┤▄▌▌░■∙⌠⌠░▐░▐▄┬┤┐┬█▀├┌└┤├├├├└┌~zwwy}└├┌~─┐┘┘┘├├┐──┌│}{}}│──└└└┬┴┤┐┐┘┴█░▓▒▓∙≈≥²║╔╖╔╒║══ё╘╖╔╓╕╖╘╙╘╙╛╜╜╝╟╠Ё╦╫бффцдфкясрряяонннлкмоонкфббаюю©╬©╬╩╨╩╩╨╧╦╥╤╣╣╢Ё╡╡╠╟╝╜╜╛╛╛╙╗╖╖╖╖╕╔╓ё╒╒║║═÷²°  ≥≥≤≈√∙∙■▒░▌█▄▄▀┼┤├├└┌─}|}zwusqnlkigdb`^][WRQQQNKJGEBA@B%$%(*,-./024679;=>?ABEFGHIKNPRSUWXY\^adghilopsstvy{}~─┌└├┤┬┴┼██▄█▐▒⌠∙≈≈≤≥ ⌡°²²²·÷═║║╒ёё╓╔╔╖╖╗╗╘╙╚╛╜╜╜╜╝╟╟╟╟╠╠ЁЁЁЁ╢╤╥╧╦╬дгггфефффггхйлкййгб╨╣Ё╟╝╛╘╗╕╓╒ё╖╞╢╟╛╙╗╗╕╔╔ё═÷║══÷══÷·²÷║╒║══÷· ·═²≥≈■▒█▀┤┐│└┤┬└│}ywvvwz}┌┘┬┴┬┼█┴└└│~zvutqnstuuuvxyppooquz~─┌┘┘┐┌─││┌┌}wxvrpqty}}~}|{xvxropqnnpopz}{─┬┼┴├┴┼┬├└│xyxxy|}|~─~{~┘┘~||}ztpqotxxwuojllnnkklkhklmnrwyvnhehlmhgglrwxx~├▄▒■⌠▓∙ ·══÷÷÷··÷÷²≈▓▓∙√∙∙∙≤ ⌡⌡·÷÷÷÷║╓╕╗╗╗╘╛╞╠╡╠╡╢╤╤╥╦╧╧╧╨╩╩╪╬©©©ацдееффгиййййкллняяпнооопррсссстужьыызшшэчччъАЮЮАБББББДЦЦЦЦЦЦДДЦБЦЦДЦББЦЦЦБББЦЦЦЦЦДЦЦЦЦЦДДЦЦДДЕЕФФГГГГФГГГГГФФГФГХХФЕФФФГГГФФЕГГГГГФФФГГГГГГГГФЕЕЕДДДДЦБААЮчщэшззыьввжжутстуттуутсттссрряррссряяяяяяпоннммннмлнннмммлллллккйихгггфедефееедццегииийиихгффецбаюа©юаю©╬╬╬©©©╫╫╫╩╧╨╩╨╧╪╪╫©ю©╬©юю╬╩╫╬╫╪╩╩╨╦╦╧╨╥╢╡╠╟╝╜╚╛╞╟╜╗ёёё║·⌡  ≤≈▒┬┐├▀▐░▐█┼┴┴┬┤└┤┼▄▀┬└┌│─┘┴┴┬┬┴▄▐▐▒⌠■⌠▒░▐▐░░█▄┘▀▐▄┘─┐┤┬├└┐┌┌│─|wuw{┌├┐│┌└├┤┤┬┴┘┐┐└┐}}~│┌┐├├├┬┤└┌│┐├┼█▒▒⌠∙∙∙ ═╕╗╕ё╒══╓╖╕╔╓╔╖╘╚╙╚╛╛╛╝╟╡╢╥╩юефдфгкпсссррнммммлмоонкфбааю©╬╬©╬╪╩╩╩╨╧╦╥╤╣╣╢Ё╡╠╟╞╝╜╛╚╚╚╘╖╕╖╕╕╕╔╓ё╒╒║║═÷²⌡  ≤≤≤≈√∙■⌠▒░▌█▄▀┼┴├├┘└┌─~|{xussqnkjigda`][YUQPPOLJIFEBA@B%#$()+,-.024678:<>?ABEEFGHJMOPRTVWY\^`cfgiknopqsvy{}}│└├┤┬┬┬▄▄▄█▐▒⌠■√≈≤≥ ⌡⌡°²··÷÷══║ё╓╓╔╕╖╗╗╗╘╙╚╛╛╜╜╜╝╞╟╟╞╟╟╠╡Ё╢╣╤╥╥╦╬дффффеффффгхйклкига╧╢╡╟╝╚╘╖╔╒║╓╘╟╡╝╚╚╘╖╔╓╓╒÷·═÷·²²²²²°÷║╒║══÷²°·÷÷⌡√▓▐┼┴├┌│┐├├│}}}{xwuwz}─┐├┼▄▀▀▀┐~│}yuuusolrqqrsuwxrpoorv{}│┌┌┐┐┐─}~││~}}zvywsnpv{}{||{zwvztnornmqts}│┌├┬┬┤┴┴┬┘┌~zuvxz{{{|~}│┘└}|zyuqpqoswxvrnkmmnlikmjfilnquxy}umjjnrrmnrvz~│┐┬▐∙≤≥√⌠∙ ·╒╒══║╒═÷÷·⌡≤≈≥≤≈≈≤ °²²═║╒ёё╔╗╙╚╗╗╚╝╞╠╢╢╢╣╥╧╧╧╧╨╩╩╪╪╫╬юююбдддехгхйкккллммняяоноппяррсттттувььыыээщъъчъАЮААБЦЦББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦББЦББАББЦЦЦДДДЦЦЦДДДЦЦДДДЕФФГХХХГГГГГФФФГФФГГФФГГГГГГФФФХХГГГФФФФГГГФЕФГФЕЕДДДДДЦБАЮчщщщшшзыьввжвуттужутжуттттттрррррсрряяппяпононнмннмлммннммллллккйиииффгффеедееедцдфхиииииххггфецаююа╬©юю©╬╬©╬©©╬╫╫╪╩╧╧╥╤╧╩╪©©©╬╬╬╬╬╫╫╫╫╪╩╩╨╥╥╨╩╦╢╡╡╡╟╝╚╚╝╞╜╗ё╒║═·²°⌡ ≤▓┼┘┘┼▐▐▐█▀┼▀┼┬├├┬█▒░┴┐─~─┤▄█▄▄▌▌▐▐▐░▒▓▒▓░▌▐▓▒▐▀▌▐▀└─┌├┬├┐││┌│}yxz}┐├┐┐└├┤┬┴┴┼┤├└┐┌─}|~┐├├┤┴┬┐│──│┌┘┴██░▓▓▓≈²╓╖╖╓╓║║╓╓╔╔╓╓╕╘╛╛╛╛╚╚╛╟Ё╢╤╧╬ефехгйнртсряомллмлмнннкфбааю©╬╬©╬╪╩╩╨╨╧╦╥╤╣╢╡╡╠╟╞╝╝╜╛╚╚╚╘╕╕╖╔╔╔╔╓ё╒╒═══·°⌡⌡⌡≤≤≈√∙■⌠▓▒░▌█▄▀┼┴├├┘└┌─~}yxusrpmlhhfca_\YXUQONMKJGFDBA@A%#$'(++-./145569<>@BDDEFFHJMOOQTUVX[^_befhjmnnpsvxz|~~─┐├┤┤┤┤┼▀▄▌░▓⌠■∙∙√≤≥⌡°²····÷═══╓╓╓╔╕╖╗╘╘╘╙╚╛╜╜╝╛╜╞╞╞╞╞╞╟╠Ё╣╤╤╤╣╦╬дееееефффффхикмлйфю╦╡╟╟╝╚╗╕╓╒═╕╘╞╞╚╚╚╗╓ёё╔ё══╒÷²⌡⌡⌡°°°÷═║═║║÷⌡²·÷÷⌡■▌▀┬┤┘│─┐└┐|{{{ywwuw{││┐├▄▐█▀┬~y─zuruwtolrpooprsutqoorw{|┌┘┤┘┐┌{}──|yyyxuvsnpw{zz{zyxuuzummpllu{{│┐┬┼┬├┤┬┬├└─{vvvy||zz|┌│─┌└└┌|zxtqoopnquwtpnnooolilmhgjnquy{|}vrrtx{xux}─│┐┤▀▐∙≤≥≤∙■≤⌡═╔╓╒╒╓╔╔ё║═·⌡≥≤≥  ⌡°·÷═ё╓╕╕╕╖╙╛╝╙╘╛╝╝╞Ё╤╣╤╥╧╨╧╦╩╪╫╪╪╫╬ююабддцеигийклллмннояяоноппяярстттужвььььчщчЮъчъАЮАББЦЦББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦАБББАААББББЦЦЦЦЦЦЦЦЦЦБЦЦДЕФГГХХХГГГГГГФФХФФФФФФХГГГФФФГГИХХГГФФФЕФХГЕДЕГФЕЕДДДДДЦЦАъщэщъэшзыьввввуттужжужуттууутсрррссряряяпппнмооннннмлмммнннммккккйиииггггггедееедддфхииииихггггецю©юа╬╬©©©©©╬╫©ю©╬╫╫╪╥╦╤╣╦╨╩╬©╬╬╫╫╬©©╬╬╫╪╪╪╩╦╤╧╨╥╡╟╡ЁЁ╟╜╚╛╜╚╗╔╒═÷═÷²⌡⌡≤⌠█┬┤▄▓▐▌█▀▀▄▀┴┴├┤▌≈≈▐├┌┼▐▐▌▐⌠▒▌█▄█░⌠▓■▓█▌▓⌠░▐▐▌┬┌─┌├┘┐┌┌┐┌─}{yz}┐┘│└┘┤┴┼┼┼┼┼┴├┐┌│}}┐├┐└┘┌│───┌├┼┼▄░▒▒∙⌡║╔╕╔╓╒═ё╓╔╔╔╓╔╗╚╜╜╛╚╙╛╟Ё╣╤╦╫дффигхлпссяппнллмллмннкфбааю╬╫╬╬╬╪╩╩╨╨╧╦╤╣╢Ё╠╠╟╟╞╝╝╝╛╚╚╚╘╕╕╖╔╔╓╓ёё╒║═══·°⌡⌡⌡≤≤≈√∙⌠▓▒▒░▌█▄▀┴┬├├┘└┌─~}xxwtqnllggeb`^[XWUROMLJIFEDBB@A$!"&')*,.0135569<??ADCDEFHJLMNQTVVXZ\_bdfhknnqrtvxz||~─┌└┘┤┬┴┼▄▌▐░▒⌠■∙√≈≤≥⌡°°····÷═║╒╔╔╓╓╔╕╖╗╗╘╘╗╙╜╝╜╝╜╝╟╠╟╞╞╞╠Ё╣╣╣╣╣╤©дффецеееефхийймкхд©╧Ё╞╝╚╘╗╖╓╓╔╙╚╜╝╛╙╗╖╓╓ё╒║║║║·⌡  ⌡⌡⌡⌡·÷·÷ёё══°·║║°■▌▄┬├┘└┐┌┌┐}|zwx{{xw|┌└││├┼▌░┴─||}xvyytpqrqpppnnoqsrrwzz{┘┴├┐│─~~}zx{|xtqoqtvy{{}xuttvqnkjov{}─┐┘└┘┬┬├┴┼┼┘zwts{{x{|yz{~}┌┌~ywtrpoonrsronpqpqsvwvtsrquxz┘├└┌│─│┐┌─│└┘├┴█▒▒⌠√≥≥√√≤÷ё╖╕╓╓╕╗╔╔╓╒÷°⌡²⌡⌡°÷══║╓ё╔╗╗╙╛╝╞╞╞╠╠╞╜╞╡╡╦╪╩╧╨╨╦╧╩╫©©©юаббццддфгефгхкммклмннояяпярссссттвжжвызыьшщъЮЮъъЮЮЮЮААБББЦЦЦЦЦЦЦБАБДЕЕДБББББЦЦБББЦЦЦЦЦДДДДЦЦЦЦЦДДЕЕФФГГГГГГГГГГГГГГФФГХГФГГФФФФФГГГХХХГФЕГГФФГГГФЕЕЕЕЕЕЕЕЦБЮъъччщчэзььвжуужвжуттужуттууутрсттрррссрряяяпооонннннойкмнонммикллйххиихгфггфефггфеегиийййихфефедедбаюю╬╬©©╬╫©©ююю╬╪╩╩╤╤╤╥╥╦╩╬╪╬©╬╬©©╬╬╬╬╫╫╫╨╥╥╥╥╣Ё╠╟╠╟╡╡╝╚╚╙╙╕╒·²·÷·²°√√∙█┴▄▄███▄█▌█┼├┬▄⌠≈≈⌠░├│┌┴▄┼▄▓▌▓▒▌▐▐▐▓▒■⌠░▌▌▌▀▌▄┴┤├┘┐┌┌│─┌┐┐│}}}~┐┘┤┤┴▄▄┼▄┼┤┘┐─~}|~┌┘┘┐┌┐─~~}}─┐┤┼███▒√⌡·═ё╖╕ё╒ё║ё╔╕╔╔╘╞╠╝╙╘╙╝╠ЁЁ╤╨╫афииййкмпряпннмллллллнлфаааюю©╫╪╩╩╨╧╩╧╥╤╤╣Ё╠ЁЁ╠╝╝╞╞╜╛╛╚╙╗╖╕╕ё╓╔╔ё╒║║══÷··²⌡  ≥≈√∙■⌠▓░▐▄┼┴┴┬┤┘├┘┌──}yxusqomlhfc`^\ZXVSPNMLJHFCAAA@A%!"&&)*,./134568<>?ACCDFGIJLNOQTVWX[\_befhlnnqrsuxz{|~─┌└├┤┬┴┼▀█▐░▒▓⌠∙∙√≤≥ ⌡°····═║╒ё╓╓╓╓╔╕╖╗╗╘╙╘╙╛╝╝╜╜╝╟╟╝╝╝╟╠Ё╢╣╣╣╣╤©дефдцеееффхийййхеб╬╧Ё╞╝╚╘╗╕╓╔╕╛╛╛╜╜╚╖╓ё╓╓ё╒║║║·⌡≥   ≥≥·═║║ё╒÷═÷÷══°■▌▀┬┬┤┘└┌─}{ywy{{z┌┘┘│~─└▀█▄┘}xwxyvuwyvsrpooppnnnotwx|}{|│├┬┘┌│|{zzwuxytrpopqsvx{─zwusttokkqy┐│└┘└┘┤├┐├┬┬└zwtu{zx{{xyz{{z|~}zutrqrsssuxxtruww|}~~}}~┌┘┤┼▌▐▄▀▀┴┤┬┼┴┤┘┤┼▀▀▄░⌠∙√≥°°  °÷╓╖╕╔╔╖╗╕╔╓ё║÷÷══÷═║╒║ё╔╓╕╗╘╙╜╞╟╠╡╡Ё╡╠╡╢╢╨╫╪╨╩╩╧╨╪╬юабцдабцддееффгхикллклмнмоппоярсстттужжвьыыыыщчъъъЮЮААААААБББЦЦЦЦЦЦБББЦЦДДЦЦББББЦББББББББББББЦЦЦЦЦДЕЕЕЕФФГГГГФФФФФФФФГФФФГГГФГГГФФФФФГГГГГГФФГФФФГГГФЕЕЕЕЕЕЕЕЦБЮъъччщщшзьььвжжжжжутуууууттттурсссрррсрряяяппомнннннннллмннмллйкллйихиихгггффеффеееегххиииихгффдддда©©©╬╫╬╬╫╫╬©юаю╬╫╩╩╥╤╤╥╥╥╨╪╫©ю©╬╬╬╫╫╬╬╫╪╪╨╥╥╤╣╢Ё╡╠╟╞╟╟╝╜╜╛╙╖╓÷°°·÷÷²≤≤≈▐▀▄▄▀▄█▄▄█▌▌┤┴█⌠≈∙▒▐┼├├┼▀┴▄▓░⌠▒▌█▄▄▌█░▒▌▄█▄┼▀┴┤┘┘┘└┐┌││┌┐┐│~~│┌┌┌┌┐└┘┬▀▄▀┬┤┘┐│~~~│┐┐│─││~||}}│└┤┴┼█⌠≤ ⌡°÷ё╓ёё╓║╒╓╕╕╖╘╜╜╛╙╘╚╝╟╠╡╤╧╪©цгхииймпряпннмлкллмлнмфаааю©╬╪╪╪╪╩╨╧╦╤╤╤╤╢Ё╡╡╟╝╝╞╝╜╚╚╚╙╘╖╕╕╓╔╔╓ё╒╒╒═÷··²°⌡  ≤√∙■⌠▓▒░▌▄┼┴┬┤┤┘├└┌─~|ywurpnlkhfdb`^[XTROMLKJHFCAAA?A% !%&)*,-/023568;=>@BDEGHJKMOPRTVWY[\^adfhkmnpqsuwy{|~┌└┘┤┬┴┼▀█▐░▒▓⌠■∙√≈≥ ⌡°·²²·═╒╒╒ёё╓╔╔╕╖╖╗╙╚╙╙╚╜╝╜╜╞╟╞╜╜╞╠╡Ё╢╢╢╣╤╥©цддцбееффггхийифцю╫╧╡╜╝╚╘╖╔╓╕╘╞╜╚╛╜╚╖╒╒ёёё╒══║÷²⌡⌡°⌡  ²║╒ё╓╒÷═╒÷²²°√▐┼┼▀┴┘┌┌─~}{z|}}||┌┌└└┌│┐┤▀▀┤─ytsrvuuwyyvsnmmnnllmmtyz||{}┐├├┐─}zwvvtruvsqonnnoruy~|yurtvpnqx}│┘┌└┘┐┐┘┘┐└├┤┘│}yvuwvvyxvwvvwz}}zqppqtwyz{│}{|─┌┘└└└┘├├├┤▀▌░⌠∙■▓■⌠▒▐▐░▐██▐▒▒▒▓■√≈≤ °°°²÷║╓╖╖╖╖╗╖╖╔╓ё╒══╒ё╒╒ёё╒╓╕╔╖╗╘╙╝╟╠╡╠╠ЁЁ╡Ё╢╣╨╫╪╩╪╪╩╩╪╫©юабцабцдееефгиийкллйммммнпонпяссттужжвьыыыызчъъъъЮАБААААААААДДДЦЦЦББЦЦЦЦЦЦЦЦББББББААБББББББББББЦДЕЕФДЕЕФГГГГГГФФФФФФГФФФГГГГГГГФФФФФГГГГГГГФГФФФФГФФЕЕЕЕЕЕЕДЦБЮъъччщэшзыыьььжжжуттужтужусрсурряррррряяппппоолммнннммнннмллккллллкйихихгггффффеддеффггхиииихгфдддца©©╬╫╫╬╬╫╫╬юааю©╫╩╩╧╥╥╥╥╥╦╩╪©ю╬╪╪╪╪╫╬╫╪╪╩╨╥╤╣╢Ё╢Ё╠╟╟╞╞╝╞╟╝╚╗╔║·²²··²≥≥≥▓█▄▄█▐▌▀┼▀█▌▀▀▐√√▓░░▐███┼┬▀░▓∙▓▌█▄┼▄┬▀█▀▀▄▄┼┬├┘└└└└┘┌││┌┐┌│~|{|~│┌┌│┌┐└├┴┼┴┤┤├└│─│───}{{}}~│└┘├▄⌠≤≤≤≤≥·╒╓╔╔║╒ё╕╖╗╙╛╚╚╙╚╛╝╞╟╡╤╧╩╫бфхггилояяяонлкклмнлнмгбааю©╬╫╪╪╪╩╨╨╦╥╤╤╤╢Ё╠╠╟╝╝╞╝╛╚╚╚╚╙╗╖╕╔╔╓╓╒╒║╒═÷·²²°⌡ ≥≤√■⌠▓▒░▐█▀┼┴┬┤┤├┘┐│─}{xwtrpnljgecb`]YVSQNLLKIHFCA@@>@$ !%%)*,-./12568:<>@ADEGIJLMOPRTVWXZ[]_begjlmpqrtvyz{}│┐┘├┤┬┼▀█▐░▒▓⌠⌠■∙≈≤ ⌡⌡²°°²÷║║║╒ё╓╔╔╕╕╕╖╙╚╙╘╙╛╜╜╝╞╟╝╛╜╞╠╡╡ЁЁЁ╣╤╦©цддцбееффггхиййфб©╪╦╠╚╜╚╘╕╓╔╘╛╟╝╚╙╚╙╖╓ё╒╒ёё╒═÷·°⌡°²²°°²÷═╒╔╓║║║²≥≥⌡≤▓▀▄█┼└┌┐┐─||┐┐─}|─│┌┐└└├┴┬┤┐|vsrruvwx{}zuqonmlkklnvzyyy{~┘┘└│~{yussrqtvtponmllnquz{yxtruvst{─││┌┌┐└┌┌└┘└│└├└┌|ytstvxwuuutu{─│~|sssvy}─│└┤┬┘└┘┬┼┬┬┤┬┴▀▄▄█░⌠∙≈≥≤√≥≥≈■▓▓▒░▓■√√∙√≈≤≥ ⌡°°²÷║ё╔╗╗╘╙╘╗╗╗╖╕ё═║ё╓ёё╓╓╓╕╗╕╖╗╘╚╝╠╠╡╟╟╡╢ЁЁЁ╣╦╩╩╩╪╫╪╫╫╬╬╬©юаюбдеееффхиййкллкмммнопоопясстужвжьыыыьзшчъъъъЮЮААААААБББДДДДЦБББДЦЦЦБЦЦЦББББББААДЦЦЦЦЦЦЦББЦЦДЕЕЕДЕЕФГГГГХХХГГГФФФФФГГГГГГГГГГФФФГГГФФГГГФФЕЕФФФЕЕЕДДЕЕДДЦБЮъъччщщэшзыьььвжутттужттттсррсряпярсряяпооппполммнннннпонмлкккмлллкйихххггфффффеддегггххиииххггедедаю©╬╬╬╬╬╬╬╬юююю╬╫╩╨╨╦╦╦╥╥╦╧╨╫©╫╩╩╩╩╫╬╫╪╩╩╨╦╤╤╣╣╢Ё╠╟╠╠╞╞╞╞╝╜╗╕ё╒║÷²⌡² ≥≥∙░▌▌░░▌▀┼█▐▐▌▌▓≤≈▒▐▒■∙■░▀┬┴▀▌░▐███▀▀┤┴┼┼┼▀▄▀┤├┘└└└┘┘││││││─}|zz{}─┌┌┐└├┤┤├├┬┬├┐────~~~─|{{|||}─┌┐└┴▒√√≤√√≥÷ё╔╔╒╒╒╓╕╘╙╙╛╛╛╛╜╞╞╟╡╤╧╩╫бфифгилояяяонлкклмнлнлгцаю©ю©╬╫╪╩╨╧╩╧╥╤╤╣Ё╠╠╟╞╞╞╝╜╚╚╚╚╚╙╘╖╔╓╓╔╓ё╒║══÷²°°°⌡ ≥≤√■⌠▓░▐▌█▄▀┼┴┬┤├└┌──}zxwtrpnkjfeba_\YVSQNMLKIGFCA@?=?# %%)*+,-/014689;=?ADEGHJKMNOQSUVXYZ\^begikmoprtvxz{|~│┐└┘┤┬┼▀█▐░▒▓⌠⌠■∙√≤≥ ⌡²°°²÷═║═ёё╓╔╔╔╔╓╕╘╙╘╗╙╛╜╜╝╞╟╝╜╜╞╟╠╠╡╡Ё╢╣╧юдддцбееффгггиййфб╬╪╥╠╚╛╚╗╔╔╖╚╝╞╝╚╗╖╕╖╖╔╒║ё╔╓║÷⌡≥≥⌡²²²²²··║╗╗╓╒║⌡√√≥≤▓▀┴▀┼┘└┘┘│~┌├┘│}}┌┌┐┘┘└└┘└└─ysqrrtwxz}─~ywtqonmmory}{{z|─┘└┌─~}zxrqqqquwvqonmlkmoswwutrrvxw{│├┘┌│─┌└└└┐┌│~│┐┐│|yutuwwvtrtrrw}─~~~─┐┤┴▀▄▄▀┼┼▄██▄▄█▌░▓⌠⌠√≤ ⌡°²²°°° ≈∙■■⌠∙√≤≤≤≤≥ ²²²·÷║╓╔╕╗╙╙╚╛╚╙╙╚╛╙╕ё╓╗╖╕╕╖╖╖╗╙╗╘╙╚╝╠ЁЁ╢╡╡╣╤╤╣╣╣╥╧╨╪╫╬╬©©╬╬©юааабдеффффгиййкммлмлмнппппярссттжвуьззыызээчъЮЮЮЮЮЮАААБББЦДДДДЦБББДДЦБББЦЦББББББББДДДДДЦЦЦЦЦЦДДДДДДЕЕФГГГГХХХГГГГФФФГГГГГГГГГГГГФФГГГФФГГГФЕЕЕФФФЕЕЕДДЕЕДЦЦБЮъъччщчщэзыьььвжутттужтсррссряряппярряяпооппппннмммноппонмлллмммллкйиххгггффггфедефххгииййихгфгедеда©©╬╬╬╬╬╬╬╫©©©╬╫╪╨╧╩╧╦╦╦╥╦╧╦╩╪╩╨╨╩╩╫╬╬╪╩╩╨╧╥╦╦╥╢╠╠╠ЁЁ╠╟╝╜╝╞╙╖ё╒ё╒²≥° ≤≤√▓░▒▒░▄▀▄░▒░▐░■≈∙░▐▓∙≈≈⌠▄┤┘└└┤┬┬▄▄▀┼▄▄▄┼┴┼┼┼┴┬┤┘└└└┘┌┌┌│─────}||┌│┌┐┘┤├┘┘┐┘┤├└┌││┐─~~~}}}|||}|{{}│┐└┬▐■√≥≈∙≈°║╓╔╔ё║╒╓╗╘╙╛╛╛╛╜╝╞╟╡╣╧╨╫бфифгймопяпонлккклмкмлхцю©©ю©╬╫╪╩╨╧╩╧╥╤╤╢╡╠╡╠╟╞╞╜╛╚╚╙╙╚╙╘╖╔ё╓╔╔╓╒═÷═÷²°°°⌡ ≤≈√∙■▓▒▐▌█▄▀┼┴┬┤├└│──|zxwurpnkjhfc`_\ZXTRPNLKHGEBA@?=># $%()+,-/014689;>@ACDFHIKLMOPRTVWYZ]^bfhjlnoprtvxyz|~─┌└┘┤┤┼▀█▐░▒▓⌠■■∙√≤≥  ²²··÷══║╒ё╓╓╓╓╓╓╕╗╘╘╘╙╛╛╜╝╞╟╞╜╝╞╞╟╠╠╡Ё╢╣╧юдддцбддефффгхйхеа╬╩╥╠╜╚╙╗╕╖╙╝╞╜╜╙╕ёё╔╗╖ё║ё╕╓║÷⌡≥≥⌡······²═╗╘╔╒÷ ∙⌠∙∙▐┬┐├┤├┘┘┐││┌┐│~┌┌└┘┘┐┐┐──|vqpqqsvyz}─}yvsqpopru|~}{{~┘└│|zxwpnnopsvuponmmlnpsutsrprw{}─┐├├┘┐~│┘├┘┌}─┌└┐│|ywuvvsssopoos{┐┬┴┼┴┴┼▄▐░▒▓░██▐▒▒▐▒⌠■∙√≈≤ °²······°²°≤√∙∙∙≈≤≥  ⌡°²÷═══╒╔╗╘╘╚╛╛╜╜╜╛╘╚╜╛╗╕╖╙╘╗╗╘╗╖╖╘╚╛╜╞╠╢╤╣╣╢╢╥╦╦╥╥╦╦╧╩╫╬©©╬╬╬╬©юааацдеффгхгиккклмлмлмопппяярссстужувызыышэшщчЮЮъъЮЮЮААББЦЦДДДЦЦЦББДДЦБББЦЦБББББББЦЦЦЦЦЦЦЦЦДДДДДДДДЕЕФФГГГГГГГГФФФФГГГГГФГГГГГГГГГФГГГГГГГФФФЕЕФФФЕФЕДДЕЕДЦЦБЮъъччщччщшьввввутттуужтсррттсяряппяярряяпоппппоонммноппонммммнллллкйииггггффггггффгхххййкййхгффдцдца©╬╫╬╬╪╪╫╪╪╬╬╫╫╫╪╨╦╨╦╥╦╦╥╦╧╥╧╨╨╨╩╩╨╪╬╬╪╩╩╨╧╥╧╨╦Ё╟╟╠Ё╡╠╟╜╛╜╞╝╗╒║╒ё÷⌡ ≥√√≈⌠░▓∙▓▌▄█░▐█▐▒■√■▒░▓■∙∙⌠▌┤┌─~┌┌└┼▄▀▀▐▐▌▀┴┬┬┴┼┴┬├└└┘├┘┘└┌──│┌┌│─~│┐──│└├├┘┘│┐┘├┘┘┘├┤┐─}{zz{}~}{{|~┌├┼█▒■≈√∙∙≤·ё╔╕╓║═╒╕╗╗╚╚╚╙╚╛╝╞╠╢╥╧╫аеффгймопппнмлкккклкллхцю╬╬╬╫╫╪╪╪╨╨╧╦╤╣╣╣Ё╠╡╟╞╞╝╜╛╛╚╙╙╙╙╘╕╔╓╓╓╔╓ё═·═÷·²²° ≥≤≈√∙■⌠▒░▌▌█▄▀┼┬├├┐│─}{zxwurpnkigea_][YWUSPNMKHFEBA?><>"$$()+,-/013688:>@ABDFHIKLMNOQSVXYY]^bfijknoprtvxyz}~│┐└├┤┬┴┼▄▌▐░▒▓■∙√≈≤≥  °²÷÷··═║╒╒ёё╓╔╔╔╕╗╘╗╘╚╛╛╜╜╜╞╞╝╝╞╝╞╠╡╡Ё╢╣╦юдддбаццдффффхйгеа╫╨╣╟╛╙╘╗╖╘╜╞╞╛╛╙╖ё╒╓╖╕╒║ёё═÷÷·°⌡²··²²··°÷╔╕╒÷°≤⌠▒▓⌠▌┬─│┌┌┌─}│┌┌─~~─││┐└└┌┌┐}|xsqqqqtvyz{|||ywuttstv{}}|{|┌│|yussollnnpssomlmopqssutssrt{┐┘┘┘├├└│┐└┌~~┘┤┤┘┌|xywxupsvrrux|┘▐∙√▓▒▒▒▓■√√≈■▒▓∙√√■≈≤≥≥≤≥⌡²²·═║═÷··⌡²² ≈≈≤≤⌡°°²²·═║║╒╒╒╓╗╙╚╛╝╞╝╜╝╞╞╚╚╛╜╚╗╗╘╘╘╙╙╙╗╗╙╛╜╞╠╢╤╥╤╤╣╤╦╧╦╥╦╨╨╨╩╫©©©©©╬©юааюбцеефгхихйкккллкмллоппопрссссстуужьыызшэшэчъъъЮААААББББЦЦЦЦЦЦЦББДДЦЦББЦЦБББББЦЦДЦЦЦЦЦЦЦЦДДДДДДДДЕФФГГХХХГГГГГГГФГГХГФФФГГГГГГГГФГГГГГГФФФФЕФФФФЕФЕДДЕЕДЦЦБЮъъччщччщшьвввжутттуууссссттссррряпяярряпоппппоонннноппоннммммклмлкиииггггффгхггххгххиккккйигфедцдца©©╫╬╬╪╪╪╪╩╫╫╫╫╫╪╨╦╧╥╤╥╦╦╦╧╥╧╧╧╨╪╩╨╪╫╬╪╩╨╨╧╤╦╦╥Ё╟╞╞╟╞╞╟╞╜╛╝╝╘ё║ёё═²≤≤∙√≥■▐▒∙⌠░██▌█▀▐▓∙∙■⌠⌠⌠⌠▒▓⌠░┴┐─│─│├┼┼▀███▄▀┴┬┬┴┬┤┘└└├┤├┘└│~}││──│┌┌││┌┐┐└┘┌┌┐┐┘┤┴┼┤└│││|zz{}──}{{~}│┴█▄▄▌⌠■■▓■ ═╓╕╔╒═╒╔╕╔╗╗╘╙╙╚╜╝╡╢╤╧╫аццегилноооммлккйййкллидю╬╬╫╫╪╪╪╩╨╧╧╥╤╣╣╢╡╠╠╞╜╝╝╛╛╜╛╚╘╘╘╗╕╓╔╓╓ёё╒═÷═÷÷·²° ≤√√∙■■⌠▓▒▌▌█▄▀┴┤┘└┌│─~{yzxvtrpmjhec`^\ZWUTROMLJHFDAA?>;="
+#$()+,-/023688:>AABDFHIKLMNOQSVXYZ\]afhikmoprtvxyz}│┐┘├┤┬┬┼▄█▌▐▒▓∙∙√≈≤≥≥ ⌡²÷÷²²·═║║╒ё╓╔╕╕╕╗╗╗╙╛╜╛╜╛╛╝╞╝╝╝╝╞╠╡ЁЁ╢╣╦©дддбаббдефефхйхеа╫╦Ё╜╙╙╘╖╖╚╞╟╞╜╜╚╗╓ё╓╕ё║═║÷°°÷·°⌡°²°  ²²°²║║·²≤√▓░▒▓▌┴│~}|{|}┌└│──││┌┐│~~─|yurrssqvwyzyxxzzyxyzyz{│┐{|||~─}zuqonollmloqqnlkmprturtttuux┌┬┼┤┘├┘┌│──~}}─┐┬┬┤└│~zv|zzvqw}y|┌┤▄⌠⌡·°≤≈√√≈≥  ⌡≈∙√≥  ≥⌡°²⌡≥≥°═·═ё╔╔ё╒╒²÷÷°  ⌡⌡··÷÷÷║╒ёё╓╓╓╕╚╜╜╜╟╠╞╝╞╟╟╞╝╜╝╝╚╗╖╙╙╚╜╜╛╛╜╚╜╞╠╢╥╥╣╥╥╦╨╨╧╧╨╪╨╨╩╫╬╬╬цбабббаюцдеефгхйхклкйкккнллопоноссссррстужвызшэээщщччъАБББББББББЦЦЦЦЦЦЦБДДЦЦЦБББББББЦЦДДЦЦЦЦДДДДЦДДДЕЕДДЕФФГХХХХГГГГГХХХГХХГФЕФФГГГХГГГФГГХХХГФЕФФЕФФФФФФЕЦДЕЕДБЦБЮъъччщщщэзьввьжуттуууурсуутстуррряппярряооопппннннннннпоннммллйлмлйиийфгггффгхгхихггхийкккйихгфддддбю©╬©©╫╪╫╪╩╫╪╪╫╫╪╨╧╥╤╣╤╦╦╦╦╦╧╧╧╩╪╩╧╩╫╫╩╨╨╨╧╤╤╤╣Ё╟╝╜╝╛╛╞╟╞╜╛╚╗╔╓╓ё═²√≈■√ ■█▐▌▐▌█▌▐░▐▐■√∙■√√■⌠░░⌠⌠▄┘┌─│~}┌├┤┬┬┴▀▄▄┼┴┴┤┤├┘└┘┤┴├┘┐|{}──~}┐┘┐│┌─~─│┌└┐│──┌┘┬┼┘┌│┌┐│~|zz|─┌|z─|─▀░▄┤┤▌▒▓░▒≈÷╓╔╔ё║╒╓╔╓╕╖╘╙╚╛╜╞Ё╣╤╧╫абацфилноооммллкйиикллйею╬╬╬╬╫╪╩╨╧╥╨╦╤╣╢Ё╠╞╟╜╛╜╜╛╜╝╛╚╘╗╗╗╕╓╕╔ё╒╒╒║══÷÷÷·°≥≈∙∙■■■⌠▓▒▌█▄▄▀┴├┘┐┌──}zxywvtromjheca`^[WTRPNLKJGECA@?=;=#
+"&&(*,-.012469;=?ACDFGIJLMNPRSUWY[\^aehjkklortuvxz}~─┌┐└├┤┬┴▀▌▌▌░⌠■■∙≤≥≤≥ °²²²²²·═÷═║╒╒ё╓╔╖╗╗╘╘╙╚╛╚╛╜╝╝╝╝╝╟╞╞╡Ё╡Ё╣╧адцццабцдддфииифдю╪╧╣╞╙╙╕╔╘╝╟╞╞╝╜╙╕╒║╒╓ёё║·⌡≥≥ ²  ²²⌡ °══²°·°≤≤∙∙⌠▒▐█▄▄┌}{ywxz{─┘┘┌~~│└┐}z{|{{xrorvtossuyyurswxxvw{─│─{z}|yz}{vrqqomqrollnlhlkjlosuvrtttvx}┘├┴▀┼┤┘└┐│───~{~┐├┐───}ywzyx{│├┬┬┴▄▓≤⌡°·═²²²·══÷÷°°⌡⌡°·÷═÷÷·²²·÷·║║ё╓ё═║ё═÷··²°°²÷═║ё╒═╒╕╖╖╕╕╘╛╝╜╝╝╝╝╞╟╟╠╠╞╝╝╞╝╚╘╚╚╚╙╙╙╚╛╜╞╠Ё╢╣╣╤╧╧╦╥╥╦╧╨╪╩╨╪╬юю©©ацбаббацегххххикккййкмнмллноопрярттсртужужьззшщээчЮЮъъАБАЮАДЕДЦЦЦДДЦЦЦЦДЦЦЦЦДЦЦБЦЦБААБЦББЦЦЦЦЦДЦЦДДДДДДФФФГХИХХГГФФФФФФХХХХГГГГГГГГФФФФГГГГГФФФФФФЕЕФФФФЕЕДЕДДЦЦБАЮЮЮчщэээшзььвтужжуууусррсссрярстсяпппяппяяппяряпоннооонммммллнкииййихггггггфедфгххххилййлмйхифеецбю©╬╫©юю©╫╩╨╫╪╩╨╨╨╨╨╦╦╥╥╥╦╧╨╣╦╨╨╧╧╧╨╪╩╨╨╨╧╦╥╦╦╥╤╣╡╞╜╞╜╛╝╝╜╛╛╘╗╖╗╘╖║²≥√≈≥≥≤■█┼┴┴┼▄███░▒⌠■■⌠∙≤■░▐▒▒█┴┤┘┌~┐┘├┼▀▀▄▀┴┤┘├┤┬├├┤┤┤┬┘─{wwz|zyxz}─││}}}|~│┐┐│─~}~─┐┘│─┌└└└└│}}|{~┌┌─┌─└▀█▄┬└▄▌▒▒▓√²ё╒╒╒╓╓ёё╓╔╓╕╙╙╗╘╝╞Ё╥╧╪©©╫юглмноомммллкййииклйфбю©╫╫╫╫╪╨╧╧╦╥╥╤╣Ё╟╝╙╜╜╙╙╜╜╚╙╘╘╗╖╕╕╔╓╓ё║║╒╒═····²⌡≥≈≈∙■■■■▓░▌█▀┼┴┤├└││─}|{{wvsomljhfeb_][XTPONMLJGDBB@>><<"	!%&(*,,-/12368:<>@BCEGHJLMNOQSUWZ\\^adgikkmortuvxz|}│┐┘├┬┴┴▀██▌░■■■∙≈≤≤≤ ⌡°²²²²·÷║╒ёё╓╓╔╕╖╗╗╘╘╙╚╛╜╜╝╝╞╝╝╝╞╝╞╠Ё╡Ё╣╨бдццбабцдддфииидц©╩╦╣╞╙╘╕╕╙╝╞╝╜╛╛╙╖ё═══║═·⌡≥≤≈≤⌡≥≥⌡⌡≥ °══²⌡²⌡≤≤∙⌠▒▐█▄▄█┐~zzxvvyx}│┐│──││┌yvwyy{vpnrusovuwzysonsuvvx|~─}z{yvu|yurommmqrqnmmkgjjkmqtuuvxxy|~┌┬┬┴┴┬├┘└┘┌┌┌─{z~┐┐│───~{z┌├▀▐▒▓■∙≥²÷÷║ё╒╒╒╒ёё╒╒║÷··═║║═·÷÷÷═╒ёё╓╓╓╔╔╒╒╒╒║║║═÷═║ёё╔╕╕╔╕╘╘╘╘╗╙╜╞╞╛╜╝╞╟╠╡╡Ё╡╠╠╟╝╛╚╙╚╚╛╛╜╝╞╟╠ЁЁ╢╣╤╥╨╨╧╦╦╧╧╨╪╩╩╫©юю©ацдццдеееефггхийййккклмноннпппярясттсртууужыззшщщщъААЮЮББАЮАБЦЦБЦЦДДЦЦЦЦДЦЦЦДДДЦБЦЦЦББЦЦЦЦЦЦЦБББЦЦДДДДДДЕЕЕФГХХГГГГФФФГГГГГГГГГГГГГГГГФФХХХХХГГФФФФФФФФФФЕДДЕЕДЦЦББААЮчщщээшзыьвужжжуттуттстттсрссряпппопппяяппяпоонммннонммммлллкйиййиххгффгггфефгхххиикййклйихффедцаю©╬©юю©╫╪╩╪╪╪╪╩╩╨╨╦╦╦╦╦╦╦╦╤╦╨╨╧╦╧╨╩╪╪╩╧╦╥╥╦╥╤╣╢╡╞╜╜╜╝╠╡╞╛╙╛╛╛╛╙╖╒·⌡≥ ⌡ ≥∙▌█▀┴┬┬┼▄▌░▐░⌠⌠▓■≤≈▓▐▐▌▄┼▀┬┘─~┌└┘┴┬┴┼▀┼┤└┤┴┼┼┼┼┬┘┘┌~zwvwxxwwy|──~|{}│└└└┌}|}~─┌│└├┘┘├┐─}{}──~~┐┼▀┼┴┘┼▌▓▓▒▓√ ║╒╒ёёёёё╓ё╓╖╘╘╚╝╝╠╣╥╨╫╪╨юфлммопнмммллкккйклйфбю©╬╬╬╫╪╨╧╦╦╥╤╤╣Ё╟╝╛╝╝╛╛╝╝╚╙╙╙╘╗╖╕╔╔╔ё║║╒║÷···²²⌡≥≈≈√■■■⌠▒░▌█▀┼┴┬├└┐┌│}{yyvusomljgdda^\[XTQONLJHFDBB@>?<<##%'*+,-/123579;=>ABDFHIKMMNPSUWZ\[]`cfijkmortuvxyz|│┐┘┤┬┼┼▀▄█▌▒■■⌠■√≈≈≤≥ ⌡°²²²··╒╒ё╓╓╔╔╕╕╖╘╘╘╙╚╚╜╜╝╝╝╝╜╜╞╝╞╠╡ЁЁ╣╩бдбббаббццдфииица╬╨╦╢╞╙╗╖╘╜╞╝╛╚╙╙╘╕╒÷²°═÷·° ≥≤≤≥≤≤≥≥≤ ·══⌡≥ ≤∙∙▓░▌▀┼▀▀▄┘}wwwttvvz~───││─ztrtwwysnnrsqpwvvywqlknpsvy|}}|─~zxvsryvspmiknprromljgijlosttsvyz~┌┐└┬┤┬┬┬┤┘└└│┌│~{|│||~─││─│┤┼▐▓■∙≈≤²²·═║║╒╓╔╔╔╓ё╒╒╒╒═÷═╒╒═²·═╒ё╓╖╗╗╗╖╕╖╖╔ё╒╒╒╒ёё╒ё╔╗╗╗╙╙╙╙╚╛╛╛╙╚╝╟╠╜╝╞╠╡ЁЁЁ╢╢╣Ё╠╟╞╝╛╜╝╝╝╞╟╠╡ЁЁ╢╣╤╥╧╩╩╨╧╧╧╨╨╩╩╪╬юаю©юбццдеффффефгхийхиккллмнооояяппярсттсстууувзшшэщччЮААЮАБАААБББББЦЦДДЦЦЦЦДДЦЦДДДЦЦЦЦЦББЦДЦЦЦЦББББЦЦЦДДДДДЕЕЕФГХХГГГГГГГГХГГГГГГГГГГХХХГФФХХХХХГГФФФФФФФФФЕЕДДЕЕДДБЦЦБЮъчччщшшшшыьжжжууттуттттттсстрпооппопопяяпопоннмммннпонмммлккйййиииихгфефгггефхииииийййиййихфффедцаа©ююю©╫╫╫╪╪╪╪╪╨╧╧╦╦╦╧╧╦╦╥╦╧╨╨╧╦╦╦╨╪╬╪╧╥╤╥╦╤╢ЁЁ╠╞╜╜╛╜╠╡╞╛╚╞╞╟╝╚╕╒÷²°·² ≥∙▐▌▄┬┘┘┤▀▌▐█▌▒▒░▓√√▒▌▌█▄▄▌█┴┘┌│┐└└┤┤┤┴▄▀┬└┬┼▀▀▄▀┤└│─}zwuuuvwxz{|}}}zx{─┐┐└┌|zzz{││┘├└└├┘└┌||~~|}└┼▀▀▀┴▀▌▓▓░▌░▓°═╒║║ёё║╒╒╒╓╖╙╛╜╟Ё╤╦╩╫╪╨©екмнппомллллкккйккйфб©╬©╬╬╫╪╩╧╦╥╤╤╣╢Ё╟╞╝╞╝╜╜╞╜╙╙╙╙╙╘╗╕╔╔╔╓╒║║═÷÷·²°° ≥≤≈√■⌠⌠▓░▐█▄▀▀┼┬├└└┐│|zyxutromljgcb`][ZWSQOMKIGEDBA@>?<=#"$&)++-/023578:<=@ACEGIKMMNPRTVY[[]_cfhjkmnqstvwxz|~│┐└├┬┼┼▀▄█▌▒▓⌠⌠■∙√≈≤≤≥ °²···²║╒ёёё╓╔╔╕╖╘╘╘╙╙╚╛╛╛╜╜╜╜╜╝╝╞╠╡Ё╢╢╩бдааааббцццехихца╬╨╥╢╝╘╕╗╛╝╞╝╚╙╘╙╘╔║·⌡≥·÷÷·⌡    ≥≥≤≤≤°══÷≥∙∙⌠░░▐█▀┼┴┼┼┼├{ttuqqsux|~~}}}─}wrqsuvwqnopoprvtsuuplkkmquy{{{y~xvusturpojfippssokjjiklnqsuttuz~┐├┘┐┘└┘┤┬┤┘┌─|~}{}││}|}│┘┤┬┼█░■≥⌡  °²║══║╒╒╓╕╕╖╔╒÷÷║║║══║╒╒÷²÷╒╔╖╘╙╚╙╙╘╘╘╗╕╔╓ёё╔╕╕╔╕╘╛╚╚╛╜╝╜╜╜╝╝╛╛╝╠Ё╠╠╡╡ЁЁ╢╢╢╣╣╢╢╢Ё╡╞╟╠╠╠╠╠╡╡Ё╢╤╥╦╧╩╩╨╨╧╧╧╨╨╨╩╫©ааю©юацдфгггхгфгхйййийккллмнооояпоопстттсстутуьзээээчъЮААААБАБЦЦББЦДЦЦДДЦЦЦЦДЦЦЦДДДЦЦЦЦЦЦЦЦЦАБББЦДДДЦЦЦДДДЕЕФФФГХИХХГГГГГГХХГГГГГГГГФГХИИХГФГГГГГФФФГФФФФФФГЕЕДДЕЕДДБЦЦБЮччъчщшшээзьжжжуууужттттсссрсрпоопоопоопяпопоннннноопонмллкйййййиххигфффггххефхххххииййххййхгфееедцбаю©©╬╫╫╬╩╩╩╩╨╧╦╥╦╦╦╧╧╦╦╦╧╨╨╨╧╦╥╤╧╩╪╪╧╥╤╤╥╣Ё╡╠╠╞╜╜╚╙╛╝╝╝╝╟╟╟╝╚╕║·═══· ≥√▐▄▀┬┘└├┼█▐▐▌▌█▌░▓▓▐█▌█▄▄▐░█┼┤├├┘└├┤┬┼▀▀┬└┤┬┴┼▀┼┤┌~~}{xutsvwy{{{{{}zxz~││─~|{zyxx}~┌└│┌┘┘└┐─~}~}~┘▀▄█▌▀█▌▐▐▌▌▐░∙°╒║═║║═║╒║╒╕╚╜╜Ё╣╥╨╪╫╪╨╪цймопполлккййййййкйгб©╬╫╫╪╪╪╪╩╨╤╤╣╢Ё╡╟╟╝╝╜╛╜╝╛╗╙╙╙╙╘╖╕╓╔╔ё║║╒║÷÷·²⌡⌡ ≥≤√∙■▓▓▒▐▌▄▄▀▀┼┬├└┐│}}{zxssronligdb_][XURPONLIGDCAA?>><=#!$&)*+,/0235789;=?ACEGIKLMNOQRTWY[]_behjkmoqsuvxy{|│┌└├┤┬┼▄█▌▐░░▓⌠■■√≈≤≤≥ °²····═║╒╒ёё╓╔╖╖╗╘╘╘╙╚╙╚╚╛╜╜╜╜╝╝╞╟╡Ё╢╢╩бцююююбббццехххца╬╨╥Ё╜╗╕╘╝╟╞╜╚╙╘╘╖ё÷² ≤≥°÷· ≤≥⌡  ≥≤≈≤°══·≤⌠▓▐▄▄▄▀┼┼┼┼┴┬├|tsrooqsv{}}{yx|ytqqstttpopolotvsrssommlmptwxyz{~|vtssuspnmhdgmprrnjiklnnoprsttv}┘┴▀├┌└┘┘┘┘┐│}{w{|y{─┌─└├┴█░▒■≤√⌡÷║══ё╕╔ё╒ё╓╔╖╘╘╘╕║·÷║╒║╒ё╓ё╒╒║║╔╘╚╛╛╚╘╙╛╛╚╘╖╖╗╕╖╘╙╙╘╚╜╞╞╝╞╠╠╟╞╞╟╞╜╛╞╡╢╢╢ЁЁЁ╢╤╥╤╤╣╣╤╦╥╢Ё╢╣╣╢╢╢╢╡╢╥╦╧╧╨╨╨╧╧╧╧╨╩╩╨╩╫©юаю©юбдгиииихххикккйккккклнооопяпоояттттсстутуьзэээшчъЮАААААЮБЦЦББДЕЦЦДДЦЦЦЦДЦЦЦЦДЦЦЦЦЦЦДДЦЦБББЦДДДЕЦЦЦЦДДЕЕФФФГХИХХГГГГГГХХГГГГГГГГГГХИИХГФФФГГГФФФГФФФФФФГЕЕДДЕЕДДББЦБЮччччщшшээшыжжууужжжттттссррярряпооппонпппоонннннооопнмллкйиййййххггфффгххгфефгхггггхййххййхгфееедцба©╬╬╫╪╫╬╫╪╩╨╧╦╦╦╦╦╦╦╦╧╧╨╧╧╧╧╧╥╤╢╦╦╧╨╨╦╤╣╤╣Ё╡╠╟╞╝╜╙╘╙╜╝╞╠╡╟╞╝╛╗ё═╒║╒· ≥√▌▀┼┴┬┤┤┬┴▄▐▐▀▀░▒▐▒▌▄▄▀┴▀▌░▌█▄▄┼┤└└┤┼┼┼┴┤└┐├┴▀█▄├│|}~}zwtsuwz|}}||~{yz}─}|{{zywvyz~─~─┐└┌││───│─│├▀█▐▐▀┴┴┴▀▌▐▐▌▌≥║║══║═║║║╒╔╙╛╛╡╢╤╧╨╨╧╦╧айнояпмммлкйиииййййгб╬╬╫╪╩╩╪╩╨╧╣╣╣╢╡╠╟╟╞╝╜╛╜╜╚╗╘╘╘╘╗╕╔╓╓╓ё║║╒║═÷·°⌡ ≥≤≈≈∙■⌠▒░▐▌▄▄▀▀┼┬├┘┌─}|||zxrsqonlifeb_]ZWTQPONLJFDBA@?=>;<#!$&(*+-/0235689;<?@BDFHJLMNOPRTVX[\^adhjlnoqtvxyz{}│┌└┘├┤┴▀█▌▐▐▐▓⌠■■∙≈≤≤  ⌡°·÷÷·═║╒ёё╓╔╕╖╗╗╗╗╘╙╚╙╚╚╛╜╝╝╝╜╝╞╟╠Ё╢╢╩ацююююбббццдгхгба╫╧╤Ё╜╗╗╛╞╟╞╜╚╘╗╗╕║²° ≈√ ²² ≤≥⌡≥≥≤≈≈≤⌡·═·≈▓░█┼┴┼┼┼▀▀┼┬├┘~wsqnnqruy}}{xvvtqppqrsrpopmjntusrtromonoqtvwxz}}xsrppsspmkfcdhoppmjjmpppooqstvx─┬▄▄├┌└┴├┐{yyyw~┌~{├▀▐░▓■√≈ ²÷╒╓╓ёё╔╖╖╔╔╔╕╕╖╘╚╚╖╒═╒ёё║ё╓╓ёё╓╔╔╗╛╜╜╜╛╚╛╝╞╛╘╘╙╚╗╘╚╜╛╚╜╟╡ЁЁЁ╢╣╢╡╠╠╟╝╝╡╣╤╤╣╢Ё╢╤╧╨╧╧╦╥╧╩╨╤╤╥╧╧╧╦╦╦╤╦╨╩╩╨╧╧╨╨╨╨╩╩╪╪╩╪╫╬©ююююацгиихххиикллккмллкклнпяпяряпястттсстуутжьзшээшчъААЮАААЮАББББЦЕЦЦДДЦЦЦЦЦЦЦЦЦДЦЦЦЦЦЦДДЦЦДДДДЦЦЦЦЦЦЦЦДДЕЕЕЕЕФГХХГГГГГГГГХГГГГХХХХГГХХХХГФГГГГГГГГФФФФФФФФЕЕДДЕЕДДБББАЮччччщшшээшзвжжжжвжжтууттсссярррпоояпннопоннннннноооонмлккйиййииихгфгггхххгеефггффффгхиххиихгфеееецба╬╪╫╫╪╪╬╬╫╪╨╧╧╧╧╦╦╦╦╦╧╧╨╧╧╦╦╦╥╣Ё╤╤╥╦╦╦╤╣╣╣╣Ё╠╟╟╟╛╚╚╜╟╟╟╠╢╡╟╝╜╙╕╓ёё╒·  √▌▀┼┼┼┼┴┤├┴▌▌┼▀▒⌠░⌠▐▄┼┬├┴█▌▌▌▐▐▄┬└│├┼┴┬┤┘┌─└┼▌░█┤│|}~}{xutsux|~~}|{xxz}~~}|{{ywuww{}|~││~───│┌┐┐┤▀▄▌█┬┌┌┐┤▄▌█┼▄∙·║║║╒╒║══╒╔╗╚╜╠Ё╤╧╦╤╣╤╦юимояпмннлкйииийиийхб╬╬╬╫╩╩╩╨╦╥╣╣╢Ё╠╟╟╟╞╝╜╜╜╜╛╙╙╘╘╗╖╔╓╓╓╓ё║║╒╒═÷·°⌡ ≥≈√≈√∙⌠▓▒░▐▄▄▀┼┴┬┤├└│}||{yvrrqomlifeb_]ZVSQOONLIFDCA@>==;;"!$&(*+-/1134679;<?@BDFHJKMNOPRTWYZ\]`dgjkmnqsvxyz{}│┌└├┤┬┴▀▀█▐▐▌▒⌠⌠⌠∙≤≥≥≥≥ ⌡²·÷·÷═╒╒ё╓╔╕╗╗╗╗╗╗╙╚╚╚╚╛╛╜╝╝╜╝╞╟╠Ё╢╢╨ацааааббцццдфгфю©╪╦╤Ё╜╗╚╝╟╟╞╜╙╖╔╖╔═²° √∙≤⌡°°⌡  ≈≈≈≈≤ °²²⌡∙░▐▄┴┬┬┬┬┴┼┬┘┐┘│|upnoqsvy|}{xvsrpooopqpnmmkjmqqqrtrnmopqtvwvx|}yspolkoqnkhedddmnnmllnqrrqqruwy}┌┬▀▄┤└├├└─zvuvx|┐┴┬├┴░√≤≤≤≥⌡°÷╒╖╖╖╕╔╔╔╕╗╕╕╖╗╗╗╘╛╛╘╔╓╕╕ёёёёёёё╓╔╘╚╜╜╜╝╞╟╠╡╠╜╚╛╜╜╘╚╜╝╝╜╝╠╢╤╤╣╤╥╤╢╢Ё╠╞╠╣╦╧╥╥╤╣╤╥╧╨╨╩╩╨╩╬╬╩╩╪╬╬╫╪╩╩╨╩╪╫╪╩╨╨╪╪╪╪╪╫╫╬╫╫╬╬©©аааюадгггхиийккклллллллмопяярряпруттсстуужувызшээшчЮААЮАААААБББЦЦДЦЦДДЦЦЦЦДЦЦЦДДЦЦЦЦЦЦДДЦБДДДЦЦЦЦЦДЦЦЦЦДДЕЕЕЕФГХХГХХХГГГХХГГГГГГХХГГХХХГГГФГГГГГГГФФФФФФФФФЕДДЕЕДЦЦБААЮъчщщээшшшшшььввввжуттутсррсрряпоопяпнмопоннннооооопонллккйиихххиихгихггггфеефггфеееефгихггххфеефедба╫╪╫╬╪╪╬╬╫╪╩╨╧╦╦╧╧╧╧╧╦╦╦╧╦╥╥╦╥╣Ё╢╣╤╤╤╤╣╣Ё╢╣Ё╟╞╞╟╜╛╜╞╠╠╟╟Ё╡╟╜╚╘╖╕╔╓ё÷°°≤▐▀┼┼▀██▀┴┼▀▄▄▌▒▓▓▓▐█▀┴├┬█▌▌▐▒▒▌┼├─┘┴┬┬┬┘│└┴▄█▀├│}~}zxwstvz}~}{{zvux}─┐─}{{zywwvxzz|~}}}~~}┌├┤▀▄▀▀▀├─│┌┘┴▄▄▀▄░≈²║╒ё╒÷·÷ё╔╕╘╜╠Ё╥╧╤ЁЁ╣╦юхлнппонмлкйииийхийхб©╬©╫╩╨╨╨╦╤╣╣╢╡╟╞╞╟╞╝╜╛╛╛╛╛╚╙╘╗╕╔╔╓╓╓ё║║╒║═·²°⌡ ≥≈√≈√∙⌠▓░░░█▄┼┴┴┬┤┤┘│}{|{xusrqnlkhfd`^\ZVSQPOMJGEDD@@><=:;! $&(*+-/1124679:<?ACDFHJKMNOPRUXZZ[]`cfiklmoruwyy{}│┐└├┤┬┼┼┼▀▌▐▐▒▓⌠⌠∙≤≥≥≥≥≥ °····÷║╒ё╓╔╕╗╗╗╖╖╗╙╛╙╙╚╚╚╛╛╛╛╝╞╞╠╢╣╢╨адбббаббццбдфгф╬╫╨╥╣Ё╝╘╝╟╠╟╝╜╙╕╓╔╓÷²°≥∙■∙≈ °° ≤√≈≈≤ °²² ≥⌠▐▌▀┬┬├┘┘├┤├┐─└└wpoqrvwz{|zwusqonnnpqomkjjjlmlmqtrnmoqsvyxwy}{unmnjhlnlheefecklnnmmorttssuwz|│┘┤┼█┼┤┬│─}yutux│├█▓∙≤ ⌡·²°·═╒╔╗╘╗╗╗╘╘╘╘╗╖╖╙╚╛╛╛╜╝╜╘╘╚╘╔╕╓ёё╓╔╕╕╚╜╝╛╛╞╡╢╣╣╡╝╜╞╞╝╛╜╟╠╟╞╠╢╣╥╥╤╤╥╥╣╤╣╡╠╢╦╩╪╧╧╦╥╥╥╦╦╧╪╫╪╪юаююабаю╬╪╪╪╪╫╫╪╪╪╪╬╬╬╬╬╬╬╬©©╬╬╬©абцаадфгхйийййийлмклммннопяяяяяпсжттсстужжжьззшщщшчЮБААББАЦЦЦЦЦЦЦЦЦЦДДЦЦЦЦДДЦЦДДДЦЦЦБЦДДЦББЦЦЦЦЦДДДДЦЦЦДДДФФФГХИХХИИХХХХХХФФГГГГГГХГГГГГГГФФФФФФФФФФФЕЕФФФФЕЕДЕДДЦДБАААЮъщэээшшзшшыыьььвутстттряяртронопяппнмопоннопппппяяонмллккйхггхийигйигффффффгггфеддддфихффххгффффдба╫╪╬╬╪╪╬╪╪╪╩╨╧╥╤╧╧╨╨╨╦╥╤╦╥╤╥╦╥╣╡Ё╣╥╤╢Ё╢╤╟╡╢╡╞╛╜╞╞╜╜╞╟╟╞╞╠╠╞╛╗╔╔╕╖╔ё÷²·≥░▀┴┬▀▐▒░▌█┼▀▐▒▐░⌠███▌▄┴┴▄▐▐░▒▓▐▀┬│┘┬┬┴┼┤│─┐├┤┤├┘┐─││}{zttvy|}|z|}|xvz│┘├┌~{{{{zwuwxxz|{||||{{~┌┬┼▌▌┼┼┴├┐┐└└├┴█▐██▒≥÷╒╒╒²°·ё╔╔╘╝╞╡╤╦╢╟╠╢╧ахкмпяпллкииииииххйхц©╬╬╪╨╨╩╩╧╥╣╣╢╡╟╞╞╞╝╜╛╛╚╚╛╜╛╚╙╗╖╕╕╕╔╔ё╒║║║÷·²°⌡ ≤≈∙∙∙■▓░▐▐▐█▄┼┴┬┬┬┤└─|{|{xussqnlkhfc_]\ZVSRQOLHECDE@@><<9: 
+"$'*+,-.013568;<?@ACFIJKLLNPQRUXZZ[^afikjlortvxy}}┌┌┐┘┬┬┴┼▀▄▌▐▒▓▓▓▓■≈≤≤ °°⌡²°°·²═ёё╓╕╕╕╕╕╕╖╗╘╘╘╚╙╘╙╚╜╜╜╝╝╞╟╟╠Ё╣╩абюааююююбццфгд╬╩╧╦╣╟╜╛╜╞╟╝╚╘╖╔╓ёё║² ≤≈▓⌠√⌡⌡≤√≈∙≈≥ °·²⌡≈⌠░█┴┴┴┬├┬├│─┌┌~~──{uqqsvz}}{zwtoqplknpoklllklllkknqokjmsttuwyywtmhghghjjkkiecdfjlkikmptoptuuy~┘├┘┴▌▄┘┐|xvtsx~┬▒≤ ⌡  ²÷══║╒╓╖╘╙╙╙╙╙╙╘╘╘╚╚╘╘╛╞╟╞╞╝╛╜╜╙╕╓╕╕╓ё╕╙╚╞╝╝╟Ё╢╢╢╣╠╝╞╠╠╠╟╟╟╟╠╡ЁЁЁ╢╦╨╦╥╦╥╣╧╥Ё╡╤╩╪╩╩╨╧╧╨╨╧╦╦╨╪╬юацдфффеца╬╫╩╫©юю╬╪╪©©©ююю©╬╬©юаббццдццдфхихйкккккклйлллооняяяпяясужутсужжжжьышшшшэчъъЮАААААБЦЦБЦДДЦЦЦЦДДДДЕДДЦЦЦЦЦДЦЦЦЦЦЦЦЦДЦЦЦЦДДЦЕДЦДЕЕДЦЕГХХГГХХХХХХХХХГГФФГХХХХФГИИХГГГХГГГФФФФФФГГГГГГЕЕЕЕЕЕЕЕЦЦЦБАъчщээшшшшшшььвужввусууусррссяпппяонмммммннннопяяяомннмккккийххйкйггйигфффффегхгфффееефиихгхгфффгфдцца╬╩╩╫╫╩╫╫╫╩╧╥╤╤╧╤╣╥╧╦╤╣╤╤╤╢╣╤╤╢╡╡╢╤╤╢╢╤╡╡╡╠╝╜╝╞╞╞╟╠╡╠╟╞╟╞╝╛╙╖╓╒ё╔╓÷°⌡≥∙▄┤├┼█▄▌▓█┬┤▄░▓▓⌠▐▌▌▌█▄▄▌░▒■√■▐▄▀┘┌├▀▀┴├┌┐┌┤┤└┌~┐─│┌┐│}|}|wtuz~~|─}{{}┌┤┤└│─{xtuttwzzx{zzzxwz~└┬┴┬├┤┴┴├┐┌┘├┘┤┼█▄▌⌠ ÷║══²²╒╔╕╗╚╜╡╤╢╠╟Ё╣╥╬фймярпнлййиххйиииййд╬©ю╫╨╧╨╩╨╧╥╤╢Ё╠╞╝╜╛╛╛╚╚╚╚╚╚╚╘╗╖╕╔╔ёёё╒║═÷··²°⌡ ≥≤≈≤√■▓▒░▌█▄▀┼┴┬┤┘└└│~|{yvtrqomlkheb`^][XSPNLJIHFDBB@><<89"
+"$')+-./023579;<?@ACFHJJJKMOPQSWYZ[^aeikkmprtvxy{|~││┌└┤┤┬┼▀▄█▐░░▒▓▓■≈≈≈≥°⌡⌡°°°··║ёёё╔╕╔╔╕╗╗╗╗╘╚╙╙╙╚╛╛╛╚╜╝╞╞╟╠Ё╢╨юбюааюааацдцфгд╬╩╦╥╢╠╝╝╞╟╟╜╙╗╕╔╓ё╒═²≥≈√▓▓∙≤≥≤≈≈√√√≈⌡° ∙░▄▀┼┤┤┤┘┤┤└─~─}}─┌xtuxy}}ywtqqrpmlopnjkkkkkkkjjmpommprsssstrpnjeccdgikkjhfeefgihfikotonsz{}─│├┤┤┼▄┬└┘}yutv|┐┬▐≈⌡°²²÷╒═║╒ё╔╖╙╛╛╚╙╙╚╛╛╛╚╜╜╛╚╜╟╟╞╞╝╝╜╛╘╔╖╘╘╖╕╘╛╜╟╞╞╠╢╣╣╢Ё╞╝╞╡╡╡╡ЁЁ╡╡Ё╢╣╤╣╦╨╧╦╨╧╥╥╤╣╣╧╫╬╫╪╩╨╨╨╨╨╧╨╩╫╬юбдфгггфца╬╪╪╫©©©╬╬╬аю©©ююю©©юабццддееефгииййклллкллкмллоонпряяярсужжтсужжввызээшэчъъЮАААААББДДЦЦДДЦДДДЕЕЕЕЕДДЦЦЦЦЦЦЦЦДДДДЦЦДЦЦЦДДЦЦДДДДДЕДДДЕГГГГХХХХХХХХГГГГГГХХХХЕФГГГФФФХГГГФФФФЕЕФФФФЕЕЕЕЕЕЕЕДДДЦБАЮъъчщээшшшшшьывжжввуууууттсрсрппяяпнмммннннннопяяонмммлкклкййххйлйххихффффеедфггффедедфххггггффггфецца╬╩╩╫╫╩╫╫╫╪╧╦╥╥╦╥╤╥╦╥╤╤╤╤╤╢╣╤╣Ё╡╡╢╤╥╣╢╣╡╠╟╞╝╝╜╜╞╞╟╠╠╟╞╝╞╞╝╛╙╕╓ё═ё╓═²°≥√░▀┴▀█▀▀▌┼┬┤┴█░▓⌠▓░░▐▌▄▄▌⌠■√≈⌠█▀▄┬└┘┴┼┴├┌┌─┌~│~─│┌│~~─}zvvy|~}──~}~┌├┤┘┐┌┌│}{vvuuwyywwwvvttx}┐├┤├└┘┤┬┌│┐┘┘┌└┬┴┴▀░≈·ё╓║²°÷╒╓╖╚╜╠╢╡╟╟Ё╢╥╬еимяряолййихиииихййд╬╬╫╪╩╨╨╧╦╦╤╣╢╡╠╞╝╜╜╜╛╛╛╛╚╚╚╙╘╗╖╕╔╔╓╓╓ё╒║═÷·²⌡  ≥≤≈≈√■▓▒░▌█▄▀┼┴┬┤┘└┌─}{zxussqnllkhda`^\ZVSPMLIHGFDBA@><<89"
+!#&)+-./124579;=?@ACEGIJJKLNOPSVYY[]adhjkmprsuvwz{}─│┐├┤┤┴┼┼▄▌▐▐▒▓▓■≈≈∙≥⌡⌡ °°⌡·÷║╒╒╒╓╔╔╓╕╗╗╖╖╘╚╙╙╙╚╛╛╚╙╜╜╝╝╞╟╡Ё╧юбюаааабабццфгд╬╩╥╣Ё╡╠╠╠╠╞╚╗╖╕╔ёё╒÷°≤√∙▒▓▓⌠∙≤≤≈≈∙■√ ⌡√░┼┤┤┬┤┤├┌├└│~}}||{~┌┌|wx|~──{vqnmopnmmpomijkkjiiijjknonpssttsrqnkfec_^aehiihgffedegfehjnsnmt~│─┌└├┬┬┼┴┌~│{zxy┬▐⌠ ·÷·═╒╓╗╓╔╕╖╗╙╛╝╝╜╚╚╜╞╞╞╜╞╟╞╞╟╠╡╟╟╟╠╞╚╗╕╚╛╛╚╙╛╝╟╠╠╠Ё╣╤╣╢╠╞╝╟Ё╣╣╤╧╦╤╣╣╤╦╧╦╨╩╨╨╩╨╥╤╥╥╧╪©©╫╬╫╪╪╪╪╩╩╪╫╬©юбегхххгда╬╪╬╬╬╬╬©юаба©©©юююаабцддееефффггхикллллллллнммоонорррррстужтсужвьызшэээщъАъЮААААААЦДДЦЦДДЦДЕЕЕЕЕЕЕЕЕДДЦЦЦЦЦДДДДДДЦДДДДДДЦБДДДДДДДЕДЕФГГХХИХХХХХГГГХХГХХХХХГГХХГГГХХГГГФФФФФФФФФФФФФЕЕЕДДДДДЦБАЮъЮЮщщэшшзззызьввьвувжуужутрряяяряпннннннннннпяяонммлмлккллййииклкйихгффффеддфггфедцедеггфффгггггфеццб©╪╪╫╪╩╪╪╪╩╨╧╦╦╦╥╤╥╥╤╣╤╤╤╣╢╢╢Ё╡╡╡╢╤╥╤╢╢Ё╠╝╜╝╝╜╛╞╞╟╠╟╞╝╜╝╞╞╜╙╕╓ё÷╒ё║÷·°≥⌠█┼▄█▀┼▀┼┼┴┬┴▄░▓▓▒░░▐██▐■∙√∙▒█▄██┬┤┼┼┼┤┌│~|vx~}||}─┌│─│┌─~{yyz}─┐┘┐││┐┘┤┤├┘└┌}wvvuwyyxvvutrsx~┌└┘┐┌┐┘├┌└┤┬└│┐┤┤├┤▀▓⌡╒╕ё═²÷║ё╖╚╜╞╠╟╞╟╡Ё╤╫дилярромййиихииихийц╫╫╩╪╪╩╧╦╥╥╣╣╢╡╠╞╝╜╜╜╜╜╜╛╚╚╚╙╘╗╖╕╔╔╓╓╓╓ё╒══·°⌡≥≥≤≈≈√∙⌠▓▒░▌█▀┼┴┬┤├└┐┌─~|{yussqnlkjgca_]ZWTRPLJHGGFDBA@><<89"	 "%(*,./013568;<?@BDEFHIKKMOPQSWYY[]`dgijlnpqsuvyz|~─┌┘├┤┬┴┼▀█▐▐▒▒▓■√√∙≤   °⌡⌡²÷═║║╒ё╔╕╓╔╕╖╖╖╗╘╙╙╙╚╚╙╙╘╛╜╜╝╝╞╠╡╦©бюааюааюаббдеа╬╩╤╢ЁЁЁЁ╡╠╝╙╖╕╔╓╒╒║·⌡≥≈∙▒▒▐▌▒∙≈∙∙■■≈≥≈▒▀┬┘┘├┘┘└│┘│}|{zz|yz┌─{z|─~xqkiikkjjmonkhijkjhggkjjkmorvvwwtrolhbca^^adeeffedeeeegggijlrmox─││┐└┘├├┬├}y|┌┐┘┼▓≤ ║ё╒═ё╕╗╚╙╙╙╘╙╚╜╞╟╝╛╜╞╟╟╞╝╟╡╡╡╡╡Ё╡╡Ё╢╠╛╙╚╜╝╝╝╝╞╠╡╡Ё╢╣╤╤╢Ё╟╞╞╡╣╥╧╨╪╩╨╧╦╦╧╨╪╪╪╩╩╪╧╤╦╧╨╪╬©╬╫юю©╬╫╫╫╫╫╬©юацегггхгеб©╫ю©©╬╬©юаааю©ююююбббцдееефггггфгикллмллллмнннпонпрррррсттутстжвьзшшээщчЮАъЮЮЮЮЮЮАЦДДЦЦДДЦЦЦДДДДДДФФЕЕДДДДЦДДЕЕДДЦДДДЕЕДЦАЦДЕДЦЦДЕЕФГГХХИИХХХХГГГГХХГГХХХГХХХХХХХХХГГГФФФФФФГГГФФФФФЕЕДДЦЦДДЦААЮЮЮщщэшззыыззыввьвужжууутсряяяяряоноонннннннпяянллллллйкккиииийккййххгггфеддфхгфедбдеефффееггххгедццбю╬╫╫╪╩╨╨╩╩╨╨╧╧╤╤╤╥╣╢╢╣╥╤╣╣╢╢Ё╠╠╠Ё╣╤╤╢╡╢╡╞╝╝╝╝╜╜╞╟╟╟╞╝╜╜╝╝╜╙╖╔╓║║═÷÷÷²≥▓█┼▄▐█▄▀▄█▀┤├┼▌░▐▐░▒░▌▌▐▓▓▓░▐█▌▐▒██▌▄▀┬┐─{ytuzz{z|┌┐┐┐┐┐┌─|yy|┐├┴┬┘└├┤┤┤├┘┌─~xwwwxyzyvwvtrtz┌┐┌│││┐┘├┬┴┤┌│└├┘┘┴▌∙²ё╓║··÷║╕╙╜╝╝╝╝╟╠╡╣╪цхкпсспмййиихихиххиц╫╪╪╪╩╨╧╥╤╤╢╢Ё╡╠╞╝╜╛╜╜╜╜╛╚╙╙╙╘╗╕╔╔╓ёёёё╒║÷÷·° ≥≤≤≈≈∙■▓▒░▐▌█▀┼┴┬├┘┐┌─}|{yvtrqoljhfc`_]ZVSQQKJHGGFDBA?=<<89"
+ "%'*,.//02457:;>@BDEFHIKKMOPPSVYY[]`dghijmoqsuvxy{~─┌┘├┤┬┴┴▀█▐░▒▒░▓∙√√≈   ⌡⌡ ²··═║╒ё╔╖╔╔╔╕╗╘╘╗╚╙╙╘╘╘╙╙╛╛╜╜╝╞╟╠╦юбююю©юаюаббдд©╫╨╤ЁЁ╢╣╣╠╟╜╗╕╔╔ё═║═²⌡ ≤√▓░▄┼▄▓∙■▓⌠∙≈≈⌠█┴┬└┐┐│││~┌}zzzxy{zz}│┐│~}}|ztlgefihhilnlhefhkkhghihhjnrvyyywsokgd`ba_`bc`begedeghghhikjkpou}─~─┐│─┌└}│┤▄▐░▓≤²═╓╕╓ё╕╘╘╚╝╜╛╙╙╛╞╠╟╞╝╞╠╠╞╝╞╠Ё╢╢Ё╢╣╣╢╢╣╡╝╝╟╜╜╝╞╟╠╡Ё╢╣╤╤╥╤╢╡╟╞╟╢╤╦╨╪╫╬╬╫╩╨╨╨╬╫╫╪╪╪╨╥╧╨╪╬©©©╬бааю©╬╬╬╫╬©юацдфдеффецаюаюю©©©©©юююаааю©ббццддеехиййихиййклмлллллннняпоярррррсссуссужвышшээщщчЮАъЮЮАЮЮЮАБДДЦЦДЦББЦЦДДДЦЦЕЕЕЕДДЦЦЦЦДДДДЦЦДДДЕЕДЦБЦДЕДЦЦДФФФФГГХХГХХХХГГГГХГГГХХГГГГГГГГГГХГГГФФФФЕЕЕФЕЕЕДФФЕЕДДЦЦЦЦЦЦБАЮъщщэшзыыыззывввжттуутсрррппяяяпоноооннннннпяпмкклллкйййиххииййкййхггггфеддфхгфедцдеееееедфгихфдццдбю©╬╫╪╩╧╧╧╧╨╨╧╧╤╣╤╤╢╡╡╢╥╤╣╣╣╢Ё╡╠╠╡╢╣╣╡╟╡╡╟╝╜╛╜╝╛╝╟╟╟╞╝╝╜╜╜╛╚╗╕╔ё═°°·÷²≥▓█▀▌░░██▄█▀├┘┬█▐▌▐▒⌠▓▐██░▐█▀▄███▓▒▓▓█┼┬┐xwvuutzy|─└┘┘┘└┘├└│|z|~└┬┼┴┤┤┴┴┬┤┘┌}|}{zyyyyyyuvvtsuy}┐┌││─│┌┐├├┘│}}│├┘┘┬▄▒≥÷║══÷÷═╓╖╜╛╛╜╝╞╟╠╢╩бфйоссямйииихиххгхид╫╪╬╪╧╦╦╦╥╤ЁЁЁ╡╟╞╝╜╛╛╜╜╛╚╙╘╙╘╘╗╕╔╓╓ёёё╒║═÷··°⌡≥≥≤≈≈■⌠▓▒░▐▌█▀┼┬┤├└┐│}|{zzxvspqplhfdca_\YURQPKIHGFFDB@?=<;89!	
+!$&)+-..013469:=?BCDEGHJJLNNORUXYZ]`cegijmoqsuwwx{~─┌┘├┤┬┬┴▀█▐▒▒░░▓∙√√√≥≥≥⌡⌡ °²²÷║ёё╔╖╖╔╔╕╘╙╘╗╙╙╙╘╘╘╙╚╛╜╜╜╜╝╟╠╦©бюю©©юбабдцец╬╪╧╣ЁЁ╣╤╣╟╝╚╖╔╔╓╒÷═÷⌡  ≥√▓▐┼┬┼▐⌠■■∙≈≤∙▐▀┼┴┘└┌─~~{xxxwwy|{}┌├┬└─zxtojedeihgikkifbcfklihjggimswz{zzwqkgda`a``ab`^bfgecfikghghjikqu|│|~│}wyz┘┤┬▄░■≈≈≈⌡╒╕╔╗╖╖╙╚╚╛╞╝╜╛╜╞╡╢╠╠╠╡╡╠╟╝╠╡╣╤╤╣╣╤╤╤╤╣Ё╠╠╡╝╝╞╠╡Ё╢╣╣╤╥╥╥╤╢Ё╠╠╡╣╤╥╨╪╬юаю╬╪╩╩╫╫╫╫╫╫╩╨╨╩╫юаюаабццба©©╬╫╬юаабдеццддддццбааааюю©ююабццбаццццдеефхиййиийййкммммлммооояяпяяяррсссстттжжвышшэщщчъъЮъЮАБААБББЦДЦЦДЦБЦЦДДЕЕДДДДДДДЦЦЦДДДДДДДДДДДДЕДЦБДДДДЦДЕФЕЕЕФГГФФХХХГГГГГГГГГГХГГХГГГХХХГХГГГФФФФФФФФФФЕЕФФЕЕДЦЦЦЦЦЦЦБАъъщщэшзыыыызывввжтстутрпяяппппппононнннннннооомкклллкйййигхииийййихгффффеедфгффееддефееффдфхиифдццдбаа©╫╩╩╦╦╦╧╧╧╧╧╤╣╣╣Ё╠╡Ё╣╢╢╣╤╢ЁЁ╠╡╡╡ЁЁ╠╞╟╠╟╝╛╙╚╛╛╝╟╟╟╞╞╞╜╛╚╙╙╘╗╕╕║²²═║÷°■▒▐░▓░█▄┴┴┤┘├┴█▐░▒▓■▓█┼┼█▄┼┴┴┼┼┼▐▒■⌠█┼┤┐}wxxvrovx|─└├┤├└┘┤┤┘│}|}┌├┴┬┤┴┼┼┬├┐}{{{~|zyxwwwvwvtux|~┘┐│││││┌┌┐│|{}─└┌┌├▀▐√°║╒ё╒╒╒╔╖╚╙╙╛╜╝╟╠Ё╨аехнрсрнйийиххгхггид╬╪©╪╧╦╦╦╥╣ЁЁ╡╠╟╞╜╛╛╛╛╛╚╙╙╘╘╘╗╖╕╔╓ёёёё╒║═÷·²°⌡ ≥≤≈√■⌠▓▒░▐█▄┼┴┬┤├└┌│}|zzyxvtopokhfdb`_[XURPOKIGFFECB@>=;;79!	
+ #&(*,-./12468:<>ACCDFHIIKMMNQTWXZ\_bdfijloqsuwwx{~─┌├├├┤┬┴┼█▌░▒▒▒⌠∙√∙√≥≥ °⌡ °²·═╒ёё╓╕╔╔╔╕╗╘╘╗╘╘╙╙╙╙╚╛╛╜╜╜╝╞╟╠╥©бюю©©юаюбддеб╪╨╦╣Ё╢╤╤╢╜╛╙╖╔╔ё║÷═· ≥ ≤∙▒█┴┬┴█▓≈≈≈√∙▒▄┴┴┤└└┌~~~|ywvvuuvz|}─├┼┬┐xtpmiedehgghiigebcfkkhfhgjntz||zxwsmheca``abb`_`beeaadghgfefijnv|~─{||xu|┌┬░■■∙≈≥⌡·÷═╔╙╖╚╚╚╜╞╝╞╟╠╟╟╠╡╢╣Ё╢╢╢ЁЁ╡╡╢╣╥╧╦╣╣╥╦╧╧╥╤╢Ё╠╠╟╠╢╣╣╣╥╤╥╦╦╦╥╤╣ЁЁ╣╥╥╥╧╪абдца╬╫╫╫╬╬╬╬╫╪╪╪╫юцдббцбцддбю©╬©©юююбдедддддццццбааабаабббцдеедддддеффгхххийййийлмннннннпопряпяяярсссссутувььыэээщчъъъъъЮАБББЦЦБЦДЦДДДЦЦЦДЕФФЕЕДЕЕЕЕДДЦЕДДЦЦДДЕЕДДДДДДЦДДЦЦДЕЕЕЕЕЕФГГГФХХГГГГГГГГГГХХХХХХХИИИХГХГГГФФФФГГГГГГФФЕЕЕДДДЦЦЦЦББАЮъчщщэшззззыыыввьжтттттсяяяпппппооонннннннннннммлккллкййкйххийииййихгфффффедфгееееддффееффефхййфдццдцббю╪╩╩╦╦╥╦╧╧╧╦╥╣╣╣Ё╡╡Ё╢╡Ё╣╤╣╢╢╠ЁЁ╡╠╠╠╞╟╟╞╝╛╚╚╙╜╞╠╠╟╞╞╞╜╙╖╗╘╙╗╕╔╒÷═╒ё║═≥√■■⌠░█▀┴├└┘┬▀█▐░░▒▒▐▀┬┬┼▀▀┬├┤┴┴▌▐▓▒█▀┴└}xzyvrnrwz~─┐┘┘┐┐┘┬┬├┌~|└┤┬┴▄▄┼┤┘┌─~|{{|zyxwuvwyxvuw}│┌├┐┌┌┌│──~││}|~─│~~┌┤▄▓≤═ё╓╓ёё╕╗╖╖╗╚╜╝╟╡╡╧юдгмясснйийиххгхггие©╪╬╪╨╧╦╥╤╣ЁЁ╡╠╟╝╜╛╛╛╛╚╚╙╘╘╘╘╗╖╕╔╓ёёёё╒║═÷·°⌡  ≥≤√∙■⌠▓▒░▐█▄┼┴┬┤┘└┌─~{zyxutpoljhgda`^ZWTROMJIGFEDBA?><;;79!	
+ #%')+-./12468:;=@BCDEGIJKMMNQTWWY[^acehjlnprtuwxz}─┌┘├├┤┤┬┼▄▌░▒▒▓■∙∙■√≥≥ °⌡ °··═ё╓ёё╔ё╓╔╔╕╖╖╗╖╗╙╚╚╙╚╚╜╜╝╝╝╞╟╡╣╬бююю©аю©бддда╨╧╦╣Ё╢╥╤Ё╛╚╘╖╔╔ё═÷÷²≥≤≥≈⌠▒█┴┬┴▄▓≥≤∙▓▐▀┤┘├┐│┌│|{}|zywutttswz|~└┼┼└wsolifeefeefhgfeddgkkfcdjmt{─|wtsoidccbaacdb_`cab`]]adcgfcehkqz│}}~|ywtx┘░≈·÷°≥ ⌡÷╓╕╔╖╙╘╜╝╜╟╠╠╡ЁЁ╢╢╢╢╢╣╣╤╤╤╢╢╣╤╥╥╧╨╧╤╤╦╨╪╪╨╦╥╣╠╢Ё╢╤╦╥╥╦╤╥╦╦╦╦╦╦╤╤╥╧╦╦╨╪бдедб©╬©©ююю╬╪╩╪╬юцгфцаббцеецю©╬юю©©юадфеедцццццдцаабцццедцдефггеееефггхииийлллкклноооооняппряопяярсттттуужьыьзээщчъЮЮъччъАААБЦЦБЦДДДЕДЦБЦДЕЕФЕЕЕФФФФФЕЕФЕДЦЦДЕФЕДЦЦДЕДДЕДБЦДЕЕЕЕЕЕГХИИХХГГГГГГГГГГГХИИХГГГХИИГФХГГГФФФФФГГФФФЕЕЕЕЕДДДЦЦДЦАЮъччччщщэшшззыыыьььвужутстсяпяяяпппппнннннннннмммммлккллкклкихййииййийхгффгггдффддееедффееггефикйгдцддцббю╪╩╩╦╦╥╦╧╧╧╦╦╤╣╣╢╡╡Ё╡╠╡╢╤╣╢╣╠╢╢╡╟╠╠╟╡╟╞╝╝╜╚╘╝╟╡╡╟╞╝╞╛╗╔╕╘╙╗╕╒║══║║║║⌡≥≈√■░█▀▀├└┤▀▄█▌▐▌▌▌▄┴┤┬├┼▄┴┘┘┬┼█▌░░▌█▀┘~{}yvuoouwz|┌┐┌┌└┤┼┴┘─|~┐┤┴▀▌█┼┤┘┐│~|{ywvwvuvxzxusw~┐└├┐┌┐┐│z┌}~~|{z└┬▌■·═╒╒═║╓╕╓╓╖╙╛╜╟Ё╡╧юцфлясснйийиххфхггиф©╪╪╪╩╨╦╤╣╢ЁЁ╡╠╟╝╛╚╜╛╛╚╙╙╙╙╘╘╗╖╕╔ёё╒╒╒║═÷·²⌡⌡  ≥≤√■■⌠▓▒░▐█▀┼┴┬┤┘└┌──}{ywvsrqnjhiid_`]YVTRNLJHFEEDB@?><;;79!
+
+#&'),-./02468:=>@BCEFGHIKMNOPQVXYY[`degilnoqsuvxz|~─┌└├├├┤┬┼▄█▌▐░▒▒▓■√≤≥≥ ⌡⌡⌡⌡²·÷║╒ё╓╓╔╔╔╔╕╕╖╗╙╗╗╘╘╘╙╚╛╛╚╜╞╟╠╠╣╫ццаааюаааабцю╫╨╥╢╣╧╩╥╡╛╙╗╕╔╔╓╒÷═·° ≥≈■░▌▄┴┤┼▓⌡ ≈▒┴┘└┐┌┌┌~zzzzzuvvtvytsz|~└┴┬├yplmjgggdbcegfeebefebbehkov}~zvusmjid^^cccb`^^`b_^\[]adchfcdksyz└│}ywy~┌┴▐≥╒╔╓║═²÷║ё╖╚╚╘╝╠╡╡╢╥╥╣╣╤╤╤╥╥╦╦╤╤╤╤╥╥╥╥╣╥╧╧╦╧╨╪╫╫╪╩╧╥╣╢╤╤╥╦╦╧╧╧╦╦╨╩╨╥╤╦╥╧╨╧╦╧╪╬бцддцаю©ю©юбю╪╪©бцдефеддцддбюааююююююабдцдефедцбцбббдееефеддефгхгггхххххйииклккллмноппппяяряпппяррррррстужжвьыэчщчъЮЮъъъъъЮАББББББЦЦДДДДЦДДЕФФФФФФФФФФФФФЕЕЕЕЕЕФЕЕЕДДДДДЕДЦДДЕЕЕФГГХХХХХХХХХГГГГХХХХХХХХИИХХГГФФГГХГФФГХФФФФФФФФЕЕЕДДЦЦЦЦБАЮъъъъщччээщщшзььыывжжвжтсряппопппппоонммннннмнммонлйкклкииййийииийкййкихггххгеддефгфффффееефгйгфггфдцбаацца╫╨╦╥╥╥╦╦╦╦╤╢ЁЁ╢╢Ё╡╡╠╡╣╤╢Ё╡╠╢╣Ё╟╞╞╝╞╞╝╛╚╚╚╚╛╝╠╠╝╛╜╟╚╗╕╕╕╙╙╔╒╒╒║║═÷÷≥√≤≥⌠▌██┴├├┼▄▄▀██░▐▀┴▀┼┤┘├┤┤┤├├┤▀█▒▒▌██┼}zwvvtpquww{│─|─┤┬├┬┴┘│└┘┬█▒▒▌┼┤├┬┬┌~}|yvtrrsvyyzxu{┘┴├┌┌┌───}||~|{|}|─┘┴█≤°║╓ё║╒╓╒╔╖╗╛╟╡╠╡╦©дгйптсплххййхегхгфд©╩╨╨╨╧╦╥╣╢╡╡╠╞╞╟╞╜╛╚╙╘╙╙╘╗╙╙╘╗╔╓ё╓╓╓ё║═÷²²   ≥≥≈√∙■⌠▒░▐▌█▄┤├├├┘┐─~|zxvusrpnkigeb`]][UQONLJHGEDCA@==<::56
+
+"%')+-./124689;=?ABDEGHIKLMNPQUWXY[_cdhjlnoprtwxz|}─┌┘┘┘├┤┴▀▀█▌░▒▒▓■√≈≤≥ ⌡°⌡⌡²·÷║╒ёёё╓╓╔╔╕╖╗╘╗╗╗╘╙╙╙╛╛╛╛╜╝╟╟╠╣╪ббаюаюббабцда╫╧╥╣╤╧╩╥╡╚╘╕╔╓╓╒║÷÷²⌡≥≤∙▓░▌▄▀┼▄▓≈≥∙█├┐┐┐┌││}ywwwvtvwuvzwx{{~┐└└├|rkigfeddaadgfdccdedbbegjntz{xusojggd_^bddb__aa`\[YX[`defcdksx|┌│─└┴█▒√═╖╘╕ёё║╒╓╕╚╞╟╞Ё╢╤╥╦╧╧╦╦╦╦╦╦╦╧╧╦╦╦╦╦╥╥╥╥╦╨╩╨╨╩╪╩╪╪╩╨╧╦╥╣╤╥╦╧╨╨╨╨╧╧╨╨╦╦╧╧╨╩╩╨╩╬юбцддцбаюю©©ю©╪╫аццдефееедедбаааюаабаабцддееффедцццццдееегффффгхигхххиииикййлмкклллмнноооопяяяярсррсссстуужвььзэщэчъЮЮъъъъЮЮААБББББЦДДДДДЕЕЕФФФФЕФФФФФФФФГФФФФФФГФЕЕДДДДДФЕДДЕФФЕФГХХИИХХХХХХХХХХХХХХХХХХЙИИИХХХХХХХХГГХХГГГГФФФФЕЕЕДДДЦЦЦЦБЮЮъъъчъъщэээззььыывжжжутсряпооппппоононннннмллллммккккккииййийииййкйиихххххгфеееефгфеееееддефхфефгфддцбабба╬╩╧╧╧╧╦╦╦╦╣╢Ё╢╣╣╢╡╠╟╠Ё╢╡╠╠╠╢╣Ё╞╝╜╜╜╜╜╛╚╚╚╚╛╝╟╞╜╛╜╝╚╖╕╕╖╙╙╕╒╒╒╒╒╒╒ё≈∙√√▒█▌▐┼┬┤┬┴┬┼▌▌▐█▀▀█▄┴├└┌└┬┼┴├┼█▓▓▌██▀┘┌}ywwuroruvz~~{~┘┬┤┬┴┬┬├├┴▌▓⌠░█▄┴┴┬└┌─|yvtsssuxy{{|┌┴┴┘~}}~~~}|}~~{x{||~│┌├█⌠ ═╒╒ё╒═║╓╕╗╚╞╠╠╡╦©цфиосяолиийигггггфдю╪╨╧╧╦╥╤╣╢ЁЁ╠╞╝╞╝╛╛╚╙╙╙╙╘╘╘╘╘╖╔╓╓╓ёё╒║═·²°  ≥≥≥≤√∙■⌠▒▐▌█▀┼┬┬┤├┘┐─~}{ywusqpomkigeca]]ZURPNLIGFDCB@?==<:956
+
+!$&)+--/134678:<>@BCEFHIJKLNPQTVXXZ^bcgilnoprtwxy{}──└└┘├┬┴┼▀▄▌░▒▒▓■√√≈≥ ⌡°°⌡²²÷═║╒ё╓ёё╓╔╕╖╗╘╖╖╗╙╙╙╙╛╛╛╜╜╝╞╟╠╣╪ббююаюааюаддю╩╧╦╥╥╨╩╤╠╙╗╔╓╓ё║═══·° ≈■▒░▌▄█▌▐▒▓∙▒┼└┌┌│}~{xvwwttxywx{{}{z}│~┐tkeceeac`_bffecbccccdfhknswwspnjfded`^`cca]^aa]ZYWVX]acc`dox{└┘┘├┬▀░■≈≤²╔╙╙╕ё╓╓╔╖╘╝Ё╢╢╥╥╧╩╪╨╨╨╨╨╧╦╦╦╧╧╨╨╨╧╧╦╥╥╦╨╪╪╪╩╪╪╪╪╪╫╪╩╨╧╥╥╦╧╧╨╨╨╨╧╦╧╨╩╩╪╩╩╩╩╪╫юбабдддцбба©©©╬╫©цддееффффефецааююббббббцдеффггфддцддддеефггфггхийхиийййййлллмммлмммммноопопяяррстттттссттжвьызшэщэчъЮЮъъЮЮЮЮААББЦЦЦДДЕЕЕЕФФФФФФЕЕФФФФФФФФФЕЕЕЕЕЕФФФЕЕЕЕЕЕФФЕЕФГГФФГХИИИИИХХХХХХХХХХХХХХХХЙИИИИИИИИИИХХГХХИИХХГГФФФФЕЕЕДДДДЦБАЮъъччъъчщщэзыььыыьжуттсссрпоппппооннпоннннмллккллкклккйиийииииийкйихггггхгфефееффффедефеддддфддфгфеддбааба©╪╧╧╨╨╧╦╦╥╣╢Ё╢╣╣╢ЁЁ╡╡ЁЁ╡╡╡Ё╣╣Ё╞╜╛╚╛╛╛╚╚╚╚╙╚╝╞╛╚╛╜╜╚╗╖╕╖╘╘╔╓ё╒╒╒ё╓╓≤∙∙■▌▀█▐▄┴┤├┘┘┴▐▐▌▄▀▄▐▌▀┤┐─┌┤┼┬├┬▀▒▓▌▌▌▄┼┤┌|xvtqnorvz{{y}└┬┴┴┴▀░▀▀▌▒■∙⌠▒░▌▄┴┤┬┘}xvtttstv{|~┐┴▀┬┐}}||||||~}|}~{xzzz~│─┐▄█√·║ё╕╓·÷╒╕╗╚╝╟╠Ё╦╬бдхмяпомййихфххгффда╫╨╨╧╦╥╤╣╣╢╢╠╞╝╝╜╛╚╚╚╙╘╘╘╙╗╗╗╖╕╔╓╓ёё╒╒═÷²° ≥≥≤≤≤√∙■⌠▒▐▌▄┼┴┴┬┤┘└┌~}|ywusqpnljihfdb][WSQPMJHGEDCB@?=<;:946
+
+!$&(+--/134577:;>@BDFGHHIJKMOQTUWXZ]`begjmnqsuvvwz}─││┐└├┬┴┼▀▀▄▌░▒▓▓⌠∙■√≤ ⌡⌡°°°²·═║ё╓╔╒╒╒ё╔╕╖╗╖╖╗╙╚╙╙╚╚╛╝╝╝╝╞╠╣╪ааююааю©©ацц╬╧╦╦╦╦╨╧╣╟╚╗╕╔╔ё╒║║═·° √⌠░░█▀▄▐▒▐█▐▄┬└┐│~zz{{zxxxyvvy{{{||~|z|~{z~─wmeaefbca`aceeeaaacdfijlnrtrnigecbdda^^_b`[[__ZWWVVX[`cbchq{│├▀▄▌▒▓■≈ °·╒╖╙╗╔╔╖╗╘╚╞╢╥╦╥╦╦╨╫╫╨╧╨╨╨╧╦╦╦╧╨╩╩╩╨╨╧╦╦╨╩╫╬╫╫╪╫╬╬╬©©╬╪╩╨╨╨╨╨╧╧╧╧╦╦╨╪╫╬╬╩╩╩╩╪╬юбабцддцццбю©©╬╬юддддеефффефецаааюббббббцдфггхгфеедеффеефгффффгхийхиййййккммммнммноонноопяяррррррстуутттуувьызшшээщчЮААААААААААБЦЦДДЕЕФФФФФФФФФФЕЕФФФФФЕЕЕЕЕЕДДЕЕЕФФФЕФФФФГФФФГГГФГГХИИИИИИИИИИХХХИИИИИИИИИИИИИИИИИИИХХГХХХХХХГГГГФФФФФЕЕЕЦЦЦБАЮъчъъъъчщэшьььыыьжусссттсяппппоонннонннннмлллккккклккйиийиихийккйхгееееффееффффффееееффеддцедефгфедццаабб©╪╨╨╩╨╧╦╥╥╢╢╢╢╣╣╢Ё╢Ё╡╡╡╡ЁЁЁ╣╣Ё╟╜╛╚╙╙╚╚╛╛╚╙╙╜╜╘╘╜╝╜╜╘╗╗╖╗╗╔╔╓╒║║╒ёё°≈√■█┴┼▀█┴├┘└└┬▌▐▌▄▀▄▌▐▌┤└│─┌└├┤┤┤▀▌▐▒▐┼┬┬┘─ztpnnnqvyyxy}┐┤┼▀┴▄■▒▓⌠∙√√■▓⌠▒░▄┼▄┼┌zwuttttv~}┘┼┼├┐~}~}|{{z{~─~|yyyx{─┌┬┴░≥═╔╕ё²·║╔╗╚╜╟╠╢╦╫юцфлппомкйихфгггффдю╪╨╨╧╦╥╤╤╣╣╢╠╞╝╝╝╛╙╚╚╙╘╗╘╙╖╖╖╕╕╔╓╓╒╒╒╒║÷²°≥≥≤≤≤≤√∙■⌠▓░▐█▀┴┴┬├└┌─}}{ywvtrpnljihfca\YURPOKHHGEDCBA@=<;9845	
+	
+ #%(+--.1345679;=?ACEGGHIIKLOQTUVXZ]`bdfilnprtvvwz}───┐└├┬┴▀▀▀▄▌░▒▒▓⌠■■√≤  ⌡⌡°²²·÷║╒ё╓╒╒ёё╓╔╕╕╗╗╗╙╚╙╘╙╚╛╝╝╝╝╞╟╢╩ааююаа©©юацц╬╦╥╦╧╧╧╦╢╞╛╗╕╕╔ё╒╒═·° ≈■░▌░█┼▀▐░█┴┬┤┘┐┌│~zxxxxwwwxxxx{}{yz|}|z|{xx|wpgadgedcbaacfhbaacfijikmppmidacbbbb`^\\``ZY\\YTUVWWZ_cdjqy┌▀░▒▒∙≥≥≥⌡·÷╓╕╘╙╘╖╙╜╜╝╠╤╨╪╩╨╦╦╩╬╫╨╧╨╧╧╦╦╦╧╨╩╩╩╩╪╪╩╩╨╩╪╫╬╬╫╫╫©©©юаю╬╫╪╪╩╩╨╨╨╨╧╧╨╩╫╬╬╪╩╩╩╩╫©ааабцддцддбаююю©ацдддеефффефебааббббццццдеггхххггфефггффгхффффгхиихийккйклмнннннннппооопяррсссрррсрсттужвьььызшшээчъЮАААББББААБЦЦДЕЕФФФФФФЕЕЕЕЕЕФФЕЕЕЕЕЕЕЕФФФЕЕФФФФФФФФФФФФФЕФГГГФГХИИИИИИИИИИИИХХИИИИИИИИХХХХИИИИИХХГГГГГГГГГГГГГФГГГГФФЕЦЦЦБАЮъчААЮъчэшзьььььвжуссттутрппппоооннмммммммлммлккллллйиййййихийкйигфдцццдеееффффффедефггфеедееффгфедбцббццю╪╩╪╪╩╧╦╥╥╣╣╢╣╣╣╢╢╡╡╠╠╠╡Ё╢╢╣╣Ё╠╝╛╛╙╙╙╚╛╛╚╙╘╛╛╗╗╜╞╝╛╘╗╗╖╗╘╖╔╓║═║╒ёё·≤√■▌┴┬┬▀┤└┘┘┘┤┼██▄▄▀▀▄▐┼┤┌─┐├┤├┌┐┴░■░┤┐┤┴├~uompoquxwxz~│┘┬┼┬┼▒∙√≈≤≤≈√■⌠⌠⌠░█▐█┤{xvvvvx──┌┬▀┴┘││──~{z{x|─┌│~{zyzwv|│┐┐├┴▓·╓╓═··═╓╗╚╜╟╡╣╧╪©аекояпнлйхххфффффд©╨╧╧╦╥╤╣╣╣╢╢╡╞╝╞╝╜╙╚╚╙╗╗╗╘╖╖╖╕╔╓ё╒╒╒╒╒║÷²°≥≤≈≈≤≈√■⌠▓▒░▐█▀┴┬┤┘└┌│}zywvusqpnljhgeb_\XTQPNKHHFEDCB@?<<:9835	
+		"$'*--.0235688:<>@BDEGHIJKLNPTTVXZ\^aegiklnprwwxz|}~│┌└├┬┼┼▀▄▌░▒▒▒⌠■■√≤≥≥≥ ⌡··÷÷══║║ёё╓╓╓╔╕╕╘╗╗╙╙╘╘╙╚╛╜╝╝╞╞╟Ё╨ааюааюююабцб╬╨╤╦╨╨╧╤╡╞╚╖╔╔╔╒║║═²⌡≥√⌠░▐▐█▀▀█▌┴└┌┌┌───}xvuuutssxxwy|yvw{}|z{zwuutrkcdgfdeeb`bfidcceikjhikljheb_`aa``_][[__[YZZYUVWVUV[`is}└▄∙≈∙■≥²²·║╓╓╖╗╘╙╘╙╝╡╠╡╣╨╬╫╩╧╦╧╪╬╫╨╧╨╧╧╧╧╨╩╩╪╩╪╪╫╫╫╫╫╪╫╫╬╬╬╬╬©©юацца©╪╪╪╪╪╪╪╪╪╫╬╬╬╬╪╨╫╫╪╫©аааббццццддббааааабддееффффееецабццццдддеффггххиххгггхххггхггггххиихйккккклнннмнооопоооопярссттсстуужжжуужвьььызшээщчЮАААБЦЦЦЦЦЦЦДДЕЕФФФФФФДДДДЕЕФФФЕЕЕЕЕДДФЕЕЕЕЕЕФФФФЕЕЕФФФЕЕФФГФЕХХИИИИХХХИИИИИХХИИИИИИИИИИИИИИИИХХГГГГГГФФФГГГГГФФГГГФФЕДДЦБААЮЮЦБЮъщзыыьььвввжуттттутряяппооооомллммммлмнмккллллйийккййийккйхффдцббдефффеееффедефгггффффггффффебццбцда╪╫╬╫╪╨╧╧╧╥╤╣╣╢╢╢╢ЁЁЁ╠╠Ё╣╤╣╣╣╢╠╝╛╛╚╙╙╙╚╚╙╘╗╙╚╘╗╛╞╞╙╖╖╗╖╖╘╘╔ё║║╒╓╓╓²√■⌠▐▀┴┤┬┘┐┘├┘┘├┼┴┼┼┴┤┴█▌┤─┌┘├└└──├▌⌠▐┘│┘▀▀┘{sqrppsuvxz}─│└├┘┤█∙√≈≤≤≈√√▓⌠∙⌠▐▐▌┼└─|zyyyz│├▄▌▀┘│││││~yx{{~┌┐─|zxxzvsy─│─┘├▌⌡ё╒═║÷═╒╖╙╜╞╠╤╦╩╬юдйоряомйггхеееефд╬╧╦╥╥╤╣╢╢ЁЁЁ╠╞╞╞╝╛╙╙╙╘╗╗╗╗╖╖╕╕╔╓ё╒ё╒╒║═·²² ≤√√≈≈∙⌠▓▒░▐▌▄┼┬┬┤├└┐│}zywvutrqnljhfc_]\XTRQNKIGFDCBA?><;:8735	
+		!#&)+-.0135788:<>@BDEFGIJKMNOSSUWY[]`dfijkmoquvxyz|}~│┌┐┘┤┴┼▀▀▄▌▐░▒⌠∙∙≈≤≤≤≤ ⌡²²²·÷══║ёёё╓╓╔╕╕╘╗╗╘╙╘╙╚╚╚╛╜╞╞╟╞╠╧юаююю©©аббба╬╩╥╧╩╨╦╤╡╞╚╖╔╔╔╒║║═² ≤√▓░░▐▐▌█▄▀┘}│─~}|xusssqppvwvx{wtx{{yyzvrtqqsoheffdffcbdefeccglnliijhdaa`_]__]\]][\]][ZZYXVWXXXZahw┬▐∙≥≥≤≥°·÷╒╖╗╖╘╘╙╚╚╛╞Ё╣╣╥╪╬╪╧╦╧╪╬╫╩╨╧╦╧╧╨╨╩╩╩╩╩╩╪╫╬╬╬╫╫╫╫╫╬╬©©ююабддбю╬╫╫╫╫╫╫╬©юю©╬╬╫╪©╬╬©аббюбццццццдббааабццддефгффффгфцбцддбцдеефггггхииииииихииихххххххххихйллкклмнооннппоппппяярсстуууужвьььвжуужьввьзшэээщчъъЮАБЦЦДДДДДДДДЕЕЕЕЕЕДДДДЕЕЕФФФФФЕЕЕЕЕДДДДДДЕФФЕЕЕЕЕЕЕЕЕФФФФЕХИИИИХХГХХИИИХХГХХХХХХХХХХХХХХХХХГФФГГГГФФФФФГГГЕФФФФФЕЕЕДЦББББББЮчщшыьыыывужввутттттсряяяппооппммммммлккллккллкмкиклкйкйкккигфецццдефггеееефееддефффффгегфеефгфцдцацеб╫╫╬╫╩╧╦╧╨╧╦╤╢ЁЁ╢╢╢╤╣ЁЁ╣╤╤╤╣╢╢╠╜╚╚╛╙╘╘╙╙╘╗╖╘╚╙╗╘╛╞╙╖╖╗╕╕╗╗╔ё╒║ё╓╓╓⌡⌠░░▌▄┼┬┘┐┐┘┘┐┌└┤┘├┬┤┘┤┼█┬┌─┌┐│┐─┌├▀▐█├│┐┬▀┴│yurqppqswy|──┌┐┤▌■∙≈≤≈√∙■⌠▓■■▒▐█┼┤┌~}|zzz|┌┴▌▐▄┤┌│┌┐┐~xx|~──}zxwywuy}~┐┘▄√²═║╒═÷═╔╙╛╝╟╤╦╨╪©циняппнкгфгееддед╬╧╥╥╥╤╤╣ЁЁЁЁ╠╟╞╝╜╙╙╘╗╗╗╗╗╖╕╔╔╔╔╔ё╒╒╒║÷··²² ≤√√≈≈∙⌠⌠▓░▐▌▄┴┤┬┤┘└┌─}{zyxwvtrqnligeb^[[WSRPMJIGFDCA@>=<;:8735	
+	 "%(*-./124799:=?ACDFFGIKLMNORRTWYZ\`behjkmoqstwxy{}│┌┐┘┤┴┼▀┴▀█▌▐▒⌠√√≈≤≤≈≤≥⌡ ⌡⌡²·═║╒╒╒ёё╓╔╔╕╗╖╖╘╘╙╚╛╚╚╚╜╞╟╟╞╟╦©аюю©╬©абааю╫╩╥╨╪╨╦╣╡╞╛╗╔╕╔╒║╒÷⌡≤√■░▐▐▐░░▌▄┴┌{z~┌┌}zwxtssspootwvxzvtz{wuxyqnsppsrlgfedffededccbchnqokkjf`]]^^[^^[Z[\[]\ZZZZXVUWY\_eq{┬▀▒≈  ⌡°÷═══╔╙╙╕╛╛╛╜╝╝╟Ё╨╧╨╫╬╪╧╧╨╫©╪╨╨╧╥╦╧╨╩╩╩╨╨╨╨╩╪╫╫╪╪╬╫╫╫╬©©юбббцдда©ю©©╬╫╫╫╫©аа©╬©ю©ю©©юбца©ццццббцдббаюацдедефгхгффгхгдцдддбцддеефгфгххиииийиииййихххггггххийллкклннооннпяпппяярсттужжжжжввуужввьызьвжвышээзшщччъЮАЦДДЕЕЕЕДЦДДДДДДДЕЕЕДДЕЕЕГГФФФЕЕЕФЕЕЕЕЕЕФФФЕЕДДДДЕЕЕФФГФЕИИИИИХГГХХИИИХХГХХХХХХХХГГГГГГГГХГФФГХГГГГГГФФФФДЕЕФФЕДДФЕДЦББЦЦЮщэшзыышыывууввуттссссряяяппппппннммммлкиккййллкнкикллккйккйхфеебцдегхггеддеееедцдеееефгеффддфггцдцабдц©╫╫╪╨╥╥╦╧╨╦╤╢ЁЁЁ╢╢╤╣Ё╡╢╣╣╥╣╢╢╠╛╘╙╛╙╗╗╘╘╘╗╗╘╚╙╗╖╙╞╚╗╗╗╔ё╔╔╕╓╒╒╒ё╒║ ▒█▌█▄▀┬┐┌┐┘┐──┐┘┌┌├┤┘┘┬┴┴┤┐|||┌┌┘┬┬▀▄┬││┐┬┴└|wrqomnqvx|──~┐┴░■√≈≤√■▓▓∙▓⌠∙▓▐▄┴├┐~}{yx{┌┼█▌▄┴┘│┌┘┘xy}─~}}~~{yvxxxzz{─┐┴▐√°÷÷║·÷╓╘╛╝╞╤╥╧╩╬цимоопплгефгфдцдц©╨╥╦╦╦╥╤╢Ё╡Ё╡╟╝╜╚╗╙╘╖╖╗╗╖╕╔╓╓╔╕╔╓ё╒║═·²²²² ≤√√≈≈■▓■⌠▒░▌▄┴┤┤├└┐│~zxyxwutrpnmkhfda][ZVRQOKIIHFECBA?><;98734
+
+	
+ "$'*,-.1235789;>@BCCEGHJJLMNPSUVWY]_bdgiklnpssuwz|~~│┌┌┐┘┤┴┼▀▄▌▐░▒⌠∙∙√≈≈≥⌡⌡ ≥ ⌡²÷═══ё╒╒ё╓╔╕╕╕╖╗╗╗╗╘╙╗╙╛╚╛╝╞╞╠╤╫бб©©©юююбб©╪╩╦╨╩╧╤╢╡╠╘╖╕╕╕ё╒║° ≤√⌠▐█▌▓▐▐▌┬┐~z{}│┌│~xtvurpoqsuy{{ywwwuzzzxtpnmnnprplgehfefiie`efgijloqmf_[[\\\\\\\\\[Z[XXY[__ZX\aflu├▓■≤⌡°²÷║║ё╓╓╔╖╙╙╠╝╛╜╟╡ЁЁ╤╩©╬╪╩╨╧©╬╫╪╩╨╧╧╨╨╨╨╧╧╨╩╧╨╩╫╬╬╬╬©©╬╬©юаадццддбю©аю©╫╫╫╫╬юабба©©╬ююабббббцдддццддцццццццццдехихггггфеефецддеддефгххииййййккййиихггггггхииийллкклнпппоопярсррстжжужжвввььььвввьыззььььызшэшшшэщччщчъЮАЦДЕЕДДДДДДДЕЕЕЕЕЕЕЕЕФФФЕЕЕДДЕФФФДДДЕДДДЕЕЕЕЕЦДЕФФЕФФХИИИИИИИИИИИИХХХХХИХХГГХГГГГХХХХХГФФФГГГГФФФЕЕЕЕЕЕЕФФЕЕЕЕДЦББАЮчээшзыьььжввужвжтуссутряспппярряонммлкйййкйййккклмлккккййккйхецбадббеххгфеедддддеддедддефдеееефеццбббцца©╩╩╨╧╦╥╥╥╤╥╦╦╤╢╢╢Ё╢╣╤╤╤╤╥╤╣╢Ё╠╞╚╘╙╗╗╙╙╘╗╗╗╘╙╙╙╚╛╝╛╙╖╕╔ёё╓╖╕╓╒╒║÷· ≈░┼┤┴┴┤├┐│┐┐┐└├┘│┌┘┘┘┤┼┴├│{xy|~}│┴▄┬┤▀┘└┤┤└~yrnoompv|│┌┬█░░⌠■▓⌠■▓░▓⌠▓▐█┼┬┐│~}{{}}┐┴▀▀▀▀┴├┬┬┐}||}~|zz|}|zuuwzzz{~z─┘┤┴⌠°²║╒║╓╙╜╜╟╢╧╨╩╬бхпяяпнкхфффдцддц╬╨╦╦╦╣╢╢Ё╡╟╟╠╠╟╜╙╗╘╘╗╗╖╖╕╔╔╔╔╕╕╔ё╒║══÷·°⌡⌡ ≤≈≈≈■⌠⌠▓▓▒▌▄┼┼┼├└┐┐┐│|yyxwvtromljgdb_]\WVTQNLJIFEDCBA?>::98734
+
+	
+
+ "$'*,,.1224789;>@BCDEGHIJKMNPRTUWY\^bdgjkmoqstuwy{}~││┌┐┘┤┬┼▄█▌▐▐▒▓■■∙∙∙≈  ≥  °²÷══║╒╒╒ё╓╔╕╕╖╗╘╘╘╙╚╚╗╚╛╚╛╝╞╞╠╣╪абю©юаююбб©╪╩╧╩╨╦╣Ё╠╟╙╗╕╕╕ё║═⌡ ≤√⌠░▐▒▓▒░▄┘─|zy{│┌{uttsrqpsvyyzzxwvvvyz{xsommnprtsoieggfgjkhdefghikmoid^\[ZZZ[[Z[[ZYXYXXXY]_\^cjqy│┼▒√≤⌡²·═ё╕╔╕╕╕╖╙╛╜╟╞╞╟╡╢╣╤╦╪╬╫╩╩╩╩╪╪╫╪╨╨╩╩╩╩╩╨╧╨╩╩╩╪╫╫╬╬╬╬©©©©юаббцбцддбю©аю╬╫╫╫╫╬юаббаю©©ююабббббццдцццдедцццццддддфиихххгхфееффдефффееффггххиййкйййййииигггхххиийкллллнояяяяпярстттужжжужжввььььььввььызыыыыызшээшшэщчщщщчъЮАБЦЦДДДЕЕЕЕЕЕЕЕЕЕЕЕЕФФФФЕЕЕЕФФФЕЕДДЕЕЕЕЕЕЕЕЕДЕФГГФГГХХИИИИИХИИИИИИХХГХХХГГГГГГГГХХХХХГФФФГГГГГФФФЕЕЕФФФФФЕЕЕДЦБАЮъчщшшзыыыыыжжжуужуссссссряряппяяяпомммллллкйййййкклмлйииихгййхгедццдбцфххггффееддддццццццдецефеддедббабббю╬╩╨╧╦╥╤╥╥╦╦╧╧╦╤╣╢Ё╢╤╥╥╥╥╥╣╢ЁЁ╡╞╛╙╘╗╖╘╘╘╗╘╙╙╙╘╗╗╚╜╚╘╖╖╕╔╓╔╖╕╔╓║÷·²⌡√▐┼┬├├├└┌─┌└└┘├┤└┌┘┤┤├┤┬┴┬┌|xz~~|┘┬├└┘┘│─┐└┘┘└~wrpnlpu{~───└┴█▐▌░░▒∙√▓▒▒░▐▌▄┬┘┐┌││}}┐┬┴┼▀▀┼┴┬┘│~~~}|zwwy{{zxusuy{~─}│┌─┐█≥═║╒╒╓╘╛╜╟Ё╦╨╨╬ахопппнлигфедцддб╬╧╦╦╥╣╢╢Ё╡╟╟╟╟╞╜╙╗╙╘╗╗╖╖╕╔╔╔╓╓╓╓ёё║║═÷·²°⌡ ≤≈≈≈∙⌠⌠⌠▓░█▀┴┴┼├├┘┐│|{xwvtsqnmkjgdb`^\VUSPNKJIFEDCB@?=;:87624
+
+	
+
+!#'),,.0124689;=@BCDEFHIJKLNOQSUVX[]bdgjkmoqstvxyz|~─││┐┘┤┴┼▄█▌▐▐░▒▓■∙∙∙√≥ ≥ ⌡°²÷══║╒╒╒╒╓╔╔╔╖╗╘╙╙╙╚╚╘╚╛╛╛╝╞╞╠╣╩абю©юююабб©╫╪╩╩╨╤Ё╡╠╞╛╗╔╔╔ё║÷ ≥≤√⌠░▒⌠▒▓▒┴|~}{tv─┐{turrrrruz~|{yxvttuxz{xsommoqttusledggfhkieffghhijjc`][ZXXYZYXXYYWUVXYXY]abglu~├▌∙≥⌡°²·═ё╖╘╘╘╘╗╘╜╞╞╠╡Ё╢╢╣╦╧╩╫╬╪╨╩╪╪╨╩╫╪╨╨╩╫╫╪╪╩╨╨╩╪╫╫╬╬©©©©©©©юабцдцббдда©╬©©╬╫╫╫╬╬юаццбаю©©юаббббббцццццдедддддеефффгийихиххфееггфггггффффгггхиййккккккййиииииииййклмммнпярссрррстжжжжввжжуувььыььыьььььыышззззшшэээээщщщщщччЮЮАББЦДЕЕФФЕЕФФФФФФФФФФФФФФФФФФЕЕЕЕЕДЕЕЕЕЕЕЕЕЦДЕФЕФФГХХХИИХХХИИИИИХХХГХХГГФГГГГГГХХХХХГФФФГГГГГФФФФФФФФФФФЕДДЦЦБАъщщщшшззыьььвввжжвжтрсссрсряяяппппоннннммлллииииийййкйиххххгйигфддддццдфгггхххфедццббббббцдецегецдеецбааба©╬╩╨╦╥╥╥╦╦╦╧╧╧╧╥╣ЁЁ╣╥╦╦╥╥╥Ё╡╡╡╠╟╝╛╚╘╖╗╗╖╖╗╚╙╘╖╕╖╙╜╛╘╖╗╗╖╔╓╔╕╖╔╒═··°∙▐▄┴└┐┘┌─~─└┘┘└┘┌│┘┤├┘├┤┬┬┌|y{~}{|─┐┐─~┌─│┐┌┐├┤┐~wqmmquz}│├┼▄▌▄▄▄▐√≈▓■▓░▌██┴┘┐┐┐│}~──┐┤┬┴┼▀┼█┴┐─│─~ywssuxyyxspsy}~┌~y}┤⌠║╒╓ё╓╗╚╜╟Ё╥╧╨╫агннооомйхфедццдб╫╧╥╦╥╣╢╢╢╡╠╟╟╞╝╜╙╘╙╘╗╖╖╖╕╔╔╓ё╒╒ёё╓║║║═·²°⌡≥≤≈≈√∙⌠⌠⌠▓▐▄┼┴┴┼├├┘┐─}||xwusqpnlkigdb`^]VUROMKIHFEDCB@>=;:75513
+
+	
+
+!#&)+,-0124678:=?ACDEFGHIJLMNORUWXZ]acgikloprtvxxy|~──│┐┘┤┴┼▀▄█▌▐░▒▓■∙∙∙√≥   ⌡°²·÷═║╒║║╒ё╔╔╔╔╕╗╘╘╘╘╙╘╙╛╛╛╜╞╞╟╢╩юбаюаю©юба©╫╪╪╩╦╣╡╡╠╟╝╘╔╓╔ё═²≥≤≈■▒░▒⌠░▒▐┘{z|{wpoy~zuuqrsttx}┌│|xvsqqtwxyxurommprqssnfaefcdhhdfffffedd_][ZXVWYYWVVWVTRTY\\^bgmsy┌▀▒√ °·÷÷═╒╓╖╘╘╚╛╚╚╝╟╟╢╣╤╤╥╦╧╨╫╬╬╪╩╪╫╫╩╪╫╪╩╩╪╫╬╫╫╩╨╩╪╬©©©©©ююаюааабцдецбцдда╬╫╬╬╬╫╫╬╬©©юбббюю©©©аббббббббббцдеееееефгггфхййихиххфеегхгггххгфффггхиййииллллккййкййййййклмммноясттуттстужжввввжутувьыыыыззыыыыззэшшшзшшшээээщщщщччъЮЮААБЦЦДЕЕЕЕЕФФФФФФФФЕЕЕФФФФФГФЕЕФФЕДЕЕЕЕЕЕЕЕЦДЕЕЕЕФФХХХХХХХХИХХХХХХХГХХГГФГХГГГГХХХХХГФФГГГГФФФФФФФФФФФФЕДДЦЦЦБАчщщщщэшзыввжьввввжутсуусртсяряппппппппоомлккйиииххииихххиййикйгедццбццдфгфгхихфедцббцццццдефцефддееедцбабаю╬╪╨╧╦╦╦╧╧╦╥╥╦╦╥╢╡╢╣╥╦╥╤╣╣╟╟╠╠╟╟╝╝╝╚╗╗╖╔╔╔╙╘╘╖╖╗╚╝╝╚╘╘╙╗╓╒╓╔╕╖╔ё║═°≈▒▄┬┘└└│|}│└└┐│~│└├├├┬┴├─{y{}{zz|─~{||─┐┌└┤┤┘┌|tooruxz|}│├┬┴┴┴┼┼█∙≈▓■⌠░█▄▄┴├└└┐{z|~─┐┘┤┴┼┼┼█┴┐││┌│vtrqsvwwusqu{~~|}│zv|┐█°╒╔╔╓╖╙╛╞Ё╥╧╧╫афмнноомйгеедцддб╫╧╥╦╥╣╢╢╢╡╡╠╟╞╝╛╚╘╙╘╗╖╖╖╕╕╔╓╒╒╒ё╓╓║║══·²⌡ ≥≤≈≈√∙⌠▓⌠▒▐█▀┴┴┴├┘└┌─~||xwtrqomlkigdb_][VTQNLJHGFEDCA@><;:75403
+
+	
+
+ "%(++-0124678:<>ACDDEFGHJLMNOQUXXZ\`behjknopsvwxy|──┌┐┘┤┴┼┼▀█▌▌▐▒▓■∙∙∙√≥   ⌡°²²·═║║║║╒ё╓╔╔╓╔╖╗╗╗╘╘╘╙╚╛╛╜╝╞╟╢╨юбаюа©©юаю╬╫╫╫╩╥Ё╡Ё╡╠╝╘╓╓╔ё÷⌡≤≈∙▓░░▒▓░▐▀┌z{{wpljntwusrstuvy}─zurpnpstuuuvvrmlmmlnqnh`ccbcggeeeeedb`^^][YVTVYYWUTTTRQT]bcgkqy│┤▌∙ °²·═║╒ё╓╔╕╖╗╛╞╞╝╞╠╡╣╣╤╥╧╩╩╩╬©©╫╫╫╫╪╫╪╪╪╬╬╬╫╬╬╫╪╪╪╫╬юююаабццбббццддеедцдцю╫╫╫╫╬╬╬╬©©╬©аааю©©©юабццббаббббцдеедддефггггхййихиххфеегхгфггггггггхйккйихклллммлллллкккллмнннояртуужжуууужжввжжууужвьызззшшшзззшшэээшшшшшэээщщщщщччъъЮЮААБЦЦДДЕДДФФФЕЕФФФЕЕЕЕФФФФГФЕЕФФФЕЕЕЕЕЕЕДДДЕЕФФФГХХХХХХХХГХХХХХГГГХХХХГГГХГГГГХХХХХХГГГГГГФФФФФФФФЕЕЕЕДЦЦББББЮщээщээшзывжжжжууутсссуусртспрряяррррррряпнмлмлккйиииихххийййкифддццбццдфффгххгеддцббцбббцдееддддеффддцаааа©╬╪╨╦╦╦╦╦╦╥╤╤╤╥╤╢╡╢╤╥╥╤╢Ё╡╝╞╞╞╞╞╝╝╞╛╘╗╕╔╓╔╘╘╙╘╗╘╚╜╞╚╘╙╚╗╔ё╓╓╔╕╖╕╒÷  ■▀┤┤┘││~{y}┌┐│┌}┌┘┤┬█┼┘~{{||yyz{~~}|zz}─│┘┬┤├┘─ytrrrtvxz┐├┘└├┴┼▀▒∙▓▐▐▌┼┬┤├┘┘┘┌}xwz}─┐├┴┴┴┴┼┤└┐┐│}tsrrtuuustuwz||{}}us{─┤∙║╕╕╔╖╘╚╝Ё╥╦╧╫афлнопонйгеедцдеб╫╧╥╦╥╣╢╢╢╡╡╠╟╞╝╜╚╙╙╘╖╖╖╖╕╔╓╓ёё╓╓ёё═══÷·° ≥≤≤≈√√∙⌠▓▒▒▐▌▄┼┬┤└┐┌││|zywurqomlkigda^[YUSPMKJHFFECBA?=<;974303
+
+
+
+
+!$'++-/1135789;>@BCDEFGHIKMNNQVXXZ\^adgijmoprtvwy|~──┌┐┘┤┬┴┴┼▄█▌▐░▒▓■∙∙√≤≥≥≥ °°°²÷═║║═║ё╓╓╓╓╔╕╖╖╗╘╙╗╘╙╛╛╜╝╟╟Ё╧©аююю╬╬©аю╬╫╫╫╨╤╡╡Ё╡╟╜╗╓╓╓╒· ≤√■▒░▒▓▒▒▄├z{ytlkhhmuvrsttuuwy{xtpnmnprrqoosvsnkkjhjnnkcbabfiigeeffeca__][YUTUXZXVUUUUU[fkmtx~┤█▒√⌡·÷═║╒ё╔╕╖╖╖╖╘╜╡╡╡Ё╢╣╣╣╤╦╩╫╬╬©юю╬╬╬╫╪╫╩╩╫юаю©╬╬╬╫╫╫╬©аабццддецццддееефдццбю╫╫╫╫╬╬©©©©╬©юююююаюабцдццббббббцефддццдеффхгхййххиххгефххгффггфгхигийллкихйклмноопммммммммноопярстужввжжжжжжжжжужжжвьыззшшэээшшшшшэээээшшшээщщщщщчччччъЮЮАБББЦЦЦДДФФЕЕЕЕФФЕЕЕЕЕЕФФФЕЕЕФФЕЕЕЕЕЕДДДДЦДЕЕЕЕГХИИХХХГГХХХХХГГГГХХХХГГХИГГГГХХХХХХГГГГГФФФФФФФГГЕЕЕДДЦБББАЮчщэээззззыььввжужжтсссттсрсряссрсстссрсссряпппонмллкккййиййиихфдддддццбцефффггфддддцббааабццддццдфхфцдбю©юю©╬╩╨╦╥╥╥╥╤╣╣╣╣╣╢Ё╡╢╣╤╣╢╡╟╟╝╝╝╝╝╜╝╝╝╚╘╗╖╕╕╕╗╘╚╙╘╘╘╙╛╙╘╙╙╘╕╔╔╓╓╕╖╕║² ⌡√▀┘├┐~─~zwz─┌─┐||─└┤┬▐▄┘~|~~{zxy|}}|||z{|}┐┬┤┤├┐~yuqorsuw|─┌┌│┐┤┬┬▀░░▄▄▀┤┘└└┐└└─{wxz|}~─└┤┬┤┤├└└└┐─|zttsttttstvxwvwz||wppx|┐▐·╔╖╕╖╘╙╜╢╥╦╧╫юекппппнлхфедцддб╫╦╥╦╥╣╢╢╢╡╡╠╟╞╝╜╚╘╘╗╖╕╕╕╕╔╓╓╓╓╓╓ё╒══÷·²⌡≥≤≤≤≈√∙∙■▓░▐▐▌█▀┬├└┌│││|xxwusqomkkifc`\YWUSOMKIGFEDBA@?=;:864303
+
+
+
+	 $&**,.0024779:=?ABDDEFGIKLNMPVYXY\^`dfhjlnpqsuwy{|─│┐└├┤┬┴▀▄█▌▌▐░░⌠∙∙√≈≤≤≤ ⌡⌡⌡°·═║══║╒╓╓╓╓╔╕╕╕╖╘╙╗╗╘╚╛╛╝╟╞╡╦╫ю©╬©╬╬юаю╬╫╬╫╨╣╠╠╡╟╝╚╖╓╓╓║² ≤√■▓⌠∙∙▓▒┬─{wwvrkkjhlrussrrstttsppnlmoppomjimrspmkihikmnhc`bghgebceffeb`][ZXVUWZZZYYZ\`bitvx│├┼■≈≥⌡·═║╒╒╓╔╖╗╘╙╘╘╛╞╠Ё╣╥╥╥╥╦╧╨╩╫©юааю╬╬©╬╪╫╪╪╬юаюю╫╬╬╬╬╬╬©аабцццццццддеффффдбба©╬╬╫╬╬©©©©©©ююююабцабцдедцбцццццдегеддддефгхххййихииихггххфгггффгхйхийкллкккклнопппннннннннпппярттуужвввжжвжввжжжвььььыызшэээээээээщщщщщэээшэщщщщчъчччъъЮААЦББББЦЦДЕЕДДДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕДДДДЦЦБЦДДДЕФГИИХХХХХХХХХХХХХХХХХГГГГХХХХХГГГГХГГГГГФЕЕЕЕФФФГГДДДДДЦБББАъчщщээззззыььвьвжввуттрярсссссттттуттсррссрряпппонммммнмлккккйгедддедццбадффффхфддддцбааююаббббцдефгфддбю©©ю©╬╩╨╦╥╦╥╣╢ЁЁЁ╡╡╡╡Ё╢╢╣╢╡╟╞╞╝╝╞╝╜╜╜╝╝╚╘╘╗╖╕╖╖╗╘╘╗╗╘╙╚╘╗╘╘╖╕╕╔╔╔╕╖╕╒÷²²≈█├└─|~~{vy┌─│~zz~┐├┤█▀├}~~{|xw|~{yyzyzyz┘└└┐│─~xsoprsuy~────┐├└├▄▐▄▀┴┘┐┐│─││~zxz|}|{|─└├├├├└┐┘┘│{xuttttsrqswyvsux{zsorvy│▀≥╒╖╖╗╙╚╜╢╥╦╧╪©циоооонлигдцццда╪╥╦╦╥╣╢╢Ё╡╠╟╞╞╝╛╙╗╘╗╕╕╕╕╔╔╓╓╓╓╓╓ё╒÷÷÷·²⌡≥≤≤≤≈∙∙∙■▒▐▌█▄▄┼┬├┘└┌─}{yxvusqoljigeb_\XVUROLKIGFDCBA@><;8754303
+
+
+
+	 #&))+.//14778:<>@ADDEFGHKLNMPVYXY[^`dfhjlnqqrtwyzz│┌└┘├┤┼▀▄██▌▌▐░⌠∙√√≤≤≤≤≥⌡⌡⌡⌡²÷║══║╒ё╓╓╓╓╔╔╔╕╗╙╖╖╗╚╛╛╝╟╝╠╤╪©╬╫╬╬╬юаю╬╫╬╫╨╢╟╟╠╞╛╘╕╓╓╓║° ≤≈■⌠∙≤≈■▐┘|wttsqjjihjorrrqpqrrpnmonmnqpmmlhdhorqoljiijmold_bffca]^`cdc`^YXWXXXZ\YZ[]_dkou~─┼▐⌠°·÷═║║╒ё╓╔╕╖╗╙╚╚╚╝╞╟╡╤╧╧╦╧╩╪╪╩╩╬аббю╬╬©╬╫╫╬©©©©©©╪╫╬©╬╬©©©юаббаююбцддефггецааю©╬©╫╬©©ююю©юаааюацдбцдеедцбддддддфггфееефгхихиййихиййихххгфххгффгийииййклмнммнноооонннннооопяястууутжвьвввввввжжжьзыыыыышээшшээээээщщщщщщщщшэщщщщчъъъъЮЮАББДЦББББЦДЕЕДЦЦДЕЕЕЕЕЕЕЕЕЕДЕФЕДДЕФЕЕДДДЦЦЦЦДЕЕЕФГХИИХХХХХХИИИИХХХХХХХГФФГХХХХХГГГГГГФФФФЕЕЕЕЕЕФФФГЕЕДДДЦЦБДБЮъчччщшшззыьвжьжужжтссрпятуттжутуууусррррряпонооннммммонммммммхфддедцацаацффффигедеецббаююабббюцеффффддбю©ююю©╪╨╧╦╦╥╣Ё╟╠╠╟╞╞╠╡Ё╢╢Ё╠╟╞╞╝╞╞╝╜╛╜╝╞╜╚╙╘╖╕╕╓╕╖╖╖╖╘╚╚╘╗╗╖╔╓╔╓╔╖╗╗╖╔ё║·≤░┬┌~||}{wy─┌─|zz~└┤┬┴┴├─}~}zxv{~zvuvwzzx|─││─{urpqsux|─│~─┐┌┐┴█▀┼├┐┌┌|}}|zz|}}{yy~┌└┘├┬┘└├┤┐|xvutssrqqrvyvstwywpqwwx─┴∙═╕╖╘╚╛╝╢╥╦╦╪©бхннмммкигдббццю╩╤╦╦╦╣╢╢Ё╡╟╞╞╝╝╛╘╖╘╗╕╔╔╔╔╔╔╓ёёёёё╒÷÷÷·²⌡≥≤≤≤≈∙∙∙■▒▐▌▄▀┼┴┬┤├┘┐│~{zzwvusqnkihfda^[XVUROLKIGECBA@?><;7653302	
+
+
+
+
+!$%(*+-.024579;<>ACDEFEEGJMMNPRUWXY]_adfikmoprtuwyz}│┌┐┘┤┤┴┴▀▄▄▄▌▓▐▒■√≈≤≤≤≥  ⌡⌡°²÷÷÷══║╒╒╒╔╔╕╕╖╗╖╖╘╘╘╙╚╜╝╞╟╟╢╩юю©╬╬юю©©юю╬╩╦╣╢Ё╠╞╝╚╖╔╔╓═°≥≈∙⌠■≈≥≈▓┤─zvttqjgeghfipuoqsqpqpmmoqoppmhjlkhehmpsnjijjijjfa`ehcZ]^^_aa^YVRUWUW\ZZ_cdiqxz└┴▄▐∙°═╒ё╔╔╔╔╖╘╘╙╚╚╛╜╝╟╡╠╠╢╥╧╨╩╪©аю╬╫╬ююаа©╬©ююа©©аа©©ююааю╬╬юбюацдцбаюцццегхгедбаююю©╬╪╫╬╬╬╬юабююбцббдеедцццддеееффффгхгффгхииикмнлйийххххггггйхггхххгййкккклмммммммммооооооярстттттттжжвыьуувжьыьвжьзыыызззззэшзшээээщщччччщщэээщщщщчщчъЮАБББББЦЦЦЦЦЦДДДЕЕДДДЕЕЕЕЕЕЕЕДДЕФЕДДЕДДДДББЦДБЦДЕЕЕЕЕХХХХГГГХХХХИЙЙХФГГФЕФХХФГГГГГГГГГГФФФФФГФЕЕФФЕЕФЕДЦЦЕЕЦБЮъъчщэшшзззывввьвжжуттссррррстужуутсррррсряпяпомннмллмннмнооооннйхффдбцеббцегхгфеггффгфдаааааббцедддедбюдб©╬©юаа╪╩╨╨╦╥╢╡╠╠╠╞╝╝╟╡ЁЁ╡╟╟╟╝╚╝╞╝╛╚╜╚╖╚╙╘╘╗╗╗╗╖╕╖╖╖╕╖╘╘╗╖╗╘╖╔╓╕╓ё╓╔╔╒÷²· ▒┴└z{yxz|~──~┌─}─┤┤┘└└│}{}│{yyxuqvwxwwy}─~}~─{xwuqotz{{|~||~│┐├┴▀┬┘┌─~|{|~|xx┌┌{uu{~│┤┼┴┤├└│}zxutuusrrrryzrtyvqpqsux~┐┼⌡╕╗╙╜╛╛╡╥╦╥╩©цхнммннлйхфддгею╨╦╥╦╦╥╣ЁЁЁ╠╞╝╝╜╙╖╖╗╖╕╕╔╓╓╓╓ё╒║╒╒║║═·°⌡  ≥≤≈√∙■■⌠▒░▐▌▄┼┴┬┤┤┘┘└┌─}zywvsqnlkkhecb_ZWVSRPMJHFFDCBA@><:9662211	
+
+
+
+
+!$%)*,-/124579:<>@BCDEEEGJLMNOQTVXY\^adfiklnortuwxy|~─│┌└├├┬┬┼▄▄▄▌▒░▓■√≈≈≤≤≤≥   ⌡²··÷÷═║╒ё╓╓╓╔╕╖╖╖╖╗╗╗╘╙╛╝╞╟╟╢╩юа©╬╬©©©юаю╫╨╤Ё╡╠╞╝╜╛╗╓╓╒÷° ≈≈√≈≤≈▓▄─}{xrokeikicaemspppooonmjmmlmnlikmkgeglormigfffgjifccd`Z]]\\^]YUURUWUY__diotx}─│├▀░⌠√⌡║╓╓╔╖╖╖╖╘╚╚╛╜╝╝╞╟╟Ё╡Ё╤╦╧╨╩╫©аю©╬©ююббю©юаюбаюаюююаюааю©©абаацццбаюабефффддцбаююю©╬╫╬©©ю©ююбабцбацедцццццццффффффггхгффгхиикмополккхххххххийихххиихкйййклмнннммннооппппяртуууууужжжуужвжуужвввввьыыыыззшшшшэшшшээээщщччччччэээщщщччщчъЮААББАБББЦЦДДДДДДДДДДЕЕЕЕЕЕЕЕДДЕФЕДДЕДДДЦБББЦБЦЦДЕЕЕЕИИИИХХХХИХХХИИХГГГФЕФХГФГГГГГГГГГГГФФФФГФЕЕФФЕЕФФДЦДДДБАЮЮъчщээшззшзьвжжжжууттттррссттуутттттсссряяяпонммммммнномнноооннкиггеццецццефггфдеедеффдббббббццдцбцдцбюаю©©©ю©©╪╩╧╥╤╣Ё╡╡╡╠╟╞╞╟╠ЁЁЁ╡╡╡╟╜╜╞╝╛╛╜╛╘╘╘╘╘╘╘╘╘╗╗╗╖╖╘╙╛╘╖╖╗╗╕╔╔╓ё╒ёё╒÷⌡⌡⌡≤▒┴┌}z}}|z{~|~~─│─~─└├└└└│}|┐┌}{yuqpswz{{{|~~}|{ysosyzyy|z{}~│┐├├└┐│|z{|{z|─│xuuy|}│┤┴┤└┐┌─}{yyxvuusrqpvxrtwrmmosvy|├⌠═╖╙╙╙╜Ё╦╧╦╩╬бфлллмнмкиецдфе©╨╦╤╥╥╤╢Ё╡╡╠╞╝╝╜╙╖╖╗╕╕╕╔ёё╓ёё╒╒╒╒║═÷·°⌡ ≥≤≈≈√∙■■▓▒▐▐▌▄┼┴┬├┘┘┘└│~{ywwusqnlkkgdb`^YVVRQOLJHGFDCA@?><:8552211	
+
+
+
+
+ #$)*,./134568:;=?ABCEFFGJKMMNPSUWX[]adfijllnqsuvxy{}─│┐┘┘┤┤┴▀▀▀█░░▓⌠■∙√≈≤≤≥≥≥ ⌡²··÷÷═║ё╓╔╒ё╔╕╖╖╖╕╖╖╗╗╙╛╝╞╠╠╢╨юаю©©©╬©аа©╪╧╣╡╠╟╝╜╜╜╘╔ё║·° ≤≤≈≈≈∙▌┤|||xpkiehoj`_cipqnllmlllgijijlkillkgdfjmnjecbabchjjgcb`]_]\\\\WSTSTUV\firu{┌├┤┬┴█▒√≥°║╓╕╖╗╘╘╘╙╚╜╜╝╟╠╠╡╡╡╣╢╣╦╧╨╩╪╬©ююю©ююаббаюаааддцаюаааааааююбцбббццбааюцфхфдббааююааюю╬╬©юааю©абддбацфддддедддгффеефггххгггхиинпяяяомлиихххиййййййииййлкийлмннонннноппооппясужввввввжжжжжжжьвжьвжвьыыызззшшшшшэшшшээээщщччъъъъщщщщщщччччъЮАААААААББЦДЕДДДДДДДДЕЕЕЕЕЕЕЕЕЕЕФЕДДФДДЦЦБББЦББЦЦДЕЕФГХХХГФФГИХХГХХХХФГГФФГГЕГГГГГГГГГГГГФФГГГФЕФФЕФГФЕДДДЦБЮАЮЮъчщээызшзывжужжутттттрстуууттрссссрряпяяпонммммммммммлмнооонмкиххгееедддеефффдддцдффедцццццццбаюабба©╬╬©©ю©╬╫╫╩╥╣ЁЁЁЁ╡╠╟╟╟╞╞╞╠╡Ё╡╡╡╟╜╚╛╛╙╙╚╚╗╕╖╖╖╗╗╗╗╖╗╗╔╕╘╚╚╙╗╕╕╕╔╕╖╓╓ёёё║²   ≤⌠▀│|{xzzy{│┌~}──~~─┘└└└─}~┌│││~|zvrmpuy{{zy~─||~~}}vqty{zyzyz{|{|}─┌┐┐│|z|zy|─┐┌─wwwxy|│├┼├┌}|z{zxvutrqosvtutmijntxz{|┌┼≈╓╚╗╘╞╢╦╧╧╩╬аекклмнмлкфццед╬╧╥╤╤╤╣Ё╡╡╡╠╞╝╜╛╙╗╖╗╕╔╔╔ёёё╒╒ёёё╒═÷÷·°⌡⌡≥≤≈≈√∙■⌠▓░▐▐█▄┼┴┤┘┐└┐┌─}zxvwusqnmkkfca_\XUTPOMKIHGFDB@?>=;:7452210	
+
+
+
+
+"$(*,./1345679;=?@BCEGHIJKLMNORUWYZ]`dfhjklnqsuvwxz}~─┌└└├┤┬┼▀▀█▐░▒▓⌠⌠■√≈≤≤≥≥ ⌡°²÷÷÷÷═╒ё╓ёё╓╔╔╕╖╗╖╖╖╗╙╛╝╞╠╠╢╧╬юю©ю╬╬юбц©╩╧╣╡╠╟╝╜╜╜╙╕╒═·⌡≥≤√∙√√⌠▀└{zyulijiemibdeemqlijjijleghhhiigijjgefikiea`aa``eilkgdb`a_]\]\XUTUWX\frx~~│┤▀┼▄▐▓√ ²║╓╖╖╚╚╛╚╚╛╜╝╞╟╠╡╡Ё╣╤╤╤╥╨╩╩╪╫©©©юабббаббаааббеедююббаабббббццццббццбббдфгфдбаюююаааааюююаббаюацддццдфддефффееггфеефггииихххийпяррряолййиххийкйкккйййкмкийлноопонмнопяопяярсуввввввввввьвжвыыжввввьыыыззшшшшшшээшшээээщщчъъЮЮЮчщщщщччччъъЮААААББААБЦДЕДДЕЕЕЕДДЕЕЕЕЕЕЕЕЕЕЕФЕДЕФДДДЦЦБЦЦБББЦДЕФГФГГГФЕЕФХХХГГГГГФГХГГГГЕГГГГГГГГГГГГГГГГГФЕЕЕЕФГФЕДДДЦБЮААЮъчщээзззыьвжжвжуттсссстужжутсррсссряппяяонммнннннмлкйллннонмлйиххххггфеееедддеедцдеееддццбббаю©╬©юю©╫╫╬©юю©©╬╫╩╥╣ЁЁЁЁ╡╠╟╟╟╟╞╝╟╡Ё╡╡╠╞╛╙╚╙╘╗╘╘╖╔╔╕╖╖╗╗╗╕╗╖ёё╖╙╘╙╗╕╕╔╓╔╕╖╕╔╔╓ё═²²⌡≥∙▀─{|stux|│┐┌─│|{}~~┐┐┐┌~{}│~─}{xuqrsuwyyy}──{z}~{}wstxzzzyyyyyyz{|~─~}|{~yx}┐└┐┌zzzyz}│┌┬┘─~}{{zyxursuspswxwqhhjnty{{z│├░÷╙╚╚╟╢╦╦╧╪╬юдйклммнмкфдцец╬╦╥╣╣╣╢Ё╡╡╠╟╞╝╜╛╙╗╕╖╕╔╔╓╒╒ё╒╒╒ёё╒═÷··²°⌡ ≤√√√∙■▓▒▐▌█▄▀┼┴┤└┐┌│~|zywvurpnmkjec`^[WTSOMLJIHFFCB@>=<;:7342210	
+
+
+
+
+!#')+./1245578:=>?ACEGHIJJLLMORUWYY\`cfhijlmpsuvwxz|~~─┌└└├├┬┼▀▄█▐▒▒▓⌠⌠■∙≈≥≤≥≥ °²²÷÷÷÷═║║╒╓╓╓╓╓╔╖╘╖╖╗╘╙╛╝╞╟╠Ё╥╪©©╬ю©©адц©╩╧╣╡╠╟╞╜╜╛╙╕ё═·⌡≤≈■⌠∙√▒┤zwuqjhiiehdbgdbjnjhiihhjegiihhfeefggfegihc_`cc`^cgklkhc`a_\[ZYWVU[`dkt}└├└┘▀█▄▌▓√ ÷╒╔╗╙╙╜╜╜╜╛╜╝╞╟╟╠╠╡╢╥╧╥╥╧╪╫╫╫©╬╬╬юацццбаабббббеедююббаббббццццдцбццдццеддддцаю©юааббббцбаабцббццццдеедцдефффедгффеефггиййииийкпрсссрпмлкйихиийийккййклмкиймооопонмннппсстттувьььььввввьывжжыьувьььььыззззшшшшшэээээээщщщчъЮЮААъчччччччъъъЮААААЦЦБББЦДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕФЕДЕФЕДДЦЦЦЦЦЦЦЦЦДЕФГГХИХГГГГГГХХХГГФФГХГГГГЕГГГГГГГГХХГГГГГГХФЕФФЕФХЕДДДДЦБАААЮъчщэшзыььввввввжуссррстжввжтсттуутряпяяпнллномннммкййклмннмлкихххиииххггфдцббфдцббццццбббааюю©╬╫╫╬╬╫╩╫╫╬╬╬©©©╫╩╦╤╢ЁЁ╡Ё╡╟╟╠╠╞╝╟╡ЁЁ╡╟╝╛╚╛╚╙╘╘╗╖╔╕╕╕╖╖╖╖╔╗╖ёё╗╙╘╚╘╖╕╓╒ё╔╗╖╕╔╓ё╒╒÷⌡≤■┼~y{urrx||~│┌┌~yy|~││┌{xy}──}{xvvussuwyz|┌┐~{~}zzwuttuvxwwwvuvxzzz{{zz{|}yy─├├└┐||{{~││└│──}{{vuwupqwtrtxyvmejkoswzzy─┘▄≤╖╝╝╞╢╥╦╧╪╬юдйлмллммкхедец╬╧╥╤╣╣╢Ё╡╠╠╟╞╝╛╚╙╗╕╖╔╓╓ё╒╒╒ё╒╒║╒║═÷÷·²°⌡ ≤√√∙∙⌠▓░▐▌▄▄▀┼┴┤┘┐│─~|{zxwutrpnmkifda]ZWSQNLJIHGFECA?=<;:97441210	
+
+
+
+
+
+ #&(+-/0235568:=>?@ACEGGHHKLMORUWXY[_begijlmprtvwyz}~~─┌└└├├┬┼▄▄█▐▒▓⌠⌠■∙√≈≥≤≤≥ °²²·÷÷÷═══║╓╓╓╓ё╓╖╘╖╖╗╘╚╛╝╝╟╟╡╣╨©©╬ю©©цец©╩╦╢╡╠╟╝╛╛╛╙╖ё═·⌡≤√∙∙√■▀─yyutqlihfhe`ad`^ekiiihhhighiihfdcbcdeedfhjeabedb_cehkmjc^_]ZXVUVWXbkqz─┐├┤├┴▌▐█▐■ ÷ё╕╗╙╛╛╝╝╝╝╝╞╟╠╡╡╡╡Ё╣╧╩╧╧╩╬©╬╬©╬╬©юацддбаабцбббддцааабаццббдддцдцццееедфдбабба©юабббббцдцбабцддцдддеффдефггггфффффффггхийййиийлпстсссянллкиииийййкккклллкйкмнонооннопяятууууужвььььььььыыыььыывьыыыььышззшшшшшшэээээээщщщчъЮЮААъъчччччччъъЮААААДЦЦЦЦЦДДФФФФФФФФЕЕЕЕЕЕЕЕЕЕЕФЕДДФЕЕДЦДДДЦЦЦЦДЕЕФГГГХХХГГГФГИИХГГФФХХГФГГФГГГГГГГГХХХХХГГГГФЕФФЕФГЕЕЕДДЦЦББАЮъщэшшшыьввввьввжтссрртужввжутттттсяппяпомллнолллммллллмнонмлкххггхйихииигецбадбаааююааааююю©©©╫╪╪╫╫╪╩╪╫╫╫╫╬©ю╪╨╦╤╣Ё╡╠╡╠╟╟╟╟╞╞╠╡Ё╡╠╟╝╛╜╜╛╚╘╗╗╗╕╕╔╔╓╓╓╓ё╔╔ёё╕╘╘╚╙╘╖╓║╒╓╕╔╔ёё╒ёё║°≈▓┬}xxwqqx{yz─┌─{wy}~│┌┐│|yyz──}{xtpuuuuuvwx|┐├┌─||{yvsrrssttrrtwxxxxwwwyzyx|└┴┬└│}||~┌└┐│───}{ytswvqrwsrsvvqjejlnqtxyy└┬▒║╜╟╟╣╥╥╧╪╫©дйлмллммкифеец╫╧╥╥╤╣ЁЁ╡╠╟╟╞╝╚╙╙╗╕╕╓╓╓ё╒║╒ё╒║║║║═÷÷·²⌡ ≥≈√∙∙■⌠▒▐▌▌▄▀┼┴┬┤┘└┐─~{zxvuusqonljhfea]YWSQMLJHHGEDBA?=<;:98441100	
+
+
+
+
+
+"%'*,./125568;=??@ACDFGGHJKMORTVWY[^adgikkmopruwyz|~~┌└└├├┤┼▄▄█▌░▒⌠⌠■∙√≈≤≤≈≤ ⌡°°²·÷═║║║═╒ё╓╓╓╓╕╖╖╗╗╘╚╛╜╝╟╟╡╢╧╬©╬©╬юдфц╬╩╥╢╡╡╠╝╛╚╛╚╖╒·²⌡≥≈≈≈∙█┐{xxsrqmihfhea`_]^agikjihhghiiigeccaaacccehiebbcccdfefjmke`\[ZXVVZ^cnuz┐┤┘├┬┴█░░░■≥²╒╖╘╘╙╛╜╝╝╝╞╟╠Ё╢╢╢╢╢╣╥╨╪╩╩╫ю©╬╬©©©ююабцццбацдцбцдббббаабдцбцдедбдццдфгфеедцбааааюацццбцццдццццдецефефггфхххххххгффггхххххиййииклнрусярянллккййййййкклмллккллмнннннопярсттуууттужььььььььььыззыызззыыыззззшшшэээээээээээщщщчъЮЮЮАЮЮъччччччъъЮААААЦЦЦЦДДЕЕФФФЕЕФФФЕЕЕЕЕЕЕЕЕЕЕЕЕДДФЕДЦЦДДЦЦБЦЦДЕЕЕФФГХХХГГГГХИИХГГГФХХГФГХГГГГГГГГГХХХХХХГГГФФГГФФГФФФЕДЦББББАъщэшзшзьвввжжжжутсссстужвьвжуссрряппопонмммммлллммммммнооомлкиигегихфийййгеццца©юа©©ююююююю©©©╫╪╫╬╬╫╪╪╫╬©©©юа╫╪╧╥╣╢Ё╡╡╡╠╟╟╟╟╠Ё╣╣╢Ё╡╠╟╠╠╟╞╜╛╛╛╚╙╗╕╔╔╔╔╓╓╓╓ё╓╕╖╙╙╙╘╕╒╒╓╓╔╔╓ё╒ёёё÷ ■▀│zwwqpuxwx}}{xy{~}│┐└┐|yx|||{zwrlpqstsstuz─┘┐───~}yvsqpoqrppruvwvvwwwvvuy┘┴┬└│││└┘┘┘┌┌┐┌│~|zvuvxxvttrsrrqlhhilnprwyz┐├█°╗╟╢╥╥╥╦╪╫©дилмллннлйфеец╫╦╥╥╤╢Ё╡╡╟╟╞╞╝╚╙╘╗╔╔ёёёё╒║ё╒║║╒╒║÷·÷·° ≥≤≈√■■■⌠▒▐▌▌█▀┴┬┤┘└┐┐─}zyxvttrpnmljhed`\YWTQNLIHGFECA@?>=;9884400/0	
+
+
+
+
+	"%&),-/025458;>??ABCDFGHHIJLOQTUVY[^adfikklnoqtwyz|~~┌└└┘┘┤┴▀▄▄▌▌░▒⌠⌠■∙∙≤≈≈≤≥⌡°°²·÷║║╒║║═ё╔╔╓╓╓╔╖╗╗╘╙╛╜╜╟╠╡╢╧╬©╬©╬юдфб╫╩╦╣ЁЁ╡╞╛╚╜╚╕═²²° ≥≥≈▒├}z{uponjghgfeeb]]_^dilkiihgiihgeccca``aaadhfcaaabehgeeinmhd[[[ZXZ`gqz}┤┼┴┼▀█░▒▓■⌡═║╕╚╚╚╚╜╝╝╝╝╞╠╢╤╥╤╤╥╥╥╧╨╪╪╫©юю╫╫╬ююааююбцдббдедцццааццаацецбцдедбдццегхгеееедбабцабцдццццбдеедддецфхгффххххххггггефгхиииихиййиийллятрппомллллкккккййлмнмлйклммммнмноястужужжжжжжвжжжвввввуувззььшэзьызшзьшшшэээээээщэээщчщщчъЮЮЮЮАЮъччччъччъЮААААББЦДЕЕЕЕФФЕЕЕЕФФЕЕЕЕЕЕЕЕЕДДЕДЦДФЕДЦЦЦДЦБББЦДЕЕЕДГХИИИИИИХХИХГГХИФХХФФГХХГГГГГГГГХХХХХХГГГФФГГФФГГГФЕДЦБАЦБАъчэшзшзыььвутуутттттттужвьвжжссрряяяяннммннлйммммммммнопппнлкйигеехгеийлкигедбю©ааююа©юююююю©╬╫╫╫╬©╬╫╫╬юааабб©╫╨╥╤╣╢╢╣╣╣Ё╡╡╢╤╥╧╨╧╥╥╥╤╤╤╣╢╡╠╠╡╠╟╝╚╙╘╘╙╘╗╖╖╔╓╔╕╘╙╚╚╖ёё╔╓╔╕╕╓ёё╓╔╒²≈▐├~ywsqrstuwxvwz~─~|│┐┌{xvwxyz|ztnkmpppprtv|││───~|yvspmmpqpprttuuvxywuruz─└├├└┌┘┐┐┘├┘├┬┤┤┤┘│}zxtxzyy{wqssqomihliloprwz{┌├█≥╔╟╧╦╦╥╦╩╪╬цхлмккномйфееб╫╦╥╦╤╢Ё╡╠╟╞╞╞╜╚╘╘╗╔╓ё╒ёё╒╒ё║║╒ёё║÷²÷²⌡≥≤≈√∙⌠■■▓░▐▌▌█▀┴┤├└┐┌│~{yyxvusqonmligdc`[XWURNLIHGFDBA@?>=;98843//./
+	
+
+		!%&(*,.023479:<>?ABCDEFGHIKMOQSTVYZ\acdgjklnqrtvw{z|││┌┐│└┤┬┴┼▄█▄▌░▓⌠■■■≤≤≥≤≥≥⌡°···÷═║║║ёёёёёёё╓╖╗╙╙╙╙╛╝╞╟╠╢╦╫╬╫╫©цгфа╪╨╤╡╟╡╡╝╚╚╚╜╕÷·°≥°≥°√┴~zxuonljigedcdfb]_a_efknljifggffeecbd`^`cdegce`\bfefhiihjmkf_[YZ]cmvx~└┤┴▄▌▐█▌▐▒■≥÷╒╘╙╚╛╜╞╞╝╝╟╠╠╢╥╦╥╣╤╥╤╦╨╩╨╫╬©©╬╫╫╬╫юббббццдцбцедцаабцббцддцццдеедбцддцдефеееддццбаацдццддбеееффеддихггхиихххххххгггхххихххгххйкккйлопоннлкллллллллйкллллммкйкнпонмоястуувьжввжуужжвввввввьвьышшззышзззшшшззшшшшэээээшшшэщщчщщъЮъЮББъщщъъчъчъъЮААААЕЕФФФЕЕЕФФГГГГГФФФФЕЕЕЕЕФФЕЕДДДЕДДДЦЦЦЦБДЕФФФФФФГГХИИИИИИИХХХХИИГГФФФФФФФФФГГГХХГГГГХХХХХХГГГГГГГГФЕДЦБББАЮъщэшззыыззвжвжутттссутьзввьвуттсссрррпнмннмлмнмлмнонлммнмллллкиггхихгккккйхгфца©©ююю©юююааааааю╬╫©ююю╬╬юббацфаа©╪╨╩╩╩╪╪╫╪╪╪╫╬©©©╬╬╫╫╫╫╪╩╧╦╥╥╦╥╥╤Ё╠╟╟╠╟╟╝╛╗╕╔╔╗╙╚╚╙╗╕╔╖╖╖╖╕╕╖╖╕ё║°∙▌┘zutturopuonrz|xwyvz─┐│|wtuyz|~zutllmpqpoosw|~|y{~~z{|wpopmkkmoopqwttwxtqrw~└┐│┐┘┘└┌┐├┬┬┬┬▀▄▀┘}}}{zz{{yvuvutqidhplkknrwz{─└├┴▒÷╜╤╥╥╤╦╪╪╬цхйккклммкхеда╪╥╢╤╡╠╣╣╟╞╠╞╜╚╚╚╘╗╗╔╓╒╒╒╒║═·║╒║║║÷²°° ≥≤≈√√≈√■▓▒▐█▄┼┼┬┤┘┐┌┌──}zwwvtsqomkigffa[YXVRPMLJIHGDB@@@>=;9863400//
+	
+
+		!$&(*,.013468:<=?ABCCDEGHJKLNPRUVYZ\`bdfijlnprsuvzy{~││┌└┐┘┤┬┴┴▀█▌▌▐░▒▓∙√√≈≈≤≤ °²²··÷÷═║║╒ёёёёёёё╖╗╘╙╙╚╜╞╞╟╠╢╦╫╬╫╫©дгфа╪╨╤╡╠╡╠╝╜╜╝╜╓²²° ²² ░┐zwtqomkihgeccdgdaceacdilkkkhhgeeddbac`_beeedbb__abcfgfeehlmkd_Z]eow|└┴▀▄▌▐░▒▓■≈⌡÷╓╕╗╙╛╜╞╠╡╠╟╠╡╡╣╦╦╥╤╦╧╧╧╩╪╩╫╬©©╬╬╬©©абббдддцбцдеебюацдцццдццццддддцбццццефефедддцбаацдцдедцееффффффхххииииййййииххгйиииххххгххикккйлнпоннмкммлллккккклллллмлккмоооппрсуужвьвввжжужвьььввьььжвызшшшшшшзшшээшшшшшшээээээээщчъчщщъЮъЮББъщчЮЮЮЮъъъЮАБЦЦДЕЕЕФФФЕФФФФГГФФФФФФЕЕЕДЕЕЕЕЦЦДЕДДДДЦЦЦЦЦДЕЕЕЕЕФФГХИИИИХИИХХХГХХГГФФФФФГФФФГГГХХГГГГХХХХХХГГГГГГГГФЕДЦБББАъчщэшшзыызыжууутттсррттвыввьвуттттссррспопомлмнмлмннмклмнмлкййихффхиихииииигффдбюююю©╬©©©ююааабааабцддббцфггхйккхедееддеедддеффеееддцццбаю©╬╬╬╫╫╫╪╧╦╥╤╥╤╤Ё╠╝╜╜╝╝╞╟╞╛╙╗╚╚╛╚╙╙╚╛╛╘╕║≤▒┬yxz{xsqrnknvxurrsv||wsrvy~─{tsoooqqonnqty|{yy{|yz{wrpnlkihjloptrsvtqpr|│└┌─┌┘├┐┌┌┘┤┬┼▄▀▀┬└─~}─}|{yvttvwtnhgiljjjlptxz┐┤┼▌≥╘╤╦╦╤╦╫╬©цгйлкклммлхеца╪╥╣╢╠╠ЁЁ╟╞╟╞╜╚╛╛╙╘╗╓ё╒╒╒╒╒╒÷║║║══÷²°° ≥≤√√∙≈∙⌠▓░▌▄▀┴┬┤├┘┐┌┌──}zwwvtsqoljhfdd_[ZYUQOONKJIGDB@@?><:876330/..
+	
+
+		
+ #%(+-.012468:<=>@ABCDEFGJKLNORTWYY\_acehjknpqstvxxz}─│┐└└├┬┴┴┴▀▄▌▌▌▐░▓∙≈∙√≈≤≤≥⌡°²²··÷÷══║╒ёё╓╓ёё╔╖╗╘╙╚╜╞╞╟╠Ё╥╪╬╫╫юдгею╩╧╣Ё╠╡╠╞╝╟╝╛╓²²²°²·■┤}wspnnljhhfdbcdggfhiebbeiiklihfdcccbaba_`ceda`]_ba`cfeb`befghgc`eo{──┘┴█▌▌░▓▓⌠∙≤²║╔╖╗╘╚╝╞╠ЁЁ╡╡╡╡╡╣╥╥╣╥╧╩╩╨╩╪╪╫╬©©©©юююаабцефеббцееебюацедцдцббццдцдддбцццдффффеееедцббцдддеедффффггххфхййиийкккккйиххкйиихххххххйкккйлнпоннмлмммллкккллмллллммллмннпсрстужжвьвььвжжжвьььььыыыььыззшшшэшшшээээшшшшээээшшшээщчъъччъЮЮАБАъчъЮЮААЮЮъъЮБДЕДДЕФФФФФФФФФФФФФГФФФЕЕДДДЕЕЕЦБЦЕДДДДДЦЦЦЦДЕЕЕЕЕФГГХИИЙИИЙИХХГГГГГГФФФГГГФГГГГГХХГХХХХХХХХХГГГГГГГГФЕЕДЦЦБАЮчээээшзыыьжттттттсярссвььвьвтсссссряяяпооомллнмлмммлкммннлйихихггхиихииииххггфедццбю╬ююааббццефгххийккйкмноппяяолкллкйккййййкйййиихггхфеееедццдедцю╬╫╪╪╪╨╦╤╣╢╣╣╣╤╤╢╟╜╠╠╠╠╟╟╠╡╠╝╚╔°∙█├│──│~xsqnklrtrnmprv{}{vrqsw~─yrrtrqrqomloquz{zxwzyz{wurmookggkoppqstrpqt}│┐─~┌┐││┌┐└├▀░▄▀┬└││─│}{xustvxtkgjjgiijknrwz~┌┤┼▀⌠╓╢╦╦╥╦╫╬©цфймлкклллифцю╩╥╣╢Ё╡╡╡╡╡╠╞╛╚╛╛╙╗╖ёё╒╒ёёёё÷═║═÷÷·²°⌡ ≥≈√∙∙∙■▓▒░▌▄▀┬┤├┘└┐┌│─}zwwutsqoljgecb^ZYXTPMPNKIHFDB@@?=;976522/.-.
+	
+
+	
+
+"$(+-./02468:;=>@ABCCEFGJKLMNPTVXZ\^`begiknoprtuwxz}~─┌└┘├┤┬┴┴▀▄▄█▐░▒▓■∙√≈≤≤≤≥ ⌡°²···÷══║║ё╓╓╓╓ё╓╕╗╘╘╙╛╜╞╟╠Ё╤╩╬╬╫юдфд©╨╦╢Ё╡╠╟╞╟╠╛╚╕═···²⌡▌─yuqnmnkihhfdaccfghjkga_begikigebbcdbaba]\^cc`][`eccfda]]`bbbejlnqx│└┐┴█▐░░▓■∙∙≈°║╔╗╗╗╛╞╟╠╡ЁЁ╠╢Ё╡╢╤╦╦╤╥╧╩╩╩╩╪╪╬©©©юююююаббдффдббцдддбабдедцццббцддццдеддееефггффеефедццддеффффгггггхиигиййийййллккййиийихххиййиииклллклноонннмннммммллммнммлммммнннортттуужжвввььвжжжжььььыззызззззззшээшээщээшшшэээээээээщчъъъчъъЮААБАъчъЮЮЮАЮЮЮЮАЦДЕЕФФФГГГФФФФЕФФГГГГФФФЕЕЕЦЕФЕЦБЦДДДДДДЦЦЦДДЕФФФФГГХИЙЙЙЙЙИИХХГГГГГГГГГХХХГГГГГХХХХХХХХХХХХХХХХГГГХГГФЕЕДДДЦАъщэээээшыьжутуттутррсувььввуссстссряяонннннммммллммлклноомкйикйиииииийййййййййииххфдбддеефгхийлнооопяряпясссрррпнммммллллкккклллкйиихигфгххгеггххгеца©©ю©╫╪╨╧╩╨╨╩╪╩╥╢╤╤╥╤╤╤╥╥╢╡╞╗÷≥■▌▀┤└┐─{wuqonqrpnnopsx|{wssru{}vqsusqqpnlknorx}}ywy{}{vutottphfilkkmoppqsvz~│─~─│┌┐┐│─┐┼░█▄┼├┐┌┌│~}|{xustwvqjiljdikmnpsx{│├┼┴▌·╟╥╧╦╦╪╬©адиммкйккмйфц╬╨╥╣╣╣╢╠╠ЁЁ╟╜╛╚╚╙╗╕╕╓ё╒╒ёёёё║║══÷÷··°⌡ ≤≈∙∙∙■⌠▒░░▌█▄┬┬├┘└┐││}ywvussroljhec`]YXWSOMMKHGFFDC@?><:865512..-.
+	
+
+	
+
+!#'+-./024689;=>@@BCCEFHIKLLMOSUXZ\]_bdfiknopqsuwy{|}│┌└┘├┤┬┼▀▄▄█▌▐░▓⌠∙√≈≤≥≥≥  °²····÷═║╒ё╓╔╔╓╓╔╖╘╘╘╙╚╜╝╟╠╡╤╨╫╬╬бфгд©╨╥Ё╡╠╠╟╞╟╠╚╚╗║²·═·∙┬}yupmnmkihhgdbcbdfgijf_\]aeikigecccca_``]\^bb_^^cfdgha^ZZ^abfku{~┌┤┼▌░▓▓▓∙≈≤≥°║╕╘╚╚╙╞╠╡╡Ё╢Ё╡╣╢╢╤╦╨╨╧╧╨╩╪╪╩╪╫юююююююююабцефебццббццббцедббцццбцдцццеффеееееефффффгфедддефггггихххххиийккййлкиккккйййййииххийкййклммлллноннооннннннннннооонмннлноппястуууужжжжввввжжжжььььззззшшшзззшшэшшшээээшшээээщщчччччъъъчъъъЮАББЮъчъЮъЮАЮАБЦДЕЕЕГХХХХГГФГГФФФГГХГГГГФФЕЕДЕФЕЦБЦДЕДДДДЦЦЦДЕФФФФФГГХИЙЙЙЙЙИИИХХХИИХХХХХХИИГГГХХХХХХХХХХХХХХХХХХХХХХХГГФЕЕЕЕДБъщээшщэшыьжуууттутрртвьььвжтртттттсряооооппонллллллкйлмоонмккллллллммммммммммнннннмкииийклмнонпрсррррряяярссрссяонооннммммммммммллкйийиххййигххххгфедццццба©╬©╬╬©юю╫╩╩╪╪╪╩╩╪╫╨╥╢╞╕║°√░▀├└┌~{yutsrqppqonpuz|yutsty{toqtqooonlknmpw}~zwy}─|utusvvqieffdghilosvvx|~~~─┌└└├┘│|~├█▄█▄┤┌││┌}{yxvtsuwrljjjhehkortvy{──└┬┴▄ ╙╣╧╧╦╩╬╬юцхммйййймкхц╫╧╤╣╢╣Ё╟╟╠╠╝╛╛╛╚╘╔╓╔╔╓ё╒ёё╒╒╒║║═÷···°⌡≥≈√∙■■■⌠▓▒░▌▄▀┼┬┤┘└┌│~~|ywvtssqnljgec_\YWUQONLJGFEECB??><:865411.---
+	
+
+	
+	
+ #&*,./023579;<>?@ABCDFGIJLLLNQTXZ[\^bdeiknopqsuwy{{|~─│┐└┘├┬┴▀▄▌▌██▌▒■√■√≈≥≥ ⌡⌡⌡²····÷═║╒ёё╓╓╓╓╕╗╙╙╙╙╛╜╝╞╟╠╣╨╫╬юеххд©╩╦Ё╡╠╟╟╞╞╟╜╚╗║⌡·═²█└|yuolmlkjihgeddbdffffc]ZZ_diligffeca^\]^_`bba^abeddgf``[Y\`dmu│├┴├┌└▀▒⌠∙∙■∙≈ ⌡÷╒╕╘╚╛╜╜╞╠ЁЁ╢╤╤╣╣╢╢╤╦╦╧╨╩╩╩╫╬╬╬©ааююааааюбцдеедадцббббццдедббцдедддццдеффедееддефффгххгфеефххггхиииииийймнлйкнмйккййййййккйиииииккклннмллноннопоооооопппопппоноолнпяртттжуууужжужвввжжжжьььызшшззззшшшэээшшшэээшэээээщщщщщщщщччччъъъЮАББЮъчЮЮЮЮБЦЦДЕФГГГИИИИХХГГГГГГГГХХХХГГГГГФЕФФФЕДДЕЕЕЕДДДДДДЕФФФЕФФФГХИЙЙЙЙЙИИИИИИЙХХИИИИИХХХХХХХХХГГХХХИИИИИИИИИИХХХХГГФФФЕДЦАъщээээшьвжжуттсссяртыььввжтссссссрппппппппомллллллкклмооонммлмооооярпппоооопяярссряпооноопяяпярссряяпяяярттсттсяпяяпонннооннммммлкйййихийййиййихххгфеедддцбабааабцбаююююююаба©╪╥╞╙╓²⌠▐▀┴┤┘│~{{zwtstuqppty|zxuuvz{tnornlmnnmmmlnuz|ywy}│|sqtuvurligdaefgjqxywwxyyz}┌├├┴┤│{|┐┴▀█▄┤┌──|wtsrsutmhikhffgkpsuwyz─┌├┬▄≈ё╠╧╪╨╪╬©ацхллкйййллиц╫╧╤╢╢╣Ё╠╟╠╟╝╜╜╛╚╗╔╔╕╔╓ё╒╒╒║║╒║║║═·²·°⌡≥≈∙■■■∙■▓▒▐█┼┴┼┬├┘└┌─~}}{xvutrqomkhfdb_\YWTPNNLJHFEDB@?>=;9765401--,-
+	
+
+		
+ "&),./013579;<=>?ABCDFGHJLLLMORWY[[]adehkmooprtvy{z{}──┐┐└┘┤┴┼▀▌▌▌▌▐▒■√■∙≈≤≥≥ ⌡⌡²····÷║║║╒╒ёё╓╓╕╖╘╙╙╚╛╜╝╞╟╠╢╧╫╬афихц╬╨╥Ё╡╠╟╟╟╞╝╝╙╗╒²÷·√├xwtpmnjkkjhgfeedfhfdc`_ZZ^cijgceffd`\Z[]acdbaaacb`bbbdb_]_dmx│▀▀▄▄▄▄▐⌠√≈≈√≈ ²÷╓╖╙╛╛╛╝╟╟╡ЁЁ╣╥╦╥╤╣╤╦╦╥╦╨╬╩╩╫©©юааюююаббббддццццбцццбббббцеедцефффеццдефффддееддееефхиихггфгиихгхииййккккмнмйймнллккйййййллккййййкклмннмллнннноппооооппппопппооопнпяясжжужжууужжужвввввввыььышээшзшшшэээээшшшэээшээээщщщщээщщщччччъъъъАБАъъъАААБДДЕЕФФГХХИИИИХХХГГГГХХХХХХХХХХХХХГФФФГФФЕФФЕЕЕЕДДЕФГГФФФФГГХИЙЙЙЙЙЙЙИИИИИХХИИИХХХХХХХХХХХГГГХХИИИЙЙЙЙЙЙИИХХХХГГГГФФЕДБАъъээшьвввжутссррсжыьвввжуусссссяпопяяппяомннооннннопяяппопопрряярттсрряяррссуууутттсрряяяряяярсряппрсрсужуттсрярряооооппонммннмлкккййийййклкййййихгфеееедцедццццддбцццццдеебю╫╤╠╚ё ≈■▒▐█┼┤┘├┘│~}{yzwuvy{{yxxxxytoppmklnooonmnswxxwvy}{sprtuspomkgccdfiqxzwtuuuvz└┬┼┴┌{{┌┤┼▀▀┤┌─~zutssrsnheghfefgjnsuwyz~~│┘┤▀∙·╛╥╪╩╪©юбдхклкккйллйц╫╧╤╢╢╢Ё╡╡╡╠╟╝╛╙╘╗╖╔╕╔╓ё╒╒╒║═╒║═║═²°²°⌡≥≈∙■■■⌠▓▒░▐█┼┴┴┤┘└┐┌─~||zwuusqonljhfdc^\ZXTPMMLJHGFDB@?>=;9765300,,+-
+	
+
+			 "%)+-/113579:<=>?@ABCEGHJLLLLNQVXZZ]addgjmnnoqtuyzzz}─│┐┐┐┘├┬┴┼▀█▐░▒▓⌠■■√≈≤≤≤≤≥⌡²····÷║║║║║╒╒ёё╓╕╗╘╙╙╛╜╝╞╟╠╢╧╫╬афигб╫╦╣╢Ё╠╠╠╠╞╜╛╘╗╔═║°▌─zuttqooijkjhfffeehjfca]b]\_chhd_befd`][\]`cc`ad`a^]`^`ibabfny├▐░██▓≈√∙■∙√√√≤²═╒╘╚╝╝╜╜╟Ё╡Ё╢╢╣╥╦╦╧╧╨╩╨╧╨╫©╩╨╪©ююааюююбцццдеецабццбццццбббцефеефффгеццдефффддеедефеефхийихгфгиихгхиийкллллкммйикнммлкййиииккклллллкклмннмллнннноппппппооооопппоооппяяятвьжвжуужжжжжвьььвььыььзэщэшэээээшззэшшшэщээээээщщщщччъъЮЮААчъъчъАБАъъЮБЦЦЕФЕЕДДЕФХИХХХХИХХХФГХХХХГГХХХХХХХХХГФГХХФЕФФФФФЕЕЕГГХХГФГГХИЙККЛЛЛККЙИИХХХХХХХХХГГХХХХХХХХГГГХИИЙЙЙЙЙЙЙЙИИХХХХХГГГГГГГФДЦБщщэыьыывжтссссувыьжжввжжуужжутряпрррртсяяяяряяяяярссррррртутрярсвжутссттстужжжууьвутрряяряярссряпстррсттуутррссрпппярряпооппоонмммлккклмллклллйиихггггффгфедцдефццдцццдедаю╬╨╣╞╕╒÷ √∙■▓▒▐░▌▀┬┤┐~┌zyz{zx{{xvvtrspljlnppponoruvvwsuzzsoqqromoomif_adgnuwtstvwwz}│┬▀┼┌{|┌┤┼┼┴┤└┌─}{xuvwurpifddffeegjnruxz{|}─└├▀⌠°╗╢╪╨╩╬абеиклллкйклйд╫╦╣Ё╡╠╠╡╡╠╟╞╝╙╕╕╗╗╕╔╓ё╒╒╒╒║║║══║═²°°°⌡≥√∙■⌠⌠░░▐▐▐█▄┼┬├└┐┐┌─~{{zwutsqonljiged]\[YUPMLIHGFFDB@>><;97662//+++,
+	
+
+	
+		!"%(+-//02468:;=>?@ABCEFHHJKMOPPUWYZ[^befilmnqstuwzzz{}─┌┌┐┘┤┬┴┴▀█▌▌░▓⌠▓■∙√≈≤≤≤≤°²·÷÷÷═║ё║══╒ё╓╓╕╕╖╘╙╛╜╝╝╝╞╟╠╤╩╬ефхгб╪╦╥╢Ё╡╠╟╞╜╛╛╙╙╕╒║√└zxurqpmkkkkkjihhjkkiea^]`__adfdb^`ccb`]\\\]_````ab`\Z]`aa_ap└▌░▓▒⌠√≤≥ °°≥⌡⌡  ²ё╗╙╛╝╞╟╠╡╢╢╣╤╥╥╦╧╨╩╩╩╨╧╧╨╩╪╩╨╪©ааюа©юбддцдееддцццццццддцццбцддддфгдееефггеддеффггггффгйкйиггхиииихййккккккккклнонмнмлйййкккйкмлкйклллммлллмммнноппяяяпоннопппооопяррссужьыжжжвввввжжвььыыыьзшшшээшэээээшшшзшэщщщэшэээээщщчщчЮЮъъъЮАЮЮЮАББАЮАБДЕЕФФДДЕЕЕЕФФФГХХГГГГФГГГФФФГГХХХХГГФГГГГГГГГГФФФГХГФЕФФФГФФФХХИИЙЙККЙЙИХХХИИИИИИИХХХГХХИИИХХИИИИИЙЙЙЙЙЙЙЙЙИИЙЙЙЙИИХХФГГДДЕЕЦБАъщшыьвьжжжуувззыыыыьвжвжжжутувтттттууутсряярстуутсрстжутсррсужжввввжутууутуужжввжутсссярррссрряртуттттстттрррряппярряппяяоноомннннннннмммммллклйхгхиииххихгфгхгфефггххедцц©╦╠╝╖ё÷²° ≥≥≈≈√⌠▒░▐▄┼┬┘│─│}{─}tqvyvtpjhjlnnmnnpttvz{zxwwusqsrolnqmf_`afklmrqstuw{}~─┌└┌~|─├┘▀█┬└┐└└|zvuvwsnfeddefgghiknrvz||┌┐├▄■≥÷╞╧╪ю╫╩адгкмлййкмлйе╬╧╤╣╢╡╠╡╡╞╜╜╝╚╗╗╘╗╔╒╒╒╒╒╒╒═÷÷══·²²° ≥≥≤≈√√∙√▒▒░▐▌█▀┴┴┬├└│}|{zyxwusrlljggfd`]\ZWSPMLHGFEDDCB?><;:864520-.+*
+	
+
+	
+	
+ !$'+-//12578:;=>?@ABCEFHIJLMNOOTWYZ[]adfiklmprstvyzyz}│┌┐┘├┤┬┴▄▌▐░▒⌠■⌠∙√≈≤≤≥≤≤⌡°²··÷═║║║═║╒ё╓╓╔╕╖╗╙╛╜╜╜╞╟╟╠╣╩©ефггб╪╦╥╢Ё╠╠╟╞╜╛╚╙╘╕ё÷▓┌|yvsrpnljllkihhihkliea__`__acca^]_aa`^\[]]]]^__^ba^[[[[YYbo─░≈≤ ≤≥⌡²·÷═║·÷÷÷÷ё╗╜╝╞╟╟╠╡╢╣╤╥╦╦╦╦╧╨╨╩╩╨╨╨╪╫╫╪╪╬юббааююцддцдддеееддццццддццццццдеееееггффггефееееффггггхйккйгххийййкййккккккллллмнннммлкййкклккллккллмммммммммнопппяппппоопяпппооопятсттувьыввввввввввььыыыыьзшзшэщэээээээшшзшэщщээшшшэээщчччъъЮъъъЮЮЮЮАББААЮАБДЕЕФФДЕФФЕФФГГГФГХХГФГГГГФФФГГГГГГГГФГГГГГГГГГФФФГГГФГГГХХХГГХХИЙЙЙККЙЙИХХХИИХХИИИИИИХИИЙЙЙИИИЙЙЙЙКККИЙЙЙЙИИИЙЙЙИИХГГФГФДДЕДЦБАъщшзыьыьввжжьзшзыыыыььвввьвужвввввввььттсррсттжжжуттужжуутуужввввввжуутттуувььввжуутссяяярссттрстттттуттутсрррряяярряяяяяпопонппоонннмннннмллклкйййййиииииххиихгггххххгффдю╩╣╠╜╘╔╓ё║║║÷·² ≤≤∙▓⌠▓▌┼┬┴┬├┘┤─touywsqomkkkkopopssuz|{zzywtqrqnmpsohbcbdgghnpqrsvy{{|~~|}┌└┬┼┤┘┘┘└~|xuvuoiedddeghhijlnptx{{┐┘┬▐∙≥⌡╙╤╪©╫╪бдгйлкиийммкф©╧╤╣Ё╡╠╡╡╞╝╜╜╚╙╘╗╖╔╓╒╒╒╒╒║═÷·÷÷·²²⌡≥ ≥≤≈√∙■■▓░▐█▄▀┴┬┬┤├└┌─~}zyxwvtrqmljgfec_\[XUROMKJIGEDCBA?><;:864410,.+*
+	
+
+	
+
+
+ #'*-./13578:;<>?@ABCEFHIJLMMNOSVYZ[]`behklmoqrsuxyyz|~│┐┘├├┤┴▀▀▄▌▌░▓⌠⌠∙√≈≈≤≤≤≤ ⌡°²··÷═══║╒╒ёё╓╓╔╖╗╙╚╛╜╜╞╠╠╠╢╨юффгфб╪╥╤╢╡╠╟╟╟╜╚╙╚╘╖╔ ┼─|yvsqomkjlmkhfgihjlida`a`_`acb`]]^__^]\\^^][[^_]^\ZZZWTRXj▌≥²²·°²÷═║╒ё╔ё╒╒╒╓╗╛╟╡╠╟╠Ё╣╤╤╦╧╨╧╧╧╧╧╩╩╩╩╪╪╬©╬╬©юабццбаацддддддеффедцдддддцццдццдффедфхигффффгфеееефгггхийкккххиийклмлкккклллммммммномллккккклккккклммммнннннмнояяяяяоппппяярпяяпоопяуууужвьыьььььььыьыыыззззызззшэщщээщщщэээшшээээээээээщщчъъъъъъъъЮъЮЮАББАЮААБДЕЕФФЕФФФФФГГХГЕФХИГЕГГХГГФФГФФФФФФГГГГГГФФФФФФГФФФФФГГГХХХХХХХИЙЙККККЙИИХХИИИИИИЙИИИИИЙЙЙИИХХХИИИИЙЙИИИИИИИХЙЙИИХГФФФФФДДДДЦББЮъщэшзшзыььвышщэзыызззыыызыьвьььььььььжжжуужжжввввжжжвжжжжввььввввввжжуууужвьывввжжуттррррстууттттстужттуттссссррярряяяррппппопооонннноооннмлклккккккйкйиииййкййииййиххихда╬╧╢╠╜╘╖╖╕╕╕╕╔ё╒║═²≥≥≤∙▒░▒▒▒░░┬ztwxvvurmihjloqqqrqrw||}}|yurrqoorurmjieddcdimmmnqtuuy{{{}─│─┐├┬┤┤┴┴┬─}xvurkecccdfhiiikmnoqvyz┐┤▀░√≤≤ё╠╪©╪╬цдгйлйииилммхю╧╣╢Ё╡╠╡╠╞╝╝╛╛╚╙╗╕╔╔ё╒║║║║══·══÷·²⌡≥ ≥≤√∙■⌠▓▓░▌▄┼┴┬┬├├┘└┌─~|zywvtspomligeda^[ZWTPNLKJIGEDBA@>=;:875320/,-**
+	
+
+	
+
+
+ #&),.0124689:;=?@ABDEFGHJKLMNORUXZ[]_bfiklmoqrsuwxxz|~─┌┘├├┤┴▀┼▀▄█▐▒▓▓■∙∙√≈≈≈≈≥ °²²··÷÷║╒ё╒╒ёёё╓╕╗╘╚╛╝╝╞╠╠╟Ё╨аффгфб╩╥╣╢╡╠╠╠╟╜╚╗╛╚╗ё⌠┐~|zvtqpnmklmkhfgiijjgca``^^^_aa`___`_^^^^__]Z[^_]ZYYYWSSVgz▄√°··÷·÷║╒ё╓╔╕╔╔╓╔╗╚╞╠Ё╡╠Ё╣╥╥╥╧╨╩╨╨╧╨╨╩╩╪╪╫╬©©╬юаббббцббццдддддееефеедеееддддддддеффедфхихфефгггфеффгхгхийййккииийклмннммммммнмннмллнпллллкккклллллммнммннннннмнпярряпопяяяярспяяяяярсуужжвьыыьььььыыыыыззззззыззззэщщщщщщщщщэээээээээээщщччъЮЮЮъъъъЮЮъЮАБББАЮАБЦДЕЕФФФФГГФФГГГГФФГХГФГГГГФФФФФФФЕФФГХГГГФФФЕЕЕФГФЕЕЕФФФФГГГГГХИИЙЙКККЙЙИИИХХИЙЙЙИИХХГХХИИИХГГГХХХХИИИИИИИИИХХИИИХХГФФГФФЕДДДДДЦБАъщэээзззыызщчщэшшэээшшшшшзызыыьььвввыыыыыыыыьььььвввжжввввввввььвввжжжжужжввввввжжжууутссстуууттттуутттттссстсрряяяяяррпппполллммннноонннмллйййййккклйихйкккккккллкйийхцюю╪╥╡╜╘╗╗╗╗╗╙╗╖╖╗╗╓║═÷°≤√√≈≈≤≤⌠┬│~{vxwsniilompqponot||}~}{xusrpprtttqnhdc``eghhikopotxyy|│┌┌┐┐└┤┼▀┴─|xvuphbaabdgijjjlnnnpux{┐├┼░∙≈≈°╚╨╬╬юбдгклкййййлмию╧╣╢╡╡╠╠╠╞╝╜╚╚╙╘╗╖╔╓ё╒║║║║══÷═║═÷·°  ≤≈√∙■⌠▓▓░▌█▀┼┴┬┘┘┘└┌|{{ywusqonljhfec`][YVROMLKIHFDCCA@<;9875321/.+,*)
+	
+
+	
+
+
+
+#&)+.0024578:;=>@ABCEFFGIKLMNOPTWZ[]`bdgjklnpqstvxyz|~│┐└└┘┤┴▀▀▄▌▐░▒▓■■∙√√√≈≈≤≥⌡°²²·÷═║ёё╒║╒╒╒ё╔╖╘╚╜╝╝╞╠╠╟╡╨цгффеа╩╤╣╢Ё╡╡╡╟╜╚╖╛╛╗·▀~~}{xvtrqpnnmkjiijjifdb`^]]\[[\]^__```______][\__]YYYVRR[e|┼∙ ÷ё║══╒ё╓╔╕╖╗╗╖╖╘╛╞╠ЁЁ╡Ё╤╧╨╧╥╧╨╩╩╩╨╨╩╪╪╪╫╫╬╬©╬юбббабцццддддддфееддеефффееддеедефгфееефгххфефгффггххххгхийййккййййклммнннннннннннмллнпллллллллллмннннмммнноооомнпяряпояярряярряярсссужужжвьыззьььььыыззззззззззззззэщщщщщщщщщщщэээээээччччъъЮЮЮЮъъъЮЮАъЮАББААЮБЦЦДЕЕФФЕФГФФФФГФГГГФФГГФГГГФЕЕФГФЕЕФГХХГГГФФЕЕЕЕФГФЕДЕФЕЕФФФФГГХИИЙЙЙЙЙЙЙИИХХХХИИИИХХГГГХХХХХГГХИИИИЙЙЙИИИИХХХХХХХХХХГГГГФФЕДДЕФЕДБАъчщэшзшззэчччччччщэщщэшзшээшшззыыыьыыыыыыыыьыыыыьввжжвььввжььььвввжжжууууужжжввввжжжжутсттуууууууттсстттттттссрряяяяррпооомиииййкллллммммллйиихийлммкййккккллллмнммйкицаа©╨╣╟╚╙╚╚╚╚╙╘╗╙╛╚╘╕╙╗╔║²⌡⌡°÷═²√░▀└}ywsolllmnqokkknsy{|}|{zzvusrqruyupidc_^adffgilmmptwwz│~~~┌├┤├─}ywsme_`abdgijjkmnooquy}─┌┘┴▐■√≥ ╓╢╬абабфйлкййкхклха╨╤╢╡╡╠╟╟╞╝╜╛╙╗╗╗╗╔╒ё╒║║║══÷÷══÷··° ≥≤√∙∙■⌠▓░▐▌█▄▀┴┬┘┘└┐─}{y{ywusqomkigedb_]ZXUROMKKHGEDCB@?<;9764320..++))
+	
+
+	
+
+
+
+"%(*-//135689:<=?ABCEFEGIJKLNPPSWYZ\_abehijmopstvxyz|}│┐└┘├┬┼┼┼▀█▌▌░▒■■∙√√≈≈≤≤≥⌡²²··÷═║╒╒╒╒╒╒╒ё╕╖╘╙╜╝╝╞╟╠╟╡╩дгффеа╩╤╢ЁЁ╡╡╠╞╜╚╗╛╛╕≈┘|}|zwusqqppnlkjjkkjgca`_\Z^][YXY[]^_`a`____^\]^^\ZXYWSQWhx┼⌠≥²ё╕╓║╒ё╔╕╖╖╗╘╘╘╙╜╞╠ЁЁ╢╢╤╦╩╪╨╦╧╨╩╩╩╩╩╪╫╫╫╫╬©╬╬╬юбццбббцеедддддффедддефгфеедеефдфггфефгффгхгефгфггхииииххиййкккккккклллмммнммммнннмммноммлллмммлнооппомнноооооомнпяряпоярсрряярярсттужвжжвьыыыыьььььыззззззшззззшшзшэщэщщщщчщщщщщщэээээчччъъъЮЮЮъъъЮАААЮАБББАААЦЦДДЕЕФФЕФФФФФФГЕГХГЕЕФХФГГФЕЕЕЕФФФЕФФГХГГГФФЕЕЕЕФФФЕЕЕФЕЕФФФГГГХИИИЙЙЙЙИИХХХХХХГГХХИИИИХХИИИИХХХХХИИИИЙИИИХХХХИХХХИИХХХХГФФФДДЕФФЕДБЮъчэшшэшшэъъъчъъчщэччэззэщэээшшззыыыыыььыыыыыыыыыьвввьььввжььввжжжуттсссттутуужжжжжууттттттутттттсряяррсттсссссряяяяррпннмкиихххххийййкккккййиххйлмммлллммлмллмннонллйфддб╬╧╢╞╜╝╝╝╝╙╗╗╙╚╚╘╖╛╚╘╖╓╒ё╔╗╗╕║²≥▓▄└}umjkmnrrnhhjotvy{{yy{}zxutqqv{yskhgc_aeghhhkmnosvwy}~}}~│┐└└│|xrjb^aacehjkklmnoprwz│┌└┴░■∙ ≥·╜╩ббааеикйиийхйкха╩╤╢╡╡╠╟╞╞╝╛╚╘╖╖╘╗╓║ё╒║║║═÷÷·÷÷²°°⌡≥≥≈∙∙∙■⌠▓▌▌█▄▄┼┬├┘┘└┌}zyzyvtrqonjhfeda^]YWUROMKJIGECB@?==;9765320..*+()
+	
+
+	
+
+
+	
+!$'),./13568:;;=?@BCDEEGIJKKMOPSVXXZ]`adghilnostuwyz|}─│┌└├┤┴┼┼┴┼▄██▌░⌠■■∙√≈≤≤≤≥⌡²···÷═══║╒ёё╒ё╔╖╗╗╘╚╜╞╝╞╠╠Ё╩дгффеа╩╤╢╠╡Ё╡╟╝╛╚╚╚╚ё▒┌}|zxurpnnnmlkiggijifb_^][Z^][YWWYZ\^aba`^^^[[^_[WVTWXX\iz┤▓≥²═╔╕╓ё╓╔╖╗╗╗╖╖╙╛╞╠Ё╢╢╢╤╥╦╧╩╩╨╧╨╩╪╪╪╩╩╪╬╫╫╬©ю©©©абдддццдффедеедфеедддееффеддеефффгггггггфгхгфегггхххиииииийклкккклллллллмнннмллммммнннннммллмнонппппяпнпппяяпппоояррряяярссряяярстууужввььыыыьььььььызшзззшшшшшзшэшшээшэщщщщщщщщщщщщщщэъъччъъъЮъъъЮАБАААБЦЦБАББДДДДЕЕФФФФГФФФФФФГГГФЕФХГГГГЕЕЕЕФФЕЕФФГГГГГФФФЕЕФФЕФФФФФЕЕЕЕФФГГХХИИИИИИХХХХХХХХГГХХИИИИХИИЙЙИИИГХХХХИИИЙИИИХХИИХХИИХХХГХФФФФДДЕЕЕДДЦАЮЮчщщщэшэчЮъччччщэччэшшщщшшшшззыыыыыььььыышзыыыыьвььььввжжввжжутттссряяррррсттуууууутссрррряпопоонмммопяяпярссряяярсрпнмкииихгггхххххиииххйййихийкклммммнннмллмннонмкигфдб╬╦╡╟╠╠╠╠╜╚╚╛╛╙╘╘╚╚╚╙╗╕╗╛╟╞╜╙╗╔═⌡∙▌┌xrppqstpkkmorrw{{xw{}yvvtsv{|vnlmhbaehjhghkmprtwy|}~}~─┌││─││─}zricaccdfhjkknnnopswz~─│└┴░⌠■≤≥ ╔╥ааббеикйххииййгб╪╤ЁЁЁ╠╞╝╞╜╚╙╘╗╗╗╖╓╒╒╒║║║═÷··÷·°⌡⌡ ≥≥≈∙■■⌠▓░▐▌▄▀┼┴┤├┘┘┐┌}{zyxusrponkhfed`]\WVTROLKJHFDBA@>=<;975432/..*+((
+	
+
+	
+
+
+	
+!$&(+-/13578:;;<>@ACDEEGJJJKLNPSUWWY\^`dghjloprsuwxz|}~─┌└├┤┤▄▀▀█▌▌▐▒▓▓⌠■∙√≈≤≤≥°²··÷÷═÷÷═╒╓╓ё╓╕╗╗╗╘╙╛╞╝╞╟╠Ё╪дхфеда╩╣Ё╟╠Ё╡╟╜╚╚╝╙╘═▌┌~zyxuqomllijigccfigeb_\[[[[[ZXVUWX\^acb`^]]YZ__YSRQV\bm}┼▒ ÷╒ё╔╓ё╔╕╗╙╚╙╘╗╖╜╟Ё╤╥╥╥╦╥╥╦╦╧╧╧╦╩╪╫╫╪╪╩╪╬╫╫╬юаюююацдеедцдфгедеедееееедддфедццдефхфффгххгигфххфефихгггххийиийлмлккклмммммммноонмлмллмнонмннмллмооояяоояяояяяяяяяяппярррррярссряяястууууужьыыыыьввыьььыызшззшшшшшшзшэээээшээщщщщщщщщчччщщэъъччччъъъчъЮБББАББЦЦБАБЦДДДДЕЕФФФГГГФФФГГГФФФГГГГГГГФЕЕФЕЕЕЕЕФФФГГГФФФФФФЕЕЕГГГФЕДДЕЕФФГХХИИИИИИГГГХХХХХХХИИИИИХХХИИЙИИИИИИИЙЙЙЙЙИИИХИИИИИИХХГГФХФЕФЕДДЕЦЦЦЦЦБААЮъччщшэчЮъщээщщщщщэшэщэзээшшзззыззыььыззшзыыыыыьввввжжуужжуутссртсряпооояярсттттуутсряооомкййккйииикмннмпрттсяппрсрпнлйхххгггхийгггггггфийййхххххйлмммнопнмллмнномкйифдда╩╣Ё╢╢╢Ё╢╡╠╠╞╜╚╛╞╝╞╝╙╖╗╛╢╡╠╟╞╛╗╓═²≈▌┘|uqruspqpnnpv||wvzyvwwvwz|vnmojb`cgigdehkpoptxzz{{~┌┐│~}}─~zsjedeeegikllonnoqswy|~─┐┴▐⌠⌠∙≥≤÷╢©юцдгйкйхххккйгц╪╤ЁЁЁ╡╞╝╝╜╚╘╘╘╘╗╕╓ё╒╒╒╒╒║÷²÷÷·°⌡⌡⌡ ≥≈∙⌠⌠▓▒▐▒▐█▀┴┬┤├┘┘┐│~|{xwusrponlhfec`\[VUTQOLJIFECBA@?>;9754310/..++'(
+
+	
+
+	
+
+
+
+ #%(+.0123579;<=>@BDEFFGHIJKLNNPSVXZ\^_cegklnrrtvwxyz{{~│┐┐└├┤┴┼▄▌▌▌▌▐▓■∙■∙≥≥√≥≥ °²·²²·÷═║╒ёёё╓╕╗╗╖╗╚╝╜╞╟╟╟╢╫егфффа╧╢╢╠╡╡╡╞╜╛╛╛╞╔∙▄┐zx|wsrqnkihjhb`dggege`\[ZXYXVTSRST[]``]__Z[XY^]WRSOVcq~▀√≥÷÷║ё╓╔╔╕╗╗╗╘╙╚╙╘╞╠╢╦╧╦╦╨╦╦╧╧╨╩╩╨╫╫╪╪╪╫╫╫╫©юааю©©абддддееггфеедццеддццддеееддддеефггггггхихххггггиигггикликлммммнйкмннмлйнмлмннмклмнннннонннннооппяярррряссссрряяяяртуутсрстсррстстужвжжуыьввьььввьыыызшшщщщэээшшшшшшэщщчъчщщэщчъъчщчщэшщчщщчъЮЮъъъъЮБЦЦБДЦЦЕДББДЦЦДДДДЕФГФФФГГГФГФФФГХГГФФФФФФГГФЕЕЕФФГГФЕЕЕФФФЕФГГЕЕГФЕФФЕЕЕЕФГХХИИИИХХХХХХХХХХХХХХХХХХИИИЙЙИИИИИИИИИИИИИИИИИЙЙХХИИИХХГГФФЕЕДДДЦДЕЕЦААДБАъчщщщчъъчщэшэщээээээээшзззшшзызззззззззззыыьььзыьвутттжжусряррряпннмммнопярррсяррпнмлмлйхггиййиииийкмнлорсяппяссряомкйхихгффхиигеццббацефдцдфгехкнпонлннмлллккммлйхфеед╬╦╣╢╢╣╤╢╢╢Ё╠╟╞╟╟╠╠╞╜╜╝╟ЁЁ╟╞╡╠╚╗╔╔╓═⌡⌠┬─wwyxsppnpqv||yxzzz{zvuvuqrrqojeadcdeedfilnpsvy{|}│┌─~|{y│wnigfgggfgilnnqrqqtxz}~}─┴░⌠■√≈≈⌡╚╫дбдехкйхгхихххд╫╥╢ЁЁ╠╝╜╝╜╚╙╘╗╖╖╔╓ё╓ё╒╒═···²²°⌡  ⌡°≥≈■■■⌠▓░▐▌█▄┼┬├┘┘┐┌─}zyxurqrqnkjhfec`\XWVRNLLIFFECA@?=<;:975210/--)+()
+
+	
+
+	
+
+
+
+
+"%(+-0123579;<<>@ACEEFGHIJKMNNPSUWY\]`cegjlmqprtuwxyz|│┐└┘├┤┴┼▄█▌▌▐▐░■∙■■≈≤≈≥≥ °²·²²÷÷║╒ёё╓╓ё╔╗╗╖╗╚╜╝╝╞╞╠╤╬дфеефб╨╣╢╡Ё╢╡╞╜╜╜╜╛═⌠▌├|xyvsrroljijhdcfgfeec_\[[[ZYWTSRRRXZ_`]\[XXVX[[UQRXcq▀■ °÷║ё╔╕╕╖╗╖╖╗╙╚╜╝╝Ё╢╥╨╩╩╩╪╩╩╩╨╨╨╨╨╫╫╫╬╬╬╬╬╬©аааюююабдеееффедддддддееееееффееффффеефггггггхииххххххихгггийкиклммммнллмннмллклмммммнлмопооппннноопяяярррряяяссссссррррстуутсстутррстттужжвввььььызыыььызззшээщщщээшшшшшээщщчччщщщчъъАъчъъщщччщщчЮЮЮЮАЮЮАБЦЦЦДЦЦДДББДЦЦДДДЕФФФФФФГГГГХГФГГГГФФФФФФФГГФФФФФФФГФФЕФФГФФФГГФЕФФЕФФЕЕЕФФГХХИИИИХХХХХХХХХХГГГГГГХХИИИИИИИИИИИИИИИИИИИИИИИИХХИИИХХГГФФЕДДДДЦЦДДЦААЦААЮччщщчЮъъщэээщщщщщщщщщшшззшшззззззззззззыыыьььььвжжууууттссряпяпоннннннннннмллооонмллллйхгххииххххиклммноопястутсяомккиийихххигецбаюю©©бцбабцдегиклмммонмкййййлллйхгффдю╨╤╢╢╢╢╢╢╣╢╡╠╟╟ЁЁЁ╡╠╟╡Ё╣╤╢╡╢╢╞╜╘╘╘╗╖╓·≤▄─vsuxunlnt{}zvuwvwxuuvtqsttqmheeedcbaeimppory~}──~|{zz}}zsligggfeefinqqtutsuxz|}}─┴▒▓⌠√≈≈⌡╗╧ббдфикйххииггге╬╥╢╡╡╠╝╝╝╜╚╙╘╗╖╖╕╓ё╓╒║║═·²·²²°⌡   ⌡≤√■⌠⌠⌠▓░▌▌█▀┴┤├┘┌│─~|zxvwusrqpmjigecb_[XWVRNMLJGEDCBA?=<;:864210/--)*()
+
+	
+
+	
+
+
+
+
+"$'*-0123469:<<>?ABDDFFHIJKMNNPRTWXZ[acdfjklopqsuwxz{}│┐┘├├├┴┼▀▄█▌▐░▌⌠∙■⌠∙≈≈≥≥ ⌡²··²·÷═╒ёёёёё╔╖╗╗╘╚╛╝╝╝╞Ё╧©бфееец╪╤╢Ё╢╣╡╞╜╝╞╞╖≥▒▐┴yxvtsrnlkkigfgggfeb`][Z[][YVTSSQPTW_b]YXWUUWYWUUVes─▀√ ⌡·÷ё╕╗╗╗╘╙╗╗╙╚╜╞╠Ё╥╦╨╫╬╪╪╬╬╬╫╪╪╪╪╪╬╬©©©©©©©юаааааббцефффггддддддееееффффффеффггффееффффффгиихххххххххххииййклмммнннннмммммклннллмнлнпппопрпппппяррррряяяяятттттссссстужутстуутсстуууужвьыыьььызшззьыззззшэээщщщэээшшэээщччщщщщччъъЮъчччщщччччъЮАААББББЦДЦЦДЦДДЦБЦДЦЦДДЕФФФФФФФГХГГХХГГГГГФФФФФФФГГГГФФФФФФГФФФГГФФЕГГФЕЕФФФФЕЕЕФФГХХИИИИХХХХХХХХХХГГГХХХХХИИИИИИИИИИИИИИИИХХХИИИИИХХИИИХХГГФФЕДДДДДЦЦЦЦААББААЮЮъъчЮЮъчщэщщщщщщщщщщшшшзззшшшззыыыззззззыыыьььвжжууусррссромоонннноооонмлйииллллкккккйххххххггггхиклнмлнпрстутрпмлййхиййиххгфдцбаюю©╬юббабцццдеффгикммлйхгхиййкйхгффдб╫╥╣╤╤Ё╣╣╣╣Ё╡╠╠ЁЁ╢╢╢╣╤╥╥╧╥╤╥╥╣╢╠╠╟╞╟╟╝╙÷⌠┬─|{xsrpqw{ywvusuvuuuroqtusokhgec`^^bgkpqnr{}~}}|{{}{ytmihiiggfghlprqtvvvwyz{||│▀▒▓▓√≤≤ ё╡╬цдфиккххиигфгфю╧Ё╡╡╟╝╝╝╜╚╙╘╗╖╖╕╓ёё╒║║═·²·²²²° ≥≥≥≈√■⌠⌠▓▒░▌█▄┼┴┤┘└┌│~|zxvwvtrpnkihfdb`]ZXWUROMLJGDCCBA?=;;:86420//-,)*((
+
+	
+
+	
+
+
+
+
+!$'*,/0134689;<=>@ABCEFGHIKMNNOQSVXYZ`cceiklopqsuwy{|}}┌┘├├├┴┴┼▀▀█▌░▐▓■⌠⌠∙√≈≥≥ ⌡²··²²·÷║╒╒╒╒ё╔╗╘╘╘╚╛╝╝╝╟╢╩юбфедец╫╥╢╡╢╢╠╝╝╞╟╝║⌠▐▐┼─zzwuspmkklgegihfec`]][YZ\ZWUTTTRPQU_d^XVVTVXVTW]du┐┼░≥ ≥÷═╔╗╘╗╗╘╙╘╙╛╜╝╟Ё╤╨╨╪╬╬╫╪╬©©╬╬╫╫╬©╬©юааюю©юаббаббццдефффггфффеееееддефффффеефггфееефффеефгихххххииххиииийййкммммннооонннмммннмлклллнппоопярряяяяяясрряяррртттутттстттужутсууууттужжжввььыывьыыззззыззшззшэээщщщщщщээээщщччччччччъъъъччччччччъЮЮАББЦЦЦЦЦЦЦЦДДДДЦБЦДДЦЦДЕФФФФЕЕФГХХГХХГГГГГГФФФФФФФГФФФФФФФФГГГГГГФФЕФГФЕЕФГФФФФФФФФГХХИИХХГХХХХХХХХХХХХИИИИХИИИИИИХИИИИИИИИХИИИИИИИХХИИИХХГГФФЕДДЦЦДЦБЦЦБАБББЦББАЮЮЮЮъчщэщщщщщээээээээшыышэшшзыыыззшшшшзззззыьвуттсряпяряолнмммннооммллккйййййййкклкйхххггфеееефгийллмопяппсяомкйииггхихгфедцбааю©╬╫юббббцбюааююацфгиихфеефхиихгееецц©╦╥╧╧╤╤╣╣╢Ё╡╡╠╡╡╡╢╤╥╦╦╥╨╧╥╦╧╦╧╥╣Ё╡Ё╢╡╞╙╕╒ ▌┘ywqoty{{{vtuwvvuqppqtusokgeb^\]`cglpquz|yzyz{{z{}zunihikkghiklnopmptvvwyz|}}┌▄▒▒▒∙≈≥ ÷╛╨ддфиккхгхифеефб╨Ё╡╠╟╞╝╝╜╚╙╘╗╖╖╕╓ёё║║║═·²·²²²°⌡≥≤≤√∙■⌠▓▒░▐██▀┼┬├└└┐│~|zxwuuuspmjhgfc`^\YXWTQNLKIGEDCB@?<;;:86420/.,,(*'(
+
+	
+
+	
+
+
+
+
+
+!$&)+./124579;;<>?@ABDEFGHJLMMNPRUWXY^abdiklonprsuwy{{|~│└├├├┬┴┴┼▀▄▌▐░▒▓⌠■√≈√≥≥≥⌡°··²²·÷═║╒╒╒ё╔╗╘╙╙╛╜╜╞╟╠╣╩юбфеееб╫╤Ё╠ЁЁ╟╝╞╟╟╘⌡░▌█┬│zzwtromkllgdfhgeec`]]\YY[YWTSSSQPNS]b]WVUSVXVU\iu┐▐⌠∙⌡⌡ ═╒╕╙╘╗╗╘╘╙╚╜╝╟Ё╤╧╪╪╫╬╬╪╪╫╬©©╬╫╫╬©©юааааююабббббцддефгфффффффффеееддефффффефггггфефггфффгххххххиииииййккйййкмннннонооппоммонммммлкмояяпопясрряяяяярррррсстсттуутттуууужуутууужжжвьвьыыыыыьььыыыыыызшшшшшшээээщщщщщщщщщщчччъъччччччЮЮЮъъъЮЮъъЮЮАББЦЦЦЦЦЦЦЦЦДДДЦББЦЦДЦЦДФФФФФЕЕФГГГГГГГГГГГХФФФФФФФФФФФФГГГГГГГГГГФФЕФГГФЕФГФФФФФФФФГГХХХХГГХХХГГХХХХХХХИИИИХИИИИИИХИИИИИИИИИИИИИИИЙХХИИИХХГГГФЕЕДЦЦЕЦБЦЦБАБББЦЦББАЮЮЮЮъщщщщщщщээээшэээшззшщэшзыыззшшшшззззззыьвутсссяооппомллллмммнййииииииййййклммййиххгедццццдефгхйлмммммонлйихххеефффедцююю©©©╫╪╪©юаабаю╬╬╬╫╪╪╫©юцффеццдефффееефееа╨╦╩╩╦╥╤╢Ё╡╡╡ЁЁ╡╡Ё╣╤╥╥╤╧╦╤╦╧╧╨╥╣ЁЁ╤╦╤Ё╢╝╛╘ё ▌┐ztpty{{{wtuvvwvssqpswxsnifc`^___eglrvwwwxwvuuux{ysjfgilmiijklmmmknrtvwxy}~└█▒░▒■√≤ ²╖╤ддфикйхгхифцдфц╩╢╠╟╞╞╝╜╛╚╘╗╗╖╖╕╓ё╒║═══·²·²²°°⌡≥≤≈√∙■⌠▓▒░▐█▄▀┴┤┘└┐┌│~}{ywvtttroljigeb`][YXVSOMLJHGGEB@?=<;::86420/.,+()''
+
+	
+
+	
+
+
+
+
+	 #&(+./023578::;=>@AACDFGHIKLMNORUWXX\`bdhjkonpqstvxzy{}─┐└┘├┤┬┴┼┼▄▌▐░░▒⌠∙√√√≥≤≥ °²···÷═║╒ёёё╓╔╖╗╘╙╛╜╜╞╠╡╤╫абееееб╪╤╡╠╡╡╞╝╞╞╜║√▐▌▀┤│{wtrqpnmmjgefgfeeca_^][[[ZWTRQQPOMQY^[WURPSX[_hw└█∙≥ ··²═ё╗╙╘╗╘╙╙╙╚╝╟Ё╥╨╪╬╬╬©╬╫╫╬©©ю©╫╪╫╫ююаабааабццццдееефгггфффеееефффффффггггггггххгггеееееефгххххиийййккклкккйлмннннонопппонмнмллнонмопярррррряяярррсрррссттусттуууутуууужжутжжжжввьыьыззззыьыызыыьыышэээшшэээээщщщщщщщщщщччъЮъъчччччъЮъччЮЮъЮЮАААББЦЦЦЦЦЦЦЦЦДЕЕЦББЦЦДДЦДФФФЕЕЕЕЕФГГФФФФФФФГХФФГГГФФФЕФФГГГГГФГХХГФФФФЕЕФФФФГЕФФГГГФФГГХХХХГГХХХГГХХХГГГХХХХХИИИИИИИИИИИИИИИИИИИИИЙЙЙХХИИИХХГГГГФЕДДЦДЦЦЦЦААЦААБББААЮЮЮЮъчщщччччщщээээээшшшшэшшззззшшзззззззыыьвжууттсяомноонллллллллиииииииикйййлмннййиихгдцаааббцддефгххийлгфедцццдббббббба©©©юю©╫╪╫©ааабба╬╪╩╧╧╧╧╨╩╬бддцбаббцццдефгфц╫╩╩╩╧╦╤╣ЁЁЁ╢╢╤╣╣╢╢╢╣╤╣╦╥╤╦╧╦╧╥╤╢╢╥╨╧╣╣╟╜╝╛╘║≈▌└zwwwxzwssttvxuvroqvxuqlkgdba`^ccgnrrsvyywroquxvnfcehlnlkiiikllnortuuwx}─┘█▐▐▒⌠■≈⌡²ё╡аефилкхгхифццед╫╤╠╟╞╞╝╛╚╙╘╗╖╖╕╔╓ё╒║═══·²·²²°⌡ ≥≈√∙∙■⌠▓░▐▐█▄┼┬┤┘└┐┐│}{zxwsssqnljhfdb_]ZXWUQNLKIGGGEB?>=<;:986310/-++')&'
+
+	
+
+	
+
+
+
+
+	"$')-.0235689:;<>?@ACDFFGIJLMMOQTWXX[`cehhjnopqstuwyy{~│┌┐└┘┤┬┴┼▀▄▌▐▐░▓⌠■∙√≈≤≤≥ °²···÷═║╒ёёё╓╔╕╖╗╙╛╜╝╞╟╡╦©аюцдфеа╪╥Ё╡Ё╠╞╝╟╝╙⌡▓▌█┼┤┐{usqqqomkggggfeddca_\\]]\YWTQPOPPOQWYXWTOOR[hr{┘▌▓≈ °·═║╒╕╘╚╘╙╜╝╛╜╝╟Ё╥╨╪╫©©©©╬╫╫╬©юба©╬╬╬ааабббббцдеееефффгхххгггефффффггггггггггггггггггееедддефииииййккккклллллклмнннооооопоооннмммнооооппрстссрррррсссссстттттстужжжуужжужжвжувввввььыьыыззззышшшзыызшээщээшээээээээээчщщщччъъЮъччщччъчъчщщъъчААБББББЦЦЦДДЦЦЦДДЕЕЦБЦЦЦЕДЦДЕФЕЦЕЕДЕФФФЕФГГФЕЕГХФГГГГФФФФФГГГГГГФГХХГФЕФГЕДФГГФФЕФФГГГФФГГХХХХГГИХХГГХХИГГГГГГХХИИИИИИИИИИИИИИИИИИИИИИИИХХИИИХХГГГГФФЕДЦДЦЦЦБЮАЦБББББААААААЮъччччччщщэээээшшэээшшшшшшшээшшшзззззыььжууттряонмнооммлллккйкййииииикййклмннкккйигдбаююаааббббцдеееебаюю©©©©©╬╫╪╫╬╬╬©©юааю╬╫╬юааабба╪╨╤╣╣╤╤╤╧╩╬аббаююю©©©юбцеецю╬╪╨╧╦╦╥╤╤╤╣╢╥╥╤╢ЁЁ╣╥╣╥╥╤╧╨╦╧╨╥╣╣╦╨╦╣╡╟╠╠╝╛╚╗╓ ▐┬┌}|}xtssruwwwsppsvusnomhc`_^`aejmoprvzyrlnrspib`bfjmmljijlmmqqrtuuvy{~─┘▀▄█▒⌠⌠≈°·╒╞╫фгйлкихиигдцдд©╦╠╞╝╝╝╚╙╙╗╖╕╕╕╔ё╒╒║═║═·²·²°⌡  ≥≤√∙∙■⌠▓░▐▐█▄┼┬├┘└┐┐│}|zxwsrqomkhgdcb_\ZXWTPMKJHGGEDA@>=<;987531/.-+*'(&&
+
+	
+
+	
+
+
+
+
+
+	!$&(-.02346799:<=?@ADEFGGIJLLMNQTWXXZ`dfggimnopqrsuvy|││┌┐┘┤┬┼▀▄█▌▐▌░▓■⌠⌠∙≤≤≤≥ °²····÷║╒╒╒╒╓╓╔╕╗╘╚╜╞╞╞╠╧аб╬ацеда╪╥╢╢╢╡╞╞╟╜╖≈░▌█┼┴┘{urqrspkhdgihfedcba]YY\^\WUSPOOQRQRVWVWTMOR^s┐┼▐∙≈≤⌡°°║╕╕╖╙╚╙╚╞╟╞╟╟╡╣╧╪╫╫©╬©©╬╪╪╬©аццбаабббббббцццдффффггфгхихххххххгггффггффффггггффффгггггфффгхиийййкллккллллллклмннноопоонооопноонммнонннясттссссррррссттуууттттжвввжжжжжжвввжыьььььььыыыыызшшээшшззэщээщээшээээээээээччччччъъЮъчщщчъЮчЮъччЮАъАБЦББББЦЦДДДЦЦДДДЕЕБАЦЦЦЕДЦДЕФДЦЕЕДЕЕФЕЕГГГФЕЕФГФГГГГФФЕГГГГГГФФФГХХГФЕЕХЕЦФХГФФЕФГГГГФФГГГХХГГГИХХГГХХИХХХХХХХХИИИЙЙИИИИИИИИИИИХХИИИИИИХХИИИХХГХХГГФЕДЦЦЦЦЦАъЮЦЦЦББББЦЦБББАЮъъъщщщэээшшщэшэщщэзззшэээээээээээээшзьвутссяяпонноонммллкййййиииииикйййлмннлллкйхебююююююааююацедю╪ааю©©╬╬╬╪╨╦╦╧╨╩╪╬╬©юю©╫╪╫©©©©аю©╩╥Ё╠╡╢╢╢╧╨╫©абаю©©╫╪╨╩╪╬ббббю╫╨╨╧╦╧╧╧╦╤╢╤╤╤╢╡Ё╤╦╣╦╥╤╨╩╧╧╩╦╣╣╦╩╨╥╡╠Ё╢╠╞╜╘╘╔╒÷≤█┘│{wtsqswvyvsqsuvwoqpia^^^\`egjnomnvxqklmlkd^]`dhlllklnoonrqrtuuwyy|└┴┼▄▒⌠⌠≈²·║╛╨фхкмлииийгдцдею╨╠╞╝╝╜╚╘╘╗╖╕╕╔╔ё╒╒║═║═····°⌡  ≥≤≈∙∙■⌠▓░▐▐█▄┼┬├┘└┐│─}{zxwutrpnljgfcca_\YWVTPLKJHGGCBA@@>=;986420.--**'(&&
+
+	
+
+	
+
+
+
+
+
+
+
+
+!#')+-01246789;=?@@ABDFGIJKLKMPQRTVY[\_cgikkmnpqstvwx{~─│┌└┘┤┤┬┼▀▀▄▄█▐▓⌠⌠■∙≈≤≤≈√≤°²°²·÷══║╒ё╓╔╕╖╖╘╙╛╝╝╠╤╩╬©©бцееа╩╥╥╤Ё╠╞╝╞╘÷░░▄┴┬┴└~urqpoljjeikifdcad_]\Z[[YVSQONMORORRPSXVPR_p─┼▒√≤°²·═║ё╔╖╚╚╚╛╝╟╠╡Ё╣╦╩╪╬©ю╬╫╬©ю©©юацддцббцбцддццдффддффееггфгиигфггхихггггихгггггфиигффффгхггфффггийккйиклммммллллннонннопопппппппопяпоопрряяяярстсссссрррсрстууусуууууууужжжжжввььыыыыыыыьььызшззщшыьышщщщщщээшэээшшшшэщчъъчщщщччччъъъъччщщчъъъъъъАБББББББЦЦЦЦЦЦДФЕДББДДЦЦЦЦЦДДДЦДДЕЕДЕФФФФФФГГГГХФЕФХХГЕХГГФФФФФГГГГГФЕЕФЕЕЕЕЕЕФФФФФФГГХХХИИХХХГХХХХХХХХИИХГГХХХХИИЙЙЙЙИЙЙЙЙЙЙИИИИИИХХИЙЙЙИИХХХГХХГФЕДЦЦДЦБЦБАБЦББЦБААААЮБЦАЮъчэщччщэээщэщччщэшшэшзыызээээшшээшзыыьжтсряоомллмнопоонмкигхиихггикииххйкммкклкйгдббю©©©©ад©юбцб©╪╧╪╬юю╬╪╪╫╨╥╢Ё╣╥╦╥╦╧╨╨╩╩╩╩╫╬©©╬╫╪╩╥╣╢Ё╡╟╠Ё╣╥╧╪╬©©©╫╪╩╦╥╦╨╩╬юбца╬╩╨╪╨╦╦╧╦╥╥╧╦╥╤╤╤╥╦╧╦╥╥╧╨╨╨╧╦╦╦╧╧╦╥ЁЁ╡╡╡╟╝╛╜╘╖╖╖╒≈▌├wttuvxwxvrprvxsrroe\\a^\_dfhkjkorpmjheda_^^^adfhiikmnmmquxvux|{x┤┤┴▐▒▒■√≥⌡·╗╥цймллйхийфдббеб╨╡╟╝╜╜╛╙╗╘╗╗╖╔╓ёё║║═÷÷÷·⌡⌡  ≥≥≥≤≈∙■⌠▓▒░▌█▄┼┬├┘└┐┐~|zwtsrqpolhfgec_\ZXVUQOMKKJHFDCA?><:987520/..+*)*''$
+
+	
+
+	
+
+
+
+
+
+
+
+
+ #&(+-02246789;<>?@ABCEGHIKLKMPRSTVWZ[^behijmoprsuwxxz}~─│└┘┘├┬┴▀▄███▐▒⌠⌠■∙≈≈≈≈√≤⌡²²²²÷÷══║╒╓╔╕╖╖╘╙╚╞╟Ё╥╫юю©ацееа╪╦╥╣╡╟╞╞╝╖⌡▓▒█┼┼┼├│vsrqpmjihkmjgdb``]]][\]\WSPOOOOQQONORUVTbn}┤█■≥°²·═╒ё╔╕╗╚╛╜╞╟╠╡Ё╣╥╨╪╫╬©©©╬©юаююабцддцбцдддддддеффеефгффгхххййхххгхиихгггихгггхггхгффффффхггггххиийккййкмллллллллмннннноппппппяяяпяяяппяррряяррсттттсссрртсстужжуууууууууууужжвььыыыызыыыыыызшшшзэзыьышэщшээээшээээшшэщщчщчччччщщччъъъъччччъъЮЮЮЮЮАБЦЦЦЦЦБЦЦЦЦЦДЕФЕДББДДДДДЦДЕЕДЦДДЕЕДЕФФФФФФФГГГХФФФГХГФГФФФФФФГГГГГГФФЕФФФФФФФФФФФФФГГГХХХХХХГГХХХХХХХХИИХХХХИИХХИИИИИИИЙЙЙЙЙИИХХХХХХХИЙИИИХХХГХХГФЕДДЦДЦБЦЦББЦАБЦЦБАЮЮЮАБАЮЮъчччччщэщщэщччщэшшэшзззшэщщэээээшзььвутряяонммммнонмллкйхгфгггффхйххггхиййиихийхеба©©©©╫╫©©юааю╬╩╧╧╪©аю╬╪╩╧╥╢Ё╢╣╤╤╥╥╦╦╧╧╧╧╧╧╨╪╫╪╨╦╤╢ЁЁ╡╟╠Ё╢╣╥╧╩╩╩╩╨╧╥╣╣╣╥╧╧╪юцбю╫╩╪╨╧╨╨╨╧╧╨╧╦╤╣╣╤╤╥╥╤╤╥╦╧╧╦╦╦╦╧╧╦╦ЁЁЁЁЁ╡╠╞╛╚╙╚╛╘ё·⌠▄┐}zwvwwzyspsuuwvuqg^[\^Z[_cfgegknmjgda`_^^]\^abeiloqpmlotwwvx|zx┤┤┬█▐▓∙≈≥⌡°╕╢бимллйхииецаадб╨Ё╠╜╛╛╛╚╘╘╗╖╕╔╓ё╒═══··÷²⌡⌡ ≥≥≥≤≈√∙■⌠▓▓░▐▌▀┴┤├┘└┐┌~|ywtssponmifedb_\YXVUPNLKJIGECB@?><:986420/.-+*)*'&$
+
+		
+
+
+
+
+
+
+
+
+"%(+-01246789:;=?@AACEFGIJKLMPRSTUUYZ]`cfhjmnpqstvwxy|}─┐┘├├┤┴▀▄██▌▐░▓⌠■∙√√≈≈√≈ °²°²·÷÷═║╒╓╔╕╖╖╗╙╚╝╞╡╦╫ю©╫абееб╪╧╦╣╠╞╟╞╛╒∙▒▐▄┴┴┴├┌xurrpmjikmmjgda_\[]^\\]\WSPPQQPPQNLMPS[aq}┬█░√°÷÷═ё╔╕╖╗╘╚╜╟╡╡Ё╢╣╧╨╪╬╬╬╬╬©╬©аааабцдддццдеедццдеефеефггффгихиййихифгхиххггххгггххгффффффггххгххиййийкккклнлллллллллмнннноппяяяяяяяяяяппппярряррсттттттссссутстужввууууууууууужвььыыызззыыыыызшшшзызыыызшээзшэээээээээээщччэщъЮЮъчщччъъъчччччъъЮЮЮЮАБЦЦЦЦЦДББЦДЦДЕЕЕЕЦББДЕДЕДДДЕЕДЦДЕЕЕДЕЕФФФФФФГГГГГГГГГГГЕЕЕФФФГГГГГФФФФФГГФФФФГГГГФФФГГГГГГХХХХГХХХХХХХХИИХХХИЙЙХХИИИИИИИИЙЙЙЙЙИИИИИИИЙЙИИИИХХХГГГГФЕЕДДЦББЦЦБАБАБДДЦБЮъЮАБАЮЮЮъччъъччщщэщччщэээшшшшээщщщщщщщэзыввжусряяоннмммммккйиихгфееффефгигфффггффгедфиигдаююю©╪╩╨╫╬╬╬╫╩╨╧╧╩╫юю©╫╩╦╥╣Ё╡ЁЁ╢╢╢╣╣╣╣╣╣╤╤╥╧╩╩╦╣╣╢ЁЁ╡╠╡ЁЁ╢╣╥╥╥╥╤╤╣Ё╡╡Ё╢╣╤╨©бб╬╩╦╨╨╨╪╫╩╩╩╩╨╦╥╤╣╣╣╤╤╤╤╣╤╥╥╦╦╧╧╧╧╧╧╢╢╢╢╣╢Ё╡╝╝╞╞╝╛╙╘╒⌡▓▀└zxy}}wssttsttqkd_]_YW\`cc^adhjjfb^[\]][Z[]^bglqtrokmquwwy{zz─├├┤▀▄▒■√≥⌡°ё╞©гммлйхйхдбюадб╩╣╠╜╚╛╛╚╙╘╗╕╔╔╓ё║÷═÷···²⌡⌡ ≥≤≤≈√∙■⌠▓▒▒░▌█┼┴┤┘└┐┐┌─}{yvtsspmmmjgeca^[XWUTPNKJIHFDCB@>=;:886420/.-+*()&&#		
+
+
+
+
+
+
+
+
+!%'+-012357899;<>@AABDEFHIJKMOQTUUTXZ\_aehjlmoprsuvxz|}~─┌┘┤┤┬┴┼▀▀▄▌▌▐▒⌠■∙∙√≈≈≈≈≥⌡²°²·÷÷═║╒╔╔╕╖╖╗╙╚╜╝╡╦╬ю╬╪юбефб╫╧╦╣╠╟╠╞╙·▒▐▌▀┬┤┤┘┌zvqppnlkmlkigda_\\^_]\[YVTQQQQPONLKKNXhu{┘█▐▓≥÷═║ё╔╗╘╙╙╚╛╞╡ЁЁ╢╤╥╩╪╬©©╬╬╬©╬©абаабддддцдеффдцбдеееддегхгггххииииххгггххххххгггггххфггххххххххххииййкллллмнммммммммлммнннопяяяяяяяяяпппппппррррстттутттссссттттужввжжжжжжжжуужввьыззззззззызззшшшзыыыызшшшшызээээщщщщщщщщччщчъЮАЮъчччъъъчччъъъъЮЮЮЮАБЦЦЦЦЦДБЦДДДДДЕЕДЦББДЕДЕДДДЕЕДЦДЕЕЕДДЕФФФФФФФФФФГГГФФФГЕЕЕЕФФГГХГГФФФГГГГФФФФГГГГГФФГГГХГГГХХХХХХХХХХХХХХХХИИЙЙХИИИИИИИИИИЙЙЙИИЙЙЙЙЙЙЙЙИИИХХХХХГФФЕЕДДДЦББДЦБААБЦДДЦАЮЮЮББАЮААЮчъъЮъчщщщщчщщээщэээщщщччщщщщэшывжжутсряяоннннмлкихгггггфффффефгхфеефффецедцдгххгдцббю╫╩╩╩╩╨╨╧╧╨╨╪╩╩╪╬╬╫╪╥╥╤Ё╠╠╠Ё╡╡╡╡╡╡╡╡ЁЁ╢╣╤╤╢ЁЁЁЁЁ╡╠╠╡╡Ё╢╣╤╣╣╢Ё╡╟╞╟╟╠╠Ё╤╨╫╬╩╦╣╧╧╩╫╬╪╩╩╨╧╧╦╥╥╥╥╣╤╤╣╢╢╣╤╥╦╧╧╧╧╨╩╤╤╣╣╣╣╢Ё╠╠╠╠╞╜╛╚╚╕÷≤▒┴┐~|~|wssuoqqpnkea`ZX\`b`\\]bhkic^XY[\ZXY\^aejpsrpjknrvxyz{}┌├┤┤┼▀▌▒■≈ °╒╛╩елмлйхкгцаюадц╫╤╠╜╛╛╛╚╙╘╖╔╔╔╔ё║÷÷÷²··²°⌡ ≥≤≈√∙■⌠▓▒░░▐█▄┼┬├┘└┐┌┌│|zxvusrpnmljgeb`\YWVTSPNKIHGECBA?=<;9886530/.-+*()&%#	
+
+
+
+
+
+
+
+
+!%'+-/12357889;<>?@ABCEFGIJJLNQTUUUXZ\_adhjklnpqstvy{|}}│┐├├┤┬┴┼▀▄▌▌▌░▓⌠■∙√≈≤≤≤≤ °²·÷÷═║╒╓╔╔╕╖╖╗╙╚╝╟╣╨©ю©╫©адфц╫╨╧╤╠╠╡╝╕ ▐▐▌▀┬┤┤┘┐}vpnoooopnkigd`^_]^`_^[WUTSQPPOOKIFGSfx┌┐┼░▓≈·╒╒ё╔╗╙╚╛╛╜╝╟╡ЁЁ╣╦╩╩╫╬©©©©©ю©юбцббцеееддееффеццдееебдефххххххиииихххггггхииггггггххфггхххххххххххиикллмллммннннннннлмннннопррряяяяяряпппяяпсррстууууттсссссстуужжжжууууууууужжвьыззшшззззззззззшшыьыызшшэээышэщщщщчщщщщщччччччъъъъъъъъъъъччъъъъъъЮЮААБЦЦЦЦДЦДДДЦЦЦДДДЦББЕЕЕЕДДДЕДДЦЕЕЕЕДДЕФФФФФФФФФЕГГГФЕФГФФФФФФФФХГГФФФГГГГФФФФГГГГГГФГГГХХГХХИИХХХХХХХХХГХХХИИЙЙИИИЙИИИИИИИЙЙИИИХХХИИИИИИИИХХХХХФФЕЕДДДЦЦББЦЦБААЦЦДЦБААААБЦБАААЮчъъЮЮъчщщччщщэщщщщчччччщээээшывуттсряяппонмммкихгфееффффггффеефгееефффдцццддефхифедбю©╬╫╨╧╦╦╦╧╩╪╫╪╩╪╫╫╪╨╤╤╤╢╠╟╠╡╠╠╟╟╞╞╞╞╞╟╟╞╝╝╞╟╡ЁЁЁ╡╠╠╠╠╡Ё╢╣╣╢╢╡╠╟╞╝╝╞╞╝╟Ё╤╥╥╤╣╦╧╩╬╬╪╩╩╩╩╨╧╦╦╥╥╣╤╣╢Ё╡Ё╢╢╤╥╦╦╧╨╪╥╤╣╣╣╣╣╣╡╡╡╡╡╠╞╝╜╚╖╒°∙█┤─}|~zsquqqqqqnhc^YZ^`ba^[Y\eljc]XXYZYXZ]`bfjorqnjjlotxzy|│└├┤┬┴▀█░⌠√ °║╘╦бкммкийгбююадц©╥╡╜╜╜╛╙╘╘╖╔╔╔╔ё║÷═÷²···°⌡ ≥≤≈√∙■▓▓▒░▐▌█▀┼┬├┘└┐┌│─~{ywvtsqqpnkigea_[XVUSSQNKIHGECB@><;:9876531/.-+*'(%$"	
+
+
+
+
+
+
+
+
+ $'*,/01246789;=>??ABCDEGHJJKNQSTUVXZ\_adgjkmnpqsuvyz|}}~│┌┐└┘┤┴▀▄███▌░▒▓■∙≈√≈≤≥≥≥⌡²·÷÷═║ё╓╓╔╕╖╖╗╙╚╜╟╤╩╬©╬╫╬юдец╬╨╧╤╡╡╠╚║≈▐▌█▀┴┤┘┐┌~wolnpqrrnkihd`^^[\]]\ZVUUTRPOOOLGDK^u└┬┼▌▓√⌡÷║╒╔╖╙╛╜╜╝╞╟╠Ё╢╣╦╩╫╪╫╬╬©©юабабдеддефффеееффффеефгггцдффгииххийиийихихггхиийххххггххгггггхххиииииииимммммммнооннннннлмноооопрррряяяясссррррссррсужжууттсссстстужжууужжжжжжжжжжвьызшшшшшззззззззззззыызшэээээзшээээщчщщщщччччччщщччъЮъЮЮЮъъччъъъъъъЮЮЮАББББЦЦДДДДЦЦЦЦЕДЦББДЕЕДДДДЕЕДЦЕЕЕЕДДЕФФФФФФФФФФФГГФЕФГГГГФФФФФГГГГГГГГГГФФФФГГГГГГГГГГИХГГИИИХХХХХХХХХГХХХИИИЙИИЙЙЙИИИИИЙЙИИИХИИИИЙЙИИХХХХХХХХФФЕЕДДЦЦЦББЦЦААБЦЦЦЦБАААЮБЦБАААъъъъъЮъчщчччщщщщчччччщщщэшззыьвусяяпоннмммлккйигефеееефффффеедееффффффедббцдддегиффда©©©╬╨╧╦╥╦╨╪╫╪╪╪╫╫╩╧╥╣╣╣╢╡╟╠╠╠╟╞╝╜╜╜╝╝╝╝╛╘╘╛╝╟╡Ё╡╠╠╠╟╟╟╠ЁЁЁЁЁ╡╡╠╞╜╛╛╜╛╛╛╝╞╟╟╟╢╤╧╪╫╪╩╪╫╫╪╩╨╧╥╥╣╣╣Ё╡╡╡ЁЁЁ╢╣╤╥╦╧╣╢╢╢╣╤╥╥╢╢ЁЁЁ╡╞╜╞╝╛╘╓·≈▒┤─}~|urusrqrsqmi^ZZ]^`b`[WYbif^YXXXZZ[]_aejnqrpmkkknsxzy|┐┘┘┤┬┴▄▐▒⌠√ °═╕╢юинолиигбююаццю╦╡╝╝╝╛╘╗╘╖╕╔╔╓╒║══÷²²·²° ≥≤≈≈√∙■⌠▓▒░▐▌▄▀┼┬├└┐┌│─}zxwvtspqpmjhfda^ZWUTSRQNKIHGEDA@><;:9876420.-,+*''$#!
+
+
+
+
+
+
+
+
+
+
+ #&),.0124678:<=>??ABCDEFHIJLOPQSUVVY\^`cfiklnpqrtuwy{}}~─┌┌┐└├┬┼▄█▄█▐▐░▒⌠∙√∙∙≤≥≥ ⌡²²·÷÷║╒╓╓╔╕╖╖╘╙╚╛╠╥╪╬╬╬╬╫юцец╬╨╧╤╡╡╟╕⌡■░▌█▄┴┤└┌│wnlnqrrpkhgheb`]Z[\ZZYUWVTQPPPNMKN[n~┬▄░▓√ ²÷║╓╗╘╚╜╝╞╟╠╠╡╢╤╧╪╬©╬╬╬╬╬юбццццефеефгфффффееефгггггхеггггиихиййииййихххиййихиййиххииххггггххиийййкккммммннннооонннмммнооооопрррряяяястттсстутсрсувжужуттсстттуууууужжжжжжжжжввьызшшшээшшзззшшзыззшшзызэээшээшээшшэщчщщщщччччъччччъъЮЮЮЮЮЮъъъЮъъъъъЮЮААББББЦДЦДДДЦЦЦЦЕЕЦББДЕДДДДДЕЕДДЕЕЕЕДДЕФФФФФФФФФФФФФФФФФГГГГФФГГГГГГГГГГХГФФФФГХГГГГГГХХИХГГХИХГХХХХХХХХХХХИИИЙЙИИИИИИИХЙЙЙЙИИХХИИИЙЙКЙИХХХХХХХХГФФЕЕДДДЦББББААБАБЦЦБАААъАЦЦББАъАЮъъЮЮъччччщщщчъъччщэшшшыьввжусяоонмллккихггхгецеддеефффеддддеффгфффедбааббцдегхеецю©©╬╫╪╨╧╥╦╧╩╫╨╩╩╩╩╧╥╣ЁЁЁЁ╡╠╠╠╠╟╝╜╛╛╛╛╛╛╛╙╘╘╙╛╝╟╡╠╠╠╠╟╞╟╠╡╡╡╡╡╠╡╠╝╚╗╘╙╙╘╗╗╘╙╙╙╜╞Ё╦╩╩╪╫╬╬╬╫╩╨╧╦╦╤╣╢ЁЁЁ╡ЁЁЁ╢╣╤╤╤╣╢Ё╢╣╥╦╦╦╥╣╢╡╟╝╜╟╟╞╚╗╔═°⌠▄└│─}yvuqortrpod]Z[\^`_ZWYad`ZXXWX[]^_acglopqqommmnrxzz{└┘┐├┬┴▄▐▓⌠√⌡·║╖╠╫хнянигфа©ююбцю╩╢╝╜╜╚╘╗╖╕╔╓ё╒║║══·²²²²⌡≥≤≈≈√√∙■⌠▓▒░▐█▀┼┼┬├└┌│─}{yxwvtrppnkigeb`^ZWUTSRPNKHGFEDA@=<;:985531/-,++)''$# 
+
+
+
+
+
+
+
+
+
+	#&)+./024568:<>??>ABCDEFHIKMOPQRTVUX[^`behjkmopqsuuwz|}─┌┐┐└├┤┴▀▄▀█▐▐▐░⌠∙∙⌠■≈   ⌡°²²··═╒ё╓╔╕╖╖╘╙╛╝Ё╨╬©©©ю╫©цец╬╨╧╣╡╡╞ё≈▓░░▐▌▄┴┘┐┌wnloqqqlgdegfcb_]^^ZYYWYWTQQRPMMQ\ly─┴▓∙√ ·══ё╘╘╙╛╝╞╟╠╡╠Ё╣╧╪©юю©©©╬╬юбддццееееегггггфеедегггфгггииггииххййииййхххийккигйккйиииййихггххийййкллммллммнооооооннмммнопппоппррряяяяярсттрртутсртжвжужжуттттуууууттуввввввввввьызшшшшээшшззшшэшзззшшшышээшшшээээшзшэщщщщщчччщъЮЮЮЮЮЮЮЮЮАЮЮЮъъЮЮЮъЮЮЮАААББББЦДБЦЦЦЦЦЦДЕЕЦББДЕДДДДЕЕФЕДЕЕЕЕДДЕФФФФФФФФФФФФФФФФФГГГГГГГХФГГХХГГГХХГФФГХХГГГГГГХХЙХФГХХХГХХХХХХХХХИИИЙЙЙЙИИИИИИХХЙЙЙЙИХХГХХХХИИИХХХХХХХХХГГФФЕЕДДДББББААБЮАЦДЦАЮЮщЮЦЦЦБАЮБАЮЮЮЮЮъчччщщщчъъчщэшззыьвжутсряоннмлкййгедеффдцдддефффеддддефггхгфедца©ааабдфггдеда©©╬╪╪╨╦╥╥╦╨╩╩╩╨╦╥╤╤╥╡╡╡╡╡╡╠╟╠╟╝╛╚╚╚╛╙╘╗╗╗╗╗╗╛╞╠╠╠╡╡╟╟╟╠╡╡╡╡╡╟╡╠╝╘╕╕╗╕╔╓╓╕╗╗╗╕╘╝╢╦╧╩╬╫╫╫╫╫╪╩╨╨╦╤╣╣╣╢Ё╣╢Ё╢╣╤╤╣╤╣╢╢╣╤╥╥╦╦╥╣Ё╡╠╠╠╠╞╛╙╘╕╓²≈█└└┘─xwqoqsqopkb\ZY[]\YWY`b\XYXWX[_``aeiklmprsoonnrx{{{└┘│┘┤┬▄▐▒▓√°═╓╘╟╪гнроигфа©©©абю╫╢╜╛╛╙╘╘╕╕╔╓╒║═══÷·°°²° ≤≈√√√√∙■▓▒▐▌█▀┼┬┴┬┘┐┌│~|zxwwvtrpomjhgd_`]ZWUSSRPMJHGFEDA?=<;:984420.,+*+)''#" 
+
+
+
+
+
+
+
+
+
+
+"%'*-/0235579;<=??BCDEFGHIJLMMOSUUVY\^`bfhjkmnoprtxy{|~│┌─│┐├┬┴┼┼▀▄▌▐░▒▓⌠■∙√≤≤≥ ⌡⌡°²÷║║╒╒╔╖╖╗╚╚╚╛╜╣╪╫╫╬╬╪╬©бддю╩╥╢╢Ё╘ ∙■▐▐▒░▀┤├┘┐─yrorusojfdefcaa`___\WVWVVUTQNNPT`mw─├▄⌠≥²÷═ё╓╔╘╚╜╝╝╞╡╢╢Ё╢╤╧╫©ююю©©©абцддеедегггфгххгфффеффхиихгииихххххииххиииихиккйиийллккйиииккйййиййийкйлнооннмммннопонопяпонннннопрррсссссрттттттсряяртжжжуужжууужвужжжжжжжжвввжвьызьвышщэшщщэшшэщщщэшшшэшшзшээшшшэщэшшэщщщччъъъъъчЮЮЮЮъъЮАААААЮЮЮААААЮЮЮЮЮББАББЦЦДДДДЦЦДДДЕЦББДЕЕЕЕЕЕЕЕЕЕЕЕЕЕФФФФФФФЕФГГФФГГГГГФФФГГФФФГГГХХГГГГХХХХХХГГГГФФГГХХИИГХИИХХХИХХХХХИИИГХИИИИЙЙИХХХИИЙЙККЙЙЙИИИИИИИИИИИХХХХХХХХФГГФДДДЕЦЦЦЦББББББББББАААААББЮАБЮЮААЮъъччччччъъъчщщшззззьвжусяппммммкигедццббцдееедддеффдеефффгхгеефебюю©юбцццддедба©©╬╬╫╩╧╨╨╧╧╩╩╧╦╥╤Ё╡╡╣Ё╡╠╡╡╠╟╡╟╜╛╛╛╚╙╚╗╔╓╔╖╖╖╗╘╚╜╜╜╝╞╡╠╟╟╡ЁЁ╡╡╠╟╞╛╘╕╓╒ё╓╔╔╕╖╖╗╖╗╜╠╤╩юю╬╬юю╬╪╫╫╧╤╤╥╥╥╦╧╦╥╤╥╥╤╣ЁЁЁ╡Ё╤╦╧╧╥╤╥╤╣╡╠╟╠╠╞╜╚╗╕╕║≤▐▀┴┘│xtrqqstpmh`XUW[^X[]^\YWVXWX\accbdilmmoqrssposvvx~┐└┐└├┴▌▐▒√≥⌡·ё╘╝╦форокхею╫╫юааа╫╥╟╛╛╚╘╖╔╔╓╓╓╒═÷÷÷···²°⌡  ≤∙∙√∙▓▒▒░░▌█▄▀┤┤┘└┐─~|{zxwvusrpnljigdb][XVTQPPNLJHFECCA@>=;:874310.,*)*)&&"!
+
+
+
+
+
+
+
+
+
+
+!%'*-/0235679;<=>?ABCDEFGHJLMMNRTTVX[]_behjkmnoprtvwy{|~─│┌┐└├┬┴┼┼▀█▌░░▒▓⌠■∙√≈≤≥ ⌡²²·÷║╒ё╓╓╕╕╖╙╙╙╛╝╣╩╪╪╫╬╫╫╬ацда╪╦╣╣Ё╖≤■■▌░▓▐┼├├└│─{urturnjgeeeca`]]\\ZWVWXSQRPNQWalw├┴▌■⌡÷║ё╔╕╗╛╜╞╠╟╠Ё╣╣╢╣╦╩©ааааюююабцддеееегггфгххгффгффгхииихиииииииийихиййййийкккййййййииииийййййййййккклнооооооооппооооопоооооооопяссстттссрррсууууррстжвжжужжжуужвужжжжжжжжвввввьыыыызэщэшээшшшээщщэшшэээшшшэээээээшээщщэшччъъъъъчъЮЮЮЮЮАБААААЮъЮААААЮЮЮААБББББЦДДДДЦЦЦЦДДФДББЦЕДДДДДДДДДДЕЕЕЕЕФФФФФЕФГГГФГГГГГГФФГГФФГГГХХХГГГГХХХХХХГГГГФГГГХХИИХХИХХХИИХХХХХХХИГХИИИИЙЙИИИИИЙЙКЙЙЙЙЙЙЙЙИИИИИИИИИИХХГГХХГГГФДДДЕЦЦЦЦБББББББББААЮЮЮБЦБААБЮААААЮъчъъчччччччщэшзыззввжусяпонлйихххгддцбццдеффффффффдеффффггфдцдца©©©юааббццдццбаю©©╬╪╨╩╩╩╨╩╩╧╥╤╢╠╟╠╢Ё╡╡╡╡╠╠╟╞╜╚╙╘╘╘╙╗╔╓╓╕╖╖╖╘╙╛╛╜╝╝╞╞╞╟╠╡╠╠╡╠╞╝╜╙╖╓ёёё╒╒╒╒╒╓╔╖╚╝╡╧юаююаю╬╬╬╫╨╦╦╧╧╦╧╧╦╥╥╦╦╥╥Ё╢Ё╡╢╤╦╦╥╥╥╥╥╣╢Ё╡ЁЁ╠╟╝╛╙╘╖║ ∙░▀├─{wtqqsrsne\VUWY[]^^[YXXZZ[^bdcbeilllnpqpsssvvvx└└┌└┤┼██▐■≥⌡·ё╗╜╥днрокхдю╬╬ююаа╫╥╟╛╚╚╘╕╕╕╔╔╓ё║═÷÷···²°⌡  ≤√∙∙■▓▒▒░▐▌█▀▀┤├┘└┌─~|{zxwvtsqonkjigdb_[XVURQQOMJHFDCBA@><;976321/-,*)*)&&! 
+
+
+
+
+
+
+
+
+
+	 $')-/0134679:;<>??@BCDEFGIKMMORTVUWZ\^adgjklnoqstuvxz{}─└└┘├┤┬┼┼▄█▐░▒▒⌠■∙∙√√≈≤ ⌡²²··═║ё╓╓╖╕╖╙╙╘╛╞╤╩╪╪╫╬╫╪╬юцда╫╧╢╤╡╓√■■▐▒▒▌┴┤┤└│─}xutspkjifdcb`][[ZXXYXWWQNOMLUcox─┘┼▄▐■²╒╓╔╗╘╙╝╝╟╡╡Ё╣╤╤╤╦╨╬абцбабцбаацдеффеегггфгхггффггггхииииииииийййиихийййййклллкккххииийййййййййккклллмопопппппппяноооннноппппопяяттттттттрррстжжжтттужввжжжжжуужжужжжжжжжжжввввьыызшээээшшшшшээээээшшээээшэщщэээщэщчъЮъщэъъъъъъччъъЮЮЮЮАБААААЮЮЮЮАААААААББББЦЦЦДДДЦЦЦЦЦЦДФЕЦЦЦДДЦЕЕЕЕЕЕЕЕДДЕЕЕФФФФФФФФГГФГГГГГГФФФФФГГГХХХХГГГГХХИХХХХГГГГГГХХХИИХХИХХХИЙИИИХХХХХГХИИИИИЙЙЙЙЙЙЙЙЙИИИЙЙЙККИИИИИИИИКЙИХГГГГГГФФЕДДЕЦЦЦЦЦЦББББББББААЮЮБЦЦААБАААААЮъъЮЮъчщщщщщэшыыыызьвутрпнммйгфгххгддццццдеффггффедеефффеффебаааю╬╫©©юааацдццццбаааю╬╪╫╬╫╪╪╪╧╤╢╡╟╞╟╡╡Ё╡╡╠╠╠╞╞╝╚╗╖╖╗╗╖╕╓╓╓╕╖╖╖╘╙╛╜╜╜╝╞╠╡ЁЁ╡╡╡╟╝╜╜╚╗╔╔ё╒║╒╒║═÷╒╕╘╚╟╦©ббббю╬╬ю╫╩╨╩╪╩╨╨╨╧╦╦╧╧╧╧╣╣╢╢╤╧╧╦╤╥╦╥╥╤╤╤╢╣╣Ё╡╠╞╜╚╚╙╓·≈▒▄┼┐|vrrqqng_XTTV]^^\XVWX[\^adeedgjlkklnpmruwywvx│┘└│└┴▀▄▀▌■≥⌡·ё╖╚╢аляплхда©©©©юб╬╦╟╛╚╙╗╕╖╕╔╓ёё║║÷÷···²⌡≥≤≥≤√■■⌠▓▒░░▐█▄▀┼┬├┘┐│─~||zxwusrpnljihfdb`\XWVTSROMJHFDBAA?=;:864220/-,**)(&%! 
+
+
+
+
+
+
+
+
+
+
+ #&),/01345789:;=>?@ABCDFGIJLNORVXUVY[^adfjkmnpqsuuvxz{}─┐└└┘├┬┼▀▄█▌▐░▒▓⌠∙√√√√≈≥⌡°°²²÷═╒ё╔╖╖╗╙╙╙╜╡╥╩╪╪╫╬╬╪╬юцда╫╧╢╣╝÷■■∙▒░▐▄┴┬┬├┐─~zurplhiigcaa^[Z[YWX[[XURPOMP`qx└┬▄▌▓≈÷ё╕╖╘╘╙╝╛╝╠╡Ё╣╥╦╦╨╫юбцббацдцббцееггффгхгггхгггггихгхийййиииййййййиххиииикклллкккиииййкклкккккклллмнмнпппппппппппнопонннопппппяярттуууттттссстууууууужжввввжжжжжжужввжжжвжжвввьызышщщщэээшшээээээээшшэщщщшэщщэээщщщчъъъщщъъъъъъъъъЮААЮААББББАЮЮЮЮАААААБББЦЦЦЦЦДДДДДДДДДДДФЕЦЦДДДДФФЕЕЕЕЕЕДДДЕЕФФФФФФФФГГГГГГГГГГФФФФГГХХХХХГГГГХХИИХХХГГГХХХХХХХХИИХХГХИЙИИИИХХХХГХИИИИИИЙЙЙЙЙЙЙЙИИЙЙЙКККИИИИИИИИКЙИГГГГХГГФФЕЕДЕДЦЦЦЦЦЦЦДДДЦЦБББЮЮБДДБААББББААЮъЮъъчщщээщшыььыыыьжспнмкккхффххфцддццццддддееедццдефееддедбю©юю╬╪©ююююацеддддцббабю©©юю╬╫╪╧╣Ё╠╞╞╠╠╡Ё╡╠╟╟╠╞╞╜╚╗╖╖╖╕╖╕╓ёё╔╖╖╖╗╙╚╜╜╜╜╞╠╡╡╡Ё╢╡╟╝╜╛╚╗╕╔ё║═║╒║÷·║╔╖╙╞╥╬цдецю╬╬ю©╬╫╫╬╫╪╩╨╧╧╧╧╧╨╨╦╦╥╤╧╩╨╦╥╦╧╦╥╥╥╥╤╥╤╢Ё╠╞╜╜╝╛╘╓·≈▓░┴┤├vqnmkhc\WUV\\\XTRSUW[_beghhhjkjjknolpsvyxx{┐┤┘│┘┼▀▀▄▐∙ °·╒╕╙╡╬ипплхцаю©╬╬юб©╦╠╛╙╙╗╖╖╕╓ё╒║║═÷÷···° ≤√≈≈√■⌠⌠⌠░░▐▌█▀┼┼┤├└┌│~}|zxvusqomkihgfca^[XWXVSQNLJGFDBA@?=;9754210/-,+*)(%$ 
+
+
+
+
+
+
+
+
+
+
+#&(,./02356789:<=?@ACDEFGIJLMNPTWUVX[]adfikmnprtuuvxz{}─┌┌┐└├┬┼▀▀▄▌▐▐░▓⌠∙∙√√√≈≥⌡ ⌡°·÷═║║╔╖╗╗╙╙╙╜╢╦╪╫╫╫╬╬╫©ацца╪╦╣╣╚⌡⌠■⌠░▌▄┴┤┤┤├┐│─{uolighifb``]ZZ[YWX[[YSRPPU`oz│├┬▀▐⌠≈²║╔╖╗╙╙╙╜╛╝╠ЁЁ╣╥╧╩╪©абббаацддццдффгхггххггхххггххйиххийккииийййкккйииииихкклллккйййййкккллллллммнмнонояяпппппппппноппонопооппярсстуууутттутссттттжжжжжжжввввжжжжжужвввжввжвььььызышщчщэээшэээээээээшэщщщщшээээээщээээээээъъъъъъъъААБААЮААЦББАААЮЮАААААББЦЦЦЦЦДДДДДДЕЕЕЕДДЕДЦЦДЕЕЕЕДДДЦЦДДДДДЕЕФФФФФФФФГГГГГГХГГГГФФГГГХХХХХГГГГХХИИХХХХГГХХХХХХХИИИИХГХИЙИИИИИХХХГХИИИИИИЙЙЙЙЙИИИЙЙЙЙЙЙЙЙИИИИХХХХЙИХХГХХХХГФФЕЕЕЕДЦЦЦБЦЦЦДДДДЦЦББЮЮБДДЦББББББААЮЮъъъччщщщэзыьььыьвтпмккллкхффггдбддцбббцццццббццццдеддцццдбю©юю╬╪╬©юю©юцеддддцббадцббббю╬╩╥╢╡╟╝╞╠╠╠╡╠╞╝╞╟╟╝╚╘╗╗╖╕╔╕╕╓╒╒╓╕╖╖╗╙╚╛╜╜╜╝╞╟╟╟╡╢Ё╟╝╛╚╙╗╕╔╒═÷÷═÷·÷═╒╔╘╞╤╧цефдю╬╬©юю©╬╬╬╫╫╨╨╧╧╧╧╨╨╨╨╦╦╨╪╩╦╦╨╨╦╥╥╦╦╤╥╥╣Ё╡╟╝╡╟╜╘╖╔÷ √▐▄█┤}tnmkigb[WVYZYVQOOQTY_bdgijhiijjkmonoptyz{─├┴├┐┤▀▀┼▌░∙ °·║╓╘╞╨гоямхцаю©╬╬©бю╧╠╛╙╘╗╖╖╕╓╒║║║═÷··²²⌡≥≤≈≈≈√■▓▒▓░▐▌█▄┼┴┴┤┘┐┌─}|{zxvtrpoljhgfeb`\YWXXUQOLKIGEDBA?><:9864210/.,++)'$#
+
+
+
+
+
+
+
+
+
+
+
+"%'+-./1245678:<=?@BCDEGHJJKLLMPTUVXZ]adfhjlnpqsutuwyz{}~──┌└├┬┴┼▀▄█▌▐░▒⌠■∙∙√√≈≥  °²÷═║║║ё╕╖╖╘╘╙╜╤╧╪╬╬╫╫╬╬©аццю╪╦╥╢╖≤⌠▓░▌▌▀┬├┘┘┐│┌│}vnjihhgfc`_][[ZYWWXXXRPOUcr|~┤▀▄▌⌠√ ÷╒╖╙╚╛╚╚╝╟╠Ё╢╢╢╥╨╫╬юаббббацеееефггххххииххххххххиййиийкккиййййкккмлкййййиккклллйййкккккккмммммннннопопяяпяяяяяяппопппппяяпппярстттууутттсттсттуууужжжжжжжввжвввжжжвььвввьвьыыыызззэщщщээщээээээээщэээщччщээщэээщщщщээшшщчъъъъъъЮЮАБББАЮЮАЦБАААААЮАААААББЦЦЦЦДДДДДЕЕЕЕЕЕЕЕДЦЦДДЕЕФФЕЕДДДДДДДЕЕЕФФФФФГГФФГГГГГХХГГГФФГГХХХХХХГГГГХХХХХХХХХХХХИИИИИИИИИХХХИЙИИИИИИИИХИИЙИИИЙЙЙЙЙЙИИИКККЙЙЙЙЙИИИИХХХХИИХХХХХИХГФФЕЕЕДДЦЦБББЦЦЦЦЦЦББАААЮАДДЦББББББААЮЮъъъчччщщэзьььььвурнккмннмйфеефедддцбббббццбаабццбцццббааббаю©©╬╪╪╬©©╬©бдддццббббдеддцца©╨╥Ё╠╞╜╝╟╟╟╞╝╜╜╝╝╞╛╘╗╗╗╖╔╔╔╕╓ё╒╓╔╖╗╘╙╙╚╛╜╝╝╞╞╞╟╡Ё╠╟╜╚╘╗╖╕╖╓║÷÷÷÷·÷÷÷║╖╝╡Ё©бдб©╬╬╬©ю©╬╬©©╬╩╩╨╧╧╧╨╨╪╪╨╧╧╩╨╧╧╩╨╦╥╦╧╦╣╤╥╣╣╣╢╡╢╠╜╘╘╗╔║·√▓▓█┘}vmiffe`ZXYXWTQONORY_``cghhhhijjlopppsy|┘┬┴├┘┴▄▀▀▐▒∙≥⌡°÷╒╗╜╦еорнхца©╬╬╫©аа╩╡╛╙╘╗╖╗╕╓╒╒║║═÷·²²°⌡≥≤≥≤≈√■▒▐░░▐▌▄▀┼┴┬├┘┐┌─}|zywutrpoljhfeca^ZWVWVSOMKJHGEDBA>=;:9764210/-,+*('$#
+
+
+
+
+
+
+
+
+
+
+
+!$'*,-/0245679:<>?@BCDEGHIIJKKKOSUVWZ]`ceghkmoqrttuwxy{|}─┌└├┬┴┼▀▄██▌░▒▓⌠■∙√√≈≥ °°²÷═║╒ёё╕╖╖╘╘╙╝╥╨╫╬╬╪╪╪╬©аццю╪╦╥╠║∙■⌠▐▐▄┼┤┘└└┌┌│┌wnjhhhfedb_^^\[ZYWVVWSTYcq|┐┘┼▌░▓≈ ²║ё╗╚╛╝╜╜╟╡Ё╢╣╣╣╦╪©юаббцдецдефгггггхииийкйхиииххийкйййккккййккккклллккккккллклллкиклллллллмммммннннппппяяпяяяяяяппяяяярррряяяртуутуууууттсттстууутужвввжжввжжвььвжввьььвьььыззззззшшэщщщщщщщэшшшээщэээщччщэщщщээщчъъчщэщчъъъчъъЮЮЮААББААААБАЮЮАААЮААААААБББЦЦЦДЦЦЦДЕЕЕЕЕЕДДДДДДЕЕФГГФЕЕЕФФЕЕЕЕЕФФФФФГГФФГХГГХХХХГГГГГХХХХХХХГГГГХХХХХХХХХХХХИИИИИИХИИИИИИЙИИИИИИИИХИЙЙЙИИЙЙЙЙЙЙЙЙИКККЙЙЙЙЙЙЙИИИИХХИИИИИХХХХГФФФФЕДДЦБББББЦЦЦЦЦБААЮБААЦДЦЦЦБББАААЮЮъъъъччщщшзыьыывжспмклмммлйхгффеееедцбаааббббааааабццбаааюббю╬╬╫╪╩╫©©╬©адццбааабцдфгедца©╪╦╣╡╟╝╜╞╝╜╚╚╚╛╜╝╜╛╙╘╗╖╖╖╔╔╔╓ёё╓╔╕╗╙╙╘╘╚╜╞╞╞╟╠╠╠╠╞╝╛╘╖╕╕╕╕╔╒════║÷÷·÷╓╙╝╝╦╪╬╬╪╪╩╨╪╬©©©юю╬╫╫╪╩╧╧╨╩©©╫╨╨╩╩╨╧╩╨╥╥╨╨╦╣╤╥╤╤╤╣╢╢╡╞╚╙╙╖╓╓· ≤▓█┤─tkefgd_[ZXUSPOOOQY^^]`dfgggiiijlpqquy{├┬┬├┬▄▄▄▌░▒∙≥⌡°÷╒╗╛╤цорнхцю╬╬╬╫╬юб╩Ё╜╙╘╗╗╖╕╓╒║║═÷÷·°°⌡⌡ ≥ ≈√√■▓░▐░▐█▄┼┴┬┬┘└┐┌│}{yxvusrpoljhfdb_]YWUUTQNMKJHFECB@>=;9864311/.,+*)('#"
+
+
+
+
+
+
+
+
+
+		 $&*,-.0145689;=>?@ACDEGHGHIKKLPUUUWY\`cefgjlnprsuvwyz{|}─┌└├┬┬┴▀▄██▌░▒⌠▓⌠∙√≈≤≥ °°²·÷║╒ёё╖╖╖╘╙╛╞╥╧╪╬╬╪╩╩╬©юцца╪╧╣╝²■√■▐▒▀┴┤├┘┘└┘│wnihhhfeec_^`]\[[XTTVW\gt|─┤▐▀░⌠≈°÷═╓╒╖╙╛╝╝╝╠╡╡╢╣╣╣╧╬©абццдфгеефгхххггийийккйиииихиийкййкклккккккллллкйййкллкллллмлкймммммммнмммммннннппппяяпяяяяяпппряяясттссррстуутуууууттттттууутстжвьвжжввжжвььвжвььыьььььыззззззшшшэщщщщчщэшзшшэщщээщччщщщщщщщчччччщээщччччъъЮААЮАБББАББАЮъъЮАЮЮААААААБББЦЦЦДЦЦЦДДЕЕЕЕДДДДДДДЕЕФГФФЕДЕЕЕЕЕЕФФФФФФГГГФФГХГГХХХХГГГГХХХХХГХХГГГГХХХХХХХИИИХХИИИИИЙХИИЙИИИИИИИИИИИИИИЙЙЙИЙЙЙЙККККЙЙЙЙЙЙККККЙЙЙЙИИИИИИИЙИХХГХГФФФФЕДЦЦББАББЦДДДЦЦБААБААЦДДЦЦБББААЮЮЮЮЮЮъъчщэшзыыыывуспмкккйиийййигедфедцббааабббаю©╬абццбааа©абю╬╫╪╩╩╫юю©©бдбаюююацццфхфдцаю╬╩╥╢╠╝╝╞╜╚╘╘╙╛╝╝╛╛╛╙╗╖╗╙╔╔╔╓ёё╓╓╕╗╙╙╗╗╚╜╜╜╝╞╟╟╞╝╛╛╚╗╔╓╔╖ё╒║÷·÷║╒÷÷÷÷ё╗╛╛╡╤╧╨╧╨╧╥╧╪╬©юаю╬©╬╫╪╨╨╩╪аа©╪╩╩╪╪╧╨╧╤╥╩╩╦╤╥╥╤╣╤╣Ё╢╢╡╞╛╚╘╖╕ё║²≈⌠█┘─tjijf`\[XTQPOOOPX^][_dfgfghihiknpsvyy}├┤┤├┼▌█▄▒▒▓∙≥°²═╓╗╛╣боснхцю╫╫╫╫╬©б╪╢╜╙╘╘╗╕╔ё║══÷·÷·°⌡   ≥≤∙■∙∙⌠▒▒▐▐█▀┼┴┬┬└└┐┌│|{xwutsrqoljhfda^\YWUTQONNLJHGECA?>=;9753210/-,*)((&#"
+
+
+
+
+
+
+
+
+#&),.01266679:;<>?@BDEEEHHIKLMNQTUWY\_bddgjlmpqpsvxyz}~─┌┐┘┤┬┬┬┼▀▄█▌▐░▒∙∙∙∙≈≤≥ °²²°·║ёё╓╔╖╘╚╙╚╡╦╩╫╫╪╪╩╩╫╪©аю╬╫╨╣╓≤√∙⌠▒▐▀┴├├├┘┐│~{rjghggfeda^\^`]YYXUT]kuz│┬█▐▐▓√ ·╒╔╖╔╖╚╟╡╟╞╟╡Ё╣╤╦╩╬юабцдееефеефгххгфххиийкллйииийййиийлккклмккллкккллкккммлйлккккккллллмммммммллноонппяяяяяпяряяясряопярссррсссстужвужжжууууужжуттужвььвжжвьввььввввььвььызшызшшээшшзззшэщщщщэшшшэщщщщщээщччщщчччъъъъъъччччччъЮАААЮЮАААААЮЮъАААЮъъЮАЮЮЮЮЮАББЦЦЦБЦЦДДЦЦЦДДДДЦДДДЕЕФФГФФФЕЕЕФФЕФФГГФФЕЕФГГФФФГФФГГГГГГГХИИХХХИГГХИХГХИИХХХХХГГХИИИИИИЙХИИИЙИИИККЙЙИИИИХХХИИИИХЙЙЙКККЙХЙЙИИЙЙККЙЙЙИИЙЙЙИИИИИИИХХХХГФЕДЦЦЦЦБББЦЦЦДДДДЦБААЦДДДЦДДААААББААчъЮЮъщщщзшшзывжурпнмннкхклкйиигефеддддццдцаааю╬╫аббюююю╬╫╬юю╪╩╫╪╫╫╪╪╫╫╬╬цбю©юаббдфххфцаа©╩╤Ё╠╟╜╛╗╕╔╗╚╛╛╜╛╜╝╜╙╗╗╘╔╔╔╔╓╓╔╕╗╙╚╙╘╙╚╙╝╜╝╞╟╟╞╜╙╘╗╗╖╕╕╕╔╓╓ё║÷═╓··²·║╕╘╘╜╢╧╨╨╦╤╥╥╦╨╫©ааю╬©©╫╩╨╩╫ацб╫╩╪╪╩╫╪╩╧╧╧╨╨╦╥╣╤╥╦╤╢╢╢╢╡╞╜╚╚╕╔ё║·≤▒▄▄│wogddc[TNOQONPRUWXZ_ceikjggjjhijovxy~┘┘┌┌┤▄█▐▒▓■√≈ ·║║╘╞╟╪лрпхдю╪╩╪╫╬юа╫╥╟╚╘╖╖╔ё╒ё╓╓║÷·²°⌡  ≥≥≈≈≈√∙⌠▓▒▒▐▄┼┴┴┬┬┤┘┌│─|zyxwvtqnlljgec`\YYWUSQONMKJHFDCA@><:875320/.-,+)('% 
+
+
+
+
+
+
+
+
+"%(+.01355678:;<=>@ACDEEFFHJKLNPTUWY[]`bdgjkmoppqtvwx{||─│┌└┘├┤┬┴┼▀▄▌▐░▒■■∙√≈≤≥ °²²²·║ёёё╔╕╘╚╙╛╡╦╩╬╫╪╪╪╩╬╬ацю╬╫╨╠╒≤√■▓▐▄▀┼┬┤┘┐┌│}~{siefgfec`_^][]][XTTZeqz~┘▄░▓■√≥°═ё╖╘╖╗╛╠Ё╡╠╠Ё╢╣╥╧╪╬юббцдефффгфффхиииииииййййкйййккккййккккллммнннмннллмммлллллллллллллллммммнмммнооояяярряяяяяяпяррпяярррссссссстуужжвввжууужжжжжжввжжввввьыьььььььввввььыззззшэээшшшшшэщччщэшшшшээщщщщщчччщччччъъъъъъъчччччъЮААБАЮЮААААЮЮЮЮЮЮЮъччъъъъъъЮЮЮЮББЦДДДДЦЦЦДДДДДДДДДДЕЕФФФФФЕЕЕФФФФФФФФФФЕФГГГФГГГГГХХГГГГХИИХХХИГГХИХГХИХХХХХХХХХИИИИИИЙИИИЙЙЙЙИККЙЙИИИИХХИИЙЙИИКЙИЙЙКЙЙЙИИИЙЙККЙЙЙИИЙЙЙИИИИИИХХХХХГФФЕДЦЦЦЦЦЦЦЦБЦЦДЦБААЮАЦЦЦБЦЦББББББАЮчъЮЮъщээзыыыьвуурпнмнмкйлмлкиигфгфффффедца©©©©╬╫аббю©ю©╬╫╪╬©╩╩╪╩╪╪╪╫╫╫╬╬аю©©юаббееффецаю©╩╤╡╟╝╚╗╔╓╔╗╙╛╝╠╝╞╝╜╙╗╗╘╓╓╔╔╔╕╖╗╗╙╚╙╙╚╚╙╝╝╝╞╟╟╞╝╚╙╙╘╘╗╗╖╓ё╓╔ё══╒·÷··║╔╗╘╚Ё╧╩╪╨╦╦╥╦╨╪©ааааю╬╫╪╪╫╬ацц©╫╫╬╫╫╪╩╨╧╧╨╨╥╥╤╤╤╤╤╤╣╣╣Ё╠╝╜╛╗╖╕╔ё·≈▒░┤~umjhd_UMLOQQQPSVWY]`ahkjhgijiklpuwx~┘└│┌┤▀▀▄▐▒■√≤⌡·║╒╗╝╟╩кряиц©╪╪╪╫╬©а╬╥╞╙╗╗╖╕╓ёёё╒═··²°⌡ ≥≥≥≈≈√∙■▓▒▒▒░█▄┼┼┴┬├└┌─}|zxwutrpmkljgec`\YXWTRPNMLJIGECB@?>=:875430/-,+*)(&% 
+
+
+
+
+
+
+
+
+!#'*-/1344578:;<=>?@BCDEFFGJKLNPTUWXZ\_`dgjklnpoqsvwy{}}─││┐└├┤┬┬┴┼▄▌░▒▓⌠■∙√≈≤≥≥⌡°²²÷║╒╒ё╔╕╗╙╙╛Ё╧╪╬╫╫╫╫╪©юцдю╬╫╨╚÷≈√■▒█┴┼┼┼┬┘┐││}}~}ujeegfda^]]]\]]\YTYeq{│└▀▒■√≥ °÷║╓╗╙╙╙╜╠╢╢Ё╡╣╣╤╦╩╬©юццдеффггхгеефхйкиииииййййиииййййкккклммллмннмммнлнонлллмллммммлллллммммнннннопппррррряяяяяяпярряссрррстттттсттуувььвжжужтууууужвввжввьььыыыыыыььжвььызззшшшэээшшээээщччщэээээээээщччччщщччччччччччъъъъъъЮЮАБББАЮБАЮЮЮЮЮЮЮъччччъччъъъъъъъАБЦЕЕЕДЦДДДЕЕЕЕДДДДДЕЕФФФФФЕЕЕЕЕФФФФФФФФФГХХГГГХГГХХХХХХХХИИХХХХХГХИХГХИГГХХХХИИХИИИИИИЙИИЙЙЙЙЙЙККЙЙИИИЙИИИЙЙЙЙЙКЙИИИЙККИИИИЙЙЙЙЙЙЙИИЙЙЙИИИИИИХХХХХХГФФЕЦЦЦЦЦЦЦДББЦЦЦБААЮАБЦЦБЦЦБББББАЮчъЮЮЮъщээзыььььжуяонммллккммкихгфхгфгххфеа©╫╪╫©©©аааю©©╬╫╫╩╫╫╩╩╪╨╪╪╪╫╫╫╫╫©©╬╬©юааецбцддбю╬╨╣╡╠╝╙╖╓ё╓╕╗╙╝╡╟╟╟╝╚╘╘╙╔╕╕╖╖╗╘╘╘╚╛╛╚╛╛╛╝╝╞╟╟╟╞╞╚╚╛╛╚╙╙╘ё╓╔╕╕╓╒║÷═÷÷║╔╗╗╙Ё╧╩╫╩╧╨╧╧╨╪╬юбббю╬╫╫╫╫╫юдеб©©©╬╫╪╩╨╨╨╨╨╥╦╥╤╣╣╣╤╤╤╤╢╡╟╞╝╘╗╗╗╗╓°√⌠█┘|tplebXNKNRRPORUVX[^_gijhgikklmqstv}┘┐┌┐┤┴┴▀█░⌠≈≤ ·║╓╗╝╞╨йяякб©╪╪╫╫╫╬а╬╦╞╙╗╗╖╕╕╓╒║÷··÷·°⌡ ≥≥ ≈√∙■▓▒░░░▌▄▀┼┴┤├└┐│}|zzxvtsqomkkigdb_\YWVSPOMLKIHFDCA@?>=;976430/-++*)(&$
+
+
+
+
+
+
+
+
+ #&),.02235689;<=>?@ABDEGGIKLLNPSTVWY[^`dgijlnoortvxz|~─│┌┐┘├┤┬┬┬┼▄▌▐▒▓▓⌠∙√≈≤≤≤⌡⌡²·÷║╒╒╓╔╕╗╙╙╛Ё╧╪╬╫╪╪╫╪╬юдею╬╪╦╕°∙■▓░█┴┼┴┴┬├└│}}~~xmgggfeb^\\]b`\[Z[dq{┐┤┴▐■√≤⌡°·═ё╔╗╘╛╛╜╠╢╤╢Ё╣╤╥╨╫юабддеффгггхгфефгийгххиййккиииииййймлклнннмллмммммммнннмллмллмннмлллллммнннооооопяярссрряяяяррярссртссссссттттттуужьыыьвжжжтууууужвыьввьььвыыыыыыььввьызшшзшшшээшшшщээщщччщщщччччщщэщщчччщщщщщщщщщщччъъъъЮЮААББББАЮАЮЮъъъЮЮАЮъчъЮЮъъъъЮъъччЮАЦЕЕЕДДДДЕЕЕЕЕЕЕДДЕЕЕФФГФФФФФЕЕГФФЕЕЕФФГГХХГГГХГГГХХХХХХИИИХХХХХГГХХГГИХХХХХХИИХИЙИИИИЙЙЙЙЙЙКККККЙЙЙЙЙЙИИЙЙЙКККККЙЙЙЙЙЙИИИИИЙЙЙЙЙЙИИИЙЙИИИИИИХХХХХГГФФФДДЦЦЦЦЦЦБЦЦДЦБАЮЮАБЦЦЦЦЦЦБЦЦЦБЮъЮЮЮЮъщэшывууввусммммллкййммкхгггхфффхгебю╬╩╩╪╬юаааю©©╬╫╪╬╩╪╫╪╪╫╨╩╩╪╫╫╫╫╫╬╬╬╬©©©©цаюаббаю╩╥Ё╡╡╠╜╘╖╔╓╔╕╖╙╜╟╟╠╟╝╛╚╚╗╗╗╗╗╗╘╘╙╛╜╝╜╜╜╜╝╝╞╞╞╞╝╝╚╚╛╛╛╚╙╘╔╔╕╖╗╖╓ё║║║═╒╔╖╗╚Ё╦╨╪╩╨╩╨╨╨╩╬юббаа©╬╬╬╬╬юдфб©©ю©╬╫╪╪╩╩╩╩╨╧╦╥╣╣╣╣╣╤╤╣Ё╠╟╟╛╚╙╚╚╖═≥∙▒▄┐|yrhc[QLNRQNPRUVWZ]`fghghkllknqrru}└┌┐┘┬┴┴┼█▌▓∙≈≤⌡║╔╘╝╞╧хоякб©╪╪╫╫╫╫а©╦╟╙╗╗╖╕╕╓╒÷··÷·²²⌡ ≥≥≥≈√∙⌠▒░░░▌█▀┼┴┬├┘┐┌│|{zzywurqomliheca^\ZWURPNLKJHGEDBA?>><:876430.,+*)((%$
+
+
+
+
+
+
+
+
+ "%)+-/0135679:<=>?@ABDEHHIKLLMPRSTVX[^`cfhikmnnqrtvxz|~~┌└├├┤├┤┬┴▀█▐░▒▒⌠∙√≈≈≈≤ ⌡°·÷═║╒╔╕╕╖╙╘╜╢╨╪╫╪╩╩╪╪╫©деа╬╨╣ё ■⌠▒▐▌▀┴┬┤┤┬├┌~||}}yqkigfc`^^`bgbZW]epz┌┬▀▄▓√≈≥⌡·║ё╔╖╘╙╜╜╝╠╢╤╣Ё╣╤╧╪юбддеефффггхххггггхххххиййккйййййкклмлклнннмнннооооннммлммлллммннммллмммннооооппппяррссряяяряссррссрсстттсссттттужжвыыыьвжввввввжжввыьввьььвььыыыьььььызшшшшшшшшшшшшщээщщччщчччччччщщщэээщщчччщщщщщщъъъъЮЮЮЮАББББААЮЮъъчччъЮАЮъъЮЮЮъЮЮЮЮЮЮъчААБЦЦДЕЕДДЕЕЕЕЕЕЕЕЕЕЕФГГГФФФГГФЕГГФФЕФФФГГХГГФГГХХГГГГГГХИИИХХХХИГГХХГГХИХХХХХИИИИЙЙИИЙЙЙЙЙЙККККККЙЙЙЙЙЙИИЙЙЙЙККККККЙЙИХИИИИЙЙЙЙКЙЙЙИИЙЙИИИИИИХХГГГГГФФЕЕЕДЦББББДДДДДБАЮААБЦЦЦЦБЦЦЦДДДЦБААЮЮъщшзвтррттройклллкйиилмкиххххгффгфцаю╬╩╩╫©аббаю©╬╫╪╪╬╩╪╫╪╫╫╨╩╩╪╫╫╫╫╫╬╬╬╬╫╫╫╫юююююююю╧╤Ё╡Ё╡╞╛╚╖ёё╓╔╕╖╛╝╞╟╞╝╜╛╙╘╘╗╗╗╗╘╙╛╜╝╝╜╜╝╝╝╞╝╝╜╛╛╙╙╚╚╚╙╘╘╗╖╕╕╖╗╖╔ёёё╒ё╕╗╗╝╢╦╦╨╨╨╪╩╩╨╩╬юббабцбю©©©бефб©юаа©©╬╫╫╪╫╫╫╩╧╥╥╥╣Ё╣╣╣╣Ё╡╠╠╟╞╝╞╝╙ё°≥≈⌠█┤└}rd^UNLNOOSSTUWY^aeeefilmljmpqqv}┌┌┐┘┤┬┬┼▄█░▓■■≤÷╔╙╞╞╦фмокб©╪╪╫╪╪╫ю©╧╟╙╘╗╕╕╔╓║÷·÷═²²²°⌡ ≤≈≈√∙⌠▒░░░▐█▄▀┴┬┤┘┐┌─~|zzzxwtrpomlgfdb`^[ZVTQOMLKJHFEDBA?>=;9865320.,+*)('$#
+
+
+
+
+
+
+
+
+!%(*,./024678:;<>@AABDEGGHJKKLOPRTVX[^`beghjmnnqqsvwy{}|~─┐┘┘┘┘┤┬┴▀█▌░░▒⌠∙√√√≈≤⌡ ⌡²÷═║ё╔╕╕╖╙╙╝╣╨╪╫╩╨╩╩╩╪©деа╬╦╟═≥■▓░▌▌▄┴┤├┬┴┤┌}z{{zwsnjhe`]]`dfd`XXcox┤▄▌░■≈≥⌡÷║╓╖╘╙╚╛╞╟╟╠Ё╤╤╢╣╦╩©ацеффффффгггииииххххиииииииийййййкллллллмннмпоопппооонллннмлммннннмммннннооопппппярррссряпяряссррссссстуутссууууужвьыыыьввввввввжжввьвввьыыыььыыььььыззшшэээшшшшэээшщщэщчччщччщщщщщщчщщээщччъъъъччччъъъЮЮЮААББББААЮЮъччччччъЮъччъъъъЮЮААЮЮЮъБАААБЦДЕДДДЕЕЕЕДЕЕЕЕФФГХГФФГХХГФГГГГФФФФГХХГГФГХЙИИХГФЕЕХХИИХХХХИХГХИХГХИИХХХХИИИЙКЙЙЙЙККЙЙЙЙККККККЙЙЙЙЙЙЙЙЙЙЙЙЙЙКЛККИИХИИЙЙЙЙЙИКЙЙЙИИИИХИИИИХХХГГГГГФФЕЕЕДЦЦБББЕЕЕЕДЦБААААБЦЦБАБААБЦЦББААЮъщшывусррсролххийкйигиклкййййиихгфдцаа©╫╪╬юббба©╬╫╪╪╫╬╩╪╪╩╪╪╨╩╩╪╫╫╫╬╬╬╬╬╫╪╩╩╪╬©ююю©╬╬╧╥╢Ё╡╠╝╛╜╗╓ё╓╔╔╔╗╙╛╝╞╞╝╜╙╘╗╖╗╘╙╙╙╚╛╝╝╛╛╛╜╝╝╜╛╚╙╙╙╙╙╙╙╙╘╘╘╗╕╔╕╖╗╖╔╕╔╓╓╕╗╘╞╤╦╦╧╧╨╫╫╪╩╪╬юааацедаююацеебюабаюю©©╬╬╬╬©╫╨╧╨╧╤╢╢╣╣╣╢Ё╡╡╡╠╟╟╞╙╓÷·⌡≤■░█┤}leZQLLORSSSTUX]addefikllknppqw}││┌┐└┘┤┴┼█▌░▓⌠√·╓╙╞╞╥дкнкдю╫╪╪╪╪╫©©╩╠╚╘╗╔╔╔ё║÷·÷║²²°°⌡≥≈√≈√∙⌠▓▒░▐▌▄▀┴┬┤├┘┐┌}|zzzwusqpnkjfeca^\ZYVTQNMKJJHFEDBA?=<:875432/.-+*)'&##
+
+
+
+
+
+
+
+
+
+ $'*,./0246679;;=@AABCEFFGIJKLOPQSUWZ]_adfhilnoqqsvwxz}|}─┌└┘┘┘┬┬┴▀▄▌▐▐▒⌠∙∙∙√≈≤⌡  ²·÷║ё╔╕╕╖╙╚╞╥╩╫╫╩╨╨╩╩╪©деа╫╣╚÷≥∙⌠▐▌█▀┴┬┬┴┼┤┌}{}{vtuqkgd`]^`bc][[cow}└┼▐▓■≤ ⌡÷╓╕╗╙╛╜╝╞╠╡Ё╡╢╤╥╤╤╧╬абцегффффффггиииихххиййййййййийййййклллммммнопоооппонооннннннннннннннннооооооппяяпярсрсссяярсртутстттттттутттжжжжжввььыььвжвьжввжжжвьвьььььызыыыыыыыьззззшшээээээээщщщщщщчъъчччщщщщщчччщчччччъъъъъъъъЮЮЮЮЮЮАААААААЮъъччччччччъъъчччъЮЮЮЮЮЮЮЮЮААЮЮАБЦДЦЦДДДДДДДДДЕФГГХГГФГИИХГХХХГГГФФХХХХГГГХЙЙИХГФФФГХИИХХХИИХГХИХГГИХХХХИИЙЙККККЙКЛКЙЙЙЙККККККЙЙЙЙЙКЙЙЙЙЙЙЙЙЙККЙИЙЙЙЙЙЙЙЙЙИККЙЙИИИИХИИИИХХХХХХХГФФЕЕЕДДЦЦЦЦДДЕЕЕДЦБАААБЦЦБАААЮЮАББААЮъщэыжтсряяполиедцдфгфегийийкйиииигедццбю╬╬юабацю╬╫╪╩╫©╬╪╫╫╩╪╪╨╪╪╪╪╫╬╬©╬╬╬╫╩╨╩╩╫╫╬юаю╫╨╨╧╤╢╡╠╞╝╝╚╖╕╔╔╔╕╖╘╙╛╝╞╞╞╝╛╙╘╘╙╚╛╙╚╜╞╞╛╚╛╛╛╜╛╚╙╙╙╚╚╚╚╙╙╙╙╚╚╗╕╕╗╘╘╖╗╖╕╔╖╘╘╟╤╧╦╧╧╨╫╫╫╪╫╬©ююцццбю©юаюббаюббюаюю©©╬╬╬╬╫╪╪╩╨╦╤╢╣╤╤╣╢╢╢╠╠╡╠╞╚╖ё╒² ≥√⌠▌├ypdYQMOSRRSTVX\acdfgghjlnppnpx~───│┌└├┬┼▄█▐▓■≈°╒╘╞╞╥дкнлеа╫╪╪╪╪╫╬ю╪╡╚╙╖╓╔╓ё║═÷══²²° ≥≤≈≈∙∙■⌠▓▒░▐█▀┴┤├┘┘└┐│~|{{zyutsqomjifec`]ZXWVTPNLKJIGFECB@><;:865432/.-,+)'&#"
+
+
+
+
+
+
+
+
+
+#&),./0256679::=@AABCDEEFIJKMPQRSUWZ\^adfgilnoqpruvwy|}~─┌└┘├┤┬┴┼▀▄█▌▐▒⌠■∙∙∙≈≤⌡  °·÷║╓╓╔╔╖╙╛╠╧╪╫╫╩╨╨╨╨╪©деб╫Ё╖·≥√■▐█▄┴┴┼▀▀┼├│~}|utvtmgda`a`^\XX_nz|┴▄▓∙≈ °·║╖╘╙╛╜╝╟╠╡╢╣╢╢╥╦╦╥╩юббцегффеееффгххххггхйиииййкккйкллккмнмнооннопяпппппонопппонпяооннннооооооооппппяяпярсрстсрясттжвуужжжуутттужжьввжжвввьььввжвьввььььызьыыыьвьыззззззыышшзззшшээээщщщчччщщчъъъъЮъчщщщчъщччъъъччъъъъъъъъЮЮЮЮЮАААААААЮъъъччччъчччъъЮъччъАЮЮъъъъЮЮЮЮЮЮЮАБЦЦЦЦДДДДЦЦЦДЕЕГГХГГФГИЙИГХХХХХГФФИИИХГГХИИХХХХХХИГХИИХХХИИХГХИХГГХХГХХИЙКЙККККККЛКЙЙЙЙККККККЙЙЙЙЙКККЙЙЙЙЙЙЙЙЙИИКЛЙЙЙКЙЙЙИККЙЙИИИИХХИИИХХХХХХХГГФФЕЕЕДДДЕЕЦЦДЕЕДЦЦЦББЦДЦБАДЦБББЦЦЦЮъчэшьуронннмйгдца©©бддцефггиййххиигдццдба©юабаюдю╬╫╪╩╫©©╬©©╪╪╫╪╪╪╪╪╫╬©©╬╬╫╪╩╨╩╪╬╫╫юба╪╦╩╨╦╣Ё╡╠╠╟╜╙╗╕╓╔╖╘╘╙╛╝╟╠╡Ё╠╜╚╚╛╜╜╚╛╝╟╟╜╛╜╙╚╛╛╚╙╙╚╜╛╛╚╚╚╚╚╛╛╚╖╖╘╚╚╗╘╘╖╕╗╘╙╟╤╧╧╨╨╨╫╬╫╫╫╬©ююдбю╬╬©©©╫©ю©юба╬аюю©©╬╬╬╫╬╬╬╪╩╧╧╣╤╤╤╤╣╣╣╡Ё╢Ё╠╝╚╘╔÷°° ≈▓▄└ymcYPNQRRSVWX\`beiifehlqsqmpx────│┐├┴┼▀▄▐⌠∙≈°║╗╝╝╥цколфб╬╪╪╩╪╫╫ю╪Ё╛╙╖ё╕╓ё║════÷²⌡≥≈≈≤≤∙■■⌠▓▒▐▌▌▄┼┬┤├├┘┐─}{{{yxutsrpmjhfec`\YVUUSPMKJIIGFECB@=<;:865432/.--+)'%""
+
+
+
+
+
+
+
+"&(*-//246679;;<>?@ACDCEGHHJLNPQSTWY\]`bddgknnqqrsuwy{y}─│┌└├├┬┴┼▀█▌░▒▐░▓⌠∙≈≈≤   ²÷÷═║ё╔╖╗╘╛Ё╦╪╫╪╨╨╩╩╨╩юфгц╪╟║ ≥√⌠░▌▀┬┬┤┤┤┤┘┌}yxxtnedb`ab^XW^jv}│┘┼▒⌠≈ ²÷╒ё╗╙╛╛╛╜╟Ё╢╢╢╢╣╤╧╨╪©аабефегеддегхххххййиийийклмлкйккйклммнмммннооппооппоояппппппяяооннноппооннопяяппяррсстярссрртжууттуууустужжжжжтввутуьььвжжжжвьььвввьызззззььызызззыьызшзшэщээщщщщщщщщщщщэщчъъъъччччъъЮЮъъччъъЮЮъчччъАБАЮЮЮЮЮААБАЮЮЮЮъччъЮъщщчъщчъЮъщчАъъЮЮЮАЮЮААЮъЮАБЦЦДЕЕЕЕДДДДЕФГХГФФФГГХХИИГГГХХХХХХХХХХХИИИИИИЙЙЙЙИИХХХХИИЙИЙЙЙИИИИИИХГГИККЙЙЙЙЙККККЙЙЙККЛККЛЛККККЛЛЛКККЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙКЙЙЙККЙИИИЙЙЙЙИХГГГГГГФФЕЕЕДДЕЕЕЦЦДЕФФДЦББЦЕДББЦЦДДЦЦЦБЮАЮщыжуспммлкигдбб©╫╬бца©ацддеххгхфедеецббаююаббб©╬©©юю╬╫╫╬©╬╫╪╪╫╫╬╫╩╪╬ю©юю╬╪╩╪╪╩©ю©╬©ю╫╦╨╧╦╣Ё╠╡Ё╟╝╚╘╗╖╕╔╖╗╙╙╚╛╞╠╡╡╠╟╝╜╛╛╚╛╜╝╝╝╛╚╚╙╘╙╚╛╚╙╙╚╚╚╚╚╚╚╙╛╛╙╖╕╘╛╘╚╘╖╗╙╘╙╠╣╧╨╩╪╩╨╫╪╩╪╩╩╪©ю©©©╬╪╫©╪©а©╬©ююаю©©юю╬╪╪╬©©╪╩╩╪╨╦╤╥╥╤╤╥ЁЁ╡╡╢Ё╞╙╖╓║÷²≤⌠▐▄├~raWSPTSVXWX\^^ahmmjggorolqz~───└┴▀┬▄▌▒▓▓■⌡╒╖╚╠╦юхмниб╫╫╫╩╪╬╫©╫╣╚╕╔╔╓ё╒║═══÷²²°⌡⌡ ≤≈∙■▓▒░░▐▌▌▄┴┬┤├└┐│}{zyxxutrpoljheec_[WUUTSPLKKKIHGFCA><;:9754210/-,+*)&$"
+
+
+
+
+
+
+
+
+
+!%'),.0245668::<=>?ABCCEGHHJLNPQRTVX[\_bdegjmnpqrtvxyy{~│││┐┘┘┤┬┴┼▄█▐░░░▒⌠∙√≤≤  ⌡²÷÷═╒ё╔╖╗╘╜Ё╦╪╫╪╧╧╨╩╨╩аффд╩╛· ≥≈■▒░█┼┬┤├├┘┐─~|yxxtofcaaa`][`gr|┌├┼▌▓∙≥°═ё╔╕╗╙╚╛╜╞╠Ё╢╣╣╢╣╥╨╪╫юббцееефеддефггиххййийкийклллкйкккклмнннннннооопоояяппяпппооооопооооопяппооопяяяяяррсссрсттссужжжууужжжжжвввввжувьжужввьввжжввььввввьыыыыыыььызызшззызшэшэщщээщщщщщщщчччщщччъъъъъъчччъъЮъъччъъЮъъчччъЮАААЮЮЮЮААБАЮЮЮъчщчъЮъчщчъччъЮъщчАъъЮЮАААЮААЮЮЮАБЦДДДЕДДЦЦЦЦДФГХГГГГГХХИИИХХХХХИИИГХИИХХИИИИИИЙЙЙЙИИИХХИИИЙЙЙИИИИИЙИИХГХИЙЙЙЙЙЙЙКККККЙКККЛКККЛКККЙККККККККЙЙЙЙЙЙЙЙКЙЙЙЙЙЙКЙЙЙЙЙЙЙИИЙЙЙЙЙИИГГГГГФФФФФЕЕДДЕЕЦЦДЕФФЕДЦЦДЕДББЦЦДДЦЦДБЮчщзжтсянмллкифдба©╫╬аба╬©юабцефффеддеедцааююаааюю©©ююю©╬╬©©©╬╫╫╫╫╬╫╩╪╬©©©©╬╪╩╪╫╫╬ю©╪╪╫╫╨╨╨╦╣╡╠╠╡╠╞╜╛╙╘╗╕╖╗╗╘╙╛╝╟╠╡╡╠╞╝╝╝╛╜╜╝╝╜╜╜╙╙╘╙╚╛╚╙╙╚╛╛╚╙╚╚╛╛╛╙╗╗╙╜╙╛╙╗╘╙╘╙╠╣╧╨╩╪╪╩╫╪╩╨╧╧╨╪ю©©©╬╪╪╫╫╬©╬╫©©©ю©╬©юю©╫╬©ю©╫╪╪╫╩╧╦╦╦╥╤╥╣╣╢ЁЁЁ╟╛╚╘╕ё═⌡√⌠░▀├~qf\TTSWYVVZ[]_djnmkklpmkrz||│───┐┤┴┴▄▌▒⌠▓■ ═╓╘╝╣╬фкмйц╬╫╪╩╩╫╫©╬╤╛╖╔╔╔╔ё╒═÷··²°⌡⌡ ≥≤≈∙■⌠▓▒░▐▌█▀┴┬┤┘┐─~}|{zxwtsqpnlihedb^ZWUTSROLJKJHGFECA><;:865320/.,+**(&#!	
+
+
+
+
+
+
+
+
+
+
+ $&)+-013556789;<>?@BCDEGHHIKMOPRSUWY[^adefikmopsuwxxw{}──│┐└┘┤┤┬┴▀█▌▐▒▒▓⌠■√≤≥  ⌡²÷÷═╒╓╔╖╗╘╜╢╧╫╫╩╧╦╨╩╩╪цефф╨╕ ≥≥≈■▓░▌▀┤├┘└┐┌│──|xwwuqicacb^]`ks{┌├▀▐▓∙≈⌡÷╒╔╖╗╘╙╚╜╞╟╠╡╣╣╤╣╣╥╩©юбццдеееееееффгфйххийййлйкккккккйкллллнонннннооопппрряппяяппоооопппооппяряяппяяяррррссссстууттужжжжууужжввьььвжжувьвжжжжььььььььвввььыыыыыыыыызшзшшшшшшэчщщччээщщщщщччччъччъЮЮъъъъъъъъччЮъъчъъъЮъъъъъЮЮЮАААЮЮАААААЮъъъчщъъЮЮччъЮъччъъчъЮъъЮЮААААААЮЮЮАББДДДДДЦББББЦЕГГГГГГГХХХХИХХХИИИЙЙГИЙИХГИЙИИИЙЙЙЙЙИИИИИИИИЙЙЙИХХИЙЙИХХХИИИЙЙЙЙЙЙКККККККККККККККККЙЙЙЙЙЙККККЙЙЙЙЙЙЙКЙЙЙЙЙЙКЙЙЙЙЙЙИИЙЙЙЙЙЙИИГГГГГГФФФФФЕЕЕДДДДДЕФФЕДДДДДДЦЦДБЦЦББЦБъэшьусрпнммлкхфдца©╬©абю╬╫╫╬абццееееееддцааааааю╬юю©©юю©©©©©╬╫╫╫╫╬╬╫╩╪╫©©©©╬╩╨╪╬©©юю╪╩╪╫╫╨╨╦╣╡╟╟╟╠╟╞╝╜╚╘╗╖╖╖╗╙╛╜╝╟╠╡╡╠╟╟╟╝╝╝╜╜╜╝╝╙╙╘╙╚╛╛╚╚╛╛╛╚╚╚╚╝╜╛╙╘╙╛╝╚╜╚╘╙╙╘╙╠╣╦╩╪╬╬╪╪╨╧╦╥╥╧╩ю©юю©╫╪╫╬╬╬╫╬юю©╬╫╫╬©ю©╬ююю©╬╬╫╫╪╨╨╨╨╦╥╤╤╤╣ЁЁЁ╠╞╛╚╘╕║²≤√▓▌▄┴┌wi\SRUXWX[\\\_floonlommu{|{~│┐┘┬┼█▐▓⌠⌠■≥·ё╖╜Ё╩дймкд©╫╪╩╨╩╪©╬╥╝╖╔╓╔╔ё╒═÷··²°⌡  ≥≈√■■⌠▓▓▒▐▌▀┼┴┬┤┘│~}}}|zwusrqpnligdc`]YWUTSROLJJIHFEDB@>=<9864310/-+*))(%# 	
+
+
+
+
+
+
+
+
+
+
+#&(+,/02345689:<=>@ACDEFGHIKLNPQSTVY[]adffgjmnprtvwwwy{~─│┐└├├┤┬┴▀█▌▐▒▒▓▓■√≈≥≥≥⌡²·÷═╒╓╔╖╗╙╝╢╧╫╪╩╧╧╨╩╩╫дефг╥║≤≤≤√⌠░▐▄┼┤├┘└└└└└│{xwwusmeaca\`ht{┌┘┴▌▓■≤ ²═ё╓╕╖╘╙╛╝╠╡╡╡╣╤╥╤╤╧╫абцдеддеефффгггггйххиииклккккккккйлммллнпооннноооопярряппяяяпппппяппппппяряяяярррссссссссттуутттуууууууужжжжвжжуужжввжжввьььыыьььввьыыыыызззззшшшшшшэээщщчщщччщщщччччччччъъъъЮЮъъъъЮЮЮъъчъъъъъъЮЮъЮЮЮЮЮЮЮАААААААААЮъчччщщъъЮъъчъъАъччъЮЮЮъЮЮАААААААЮЮААББЦЦЦДЦЦБББЦЦДФГГФФФГГГГХХХХИИИЙЙЙГИЙЙХГИЙЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙИХХИКЙИХХИЙЙИЙЙЙЙКККККККККККККККККККЙЙЙЙЙЙЙЙЙККЙЙЙЙЙЙККЙЙЙЙККЙЙЙЙЙЙЙИЙЙЙЙЙЙИИГГГГГГФФГФФФФФЕЕДДЕФГГФЕДДЦЦЦЦДДАББАББЮчшзвтряпоннмкхфддбаююббю©╬╪╫юбюацеееедцббааабба©╫ю©©©©©©©╬╬╬╫╫╪╪╪╫╫╪╩╩╪╫╬╬©╬╩╨╫юаюю©╪╩╫╫╫╩╧╥╢╡╟╞╞╟╟╟╟╞╜╚╙╗╖╕╖╘╚╛╛╞╟╠╠╠╟╟╟╝╝╝╝╜╝╝╝╚╙╘╙╚╛╛╛╛╜╜╜╛╛╛╛╝╜╛╚╚╛╜╜╛╜╛╙╛╚╘╚╞Ё╦╩╬©╬╪╧╦╥╥╥╥╧╪©юаба©╬╬ю©©юаба©╫╫╫╬©юю©аю©©©©╬╫╪╪╩╩╩╧╥╤╤╥╤╢╡╡╠╞╜╛╚╖╒² ≥∙▓▒▒▄└wjYUUWXZ]\[Z\ahmopmonpx}|{{{~┌└└┤▀▄▌▒⌠■∙≥²╔╘╝Ё╨бймке©╫╪╩╨╩╩╬╬╧╟╗╔╓╓ёё╒══÷·°⌡ ≥≥≤≈√■⌠▓▓▓▒▐▌▀┴┬┤├└┌─}}}||zwurrqpnlhfcb_\YWUUSQNLKJHGFEDB@><;9864310/,+))('%#
+
+
+
+
+
+
+
+
+
+"%'*,./1245679:<=>@ACDEFGHIKLNPRSSUXZ]`dffgjlnoprtuvwyz}│┌└┘┤┤┬┼▀█▌▐▒▒▒▓⌠∙≈≤≤≥ ²··═╒╓╔╖╗╙╞╣╨╪╪╩╩╨╨╨╨╬дегф╢²≈≈≤√⌠░▌▀┴┬├┘┘├├├┘│{xwwutpf`a_]dpz─├┬▀░■√ °÷║ё╔╕╖╚╛╜╟╡ЁЁЁ╤╥╥╦╦╩©цдеефеееефггххххгйххииийллкккккклкмннммнпооонооооопярряпопппппяяряпппппппяяярррсссссттттттттттсттуужуттужтуужжжуужжууужьыььыыыыььввьыззыыэшшшшшшшшшшээщщщщээччщщччччччъъъъъъъЮЮъъчъъЮЮЮъъъъъъъъЮЮЮЮАААААААААААЮЮЮАЮчччччщчъъъъчъъАъччъЮЮЮъЮЮААААААААААБББББЦЦЦЦЦЦЦЦЦДЕФЕЕФФГГГХХХХХХИИИЙЙХИЙЙХХИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИХХИКЙИХХЙЙЙИККККККККЙКККККККККККККЙЙККККЙЙЙЙЙЙЙЙЙЙККККЙЙЙЙККККККККЙЙИИЙЙИИИИХХХХХГГФГГГГГГГГЕЕЕФГГФЕЦЦБББДДДББББББЮчывтряпонннмкхеддцбаабаю©╬╪╫юю©©адддцббббаабццбю╬юю©©©©©©©©╬╬╫╫╪╪╪╩╨╧╧╨╪╫╬©╬╩╩╬ацю©╬╫╫╬╫╩╩╧╤╢╠╟╞╞╝╞╟╠╠╟╞╝╙╘╖╗╘╚╛╛╜╝╞╟╞╞╞╞╜╜╝╝╝╝╜╜╚╙╙╘╙╚╛╛╜╜╝╝╝╜╜╝╜╜╜╜╜╜╜╛╛╝╛╛╜╚╙╚╜╠╥╩╫╬╪╨╧╥╤╥╤╥╧╪╫©абаю©©ю©©адда©╫╫╫╬©©©©аю©©©©╬╫╪╪╪╩╩╨╦╤╣╥╥╤╢Ё╡╟╝╝╜╘╓═··≥≈√∙▒▌├|i_XWWYZWXY[^bhlomnmpx}||z{└┘┘┤┼┼▀▌▒⌠∙≥²╖╙╝╡╥юхмке©╫╪╩╩╩╨╫╬╨╠╘╔╓╓ёё╒═÷··°⌡ ≥≤≤√∙⌠⌠▓▒▒░▌█▄┼┤├┘┘┐┌~}|{zywusrqpnkhfcb_[YWVURPNMKJHHFECA?=;:9864310/,+))('$"
+
+
+
+
+
+
+
+
+
+"$'*+-.0245678:;=>@BCDDEFHIKLNPRSSTWZ]_bdefilmnoqsuvw{{|~─│┌┐┤┤┬┴▀█▌▐▒▒▒▓⌠∙√≈≈≤ °²²÷╒╓╔╕╖╙╞╣╨╪╩╩╩╩╨╧╨©дгхц╝⌡≈≈≈√⌠▐▌▄┼┴├└┘├├└┌~{ywvtspha__blx│├▀█▐⌠≈≥°·═ё╔╖╘╚╛╜╞╠Ё╢╢╣╥╥╦╧╩╫ацфефффеефффггггххйихииийкллкккллллноонннооооооопппяряяяпоооопппяяяяяпппппяяррссттттттттттттттттттжжвжуужвтужжввжжвуууужьшьыыыыыыьььыызыыыэшзззззышшшэщщщщэшэччччъччъъъъъъъъччъЮЮъъъъЮЮЮЮЮъъъъъЮЮЮААААААААААААЮЮЮъЮъчччччччъъъъъъъЮЮъчъААЮЮЮЮАААААЮАААБББББББЦЦЦДДДДЦДЕЕЕЕФФГГХХИИГХХХИИЙЙИЙЙЙИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИИЙИИИИЙЙЙИЙКККККККЙЙККККККККККККЙЙЛЛККЙЙЙЙЙЙЙЙЙЙЙККККЙЙКККККЛЛККККЙЙЙЙИИИИХХХХХХГГГГГГГГГГЕЕЕФГГФФБББАБДДЦЦДДЦЦБЮчзвтсяпооммлифдццбббааю©╬╬╫╫©©╬╬©юююююаббаббцдца©ааааююююююююю©╫╪╩╧╦╦╦╧╨╪©╬╫╩╪юбццаююаа╬╪╩╧╤Ё╠╟╟╟╝╟╠ЁЁ╡╡╡╜╛╙╘╙╚╛╜╝╝╞╝╜╜╜╜╛╛╛╜╜╜╜╛╛╚╙╘╘╙╙╚╛╜╝╝╝╝╞╞╝╝╝╞╞╝╜╛╜╝╜╜╞╛╚╜╛╞╢╦╩╪╩╦╧╦╥╥╥╤╦╨╩╬юаююю©©╬╬аццаю©©╬╬╬╬©©ююююю©╬╫╪╪╪╩╩╩╧╥╥╧╧╥╤╣╢╡╞╞╜╙╕ё║═° ≥√⌠⌠▒┼vi]XWYXUVXZ[^cilnnos{}|}}~│└┘┘├┬┬┬┼█░■≥²╖╙╜╟╢╫флкфю╫╪╩╩╨╨╪╬╨╠╘╔╔╔╓ё╒═·²°°⌡≥≤≤≈√∙■⌠▓▒░▐█▄▄┼┤┘┘└┐┌}|zyxvutsqomjhfda^ZXWVUQOMMLJHHFEC@><::975421/.,+)((&#!
+
+
+
+
+
+
+
+
+		!#&)+..02356689;=>@ACCDDFHJKLNPRSRTWZ]]_cdfhklmoqsuvw{z{~──│┐├├┤┴┼▄█▌░▒▒▓⌠■∙√≈≤ °²²÷╒╓╔╔╖╙╞╣╨╪╨╨╨╧╦╧╨ацхй╬╘ ≈∙√∙▓▐▌█▀┬┘┐┘┬┬└~|{ywurqojc`bkw─┤┼▐⌠■∙≥²÷═╒╓╔╗╚╜╝╞╠ЁЁ╢╣╤╦╦╦╨╫юббфефгфеегфгххххиййииййиийклллллллнноооннноооооппяярряяряпппппппяяяяяяяяяяссссттттттттууууууужжжуужввжуужвжжввььввьжужввьзыыыыыыыыыыыыыыыышзыыззззээээщччщэээччччъъъъъъъъъЮъччъЮЮАЮЮЮЮЮЮЮЮъъъъЮЮЮЮААЮЮЮЮААЮЮАЮЮЮъъЮъчщчъъъъъъъъъъъъЮЮъъААъЮЮЮАААААЮААБББББББББББЦЦДЦЦДЕФФЕЕЕФФГХИИГХХХИЙЙЙЙЙИИЙЙИИЙЙЙЙЙЙЙЙИЙЙЙЙЙЙИКЙИИЙЙИХХИИЙЙИЙЙЙЙЙККККЙЙЙККККККККККККЙЙКККЙЙЙЙЙЙЙЙЙЙЙЙЙКККЙЙКККККЛЛКЙКККЙЙЙЙЙЙЙИИИИИХХХХХХГГФФЕЕЕЕФФГФФЦЦБАБДЦАЦДДЦББЮщшвусрпопннмйфдцдцццба©╬╫╫╬©©©юю©©╫╪╪╬юаааабцдцбююаббааааююаааю╬╪╨╦╥╥╥╦╨╪╬╫╪╩╫юббдцббба©╬╪╧╣╡╟╟╠╠╝╟╡ЁЁЁЁЁ╞╞╜╛╚╚╜╝╟╞╞╜╛╚╛╛╚╚╚╚╚╛╛╜╜╛╙╘╗╗╘╙╚╛╜╝╞╞╟╟╟╟╠╠╟╞╞╝╝╞╝╞╟╝╛╝╛╝╠╢╥╧╧╥╧╦╦╦╦╥╦╨╪╬ююююю╬©╫╬юббббааю©╬╫╫╫юацба©╬╬╪╪╪╩╩╪╩╧╧╨╧╥╥╥╤╣╠╟╜╙╖╓║═·°⌡≤∙≈∙░│se]YXXUTWYZ\bgjlnpv}}|~}│┌┐┘├├┬┤┤┼▌⌠≥·╕╘╛╝╡╩еклга╫╩╩╨╧╨╪╫╨╠╗╓╔╔╓ё╒═·²°°⌡≥≤≤≈√√∙⌠▓░░▐█▄▀┴├┘└┐│─}|zywvttspnligeca]YWVUTPNLMLIHHEDB@><;:875320/.,*)('%" 
+
+
+
+
+
+		
+
+		 #%(*./02345589;<>?ABCCDFHJKLNPRRRSVY]\^adehklmoqsuwwyyz}─│┌└┘┘├┬┴▀██░░▒▓⌠■■∙≈≤⌡²²²═ё╓╓╔╖╙╞╤╨╫╨╦╦╦╥╦╩ббик╩╔≥√⌠■■▒▐▌█▄┤└┌┘┴┴┘|{zywtqonlgbfr├▀█▓√≈≈ ÷╒╒ё╓╔╖╙╛╞╠ЁЁЁ╢╣╥╧╦╦╩╬аббфефгфефхгхиихийлкййккйийкллмммммоооооонмооооопяяяссяяррпяяяяяяяяррррряяяттттттттттттуууужжжвввжжужвжттувжввььвввыввьыььыыыыыыыыызыыыыыыышзззшээшщээщчччщщэщчъччъъъъъъъъЮЮъччъЮАБААЮъъъЮЮъъъЮЮЮЮЮАЮЮЮЮЮЮЮЮЮЮЮЮъъчъчщщчъъъъъъъЮЮЮЮчЮАЮЮААъЮЮЮАААААЮААБББББББББББББЦЦЦДЕФФФЦЦДЕФГГХГХХИИЙЙЙКЙИИЙКЙХКЙЙЙЙЙЙЙИЙЙЙЙЙЙИКИХИККИГГИЙЙЙИЙЙИИЙЙЙЙЙЙЙЙКККККККККККЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙККККККККЙКЛЛКЙЙККККККЙЙЙИИИИИИХХХХХГФЕДДЕЕЕЕФГФФЦДЦББДБЮЦЦЦБААчшзжсряонооонкгддецддцбю©╬╬юю©юббю©╪╨╨╪╬╬╬аабцдцба©аббаюююююаббю╫╩╨╦╤╥╥╦╨╪╬╫╩╨╫абюцбба©╫╫╬╪╧╢╠╟╠╡╡╝╞╠╡╡╡╡Ё╠╟╞╜╛╛╜╞╠╠╞╜╚╚╚╛╚╙╘╘╘╚╛╝╜╛╚╘╗╗╗╘╙╚╜╝╝╞╟╠╡╡╡╡╟╟╟╠╞╞╞╟╡╞╜╞╜╝╞╟╢╥╦╥╥╤╥╦╦╦╧╩╫юааюаю©ю╬╫©аацебба©╬╫╪╪юбддбю©©╪╫╪╩╩╫╪╨╩╨╦╤╤╦╥╤Ё╡╞╚╗╔ё║÷··⌡≥ ≤▒┼}ncZWVSTVXY\bgiilov|{y{|~~~─└├┘┴┤┤┴▌⌠ ÷╔╗╚╜╠╨елмхб╫╩╩╧╦╨╩╫╨╠╗╓╔ёёё╒═÷·²°⌡≥≤≤≈√√√■▓░▐▌██▀┴├┘└┌}~}|{ywususpmkhfec`\YWUTTOMLLLIHHDCA?><;;864310.-,*('&$!
+
+
+
+
+
+
+"%(+-.0123578:<==>@BBCEGHIJKLNPQRSUWZ[]`begijloqstvwxy{|}┐┘├┘┘├┴▀██▒▒▓▓▓⌠∙√≈≤ °÷═══ё╓╔╕╙╟╥╩╪╧╦╨╨╦╧╪╬фйх╥ё⌡≈⌠▓⌠■░┼┴▀┬┘┌┐┴▀┤│~|wsommnjgo|┐├▀⌠√√≥°·÷╒ё╔╖╗╙╛╝╟╡╢╣╥╥╦╦╦╦╩©аабцефгффгггхггхийихккккллммллллмноонопоонннооппппяяррсряппяпппппяяяррррррррссссттууутттжввжвжжжввжжьутужжжвьввжжвьььввььыыззыьььыьвыыыыыыыыызшшшшэщщщщщччччччщччъъъщщччъъЮЮчччъЮЮЮъЮЮЮЮъъччЮъЮАЮччъЮЮъЮЮААЮЮЮЮъъъччЮчщччъчщчъъЮЮЮЮЮъъъЮАААЮАААААБББББАААБББББЦБББЦЦЦЦЦЕФФФЕДДДЕФГХХГХИИХХИЙИЙККЙЙЙКККККККККЙИИИИИИИЙЙЙИИЙЙЙИИХХХИЙЙЙЙЙЙККККИЙКЛКККЛККККЙЙЙКЙЙККККККЙЙККККЙЙЙЙККККККЛКККККККККККЙЙЙЙИИЙЙИХХГГГФФЕЕЕЕФЕЕДДЕФФЕДБААБЦЦЦЦББАъэзьвуроноояполифффдддца©©©╬ааю©©юю©╬╫╪╪╪╪╫©юбдфеб©ааабдда©ббаююю╬╩╦╥╤╤╦╩╪╫╬╬╪╩╪©аааюацб©╫╪╩╥╢Ё╡╡Ё╢╠╠╟╟╟╟╠╡╠╟╞╞╞╝╛╙╜╞╟╞╛╚╙╚╛╛╚╙╙╚╜╝╙╗╕╖╖╗╘╙╘╚╛╛╜╟╡Ё╣╣╣╢╢╡╠╠╞╞╟╠╠╟╞╞╝╜╜╞Ё╥╦╤╦╥╥╨╩╩╨╨╫юцбааба©©╬╬©ацдцбаю╬╬╫╫©©ацбю©а©╬╪╩╩╪╩╨╩╧╥╤╥╧╧╦╤╡╝╜╚╗╓╒╓╒═·²°≥≈⌠┼|nbYVVVWXY\afiehnv{{yw~─┐┐┐┤├┬┴▀░■≥═╖╘╙╛╡╦айлгю╪╩╩╨╧╪╪╬╪╢╙╓╓╓ё║═÷·²°° ≥≈≈≈√√■▓░░░▐█▄┼┬┘└┐┌│─~|zywvtsrpnlkifda`]ZXWUQOLJKJHGHFDB?><;9764320.-*)('&# 	
+
+
+
+
+
+
+
+!$'*,-/1124679;<=>@ABCEFGHJKLMPQQRUVZ[]_bdgiklnprtvwxyz{}─┐┘┘┘┘┤┴▀▄▄▐░▒▒▓⌠■√√≤≥°·═║║ё╓╔╕╙╠╥╩╩╦╥╧╧╦╧╪©гйф╤║≥√■▒░▓▒▄┴┴┤└┐├┬┤└┐~zuqnmmmkmw─├▀▐∙≈√≥²═ё╓╔╖╗╙╛╝╟╠╡╢╣╤╥╥╦╧╨╫абабдефгфефггхггхииииккккккклммммммннноооннннооппяяппяярряяяряяяяяяяяссрррссссттттууутттужввввжжжвввжьжужвввьввжжжвьььььььыыззыыьыыыьззззззззззшшшшэщччщчъъъчччччччъЮчъъъъъЮЮъъъъЮАЮъАЮЮЮЮъъъАЮАБАъъЮЮЮЮЮАААЮЮъъъъъччъъъъъъчччъъЮЮЮЮъъъъЮАБАААААААБББББАААББББЦЦЦББЦЦББЦДЕЕДДДДДЕФГХХГХХИХХИЙИЙККЙЙЙКККККККККЙЙИИИЙЙЙЙЙЙИИЙЙЙИИИХХИЙЙЙЙЙЙККККЙЙКЛКККЛККЛКЙЙККЙЙККККККЙЙЙКККККИЙКККЙККЛККККККККККККЙЙЙИЙЙЙИИХГГГГФФЕЕЕЕЕДДДЕФФФЕБААБББЦБББАъэзвжсяпоппяполигггееедбаююацца©©©©©©╬╪╩╩╩╩╪╬ацдцааааюаббаюббаю©©╫╩╦╥╣╣╥╧╨╩╫╫╪╩╪©ю©ююбца╬╪╪╩╦╣╢╢ЁЁ╢╡╠╠╠╟╠╡╡Ё╡╠╟╝╜╚╙╜╝╞╝╛╚╚╛╛╛╚╚╚╛╜╜╘╖╔╕╖╖╗╙╙╚╛╚╛╞╡╡╣╣╣╣╢Ё╠╠╟╟╠╡╡╡╠╠╠╝╛╝╢╦╦╤╦╥╦╨╩╩╨╩╫юббаааа©©©©юааббааю©©©©╬©юццаабю©╬╪╪╪╩╩╩╨╦╥╦╨╧╦╥Ё╞╜╛╗╔ё╔ё╒║║═²⌡≥▓┤zk^XWUVWY\`fiiimv{yxz{~~~─│┐├┤┴┴▄▒■≥═╕╗╗╚╠╦акмхб╫╪╩╩╧╨╩╫╪╣╙╔╓╓ё╒═÷·²⌡°⌡≥≤≈≈√√⌠▒░▐▐▌▄▀┬┤┘┐┌│─~|zywvtrrpmljhec`_]YWVTPNLJJIGFGEDA?><;:764320.,*)('%"	
+
+
+
+
+
+
+
+ #&)+,/0124678:;<=?AACDFGGIJKMOPQRTVY[]_adgiklnopsuwxxy{}─┌┐└└├┬┼▀▀▀▌▌▐░▒⌠■∙√≈≥⌡²═║╒ё╓╔╕╙╡╦╩╩╦╥╦╦╦╧╫ахидЁ÷≤■■▐█░▒▌┴├├┐└┤├│─┐~|xsollmnpw│├┼░▓≤ ≥°═╒╓╕╖╗╙╛╝╟╡╡Ё╣╤╤╥╦╧╩╫юбббцедгхгефгггххххиийлкккйкккмнннммноооппоооооппяяяппппяяяярряяяяррррссссстттттуууууутттужвввввжввьввьжжввввьвввввььыьььььыыызззыыызззззззшшшзшээшшэщъъччъъъъчъъъччъЮъъъъъъъъЮъъЮААЮЮААЮЮЮЮЮААААБАЮЮАААЮЮАБААъъъЮЮъъчъъЮЮъъъъъъъъъъъъЮЮЮААБААААААААББББББААББЦЦДЦЦБЦЦЦЦДДЕЕЕДДДЕФФГХХГХХХХХХИИИЙКЙЙККККККККККЙЙЙЙЙКККЙЙЙЙЙЙЙЙИИИИИИЙЙЙЙЙЙККККЙКЛЛЛКЛЛКЛЛККЙКЛЙЙККККККИЙЙКККККИИЙКЙЙККЛКККККККЛККККЙЙЙЙЙЙЙЙИХХХХГГФФЕЕДДДДДЕФФГФДБАААЮББААЮчэзвуяпппяяппнлйхххгггедбаацдда©╬╬╬©©©╫╩╨╨╨╨╫абббццбаюабббабцб©╫╫╪╩╩╨╦╥╦╨╩╪╬╬╫╪╫©©╬©©абю╫╪╪╨╥╢Ё╢Ё╡╡Ё╡╠╠╠╠╡╡ЁЁ╡╟╝╜╜╜╝╞╞╝╛╛╛╜╜╛╚╚╛╜╜╛╗╕╓╔╕╖╗╙╚╛╛╚╛╞╡Ё╣╣╣╣╢Ё╡╠╡╡ЁЁЁ╡╡╡Ё╞╚╜Ё╥╦╤╧╦╧╩╪╩╩╪╬юбаюааю©юаааю©©ббаююю©©╬╬©бдцццааю╬╫╪╪╫╫╪╨╦╦╨╨╦╦╢╟╝╜╙╖╔╕╔╓╓╓ё═·°≤▓┤we[YWWWY\`dhlimvyww|y|}─┐┤┤┴┼▄▒■≥═╕╖╖╘╟╥юкниб╬╪╩╨╧╦╨╪╪╣╚╔╓╔ё╒║÷·°⌡°⌡≥≤≤≈√√⌠▒░▐▌█▄┼┬┤┘┐│~|zywutrqomkjhec`^[XWURONLJIHGEEECA?><;:75421/-,))(&$"
+
+
+
+
+
+
+
+
+
+"&(*,.00245679;<=?@ABDEFGHIJLNOPRTUY[]_adgiklmoprtvxwxz}─┌┌┐└┘┤┴┼▀▀▌▌▐░▓⌠■■≈≤≥⌡²÷║╒ё╔╕╕╚Ё╧╨╩╦╤╥╥╥╧╪цииб╠÷≤■⌠▌▀▌░▌┴┘└┐└└┌┌─}yvspljmtz─┤┼▌⌠⌠≥°·║╒╒╓╖╗╘╚╜╞╠╡╢╣╥╥╥╦╧╨╫©бцббцедгхгеегггхииххйкккккккклкмннммояппяяпппяппярряпоопяяяярсяяррррррссссттууттуужуууууужввввввввьььвьвжвьввыьььььььыыыыыыыыызшшзыыышзззззззззшээшшэщъъчъъъъччъЮъчщчЮъъъъъъъъЮЮъЮААЮЮАЮЮЮЮЮАБАААААААААААААБААчъъЮЮЮъъчъААъъъъъъъъъъъъЮЮЮАБББАААААААБББББББАББЦДДДЦЦЦЦЦДДДЕЕЕДДЕФФФГХХХХХХХХХХХХИЙЙЙККККККККККККЙЙЙЙККЙЙЙЙЙЙЙЙЙИИИИИЙЙЙЙЙЙККККККЛЛЛЛЛЛКЛЛКЙЙККЙЙККККККЙЙЙКККККИЙЙКЙЙКЛЛЛККККККЛЛЛККККЙЙЙЙЙЙИХХХХГГФЕЕДДДДДЕЕФГГФДЦААЮЮБААЮъчэзвтяопяяяпонлйиииихгфецббацца╬╬╬╬╬©ю©╫╩╩╩╩╫©абцдеццбццдцббцц©╪╨╨╨╫╪╩╨╨╪╫╬©©©╬╬юю╬╬╬©юю╬╪╪╨╤ЁЁ╢Ё╡╠Ё╡╠╠╠╡╡╠╡╡╡╠╞╞╞╠╟╟╞╝╜╜╝╞╝╜╛╛╝╝╜╚╗╕╓╔╕╖╘╚╚╛╛╚╛╞╡╢╢╢╢╣╢Ё╡╠╢╢╢ЁЁ╡╡╠Ё╞╚╛╠╢╤╥╧╧╧╩╪╪╪╫юбцаааааааббаю╬╫бббаю©╬╬╬╬©адедцббаю╬╪╫╫╫╫╩╧╧╨╨╧╥╢╠╟╞╛╘╖╗╖╕╕╕╓║÷° ≈▒┐pb]YXXZ]_bekkotvvwzy──{|─└┬┤┴┼▄▒■≥═╖╖╕╗╞╣╬имиб╬╩╨╧╦╦╧╪╪╤╚╔ё╔╓╒║═·°⌡°⌡≥≤≈≈√∙⌠▓░▐▐▌▄┼┬┬┤└│─}|zxwusrpomkjheb_][YWUROMLJIHGEDDCA?><;976421/-+*)'&$!
+
+
+
+
+
+
+
+
+
+!%(),.00235568:;<>?@BCDEFGHJKMOPRTUXZ]_acfiikmoqrstwwwy}││┐└┘├┬┴▀▄▐▐░▒▓⌠⌠■≤≥ ⌡°·═║ё╔╕╕╚Ё╧╨╪╦╤╥╥╤╦╩дйхю╞÷≥∙▓▌▀▄▐█┴┘└┘└│─││──{vuuqmjo}├┬▀█░■√⌡·÷╒ёё╔╘╘╙╛╞╠ЁЁ╢╤╥╦╦╦╨╪╬ацццццдегхгефгхгхиихийлккккллммкмооннояппяппппяппярряпппяяяяяяряярррррртсссттууттууууутжжвввжжжввввьььвьввььввызыыыььыыыыыыыыыышшэшыьыззззшшшшшшшээшшэщъъччъъъччъъъчччъчъъъъъЮЮЮЮъЮЮАЮЮЮЮЮЮЮЮААААААААААААЮААААЮъъЮЮЮЮЮЮчъАЮъччъЮЮЮЮЮЮЮЮАЮЮАБББААААААБББАБЦББАББЦДДДЦЦЦЦБББЦЦЦЦЦДЕФГФГХИХХХХХХХХГХХИЙЙЙЙККККККККЛККЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИИЙЙЙЙЙКККККККЛЛЛЛКККККЙЙЙКККЙЙЙЙЙЙКККККЙЙЙЙЙККЙККЛЛЛККККККЛЛЛЛККККЙЙККЙИИХХХГФЕДДЦДДДДЕФФГФФЕЦБАААБАЮъчщшзьуяопяяпоонлйийййихфедцббцца©╬╬╬╬©юю©╬╬╬╪╪╫©бцддццдееедббцб╬╨╧╨╨╩╩╨╨╨╩╫╬©ю©©©юю╬╬╪╪╬ю©╫╪╩╦╤╤╤╣ЁЁЁ╡╠╠╡╡╠╠╡ЁЁ╡╟╟╠╡╠╠╟╞╝╝╞╟╞╝╜╜╞╞╜╚╘╖╔╕╖╗╙╛╙╛╛╛╜╟Ё╢ЁЁ╢╣╣╢Ё╡╢╢╢╢╢╢ЁЁ╠╝╛╜╞╠╢╥╧╧╨╪╫╪╫╬бцдббббацбббаю╬╬ааааю©╬╫©©©ацддцаббю╬╫╫╬╬╬╪╨╨╩╨╧╤Ё╠╡╠╝╙╗╘╗╖╖╖╕ё║÷²⌡≤▌~nd[YXZ]_`bgmqrsvwvz──{{┐┤┤┴┼▄▒■≥═╖╕╓╖╝╢╫хмиц╬╩╧╦╥╦╧╪╪╤╛╓ё╔ё╒║═·° ⌡ ≤≈≈√∙■⌠▒░▐▐█▀┴┬┬┤└│───|{yxvusrpnlkjgdb_]ZYWUQOMLKIHGEDCB@?=<:975421/-+*)'&#!	
+
+
+
+
+
+
+
+
+
+
+ $')+.001345579:<=>@ACDEFGHJKLNPRSTWZ]^`behgimoqrrswwxy|~─┐└┘├┤┴▀▄▐▐░▒▓⌠⌠⌠≈≥⌡°°²÷═╒╔╕╕╚╢╧╨╩╦╤╥╥╤╦╩ейг╬╝÷⌡≈▓▌▀▀█▄┴┘├┤┘──└┐yuuuronv├▐▐▌▒⌠√⌡···║╓╔╘╚╚╛╝╠Ё╢╣╣╤╦╦╥╦╩╫юбцццддцеггффгхгхиииийклкккллмннмноонннооопоооппяяяяяяяяяярряяярррррррррттттттууууууууууужвввжжжввжвьььььввььввыззыыыыыыыыыыззззшшшшзыззээээээээшшээээщщъчччъъъчъъъчъъъъччъъъЮЮЮАЮъъЮЮЮЮЮЮЮЮАААААААЮЮБАЮААЮЮААЮЮъъъЮЮЮЮЮъЮЮЮъъъъЮЮЮЮЮЮЮААЮЮАББАААААААББЦАБЦЦБАБЦЦЦДДДЦЦЦББЦЦЦЦДДЕФГГГГХИХХГХХИИХХХХИЙЙЙЙКККККККККККЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИЙЙЙЙККККККККЛЛККККККЙЙЙКККЙЙЙЙЙЙКККККЙЙИЙКККЙЙКЛЛЛККККККЛЛЛЛЛКККЙЙККЙИИХХГГФЕДЦБЦЦДДЕЕФФЕЕЕДЦББЦБАъчщэшзвуряяяяпоонмкййккихгфдцбцедб©©©╬©©юааааю╬╫╪╫юабабцдеедцббцб╫╨╧╨╨╨╩╩╩╪╪╫╬©ю©╬╬ю©╬╬╪╪╬ю©╫╪╪╧╥╤╤╢ЁЁЁ╡╠╡ЁЁ╡╠╢╢╢Ё╡╠╡╡╡╠╟╞╝╝╝╞╟╞╝╝╝╝╛╚╙╗╖╗╙╙╚╛╚╛╜╜╝╠╢╣Ё╢╣╤╤╤╣╢╢╢╣╤╥╤╤╣╟╝╜╝╝╞╡╤╦╦╨╪╫╫╬юдедцбццбццбаю©©╬©©юююю©╬©юююаццбаааю©╬╬╬╬╬╫╩╨╩╩╨╤Ё╡ЁЁ╟╜╚╘╗╗╗╘╘╖╔╒║·⌡√▀{na\YZ\^`bensqqvwuz─{z}│├├┬┴▄▒∙≥═╓╒╒╖╝╢╫хмид©╩╨╦╦╦╧╪╪╤╛╔ё╓ё╒║═·°⌡⌡ ≤≈√∙■⌠▒░▐▌▌▄┼┬┤├┘┐─{zxwvusrpnlkigca^[YXWTQOMMKIHGECCA@>=;9865320.,+*)'%" 
+	
+
+
+
+
+
+
+
+
+
+
+#&)+./00234568:<=>?ABDEFGHIJKMOQSSVX[]^`dggilnpqrsvwxz{|~┌┐┘├┤┬┼▀▌▌▐░▓⌠⌠▓√≤⌡°²²÷║╒╔╔╔╚╢╨╧╧╥╤╦╦╥╧╪фкф╪╛·⌡≈⌠▌┴┴▄▄┴┘┤┤┘┌┌┐│}|yvurpru─▄■∙∙∙≈°÷═÷÷ё╔╖╛╜╜╝╞╡╢╣╣╤╥╧╧╦╧╪©бцдцдфецефффгххгиихийклллллллмнннноооооооопооопяяяяяяярряррррррсррррссссттттттуужжуууужжтувввжжввжжвьььвьвьыьвьзыыыыыыыыьыызззззэшшшшшшшэээээщщщшэщщщщччъчччъъъъЮъчъЮАЮЮъъъъъЮЮЮААЮЮЮААЮЮЮАББААЮАБАЮАББЮАЮЮЮЮЮЮъЮъъчъъЮЮАЮъъъЮЮЮЮЮЮЮЮЮАААЮЮАББАЮБАААББЦЦАБЦЦБАБЦБЦДДДЦЦЦЦЦДДДДЕФЕФГГГГХИХХГХИИИИХХХИЙККЙКККККККККЙЙЙЙЙЙКИЙЙЙЙЙЙИЙЙЙЙЙИИИЙЙЙЙККККККККЛЛКЙККККЙЙККККЙЙЙЙЙЙКККККЙЙЙККККЙЙЙКЛЛЛККККЛМЛЛЛЛКККЙЙЙЙЙИХХХГФЕДЦББЦЦЦДДЕЕЕЕФФЕДЦЦЦБАъчщэзыжусряяяяппомлкллкйхгфедцбддбю©ю©аююабццбю©╬╫╬╬©юццддддцццца╫╨╨╩╩╪╫╬╬╬╬©©юю©╬╬юю╬╬╬╬©╬╪╩╪╪╨╦╥╣╡╡╢╣ЁЁЁ╣╣╢Ё╢╢╢╢╢╢Ё╡╢Ё╡╠╟╞╞╝╞╞╝╜╛╛╚╚╙╘╗╙╚╚╛╛╛╝╞╞╞╡ЁЁЁ╢╤╥╦╦╥╥╢╣╥╦╦╥╣╢╟╜╜╞╠╟╡╣╦╦╨╪╫╫©аефецбццббаааю©╬╬╬©юююю©╬╬©ю©юбцбаююююю©©©©╬╪╩╪╪╩╥╢╡╡Ё╡╟╞╙╘╗╘╙╙╘╖ёё÷⌡≥■┤zme][\\_bgntsrtww|~{{|└├┬┴█▓∙ ║╒║═╕╝╢╪глиц╬╩╧╦╦╦╧╩╪╤╜╕╔╓ё╒║═·°⌡⌡ ≤≈≈√■⌠░▐▌▌▌▄┼┬├┘┐│─~zywvutsromkjheb_[YWWVSPNLLKIHGFCBA?><:874321/.,*)(&$!	
+
+
+
+
+
+
+
+
+
+
+"%(*-//0124457:<==?@BDEFGHHIJLOQRSUW[\]_cfgikmoqstvwyzz{}─┐┘┤┬┴┴┼▄▄█▐▒▓▓▓∙≈⌡°²·÷║║╓╔╔╚╣╨╧╦╤╤╦╧╦╨╪фкф╩╚·⌡≈■▌┬┬▀█┴└┤┘└└└│~|{xvtpns{┤▌∙≥ ≈≥═÷║║╒╕╖╗╚╝╜╝╟╡╢╣╣╥╧╩╩╨╩╬ацддцегфцффеегиигйихиклмллллллмммммноппппппяпппяряяяпяярсяяррррстссссссссууутттуувжуууужвстжввжвввжжввььвььызыььзввььыыззььызззззэшзшэщщэшшээээээээщчччъъччччъЮЮъАъчъАБАЮААЮЮЮъъъБАЮЮААААЮАББББАЮББАЮАЦЦАЮЮъъЮЮъчЮъччччъЮБАъъЮААЮъъъъъЮАААЮЮААБАЮББББББЦЦАБДЦБАБЦАБДДДЦЦЦБЦЦДЦДЕФЕФХХГГХИХГГХИЙЙИИИИЙКЛКЙККККККККЙЙЙЙЙККЛИЙЙЙЙЙЙИЙЙЙЙЙИИИЙЙЙЙККККККЙКЛЛКЙКЛЛКЙЙКЛККЙЙЙЙЙЙЙЙККККЙЙКККЙИИЙКЛЛЛККККЛММЛЛЛЛККЙЙЙЙЙИХХХГГФДЦББББЦЦДДДДФФГФДЦЦЦБАъщэшзыуутсрярряппнмллмлйхгфедц©аба©юаабю©юцдцбааю╬╫╫©юддддддддцбю╪╨╨╩╩╪╫©ю©╬╬©ааю╬©ааю╬©юю╫╨╨╪╬╫╩╧╣Ё╢╤╤╣╢╣╤╥╤╢ЁЁЁ╢╣╤╣Ё╤╣╢Ё╡╠╟╞╞╝╝╛╚╚╚╚╙╘╘╚╛╛╛╛╜╞╟╟╟╡╡╡╢╣╥╦╧╨╧╧╣╤╦╦╥╣Ё╠╠╜╜╟Ё╡Ё╣╥╦╧╪╫╫©бффецбццбююааю©╬╫©юааю©╬╫╪©ю©©аббаю©юааю©©ю©╫╪╫╫╪╦╣╡╡Ё╡╡╠╛╙╘╘╘╘╗╖╓╔║°⌡⌡▒└ync]\\^binstsswz~─~}||~└├┬┼█⌠√⌡║ё║║╕╝Ё╩фкхц╬╨╦╥╥╦╦╨╩╥╝╖╕ёё╒║═÷°⌡⌡ ≥≤≈√■⌠▒░▐▌▌█▀┴├└┌││─~yxwvutsrnmkigda^ZWUVURONKLKHHGFCBA?><:763210/-+*('%# 	
+
+
+
+
+
+
+!%(*-./0246678:;<=?@ABCEFFGHJLOQSTUVY[]`cegiijlprrsvyzzz|─┐├┤├├┬┴█▄█▒■■■■▓≤²÷²°·═ё╔╔╗╝Ё╥╪╦╥╤╦╧╤╦©ггб╦╚═≥■▒█┴┤┼▄▀┬├└┐└┌~|}{vtsrrx┌▀⌠ °°°·═ёё╓╔╖╘╙╚╟╞╟╠Ё╢╣╣╦╨╩╨╩©бцдццфгфееффгггххиийкиийккллллммннмнпонмнппппппяяряяппппппяяяярсттяррстууутттттуужвввжтсужужжвввввьвжвььвжььььыыыыыыьььызшшзыззшшшэшзшшэшзэээщччщээщчччъъщщчъъЮъъъъъЮЮЮЮЮЮАЮъъЮЮЮъъъЮАББЦЦААБББББАББББЮЮЮАЮААЮЮъччЮъчъЮЮЮЮъЮААЮЮААЮЮЮАББЮъААААААААЦЦБББЦЦЦЦЦЦЦЦБББЦЦЦЦЦЦЦЦЦЦЦЦДДДДФГХХГГХИХХХИИИХХХИИИИИЙККЙИХХИЙКИИИИЙЙКККЙИИЙЙЙИЙЙИИИИИЙККЙЙЙЙЙЙМЛЛЛЛЛКЙКЛЛЛКЙКЛККККККККИЙКЛЛЛКЙМЛКККККЙЛКККЛЛЛККККЛЛКЙЙЙИИИИИХХИИХФЕДЦБДЦЦББЦЦДЕДДДФФЕДБЮчэшзывстттссряяяпнмннмлкйгффдбааба©©©ю╫©аббббцба©©╬╬╬╫ццццддддю©╬╫╫╫╪╩©©©╬╬╬юбюаю©аю╬╬╬╬©╬╪╩╩╩╬╫╨╥╢ЁЁ╢╣╢Ё╢╣╤╤╤ЁЁ╣╥╥╣╣╤╣╤╤╢╡╠╟╝╜╜╜╝╜╚╚╛╚╚╛╜╝╝╝╜╟╠╡╠╠╠Ё╢╤╤╤╥╧╨╨╧╤╥╦╧╦╤╢Ё╡╟╟╢╤╢╢╤╣╥╦╧╩╫юцгфедццббца©╬©ю©╫╬юаа©╬юа╫╫╫╬©юаббаююаааа©╬╫╫©©╬╪╩╦╢Ё╢╣Ё╠╜╚╙╙╛╛╚╘╘╕╒╒║²√▐─ynb]]`akoqqqtwx{~}|}─┌┘┤┼▌⌠≤°÷ё═·╓╝╢╪ейхею╩╦╦╧╦╦╨╪╥╞╗╕ёё╒║÷·°°°⌡≤≈√∙■⌠░▐▌▌▌█▄┼┤┘┐│─~}|ywvutqomlkigc_]ZXWVTPMMLKJIGFEDCB?=;9754310.,*()'$! 		
+
+
+
+
+
+ $')+-./1356789;<=??@ACDEFHHIKNQRTTVXZ\_befhijloqqsvxyyz|~┌┘├┘├┬▀█▄█▒⌠⌠⌠■∙≤⌡²²·÷═╒╓╓╗╞╢╥╩╧╥╤╦╧╤╦©хгб╥╙═≥■░█┴├┤┼┴├┘┐┌┐│}{|xvtttw┬▒√°÷║╒ё╒ё╓╔╖╘╚╛╜╞╞╟╡╢╤╥╥╧╩╪╪╫ацддцдфгееефггхххийиккййклллллммнннмнппоннояпппппяяррряяррррррррсстяррссттутттттуужвььжутжвжжжвввввввввьььвьыыыыыыыыыыыььызшзззшээшэшшшэээшэээщщчщщэччччъъччччъъъЮЮъъЮЮЮЮЮЮАЮЮЮЮЮЮъЮЮААББББББББББББАББАЮЮЮАЮЮЮЮЮъъчЮЮъъЮЮЮЮъЮЮЮЮЮЮАЮъЮАББАЮАААААААБЦББББЦЦЦЦЦЦЦЦБББЦЦЦЦЦЦЦДЦЦЦДДЕЕЕГХХХХХИИХХИИИИИИХХИИХИЙККЙИИИИЙКЙЙЙЙЙЙЙККЙИИЙЙЙЙЙЙИИИИЙЙКККККККЙЛКККЛЛКККЛЛКККККККККККККИЙКЛЛККЙЛКЙККЛЛКЛКККЛЛККККЛЛЛККЙИИИИИХХХХГФЕДЦЦЦЦЦББББЦЦЕДДЕФФЕДАЮщэзыьжууууттссяряоноомккйхггфдбббаю©юю©юааааббцбаююю©©юабцццббю©╬╬╬╫╪╪╬©©╬╬╬©аюа©╬юю╬©╬╬╬╫╪╩╨╨╩╩╧╥╣╢╢╣╢╢╢╢╣╤╤╣╡Ё╣╥╥╤╣╤╢╣╣╢Ё╢╡╠╜╛╜╜╜╛╛╛╛╜╝╞╟╞╞╝╞╟╡╡╡╡Ё╢╤╤╤╦╧╨╩╨╨╨╩╩╧╥╣ЁЁ╠╡╤╥╤╤╥╤╥╦╧╪©бегггфедццаю©©юю╬╪╫╬©©╫╫╬©╬╫╫╬©юабббаюаааю©╬╫╬©©╬╪╩╧╤╢╣╣Ё╡╞╜╚╙╚╚╚╙╘╖╓╒║²≤■┬┌wka]bhmoqpptwx{}~|{|─└├┴█▓≈°÷║÷·ё╜Ё╩дйхею╪╨╨╨╦╦╨╪╦╞╗╔ёё╒║÷·°°⌡≥≤≈√∙■⌠▒░▌▌▌█┼┬├└┌│─}|{ywutspolkjhfb_\YWVVSOMMLKJIGFDDBA?=;975421/.,*()&#!		
+
+
+
+
+
+
+ #%'*,-/1245679;<=>>@ACDEFHHIKMORSTUWX[^addgjklnpqsuwxxy|~│└┘┘├┴▄██▌░▓⌠⌠⌠≈≈≤ ²÷══╒╓╓╗╠╤╦╨╧╦╤╥╦╥╧ахга╤╘÷≤■▐▌┴┐└┤┤┐└┌││|z{utsqsz└▄∙≥²═╓╕╕╓╓╔╖╙╛╝╞╞╠╠╡Ё╤╥╦╦╨╩╪╫юцддддеффееффгхххииййклкклммлмммннномнппоооояяяппппяссррррсссссрррссрсссттууууттуужжвввжуужвжжввввввжвььььыыыыыыыыыыызззыыыышшззшээээээээщээээээщчщщщчъччъъчъъччъЮАБЮЮЮЮЮЮЮъАЮЮАААЮъААААААААББЦЦЦБББААБААЮЮАЮЮЮЮЮъъъАЮъъЮЮЮЮъЮЮЮЮЮЮАЮъЮЮАБББАААБББББЦББББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦДДДЦДДДЕЕЕФГХХХХХИИХИИИИИИИХХИИХХИЙЙЙЙЙЙЙЙЙККЙЙЙЙЙЙКЙИИИЙИИЙЙЙИИЙЙЙККККККККЙЙЙКЛЛЛКЛККККККЙККККККККЙЙКККККЙКЙЙЙКЛЛЛККЙКККККККЛЛЛККЙИИИИХХХХИХГФЕЕЕЕЦЦББББЦЦЕДДДФФЕДАЮчэзьвжжжжуутссяррпоонмллкиххгебббаю©ююююаюююабдцбаббаю╬©аббаю©╬╬╬╬╬╫╪╩╬╬©©©©©ю©ю╬╫©©╬©╫╫╫╫╩╨╨╧╨╨╧╦╤╣╣╤Ё╢╣╣╣╢╢╣╡Ё╣╦╦╤╣╤╢╣╢╢╣╤╣╡╝╜╛╜╜╛╛╜╝╞╟╠╡╠╟╞╝╟╡╢ЁЁЁ╢╤╤╥╧╨╩╪╩╪╪╪╩╧╥╢╡Ё╡Ё╤╦╥╥╦╥╥╥╧╪юдеггххгедц©©©юа©╫╩╫╫╫╫╪╪╪╪╬╬╬╬©юабцбаааааюю©╬©©©╬╫╪╨╦╤╣╣╢Ё╠╞╜╚╙╙╙╚╙╘╖╓║·⌡ ▒┼│ug^bkopppqtxzz{|{{}~┌┘┴█▓≈°══·²ё╛╡╨дйгдю╫╩╨╧╦╦╨╪╧╟╖╓╓ё╒║═·²°≥≤≈√√■⌠▓▓░▐▌█▄┴┤┘└┐┌│}|yxwusqpolkigeb^[XWVUROMLLKJHGEDCA@><:865420.-+*)(&#!		
+
+
+
+
+
+	
+"$&),-.1234568:<=>>@BCEFFHIIJLNQSUVWXY\`bcgjllnpqstvvvx{~─│┐└┘┤┴▄▄█▌░▒▓⌠⌠√√≤ ²═══╒╓╓╘╡╦╧╨╧╦╣╤╦╦╩бигю╣╘÷≥∙▌▌┴┌│┘├┐└┌─}{zzuurps}┴░≤⌡·╒╔╗╗╕╖╗╙╛╝╟╟╟ЁЁ╢╣╤╥╥╥╧╨╪╬ацдцдеффеефггхиииийкйллккмннммнннооомопппппояяяяяяяярряяяррсссссрррсттттуууууууууужжжжжжуужвжжввввььжвыыььыззыыыыыыыызшшзыызшззшэээшээээщщщщщэээщччщщъъчъЮъчъъъъЮААБЮЮААЮЮЮъЮААББАЮЮААААААААББЦЦЦБББААБАААААЮЮЮЮЮЮЮЮАЮЮЮЮЮЮъЮЮААЮЮЮААЮЮЮААББАБББББББББББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДДЦЦДДЕЕФФФГХХХГХХХХИИИИИИХИИИХХИЙЙЙЙЙЙЙЙЙКЙЙЙЙЙЙЙЙЙИИИИИИЙЙЙЙЙЙЙКККККККККЙЙЙКЛЛЛКЛКККЛЛКЙЙЙЙЙЙЙЙЙКЙЙЙЙЙККККЙЙКЛЛККККККККККККЛКККЙИИИИХХХГЙИГФЕЕЕЕДДЦЦЦЦЦЦДЦЦДЕЕДЦБАъщшывжжжутссррярряпонмннлйихфцбба©©╬©©юю©©©юацццббббба╬©юааю©╬╫╫╫╫╬╫╪╩╪╫╬©©©©©╬©╬╫©╬╪╫╩╩╪╩╩╨╧╧╩╩╨╧╦╤╤╤╡╢╣╣╢ЁЁЁ╡Ё╣╦╦╤╣╤╥╥╤╣╤╥╣╡╟╝╜╝╝╜╝╞╞╟╠╡╡╠╟╞╝╟╡╢╢Ё╢╣╥╥╦╨╩╪╪╩╩╩╨╧╥╣╡╠╡╠Ё╤╦╥╦╧╧╥╥╧╪юцдггггфедцю©©юю╫╩╨╪╩╩╩╪╫╫╪╫╫╬©©ююацбааббааю©©ю©╬╫╫╫╪╨╦╤╣╣╣╡╠╟╝╛╙╙╙╘╙╙╖ё÷·²≥▒┬qedjmnnoqtwywxzz|~~}│┘▀▐⌠≤²═·²·╓╜╡╨ейгб©╫╪╧╥╥╥╨╪╨╠╗╓╓╓ё║═·²°≤≤≈√√■⌠▒▒░▌██▀┬├┘└┐┐┌─~}yxwurpoolkigda][XWVTQNMLLKJHFDCB@?=;:865420.-+*)(&# 	
+
+
+
+
+
+	
+!$&),-/1223468:;<>?ABDEFGHIJJKMPRVVWWX[^`cfjlmnorsttuvx{}│┌└└┘├┴▀▄█▌▐░▓▓⌠■√≥⌡²÷══║ё╓╗╡╧╧╦╥╥╢╣╥╧╫диг©╢╗÷≥∙▌▌┴┌─└├┘└┌─~|zyyvvsqv┐▐∙⌡÷ё╕╗╙╚╚╙╚╜╝╟╟╟╟╢╢╢╤╥╦╦╥╨╩╫юбццдефгфефгггхиииййкйллккмнммнннооопнпяппяпояяяяяяррряяяяррсррррсссстттттууужжжууужжжжжжжжжвжвввввььвьыыььыызззыыыыыьышшшззшшззшэээшээщщщщщщщщэщчччччъЮъъЮЮъъъЮААААААААААЮЮЮЮАББББАЮЮЮААББББББЦЦБББАББББББААъъъЮЮЮЮЮЮЮЮЮЮЮЮЮААБАААААББАААААББББЦЦЦБББББЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДДДДДЦЦДДЕЕФФФГХХХХХХХХХХХИИИИИИИИИИЙЙЙЙККЙЙЙЙЙИИИЙЙЙККЙЙИИИИЙЙЙЙЙЙККЙЙККККККККККЛЛКЙЛКККЛЛКЙКККККККККККЙЙЙККЛКЙЙКККЙКККККЛЛЛККККККЙЙИИИИХХГГХХФЕЦЦЦЦДДДЦЦЦЦЦЦЦЦЦЦЦЦББАъщзьвввжусрряяяяяяпоммннмкйифццбю©╬╬©©©╬╬╫╬©бддццццццбаююю©©©©╫╫╫╬╬╬╫╪╪╪╫╬©ю©©╫©╬╫©╫╨╩╧╨╨╩╩╨╨╧╧╨╨╧╦╥╤╤╡╢╣╣╢╡╡╡╡Ё╣╦╦╤╣╤╧╦╥╤╥╦╥╢╡╟╝╝╞╝╞╟╞╟╠╡╡╟╞╝╞╠╡ЁЁЁ╣╤╦╦╧╨╩╪╩╨╧╧╦╥╣Ё╠╟╠╠Ё╤╦╦╧╨╨╧╦╨╫юццггффееддбю╬©╬╩╧╧╨╧╧╨╩╪╪╩╨╪╫©ююю©бааабцббаююю©╫╪╫╫╫╪╨╥╤╤╤╡╡╡╠╞╛╚╙╘╚╛╙╕╒═÷·√▐┬~qjijjkmprtvuwy{}~~|─└▀▒∙≤°·°°·╓╜╡╨екгц©╬╩╦╤╤╤╦╪╩╡╘╔╓╓ё║═·°°≤≤≈√√∙⌠▒░▐██▄▀┬├┘└┐┌│─~|yxwtrpooljifd`][XXWTQNMLKJIGEDBB@?=;:865420.-+*)(&" 	
+
+
+
+
+
+
+
+ #&)+-.01234579;<>?ACDEFFGIJJKLOQUUVWXZ]_cehkmmoqrsttvx{}│┌┐└┘├┬┴▀█▌▌▐▒⌠⌠■√≥°²·÷║═ёё╖╠╦╦╥╤╤╢╢╥╧╫дхе╬Ё╗÷≥∙▐█┬┐─┌├┬┘┐─}zyxxusrs}┼∙≥²╒╖╘╙╛╝╞╜╝╞╟╟╠╟╟╡Ё╢╤╦╧╨╧╩╪©бдцдееффеегххххииийккклмкклммннноооппояяпояяояяяяяррсрряяярстяррсстттссстттттввжжжжжжввввввььвввввььььыыыыьььзззззззыызшшшшшэшшшшэщэээщщщщщщччщщщчъъчъЮЮъъЮЮъъЮААБААЮААААААЮЮЮАБББАААЮЮАББЦЦЦББЦЦББААББААББААЮЮъъъЮЮЮЮЮААЮЮЮЮАБББАААБББББАААААББЦЦЦББББЦЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДДДДЕЦЦДДЕЕФФГХИИИХХИХХХХХХИИИИИИИИЙКЙЙЙККЙЙЙЙЙИИЙЙЙКЛЛЛКЙЙККЙЙЙЙЙКККККККККККЛКККЛККЙКККЛЛЛКЙККККККККККККККККЛКЙЙККЙЙККЛЛКЛЛМКККЙЙЙЙЙЙЙИИХХГГХХГЕДЦЦЦДЦЦЦЦБББЦБББББААЮъчэыьввьвусряяяпппяпнмммнмлкйхедцю©©©©©╫╫╫╫╫©беедддддццбаю╬╫╬╬©©╬╬╬©ю©©╪╪╫╬©©©╬╫╬╫╫╬╪╧╧╧╧╨╩╩╩╨╧╤╥╦╦╦╥╥╦Ё╢╢╢╢Ё╡╡ЁЁ╣╥╥╤╣╤╦╦╦╥╧╨╧╥╤Ё╟╟╟╟╟╠╟╠╠╠╠╟╞╞╟╠ЁЁ╡Ё╢╣╦╦╧╨╩╩╨╧╦╦╥╤╣Ё╡╠Ё╢╤╥╦╧╨╩╪╩╩╪╬ацдхгфеееееб©╬╫╪╧╦╧╦╦╥╦╧╨╧╧╦╨╪╬©юю©ааабцццбаююа©╪╩╫╬╫╪╨╦╥╤╤ЁЁЁЁ╠╞╜╚╚╛╜╛╘╕ё╒÷ ■▌┤~skkjjmprtuvxz{|~~}─└┼░∙≤ ⌡ ⌡²╓╛╠╧дкхда©╪╧╤╤╣╥╩╩Ё╙╔╓╓ё║÷·°⌡≥≤≈√∙■⌠▓░▌█▄▄┼┬├└┐┌─~|{yxvtrponljhfc`\ZWXWSPNMLJJHGECBB@>=;986531/.-+*)'%!		
+
+
+
+
+
+
+"%(*,-/0234579;<>>@BCDEEFHIJJKMORSUVXZ]_cdfjlmnprrsuvxz|─│┐└┘├┤┬┼▄▌▌▐▒⌠⌠∙≈≥ °·═║═╓╔╖╟╦╧╦╣╤╢╢╥╧╫цфд╫╡╗÷≥■░▄┤┐─└┴┘┐─|yxwwsrry┘▒≤ ÷╓╘╚╛╝╟╠╟╟╟╠╠╠╠╠ЁЁ╢╥╧╨╩╨╪╬аддцдгеффефхихххийийкклммлклммнннооопппрроояяояяяяярррсряяярстррстттттсстттуууьввжжжжжьььььььььььььыыыыыыыыыььзззззззззшшшшшшэээээщчщээщчччччъъчщччъъъъЮЮъъЮЮъЮАААААААЮАААААААЮАББАААБААББЦЦЦЦЦЦЦЦЦББАББААААЮЮЮЮЮъъъЮЮъЮААЮЮЮААБББАААААБЦЦБААААББЦЦЦББББЦЦЦЦЦЦЦЦЦЦЦДДДДДДДДЕЕЕЦДДЕЕФГГФГИИИХХИИХХХХИИИХИИИИИЙККЙЙЙЙЙЙККККЙЙЙЙККЛЛККЙКЛЙЙЙЙКККЛККККККККЛКККЛЛКЙККЛЛЛККККККККККККЛЛЛККККККЙЙКККЙЙКЛЛККЛМККККЙЙЙЙЙЙЙИХХХГХХХГФЕДДДДЦЦЦЦББЦЦЦББААЮъъчэыьвььвусряяяяопяпнннноомлкифецю©╬©©©╫╫╪╪╫©бдддддддцббю╬╫╪╪╪╫©╬╬╬©ююю╬╫╫╫╬╬╬╫╫╬╪╩╫╪╧╨╩╩╩╪╪╪╨╧╥╦╦╦╦╦╦╧╣╢╢╢╢╢╢ЁЁЁ╣╤╤╣╤╥╥╧╧╦╧╩╩╨╧╣╡╠╠╠╠╠╡╡╡╡╡╠╠╟╟╠Ё╢Ё╡ЁЁ╤╤╥╦╧╨╧╦╧╦╦╤╣Ё╡╠╣╤╦╧╧╧╧╨╩╪╫╬©ацдфффеедцца╬╫╫╪╦╥╧╦╦╥╥╥╥╥╤╥╦╨╩╫©юабаббцццббааб©╩╩╬╬╫╩╨╧╦╥╤╣╢ЁЁЁ╠╞╜╜╜╜╛╛╚╗╕÷÷ ▒▄┬~tnkjmpqstvwyy{│┌┐┘┼▐■≤≥≥≤ ²╓╛╠╧дйхда©╪╧╥╥╣╥╩╩Ё╙╔╓ё╒║÷²°⌡ ≤≈√∙■▓▓░▌█▄▀┴┤┘└┐│~}{zywtrqpomkjgeb_\YVXWSOMMLIIHFECBA?><:975410/-,+)'%# 	
+
+
+
+
+
+
+
+!$')+,-/234579;;=>?ABCCCEGIJJJLNPRTVXZ]_dcdhklnpqrsuvxz|~─┌└┘├┤┬┴▄▌█▌▒⌠⌠≈≈≈≥⌡·═║╒╕╖╘╠╧╨╨╤╥╣╢╥╦╪бец╪╡╖÷≤■░▀┤┐}┌┴┘┐{xwvvusu▄√ ⌡╒╕╙╛╝╠ЁЁ╠╠╠╠╠╡╡╡╢╣╤╥╧╨╨╨╪╬бдцбдгффедфийхххииийкклннлллммннноооппясроояяоррряяяррряяпярстсттууутттууужжжжьввжжжжжььььььввыыььыыззыьььызывззззззззшшэшззшшэээщчччщщчъъччъЮъчччъъЮъЮАЮъъЮЮъБААЮЮЮААЮАААААААЮАААЮАБЦАББЦЦЦЦЦЦЦДЦЦЦБББАЮЮААЮъЮЮЮъъъЮЮъЮААЮЮЮААБББАЮААЮАЦЦББББАББЦЦЦББББЦЦЦЦЦЦЦЦЦЦЦДДДДДДДЕЕЕЕДДДЕФГГГФГХХХХХХИИИХИИИЙГХХХХИЙКККЙЙЙЙККМЛЛККЙЙЙЙКККЙЙКЛЙЙЙЙККЛЛЛЛЛЛККККЛККЛЛЛЛКЙКММКЙЙКЛЛЛЛЛЛЛЛЛЛЛЛЛЛКККЙЙЙККККЙЙККККЛЛККККККККЙЙЙИИХХГФФГГФЕДЦДДДДДЦЦЦЦЦЦЦБАЮЮъъчэзыыыьвуряпппяооппннопяпнмкхедб©╬╬╬╬╬╫╫╫╪╫©ацццццццаюю©╫╩╨╨╨╨©╬╫╫╬©ююю©╫╫╬╫╫╪╬╬╩╧╩╩╨╪╪╪╪╫╫╪╩╧╨╨╨╨╧╦╦╧╤╣╢╢╣╣╣╢╢╢╣╤╤╣╤╥╦╨╨╧╧╩╩╩╩╥Ё╡╡╠╠╠ЁЁЁЁ╡╡╡╡╞╠╢╣╢╡╡╡╢╢╣╥╧╧╦╥╧╧╦╤╣Ё╡╠╤╦╧╧╦╦╦╦╨╩╫╬©юбдцддедцбаю╫╪╫╪╦╥╨╧╧╦╥╤╣╣╣╥╥╦╧╪╬абббббццбабабцю╩╩©╬╪╩╨╧╦╥╤╤╢Ё╡ЁЁ╠╞╟╝╛╛╝╝╛╙║╔║∙▐▌┬~okhjmnprtvwxz─┘┤├┤┼▌■≤≥≥≤ ·╔╜╠╨ехфда╬╩╧╥╦╤╥╨╨Ё╙╔╓ё╒║÷²⌡⌡ ≥≈∙■⌠▓▒░▐█▄▀┴├└┘┐│~}|{yvsqqpnlkigda^[YVWVRNMLKIHGFECBB?><:86430/.-,*(&$"		
+
+
+
+"$')*+.012467999<=?@@ACDEFGHIJLNQRSSV[^`_adgjmnnnquvwyz{|}│└├┘┘├┴▀█▐░▒▒▓⌠√≥⌡°°·═╒ё╔╘╠╦╩╨Ё╢╢╢╦╧╪бфц╪╠╔²≤∙▒▀├┐}─├┘┌|zwtsupz▀⌠≤÷╒╕╘╚╝╡ЁЁ╣╠╠╠╡Ё╢Ё╡╣╤╥╥╦╧╩╫╫ацбцеггфеегиихххиииххиймннмллмнонннноппяяяпппппяяярстсртряярсттссссттужтттттужьввввввввыьввввжуььыыьььыььыыззыыызззззшшшшшшшшээщщщщщщччщчъъччъъччъъъъъъЮЮЮЮЮЮъъъЮААААЮЮААББББААБААБББАъЦЦББЦДДЦДЦЦЦДДЦБББААЮЮЮЮЮъъчъъЮЮЮАБАЮъЮБААЮЮЮААБББББББББББЦБААЦДБЦЦЦЦЦЦБДЦББЦДДДЕЕЕЕЕЕЕДЕДДДДЕФГХХХХХХХХХХХХХХХХХИИИИИКЛККККЙЙЙЙЛКККЙЙЙИЙКККККЙИИЙККЙККЛККЛЛЛКККЛЛЛККККККММЛКЛЛЛЛККККККЛККККККККККККККККЛЛККЛЛММККККККЙЙЙИИХХХХХХХГЕДЕЕДДЕЕДЦЦДЕДДДДЦБАЮАъэзыыьььуряррряяпнммнояояяонлиедцю╬╬ю©╫©╬╫╫╬юбцдцбцедцааю©╪╨╧╨╩╫╫╬©©©©©©©╬╫╩╩╫©ю╬╩╧╩╬╫╧╨╩╪╫╪╩╨╨╪╩╨╨╧╨╨╩╨╦╤╢╢╢╣╣╣╣╣╤╥╥╦╦╧╧╧╧╨╩╪╫╩╧╤Ё╠╠Ё╢╢╢ЁЁЁ╡╠╟Ё╡Ё╣╢╟╟Ё╣╤╤╣╣╥╦╦╧╧╦╤Ё╡╣╦╦╦╧╧╥╣╤╧╩╫╬╬©аццддддедцб©╬╫╪╨╧╧╩╪╨╥╤╥╥╥╤╣╤╤╥╨╬ю©юаббббццюбцю╫╪╫╪╬╬╫╪╪╨╧╦╢╢╢╢╢Ё╡╟╡╟╜╜╝╞╜╚╗╖╓·≤⌠▌▀zmhjjmqpqsvz~┐┘├┤├┴░√≈∙⌠≤°═╔╚╟╦дгдаю©╫╧╤Ё╤╧╩╧╡╙╓ёё║÷·²°≥≈≈∙■▓▒▒░░▐█▄┼┬├└└┌──{wwvtsqomlhgfc`\YWXWTRPNLKHGFEDB@?>=;9777730,++*(%#!
+		
+
+
+
+
+
+!#&(*,.01235789:;<>?@ABCDEFHIJLNPRSTV[^_abdgjlmmoruvwy{{~~─┐└└┘┬┴▀█▌▐░▒▓■√≥⌡⌡²·═║╒╓╘╠╦╩╨╣╣╢╣╦╨╫бдб╪╡╖·≤∙▌┼┤└─|~┐┐┌─}zwutrr~█■ ╒╔╙╛╜╞Ё╢╢╤╢Ё╡╡ЁЁЁЁ╢╤╥╦╧╨╩╪╬бдццегггефхиииииийииийкмммммммнооооооооррряяяяпррррсссрсрррстсссссстуужжжжууужвжжжжввввжжвызывжвьыыыыызыыыззззззззшшшшшэээээщщщщээщщччъщчъъччъЮъъъъъъЮЮЮЮЮЮАААБЮЮАААААЮАААББАААБААББББАЦБББЦДЦЦЦББЦЦЦББББАЮЮЮЮЮЮЮъъъЮЮАЮАБАЮЮЮБААААААБББББББББББЦЦБАБЦДБЦЦЦЦЦЦБДЦББЦДДДЕЕЕЕЕЕЕЕДДЕЕЕФФФХХХХХХХХИИХХХХИИИИЙЙИИЙКЙЙЙЙККККККККЙЙЙЙКККККЙЙЙЙККККККЛККЛЛЛКККЛЛЛЛКККККММЛККЛКККККККККККККККККККККККККЛЛКККЛЛМКККЛКККЙЙИИИИХХХГХХФЕФЕДЕЕЕЕДЦДЕДДДДЦБААЮчэзыььвжтяпяяяярпомнопяноонммйхдца©©юю╬©©╬╬©юбццббцддбааю©╪╨╧╧╧╩╪╬©юю©╬©╬╫╪╩╩╪╬╬╫╪╩╪╬╫╨╫╫╫╪╩╩╪╫╪╪╩╩╨╩╩╪╪╨╦╤╤╤╤╤╣╤╥╥╦╦╦╦╧╧╧╧╧╩╪╪╪╨╦╤╣╢╢╢ЁЁ╡╡╡╡╡╠╣ЁЁ╢Ё╠╠Ё╢╣╣╣╤╦╨╧╩╨╦╤╢╣╥╨╧╧╨╨╧╥╦╧╪╬©©©аццдддефедца©╫╫╫╩╩╩╩╧╥╥╥╥╤╢Ё╣╤╤╥╨╫╬©юааааббюббю╬╬╬╫╬╫╪╩╩╨╦╥╣╣╣╣╢Ё╠╟╠╟╞╝╝╝╝╝╚╚╗ё·≥⌠▌┌sjklknqqruz┌┐└┘└┤█⌠∙■■≈⌡÷╓╙╞╦дгдбю©╫╧╤╢╣╦╨╧Ё╚╔ёё╒═··° ≤≈√■⌠▓▒▒░▐█▄┼┬├└┐│~{xwusrpomlihfc`\YWWVSQOMLJHGFEDB@?>=;9866630-++*'%#!	
+
+
+		
+!$')+.01234689::;=>?@ABCDFGIJLNORTUWZ^_bcdfhjllnqttvxz{│┌└├┬┼▀▄▌▌░▒▓∙√≥ ⌡²÷══║ё╗╠╦╩╨╤╤╢╣╧╩╫ацб╪╡╗÷≥∙▌▀┤┐~{}│┌┐│}yxvtqw┘░∙⌡ё╖╝╟╟╠╢╣╣╦╥╣╢╡ЁЁ╢╢╣╥╧╨╩╪╫╫юцееефгггфгийиийййййиййкллмннннонооппонняярррряяррррссррярстттсртттттуужввжжууужтуужвввьжвьыззьввьыыыззшыыззшшшшшшшшшшшшшшшшэээщээщщчъъЮччъъъъЮЮъъъчъъЮАЮЮЮЮЮАББЮААББАААААААААААБАААБЦЦЦБББЦДДЦБББББЦЦЦБЦБАЮъъЮЮЮЮЮЮЮЮААЮАААЮЮЮАБААААБББББББББЦЦБЦЦБББЦДЦЦЦЦЦЦЦЦЦЦББЦДДДДЕЕЕЕЕЕЕЦДЕФФФФЕГГГХХХХХИИИИИИИИИЙЙЙЙИИЙЙЙЙЙККККЙЙЙЙКККККККЙЙЙККККЛККККЛКККЛЛЛККЛЛЛЛЛЛЛЛКЛМКККЛККККККККККККККККККККККЛЛЛКККККЛЛЛККККККККИЙЙЙИХХГГХХХГГЕДЕЕЕЕДДЕЕДДДЦББААъщшзыьввжтряяряяряонопппоонлллкхдца©юаю©©©©©юабццбббццбааа©╫╩╨╧╧╨╩╫©ю©╬╬╬╫╪╩╩╪╫╫╩╪╪╪╫╬╫╪╬╬╬╫╪╪╫╬╫╫╪╪╪╪╪╫╩╧╥╤╤╤╤╤╤╥╦╧╧╧╦╦╦╦╦╧╧╨╩╪╩╩╨╧╦╤╢╡ЁЁ╡╡Ё╢╢╢╥╢Ё╢Ё╠╡╣╢╣╤╣╤╧╨╨╪╩╦╤╤╦╨╩╪╩╩╩╩╨╨╩╫©юююбцццдефгфедцю╫╬©╬╫╪╨╧╦╦╦╥╣Ё╡╢╣╢╢╤╨╫╪╬©юаааабббю©ю©╬╬╫╪╪╩╨╧╦╥╤╤╣╣╢╡╟╟╟╟╞╜╝╞╟╝╜╛╗╔═≤▓▀|nlmjkrsrtz││┌┐┐├▄░▓▓▓∙≥·ё╙╞╦дфебю╬╩╦╤╢╣╥╧╧╢╛╔╓╓╒═÷·° ≤≈√∙⌠▓▒▒░▐█▀┼┬├┘┌─~}|{zvtrponmlhgea^[XWVURPNMKJHGFECB@?>=;9865430-,+*'%" 
+
+
+		
+ $&(+-/1123579::;=>?@ABCDFGHJLMNQTUWZ]^bcdegjklmprstvyz~─┌┐├┬┼▀▄█▌▐▒▓∙√≤ ⌡²÷║═║╓╘╠╦╨╧╥╤╢╣╨╩╪юцб╪╠╖÷≥■░▄┤│|y|││┐│}zywsr~█■≈°╓╗╞╡╡Ё╤╤╤╦╦╥╢ЁЁ╢╣╤╥╧╨╪╫╬©юбцефффггхггийиийййййййккклмноооонооппоооппярряяпррррссссррстттсрттууууужуужууужвуужжввььыььььььыььыыыызшззззшшшшэшшшшэшшшшшшээээщщщччъъЮчъъъЮЮЮАЮъъчъЮААБАЮъъЮЮААААБББААААААААААББАААБЦЦБЦЦДДДЦБЦББЦДДЦЦЦБАЮъъЮЮЮЮЮЮЮЮААЮАААЮЮААББББББББААБББЦЦЦЦЦЦББЦЦДЦЦЦЦЦЦЦЦББББЦЦДДДЕЕЕЕЕЕЕДДЕФФФФФГГХХХХХХИИИИИИИИХИИЙЙЙИИЙЙЙЙККККЙЙЙЙККККЛККЙЙЙККККЛККЙКККККЛЛЛЛЛММЛЛЛЛЛЛКЛЛКККККККККККККККККККККККККЛЛЛЛККККККККККККККЙЙИЙЙЙЙИГФГХХГГФФЕФФЕЕЕЕЕЕДДЦЦБААЮчщшзыььвжусрсссрряоооппоопомллйгдцаююююю©©©юаббццбббццббааю╬╫╪╩╩╨╩╪╬╬╬╬╫╬╫╪╪╫╬╬╫╩╪╫╫╫╫╫╫╪╫©©╬╪╪╩╬╬╫╫╫╫╫╫╨╧╦╥╥╥╤╤╥╦╧╨╨╨╧╦╥╥╦╦╧╩╩╪╩╩╩╩╧╥╢╡╢╢ЁЁ╣╤╤╥╥╣ЁЁЁЁ╢╥╤╥╥╤╥╧╨╧╪╩╦╤╥╨╪╪╫╪╩╫╫╪╩╪©юаааццццдефффдццю╬©ю©╬╫╪╩╨╧╧╥╤╢╢╣╣╢╢╤╧╪╩╪╬©ююююцбаююю©╬©╬╫╫╪╪╨╧╦╥╥╥╤╣Ё╡╡╠╟╞╝╝╟╠╞╞╝╛╙╔°■▒├skljkstqsz─┐└┬▄▐▐▐▐⌠≤²ё╘╞╦дедбю╫╨╥╤╣╢╣╦╧╣╛╔╓╓╒═÷·°≥≤≈√∙⌠▓▓▒░▐█▀┼┬├┘││─~|{zzutqonmllhfc`\YWVUTQONLKJHGFDCB@?=<;975321/,+*)'%" 
+
+
+
+
+
+ #&(),.00124689;<=>?@ABCEFGHIKLNQTVWY\]aacegiklmprrsvyz|~─│┌└├┤┼▀▄█▌▐▒▓∙√≤≥⌡²÷║╒ё╔╘╠╥╧╦╤╤Ё╣╧╩╪©цб╩╞╔÷≥■░▄┤│|z|│┌─}{zvrv└▓≈ ÷╔╙╝╠╡╢╥╥╤╥╦╥╣ЁЁ╣╤╦╧╨╩╩╪╬юбцдеффффгхгхиииикййййййккклмопппооннноппяппяррряяярррссттссстссттууууужжжужжжуужжжжввььввьььввьыыьызыыыыззззззшшшэшзшшэшзээщщщщччщччччъъъъъъъЮЮААЮЮъъъЮААБАЮЮъЮАААААБББББААААААААЦББАААББЦЦДЕДДЦЦЦББЦДДЦЦББАЮъЮЮЮЮЮЮЮЮЮЮЮЮААААААББББББЦЦЦББББЦЦЦЦЦЦЦЦЦЦДДДДЦЦЦЦДДЦЦЦЦЦДДДДДЕЕЕЕЕЕЕЕЕЕЕФГГХХХХХХХХИИИИИИИИГГХИЙЙЙЙЙЙЙЙККККККККЙЙЙЙЛККЙЙККЛЙКККЙЙКККККЛЛЛЛЛМММЛЛЛЛЛКЛЛККЛЛЙККККККККККККККККККККЛЛЛЛКККККККККККЙЙЙЙЙЙЙЙЙЙИГГХХГФФФФФФФЕЕЕЕЕЕДДДЦБАЮЮчщшзыыьвжутсссссрпооппооопонмлигдбаююююю©©ююааббцбббцццбюю©╬╫╫╪╪╩╩╩╪╪╫╫╫╫╫╪╫╬©╬╫╫╫╫╪╪╩╪╫╪╫©©╬╫╪╪╬╬╬╬╬╫╫╫╩╨╨╧╧╧╦╥╦╧╨╩╩╨╧╧╤╤╥╧╨╩╪╪╫╪╩╩╨╧╥╣╣╢╢╣╤╥╦╦╤╢╡╡Ё╢╤╦╤╥╥╤╥╧╨╧╩╨╦╤╦╩╫╪╬╪╪╫╬╫╫╫аббббддцдддееецбаюююю╬╬©╬╫╩╨╧╦╥╤╤╣ЁЁ╢╤╦╧╨╪╬©©©ююдбюююю©╬ю©╬╫╫╪╩╨╧╦╦╦╦╥╣╢╢Ё╠╟╟╟╟╟╟╟╞╞╝╘÷≈∙▌|ljkmrsrsy~~}│└┼▌▐▌█▌▓≤·╓╙╞╧едца©╪╧╥╤╢╢╣╦╧╣╜╔ёё╒═·²⌡≤≈≈√■⌠▓▓▒░▌▄▀┴┤├└┌┌│~|zyyuspnmllkhfc_\YWVUSQOMLKJHGEDCB@?=<:87521/-+*)(&$" 
+
+
+
+
+
+
+
+#&')+,//024678;<=>?@ABCEFHHJKLNRUVVX[\_`begiklmprstvyz{}│┌┘├┤┼▀▄█▌▐░▒■∙≈≥⌡·÷═ёё╔╙╠╥╦╥╣╣Ё╣╧╨╩©цб╨╝╓÷≥⌠▌▄┬└─}{z~~}{xtr{┴■≥·ё╗╝╝╠Ё╣╦╥╣╤╥╥╤╣╣╤╥╧╨╨╨╩╪╬ацццеггффгхххииийкййкйййкллмнопппоонннопярррррррссрррррстттттссстуттуужжжжвььвжужжввьььььвувьыыыыыыыззыыызззззшшшээшзшээшшэээщщщщщччччччччъъъъЮАААЮЮЮъЮЮЮААААААБЦЦААААББББББААААБББЦББАААБЦДДДДЦЦЦББББЦЦБАААААЮЮААЮЮЮЮЮЮЮЮАААААББББББЦЦЦЦЦББЦЦЦЦЦЦЦЦЦЦДДДДДДДДДДДДДЕЕЕДДЕЕДДЕЕЕЕЕЕФФЕЕЕФГХХХХХХИИИХИИИИИИХГГГИЙККЙЙЙЙЙККККККККЙЙЙЙКККККККЛЙЙККЙЙККККККЛЛЛММММЛЛЛЛЛЛЛЛККЛЛЙКККЛЛККККККККККККККККЛЛЛЛЛЛЛЛККККККЙЙЙЙЙЙЙЙЙЙИХГИГФФФФФХФФЕЕЕЕЕЕДДДДЦАЮЮщэшзыыьвуутссррряяяппооонооннмйгдбааю©©юююююааббббцццццб©╬╫╪╪╪╪╪╩╩╩╩╩╩╪╪╪╪╪╫╬╬╬╫╬╫╫╫╪╩╪╫©©©╬╬╬╬©©©©©╬╬╫╪╩╩╨╨╨╨╦╥╧╨╩╩╪╩╨╨╥╦╧╨╪╪╫╫©╬╫╪╪╪╩╧╣╣╣╤╥╥╥╥╣╢╡╡Ё╣╤╥╢╣╣╣╥╧╩╩╨╨╧╥╦╪╫╪╫╫╫╬╬╬╬©бцццдеедддддддцбююааю©╬юю©╫╩╨╦╦╥╤╢ЁЁ╢╣╤╦╩╪╫╬╬©юацаюююю©©ю©╫╫╪╪╩╨╧╧╦╦╦╦╥╤╣Ё╡╠╠╠╟╞╟╠╠╡╠╜╔²≤∙├slmoprrtw{~}|~┌┼▐▐██▐▓≤·╓╙╞╧едбю╬╪╨╥╣ЁЁ╣╦╧╣╛╔╒ё║÷·² ≈≈√∙■▓▓▒▒▐▌▄┼┬┤┘└┌┌│~|zxxtrpnmlkjhfc`]ZXWTSPNLKJIHGECBA@?=<976420-,+*)'%$!		
+
+
+
+
+
+
+"%')+,./024677:;<=>?@BBDFHIJLMORUUUWZ[_`begijklorstwxyz}─┌┘┤┤┬┼▄██▌▐░▓■√≥°·÷═╒ё╔╙╠╤╦╤╢╣╢╣╦╧╩юба╨╝╔═ ⌠▌▄┬└│{xyz|}ytru┐▌√ ╒╖╚╟╟Ё╢╣╦╥╤╥╥╦╦╥╥╥╦╧╨╩╩╪╫©бцдцегхгггиииййийлккккккклнннопппоннооопяясрррррссссссррстттттсстуттуужжжжвььвжжжжввььыььвжвыззыыыыызззззшшшшшшшэээшзшэщэшшшээщщщэщщчччъъчъччъЮААААЮЮЮЮЮЮЮААААББЦЦААААААББББББББББАБЦЦББББЦЦДЦЦББЦББББЦЦБАААААБАААЮЮЮЮЮЮЮААААББББЦБББЦЦЦББЦЦЦЦЦЦЦДДЦЦЦДДДЦДДДДДДДДЕЕФЕЕДЕЕДДЕЕЕЕЕЕЕЕФФФГГГГГХХХХИИХХИИИИХХИХХИЙКККЙЙЙЙККККЙЙЙЙККККККККККККЙЙКККККЛЛКККЛЛМММЛЛЛЛЛЛЛЛЛЛКЛМЛЙКЛЛЛЛЛЛКЛЛЛЛЛЛЛЛККККККККЛЛЛЛЛЛККЛКККККККЙЙЙЙИИИХХГГХХФГХФЕДДЕЕЕДДДЕЕДБЮъэшзыыыьвтттсрряяпяррпоопнонмллйхецбба©©аааааааббюаццццбаю╬╪╨╩╩╪╪╩╩╩╩╩╨╨╨╨╪╫╬╬╬╬╬©╫╫╬╬╫╪╫©©©©╬©юаюююю©╬╫╪╩╩╩╩╩╨╧╥╩╩╪╪╪╪╪╪╨╨╩╫╫╬╫╫ю╬╫╬©©╬╪╤╤╤╥╦╦╥╤╣╢ЁЁ╢╣╣╣Ё╢╣╣╤╧╨╨╧╩╨╦╧╫╬╪╫╫╬©©╬©бццццдффееддцддддаююббаюююю╬╫╩╧╦╥╤╢╢╢╣╢╤╦╩╪╫╫╫╬юабю©ююююаю©╬╫╫╪╪╩╨╨╧╧╦╦╥╤ЁЁЁЁ╡╠╠╠╟╠Ё╢╢╠╚╓² ░─ropnortux}}{|│┬█▄┼▀▌▒≈·╓╙╞╧ееб©╫╫╩╦╤╡Ё╤╧╧╣╛╔╒╒║÷·° ≈√∙■⌠▓▒░░▐█▀┴┬├┘┐││~|zxwtrpomljifec`]ZXWTROMKJIHHFDCBA?>=;865420.-+*(&$# 		
+
+
+
+
+
+
+
+"%')+--.0246679:;<=>@AACEHIKMNOSUUUWZ[_`cegiiikorstvxxz}~│┘┬┬┤┴▀███▌▌▒⌠√≥°·÷═╒ё╔╘╟╤╦╤Ё╣╣╣╦╧╩ююю╨╞╕║ ⌠░▄┤┌─|yuw{}xqqw┴▓≈°╔╘╚╟╡╢╢╣╥╥╤╥╦╦╧╧╦╦╦╦╨╪╫©юацдддехиггхйийкййкмкллккклмоннопппонооппппосряяяярстттсрярсстуутсттсттужжжжужжжжжввжвььыыььзззыььышыыззззшэшшшшшээщэшзшщчщээщщчччччээщчъъъъъччъЮААААААААЮЮъАААААААЮААААААББЦББББББЦАБЦЦЦБЦЦЦЦЦЦБАБЦЦЦЦЦЦЦБАЮЮАББББАЮЮААААААБААББЦЦЦАББЦЦЦББДДДДДДДДДЦЦЦДЕДЦЕДДДДДДЕДЕЕЕДЦЦДДДЕЕЕЕЕЕДЕФГГГГГГГГГХХХХХХИИИИХХЙИХИЙКККККККЙЙЙЙИЙЙЙКККЛЙККЛЛЛККЙКККККЛЛЛКККЛЛММЛЛЛЛЛЛЛЛЛМЛКЛМЛЙКЛЛЛЛЛЛКЛЛЛЛЛЛЛЛККККККККЛЛЛЛЛЛККЛЛЛККККЛЙЙЙИИИИИХГГИИГГХФЕДДЕЕЕДДДЕЕДБЮъэшзыыьввууутсряяпрсспоопяпнлййигфдбба©©ацббааабц©абдцбааа©╪╨╨╩╪╪╩╩╪╪╩╨╦╦╩╪©©©©©ю╬╫╫юю╬╫╫╫╬юаюю©©ааааю╬╫╪╫╫╫╫╫╪╩╧╪╪╪╪╫╫╫╫╪╫╬╬©╬╬╫©╬╫╬юю©╫╦╦╦╧╧╧╥╤╢╢ЁЁ╢╣╢Ё╢╣╣╣╣╦╧╦╧╪╪╨╨╬©╫╪╫©ю©╬юццдддеггефедддеффцююбдцаю©ю©╬╪╧╥╤╣╣╤╤╣╢╤╧╩╪╪╪╫╬©аа©©ааюадаю©╬╬╫╫╪╩╨╧╧╦╥╤╣╠Ё╣╢╡╟╠Ё╞╠Ё╣╤╢╞╘║²≈┼woolmqtsv|}{|│┬▀┴┤┴▄▒≈·╓╘╝╦ееб©╫╫╪╧╤╡Ё╤╧╨╢╚╓╒╒║÷·° ≈∙∙■▓▒▒░░▌█▀┴┤├└┐─~}}{xvsrqonljhdcb_\YWVTROLKIHHGFDBA@?>>;755420/.,*(&#"
+			
+ #&)+,-./0134589;<=>?ABDFGIJKLNQTTTUWZ\]`dfgikmoqqruxyy{}~│┘├┘┴┼▀▄█▌▐░▓■≈≥°·÷║╒╒╓╘╠╦╧╥╣╢╢╣╥╨╬аа©╧╟╖╒°≈▒█┼├─|{xstx|wor|▄⌠≥÷╖╛╜╞╢╣╤╥╥╥╦╧╥╧╩╩╧╦╧╨╩╫╬©юбдфеефгхиййийййййкллллллммнннннооппопяпооястсррссррррррссссстттттуужуужвьввужвжжжвьыььввьыывьыыввыэьыызшшззззэщщщэшээээээээщщщщщщщщщщщччччъъччЮАЮЮБАЦБЮъАБАББББББББААЮАЦЦЦЦААБЦЦЦББЦЦЦЦЦЦЦЦЦЦЦДЦЦББЦЦЦББАААБББББААЮЮЮАББББАДААЦЕДБАЦЦЦЦЦЦББДДЦЦЦЦДДБЦДДДЦББДДДДДДДДДДЕДЦЦДЕЦДЕЕФФЕЕЕЕЕЕФГХХХХХХХХХХИХХИИЙЙИИИИИИЙЙККККЙЙКККЙЙЙЙЙКККККККЛЛЛКЛЛЛЛЛЛЛЛЛЛКККЛЛЛЛЛККККККЛЛЛЛЛЛЛММЛЛККЛЛМЛЛЛЛЛЛЛЛККККККККЛЛЛЛЛЛККЛЛККККККЙИИИИИИИХХХХХХХХФФФФГФЕДЕДЦЦЦБъщэшзыььввжввжсяппяяяяяппояпомммкхфдбаююабцбаабцбаюабццбаюаю©╬╪╨╩╫╫╪╩╩╩╨╦╣╨╪╬©©╬╬╬╬©©╬©юю╬╫╬©юааю©аабаю©╬╫╫╩╨╩╫╬╪╩╫╪╩╪╬©╬╫╫©©╫╫юю©©╬╬©юаю©╬╨╧╨╩╧╥╤╢╡╠╡Ё╢Ё╡Ё╢╤╤╤╦╨╪╫╪╩╪╫╬╬╬╬╫╬©©©юццефгхихффгхгедефцаацдаюа©©юю©╫╧╥╧╦╥╣╢╢╤╥╧╨╪╫╫╫©аюаббююбцбю©©©╫╫╫╪╩╨╧╥╥╤╤╢Ё╡╡Ё╢ЁЁ╟╡╣╦╧╥╡╞╕╒÷√└tonmoposxzxz─┤┼┬┘┬▄▐≤·╕╗╛╩дда©╬╫╩╧╦╢╣╤╦╩╤╛╕╔╒÷·²°≥≈√■⌠⌠⌠▒▐▐▐▌▄┼┬├┐│││─~|ywutsqooliggd`\ZXWVSQNMLJHGFFDB@?>><;865310.-+*(%#!					
+
+
+
+#&(*,-./0124589:;<>?@BCEGHIKLMPRSSTWY[\_cefhknpqqruwwy{}~│└├┘┬┼▀█▌▌▐░▒⌠√≥⌡²÷═╒╒╓╘╠╦╧╥╢╢╣╣╥╨╫юа©╧╞╖║⌡≈▒█┼├─}{wtsw{wqw┌█√²ё╙╝╝╞╢╣╥╥╦╦╦╧╦╨╩╩╨╨╨╨╩╪╫©юбдффггххиийийккккклмммммннннннноппяопяпппястсррсссрррррссссстттттужуууужввжжжжжжвьыыььвььыыььыыьызшыыыззшшшшшээээээээээээээщщщщщщччщччччъъъЮъъААЮАБАББЮЮАБББББББББББАААЦЦЦБББББЦЦЦБЦЦЦЦЦЦЦЦЦЦЦЦЦЦББЦЦЦЦББАААБББББААААББББААБАБДДБББББЦЦЦЦЦЦЦЦЦЦЦЦДДБЦЦДДЦЦБДДДДДДДДДЕЕДДДДЕДДЕЕФЕЕЕФФФФФГГХХХХХХХХХИХХИИЙЙИИИИИЙЙККККККККККККККККЛЛККККЛЛЛККККЛЛЛЛЛЛЛЛЛЛЛЛМММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККММЛЛЛЛЛЛЙЙИИИИИИХХХХХХХХГФФФФФЕДФДЦЦЦБъщэшшзыььвжввусряяяррряяяпяяонннлифдбаююабдцббцццбабцццбаюю╬╬╬╫╪╪╬╬╪╩╩╪╩╦╤╧╩╬©╬╬╬╬©юю©юаю©©╬╬©юю©©ббббаю©╬╬╫╪╪╫╬╫╪╫╪╪╫╬©╬╬╬©©╬©ааа©╬©юабаа╬╪╪╪╩╦╤╤╢Ё╠╠Ё╢╢Ё╡╢╤╥╥╧╩╪╬╫╪╫╬╬©╬╬╫╬©©©ацедфййххигхихфеффецббббаб©©©юю╬╩╧╧╧╦╤╣╢╣╣╦╨╪╫╫╫©аюаааююацдбюю©╫╩╩╪╩╨╧╦╥╤╤ЁЁ╡╡ЁЁЁЁ╡Ё╣╥╦╥╢╡╚╓╒÷░}rpnmnpsuxy|│┤┴┤└┤▀░≥÷╕╘╛╩дда╬╫╪╨╦╦╣╤╤╦╩╤╛╕╓╒÷·²°≥≈√■⌠⌠▓░▐▌▄▄┼┴┬┤└┐│─}{xvutrponlifec_\ZXVURPNLKJHFFECB@???<:86420/-,+)'%" 				
+	
+
+
+"%'*+-./1134578:;<=?@ABDFGHJKLNQRSTVY[\_cegjlnoppruvvy{~│┐┘├┤┴▀█▌▐░░▒⌠√≥⌡²÷═╒╒╓╙╡╦╦╤Ё╣╤╤╥╧╪©а©╧╝╕║⌡√▓█┴┘─~{wsruxvt|┴░ ╒╗╝╞╞╟╢╣╥╧╧╧╧╧╨╨╪╪╫╪╩╩╪╪╫©бдефххххииийхйклллккмммммнноннноопяяпяяяппрссссссссрррррссстстттттужжууужжжжвжжвььыьыьььььыыыыыыззшшыыыззшшшщщээээщщщщщщщщщщщщщщччччччччъъъъЮЮЮААААБАББАЮАБББББЦЦЦЦЦББББЦЦЦБЦЦЦБЦЦЦЦБЦЦЦЦЦЦЦЦЦЦЦББЦЦДЦЦЦББББААБББББББББББААААБЦЦЦААЦББЦЦЦЦЦЦЦЦЦДДДДДЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЕЕЕЕДДЕЕДДЕЕЕЕДДГГГГГГГГИИИИХХХХИХХХИЙЙИЙЙЙЙЙЙККККККККККЛЛКККЛЛЛКККЛЛЛЛКККККЛЛЛЛЛЛЛЛЛЛМММММЛЛЛММЛЛЛЛЛЛЛЛЛЛККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККММЛЛЛЛЛЛЙЙЙИИИИЙИИХХХХХХГФФЕФФЕЕФЕДЦЦАъщззззыьвжввжтсрррррррррряяпонмнлифдбаю©юббцццббббаабббаю©╬╫╪╫╬╬╬©╬╫╪╪╪╪╨╦╧╩╫╬╬╬╬©юааюаббюаю©╬╬©©©бббббю©╬╬╬╬╬╬╬╬╬╫╫╫╬╬©©©©╬╬©юабд©©©абцццю©©©╪╦╤╤╣Ё╠╠Ё╢╣╣╡╢╤╦╧╧╩╪╬╫╫╬╬©©©╬╬╬©ююацедфккффйиииихгггфецаюбббююююю╬╪╩╨╨╧╦╤╢╢╢╦╧╩╫╫╬©юааааююацецбаю╫╪╩╪╪╩╨╦╦╥╥╢╢╢╢ЁЁ╢╢╢╢╣╤╥╥╤╣╟╕╓╔ ┘umnllqsruz|─┘┤┘└┤▀▓ ÷╕╘╜╩дцю╬╪╩╦╦╦╤╤╣╦╪╥╛╔╓║÷·²°≥≈√■▓▓▒▐▌▌▀▀┼┴┬├└┐─~{ywutsrpnmkhfda^\ZXVUROMKJIGFEDBA@?>>;97531/.-,*(&$!
+				
+		
+
+!$&)+-.012356679;<=?@ABDEFHIJKMPQRTVX[]_begjllmnosvxwx{─│┌└├┤┬▀█▌▐░░▓■≈ °·÷═║╒╔╙╡╦╦╣╡╣╥╥╥╦╩©аю╧╝╔║°√▓▄┬┘│|wrprvvw┌▌∙÷╕╚╞╟╟╠╢╤╦╨╨╨╧╧╩╩╩╫╬╬╪╩╫╫╬адфггхххиийййийкллкллммммммнннноопяяяярряяярсссррррррссссссттсттттужвжжжжжжжжьвжвьыьвььььььыызыызшшшззззззшээщщээээээщщщщщщщщщщщщччччччъъъъЮЮАЮЮАААААААБАААБЦБББЦЦЦЦДЦБББЦЦЦБДЦЦЦЦЦДДБЦЦЦЦЦЦЦЦЦББББЦЦЦЦЦБББББАААББББББББББББББББЦББББББЦЦДДЦЦББЦДДДДДДЦЦЦЦЦДДДДДДДДДДЕЕДДДЕЕЕДДЕЕЕЕДДГГГГГХХХИИИИИИХХИХХХИЙЙИЙЙЙЙЙЙККККЛЛЛЛККЛЛЛККЛЛЛККЛЛЛЛЛЛККККЛЛЛЛМЛЛЛЛМММММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККККЛЛЛЛЛЛЛЛЛККККККККЛЛЛЛЛКККЛКККККККККЙЙЙЙЙЙИИИХХХХХХГЕЕЕФФФФЕДЦЦАчэыыыыьвуужжусрррряяррррррппомммкигдбаю©©аюаба©╬╬©╬©©ю©╬╫╫╫╪╫©юю©╬╬╫╫╫╫╪╩╨╧╩╬╬╬╫©ююааабцбадб©╬╬юаабббббю©╬©©©©©©юю╫╬©©©©©юю╬╬юююадюююабцццбббю╫╧╤╣╢Ё╡╡╢╣╣╣Ё╣╦╧╧╧╨╩╫╬╬╬©©©©╬╬╬©©юабцдгйхефиккйййихгггдаюбцаббаю©╫╪╩╩╩╨╦╤╣╣╣╦╧╪╫╬©ююбббаююбццбааю©╬╫╫╪╪╩╨╧╦╦╣╤╥╤╣╢╣╤╤╤╤╥╥╥╤╤╢╙╔╕·█ykmlmqrrtyz~┌└┐┐┤▄▓ ═╕╘╜╩ццю╬╪╨╦╥╦╤╤╣╥╪╥╚╓ё║÷·²°≥≈√■▓▒░▌██▄▀┼┴┤┘┌──}zxwutrqomligeb`^[YWUTQOLKJIGEDCA@?>=<;96421/--,*(&# 					
+
+
+
+!#%(+-/01235667:;<>?@ABDEFGIJKMOQRTVXZ\^acfhjklmorvwvx{~──│┐├├┬┼▄▌▐░░▓■≈≥⌡²÷═║╒╓╙╡╦╦╣╡╢╥╥╥╦╩╬аа╨╝╕║°√▒▀┬┘│─}xqnpux|├▓⌡ё╘╛╞╟╟╡╣╥╧╩╩╨╨╨╩╩╩╫©©╫╪╬╬©бегхххххиййккйкккйклммммммннннооппяяяррряяярсррррррррттттттсссттууужвввввжжжжыьввььвжьььььыыышзызшэшзшзззшшэщээщщщэшшщщщщщщщщщщщщччччъъъъъЮЮЮЮАААААААААББААБЦББББЦЦЦЦЦЦЦЦЦБЦЦДДЦЦЦЦДДБЦЦДДДЦЦЦЦЦЦЦЦЦЦЦЦББББББАААБББЦЦББББББЦЦЦБААЦЦБАББЦДДДЦЦББЦДДДДДДЦЦЦЦЦДЕДДДДДДДДДДДДДЕЕЕДЕЕЕЕЕДДФФГГХХИИИИЙЙЙИИХИХХИЙЙЙИЙЙЙЙЙЙКККЛЛЛЛЛЛКЛЛККККЛЛКЛЛЛЛЛЛЛКККЛЛЛЛМММЛЛММММММЛЛЛЛЛЛММЛЛЛЛЛЛЛККККККЛЛЛЛЛЛЛЛЛКККККККККККККККЙККККККЙЙККЙЙЙЙЙЙЙИИХХХХХХГЕЕЕФФФФЕДЦБЮщэыыььвуттутсррррсяяяярррряяпнммкифдбю©╬╬©╬©ю©╪╩╩╪╪╪╫╫╫╫╪╩╪╫©абб©╫╬╫╫╫╫╪╩╩╨╪╬╬╫╫©ааааабццадб©╬╬юбббббббаю╬╬©©©ююаб╬юааю©ююю╬╫©©╬©бааабббббецбю╬╩╥Ё╡╡Ё╢╣╣╣╢╣╥╧╨╧╦╦╧╬╬©©©©©©╬╬╬╬©юаааехгефххллкййихгфгеббцбюаааю©╬╪╪╪╪╨╦╥╤╥╦╦╨╪╬©ююаааааюааббааююю©╬╬╫╫╪╩╨╧╧╤╥╦╥╤╣╣╤╥╦╦╦╦╥╤╣╤╞╗╓÷√└qmnopqsuvz}─┌││├▄▓ ÷╔╗╜╩бца╬╪╧╥╥╦╤╤╢╥╩╤╚ё╒║÷·²°≥≈≈■▓▒░▌██▄▀┼┬├└│─|zxwusrqomkhfea_]ZYWUSQOLKJIGEECA@?=<;:86421/--+*(%# 					
+
+
+
+ "%(*-.01234668:;<>?@ABCDEFHIKLOPRTVWY\_acfghklnoruvuyz|─│┐├├┬┼▀▄▌▐░▒⌠√≤ °²÷║║╓╘╠╦╦╤╡╢╤╤╤╦╩╫юа╨╞╕╒²√▒▄┬┘│}xqnnt{┌▄≈═╕╙╚╝╟╠Ё╤╦╨╩╩╩╩╩╩╩╪╫╬©╬╫╬©юбегххххиийккккккййкмнннннноооооопппяярряяярссррсрряррууттттттттуууужввввввжввьььььввжьььыыыыызыызшшшзшшшшшээщшэщщщэшзччччччччщщщчччччъъъъЮЮЮЮЮААЮЮАААБАБББААЦБББББББЦЦЦЦЦЦЦЦЦДДДЦЦЦЦДЦЦДДДДДЦБЦЦЦЦЦЦЦЦЦБАААББАААБББЦЦБББББЦЦЦЦБААЦДЦЮББЦДДДЦЦЦЦЦДДДДДЦЦЦЦЦДДЕДДДДДДДДДДЦДДЕЕЕЕЕЕЕЕЕЕЕФФГХХИИИИИЙЙЙЙИИИИИИЙКЙЙККЙЙЙКККЛЛЛММЛЛЛЛЛЛКККЛЛКЛМММЛЛМЛЛЛЛЛМММММЛЛЛМММННМММММММММММЛЛЛЛЛККККЛЛККЛЛЛЛММКККККККККККЛКККЙЛЛЛЛЛКККККЙЙЙИИИЙИХХХХХХХГФЕЕФФФЕЕДЦАъэшзыьвжутстсррррррряяярррсссяомлкйфца©╬╪╪╬╬©©╫╨╧╧╨╨╩╩╪╪╪╪╪╪╬юаба©╫╫╫╫╫╫╪╪╪╪╬©╬╫╫©ааабабдцббю╬╫╬юаббббцдцбю©©©©юаббюаббаюююю©╬╬╬╬юаббббааббеда©╬╪╦Ё╡╡╢╣╣╣╢Ё╤╦╨╨╧╦╦╦╬©ююю©©©╬╬╬╫╬юаюагифехйиллкйихггффедддбю©юааю©╬╬╫╫╩╧╦╦╧╨╧╨╫©ююююююаааааабцбаюю©╪╫╫╫╪╩╨╨╧╥╥╦╥╤╣╣╣╦╧╧╧╦╥╤╤╣╠╚╔═°▐|ooonqtvv|~─~└┼▒ ÷╓╖╜╩абю╬╪╧╤╤╥╤╤╣╥╨╣╙ё╒║÷·²⌡≥≈≈■▓░▐▌█▌▀┼┴┤├└│─~|zywusrpoljgeda_\ZXVTSPNLJJIGEFDBA@><::86421/.-+)'%"				
+
+
+
+
+!#'*,-/01245679;<=>?@ABCDFGIKLNPQSUVZ]`bcfgfilnoqtuuyyz}│┐├├┤┴┼▀█▐░▒⌠∙≤ ⌡²·║║ё╗╠╦╧╥Ё╢╢╣╤╦╩╫©ю╨╞╕ё°∙▒█┼├│~|xtomt~┬■²╓╘╚╛╞╠╡╢╥╦╨╩╩╩╪╪╪╪╪╫╬©©©╬юбдегхииийййкккклллллмнннннноопооппппппряяяярссрсссрррссстттттттууууужвжвввжжвввьььььььььыыыыыыыыыззззызшшэээээээщщщщээщщщщщщщщчччччъъъъъъъъЮЮЮЮАБААББАБАБЦБААЦББББББББЦЦДДЦЦЦДДДДДДЦЦЦЦДДЕЕЕДДБЦДДДДЦЦЦЦББАББЦББББББЦЦБББББББЦБЦБАБДЦАБЦДДДДЦБЦЦЦЦЦЦДДЦЦЦЦДДДЕДДДДДДДДЕДДДЕФФЕЕЕЕЕЕФФФФФГХХХХХИИЙЙККЙЙЙИИЙКККЙЛЛККККЛЛЛЛММММЛЛММЛЛЛЛЛЛКЛМММЛМММММММММММЛЛЛЛМММНММММММММММММЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛММЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛЛЛЛКККЙЙИИИИИИХХХХИИХГФФФФФФЕЕДЦЮчшззыьжутсстсрррссрррррррссссрнлкйхебю╬╪╩╩╪ю©╬╩╧╥╦╦╦╧╨╩╪╪╪╪╪╬ю©©юю╬╫╫╫╫╫╫╫╫╫╬ю╬╪╩╬аабббцддбаю©╬©©ююбббцддцаю©╬╬юаааббццбаю©юю©╬©аббцццбаабцддб©╫╩╦╣╡Ё╢╢╣╢╢Ё╣╤╧╧╧╧╨╨©юааю©©╬©©╬╫©ааюцфхфехкккккйхфффгфеффдцц╬юабаюю©╬╫╪╩╧╧╨╩╧╨╫©ююю©ююабббаацдцааа©╪╫╫╪╪╩╨╧╧╦╦╥╥╥╤╣╣╧╨╨╨╦╥╥╦╤Ё╞╘╓÷∙┤tolmpsvy}~~}└┼▒ ·ё╖╜╩аа©╬╪╧╤╣╤╤╤╤╦╨╣╙ё╒║═·²⌡≤≈√⌠▒░▐██▌┼┴┬┤┘┐│─~{zywtrqpoligedb_\YWUTSOMKJIHFEFDB@@><:975320/.,+)&$!					
+
+
+
+
+ #&)+,./0134579;<<=>@ABCCEGHKLNOQSUVX\_abddcgjnoqtvwzxy|│┐├┤┤┬┴┼▄▌░▒⌠√≤ °²·║║ё╗╟╦╧╦ЁЁ╢╢╤╧╩╫╬©╨╞╕ё°■▓▌▀┤─|zwwpmu│█≥╒╕╙╚╛╠ЁЁ╢╦╧╨╩╩╪╪╫╪╫╫╫╬©юа©адефгийккккккккклммммнннмммннооооппппоояяяяярссстттсрссррссттуууууууужвужввжжжвжьыыььызььыыыыыыьызззыыызшшэщщээщщщээщщщщщщщщщщщъъъъъъъъъъъъъЮЮЮЮББААЦЦББББЦБЮАББББББББББЦДДЦЦЦДЦДДДДЦЦБЦДЕЕЕЕДДБЦДЕЕЕЦЦДЦББББЦЦББББББЦЦЦЦББААБББЦДБАЦЦББЦДДДДЦБДДЦЦЦЦДДЦЦЦДДДДДЦЦЦЦЦЦЦЦЕДДДЕФФФЕЕЕЕФФФФГГГХХХХГХИЙККККЙЙЙИЙККККМЛЛЛЛЛЛЛЛЛММММЛЛМММЛЛЛЛЛКЛМММЛММММММММММЛЛЛЛЛЛМММЛЛЛЛЛЛЛМММММЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛММММММММММЛЛМММЛЛЛЛЛЛЛЛЛККККЙЙИИИИИИХХХХИИХГФФФФФЕЕЕДБЮщшызывусрррссррстсссссррсссссямйихфдб©╬╪╨╨╩ю©╫╨╥╤╤╥╤╥╦╨╩╩╪╪╪╬©╫╫©юю╫╫╫╫╫╫╫╬╫©ю╬╩╩╫юабббцедцбаю©ююююааабддбаа©╬╬©аю©ццццбаю©юба©юцедццццббцдбдб©╪╨╦╤ЁЁ╢╢ЁЁ╢╢Ё╣╥╧╧╨╩╫юабба©©©©©©╬©ббюеееффгймйккйгеефифеггеде©аццбю©©╬╬╬╪╩╨╧╨╧╨╪©юю©©юацдддцбцдцбабю╫╪╪╪╩╩╨╧╦╨╧╦╦╦╦╤╣╨╨╨╧╦╦╧╨╧╤╢╟╗║≈█xnilpqu|}}~~}├▄▒ ·ё╖╝╪аю©╫╪╦╣╢╣╤╥╥╦╨╢╙╓╒║═÷² ≤√√⌠░▐▌███┼┴┬├┘┐─}{zywtqqqoligedb`\YVUTSOMJIHGFDDB@??><:864320/.,*(&# 					
+
+
+
+ #&),-../023568:;<==?@AABDFHJLNOPQTVZ[^aceedijmpqrtwxyy{~│└┘├┤┬┴▀█▌▐▒▓■≈≥⌡²÷║║ё╗╟╥╦╥Ё╢╢╢╣╥╨╪╫©╪╟╔ё═√▓▌┬└┌{wqqlq┘√÷╔╗╘╛╞╡╢╣╤╥╧╨╨╨╨╪╫╬╫╪╪╬©аббцеффгийииййкккйкмнмлкмоооооооннпярряпяяррррррсстсррссссссттттттжжжжжжввжввьььвжвьызззыыыыззззззыыыззззшщщээшшээээщщщщччччъчччччэщъъчщщщЮЮЮЮААББЮЮАААББББББББЦЦЦДЦЦЦЦЦЦЦБЦЦЦБЦДЕДДДДДДДДДДЕЕДДДЦЦДЕЕЕДДЕЦЦДЦЦЦББДЦЦБББББББББББББЦЦЦЦДЦЦБЦДДЕДДЦЦЦЦЦЦДДДДДДДДДДДДЦДЕЕДДДЕЕЕЕФФФЕЕФФЕЕЕФФФГГГГГГГФХХИЙККККЛККЙЙЙКЛКККККЛЛЛЛЛЛЛЛЛЛЛММММММММЛЛЛЛЛММНММЛМНННМЛЛМНННННМММЛЛМММЛМММММММННММЛЛЛЛНМЛЛЛЛМММММММММММММММЛККЛМНММММЛЙККККЙИИКЙИИХИИИЙХГФФФФФФДЦАъщшзшывутттсррррррсстсяяяяяпяяолййиге╬╧╧╧╧╨╫ю╫╨╦╥╤╣╢╢╣╤╧╩╫╪╩╫╩╩╪╪╪╫©©©©ююююю╬©©╬╪╩╪╬юаабцддеаюаддбююююбцддбаю©©юююацббццбааю©абаацееацдеддддда©╫╩╧╧╧╣╤╤╣╢╣╣╢Ё╤╦╤╣╦╩╫аццаюаа©баюю©©ацефгггхйлкйихгфффигееффдццббццбаюа©╫╩╨╨╨╨╦╧╨╩╫©©©ацдцццбабцццца©╬╪╪╪╪╪╩╨╧╩╧╦╦╦╥╥╦╩╩╩╧╦╧╨╪╨╧╣╠╛╔⌡⌠┐sjlnou|z}~||─├┴▒≈·ё╗╟╧ю©╬╪╧╥╤╣╣╣╤╦╨╧Ё╚╓ё╒═·° ≤≈■⌠▒░░▐█▄▀┼┴┤┘┐┌│}||zvsrpomkigecb_[XUTSRNMKJIHGFBA?>=<:9775420..+*(&$ 
+		
+
+
+
+"%(+,-./0125789:;<=?@ABCDFHIKNPPRTUXZ]`bdddhjmpqrtwxyy{}─┐┘├┤┬┼▀█▌▌▐▒∙≤ °²·║║ё╗╟╥╦╥╢╢╣╣╤╥╨╪╫©╪╟╔ё÷√▓▌┬┘┌─{xrpmv▄⌡╒╖╘╚╜╟Ё╣╤╥╦╧╩╩╨╩╪╬╬╬╫╫╬юбцдефггхикхиййккклклммллмопппппппппяяяппяяяяяяррссутсрсстстттттттужжжжжжввжжжвввввьььыыыыыыыыззззызззззшшшэээээээээщщщщщччччъъчччъщчъъъчччъъЮЮЮЮААЮЮАААБББББББЦЦЦЦДЦЦЦЦЦЦЦЦЦДДЦЦДЕДДДДДДДДДДДДДДДЦЦДЕДДЦЦДЦЦЦЦЦБББЦЦЦЦББЦЦЦЦЦЦЦЦЦЦДЦЦЦДДЦБЦДЕЕЕЕДДЦЦЦЦДДДДЕДДДДДДЕЦДЕЕДДДЕЕЕЕФФФЕЕФЕЕЕЕФФГГГГГГГГФХХИИЙЙЙЙККЙЙЙЙККККККККККЛЛЛЛЛЛЛЛМММММММММЛЛЛЛЛМММЛЛЛМММЛЛММНННННММММММММММММММММММЛЛЛЛЛЛММЛЛЛЛММММММММММЛММММЛЛККММЛЛЛЛКЙККККЙЙИЙЙИХХИИЙЙХГФФФФФГЕЦЮчэзызьжутттсяярррсттсрпппяяяяяолйихе©╨╥╥╦╥╧╩©╪╧╤╣╤╤╤╤╤╥╦╧╨╨╨╪╩╩╪╪╪╫©юююююю©©©©©╫╩╩╩╪©юаббцццбааццаюа©юацдедцаю©юаюабаббббааююаююбддццдеедццдеб╬╫╪╨╨╩╥╦╦╥╤╥╤╢╣╥╥╤╤╧╪╬бццбабаюцбаююацддефхийлмкйихггггигфеффеддцааабббаю©╫╪╩╩╩╧╨╨╩╪╫©юацддцдцбббццбю©╫╫╫╫╪╪╩╩╩╩╧╦╦╦╥╥╦╩╩╩╩╨╧╨╩╨╨╦╢╝╖÷≥█zmklpv{z{{z|┌┤┴▒≤·╒╕╞╨б©╬╪╧╥╤╣╣╣╤╦╨╧Ё╙ёё╒÷²° ≥≤⌠▓▒░▐▌▄▀┼┴┬├└┌│─}{zxusrnmlkjheca^ZWUTSRNMKIHGEDA@?>=<:976531/.-+*(&# 
+				
+
+
+
+!$')+-./01167899:<=?@BCDEGHHJMPQRSUWY\_acddhilopqsvxyy{}─┌└┤┤┬┼▀▄█▌▌▒■≤ °²·║║ё╗╟╥╦╥╢╢╢╢╣╥╧╩╫©╪╠╕ё÷√▓▌┴┘┐─|xuqp~■║╕╘╚╛╝╠Ё╣╤╥╦╨╩╪╩╪╫╬╫╬©©©юцефгххиийкхийккллмлллллммнооннооппяппппяяяпппяярстутсссттсттттуууужжжжжжжжжжжжввььыыььььызыыызззыыззшшшшшшээээээщщэщщщщчччччъъчччъчъЮЮъъъъъъЮЮААЮЮААААББББББЦЦЦЦЦЦДДЦЦЦЦЦЦЦДДЕДДЕЕДДДДДДДДДДДДДДДЦЦДДДЦЦЦЦЦДЦЦЦББАЦЦЦЦЦЦЦДЦЦЦЦЦЦЦЦДЦБЦДЕЦБДДЕФФФЕЕДДДДДДДДЕЕЕДДЕЕЕДЕЕЕЕДДЕЕЕЕФФФЕЕЕЕЕЕФФГГГГФГХХГФХХХХИИХХЙЙЙЙЙКККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛМММЛЛЛЛЛММЛЛММЛЛММММНННННМММММММНММЛЛЛММКЛЛЛММММММЛЛЛЛММММММММММЛМММММЛЛКММЛЛЛЛКККККККЙЙИИИИИИЙЙЙХГГГГФФХФЦЮщшзыыьжутттсррррссттряооопппппнкихец╧╤╣╤╥╥╦╩╫╨╥╣╢╤╦╧╥╥╥╥╥╥╦╧╩╨╨╩╪╪╫╬ююаааюююю©╬╪╩╩╨╨╫╬©ааббацбаааюабююабдддцбаюааюабааббббаабаююцедбддееддеееа╫╪╪╪╪╪╧╨╨╦╥╥╣╢╤╤╤╤╦╩╬©цддцццбюббаююацддефхйлллкйихггггихффффедцббаббббааю©╬╫╪╩╨╩╩╨╨╩╬юацеддддцббццца©╫╬╬╫╪╩╪╪╪╩╨╧╧╧╦╦╨╨╩╪╪╩╨╨╨╨╩╨╥╠╚╓·∙┐rkkpuvyyyy}┐┬┼▓≤²═╓╝╨цю╬╩╧╥╣╣╢╢╣╥╧╦╡╘ёё║÷²⌡ ≥≤▓▒░▐▌█▄▀┴┬├└┐│──}zxvtrrmllkjgdb_\YVTSRQNMJHGEDCA@>=<;9865420/-,+)'%#
+					
+
+
+
+ #&(*,./01166788:<=?@BCDEFGHJMOPRTUVX[^`bdehiknopsvxyz|~─┌┐├┤┴┼▀▄█▌▐▒■≈≥⌡²·║║╒╖╞╤╦╥╢╢╢╢╢╣╥╧╫©╫╡╖ё÷≈▓▌┴┘┐─|xxrs┘ ╔╗╙╛╜╞╠Ё╢╣╤╧╨╩╪╪╪╫╬╫©юююадгххиииййййййклллммлллмннмнннмнопяяпонпяяппппярсттутсссссстттуужжжжжжжжжжжвьввввьыыыьььыыыыыыыззыышшшшшшшэээээээщщщщщщщчччччъъччъъчъъЮЮъъъъЮАБББАААААББББЦЦЦББББББДДДЦЦЦЦЦЦЦДЕЕЕЕДДДДДДДДДДДДДДДДДДДДДЦББЦДДЦЦЦБААЦЦЦЦЦДДДЦЦЦЦЦЦЦЦДЦББДЕДБДЕЕФФЕЕДДДДДДДДДЕЕДДДДЕЕДЕФФЕДДДЕЕЕФФФЕЕЕЕЕЕФФГГГФФГХХГГГГХХХХХХХИЙЙКККЙЛЛЛЛЛЛММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММЛЛЛЛММММММММЛЛММММММММННММММММННМЛЛЛЛМЛЛЛЛМММММЛЛЛЛЛММЛЛЛЛЛЛЛЛЛЛМММММММННММНМЛЛЛЛЛЛЛККЙЙИИИИЙЙИХГГГГГФХФБчэшзыьвжууттсссссссссряоннноонмкихфцю╤╢╢╢╣╣╥╨╩╧╥╣╣╤╦╨╤╥╦╦╥╥╧╨╧╦╧╧╨╩╪╪╬©юаааааю╬╪╩╩╩╨╧╩╫╬юааююббббаюааббббццббцбаббаацбббцццббццббдффдццддефгхц©╪╪╫╫╪╪╩╪╩╧╥╥╤╣╥╤╣╤╨╬абддееедцаабаююбддеегиклкйкйихххххихгффффеббцддцаюаааю©╬╫╪╨╩╪╩╨╩╫юадеедддцабдддба©©╬╫╫╪╪╪╪╩╨╨╨╨╧╧╩╪╪╪╪╩╨╨╨╨╩╨╥╢╝╖║≥▀{plptqvwxz~┌┤┴▓≤²÷╓╝╨б©╫╩╦╥╣╢╢╢╣╥╦╥╠╘╒║═÷²° ≤≈▓▒░▐▌▄▀▀┴┬├└┌│──}zxvtrpnmkjheb`][WTSQQPMLJHFEDBA?>=;:9765420.-,*)'$"						
+
+
+
+#&'),./001566789;=>?ABCDEFIJKMOQTVUWZ]_bdeghjmopsvyy{|~─┌┐┘┤┴┼▀▄█▌░▓■∙≈≥°²║║╒╖╞╤╦╥╢╢╢╢╢╣╥╧╫©╫Ё╖ё÷≈⌠▐┼├┐─|yysy▀²╖╙╛╝╝╟╡Ё╣╤╥╧╨╪╪╫╫╬╬╬©ааацфхииииййййккккклллнмллноннооонопяряпннояяпппяярстуутррссссттууужжжжжжжжжжжьььвжжвььыыззыыыыыыззззышшшшшшшшщщщэээээщщщщччччччъъччъъъъъъЮЮъъЮЮАББББАААББББЦЦББББББББДДДДЦЦЦЦЦЦДДЕЕДДДДДДДДДДДДДЕЕДДДЕЕЕДЦББЦЦЦЦЦЦББАЦЦЦЦЦДДЕДДДДДДДДДЦБЦДЕДЦЕЕЕЕЕДДЦЕЕДДДДДДЕЕДДДДЕЕДЕФФЕДДДЕЕЕФФФЕЕЕЕЕФФГГХФФФГХХХГГГХХИИИИХХИЙККЙЙКККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛМММММММЛЛЛММММММММННММММММННМЛЛЛЛМММММММММЛЛЛЛЛЛММЛЛЛЛЛЛЛЛЛЛЛММММММНОНМННМММЛЛЛЛЛЛККЙЙИИИИИХГГГГГФГДЮщшзззьвжжжутрррррсссссяонммммллйихфц©╤╢ЁЁ╡Ё╣╦╧╦╥╥╥╥╦╧╥╦╧╧╧╦╧╨╦╦╧╧╨╩╪╪╬╬©юаааа©╫╩╩╩╩╩╨╩╪╫©юю©©ацдцбааацбббббббцбаббббдцбццдддццддцдефедддефггхб©╫╬ю©╫╪╬╬╪╧╦╧╧╦╦╤╤╦╪юцдффффгецббцбаадееефгйллкиййихххииххгффффеддддцбю©©юююю©╫╪╩╪╫╪╩╩╫©бдфеддцбабцддцбб╬╬╬╬╬╫╪╩╩╩╩╩╩╨╩╫╬╫╪╩╩╩╨╨╪╩╧╦╤╡╙╒²■├vnptqruy|~│┘┴▓≤²═╔╟╨ю©╫╨╦╤╣╢Ё╢╣╥╦╥╠╘╒═÷÷·² ≈∙▓▓▒▐█▄▀▀┬┤├└┌││─~}{xvtqonljgeca`][WTQPONLKIHFEDC@?=<;:8765420.-,)(&#!					
+
+
+
+
+#%'),.//01346789;<>?@ABDEFJJKLNQTUUWZ]_adfghjmnpswxy{}│┌┐└├┬┼▀▄█▐▒▓■∙≈≥°²══║╕╝╣╥╤╣╣╣╣╣╤╦╧╫╬╫╢╗ё÷≤⌠░▀┤└│}{yw│■║╗╜╞╟╟╡Ё╣╤╦╦╨╩╪╫╬╬╬╬©юаббдфхиииийкййллккккллнмллнннноннноппяппооппяяяяяярстттсррсссстуууужжжжжжжвввжвььвжжжвььызшззыыыззззззшшшшшшшшщщщщщээшщщщщччччччъъъъъЮъччъъЮЮъЮЮАББББАБББББЦЦЦБББББББЦЦЦДДДДДЦЦЦЦЦДДДДДДДДДДДДДДЕЕЕЕЕЕЕЕЕДЦЦЦЦЦЦДДЦЦББЦЦЦЦДДЕЕДДДДДДДДДЦЦЦДДДДЕЕЕЕЕДЦЦЕЕЕЕДДДДЕДДДДДДЕДЕЕЕЕДДЕЕЕЕФФФЕЕФФФФФГГГФФФГХИХХГГХИИИИИХИИЙКККЙЙЙЙЙККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККЛЛММЛМММЛЛЛММММММММННММЛЛЛЛЛМММММЛЛЛМММММЛЛЛЛЛЛЛЛЛММММММММММЛЛЛЛЛММММННММНМЛМММЛЛЛЛЛЛККЙИИХХИХГГГГГФЕБъэззыыввжжжусяоппярсссряоннммлллкиигц©╧╥╣ЁЁ╢╣╤╤╥╥╥╥╥╦╦╦╧╧╨╧╧╧╧╧╨╩╨╩╪╫╪©ююааю©©╬╪╩╨╩╩╩╨╩╪╫╬©©©©юцеедцбаббббцдцццбаббббддццдеедцбддццеффгфффггффцаюаба©╫╪╫╩╧╧╨╩╨╩╧╧╪юбегхгфггфдцабаюадецдехйлмлкййиихиийххгфффффгецааааа╬©ююю©╬╬╪╫╬╫╫╫╬©бдффеедбюабццццб©юю©©╫╪╩╩╩╪╪╩╩╪©©╬╪╩╩╩╩╨╫╪╨╧╦╣╜╔÷≥▄{oosrosx|~─└┴⌠≤²═╕╡╨╫╬╪╧╥╤╤╢Ё╢╣╤╦╤╠╗╒÷÷÷·² ≈■⌠▓▒░█▀▀┼┤┤├└┐│──}|{xvuromkhfdcba]ZVSQONNLJIGFEDC@?=<;9875531/.,,)'%" 
+					
+	
+
+
+
+
+"%')+-../0235789;<>?@ABCEGJJKMOQSTUWZ\^`cfghjlnpswxy{}│┌┌┐┘┬┼▀▄▌░▒▓■√≤ °·══║╔╜╣╥╤╣╣╢╢╢╣╥╧╪╬╫╢╘ё÷≥▓░▄┬├┐─~{~█²╓╘╝╞╠╠╡╢╣╥╦╧╩╩╪╬©©©©ююабцегхиииийкккккккклллмлллммннннннооооопппппяяяяяяррсстсррстттуууууужжжжввввввжвыьввьыыыыззшшшызззззззээээээээээщщщщээщщщчччччччъъъъъЮъъчъЮЮЮЮАААБББББББББЦЦЦЦБЦЦЦЦЦЦДЦЦЦДДДДДДЦБЦДДДДЕЕЕЕЕЕЕЕЕЕЕЕФФЕЕЕЕЕДЦЦЦДЦЦДДДДЦЦДДДДДДЕЕДДДДДДДДДДДДЦЦДДДДЕЕЕЕДДЕЕЕЕЕЕЕЕЕЕЕДДЕЕЕЦДЕЕДДДЕЕЕЕФФФЕЕФФФФФФГГФФФГХИИХХХИИИИИИИИЙЙЙКККЙЙЙЙЙКККЛЛЛЛЛЛЛЛККККККККККККККЛЛКЛЛЛККЛЛЛЛЛЛММННМММЛЛЛЛЛЛМММММЛЛЛЛЛЛЛЛЛЛККЛЛЛМММММММММММЛЛЛЛЛЛЛЛЛММЛЛММКММЛЛКККККЙЙЙИИХХХГГГГГГФДБчшзыььвжжжутрпооппяяяяяпооонмлллйихгб╫╨╦╤╢╢╢Ё╡Ё╢╣╤╤╤╥╦╦╥╥╦╧╧╨╧╨╩╪╩╩╫╫╪ююаааю©©╫╪╩╩╩╩╩╩╪╪╫╬©©ююадффддцбцццдеедцдцбббабцдццдефдццддцдфгфхгггхгфедббцца©©╩╪╫╪╪╬╬╫©╬©адефхйхфгхфдцбцбюадецегйкллллйиииииййхххгффффхфбююабб╬©ююааюю©╬╫╫╫╬©юадффффедббббббццббаю©╬╫╪╪╪╪╫╪╩╫ю©╬╫╪╪╪╨╧╩╩╨╧╧╤╝╖║°▓┌tqrpoquz}│├┼∙≥²÷╖Ё╨╩╫╩╦╥╤╤╣╢╢╢╤╥╤╟╗║═÷·²⌡≥≈∙⌠⌠▓░█▀┼┼┘┘┘└┌│~}|zwutrplkhgeca`\YVSQPONLKIGFECB@?=<;9865431/-,+('$"					
+	
+
+
+
+
+!$'(*,-./0135789;<??@@ACEGIJKMPQRSTWY\]_ceghjlnpswwxz}─┌┌┌└┬┼▀▄▐░░▓∙≈≥⌡²·÷÷═╔╜╢╥╣ЁЁЁЁЁ╢╤╦╪╬╫╣╘ё÷≥▓▐▄┴┤┘┌│~└√╔╖╘╝╜╟╠╡Ё╣╥╦╧╩╪╫╬©юю©юююбдфгхиихикллкккккклммллллллммноопппппнпяяппяяяяяяяррртсррстуууууууууужжввввввжьззыызшыыыызшэщзззшшшззщщщээээээээщщщщщщщщчччччччъъъъъЮъъчъЮАЮЮЦБББЦЦДДБББЦЦЦЦЦЦЦЦЦДДДДБЦЦДДДДДДЦБЦДЕЕДЕЕЕЕЕЕЕЕЕЕЕФФФФФЕЕЕДЦЦЦДЦЦДДДДДДДДДДДДЕЕДДДДДДДДДДЕДЦБЦЕЦЦДЕЕЕЕЕДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЦДЕЕДДДЕЕЕЕФФФЕЕФФФФФФГГФФФГХИИХИИИИИИХХЙЙЙЙЙЙККККККККЛЛЛЛЛЛЛЛЛЛККККККККЛКККККККЙКЛККККЛЛЛЛЛММННММЛЛЛККЛЛЛМННМЛЛКККККЛЛЛККЛЛЛМММММММММММЛЛЛЛЛЛЛЛЛННММММЛММЛКЙЙЙЙИИИИИХХХХГГГГГФФДАчшыьввжжжжусяопяпппонмпооооонмлкйхгею╩╥╣Ё╡╡╡╟╜╠╡Ё╢╢╣╤╦╤╣╢╣╦╨╩╩╨╩╪╩╩╫╫╪©юабббаю╫╫╪╩╨╨╨╩╪╫╫╬©©ююаегфддддеееффедбецбцбаабдццдеедбедццфихфгггхххгеецбцбю©ю╪©юабцбацбцеффгилхгггедцефецдххфхйлмллллйиииииййиххгггггфдцбббба©©юабббаа©╫╪╫©юаацффгггеддццбцццдцбю©╬╬╬╪╪╫╫╪╪╬а╬╬╫╬╫╪╨╦╧╨╨╧╦╣╞╘ё═≥▀|vsopprx}┌┤▀≈ °·╖╢╩╩╫╨╥╤╤╤╣╢Ё╢╣╤╣╞╖║╒═·⌡ ≤≈√⌠⌠▓▐▄┼┴┴└└└┐┌─~}}|yuttsqmljhfc`^[YUSQPPOLKIGEDBA@?><;9864320.,+*(&$!						
+	
+
+
+
+"%(*,,,.0124679;<=>?ABCEFJKLMOQRSTVY[^`bdghijloruwxz|~─│┌┘├┴▀▄█▌▌░⌠√≤≥ °·÷═║╓╛╣╥╣ЁЁЁЁЁ╢╤╥╩╪╪╣╘║²≤■░▀┤├┘└┐┐■║╕╘╛╝╞╠╠╢╤╥╥╥╧╫╬╬©©юбцбдеццфххийййййййккккллммлллнопонопппооопопяяпоопяяяяррссярстуутсжжуттужьжжвввжжжьььызшзышшзззззшзызшшззшшэщщщэээщшшщчщэщчччччччччъЮЮъъъЮъъъЮЮЮЮЮББЦЦЦЦЦЦББЦЦЦЦДДДДЦЦЦЦДДЦЕЕЦДЕЕДЦДДДЕЕДДДДДДЕЕЕЕФЕЕЕЕФФГЕЕДДДДДДБЦДДДЦЦЦДДДДДДЕЕДДДДДДДДЦДЕДЦЦДДДДЕЕЕЕДДЕЦЦЕЕДЕФФЕЕЕЕЕЕФДЕЕЕЕФФФЕЕФФЕЕЕФФФФФФФФФГГГГГГГХХХХХХХХХХИИИЙКЛКККЛЛЛКЙИККККККККЛЛЛЛЛККЙЛКККККККЛЛЛЛЛЛККЙКЛНННМЛММЛЛЛЛЛМЛММНММЛЛКЛЛЛЛЛККЛЛККККККЛЛЛЛЛЛЛЛЛЛЛЛЛМММЛЛЛКЙЙКЛЛКЙЙЙККЙИИИИХХХХХХИИИГДЦБАчзьжужтсссяоопноонмкккклмнонмлмииифц©╨╢╡╟╟╠╟╝╝╞╞╟╠╡╢╢╣╣╢Ё╢╤╥╧╩╧╨╨╨╩╪╪╫╫©аццбаю©╪╩╪╫╨╨╩╫╬©©©©аббегфдддддеееедццццбааюююббццдеефхфегйккиихххихфдцддцаюабдефгфеедфххггиййлйиигедедеффггиигймннлкйкккийкйхиииииххгхедддбаб©©юбццббба©╬╬юбцефгхххгфдццдбабеедцаю©╬╬╫╫╫╫╫╬©©╬╫╪╪╩╪╪╫╦╪╬╩╨╧╢╜╔╒·√├ysqlrvz│├┼▌√⌡°÷╘Ё╧╪╬╨╤╣╤╣╣╣╣╢╤╦╢╛╓║║═·²⌡≥≈∙⌠▓▒▐▌▄┴┤├┘└│──~|{{yvtsqonjgfda^^ZYXVSQOMHHGGFDA??>=;:976431/-,++'%" 			
+
+
+	"%'*+,,.0024579:<=>@ABCEFJJKMNPRSSUX[]`cefgijlortwxz|~─│┌└├┬┼▀▄█▌░▒■≈≥⌡°²·═║╓╛╢╦╤ЁЁЁ╡╡╢╤╥╩╪╪╣╙╒²≤⌠░▄┬├├┘└▀⌡╖╙╛╝╞╠╠╡╣╧╨╧╧╨╫╬©©юабцацддегиииийкккййккклллллмммнооонооппооппопяяппппяяяяяярряррсстттжжжжжжжвввввввввьььызззызззыззззшззшэшшэшэщщщэээщшшщчщщчччччччччъъЮЮъъЮЮЮЮЮЮЮЮААББЦЦЦЦЦЦЦЦЦЦЦЦДДЦЦДДДДЦЦЦЕЕДДЕЕДДДДЕЕЕДДДДДЕЕЕЕЕЕЕЕЕЕЕФФДДДЦДДДЕЦДДДЦЦДЕЕЕДДДДДДДДДДДДДДДЕЕЕДДДЕДДЕЕЕЕЕДЕДДЕЕЕЕФЕЕЕЕЕЕЕЕДДЕЕЕФФФЕЕФФЕЕЕФЕЕЕЕФФФФГГГГХХХХИИХХХХИИХИИИИКККЙЙКЛЛККЙЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛЛККККККККЛЛЛКККЙКЛМНММММММЛЛЛЛЛЛМММММЛЛКККЛЛКККЛЛККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЙКЛЛКЙЙЙКЙЙИИИИИХХХХХХХХФДБАЮщзвууутрпяяпонннннлкййийклллккмйииеб╬╦Ё╠╞╞╞╝╛╚╜╜╜╜╝╟╠╡Ё╠╠Ё╣╤╦╩╧╨╨╩╩╪╪╫╫©абаю©©©╪╨╪╪╩╨╪©©ю©╬╬©юцегеддедцддееееддцццбааацццдефффгггхйкккиххийигдфедддеффхиииихххиклйиклллкиихфеффгггггхииймннмллклкййкйхииииихххифееецбббаббццббааю©юацдеффггфееддддбабеддцбаю©©©©╬╬╬©©©©╬╫╫╪╫╫╫╧╩╪╨╧╧╤╠╙╓═≥▄unlqvz│├┴▌≈⌡²║╙Ё╦╩╬╨╥╤╤╣╣╣╢╢╣╥Ё╚ё║║═·²° ≤√∙⌠▒▌█▄┼┴├┘┐│─~|{{xutsrpnjgec`]]YXVTSPNLHHGGFDA??><;:9765420-,++&$" 			
+
+
+	
+!$&)+,-.0023568:;=>@ABCEFIIJLNPSTRTWZ]`cefgikmoqswx{|~│┌┐┘┤┴┼▀█▌░░▓∙≥⌡°°·÷═ё╚╢╦╥ЁЁЁ╡╡Ё╤╦╩╩╩╣╙╒·≥■▒█┼┬┤┤┤■╒╚╚╛╜╝╟╡╢╥╩╪╪╪╫╬©юааабббцдегииххийклкййккллмлллнмммнооооооопппппяяпппяяряяяяяррссррстужужвввжжжвввьььввьььыыззыыыыыызззэшшээээщшэщщээээщээччччъччччччччъъЮЮъъЮЮЮЮЮЮЮААБББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДЦЦДДЕДДЕЕДДДДЕЕЕЕДДДДЕЕЕЕЕЕЕЕЕЕЕЕЕЦЦЦЦЦДДЕДДДЦЦЦДЕЕЕЕДДДДДДДДДДДДДЕЕЕЕЕЕЕЕДДЕЕЕЕЕЕЕДДЕЕЕЕГЕЕЕДДЕЕЕДДЕЕЕЕЕФЕЕФФЕЕЕФФФФФФФФФГХХХХХХХИИИХХИИИХИИИИККЙЙЙККЛЛККЛЛЛЛЛЛЛЛККЛЛЛЛЛЛЛЛЛККККЛККККККККККЛЛММННМММЛЛЛЛЛЛЛМММЛЛКККККККККККККККЛЛЛЛЛЛЛЛЛЛККЛЛЛЛЛЛКЛЛЛККККЛКЙЙЙЙЙЙИИИИИХХХГГХХГФЦБЮчэывуттуянояяомнннмлййихиййиийклийхдю╪╥╡╟╝╞╝╛╘╗╚╙╙╘╙╛╜╝╞╝╞╠╡╢╤╧╧╧╨╩╩╪╫╫╫©ббю©╬©©╪╩╪╪╩╪╬ююю©╬╬©©цефдцдеецддеееееддддццббццдефггггхийкклллкйлммйхигфгикккйкккйййймоомкклмлкййиххиииихххийклмнннноллкйкккииииииихххфееецбаццццдеддбааббдефффгггфедееддббцедццбааааюююю©©©©ю©©╬╬╬╬╬╩╩╨╨╨╧╦╤╝╕═°⌠┘vilqu{│├┼▐≈ °║╚Ё╤╧╬╨╥╤╣╢╢╣╢╢╣╥Ё╙ё║══·²°⌡≥≈∙⌠░█▀▀┼┼├├└│─~|{zwtsrqonjgec`][XVTRRPMKHGFFDC@?>=;:9875431/-,+*&$!						
+
+
+
+
+ #%(*,-/0023568:;=>?@ACEFGHJMOQRSRSVY\_bdegikmoqrwx{|}~─┌┌└├┬┼▀█▌▐░▓∙≤⌡°²·÷═╒╘Ё╥╥╢Ё╡╠╡Ё╤╦╨╨╨╤╚ё· ∙▓▐▄┴┬┴▄°╖╜╛╛╛╝╟╢╤╧╩╫╫╬©©юабббббееефхихфийкллкйийклммммлннмммннопонопяпояяппппярссрррррсттсстужвтужжжуужввььььввььььызыыыыыыззшшэшшээшэщэщщщээээщщщчъъъЮччччъъъъъъЮЮъъЮЮАААЮААБЦБББЦЦЦЦЦЦЦЦЦЦЦЦЦЦЦДЕЕДЦЦДДДДДЕЕЕДЕЕЕЕЕЕЕДЕЕЕЕЕЕЕЕЕФФЕЕДДЦЦЦЦЦДДЕЦДДЦЦЦДДДДДДДДДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕФДДЕЕЕФФФФЕЕФФЕФГЕЕЕЕЕЕЕЕДДЕЕЕЕЕЕЕЕФФЕЕФФГГГГГГГГХХХХХХХХИИИХХИИИХИИИИЙКЙЙЙККККККЛЛЛЛЛЛЛЛЙККЛЛЛЛЛЛЛККККККЙККККККККККЛЛМНННМММЛЛККЛЛМММЛЛЛКККККЛЛЛКККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЙКЛМЛКККЛКККЙЙЙИИИИИИИИИХХХХГФЦАъчшывжттжропяпнмнннмлкйиийййиийккийхцю╪╥╠╞╝╝╝╛╘╗╙╙╘╘╘╙╚╛╛╛╜╞╟╠╢╤╦╧╨╩╪╫╫╫╫©аа©╬╬©©╫╩╪╪╪╫©©©©юююаацдеедеееееееееддееддцццццдефггхххиккккллмммноолййийкмнннммммлллмноомкклмлййкйийклккйийклмноопооомлккккйииийййииихгффедбабцццегхгццддефггфггххгфефеедцбдедццбааааюаааааюююю©╬╬╬╬╬╫╨╧╩╩╧╦╧╠╗╒·√┼xhmquz┌├▀▒≈≥ ═╚╠╣╦╫╧╤╣╢ЁЁ╢╣╣╤╥╡╙╓╒║═·²° ≤≈■▓▐▄┼┼┴┴┤├└│──~}{yvsrrpnnkhec`\ZXURQQPLIGFEDCA?><;:9875431/-,+)(%# 								
+
+
+
+
+"$'*,.//024568:;<=>?@BDEFGJNPQRRRTVX[^acefikmoqrvx{||~─┌┐└├┬┼▀█▌▌▒■√≤≥°·÷══╒╗╠╤╤╢Ё╡╠╡Ё╤╦╨╧╨╤╛╓÷ √■▒▌▀┼█▓╓╛╞╝╞╞╠Ё╥╦╨╩╪╬©а©юббббббеефгиихгйклллкйиийлмннммннммммннпонопяпояяпоппярссрррррссттуужжжжжжжуужжжввьььввььььыыыызззззшшшшзшээшшээщщщээээщчччъъЮЮъъъъъъЮЮъъЮЮъъЮЮАААААББЦББББЦЦЦЦДДЦЦЦЦЦЦЦЦДЕЕДЦЦДДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕФФЕЕДЦДДДДДДДДЦДЕЕДДДДЦЦЦЦДДДДЕЕЕЕЕЕЕЕЕЕЕЕЕФФФЕЕЕЕЕФФФФЕЕФФЕФГФФЕЕЕЕФФЕЕЕЕЕЕЕЕЕЕФФЕЕФГГГГГГГГХХХХХХХИИИИХХХХИИХИИИИККЙККККККЙЙККККККККЙККЛЛЛЛЛЛККККККККККККККККККЛЛМННММММЛЛККМММММЛЛЛЛЛЛЛЛЛЛЛКККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЙКММЛЛККККККЙЙИИИИИИИИИИХХХХГЕЦБъщшывжутжсяппнммнммллйиийййииийлйийхда╫╥╞╜╜╝╝╛╘╗╘╙╙╙╙╙╙╙╚╚╛╝╞╞╠Ё╥╦╧╨╪╫╫╬╫©юю©╬©©©╫╪╪╪╫╬юююююабццбцдфффдцееееедддфедцбцддддефгхххийллкйккллмннмлййлнппоооппппооопнннмлклмкййккйклммллклнпопяяяяонмлкккйййййккййййххгффецабцддфийиефффггггфгххххгфефедццдеддцбааааююаббббаюю©©╬╬╬╬╫╨╨╩╩╧╦╧╢╜╕╒ ▌~omqty─┘┼▓≈≤≥═╚╠╣╨╩╦╤╣╢ЁЁ╢╣╣╤╤╠╘ё╒║═·°⌡≥≈∙⌠▒▐█▀┼┴┬┬┤└│──}zyvsrrpmnkhec`]ZWUQPPOLIHGEDBA?><;:8765421/-,*)'%# 
+			
+				
+
+
+
+"$'),-./0135679:;<>?@ACEEGJMPQQQSTVXZ]`befhjlnqsvx{{|}─┌┐┘┤┬┼▀█▌▐▒∙√≈≤⌡··══╒╗╟╣╣ЁЁЁ╡╡Ё╤╦╨╧╧╤╜╓÷⌡≈■▓░██⌠ ╘╝╟╞╠ЁЁ╣╧╨╩╩╩╬©ююабббббцддехййййкклллкййййклмнннмнннммнопооопппояпоопяярряяяяярррртужуутввввжжвьжввььььвыьььыыыышшшшшшээшззээшшэээщщээээщчъччъъъъЮЮЮЮЮЮЮъЮЮЮЮъЮААААББББЦЦББББЦЦЦЦЦЦДДДДДЦДДЕЕДДЦЕДДЕЕДЕЕЕЕФФФЕЕЕЕЕЕЕЕЕЕЕФФФФЕЕДДЕЕЕДДДДДДЕФФФЕЕЕБЦЦЦДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕФФФФЕЕЕЕФФФФФЕЕФФЕЕГФФФЕЕФФФЕЕЕЕЕЕЕЕЕЕФФФФФГФФФФФГГГХХХХХХИИИИХХХХИИИЙЙИИККЙЛККККЙЙЙККККККККККЛЛЛЛЛЛЛККККККККККККККЛЛЛЛЛЛММНММММЛЛЛКММММММЛЛММЛЛЛЛЛЛКККККЛЛЛЛЛЛЛЛЛЛЛММЛЛЛЛЛЛЙКММЛЛЛЛККККЙЙЙЙИИИИИИИИХХХГГЕЦАъэыввжуутсяпнллммллккйихкйиииййккиихдц╬╤╝╛╚╜╜╚╙╘╘╙╚╚╚╚╙╙╛╛╜╝╝╝╞╠╣╤╦╨╪╫╬╬╫╬©©©©©©©╬╬╫╫╬©абааабцццббцфгфдццццдеееефедцбцдееефгххххйкллкййкмнппнмллкняряпоопяяяппппомммнммнлййкккклммнннояряярссрпонлкккйййкккккййиггфеддцадфффгйкиггххххххггххххгфеффееееееддцбаааюабццццбююю©©╬╬╬╫╩╨╩╩╧╥╦╢╞╙╓⌡▒└wpqsw~┌┴▒≈≤⌡ё╜╠╣╪╨╦╣╣╢╡╡╢╣╢╣╣╟╖╒╒═÷·° ≤√■⌠▓░▌█▀┴┬┤┤└│~|{yvssspmmkheca]ZWURPONLIIHFDCA@?=<:9865431/-,+)'$"
+							
+
+
+
+
+	
+!#%)+---01245689;<>?@ACEFGIKMOPPRSUWY\_adfgiknrtvx{{{|┌└┘├┬┴▀█▌░▓■∙≈≤ °²÷═╒╗╟╢╣ЁЁЁ╡╡╢╤╥╩╧╧╥╜╓÷⌡√■▓▒▐░≥╒╚╝╝╞Ё╢╢╣╨╪╫╪╪╬©╬юаааабцдддехиийлккккккллклллмммммнооннооппппооооппоопяяяяяяяяярррртуууутвьььввввжвьыыыььзыььыззышшшшшшшээшшэщээщээщээээщщъъчщчъчъЮЮЮЮЮЮЮъЮЮЮЮЮЮАААББЦЦББЦББББЦЦЦЦЦЦДДДДДДДДДДДДДЕДДЕЕДДФФФФФФЕЕЕЕЕЕЕЕЕЕФФФФЕЕЕЕЕЕЕДДДЕЕЕЕФФФЕДЕЕЦЦДДДЕЕЕЕЕЕЕЕЕЕЕФЕЕФГГГФФФФЕФФФФФЕЕФФЕЕФФФЕЕЕЕФФФФФФФФФФЕЕФФФФФГФФФФФФФГХХХХХХХХИИИИИИИИИЙЙЙЙККЙККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛЛККККККЛЛКККККЛЛЛЛЛМММММММММЛЛКНМММММММММЛЛККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛМЛЛЛЛЙКЛКЙЙЙЙИИИИИИИИХХГГФЕЦАчшвуууутсряпнлмнммллллйилкийкккйлйигед╬╣╟╜╛╜╜╛╙╙╚╚╚╛╛╚╚╚╛╜╝╞╝╜╞╠Ё╣╥╧╪╫╬©╬╬╬╬╬╬╬╫©©©©╬©юацбаабцббцабегфдцбцццдеееееедддддфггхииххййклллккнясромнонояяяяяпппяяппппянлнпоннлккллклмнноппярссрррсряпомкккййкккккййииггфддедбфххгиккхххххххииииййихгфефгффггеееддццццббцдддццаааюю©©╬╫╩╨╨╧╧╦╦╢╟╛╕²∙┼uutx}│┬▒√≤²╖╞╟╢╩╧╥╤╣╢ЁЁ╣╣╢╣╢╞╖╒╒═÷²° ≤√∙■▓░▌█▀┴┬┤├┐─~~}{yxussrolkjhdca^ZWURPNMKIIHEDBA?>=<:8764331.--+)'#!								
+
+
+
+
+		 "%(+,,,/0234679<=>?@BCEGHHJKMOPQSUWY\`bdegiknrtvx{{{|┌└┘├┬┴┼▄█▒▒▓■≈≥  °·÷╒╗╟╣╣ЁЁЁЁЁ╢╤╥╩╦╧╥╝╓÷ ∙⌠▓▒░⌠²╖╝╞╝╞╢╤╤╤╩╫╬╫╫╬╬╫юаааабцдеефххгикйййкклммммллллмммнппооопппяпоноопооопяяпяяяяррсссстужжжужвьыьвжжжвьызыыьзыььыззыэшшшшшшшщээщщэщчшэээээщщщъъчщччщъъъЮЮЮЮЮъЮЮЮЮЮЮАЮАБЦЦЦБАЦЦБББЦЦЦЦЦЦДДДДДДДДДДДДДЕДДЕФДДФФФФФФЕЕЕЕЕЕЕЕЕФФГФФЕЕЕФФДДДДДЕЕФЕЕЕДЦЦДЕЕЕЕЕЕЕЕЕФФФФФФФФФФЕФГХГГФФФФЕФФФФЕЕЕЕЕЕФФЕЕЕЕЕЕФФФФФФФФФЕЕФФФФГГФФГГГГГГХХХХХХХХЙИИИИИИЙИЙКЙЙКККЙЙЙККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЙЛЛЛККККЛЛЛЛККККЛЛЛММММЛЛЛЛМММЛЛЛНННМММММММЛКККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККЛЛЛЛЛЛМЙКЛКЙЙЙЙИИИИИИИИХГГФФДБЮщзжссттстряпоннпонммнмлкмлййлмлймкигед╬Ё╡╞╜╝╝╜╚╚╜╜╛╛╛╛╜╜╛╜╞╟╞╝╞╠╡╢╤╧╪╫©©©╬╫╫╬╬╫╩©ююю©юаабааабццбдаадффедддцццддддефффедцгххиииииийклмммлмятсолморпппрсряярссрряярнлнппнммллллллмнопяярсттряярссрпмлллййкккккйиххййхффххффийиймлихххххиийкллкйигфегхгхихееедддддецдееедцббббааюю©╫╪╨╦╦╧╧╦╤╡╞╘║ ░┘yywy~│┬▓∙≤·╘╟╞╡╧╧╥╤╣╢Ё╢╣╤╣╤╣╞╖ёё÷·²° ≥≈√■▓▐█▄┼┴┬├┘┌}}|{xvtrrqnjjjgdba^ZVUSPNLJIHGDBA@>=<;97642120.,,+(&# 					
+			
+		
+ "$')+++,.034678<=>?@ACDFGIJKMOQRTVXZ\^`acgjmoqsvxz{}─│┐├┬┬┴▄██▐░▓∙≤ ⌡°÷÷═║╕╜╡╢╢ЁЁ╢╢╢╣╤╤╧╧╤╠╖·°≤√⌠▓▓≤╒╚╞╝╞╡╢╢╣╥╨╩╫╬╬╬©©юаабцццбцфииххйлйккклллллкккклммлмнооопяппппппппопяярряяярррррстсттууууужвьыььввжвызззыьыьььзэшшззшшшшшшээшшшээщчщщщщщччщчъЮЮъччЮЮЮАААЮЮАЮЮЮЮБЦДААББЦЦЦЦБЦДЕДДДДЕЕДДДДДДЕЕЕФФЕЕЕЕФЕДДФФФЕЕФФФЕЕФЕФФФФФЕЕЕФФЕДДЕФДДДДДЕЕЕЦЕЕДЦДЕЕЕЕЕЕЕЕЕФЦДЕФГГГФГГГГГГГГФГГГФЕЕЕЕФФФФФФЕЕЕФГГФЕЕЕЕЕЕЕЕФФГФФФФГХИГГГФФГГГХХХХХИИИЙЙИИИИИХЙЙЙККЛЛЛКККЙКККЛЛЛЛМММММККЛЛЛЛЛЛМЛЛММККЛЛЛЛЛЛЛЛЛКЛЛЛМЛЛЛМММММММММММЛЛЛММКЛЛЛКККЛЛККККЛММЛЛЛЛЛЛЛЛЛММММЛЛЛЛЛЛЛЛЛЛЛМЛККЛЛКЙКЙИИЙЙЙЙЙИХФЕБЮчзьууужжжсрппоооннннннннномккммлкййхгеа╩╥╞╟╠╠╝╚╙╚╝╝╝╞╝╜╜╛╚╛╝╞╞╟╡ЁЁ╢╣╥╨╪╬©©╬╫╫╫╪╪╪©©юю©©юаюааабеедцдццдедцбцддццдеефффеддеххйлмккнмлклмннмястроноррррррртуссссссссяяяоннопнмммноонппяярссссрррряяяноонлклмкклмлиийххгггхггфкмкйкйхигггггхйккккйигфхггггггфффеддеефдфгфдедцддцца©©аю╬╩╥╤╦╧╦╧╤╡╚╓°⌠▄┘yv|│┼▓≈≈²╖╜╟╢╨╨╦╤╣╢ЁЁЁ╢╣╣╢╜╕║║║═² ≥≥≈■▓░▌█▄▀┬┤└└┐│|{zxwusqponlkhc`^[XWUSQOLIGGFDB@>=<;:8654322/,+++)&" 										
+
+
+
+
+ #&)+,,-.124578;<>?@ACDEGHJJLNPRSUWY[^`acgjloqruwy{|~─┌┘┤┤┬▀▄▄▐▒⌠∙≈≤ ⌡·÷÷║╔╛╡╢╢╡╡╡╡╡Ё╢╤╧╧╤╠╗÷²√∙⌠⌠■⌡╕╞╠╟╟Ё╢╢╤╦╨╩╫╬╬╬©©ююабццццдфиииикмкллллмммлллкллммннооооопооооооооопяррряяярррррсттттууууужвьььввьвьыззыыьыыыыззшэшшшшшшэээшшшшэээщщщщщчччщчъЮЮъъчъъЮЮЮЮЮЮЮЮЮЮАББЦААББЦЦЦЦЦДДДЦЦДЕДДДДДДДДЕЕЕЕЕЕЕЕЕФЕДЕФФФЕЕФФФФФФЕЕФФФФФФЕФФЕЕДЕФЕЕЕЕЕЕЕФДФФЕДЕЕЕЕЕЕЕЕЕФФДЕФФГФФФГГГГГГГГФГГГФЕЕЕЕФФФФФФЕЕЕФФФФЕЕФФФФФФФФГФФФФГХХГГГФФГГГХХХХХИИИИИИИЙЙЙЙИИЙЙККККККККККЛЛЛЛЛЛЛЛММЛЛЛЛЛЛЛЛМЛЛМЛККЛККЛЛЛЛЛЛЛЛЛМММММММММММММННММЛМММКЛЛЛКККЛКККККЛЛМЛЛЛЛЛЛЛЛЛММММЛЛЛЛЛЛЛЛЛЛЛЛЛКККККЙКЙИИЙЙЙЙИХГЕЦАчщывутууууряппппоооонммнооонллммлккигеб╬╩╦╡Ё╢╢╡╝╝╞╞╞╟╟╟╟╞╞╜╝╞╟╟╠╡ЁЁ╣╥╧╧╩╬ю╫╬╬╫╪╩╪╪╬©©©╬©юаабббцефддддцдеецццддддееефггффффхийллкклмлллмнонпрсряпрсрстттуужсттттсссссряппярпооопяяяяяррссттсссрряяяооонлллллллмлйийиииййиихфкмкйкйххгхихгхйкклкйигфхггхххгфффффффффдфгфеедцедддб©©юаю╫╨╧╩╩╨╨╧╣╝╕÷≈▒┴~z}~┌▀▓∙√²╖╜╞Ё╧╨╦╤╤╣╢╢╢╢╢╣Ё╜╕╒╒║÷² ≥≤√⌠▒░▌▄▄▀┴┤┘┘┐┌─~|{xvtrpomljjgc`^[XVTRPNLIHFEDB@?=<;:8654211/,++*'%" 										
+
+
+
+
+"%(+,-./123578:;=>?ABCDFHIJKNPRSTVWZ]`bdgilnpqtuxz{|~│└├┤┬▀▄█▒▓■∙√≤ ⌡²·÷═╓╚╠ЁЁ╡╠╡╡╠╠Ё╣╧╦╤╡╙═²≤√■∙≥═╙Ё╡╠╡Ё╢╣╥╧╧╩╫╬©©©©©юаббццдфгиййклмлллммммммммллммноооонннооооооооопяярррряррррррстттуужжжжужвььвььвьыызыыьызшзыышэээшшшээщшшшэээээээщщччччччъЮЮъъчччъъЮЮЮЮЮЮААААББАБББЦЦЦЦДДДЦЦЦДЕЦДДДДДДДЕЕЕЕЕЕЕЕЕФФЕЕФФФФФФФФФФЕЕЕФФФФФФФФФЕЕЕЕФФФЕЕЕЕЕФЕФГЕЕФФЕЕЕЕЕЕЕФФЕФФФФФФЕГГГГГГГГФГГГФЕЕФФФФФФФФФФФФФФФФФФФФФФФФГФФФФФФГГГГГГГГГГИХХХХХИИИИИИЙЙЙЙХИИЙККККЛККККЛЛЛЛЛЛЛЛЛЛЛМММММММММЛЛЛЛККЛККККЛЛЛЛЛМММММММММММММММННМММЛЛЛККЛККККККККККЛЛМЛЛЛЛЛЛЛЛЛММММЛЛЛМЛЛЛЛЛЛЛЛЛКККККЙКЙИИЙЙЙЙХГЕДБЮщшьжтсттттряпппппппонммнопнннммлкккифб©╫╩╨╣╣╤╥╣╠╟╠╞╟╟╠╠╠╠╠╟╠╡╡╡ЁЁ╢Ё╤╧╧╧╨╫а╪╫╬╫╩╨╩╫╬╬╬╫╫╫©юабббцееддедддфедцдддееффефггггхххйккйккйлмммннопярссссстрсужжжжжттуутттсссряппяряяяярссссссттууутттсряпппонммлкклллмлйийгхйййиххгкмкйкйигхийигхйллккйихггггхххгффггхггффеггфееедееддцю©©ю©╫╨╨╨╨╧╨╪╧╠╘╓²≈░├}~└█▓■√·╗╜╝╡╦╨╦╤╤╣╢╢╣╢╢╢╡╛╕╒╒║÷² ≤≤∙⌠░▐█▄▄▀┴┤├┘┐│─|zxvtqpnljhgeb`]ZWTSQOMKIHEECB@?>=;:8653211/-,+)&#"										
+
+
+
+
+
+"%(*,./01234789:<>?@BCDFGIIKMOSSTUWZ]`bdfikmopsuwyz{}┌┐├┤┴▀█▌░▓⌠■∙√≥⌡°²·÷ё╙╟ЁЁ╡╡ЁЁ╡╡Ё╣╧╦╣╡╚║²°≤√≥÷╕╝╢╡╡╡Ё╢╤╦╧╧╨╪╬©©©©©юаабцдеххийклллмллллммммннммммноопоннноооооооппяяяяярррррррррстсттуужжжужвььььыььыыыыыыызззыызшээшшшшэщшшээщщээээщчччччччъЮЮъъчччъъЮЮЮЮЮААБААААББББЦЦЦЦЦДДЦЦЦДЕЦДДДДЕЕЕЕЕЕЕЕЕЕЕЕФФЕЕФФЕФФФФФФФЕЕЕФФФФГГФФЕЕЕЕЕЕФФЕЕЕЕЕЕФГГФЕФФЕЕЕЕЕЕЕЕФЕФФФФФФФГГГГГГГГФГГГФФФФФФФГГФФФФФФФФФФФЕЕЕЕФФФФГГФФФГГГГГГГГГГГИИХХХХИИИИИИИИИИХИЙКЛЛЛЛКККЛЛЛЛЛЛЛЛЛЛЛЛЛММММММЛЛЛЛЛЛЛЛКЛКККККЛЛЛЛМММММММММММММММННММЛЛЛЛККККККККККККККЛЛЛЛЛЛЛЛЛЛЛММММЛЛЛМММЛЛЛЛЛЛЛЛККККЙКЙИИЙЙЙЙХГЕЦАчэзьжтсттссряяпяппоппонннооннонмлккйгцаю©╫╪╥╥╥╥╣╡╟╟╞╞╟╟╟╟╟╟╡Ё╢╢╣╣╤╤╣╤╦╦╧╨╪©╪╪╪╪╩╨╩╪╫╫╫╪╪╪╬©юаабцддцдееддеедцдддеефгффггхххииклййккимнонннояттттттттстужууужууууууууссряяяярррррстттууууужжжжуутсряппомлллкйллллкйиифхйккихгхйлкйййихийкигхкллкйиххггггхххгфггхиихгфгггфффеефееецю╬╬╫╫╪╨╧╧╦╦╨╫╩Ё╚╕║°∙█└~}┘▌▒⌠≤═╘╜╞Ё╦╧╥╣╣╣╢╢╣╣╣╢╟╙╔╒╒═÷°≥≤≈∙▓░▌▄▀▀┼┴┤├└│──~{ywvsqpnljgecb`]ZWTSQNLJHGDDCB@?>=;97643100/-,+)&#!										
+
+
+
+
+
+"%'),-/011246889;=>@ABDEGHIKMOSTTUVY]`bdfhjlnortwyz{}│┐┘┤┴┼▄▌▌▐▒▓■√≤ °²·÷ё╙╟ЁЁ╡╡ЁЁЁЁ╢╣╧╦╣Ё╛╒°·≥≤°╓╛╟╡╠╠╡Ё╢╥╧╧╦╧╩╫©ююю©юааабдеииийклкклллкккллммнммлмннооонноооооппппппппяяяярррсрррстссттуужжжвььььызыыыыыыыызыыызззыэшшззшэщшээщщщщщэщщччччччъъЮъъъчъъъЮЮАААЮАБББАААБББЦЦЦЦЦБЦДЕДДДДДДДЕЕЕЕФЕЕЕЕЕЕЕЕЕФФЕЕФФЕФЕЕЕФФЕЕЕЕФФФФГГФФЕЕЕЕЕЕФФЕЕЕЕЕЕФГГЕЕФФЕЕЕДДЕЕЕЕЕЕФФФГГФФФФФФФФФФГГГФФФФФФГГГГФФФФФФФФФФЕЕЕФФФФФГГГГГГГГГГГГГГХХИИИХХИИИИИИХХХХХХИЙКЛЛЛЛККЛЛЛЛЛЛЛЛМММММММММММЛЛЛЛММЛЛЛЛЛКККККЛЛЛЛМММММЛЛММММММММММММЛЛКККККККККЙККККККЛЛЛЛЛЛЛЛЛЛЛММММЛЛЛММММЛЛЛЛЛЛЛККККККЙИИЙЙЙЙХФДБЮчэзьжттттсрсряяяпонооооонннноонмкййифбабб©╪╨╧╦╦╤╡╞╝╞╟╟╟╞╞╞╞╡╡Ё╢╣╥╥╦╤╤╤╥╦╨╪╪╪╩╨╩╩╪╩╩╪╪╪╪╩╪╫╬ааацдддццддццдеддццдееффгггхххиийллййллйнопооопяуууужжуужжжуттужуужжжвввжутсссссрссттуужжжжжжжввввжутряяонллллкйллккййиигикллкйиийкййййиййййихиллккйихгггффггггфгхиииихгххгггффффедецю©╬╬╬╫╫╩╨╧╧╨╫╪╣╜╘╔║ ▓┴│├▌▐⌠≤╒╙╜╝╡╦╨╥╤╤╤╣╣╤╤╤╢╞╗ё║║═÷°≥≤≈∙▓▐▌▄▀▀┼┴┤├┐│──~{yvtrppnljfdba`]ZWTSQNKIGGDCBA@>==:976431/.-,++(%# 
+										
+
+
+
+
+
+
+"$&(+-./01246789;=>?@ACEGHIJMOSSTUVY]_bcegikmoqtwxyz}─│└├┬┴▀█▐░▒⌠√≤ ⌡⌡²·÷ё╘╟Ё╡╠╠╡Ё╡Ё╢╣╧╦╣╢╝ё²°  ║╘╞╠╡╠╡ЁЁ╣╥╧╧╦╧╩╫©юююююааабдфииийккккмллккккклмнмллмнннооооопоооппппппппппяррррссррстсстттужжжвьььыызыыыыыыыышыьызшзыэшшшшшээээщщщчччщчччччччъъъЮъъъчЮЮЮЮЮААБЮБЦЦБАББББЦЦЦЦЦЦБЦДЕДДДДЕЕЕЕЕЕЕФЕЕЕФФЕЕЕЕФФЕФГГЕЕЕДЕФГФЕФФФФФФГГФФЕЕЕЕЕЕФЕЕЕЕЕЕЕФГФЕЕФФДЕЕЕЕЕЕЕФЕЕФФФГГГФФФФФФФФФГГГГФФГФГГГГГГФФФФФФФФФФФФФГГГГГГГГГГХХФГГГХХХХИИИХИИИИИИИИХХХХХИЙККЛККЛЛЛЛЛЛЛЛМММММНННМММММММММММЛЛММЛККККЛЛЛЛММММММЛЛММММММММММММЛЛККЛККККККЙККККККККЛЛЛЛЛЛЛЛЛММММЛЛЛММММЛЛЛЛЛЛЛЛКЙКККЙИИЙЙЙЙХФДАЮчэшьвуууутрсряяппонмнноонммоннмлкййифццддю╫╫╩╧╧╥Ё╞╝╠╠╠╟╟╞╞╞╟╠╠Ё╣╤╥╥╥╤╣╤╧╩╩╩╫╩╨╨╪╫╪╩╪╫╫╫╫╫╬©бббефеддцддцбдддддцдееффххгхииииклкккмммпппппяяртуужвьввььвжужвьжжжввььвжуттттсстужжжжвввжжжжжввввжжусряпоммллккклкййкйихикккййкййййййййлкййиийллккййхгггффффггфгхххиииийихххггхфддддаюю╬╬╬╬╪╨╧╨╪╫╪╦╠╜╘╖═≤▐┤┐┬▌▌▓≥ё╙╛╜╡╦╩╦╥╥╥╤╤╤╥╥╢╝╖ё║══÷°≥≤≈∙▓░▌▄▀▀┼┴┤┘└┌│─~{yurpoonkhgdba`]YWTSQNKHGFDCB@?=<;9875420/,++*)&$"											
+
+
+
+
+
+ #%'*,-.01245689<=>?@ACDFGHJLNRSSTVY\^acegikmopsvxxz|││┐├┬┬┼▄░░▒■≤ ⌡ ⌡²·÷╒╘╞Ё╡╠╠ЁЁ╡╡Ё╢╦╦╣╣╟╕÷°²║╖╜╞╟╡╡╢╣╣╤╦╧╦╦╦╨╫©ааююаббабегхийккллмнмлккклллмннмлмонооооноооооопппппппппрссррссрссттттттужжжвььььыззыыыыыыззззззшшшшшшэээээээээщщччъъъчччччъъъЮъъъчЮЮЮЮЮААААБЦЦБАБДЦЦЦЦЦЦЦЦЦЦДДДЦДДЕЕЕЕЕЕЕЕЕФФФФФФЕЕФФФФГГЕЕДДЕГГФЕФФФФФФГГФФЕЕЕФЕЕФЕЕЕЕЕФФГГФЕФГФДФЕЕЕЕФФФФФФФФФФФГГГГГГГГФГГГГФФГГГГГГГГГФФГГГГФФФФФГГГГГФФФГГГХХФГГХХХХХИИХХИИИЙЙЙЙЙЙЙЙЙИЙКЛМЛЛКЛЛММММММММММННННМММММММММННМЛММЛККЛЛЛЛЛЛМММММММЛММММММММММММММЛЛЛЛККЛЛККККККККККЛЛЛЛЛЛЛЛЛММММЛЛЛМММММЛЛЛКЛЛЛКЙКККЙИИЙЙЙЙХФЦАъчэшьвуууутрряяпппонммммммммонллллкйхгфедбю╬╬╪╨╨╦╢╟╝╠╠╠╟╟╟╞╞╟╟╠╡╢╤╤╤╥╥╤╥╧╩╪╫╫╪╩╩╪╫╫╪╫╬©©©©©юббцфгеддцддббцддееддефффххххйккклкйлмнопяяяястттужввььььввььввьыввььььввутсссссружвввввьвжжуужжвжжжуусрряяпнмкккклкйклкйхйкйиийлккййййккмкйкккйкллллкихгхфеефгггхгггхиййлйхииххигедддцбб╬╬╬╬╪╨╧╩╪╪╩╧╣╟╛╛╕·√▌┴▀▌▌▓ ╓╙╚╜╡╦╨╦╤╤╤╣╣╤╥╥╢╛╕╒║║÷·°≥≤≈∙▓░▌▄▄▀┼┴┤└└┌│}{zuspoomjghda`_\XWSRPMJGFFDCB@><;:9865420/-,+)(&#!											
+
+	
+
+
+"$'*-,-0134568:<=>?@@BDFGHILNQRSTVX[]abegikmoorvwxy|~┌┌└┤┴┴┼█▐▐▐⌠≈≥≤≈ °·÷╒╗╞╡Ё╡╡ЁЁ╡╡Ё╢╦╦╤╤╡╗═·╒╗╜╞╞╟╡Ё╤╥╥╥╧╧╥╦╦╨╪©ааюабббабеггхйкклмнннмллллмлмннммноооооннноноооопппппппярстррссрсстууутуужжжвььььыыззыыыыыззшэшззшщшэээщээээээээщччЮЮъчччъъъЮЮЮъъъъАЮЮЮЮЮАААБЦЦББЦДЦЦЦЦЦЦЦЦДДДЦЦЦДЕЕЕЕЕЕЕДДФФФФФФФФЕФФФФГГЕЕДДЕГХГФГГФФФФФГГФЕЕЕФЕЕФФФЕФФФГГГГФФГФДФФФФФФГГГГГФФФФФГГГГГГГГФГГГГФГГГГГГГГГГЕФГГГГФЕФФФФФФФФЕЕФФГГГГФГГХХХХХИХХХИИЙЙЙЙКККККЛКЛМНННММММННННННММММННННММННННННМННММННЛЛЛЛЛЛЛЛЛНННННМММММММММММММНННММММЛККЛЛККККККККККЛЛЛЛЛЛЛЛЛММММЛЛЛММММММЛЛКЛЛЛКЙКККЙИИЙЙЙЙГЕЦЮъчэшьвуужусряпппяпонммлллммномккллкихихфцю©©©╪╨╨╧╣╠╞╠╠╠╟╟╟╟╟╠╠╠Ё╣╤╥╤╥╦╦╧╧╨╫©╪╪╪╪╪╪╫╬╬©аааююабацегеддцддцбцдефеддефгфхххийлмлмййлоопрряяртжжжжвььввжвужььььььыыыььввввуттуутсужвввжвввжжууужжуууутсррссрпмккклллйкмлйкллкййлолкккккклмкйлмлййллммлйхгхгеефгхххгффгхйкмйхийиийгеддедццю©©©╫╩╨╪╪╨╧╨╥╠╝╞╚╒ ⌠██▐▌⌠⌡╔╚╛╜Ё╨╧╥╣╣╣╢╢╢╤╤Ё╛╔ё╒║÷·°≥≤≈∙⌠░▐█▄▀┼┴┤┐┐┌─}{zyvtqponjgid`_^[XVQQOLIGFGDCB@=;:98765420//.,*(&#"											
+
+
+
+
+
+
+!#&),--/2335799:;=?AAACEGHIJKRRSTUWY\_adfikmnoquwxx{─┐├┬┴┴▀▄█▌░▓∙≈≥ ⌡°·÷═╓╜╢Ё╠╠Ё╢╢╢╢╢╤╦╥╥╣╞╖╖╚╝╞╞╠╡╡╣╥╧╨╧╦╧╨╧╨╪╫╬©юа©юабцегхгхйклллмлмммммллмммнннммпонноппомнопяяяппяяррряятсссссттссттувььвввввввьызззшэшззззыыышэээээээээчщщщщщччччччъъъъъЮЮъъЮАЮъЮАААААБЦЦЦЦЦЦЦЦЦЦЦЦЦДДДДДЕЕЕЕЕЕЕЕЕЕЕФФФЕЕЕЕЕЕФФФФФФФФФЕФГГФФГГФФФЕЕФФГХФФГГГФФЕХГФГГФФГФФЕФФФГГФФФФФГГГХГГФФФГГФФГГГГГГФГХХГГФФГФФФФФГГХГГГГФФФЕФГГГФЕЕФЕЕФГХХГГГХХХИИИИИИЙКККККЛМННММЛНННННННМММММММММММННННННННММММННММММММММНМЛЛМЛЛКННММММННЛМННООННММММММММЛЛЛЛЛКККМЛККЛЛЛКЛЛЛЛММММНММММММНМММЛЛМММЛЛЛЛЛКККЙЙИИИИЙЙХФЦЮъчщэввжуутрясряппоннлммнннннннмллкййигфффд©╩╬╫╪╪╪╨╤Ё╡╡╡╠╟╞╟╠╠╠╡Ё╢╣╤╥╦╧╨╩╪╪╪╫╩╪╬╬╫╪╪╫юбццаю©юбцдддццццдддббцдгггфефгхйййййкмммнннноярсррствьышзьььыььжжввььыыьызззьвжвввжжжуувввввввввжууужьыжжжжууттрсспмййкмлклммнооонмммннлллллккйккллллккллллкйххгггффгггфгффхккикййиииййфеееффедааю©©╬╫╪╫╩╨╪╨╢╟╞╚╗╒ ⌠▐▐▒▓²╔╕╘╝Ё╥╦╤╢ЁЁ╡╡Ё╥╣╟╙╔ё╒║═·° ≤∙⌠▓▐▐█┼┼┼┤└┌┐┌─~|ywvuronnkhfc_^]\XTPPOMKIGGDCA?=<:98875320--,+*)&" 
+
+								
+		
+
+
+
+
+
+
+!#&),--/1234789:;=?@ABCEGHJKMQQRTUVY\^`cehjlmoqtxyz}─│┐├┬┴┼▀▄▌▐▒■√≥ ⌡⌡°·÷═ё╚╡╢╡╡╢╣╣╢╢╢╥╦╦╧╦╡╚╚╞╠╡╡Ё╢Ё╤╦╨╨╨╨╩╪╩╪╫╬©юабюаабцегххиккккккммммммммлмммнннооннноооонооппяяяяярррряяссссстттстужжжжжввввввььызззшщэзшшшзззшэшшээээээщщщщщчччччччъъъъъЮЮъъЮАЮъЮАААААБЦЦЦЦЦЦЦЦБЦЦЦЦЦДДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕФЕЕЕЕЕФФФФФГФФФЕЕФГГФФГГФФФФФФГГГФФФФФФФЕХГФГГФФГФФФФФФГГФФФФФГГГГГГГГГГГФФГГГГГГГГГГФФГГГФФФФФФГГГГГГГФФДЕФГГГГГФФФФГГГГГГГХХИИИИИЙКККККЛЛЛММММММНННННННООНННМММММННННННООННННООММММММММНМЛЛММЛКННММММННЛМННОНННММММММММЛЛЛЛЛЛККЛЛКККЛЛЛЛЛММММННММММММММММММММММЛЛЛЛККЙЙЙЙЙИИИЙЙХФЦЮъчщэввжуутсясряппонннннннннмнмлккйихифцццца©╫╪╫╬©╫╨╥╢╢Ё╡╠╟╠╠╡Ё╢╣╣╤╥╦╧╨╪╪╪╪╪╫╪╫©╬╫╫╫╬абббааююабддццццееедццццфггффгхиийййккллмнопппяярсстжвызшзыыызыыввьььыыыыызззыьвьвввжжжуввьььььььвжжжжвьжжжжжуууттсянлклмллмннояпоооннннннмммллллллллллллммллкйигггффффффгггхйкйккййииийххггггффцбаааю╬╫╫╪╩╪╩╥╡╟╛╙╔·≈▓░░⌠·╓╕╙╝╡╤╦╤╢╢Ё╡Ё╢╥╣╞╘╓ё╒║÷·⌡≥≈∙▓▒░▐█┼┴┴┤└┌┌┌}|zxutrommjgfc_^][WSQPOMKIGFDCA?=<:97864320-,,+*(%"										
+			
+
+
+
+
+
+
+ #&)+,-.0224689:;=?@ACDEFHJMOPPQSUVY\^`begikmoqtxz|~││└┤┬┴┴▀▄▌▐▒■≈≥ ⌡°²÷÷÷╒╘╟╢╡╠Ё╣╣╢╢╢╥╦╧╩╩╤╟╞╡╢╢╢╢╣╣╥╧╨╩╩╩╪╫╪╫╬╬©юацббабцегххийкккккмммнннммлллммнопннммннннпоопппяяррряяяррсссттттттужввжуувввввььыьыззшщэшшшээшшээшшшээээщшээщччччщщччъъъЮъЮЮъъЮАЮъЮААААААББББББББББЦЦЦЦДДЕЕЕЕДДДДДДДДДДЕЕЕЕЕЕФФФФГГГФФФЕЕФГГФФГГФФФФГГГГГЕФФФФФФФХГФГГФФГФФФФФФФГГФФФФГГГГГГГГГГФФГГГГГГГГГГФФФГХГФФФФФФФГГГГГГГГЕЕФФГГГГФФГГГГГХГГГХХИИИЙЙКККККЛЛЛЛКЛЛММММННННННППООННММММННННННОООННОООММММММММММЛЛМММЛМММННМММЛММННННННММММММНЛЛЛЛЛЛЛЛКЛЛКККЛЛММММННННМММННМММММММММММЛЛЛЛККЙЙЙЙЙЙИИИЙГЕБЮъчщэввжуутсрсяпоооннооооннммпомлмлйхгебабцбб╬╬©юаю╫╩╦╤╢Ё╡╡╡╡╢╣╥╥╤╤╦╨╩╪╬╬╫╫╫╫╬©©©╬╫╬юбааабббабцддццццеддцддддффгггххииййкклллнопяяяяяртжввьзэшшзшшшзыьььыызззыыыыыыыььььвввжжввьызыыыььввжжжжввжжжжжжутсрпнммнммнооояппяпппоопоонмммнммммммммммммллкйххгффеееегггхикккккйииииххххгфффццбббаю©╫╫╪╪╪╨╣╟╜╚╗╒°≈▓▐√÷╔╖╚╞╡╤╦╤╣╣╢Ё╢╣╥╢╝╖ё╒╒║÷²⌡≥√■▓░░▐█┼┴┴├└┌┌│~|{zxutqnmkiffc`^]ZVRQPOMJHFEDB@>=;:97764320-,+*)'$!								
+	
+	
+
+
+
+
+
+
+ "%(++,.0123589:<=>@ABCEGHKMOPOQSUWY[^`begilmppswz|~─│┐├┬┬┴┼▄█▌▒⌠√≤≥ °²÷══╒╘╟Ё╠╟╡ЁЁЁЁ╢╤╦╧╩╪╦Ё╠Ё╢╢╣╣╤╤╦╧╩╩╪╪╫╬╫╫╫╫╬©аццбббдфгхгхййккллмммнннмммммммнпяоннннннняппоопяяряяяярссссттутттуужжжжжуввввььыыьыызшээшшшээээээшшшэээщщшэщщччщщщщччъъъЮъЮЮъъЮАЮЮЮААААААБББББЦЦЦЦЦЦЦДДДДЕЕЕЕДДДДДДДДДДЕЕЕЕЕЕФФФФФФФФФФФЕФГГФФГГФФФГГГГГФФФФФФФФФХГФГГФФГГГФФФФФГГГГФФГГГГГХХХГФФГГГГГГГГГГГГФФГХГГФФФФФФГГГГГГГГХГГФФФГГФГХХГГГХХХХХИИИЙЙЙККККККЛЛККЛЛЛЛМММННОООООООННММММННННННОННННННОМММММММММЛЛЛМММММММННМММЛММНННММННМЛЛМННММЛЛЛЛЛЛКЛЛЛКЙКММММНННННММННННММММММММММЛЛЛЛЛКЙЙКЙЙЙИИИИГЕБЮъчщэвжууутсрряпооооннннонннмяоммнмкиедццддцбббаааю©╫╪╧╤╢╢╢╢Ё╣╥╧╦╤╤╦╨╪╬©©©©©©©©©╬╬╬©юцаюабццббццдццдддцбцеффффгхииииийкклмммлнояррррствызыызэшшшшээзыыыыызззззззыызззыыььвввввьышшшзыььвввжжжвжжжжжжжутсряпннпнноооояярррряяпяяпнннноммммммммллллллккиихгфееддфгхгхийкккййихххиихфеефцбббааю╬╪╫╪╩╪╪╥╟╝╛╙╕║⌡■▐≤║╖╗╛╞Ё╥╥╤╣╣╢Ё╢╤╥╢╜╕╒╒╒║·²⌡≤≈■▓▒░▌▄┼┴┬├└┐┐│}{zywutromkifec`^]ZVRQPOLJGEDDB@>=;:87763220-,+*(&# 
+										
+	
+
+
+
+
+
+"$(*+,./023478:;<>@A@BEGIJLMPOQSVWY[]_adfikmppswz{}─┌┘├┤┬┼▀█▌▒⌠√≈≥≥°²÷══ё╘╟╡╟╞╠╡Ё╡Ё╢╤╥╦╨╪╧╢╠╡Ё╢╣╤╤╥╦╧╨╩╪╪╫╬╬╬╬╬╬©бццббцефггхийккклмлмммннммннмммнопоооннноояяпоопяяяяяяярстсттуууттжууужжвьввввььыыьыыызээззшшэээшшшшшээщщщщщщччщщэччччъъЮЮЮЮЮъъААЮЮЮАААБААББЦЦЦЦЦЦЦДДДДДЕЕДДДДЕЕЕЕЕЕДДДЕЕЕЕЕЕФФФФФЕЕФФФФФФЕГГФФГГФФФГГГГГФФФФФГГГГХГФГГФФГГГФФФФФГГГГГФГГГГГХХХГГФГГГГГГХХФГХХГГГГГГГФФФФФГГГГГГГГХГГФФФГГГХИИХГХИХИИИЙЙЙЙЙЙККЙЙЙКЙКЛЛМЛЛКЛММННОООННННННННМНННННННОННННННОМММММММММЛЛЛМНММЛММННММЛЛМММММММННМЛЛМННММММЛЛЛЛКЛМЛККЛММММММММНММННННММННННННННМММММЛЛКЙЙЙЙИИХХФЕБЮъчщэвжууутсрряооооооммнннннномллммкиффедддцбедбааюю©©╪╧╥╤╤╤╣╣╥╧╦╥╤╦╨╫©юююааю©©©╬╬╬юацаюабцццабббббцддцбцефгфгиййййййллмнооннпяярстуввыээшззшшшшэээшзззззззззшзззззшшззыььььььышээшззжжжжжжжжжжжууужжттрряпононнпппяррсссссррряпонноомммллмммммммллллййихгфеддфгхххикккккйиххиййигффгццббаа©╬╩╩╩╨╪╪╦╠╝╜╚╗╓·≈▓≥╒╖╘╚╜╡╧╤╣╣╣╢Ё╢╤╥Ё╛╕╒╒╒║·° ≥≈∙⌠▓▐█▀┼┴┬├┘└┐│}zyxvvusomligdb`^]ZVSQPOLJGEDCB@><;986653210-,+)(%"
+											
+	
+
+
+
+
+
+!$')+-.//23368:;<=?@@BDGHJKLPPPSVWYZ\]`begjlopsvxy{~│└┘├┤┴▀█▐▒■√≤≥≥°²÷║║ё╘╞Ё╠╟╠ЁЁЁЁ╢╣╤╥╨╪╨╣Ё╡Ё╣╤╤╥╧╧╧╨╩╩╪╫╫©©©©©юбдцццдфгхгййкккйккллммннммоонннноооппоонопяппоопяяппяярстттттууууужжууувьыьььььыыыьыыызээзшшшшээшшээээщщщщчччччщщщъъъъъъЮЮЮАЮъъААЮААААБББАББЦЦЦЦЦДДДДДЕЕЕЕДДДЕЕФФФЕЕЕЕЕЕФФЕФФФФФФФЕЕФФФФФФЕФГФФГГФФФГГГГФФГГГГГГГГХГФГГФФГГГФФФГГГХГГГГГГГГХХХГГГГГГГГГГХХФГХИХГГГХХГГГГГГГГГГГГГГГФФФГХХИХХИИХХИИИИИЙЙКККЙККЙИИЙКЙКЛММЛККЛММННОООННННННННМНННННННОООННОООМММММММММЛЛММНММММММММММММММММММНММММММНММММММЛЛЛЛМЛЛЛЛММММММММММННННННМНННННННННННННММЛККЙЙИИХХФДБЮъчщэвжууттссряоооопоммнннннннмммнмлкихфдццдеедцаааббю©╪╨╧╦╦╥╤╦╧╧╥╥╦╨╪©ю©©ааю╬╬╬╬╬©юабааабцццюааааабцфедддеффийккккклннопяяяррсстувыззэщщэшшшэшшшээшшззззззззшшшшшшэээшззыыыззшшээшззжжжжжжвввжжууужжсссряпппнмнпррсуссссссссряяпоооонммммммннннмммммйййихгфеффхййййкййкккйихииихгфефедццбаю©╩╨╨╨╩╩╦╢╝╜╚╘╔║⌡≈°ё╕╗╙╜╡╧╣╣╣╣Ё╡╢╤╤╡╛╔╒╒╒║·°⌡≥≤√■⌠▐▄┼┴┴┬├┘└┐│}zywuuuspmljhdb_]\ZWTQPOLJGEDCB@><;98664211/--+)'%"												
+
+
+
+
+
+
+
+
+
+ #&(+-../233579;;<>@ABDFGHJKPOPSVWXY[]_bdgjlnpsvwx{~~─┐┘├┤┴▀▌▐▓■≈≤≥≥°²÷║║╒╗╝╢╠╟╠ЁЁЁ╢╢╣╤╥╨╫╩╥╢ЁЁ╣╤╤╥╧╧╧╨╩╩╪╫╫╬╬©©юацддцдфхиигйккккккллммннннноооооооооппоонопппоооппяяярррссстттттууужжжжжвьььььььыыыыззызээшшшзшэээшэщщщщщщщччччччччЮЮЮЮЮЮЮЮЮАЮъЮААЮАААБЦЦБББББЦЦЦЦЦДДДДЕЕЕЕДЕЕЕЕФФФЕЕЕЕЕЕФФФФФФФФФФФФФФФФФЕЕФФФФГГГГФФФФФФФГГГФФФГГХГФГГФФГФФФФФГГХХГГГГГГГХХХГГГГГГГГГГГХХГГХХГГГХИХХГГГГГХХХХГГГГФГГГГХХИХХГХИИИИИИИЙЙКККЙКЛКИИЙКККЛЛЛЛЛЛМММННООННННННМММННННННННООННННООММММММММММЛММНМММММММММММММЛЛЛММММММММММММММММММММЛЛММММММММММММНННННННННННННННННННННННМЛЛККЙИХХФДБЮъчщэвжуттттсряооопппнннооннннооонмллиигецбцдеедццббцаю©╫╩╧╧╧╦╦╧╧╧╧╧╨╩╬ю╬╫©©╬╫╫╫╬╬©юаааббббццаббаабцдггфееефгийклллмнппярсттутувььышээщщчщщээээшшэээээшшшшшшшэээщээээщщэшшшшшээээшшззввжжжжвььвжжуужжсттсяпяяоноясстуттссссттрряппоонннммммнннннммммлйййихгфффегикйййиийккйиихггфффедфедццбю©╩╨╧╩╪╩╧╥╞╝╛╘╕ё═·ё╕╕╖╚╞Ё╧╣╣╣╣Ё╡Ё╤╣╠╚╔╒╒║═÷²⌡≥≈∙⌠▓░█┼┴┴┤┘┘┌┌─}zywvttrolkigdb_\ZXUSQPOMJHFECA?=<:98654211/--+)'$!	
+									
+
+
+
+
+
+
+
+
+"%'+-/./233479;;<>?BCDEFHJKPOORUVWX\]`bdgjlmosvwx{~─┐┘├┤┼▀█▐▒■√≤≥≥°²÷║═╒╖╜Ё╠╟╠ЁЁЁ╢Ё╣╤╥╨╫╪╧╢ЁЁ╣╤╤╤╦╨╨╨╩╪╪╫╫╫╫╬©©юбцдддгййихийккклммммнннонннноооооооппоннопооооппппяррссррруутттуужжжжвввввыьььььыызшззшщэшэшзшэээшщщщщщщчччччщччъъЮЮЮЮЮЮЮЮЮААъЮАААБААБЦЦЦБББББЦЦЦЦЦДДДДЕЕЕЕЕЕФФФФФЕЕЕЕЕЕЕФФФФФФФФФГГГГФЕЕДЕФФФФГХГГФФЕЕФФГГГФФФФФФХГФГГФФГФФФФГГХХХХГГГГГГХХГГГГГХХГГГГГХХХХХГФГХИИИХХГГГГХХХХГГГГХХХХХГГГХГФГИИИХИИИЙЙЙКККЛЛКИИЙЛЛЛЛКЛЛЛМММННННННОООННМММНННННННМННММММННМММММММММММММНМММММЛЛМММММЛЛЛЛЛЛММММММММММММММММНМЛЛМНММММММММММНННММННННННООНННММННННННЛЛЛЛКЙИХЕДБЮъчщэвжуттттсряооопппооооонннмнонлйййгххгецббеффедцббааю╬╪╨╨╨╧╧╧╨╨╨╩╩╩╬©╫╪╬╬╪╫╫╫╬©ююаюабббабцццццццеффггфефгиийкллнопрррстужвжвышшшэщщщщщччщэщэшшээщээээээшшшщщщщщщээъчщээээщщщээшзззььжжжжвьььвжжжжжстутрярсряяссрртттссссттррряппоноонммноонмммллллйййихггфедехйихххийкккйиихггггфефедцба©╬╪╨╨╪╪╨╧╨╟╝╛╘╕╓ёё╘╘╖╗╝╠╢╦╣╣╣╣╢╡Ё╤╢╟╙╓╒╒║÷÷·⌡≥≈∙▓▒▒▌┼┼┬├└└││─}{zxvssrnljigdb^[YWTSQPOMJHFECA?=<:98554211/-,+)&$!										
+
+
+
+
+
+
+
+
+ $(+,..//13678:;<>@ABDEGHIJMOQTUUVW[]_bdgjlnqtwxz|~│└├┤┤┴▀▄█░⌠√≤ ⌡°°÷╒╒║╓╙╠╣╢╠Ё╢ЁЁ╣╣╣╥╨╩╩╩╢╠Ё╣╢╣╥╥╧╧╨╩╪╫╬╬╬╬ююююаадегхииииммлллллллмммллмнммнннопппооннопяппооопяяряярррстсттуужжужжжжжвьыььыьььызыызшзззшзэчщщщэшчщщщщщщщщчЮЮЮъъЮЮЮЮЮЮЮЮЮъъЮЮААААЮБЦЦЦДДЦБЦЦЦБЦДЕЦЦЦЦЦЦДЕЕЕЕЕЕЕЕЕДДЕЕЕЕЕЕФФФФФФФФЕФГГГФФФФФФФФФФФГФЕЕФГХХХФЕЕГГГФФГГГФФГХФФФГГГГГГГГГГГГГИХГГГГХИФГГХХХГГГГХХХХГГИХХХГГХХХХХХХХГГГГГГХХГГХХХХГГХИИИЙЙЙЙЙЙЙЙККККККККЛЛККЛМЛМООННОППООНННННММММННННННННННММММММММММНММММММЛМММММММММННМККЛМММЛЛЛЛММННММЛЛЛЛЛММНММНОНМММММММННННННННМООММООМННННММЛЛМЛЛКЙЙИИФФДЮчщщэжутссссрсяпппяяяряонмммнннлккййкгхихгедцдццццццбццб©╫╩╩╪╪╩╨╧╦╨╪╬╪╪╫╬╫╪╬аю©юбаююбююцебадеедддддефхгффффгххийлнпярстжжжжвьзззззшэщщщщщщщщщщээшшэщщээшшшшэээээээщщщъъчщээщщщэээшзыььыьжжьыьвввввжуттуутрярсссссррррссррррссрппяряппяоннпяонмннмкйййххиихгфеегиииихххйкййкйийиихгфффгеццдцю╫╫╩╨╨╨╩╩╨╣╝╘╘╘╔╓╖╛╚╘╘╛╠╣╦╥╣Ё╢╢ЁЁ╢╢╞╘╓╒╒╒║·²⌡ ≤∙⌠▓█▀▀▀┼┤┘└┐┌─~{xwvttqnlkifc`][ZXUSPPOMJGEECA?=<:8665310/.--+)&$!
+													
+	
+
+
+
+
+
+
+
+ $&)+-../13568:;<>>AABDFHJKMOQTUVWWZ\^`cfhjnptvxy|}~│└├├┤┴┼▄█▐▓√≤  °°÷╒╒║╓╙╟╢Ё╠╡ЁЁЁ╢╣╤╦╨╩╩╩╤╡Ё╣╣╤╦╥╧╧╨╩╪╪╫╫╫╬©ююююадфхиииийллллллммммммллмнонннннннппоооопппоооопярсррссстуттуужжжжввжжввьыыызыььызыызшзззшзэщэшээшщщщщщщщщэчъъъъъъЮЮЮЮЮЮЮЮъъЮЮААААЮБЦЦЦДДЦБЦЦЦЦЦДЕЦЦДДЦДДЕЕЕЕЕЕЕЕЕЕЕЕФФФФЕГГФФФФФФФГГГГФГГГГГГГГГФГФЕЕФГХХГГФФГГГГФФФФФФГХГГГГГГГГГГГГГГГГХХГГГГХХГГГХХХГГГГХХХХГГИХХХХХХХХГГГХХГФГГГХХХГГХХИХХХИИИЙЙЙЙИЙЙЙЙККККККЙКЛЛЛЛММММННОООООООНННННММММНННННННННННМММММММММММЛМММММММММММММММНМККЛМММЛЛЛЛММНММЛЛЛЛЛЛЛМММММНММММММММННННННННМННММННММММММЛЛКМЛЛКЙИИИФФДАъчщэыьжтсрпояппопяяяппонммнннмлккйккййихггфееддддеддддца©╬©ю╫╪╩╨╨╩╪╪╫╪╪╬©╬╬©©╬©юю©©ааюбцюаегдеедддефхгфффгхиийлнпрстужььььыызззззшэщщщщэээщщщщээээщщээээээээщщщщщччччччччщщщщээшшзыьвьвжвьыывжжжжжуттттсряррррсссррясссряяяясяярсряярпоооонмллллйиийииххггфффгииииххгхииийихйихгггфффдццдцю╫╪╩╨╨╨╨╨╨╤╞╙╙╘╕╕╘╞╝╛╛╞Ё╤╦╤╢Ё╢╢╢╣╤╡╜╖ё║║═÷·°⌡≥≈∙▓▒▌▄┼┼┴┤┘┘┌┌─}{xwvssqnlkhec`][YWTRPPOLIFDDB@?=<;9865310/-,,*(&# 
+													
+	
+
+
+
+
+
+
+
+"%'),--/12358:;<==@AACEHKLMOQSUVWXZ[]`behjmpsuwy{}~─┐├├┤┬┴██▐▓√≤≥ °²÷╒╒║╓╘╞ЁЁ╟╡Ё╡ЁЁ╢╥╧╨╩╩╩╥ЁЁ╣╣╤╦╦╦╦╧╨╩╪╫╫╫╬©©©©ююцфиййийккккллммммннммммнонммнонняппоооопоооопяярсррстстуттужжжжжвввввьыыззззыьыыыззшззшшшэщшшэээщщщщщщщщщчъъъччъъъъъъъъъъъЮЮЮЮЮЮАЦЦББЦДДЦЦДДЦДДЕЦДДДДДЕФФЕЕДДЕЕФЕФФФГФФФГГГГГФФФГХХГГГГХХГГГГГГГГФЕФФГГГГГГГГГГХХГФФФГХХГГГГГГГГГГХХХХГГГГГГГГГГГХХХХГГГГХХХХХХГИХХХХХХХГГГГГГФФГГГХХХХГХХИИИИИИИЙККЙИЙЙЙЙККККККККЛЛЛЛМННММНОПОМННОООНННМММММНННННННННННММММММММЛЛЛЛМНММММММММММЛМММККЛММЛЛЛЛЛЛМММЛЛЛЛЛЛЛЛММЛЛЛМММЛЛЛМММННННННННМННММННМНННММЛЛКЛЛККЙИХХФФЕБЮъщшьжутсряяпппоопяяооннннннммлккйкккйхгххгфддддффффддца©©аба©╬╫╬╬╫╪╫╪╪©аю©╬©©©юю©©ааюбцюаегефгфеегииихиийклллнпружввьызззззшшшшшэщщщщээээщщчщщщщщщщщщщщщщщщчччччччччччъъчщэщэээшзыьжввжвызывжуужжжутттсряррярсссряяярррряяясррссряяряяпонмлккккйиийиихгфффггхийиииихиихиййиихггггффедцддцю╫╩╩╩╨╧╧╧╨╦╡╛╚╙╖╗╚╡╟╞╞╠╢╤╥╣Ё╡Ё╢╢╣╤╠╜╖ё╒╒║═·° ≥≈■▓░▐█┼┴┬├├├┐┌─~{ywvsrqnljgdb`\ZXUSQPPNKHECBA@>=<;:96421/.-,+)&$"														
+	
+
+
+
+
+
+
+
+
+!$&(+-./133479:;<=@@ACEHJKLNPSTVWX[\^`cfikmosuwxz|~─┐├┤┤┬┬██▌▓√≤≥≥°²÷║║║ё╖╝ЁЁ╟╠Ё╡Ё╡╢╥╦╧╨╩╪╦╢Ё╣╢╤╦╦╦╦╧╨╩╪╪╫╫╬©©©©ююцгйкйийкккллммммнннннммннмммоппоппппппппппппппяяряяссрстттуужжжжвввввьыыызззыыызызззззшээщщэшэщщщщщщщчччччъъъъъъъъъъъъъъЮЮЮАААЮЮБЦЦББЦДДДДДДДДДЕДДЕЕДДЕФФФЕДДЕФФЕФФГГГФФГГГГГГФФХХХГГГХИХХХГГГГГГФФФГГГГГХХХГФГХЙХГФХИИХГГГХХХГГХХХХХХХХГГХХХХГГХХХХХХГГХХХХХХХХХХХХХХХХГГГГГГГФГГХХХХХХХИЙЙЙИИИЙКККЙЙЙЙЙКККЛКККЛЛЛЛЛМММННМННОНММННОООННМММММНННННННННННММММММММЛЛЛЛМММЛММММММММЛММЛККЛМЛЛЛЛЛЛЛЛММЛЛЛЛЛЛЛЛММЛЛЛММЛЛЛЛЛММММММММММННННННННОООННММЛЛЛКЙИИХХФФЕБЮъэыжутсссррппппоопяоооонннммллкккккйхффххфецццефгггффецаацдецаююю╬╫╬╬╬юаа©╬ааааююабю©цеццеегиййххйлмммммноппяртжвьыьыззшшшэщщщщщщччщщщщщщщчччччщщээччщщщщччщщччччччччччъччщщщээшзыывььвьыыывжуууужжттссрррряярссряяоояррррррррррряяяяяпнлллкккйййййиихгггггххииихиихиихийккхххгффффддддецю╬╩╪╪╩╧╦╧╨╨Ё╝╚╘╗╙╜╡╠╟╠Ё╢╤╤╤╣ЁЁЁЁЁЁ╠╚╔ёё╒║═÷²⌡≥≈∙▓░▐▄┼┼┬├┘┘┐│}|zxvrqpnljgdb_\YWUSQPONKHEBA@?>=<;985420/.,+*(&#!
+												
+	
+	
+
+
+
+
+
+
+
+
+!#&),./01334678:<>?@ACEGHIKLOQSUWX[\^acfikmosuvxz|~─┐┘┤┬┬┬██▐▓∙≤≥≥°²÷║║║ё╕╜╡Ё╟╠Ё╡ЁЁ╢╤╥╥╧╩╫╧╢Ё╢Ё╣╥╥╦╧╧╨╩╪╫╫╫╬©©©ююацгклйийлллммммммооннннннннннпяппоооппппяпппяппппрярссссттттууужжжжвввььыььыыыыззыззззшшээчщэшэщщщщщщщччччъъъъъъъЮЮЮЮЮЮЮЮААААААААБЦДББЦДДДДДДДДДДДЕЕЕЕЕЕФФФЕДДЕФФЕФФГГГФФГГХХГГГФХХХГФГГХХХХХГГГГГФФГГХГФГХХХГГГХЙИГГХИИХГХХХХХГГХХХХХХХХГХХИИХХГИХХХХХХХХХХХХХХХХХХХХХХХХГГХХХГФГХХХХХХХХИЙЙЙИИЙЙКЛЛКККККККЛЛЛЛКМЛЛЛЛЛЛЛННОНММННММНОООННММННННННННННННННМММЛЛМММММЛЛММЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛЛЛЛЛЛЛМЛЛЛЛЛЛЛЛМММЛЛЛМЛЛЛЛЛМММММММММММННННННННООООННММЛЛКЙИХХГЕФДБЮъэьвутссряпяяяяппппппппонмммллкккккхгфгххфдцддфхиихиихфдцефхебаааю©╬юабааююбцбааабцбадгедфгикмлккмояяяяяррруувьыыззызшэщщчччччччччъчччщчччъчччччщщэччччччччччччъъъъъчщщччъъщщщэшзыыьыыььыыььжутуужутссррррряярссрряноярррррярссрряяпярпнллмййииииййхииииххгхииииххигххггиййгхихфефхеееееда©╪╪╫╩╨╧╧╨╨╢╞╚╘╗╚╞╡╠╠╡╢╤╥╥╥╤╢ЁЁЁЁ╡╝╗ё╒╒║÷÷÷² ≤≈∙▓░▌▄▀┼┴├└└┌─~|zyvurqonlifdb_[YWUSQPOMJHEBA@?=<;:875420/-,+*(%#!													
+		
+
+
+
+
+
+
+
+
+ "&),./01234567:=??@BCEFGGJLNQSUWXZ\]_behjmoruvxz{~─┌└├┬┴┴▄▌░▓∙≈≥ ⌡²÷║║║ё╔╛╡Ё╟╠╡╡Ё╢╢╢╣╤╧╩╫╨╢╡ЁЁ╣╥╤╦╦╧╨╩╪╫╫╫╬©ю©ююадгйккййкллммннммооноооннооппппоонноппяяпппяяяяппсррттттуттттуужжжжвввьььвьыыыызшыззззшэщэщщшшэщщщщщщщччччъъъчччъЮЮЮЮЮЮЮЮАААББББББЦДЦЦЦДЦДДДДЕЕДДДЕФФЕЕЕЕФФЕЕЕЕФФЕФФГГГФФФГГХХГГГГГХГГГГХГГГГГХХХГГГГХХГФГГХХГГГХИХГГГХХГХХХИХХГГХХИИИИХХХХИИИИХХИИХХХХХХХХХХХХХХХХХИИИИХХХХХХХХГХХХИИИХХХИЙЙЙИЙЙЙКЛЛККЛЛККЛЛЛЛЛЛМЛЛЛЛЛЛЛМНОНМЛМОМННОООННННННННННННННННННМММЛЛМММНММЛММЛКЛЛЛЛЛЛЛЛМЛЛЛЛЛЛМЛЛЛММЛЛЛМЛЛЛЛЛЛЛЛММММММНЛЛЛЛЛММНММММММММНММННММННННННМММЛЛКЙИХХГЕЕДБЮъэьутссссррсряяяяпопяяяпомлммллккккгггхиигееефхййййййигедефхфцбббааюбцбаабццдцаюабцецефефйлкмноннпястттууууыззшшшшшэээщъъъъччччччччччччъъъЮъъъчччччччъъъъччъЮЮЮЮЮЮЮЮчээщчъъччщщэшззыззыыыьвьвжууууутссррсрряррррррряярррряпястсссряпяяпомммихггхххххиииииххиииихххихииххйййгиихфефхффееецаю╫╫╫╪╩╨╨╨╨╣╟╛╘╘╜╠╡╡╡Ё╣╥╦╦╤╤╣╢╢╣╣╢╝╗ё╒ё║÷÷·⌡≥≈√■▒▐█▀┼┼┴├└┐│|{ywussqonlhfeb_\YWUSQONLJGECA@>=;:9765310/-,+*(%" 		
+
+									
+		
+
+
+
+
+
+
+
+	"&(+-.//034568:<>?@ABDEGGIKNPSUWYYZ\^adgilortuwyz~│┐┘┤┴┴▄▌▒⌠∙√≥⌡⌡²÷══║ё╓╚╠╡╟╠╡╡ЁЁЁЁ╢╥╧╩╪╩╣╡╡╡╢╥╤╦╦╧╧╨╩╪╪╫╬©©©©ююдфикккйййклмннннонноппоннояпооопннопппппоппяяяяпсрстуттуттттуужжввввьььыьыззззззыззззшэщшщщэшэщэщщщщччччъъъъъчъъААААААААЮААБББББАЦДДЦДДЦДДЦДЕЕДЦДЕФФЕЕЕЕФФЕЕЕЕФФЕФГГГГФФФФГГХХГГГГХХГГГГГГГГГХХХГГГХХХГФГГГГХХГГГХХХХГГГХХИИИХГГХХИИИИХХХХХХХХХХИХХХХХИИИХХХХХХИХХХИИИИИХХХХИХХГХХХИИИИХИИЙИИИЙЙИЙККККЛЛККЛЛЛЛЛЛЛКККЛММЛНННМММННННННННННООООООООМНННННННММЛЛЛЛММММЛММММЛММММММММММЛЛЛЛММЛЛММММЛЛММЛЛЛЛММЛММММММНЛЛЛЛММНННННННННННММННММНМННННННММЛЛКИХХГФЕЦААЮщытсссттттсрппрряоопяяпомлнмммлкккххииииихффгийккйииихфеефхгффеддцддцаацдддедаюбццфдфххйноопяяррстужввььььээщщчщщэщщщчъъъчъъъчччччъъъъъъЮЮЮЮъъъъъЮъъЮЮЮЮъъЮЮЮЮЮАААъщээчъъччччщэшшзышшзззывывжжжуутттсрсссрррррррссссссрряппстсррряяяяяонллихгфгххгиихххиииииихггххиййииккйиихггфффгфеддцаю╬╫╫╪╩╩╨╧╨╥╡╝╚╚╞╢╡╡╡Ё╣╥╦╦╢╣╢Ё╢╤╤╢╞╗ёё╓╒══²⌡≤≈√∙▒▌▌▀┼┴┬┘┐┐│}{yxustqomkhffc`\XVTQPMLJIGECA?>=;:9765420/.,++(%"
+	
+
+									
+		
+
+
+
+
+
+
+	!%(+---./23579:<=@@@ACEGIJKNQSUXYYZ\^`cgilnqsuvxz~~─┌┘┤┴┼▄▐▓■■√≥⌡⌡²÷══║╒ё╙╟╡╟╟╠╠Ё╡╡Ё╣╥╨╨╨╪╣╡╡╡╣╥╤╥╥╦╧╨╩╪╪╪╫╬©©©©юефиклкййийкмноооонноппонлнппонпяноопппоонопярррярярттсстууууужжввввььыыыыззшззззыззззшэщэщчщэщщщщщщщччччЮЮЮЮъъЮЮЮЮЮЮЮЮЮЮЮЮААББББАЦЕДДДДЦДДЦДЕЕДЦДЕФФЕДДЕЕЕФФФФЕЕЕФГХХГФФЕФГГХХГГФГХХХГГГФФГГГХХХГГГХХХГФГГФГХХГФГИЙЙХГГХХХИИИХГГХХИИИИХХХХХХХХХХИХХХХИИИИХХХХХХИХХИИИИИИХХХХХХХГХХИИИИИИИИИИХИЙКХИЙККККЛКЛЛЛЛЛЛЛКЙЙКЛМММОМЛЛНОНМОННННННОООООООООММНННННННМЛЛЛЛМНМЛЛММННМММММММММММЛЛММММЛЛММММЛЛММЛЛЛМММЛЛМММММНМЛЛМММННННННННННОММООММОННОООООНММЛКЙХХГФЕЦААЮщзьжуттсррсяопрсяонопяпомлнннмлккйииииххийффгийкййийкйхгггхииихгфффебюадедефебабдддцгклмппррстужжввьызшшшшщщчъъччщчщщщччщэЮЮЮъъъъчъъъъъъЮЮАЮЮъъЮААЮЮЮААЮЮЮъЮЮЮЮЮЮЮчээщчъчщъъччщэшзышшзззыьыьвжжжутутсссссрсрррррстссссррррорсряряпррряпнлкихгггхххиихггхийииихгггххииииййикиггххгдгфедцбаю©╫╪╪╪╩╨╦╨╦╢╞╛╜╠╣╡╡╠╡╢╤╥╦Ё╢╢╡Ё╣╢Ё╝╖╒╒ё║÷··⌡≥≈≈√▓▐▌▄┴┬┤└┐┐┐│~|{yvtuqnmkhfgda\XUSPNLKIHGEBA?><;;:875420/.,+*($!
+	
+
+									
+	
+
+
+
+
+
+
+$&)*,-/1234579;<>?ABCEFHIKNPSUWXYY[^`bfjknrtuvwx|│┐├├┤▀▄█░■√√≤⌡°²·÷═║╒ё╖╞╢╡╞╟╡ЁЁЁ╢╤╦╨╨╨╩╧╣Ё╤╤╣╤╦╦╧╨╩╩╪╪╬©юю©©юаеехккйклклмннооонооппоннннопяпппнпяяоопяппппяяяяррсттууууууужжжвыыыььыызыыыззшшзшэээшшшээээщщчччччччъъъъъЮъччЮЮъЮъъъъЮААЮАБЦЦБББЦЦЦДДДДЦЦЦДДЕЕЕЕЕЕЕФФЕЕЕЕЕЕФФФФГГГФФФГГХФФГГГГГГФГГГГФГГХХИИИХХГГГГГГГХХХХГГГГХХГХИИХХХИИХХЙЙХХИИИИХХИИИИИИХХИИИЙИИЙЙИИЙЙЙИИИИХХХХХИЙЙИХЙИХХИИХГХИЙХХЙЙИИИИИИИИИККККККККККККККЛЛКЛЛЛЛЛМНОНММНННМНННОООННОННННООННННННОООЛММММЛККМММММЛЛЛМММММЛЛЛМЛККЛМММЛЛЛЛЛЛЛЛЛЛЛЛЛМММММЛЛЛММНММЛЛЛМНОНММНООНМНООННННОММММННООНМЛКЙИХГЕЕДЦБъщшыывтсттсрряярсряпярряпнмлмоомллллкихиккхиииихиклхйкиххгфхииххххффдццдеедцеггдбцеефимннятжууужвьышшшээщччччччччччЮчччЮАЮъъъъъъъъчъъъЮЮЮЮЮААЮЮъъЮЮЮЮААААААъЮЮАЮъччщэщчъЮъчщщщччщшззыыышшывььввжууттуутсрсстсссттсртсррррряппяррряяяяяяяолйиггххгхииииииийккййиххггхиииххииххххгффгффебббба╫╫╫╫╪╨╧╧╨╦╤╠╛╝╡ЁЁ╢╣╢╢╤╤╢╤Ё╡╡╡╢╣╡╚╗╓║══÷··° ≤≈■▓░░█┼┬┬├└┌│─~|zxvutqnljifdb`\XUSQOLKIGFDBA>=<;:9755420/-+*)'$!										
+
+
+
+	
+
+
+
+
+
+
+
+
+"%(*+-/0124578:<>?ABCEGHJLNQSUWXZY[^`bfikmpstvxz|─│┌┘├┤┼▀▄▐⌠√√≤⌡°²·÷═║╒╓╕╝╢Ё╟╠╡Ё╢╢╣╤╧╨╩╩╪╨╤╢╤╥╤╦╦╧╧╨╩╪╪╫╫╬©©╬©юбффгйлкклнннннмммнооппоонооооппппопяяпопяпппяяяяярсттууууууужжвввыыыьыыызыыыызззззшшшшшшэээээщщччччччъъъъъЮЮчъЮЮъЮЮъъЮЮАБАБЦЦББББЦЦДДДДДДЦДДЕЕЕЕЕЕЕЕФФЕЕЕФФФФФГГГГГФФФГГХФФГГГГГГГГХГГГГХГХХХХХГГГГГГХХХГИХХГГГГГГХИИХХХИХХХИИХХИИИИИИИИИИИИХХИИИЙИИЙЙИИЙЙЙЙИИИХХХХХИЙЙИХИХХХХХХХХЙЙИИЙЙИИИИИИИИИЙЙККККККККККККЛЛКЛЛЛЛЛММННММНННМНННООООНООНННООНННМНННООММММЛЛЛЛЛЛЛММММММММЛЛЛЛЛММЛКЛМММЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММЛЛММММЛЛММММММНММННОНННООННННОММММННООНМЛКЙИХФЕЕДЦАъщшшшывжжжуссрстссряяяяяпннммнннммлмлкйкмлййкййиийкиккйииихиклккллкйигггхгедефгецдфхймяррсжжжввьзшээээщщччъъъччччъъЮъччЮЮЮчъъъъЮъъъЮЮЮЮЮАААААЮЮъъъЮААААААААЮЮАААЮъчщщщчъъъччщчччщэзыыьыззывььввжууттуутсссстссстттстсрррсрряяяяяпппяяяяяомкйххихххиийййиийкккйиххгггхиххххиииихгфггфгецбббаа©╫╬╫╩╧╧╨╦╥╡╜╝Ё╢Ё╢╣╢╣╥╥╤╤╢ЁЁЁ╣╤╡╙╖╓╒║║÷··° ≤√■▓░▌█▀┴┤┘┐┐──~|zxvutromkigeb_ZWUSPNLKIGFDBA>=<;:865431/.,+)(&# 										
+
+
+
+	
+
+
+
+
+
+
+
+
+!#'*+,./124679:;=>@BCEGHKLNPQSVWZZ[]`cegkloqsvy|}─││└└├┴▀▄▐▓∙√≤ °²·÷═║ё╔╔╜ЁЁ╡╡ЁЁ╢╢╢╤╦╨╩╩╪╩╤Ё╣╤╤╦╦╧╧╨╩╩╪╪╪╫╬╬╬©ацгфгйлллкннннммллоооооооояпоооппяпяяяпопяяяяяяяррстттуууууужжвьььыыыыыыызыыыыззззззшшшшээщщэээщччъъъъччччъЮЮЮЮЮЮъАЮЮЮЮААББЦЦЦББББДДДДЕЕДДДДЕЕЕЕЕЕЕЕФФФФЕЕФФФГГГГГГГГФФГГХФГГГГГГГГХХХГГГХГГГГГГГГГХХХХХГГИИХХГГГГГХХИХХХХХГХИИХХИИИИИИИИИИИИХХИИИЙИИЙЙИИЙЙЙЙИИИИИХХХИИЙИИХХИХХХХИИЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККЛЛККККККЛЛЛЛЛЛЛЛЛМНМММНННМННООООООООННООООММММНННОНММЛЛЛМНЛЛЛМММММММЛЛЛЛЛЛММЛЛЛММЛЛЛЛЛЛЛЛЛММЛЛЛЛЛЛЛЛММММММЛЛММНМЛЛМНННННННННОННННОНМММННООНМЛКЙИГФЕДЦБАъщэээзьвввжууууутсряяяяппонннннннмлннммнонллллкййккйклкййкййлнммнннмлкййигфгггххггиморужжвьььызшщчъччччъъЮЮЮъъъъъъъЮъччъЮъччъъЮЮЮЮЮАААААААААЮЮЮъъъъБББББААЮААББАЮъъччччъъъчччччъчэшыььыззывьвввжуутттутсссттссттуутттсссссрряппоонняяяррпнлкйииихийййкйййкклккйихгффгхххххиййихгфгхггфцбббадю╬╬╬╪╧╦╧╦╦Ё╝╞╢╣Ё╢╣╤╤╦╦╥╤╢╢╢Ё╤╣╠╗╕╓ё╒║÷²·° ≤√■▒░█▄▀┬├┐┐┌~|zwutsqnlkife`\XUUSPMLKIGFDBA?=<;9864310.-+)('$"										
+
+
+
+	
+
+
+
+
+
+
+	
+
+ #'*,-./124679:;=>@ACEGHJKLNPRTVZZ[]`bdejlnpruy|}─││┐└┘┴┼▀▌▒■√≤ ²²·÷═╒╓╔╔╛╡╢ЁЁ╡╡ЁЁ╢╣╦╧╨╨╩╩╤╡Ё╣╣╥╦╦╦╧╨╨╩╩╩╫╬╬╬юбдгфгилмлкмммнннннпоооооппяяпппппппяяяпппяяяяяррррсттттууууужвььыыьььыыыызыызззззшзшшшшэээщщщщщщщщъъъъччччъъЮЮЮЮЮъААААААБББЦЦБББЦЦДДДДДДЕЕДДЕЕФФФЕЕЕФФФФЕЕФГГГГГГГГГГГГГХХГГГГГГГГГХХХГГХХГГГГГХХХГХИИИХХГИИИХХХХГГХХИИХХХХХХХИХИИИИИИИИИИИИИИИИИИЙИИЙЙИИЙЙЙЙИИИИИХХХИИЙЙЙГХИИХХИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККЛЛЛЛККККЛЛЛЛММЛЛЛЛМММММННННННООООООООНОООООМММММННННММММММНМММММЛЛЛММММЛЛЛЛММЛЛЛМЛЛМММММММММММЛЛЛЛЛЛЛМММММЛЛММММММЛЛНООНМНОННОННННОННММНННОНМКЙИХГФЕДЦБАъчщээшыьыыьввввжусрррряяппппоннннлкооооппомнннммлллклллккллмопонннмооннмлйхкййлммнпртжьыызшшшэщчъААъъъЮЮЮЮЮЮЮЮъъъъЮЮъъъъъччччъЮААББАААААААААЮЮЮЮъъъББББББАААБББАЮъъъъъъъъъччччъъчщэыьььыыыьььввжуутттттттттссттууууутссссссряпоннннппярряонмкйййиикйккккйкккккйиххгффггххиикййхгггххгфдцбббцю╬╬╫╩╧╦╧╦╧╣╞╠╣╤╢╣╤╥╥╦╦╦╤╢╢╢╢╣╢╞╖╔╓ё╒║÷·²° ≤√■▒▐█▄┼┬├└┌│~~~|zwtsqoljigec_ZVUTROLKJHGEDBA?><;986421/.,+)(&#!
+										
+
+
+
+	
+
+
+
+
+
+
+
+
+
+#'*,-/0135678:;<>@ACDFHIJLNOQSUYYZ\_bddiloqrtwy}─││└└┘┴┴▀▌▒⌠√≤ °²·÷═╒╓╔╔╚╠╢╢Ё╡╠ЁЁЁ╣╥╧╨╨╩╪╥╡Ё╢╣╥╥╦╦╧╨╩╩╪╪╫╬╬©юцфгггилммкмммнноопоооооппппяяяяппояяяпппяяррррррррсссттттууужвьыыыьььыыыззызшзззшшэээээээээщчччщээччччъъъъъъъЮЮЮъъББАААБББАББББЦДЕДДДДДДДДДЕЕЕФФФФЕФФФФФФЕФФФФГГГГГГГГГГХХГГГГГГХХГХХХХГХХГГХХХХХХГХИИИИХГИИИИИИИИХХХХИИХХХХХХХИИИХХИИИИХХИИИИИИИИЙИИЙЙИИЙЙЙЙИИИИИХИИИИИЙЙГХИИИХИКЙЙЙЙЙЙЙКЙЙЙЙЙЙЙЙЙЙЙККЛЛЛЛЛКККЛЛЛЛММЛЛЛЛМММННМММННННОООООООНООООННММММНННЛММННММММММММЛЛЛММММММММММЛЛЛМЛЛМММММММММММЛЛЛЛЛЛЛМММММЛННММММННЛНООНМНОННООНННОНННМНННННЛКЙИХГФЕДЦБАЮчщччщшзшшзззыывусрттсрррррсяонннлкооопппоооооппоннллллллмнпрсяпппорррсряононнпстувызшшэщчччъъъЮЮААЮЮЮЮЮЮЮЮЮЮЮъъъъЮЮЮъъъъчччъЮААББББАААААААААААЮЮЮЮББББББББАААААЮъъъъъъъъъъъччъъъчщыыььыыыыььввжууууутттттсссттууужутссттссряпоноопппярррпонлллкййкйккккййййййййиххффггхииийййихгххигфдццццаюю©╪╨╧╩╦╦╧╤╡Ё╥╥╣╣╤╦╦╦╦╦╤╢╢╣╣╤Ё╜╕╔ё╒║═÷÷²⌡≥≤√■▒▐▌▄┴┤┤├┐─~~}|ywtrpnkihfca^YUTTRNLKJHFEDBA?><:986521/.,+)(%# 
+									
+
+
+
+	
+
+
+
+
+
+
+
+
+
+"&)+-/11245689;<>?ABDFGIKMOPRSTVYZ\^acdikoqstvw|─│┌└┘┘┴┴▄▐░⌠√≤≥°²·══╒ё╓╔╙╟Ё╢Ё╡╠ЁЁ╢╤╦╨╩╩╩╫╧╢Ё╣╣╥╦╦╧╨╩╪╫╫╬╬©©©адгфгххкммкнннннноооооооппппяяряяпоппппппяяррррррррсссстттутужвьыыыьььыызззызшшззшэщээээээшэщчччщээщчччъъъЮъъъЮЮъъЮББББББББАБЦЦЦДДЕДДДДДДДЕДДЕЕФФФФЕФФФФФФЕФФФФФФФФГГГГГГХХГГГГГГХХГХХХХГХХХХХХХХИИГХХИИИХХХХИИИЙЙЙХХХХИИИХИИИХХИИХХИИИИИИХЙИИИИИИЙЙИИЙЙИИЙЙЙЙЙЙЙИИИИИИИИИЙХИИЙИЙЙКЙИИЙКЙЙКЙЙЙЙЙЙЙЙЙЙЙКККЛЛЛЛККЛЛЛЛЛММЛЛЛМНМНННММММННННООННООНООООННННММНННЛММННМЛЛЛЛЛМММММННММММММНМЛЛЛМЛКММММММММММЛЛЛЛЛЛЛЛММММММННММММНОМНННННННННООННННННННННННМЛКЙИХГЕЕДЦЦБАъчщщщшзшшзшшшзьжуууууттттттсяпонммпппяяппяяяррррпоммлммлнпярряяррртттуутссррсжьызэъЮЮъъАБАААААААААЮЮАААЮЮЮААЮЮЮЮЮЮЮЮЮъъъъчъЮЮАБББЦБАААААББББББАААЮАБББББББАААААЮЮъЮЮЮъъъъЮъчччъъчщззыыыыыыыььвжжжужуттттсссстттуужуттсттссряппопппппярррпонмлмлйиййкллккййккккйиихфффгхиииийййихххигедцццдаааю╫╨╩╫╧╦╧╥╢╤╦╥╥╥╦╧╧╥╥╥╤╢╣╤╤╤Ё╛╕╔ё╒══÷÷°⌡≥≈√■▒░▐▄┬┤┬┤┐~}}{yvsrpnljhfc`]XUUTQMLKIHFECB@?><:976521/.,+)(%"
+									
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+!$'*,/01223468:<>?ABDEGJLNPPQQRTWZ[\`cehknqrtvwz~─┌└┘┘┬┼█▐░▓√≤≥⌡²÷═║║╒ё╓╗╝╡╢Ё╡╡ЁЁ╢╤╦╨╨╩╨╫╨╢Ё╢╣╥╦╦╧╨╩╪╫╬©©©©©адгегххйлмлнннмммннннооппоояяяяяяяпппооппярррррррррссссттужтужвььььвььыызззызшшззшэээшшэщээщщщщщщщщччччъъъъЮъъЮЮъЮАББББББББАБЦДДДДДДДДДДДЕЕДДЕЕЕФЕЕФФФФФФФФФФФФФФФФГГГГХХХХГГГГГГХХГХХХГГХХИИХХХХХИГГХХХИИИХХИИИИИИХХХХИИИХИЙЙХХИИХИИЙЙЙЙИИЙИИИИИИЙЙИИЙЙИИЙЙЙЙЙЙЙЙЙИЙЙИИХИЙЙИИЙЙККЙЙИИЙКЙЙКЙЙЙЙЙЙЙЙЙЙККККККЛЛЛЛЛЛЛМЛЛММЛЛМНННННМЛЛМММННННННОННОООННННННННННМММММЛЛЛЛЛЛМММММММММММММНМЛЛМЛЛКЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММЛЛМММММММММННННММННОННМНООННННННННННННМЛКЙИХФЕЕДДЦЦАъчэээззззыээшзыьььжжжжжуууутсрпппяряяррярссстттсяпоммнммнясряпруутуужжжжжжввьшщщчЮБЦЦБЦДДЦЦЦЦББББАААААААЮЮБАААЮЮЮЮЮЮЮЮЮъъъЮААБББББББАААБЦЦЦЦЦЦББААБББББАААЮЮААААЮЮъЮЮЮъъЮАъчччъъчщэшззыыззыыьввжжжжжутттсрстттттужутссттссрряпппппппяяррпонмммлйххйкммлккйлллкйихгфффгхххххиййиххххфеддццецбаю╬╩╩╫╨╧╧╦╥╧╨╥╨╧╧╨╨╥╤╤╣Ё╢╤╤╤╠╘╔╓╓ё║═··⌡ ≤≈√■▓░▌▄┴┬┬├┐─~}|zxusrqoljheb`\XUVTPLLJIGFECB@>=;9875421/.,+)($"			
+						
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+#&(+.01112358:=>?ABCEFJLNOPPOORW[[\_cehjmpqsvxy}─┌┘┘┘┬┼█▐░▓√≤≥⌡²÷═║║╒╒ё╕╛╠╢╢ЁЁ╡╡Ё╣╥╧╨╨╧╫╨╢Ё╢╢╤╥╥╦╧╩╪╫╫©©©©©адфегихикллмммлммннмнопппооряяппяярпооопяярррррррррсссттужжттжввьвввььыззззьзшшыызэшшзшэщщэчщэээщчъъъъъччччАЮъЮЮЮЮБББББББББАЦДДДДЦЦЕЕДДДЕЕФДДЕЕЕЕЕЕФФФФФФФФФФФФФФФФГГГХХХХХХГГГГГХХГХХХГГГХИИХХХХХХГГГГХИИЙХИИИИХХГИХХХИЙИХЙКЙХХИИХЙЙЙЙЙЙЙЙЙИИИИИИЙЙИИЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙИХХИЙКЙИЙКЛКЙЙИИЙКИИКЙЙЙЙЙЙЙЙККККККККЛЛЛЛЛЛЛМЛЛММЛММНННОНЛЛЛЛММННННННННННООНМОННННННННММЛЛЛЛЛМММММЛЛЛМММММММЛНМЛЛМЛЛКЛЛЛЛЛЛЛЛЛЛЛЛЛМММММЛЛЛММНЛЛМННННМНММНООНММНООННННННННННННМЛКИИХФЕЕДДДДБЮчщчщэшээшэээшыызшжжввжжуутутсряртсррссрсуууужжтяооннннмоявусруььжьььыыыыызшщЮЮЮАЦЦДЕДДЕДБДДЦЦЦЦББАААБААЮЮБББАААААЮЮЮЮЮъЮЮААБББББББББББЦЦДЦЦЦЦЦЦББЦЦБББАЮЮЮЮААААААъЮЮЮъъЮАъчччъъчщщэшзыызззыььвжжжвжутттсрстттттууутссстссррряппоопппяряпомммнмйхгклмнмлккммллйигфффефгххггхйкйихххфдддццедбюю╬╪╩╩╪╧╧╧╧╩╪╦╪╨╩╪╨╥╣╤Ё╠╡╢╢╢╞╖╓╓╓╓╒═·² ≥≤≈√■▓▒█▄┼┬┤┘┌│~}|ywusrpnlihea_\XVVTOLLJIGFECB@=<:8765421/-,+)($!		
+						
+
+
+
+	
+
+
+
+
+
+
+"$'),./0234578;<=?BDFGHJLMNOPQUVX[[]afhjmoqsvx{}┌└├┤┤▀▄▌░■≈≤≈≤⌡·÷═║║║╒╔╙╟Ё╢╢╡╡Ё╢╣╤╦╨╩╧╪╪╥╡╡╣╥╥╦╧╨╨╨╩╩╫╬╬╬аеггефхийкмнонмлмнннлнпппоонпооопррряяяяррссрсссссррстттуужжтужвжввьвьыззыызыззшшшшшззшэщщщщщэшэщщчъъъъъъъъъъъъъААЮъАААААБББЦЦЦДДЕЕФЕДЦДЕЕЕЕЕЕЕЕЕЕЕЕГФГИХГГИГГХГФФФГФГХХГГХИГХХХГГГХХГГГГХХИИИИИИХХХХХХИИЙЙЙГХХХГХИИИИЙЙЙИХХИИЙЙЙКККЙЙЙЙЙЙЙЙХИИИИИИИЙЙККЙЙЙИККЙЙЙЙЙЙИИИИИИЙЙКЙЙЙКЛКИЙЙКЙИИИЙКККККЙЙЙККККККЛЛКЛЛЛЛЛЛЛМЛЛЛМННОММММННННМНОННОНМОНННООНМНННННОООНММММММЛММММММННЛЛЛЛЛЛЛЛММЛЛЛЛМММММЛКККЛМММММЛЛЛЛЛММНННММНННМММННННННННННОООНМННМНННММММНЛЙИЙИГЕЕДЦБББААЮчшзшэшшшшшшшээщээзьжужввжуттуужввжтрртжужввусяпяоннноясвутвзшывззшшшшэщщъЮББЦДЕЕЕДДДДДДЕЕЕЕЕДЦБББАББЦББББАААЮЮЮЮЮЮАББААААББББААББАБЦДДЦЦЦББББААББЦЦББББААБББАААЮААЮччъЮщчъъчщщчщэээшзззызшзвууутужутррртттттуууутссттсртрпооопппяррррппоппнммкийклмкйййлллкйиихфффеффггхххиииийхфедеецбддца©╫╩╨╩╩╩╩╪╪╪╪╧╨╨╧╦╤╣╣╣╢Ё╢╤╢╝╖╕╓ё╒╒║÷²⌡ ≤≈∙⌠▒▐▌▀┬┤┤┘│}~}zwtrqrqnkheb`ZXUSQNLMIHGFEDB@=;:8765310/.-+)(#"									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$&(+./0234679;<>@CDEFHIKLMNPQSUX[\]`dgimoqtvyz|│┐┘├┤▀▄▐▒■≤≤≈≤⌡·÷═║╒║╒╔╙╞Ё╢╢╡ЁЁ╢╣╥╧╨╩╩╫╫╦╢Ё╣╥╥╦╧╨╩╩╪╫╫╬╬╬аеггфгхийклнонмлмнннмноппооояяппяяяяпяяярссссссссссрстттуужжужжвжввьвьыыыызззззшшшшшшэээщщщщщэщччщщчъъъъъъъъъъъЮААЮЮАААААББЦЦЦЦЦДДЕЕЕДЦДЕЕЕЕЕЕЕЕЕЕЕЕФФФХГФФХГГХГГФГГГГХХГГХХХХИИХХХИХХХХХХХХИИИИИХХХХХХИИИИИХХИХХХИИИИЙЙЙЙИИИИЙЙЙЙККЙЙЙЙЙЙЙЙХХИИЙЙЙЙЙЙЙКЙЙЙЙКЙЙЙЙЙЙЙИИИИИЙЙЙКЙЙККККЙЙЙКЙЙИИЙККККККЙЙККККККККЛЛЛЛЛКККЛЛЛММНННМММНННННМНОННОНМОННОООННННННООООНММММНМЛМММММММНЛЛЛЛММММММЛЛЛЛММЛММЛККЛЛММММММЛЛЛЛЛММММММНННМММНООООООООНОООНМНННННММЛМММЛЙЙИИГЕЕДЦЦЦББАЮчэээщэээээээщщчщщэзьжжвыыььвьььыыьвуужжужввутсрсяяяррсувжжыэщэшэщчщщчъЮЮАБЦДДЕФДДЕЕЕДДЦЕЕЕЕДДЦЦЦББББББАБББАААААЮЮЮАБББАААБББЦББЦБББЦДЦЦДДДЦЦЦЦЦБББББББАААББББАААЮЮъъъъъъъччщэщчщщээшшшззшэзьжужжжжуссссжуутттттттссттсрсяпопяяяяярррряпппонноликлммлккклллкйиихгфффффгггххииииихфедеецбддца©╫╩╩╩╩╩╪╫╬╫╪╩╪╪╨╧╥╥╥╣╢Ё╣╤╢╜╖╕╓╒╒╒║÷²° ≥≈∙⌠▒░█▀┬┤├┘┌~|yvtssqpmkheb`[XUSQOLLIHGFEDB@><:9764210.-,*('#!									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 #%(+-/0234689;<?ACDDDGHJKLNOQRTX[\]_cfhloqtwyz|~─│┐├┤┼█▐▓∙≤≥≤≤⌡·÷═╒╒╒╒╔╘╝Ё╢╢ЁЁЁ╡╢╥╧╨╨╪╬╬╨╣╢╤╥╥╦╧╩╩╪╫╬╫╬╬©бегггхиийклнннмммнннмнооооппяяпяяяпоппяррсттссссссссстттуууужжввжвьыььыыыызшззшшшэээщщщэщщщщчщчЮЮчщчъъЮЮЮЮЮъъЮЮАЮЮААААААБББЦЦЦЦЦЦДЕЕЕДДДЕЕЕЕЕЕЕЕЕЕЕЕФФФГГФФГГГХХГГГХГГХХГГХХХИИИИИИЙХХХХХХХХХХХИИИИИИИХХХХХХИИИИХХИИИИЙЙККЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙХИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИЙЙЙЙЙККККЙКККЙЙЙЙЙЙЙККККККЙЙККККККККМЛЛЛККККЛЛММННННННННННННМНОНОООННООООНООНОООООООННММННММНМММММММЛМММММММММЛЛЛЛММЛММЛЛЛЛММММММММЛЛЛЛММММММНННММННООООООООНОООНММННННМЛЛЛММЛКЙИХГФФЕДЦЦЦББЮъъччщщщччччччъъъъчэзыььзыыыыыыышшзззыьвувььвжжжжттууужьььзэчЮЮЮЮЮААААБЦЦДЕФЕФФГДДЕФФЕДЦФЕЕДДДДДЦЦББЦЦББББББББББАААББЦББАААББЦДДЦЦЦЦЦЦЦЦЕДДДДЦЦЦББББББААААБЦББЮъАЮъъЮАъчЮъчщээщчччщэшшшшшээшывжжввжуссттжжутттсстссссссряяпяярррррррряяпяпннопмиммммллллллккййиихгффффффггхиииихгфеееедбедцбю╬╪╩╩╨╩╫юю╬╪╪╪╩╧╦╤╤╤╣╢╢╤╤Ё╛╖╔╓╒╒║═·²°⌡≥≈∙⌠▓░▄┼┬┤┘└┐│}zxvutspnljgeb`\XUSROLKJIGFECB@?=;975310/.,+)'%" 									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+"%'*-/023468:;<>@BDEEHIJKLNPQRTWZ[\_behloqsvxz|~│┐┘┬┼█░▓∙≤≥≤≥°·÷═╒ёёё╔╗╜╡╢╢ЁЁ╡╠Ё╤╧╧╧╪╬╬╩╤╢╤╥╥╦╧╨╪╪╫╬╫╬╬юцегггхиийкмнннннннномноооопяппппяпонппярссттссссссссттттууууввввжвьыыыыььызэшшшшээээщээээщчччччъЮччъъъЮААЮЮъъЮААЮЮАБААААББЦЦЦЦЦЦДДЕЕДДДЕЕЕЕЕЕЕЕЕЕЕЕЕФФГГГФГГГГХХХГХИГГХХГГХХХХИИИИЙЙХИИИИИХГХХХХИИИИХХИИИИИИЙЙЙИХХИИИИЙЙЙЙЙЙЙЙЙЙЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКЛКЙЙКЛКЙЙЙККЙЙКККККККЙККККККККЛЛЛЛЛКККЛЛМННННМННННННМММНОНОППННОППОНООООООООООННММННММННММММММЛЛМММММММЛЛЛЛЛЛМЛЛЛЛЛЛЛМММММММММЛЛМММММММНННННННООООООООНООНМММММММЛККЛМЛЛКЙХГГГФЕДЦЦЦЦБАААЮъчччъъъъъъъъъъъчщшзззззшшззыэшшэщэзьвьзззыызывжжввьззэчъЮБДДЦЦЦЦЦДДЕЕФГГФФФГЕЕЕФФЕДДФЕЕДДДЕЕЕДЦЦЦЦЦБББББББББББАББЦЦБЦББББЦДЕДДДДДЦЦЦДДДЦЦЦЦБББББББААААБЦЦБЮъЮЮЮЮАЮъчЮъъчщщщчччщэшшээээщэзьввввжуттттуутттттусрррсссряяярссррссрряяппяонноомкннмллллмллккййииихгфееефегхийкйхгфеееедцеддба©╫╪╩╨╩╬бцю╫╪╩╨╦╤╣╣╣╢Ё╢╤╤╠╙╕╔╓ё╒║═·²²⌡≤√■⌠▒░▄┼┬├└┐┐┌~}zxvtsronkifda_\XTTSPLJIHFEDCA@>=;975310/-,*(&$" 									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+"%(*-/0134689;;<>ACEFHIJKMNQRSTVXZ\_cehlnprtvz|~─┌├┬┼█░▓■≈≤≤≥°·÷═╒ёёё╓╖╛╠Ё╢Ё╢╡╠Ё╤╦╧╧╩╪╪╩╥╣╣╥╦╦╧╨╩╪╪╪╫╫©адффггхиийкмоннннноооннооооярооппяяпоппярстттссссссссстттууужввввввьыыыыььышэшшшшээээээшээщчъчщщчъчъАъЮЮЮАЮЮЮъЮААЮЮАБААААББЦЦДДДДДЕЕЕДДЕЕЕЕЕФФФФФФФФФФГГГГГГГГХХХХХХИХХГГХХГГХХХХХИИИХИИИИИХХХХХХИИИЙХХИИИЙЙЙЙЙЙЙИХИИИИЙЙЙЙЙИЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙКККЙЙИИХЙЙЙЙЙЙККЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙКЛКЙЙКЛКЙЙЙКЛКЙКККККККККККККККККККЛЛЛЛЛЛЛМНННММННННННННМНОННППОНОППОНООООООООООННММННММНННММЛЛМЛЛЛМММММЛЛЛЛЛЛЛЛМЛЛЛЛЛММММММММММЛММНННННННННННННООООООООНООНМММНМММЛККЛМЛЛКЙХГГГФЕДЦЦЦЦББЦЦБЮъччъъЮЮЮЮЮЮъъъъъчщщээщщщээшшшшщчщшыызшшшшшэшыввввыэщъААБДЕЕЕЕДДЕЕФФФГГГФФЕФФФЕЕЕЕЕФФЕЕДДЕЕЕЕЕДДДДЦЦЦЦЦЦЦЦЦЦЦБААБЦЦБДЦБББЦДДЕЕЕЕДДДДЦЦЦЦЦББББББББББААААБББЮъъЮААЮъъъъъъъъъчччщщэшшэээщщэшыььжжжжуутсуутттттусрррсссррррсссряссрряпппооонммммнмллллллллккйййииигфеееедфхикмлйгфффффедеедцбю╬╫╪╩╪юдеа╬╫╪╨╧╥╤╣╣ЁЁ╢╤╢╝╗╔╔╓ё╒═÷·²²⌡≤√■▓▒░▄▀┬├└┌┌│~|{ywtqoonkheb_][WTTSPLJIGFDCA@?=<:875320/.,*(%$!									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"$'*,./123578::;=?BEGHIJLMOQRTTUXZ\_cehknpqtuz|~──┌┘┬┴▄▐▒⌠√≤≤ °··÷║╒╒╓╓╕╙╞ЁЁ╡╣╢Ё╢╤╦╧╨╨╩╪╩╦╣╣╥╦╦╦╨╩╪╪╪╫╫©беффгфгиййкмнннооооопнноооопяпппяярряппясстттссссссттсттуужжжжвььввььыыыыьышэшшшшшэээшшшэщщчччщщчччъАЮЮЮЮЮЮЮЮЮЮААЮААБААААБЦЦДЕДДДДЕЕЕДДЕЕЕЕЕФФФФФФФФФЕФГФФФГФГХХХХГХХХХГГХХГГГГГГХХХХИИИИИИХХХХХХИИИИХХИИЙЙККЙЙЙЙИХИИЙЙЙЙЙЙИИЙЙКККЙЙИЙЙЙЙЙЙЙКЛЛККЙИХХЙЙЙЙЙЙЙКЙЙЙЙЙЙЙЙИИЙЙКККККККККККЛККЙКККККЙКККККККЛЛККККККККККЛЛЛМЛМММММММННННННННМНОННООННООООНОООООООООНННММННММННММММММММММММММЛЛЛЛЛЛЛЛММЛЛЛММЛЛММММММММММННННННММННООНООООООООННННМММНММММЛКЛЛМЛЙИХХХГЕЕДДДДДЦДДЦББАЮъААААААААъъъЮААЮЮчччччщщээээщчщээзшээшшэщщшыыызэчЮЦДЦЦЕФЕФЕЕЕФФФФФГГГФЕЕЕГГФЕЕЕФГЕЕЕЕЕЕФФЕДДДДДДЦЦЦЦЦЦЦЦЦЦБАААБББДДЦББЦЦДФФФЕДДДДДДДЦЦЦЦБББЦЦЦББББАААББЮъъЮААъчъЮччъЮЮЮчщщщщээээээщщэшзыыжжжжжутсжжутттссссррссрррррсссрярррряппоннонмлмонмллллллллккйййййихгфееедфгхкнмкгггфффффееедба©╬╫╫╬аееб©╪╩╨╦╥╤╣╢ЁЁ╢╤Ё╛╕╔╕╔ё╒═÷·²°⌡≤√■▓░▐█▀┬┘┐┌─}|zywtqnomjgda^\ZWTTSPLJHGECBA?><;9765320/-,*(%#!
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&)+./0124679:;=?BDEGHJLMNPQSSUX[\_bdgknpqtuy|──┌┘┬┴▄▌░▓∙≈≤⌡²···═╒╒╓ё╔╘╝╡Ё╡╢╢Ё╢╣╤╦╧╩╩╪╪╧╣╣╤╥╥╦╧╩╪╪╪╫╫©цфффггхиййкккмнннннооноппоопяппопяяяяпярсстсстсссттуусстужжввжвьььвввьыыыыызшшшшшшэээшээщщччччщщъъчъЮЮЮъъъЮЮААЮЮЮАААААААББЦДДЕДДДДЕЕЕДЕФФЕЕЕФФФФФФФФФЕГХФФГГФГХХХГГГХХХГГХХГГХХГХХИХХХХХХХХИИХХХИИИИИИИИИЙЙЙЙЙЙЙЙИХИЙИИЙЙЙЙККЙЙККККЙЙЙЙЙЙККККККККЙЙИИКЙЙЙЙЙЙЙЙЙЙЙЙЙЙКИЙЙКЛЛЛЛЛКККККККЙККККККЛЙКККЛЛККЛЛЛЛЛККККККЛЛЛЛЛМММММММНННННННННМНОННООНОННОООННООООННННОНМННННМННММММММНМММММЛЛММЛЛЛЛММНМЛЛММЛЛЛЛММММММЛММННННННММНОООНООООООООММННММННЛМННМЛЛЛМЛЙИИИХГЕЕДДЕЕЕДЕДЦЦЦДЦБЦЦЦЦЦЦЦБЮЮЮАББББЮЮЮЮъчччъъъччщщчщщщщээщщщээщчъЮБЦЕЕЦДГГЕГФЕЕФГГФФГГГФФФФГГФФЕФФФЕЕЕФФФФФДЦЦЦДДЦЦДЦЦЦЦЦЦБЦБЮЮЮАББЦЦЦЦЦЦДДЕЕФЕДЦДДДДДЦЦЦЦБЦЦЦЦЦЦБББАЮЮАБАЮЮЮЮЮъъъъъччъъъчщщщщчщщэшэээээшзыввжжжжутжууттттттсрсссрррррсссррррррряпооннннмнпонмммммлллккйййййихгфеееегггйммйггггггггееедца©╬©╬©беецю╩╨╧╦╥╤╢ЁЁЁ╣╤╡╙╔╔╕╔╓╒═÷··°⌡≥≈∙⌠░▐▄┴├┘└┌─~}{yxvtqomligda^\XVUTSOLKHGECB@?><:876421/.-,*(%# 										
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	"%')-.0123569:;>?ABCEGIKMNOPRSUY\]_acfjmprtvx{──┌┘┤┴▄▌▐▒■≈≤⌡²·²·═║║╓ё╓╗╝╡Ё╡ЁЁЁЁЁ╢╤╦╫╪╫╫╨╣╢╤╥╥╥╧╪╫╫╫╫╫©цфффггийккйййлмнннмнонопппппппонноппппярсттсстттттуужсстужввьужьььвввьыызыззшшшшшшшэээщщчччщщччъЮЮъчъЮЮъчъъЮААЮъъАБАААААББЦДДДДДДДДЕЕЦЕФФЕЕЕФФФФФФФФФФХИГГХХГХХХХГГГХИХГГХХГФИХХХИИИХИХХХХХИИХХХИИИИИИИИИИИИИЙЙЙИИХИЙИИЙЙККЛЛЙККЛЛКЙЙЙКККККККЙККККЙЙЙККЙЙЙЙЙЙЙЙЙЙЙЙККЙЙКЛММММЛКЙЙКЛЛКЙКЛЛКККЛЙКККЛЛККЛЛЛЛЛЛЛКЛЛЛЛЛЛЛКНММЛММННННННННООНОНММННМОНННООНМОООНННННОННННННМННММММММННННМММЛММММММММНМЛЛММЛЛЛЛЛМММММЛЛММНННННММНОООНННННННННЛМННММНОЛМННМЛЛКНКИХИИХГЕЕДДЕФФЕЕДБЦДФЕДДДЕЕЕДДДААЮАБЦЦЦДДЦББААААААЮчщчъъъъъчщччщщчАБЦЦДДФФДЕХХЕХГФФГХГГФГХХГФФГФФГГГФФФДЕЕФФФФФЦЦББЦЦЦБДДЦЦЦЦББЦАЮъЮАААБББЦЦДДДДЕЕЕДЦЦДЦЦЦЦББББЦЦЦЦЦЦЦББАъЮАБАЮБЮъъъЮЮъЮъчщччщэщщчччщэээээээшззывжужжжжтттттууутсссссррррррсссрярсссрпоянмнонопоннноонмллккйййкйихгфееефхгфимлигхххгггхеееецбю©©©юцеецю╪╩╨╨╧╦╣╢╢╢╣╤╠╘╔╕╕╕╓╒═÷··°⌡≥≤√⌠░▐▀┬┘└└┐─}}{xvvtrplkhfda^\WUUTROLKIGECB@?><:875310.-,+*(%# 								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%')+-/1234679;=?ACEGHIJKMPRPSWZ\]_aceinqrtvy}~│┌┐┤▀▀▌▒⌠■√≤ °··²·║╓╓╕╕╕╚╡╢╡╣╢ЁЁ╢╤╧╩╨╪╬╫╨╦╥╥╧╦╦╦╨╪╪╪©©ацфггфиииийкллнноннмнноооппппояппяомосяррссстууужжтстжтууужжжжужьыьььььыызшшшшэээщщччччччщщччччщэщъЮАЮЮЮЮЮъЮЮАЮЮЮЮААББААББЦЦДДЕЕЕЕЕДДЦДДЕЕФФФФГГГГГГГГГГГГГГГГХХХХХГГГИХХХИИХГХХХХХХХХИИИИИИХХХИИЙЙИИХИХХИЙЙИХЙЙЙЙЙЙЙЙИЙЙКККЙЙККЙЙЙЙЙЙЙЙЙЙЙЙЙККККЛККЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККЛЛЛЛЛЛЛККЙЙЙЙЙЙЙЙЙЙКККЛЛЛККЛЛЛЛЛЛЛЛЛКЙЙЙКЛЛЛЛЛЛЛМНМММММММНННМММННННННННОПППППОООНООООООООННННННММММЛЛМНМЛМММННННММММЛЛЛЛЛММММММННММЛЛЛЛММММММННННММННННММООНННННООНММННМЛМММММЛЛЛМЛЙИИИХХХГФЕЕЕФФЕЕДДДЕЕФДДДДДДДДЦЦДДЕЕФФФЕЕДДДДДБББАЮъЮЮББААЮЮъъААААБЦДЕЕФФФФФГГГХХХХХГФГГФФФФФФГГГГФГГГЕЕФФЕЕЕЕЦЦЦЦЦЦЦДЦЦЦЦЦЦЦЦЦБАЮЮЮААДДЦЦЦЦЦЦДДДДДДДДБЦДДЦББЦБББЦДЦАЮАЮъъЮААЮААЮЮЮЮЮЮъъъъъъъъъчщээээшэээээшззыыыыыьжутжвжтсттрсттсрссярррррссряяяяярряпнннооояоммнонмклмлкйийкиххгеегффгхииккиииииихгфффедцаю©╬аддеда©╨╧╨╦╤╤╣╣╣╣╢╞╘╕╕╓╓ё╒═÷··÷°≤≈√∙▓░┼┬┤├└│~}|zxvvtrpokfba_\ZWVTRQOLKHGECBA@?=;86420/-,+)(&#!
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$&(*,/012468:<>@BDEGHIJKMOQRTXZ\]`abdhmpqsuz}┌┐└┬┼▀█▒⌠■√≤ °····║ё╓╔╔╕╚╠╢╡╢╢╢╢╣╤╦╧╨╪╫╫╩╧╥╥╥╥╥╦╨╪╫╫╬©ацфггфххиййккклмнннннооооооооояпппонпряярсстужуужжустжтуужжжжжжвььььььыыззшшшшшэээщщщчччщщщщччччччъЮЮЮЮЮЮЮЮЮЮАААААААААБББЦЦДДДЕЕЕЕЕДДДЕЕЕФФФФФГГГГГГГГГГГГГГГГГХХХХХГГИХХХИИХГХХХХХХХХХИИИИХХХИИИЙЙИИИИИИИЙЙЙИЙЙЙЙЙЙЙЙЙЙЙКККЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККККЙЙККККККККЙЙККККККЛЛЛЛЛККККККЙЙЙЙЙКККККЛЛЛКЛЛЛММЛЛЛЛЛЛКККЛЛЛЛЛЛЛЛЛММММММММНННННННННННННОООППООООООООООООООНННННННМНМЛММНМММММННННМКЛЛЛЛЛЛЛМММММММНММММММММММННННООМННННННМОООННННННМММННМММММММЛЛЛЛКЙИИИХХХХФЕЕЕЕФДЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕФФФФГФФЕЕЕЕЕЦДЦБАЮААЦБББААААББББЦЦДДЕФФФФФГГХХИИИХГГГГГФФФГГХГГГГГГГЕЕФФЕЕЕДЦЦБББЦЦЦЦЦЦЦЦЦЦЦЦББААААБЦЦЦЦДДДДДДДДДДДДЦЦДДЦББЦЦЦББЦББААЮъъЮЮЮЮЮЮЮЮЮЮЮЮъъъъъъъъъчщээээшшэщщщэззшззззывжужвжустуттуутсссяяяррррррррррррряпоноппопоммнонмлммлкйиийххххффгфггххийкихххххгффффедцбаю©бедееб©╧╦╧╥╣╣╢╢╣╣╢╝╗╔╕╓ё╒║═·²²²⌡≤√√■▒▐▀┴┤├┘│~}{xvutrpokfca_\YWUTRQOLKHGECBA?>=;86420/-,*)'%#!
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&'*,.012458:<>?ACEFGIJKMNPSUXY[\_abcgloprty}~┌┐└┤┴┼█▒⌠■√≥≥⌡·÷·÷║ё╓╔╔╕╙╟╢Ё╢╢╢╣╣╤╥╥╨╩╫╫╫╨╦╤╤╤╥╦╩╪╫╬╫©ацефффгхийккккйкмнннооооооооонояяонопяяярсстужжужжутувуужжжжжжжвььььыызззшшшшшшшэээщщщчщщщщщччъъъъъъъЮЮЮЮЮЮЮАААААААААБББЦЦДДЕЕФЕЕЕДДДДЕФФФГГФФФФФФГГГГГГГГГХХХГГХХХХХХХХХХИХХГХХХХХХХХХИИИИХХХИИИИИИИИЙИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККККЛЛЛЛКККККККККККЙЛЛЛЛЛКККККККККЙЙККККККЛЛЛЛЛММММММММЛЛКЛЛЛЛЛЛЛЛЛЛММММММММННННННООНННООООООООООПППООООООООНННННННМНМММНННМММММММММККЛЛММММММММММММНММММММННННННОООНННООНННПОООННННММММНННММММММЛЛЛЛКЙИЙИИХИХГФЕЕЕФДЕФФФФЕЕФФФФФФФФГГГГГГГГХГГГФФФФФФЕДЦББЦДДЦЦЦЦЦЦЦДДДДДДЦФФГГГГГХХХИИИХХГХХГГГГГГХХХГГГГГЕФФЕЕЕДДЦЦБББББЦЦЦЦЦЦДДДДЦЦБББББЦЦЦДДДДДДДДДДЦЦЦЦЦДДЦЦБЦДЦБААББББАЮъъЮЮЮъЮЮЮЮъъъЮЮъъъъъъъчщээээшшэщчщэшзэшзззывжужвжуттутууутсссррррррррсссссрррппоппяпппоммнннмммллкйихиххихгггггхххийкйихххгфеффффедббю©цеееебю╨╦╧╥╣╣╢╢╣╣Ё╜╖╔╕╓ё╒║÷·°°⌡≥≈√√■▒▌▀┴┤┤┘┌}{xvutrpmjfca^[XWUTRPNLKHGECBA?><;97420.-,*)'%"!
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%'*,./024579;=?@BCEFHJKLNOSTWXY[^`bcfknprtx{|~│┌┐├┬┼█░⌠■√≥≥⌡²÷÷÷║╒ё╓╔╕╘╞Ё╢╢╢╢╢╣╤╥╦╨╨╪╫╬╪╧╤╥╦╦╧╨╩╪╪╫©адефффгийкккккйкмоооооооооооонняяннпяпррсссстужжжжжтувужжвввввввььвьызззшшшшшэээээщщщщщщщщщщччъЮЮЮъъъАЮЮАЮЮЮААЮЮЮААБЦЦЦЦЦДДДЕЕФЕЕДДДЕЕФФФФФФФФФФФГГГХХГГГГХХХХГГХХХХХХХХХИИХХГИИИИИИИИИИИЙЙИИИЙИИИИИИЙЙЙИИИЙККЙЙЙЙЙЙЙЙЙЙЙЙККККЙЙЙЙККККЙЙЙЙККККЛККЙЙКККККККЙЙЙЙККККККККЛЛЛЛЛКККЛЛЛКККЙЙЛЛЛЛККККЛЛЛМММММММММЛЛЛМЛЛЛЛЛЛЛЛЛЛЛМММММННМНННООННООППООООООООООООООООООННННННННННННННННММММММММММММННННММММММММНММММММНННННННННННООООННОООООНННННМНННННМММММЛЛЛККЙЙЙЙЙИИХГФЕЕЕФЕФФФГФФФФФГГГГФФХХХХХХХХХХХХХГХХГГФЕЕДДДЕЕЕЕЕЕЕЕДЕЕФФЕЕДФГГГГГГХХХИИИХХХХХХГГГГГИХХХГГГГФФФЕЕДДЦДЦЦБЦЦЦБЦЦЦЦДДДДДДЦЦЦЦЦЦЦЦДДДДЕЕДДДДЦЦЦЦЦЦЦЦЦЦЦБЦЦББАББББАЮъъъъъъъЮЮЮЮъъЮЮЮЮъъъъччщээээшшэщщщэшшэшззыывжжвввуууутууутссстссссссрсссссррряяяяряппоннннннмнлккккйиииииихгггхихххиклкйиихгфффффедцбююцфеееца╩╧╨╦╤╤╣Ё╣╣╡╚╕╔╖╓ё╒═÷·°⌡ ≥≈√√■░▌▀┴┤├┘┌─}{xvusqolifc`]YWVUSRPNLJHFDCA@?=;:8641/.-,*)'$" 											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$'*,./014578;=>@ABDFHJKLNOSTVXYZ]_ccfknprtwz{}─┌┌┘┬┴▄░⌠■√≤≥⌡²·÷═║╒ё╓╔╔╗╝╡╢╣╢ЁЁ╢╤╦╨╨╨╩╫╬╫╨╥╥╦╧╧╨╩╪╪╬юцдееффхиккккклклноооннпппооооонппннпяпсссссстужжжжжужвжжввввввььььвьызшшшшшшэээээщщщщщщщщщщччччъЮЮъъЮАЮЮАЮЮЮАБААААББЦЦЦЦЦДДДЕЕФЕЕДДЕЕЕФФФФФФФЕГГГГХХХХГГГГХХХХГГХХХХХХХХИИХХХХИИИИИИИИИИЙЙЙЙИИЙЙИИИИЙЙЙЙЙЙИЙККЙЙЙЙЙЙЙЙЙЙЙЙККККЙЙЙЙККККЙЙЙЙКККККККЙЙККЛККККЙЙЙЙККККЛЛЛЛЛЛЛЛККККЛЛЛКККККЛЛЛЛЛКККЛЛЛЛЛЛММЛММЛЛКЛМММЛЛЛЛЛЛЛМММММММММММНННОННООППООППППООООООООООООООННННННННННННННММММММММННННННММММММММММММММММММММНННННННООООООНННННОООООООННММММММММЛЛЛЛКККККЙЙИХХГФФФФГГФФФГГХГГГГГГГГГГХХИИИХХХХХХХХХИХГГФФЕЕФФФФФФФФЕФФГГГГФГХХХХГХХХХХХХХХХГГГХХХХХИИХХГГГГФФФФЕДДДЕДЦЦДДДЦДЦЦЦЦДДЕДДДДДДДДЦДДДДЕЕЕДДДДЦЦЦЦЦЦЦЦЦЦЦБББЦББАААБАЮъччъЮъъЮЮЮЮЮъЮЮЮЮъъъъчччщээээщщээээээщэшззыььвьввжжжжуужутсссутссттсрсссссряяррррряпооонннннммлккллккииййииххххихггийнмккйихгффффедцбаюдфеееца╩╧╨╦╤╤╣Ё╣╣╟╚╖╕╖╔╓╒║═·²⌡ ≥≈≈√■▒▌┼┬├├└│}zwutsqokheb_\XUVUSQPNKJHFDBA?>=:98530/.-,*(&$!											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $&*+-./13568:=>@ACDEGIKLNPSUWXY[]_ccejnprtwz{}│┌┌┘┤┴▄░⌠■√≤≥ °··═║╒╓╓╔╔╗╛╠╣╤╣╢Ё╢╤╦╨╩╩╪╫╬╫╨╦╤╥╦╨╨╩╪╫©бдфеефгийккйклмлмноонноппооооопноооояяясстсссттжуужжужвжввьььььььььььызззшшшшээщщщщщщщщчщщщчччъщчъЮЮЮААЮААЮЮЮАБЦБББАБББЦЦДДДДЕЕЕЕЕЕЕЕЕЕФФФФФФФЕГГГХХХХХГГГХХХХХХХХХХХХХХИИИХХХХИИИИИИИИХХИИИИИИИЙЙЙЙЙЙИЙЙЙЙЙЙЙКЙЙЙЙЙЙЙЙКЙЙЙККККККККККККЙЙЙКККККККККККККЛЛККККККККККЛЛММЛЛЛКККЛЛЛЛЛКККККЛЛЛЛЛЛККЛЛЛЛЛЛММЛЛЛЛККЛММММММЛЛЛМММММММММММММННННННОООООППППООННОООООООООООННННННННННМНННННММММНМММММЛЛЛМММММММММММММММММММНННННННООООННМНННОООООООННММММММММЛЛЛЛКККККЙЙИИХХГГГГХГГФГГХИГГХХХХГГГГХХИИХХГГХХХХХХЙИХГГГГФГГГГГГГГФГГХХХХХХХИИХХХИХХХХХХХХГГХХХХХХИИХХГГГГФФФФЕЕДДФЕДДЕЕЕДДДЦЦЦЦДДДДДДДДДДДДДДЕЕЕЕЕДДДЦЦЦЦЦЦЦЦЦЦЦБАБЦЦБАААБАЮъччъЮъъЮЮЮЮЮЮЮЮъъъъъъъъчщэээщччээшэщщчщэшшшззьььввжжжужжжуттуутссссрярррсрряясрряяяоноооооннммллллммлиййиийиххиихффхинмкййихггггфедцбааегфефдю╨╧╧╥╣╤╣╢╣╢╞╙╖╖╕╔╓╒║═÷²°⌡≥≤√∙⌠▒▐┼┬├┘┐│~~|yvtsrpojheb^[WUUTRPOMKIGFDB@?=<997520//-,*(&# 
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#%)*,-.02457:<>@ABDEGHJMOQRTWYZ[]^bbdhmoqswz{}┌┐┐┘┤┴▄░⌠■∙≈≥ °²·═║ё╓╓╔╔╖╚╟╣╥╤╣╢╣╤╥╦╩╪╪╫╫╪╨╧╤╥╧╨╨╩╪╫юцфгфефгийкйййлмклннннооооооооопонопппяррссссстужуужжужвввьььььььыыыььыыззззшшээээщщщщщщччччччъъчччъЮААЮЮАААЮЮАБЦЦБББАААДДДДЕЕЕЕЕЕЕЕЕЕЕЕФФФГГФФФГГГГХХХХХХХХХХХХХХХИХХХХХИИИХХХХИИИИИИИИХХИИИИИИИИЙЙЙЙИИИЙЙЙЙЙЙКЙЙЙЙЙЙЙЙККЙЙЙКККККККККККЙЙККККККЙЙККККККЛЛЛЛККККККЛЛЛЛЛЛЛЛКККЛЛЛККККККККЛЛЛЛЛЛЛЛМЛЛЛЛМММЛЛЛЛККЛММММММЛЛЛНННННМММНННМНННННННННОООПППООООООООООООООООННННОМНННММННОНННМНННЛЛЛЛММММНМММММММНММММММНННННННННННООООННННННННМММНННМММММММММЛЛЛККЙКККЙИИИИХХХХХХХХХХХХХХХИИИИХХГГХХИХХГГГХХИИИИКЙИХИИИХХХХХХХХХХХХХХИИИХИИИХХИИИИИХХХХХХХХИИИХХИИХХГГГГФФФФФФЕЕФЕДДЕФФЕДДЦЦЦЦЦДДДДДДДДДЕЕЕЕЕЕЕЕЕЕДДДЦЦЦДЦЦЦДДЦБББЦБАААБББАъччЮАъъъъъЮЮЮъъъъъъъъъъъчщэщщччщээээщчщэшшшшшыььвввввужвжжууужусстсряяррссряяряяяяппоооооонннммммллммйккииййихиигеегимлйииххггггфедбббцфхффгею╨╦╧╥╤╤╣╣╣Ё╝╙╘╖╕╔ё║║══·°⌡ ≤√■▓░▐▀┬├┘┐─~~{yusrqpokhea^ZWVTSQPNLJHGFDB@?=<99742001-+*(%# 												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%(*+--/14468;=?@ADEFHJMPRPSVXYZ\]aacglnprwz{}┌┐┐└┤┴▄░⌠⌠∙≈  ⌡°·═╒ё╓╓╔╔╖╙╟╣╥╥╤╤╤╤╤╥╩╪╫╫╪╩╨╨╦╧╨╨╨╨╨╩адгхфефгийкйиикмклмммнопоонннооппнняяпясррссстужжутужужвввьььыьььызыыььыззззшшэщээээээщщчччччъъЮъччъЮАЮъЮАААЮЮАББББББББЦЕЕЕЕЕЕФФДЕЕФФФЕЕФФГГГГГГГГГГГГГГХХХХХХХХХХИИХХХГХИЙИХХХИИИИИИИИИИИЙЙЙЙЙЙИИЙККЙИИХИККЙЙЙЙЙЙЙЙЙЙЙЙККЙЙЙККЛККККККЙЙЙКККККККЙЙККЛКККККККККККЛЛЛЛЛЛЛЛКККККЛЛМККККККККЛЛЛЛЛЛЛЛММММММННЛЛМЛЛЛЛММММММЛЛЛННННННММОНННННННННННННОПОООООПППОООООООООООННННОМНННМММНООННННННЛЛМММНННННММММММНННММННННННННННННННООНННОООННМЛЛЛММММЛМНМММММЛЛЛКЙЙЙЙЙИХИИИИИИИИГГХИИИХХХИИЙЙИИХХХИИХХГФГХХИИИИИКЙИИЙЙЙИИИИИИХХХЙИИХХИИЙИИИИИХИИИИИИИИИИХХИИИИИИИИХГГГГГФФФФФФФЕФЕДДФГФЕДДЦБББЦЦЦДДДДДДДЕЕЕЕЕЕЕЕЕЕЕДДЦЦЦДЦЦЦДДЦБЦЦБАЮЮАЦББАъчъЮБъъчччъЮЮъъъъъъъъъъъчщэщччччщщэээщэшзшшшшыыьвввввуужжутуувжттутсяяррссрряяяпппппоопппооннмннмллмнклкииййихиигедфхмлйииххггггфецбаццгигггфа╩╧╨╦╤╥╥╣╣╡╝╙╘╗╔╔ё║═══·°⌡ ≤∙⌠▒░▐▀┴├┘┐─~~{xusrqpokiea^ZXVTSQONLJHGFCB@>=<:9742112-+*(%"												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%&(+,-/25468:<?ACEEFHLOPORSTWXY[^_`cfjmprwx{││┌└┘┬▄░⌠■∙√≈≥°··÷═╒╒ё╓╔╔╗╟╤╤╤╤╤╣╣╤╥╩╩╪╪╪╪╩╩╤╤╥╧╩╩╪╫адгхфефхиииийклмикллмопнооооооппнннопярсяртттстттттуужжжжввьььььыыззззшшшшшшшшээщээшшэщчччччъъъъчЮЮъЮАААААЮЮААБЦББББББЦЦЦЦДЕФФЕЕЕЕФФЕЕФГФФФФГГГГГГГГГГФФГГГХХГГГХХХХХХХГЙЙИИИИИИИИИИИИЙЙИИИИИЙЙКЙЙИЙКККЙЙЙЙЙЙЙЙЙЙКККЙЙККЙЙККККЙЙИЙЙЙКККЛККККЛЛЛЛЛЛКККЛЛМККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММЛЛЛМЛЛЛЛЛЛЛЛЛЛЛЛЛММЛЛЛМЛЛЛКЛМММММММЛННММООНООНММНООМОПОННОПОООООООНООООООООООООООООННОНММММММММММММЛММММММЛМММММММММММЛМММННННННННННННООООНННОООНННММММММММММММММММЛЛЛЛКЙЙИИХХХИЙККИИИИИИИИЙЙЙЙЙЙИИХХХХГГГХХХИИИЙЙЙККЙЙЙЙЙЙХХИИИИХХИИИИЙЙЙЙИИИЙЙЙИИЙЙЙЙЙИИИИИИИИИИИЙИГГГХГЕФЕЕФФФЕЕЕФЕЦЦЕФЕЕЦБААБЦЕЦДДДДДДДДДЕЕФФФФДДДДЦЦДДЦДДЦБББЦЦЦБААААААЮЮЮЮЮЮЮЮЮЮЮЮЮЮААЮЮЮЮЮЮЮъччщщчъЮщщэээщчччщэшззшшзззыьжутутжвуувжвжуужутсррссссррпяяяяяррряпоооммннмлккллйлкххиигххгеддегиммйгхихггфеддцбюдггффедб╫╧╥╥╤╢Ё╣╣╡╛╗╖╖╕╔╓╒══÷÷·  ≤√∙■▒▌▀┬┘┐┌─}{zxussqoljgc`^[YWTSPNMKJIHGECB@=<77641124-+)'%#
+
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $&(+,-/25678:<>@BEEFHKMNORRTWXY[]^`cfimprwxz}─┐┘┘┬▄░⌠■√≈≤ °²²·║ё╓╓╔╔╕╗╞╣╣╣╣╣╣╤╥╦╩╩╪╪╪╪╪╩╦╥╦╨╩╩╪╫бдгхффгхиййййкллйкллмопоооопппппоооппярсярстсстуттужжжвввввьььььыыыыыззззыызззшшээээщщщчччччъъъъчЮЮъЮААААААААБББББББЦЦДДДДДЕЕФФФЕФФФЕЕЕФФФФГГГГГФФГГГГГГГГХХХХГГГГХХИИИИЙИИИИИИИИИИИИИЙЙИИХХИИИЙЙИИИЙКЙЙИЙЙККЙЙИКККККЙКККККККККККККККККККККЛЛЛЛМКККЛЛЛЛЛККККККККММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММЛЛЛЛЛЛЛЛЛЛЛММЛЛЛМММЛЛЛМЛЛЛКЛММММММММННММООНОННМННООМОПОННОПООПППОООООООООООПОООНННННООНМММНММММММММММММММММММММММММММММММННООООООООНННООООНННОООНННММММММММММММММММЛЛЛЛККЙИИИХХИЙККИИИИЙЙЙЙЙЙККЙЙЙИХИИХХГХИИИИИЙЙЙЙЙЙЙЙЙЙЙЙИИИИИИИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙИЙЙЙЙЙЙЙИИИИИИИИИЙХГГХХГФФЕЕЕФФЕДЕФЕЦЦДЕДДЦББББЦДЦЦДДДДДДДДЕЕФФФФЕДДДЦДДДЦЦДЦБББЦББАААААБАЮЮЮЮЮЮЮАААААААААЮЮЮЮЮЮЮЮъчщщчъъчщщщщщччччщэээээзззыьвжужужвтувжвжжжжутсррррррррярряппяряпоооонннмммммммклкихииииигедцдехлмйгххгхггфдцбабеххффеда╫╧╦╦╤╣╢╤╣╡╛╗╖╖╕╔ё║═÷·²°≥≥≤√∙■▒█┼┬┘┐┌─~|{xusrrpnifc_]ZWUSRPNMLJIHFDCA?<;98630///,*(&$"
+	
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	#%(+--/13578:<>@ADEGHJKMNQRTVXXZ\^`cfilorwwy|~─┐┘┘┬▀▐▓■√≈≥ ⌡°²÷║╓╔╔╕╕╕╗╝Ё╢╢╣╣╣╤╥╦╨╩╪╪╪╪╪╩╨╦╦╨╩╩╪╬бдггффгхййккккккклллмоппооопппппппппяррсрссссстутуужввввввьььыыыыыыыззззззззшшээээщччччщчччъъъъъъЮЮъЮААЮЮАААБББББББЦЦДЕЕЕЕЕДЕФГГФФГФЕЕЕФГГГГГГГГЕФФГГГХХГХХХХХХГГХХИИИИИИИИИИИИЙИИИИИИЙЙИИИИИИИИЙИИИЙЙЙЙИИКЛЛКИИККЛЛКККЛККЛЛЛЛККЛЛКККЙЙЙКККЛЛЛЛЛЙКЛЛМЛЛККККЛЛЛЛЛМММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММЛЛЛЛЛЛЛЛЛЛМММММММНЛЛЛМЛЛЛЛЛММММММММННМНННННННННННОНОПОННОППППППОООООООООООППООННММНОООНМННММММММММНММММММНММММММММНММММНННООООООООНННООООНННОООНННММММММММММММЛЛЛЛЛЛЛЛККЙЙЙИИИИЙККЙЙЙЙЙЙЙЙККККЙЙИИИИИИХХИИИИИЙЙЙЙКЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИИЙЙЙЙЙИИИИИИХХИХГГХХГФФЕЕЕФФЕДЕФЕДЦДЦБЦЦЦЦЦЦЦЦЦЦДДДЕЕЕДДЕЕФФФФЕДДДДДДДЦЦДДЦББББАААААББАЮЮЮЮЮЮЮАААААААААЮЮЮЮЮЮЮЮЮъччччъччщщщччъээээээээззззывжжвуввтувжжввжутттссррррррсрряпппяпоооппооммннннмммкййихийкигеддццгкмкиххфгггфедбадгихгфеца╫╧╦╦╥╤╣╥╣╠╛╗╖╖╕╔ё║÷·²°⌡≥≥≈∙∙■░█┼┬┘┐┌─~|{xtrrrpoifc`]ZVTSQPNMLJIGEDB@><:98531/-++)'%#!
+	
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%(+--.02458:<>@BBDGHIJMOPQSVWXY\^`cfhlorvwy|~─┌┘┘┤▀▌▒⌠∙≈≥ ⌡²·÷║ё╔╔╔╕╕╗╜╡╢╢╣╣╣╤╤╥╨╩╪╪╫╪╪╪╩╧╦╨╩╩╪©цефгффгхийккллкклллллнппноооооннооппяррссссрсстуужжвввввььььыыыызззззшшшзшшшээщщээщщчччччччъъъъЮъЮЮъЮААЮЮЮАБББААБББЦЦДДЕДДДДЕЕФФФФГФФЕФФГГГГГГГГФГГГГХХХХХХХХХХХИИИИИИХХИИИИИИЙЙИИИИИЙЙЙИЙЙККЙЙИЙЙЙЙЙЙЙЙИЙККККЙИЙКЛЛККККККЛЛЛЛККЛЛЛКККЙЙККККЛЛЛЛККЛЛЛЛЛККЛЛЛЛМММММММЛЛЛЛЛЛЛЛЛЛЛЛММММММММЛЛЛЛЛЛЛЛММММММННМММЛЛЛЛЛЛММНМММНННННННННММНОООНННООООНОПППППППООООООООООПООООННННОООНННОННННННННННММММНННННННННННННННННОООООООООНННООООНННОООНННННННННННММЛЛЛЛЛЛЛЛЛЛККЙЙЙЙЙЙЙЙККЙЙЙКККККККККЙЙИИЙЙИИИИИИЙЙЙЙЙЙККЙЙЙЙККККЙЙЙИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИИИИИЙЙЙЙИИИИХХХХИХГГХХГФФЕЕЕЕЕДДЕЕЕЕДДЦЦЦЦЦББЦЦЦЦДДДДЕЕФДДЕЕЕЕЕЕЕДДДДДДДЦЦДДЦБААБААААААБАЮЮЮЮЮЮЮБББААААААЮЮЮЮЮЮЮЮъъчччъъччччччччэээээшшзззззыьвжьжвжтувжжжвжуттуутссрррссряппппяппоопппоннннннммлййккххйкхфееецбфйлкйихфефггфеддегхгффеца╫╧╦╥╤╣╣╥╢╟╛╗╖╕╕╓ё║═÷·°⌡≥≥≈√∙■░█┴┤└┐│─~|{xtsrqoligc`]ZVSSQPNMKJHFECA?=;9974321.,+)'%# 
+	
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$'*,-./13579;>@AADGHIJMPQQSVXXZ\^`cfhlpstvy}─│┐┘┬▀▌▒⌠∙≈≤ °²÷═║╒ё╓╔╕╕╗╛╟╢╣╣╤╣╣╤╤╧╨╩╪╫╫╪╪╩╧╦╨╩╩╫адефгффгихийккллкмллллмопнооооннмннопярссссррсттужжжжжжжуььььыыыыззззшшшшзззшшшээщээээщчъччъъъъЮЮъЮЮъЮААЮъЮЮАААААББЦЦЦЦЦЦЦЦДЕЕЕДДЕЕФФФФГГГГГГГГГГХХХХХХХХХХХИИХХХИИИИИИИХИИИИИИЙЙИЙЙЙЙЙЙЙИЙКККЙЙИЙЙЙЙЙЙКККККЙЙКККЙККККЙЙКККККККККККККККККККККККККЛЛКККЛЛМЛЛЛЛММММММММЛЛЛЛЛЛЛЛЛЛЛЛММММММММЛЛЛЛЛЛММНММММНННМММЛЛЛЛЛЛЛМНММННННННННННМНООООНННООООООПППППППООООООООООООООООООНОООНННОННННННННОННММННОННННННННННННННООООООООООНННООООНННОООНННММММММММММЛЛЛЛКККККККЙЙИККЙЙЙКККККККККККЙКККЙЙИИЙЙИИИИИИККЙЙЙКККЙЙЙЙККККЙЙИИИИЙЙЙЙЙЙЙЙИИККЙЙЙИИИИИИИИЙЙЙИИИХХХГГХХГГХХГФЕЕЕЕЕЕЕДДДЕЕЕЕЕЕДЦББББЦДДДДДДЕФФДЕЕЕЕЕЕЕЕЕДДДДДДЦЦЦЦЦББАББААЮЮАААЮЮЮЮЮЮЮАААААААЮАЮЮЮЮЮЮЮъъчччъъЮччччччччччччщэшшззззыьвжвужурсутуужутттужуттссссрряппяяяяяппппоонноннмлккийлкихийгеееедбехклкихфефггфеееегхгффецб╬╨╦╥╣╢╣╤Ё╝╙╗╖╕╔ё╒║═÷·²⌡≥≥≤√∙■░█┬├└┌│}{zwusrplihfc`]ZVSSRPNLKHGFECA?=;9864331.,+)'%# 		
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&)+,-/14579;<>?ACFHIJMOQRTWYY[]^adfhkpstuy~──│┐├┬▄▐▓■√≈≤≥⌡²÷═║║ёё╓╕╕╗╚╞╣╣╤╤╤╣╤╤╧╨╩╫╫╫╪╪╪╧╦╨╩╩╫бдефффгхигхийккллмлкллмнпоооооннмннопяррссррсстттжжжжжжууьььььыыыыыыззззшшшээээээщээшэщчъччъъъъЮЮъЮЮъЮААЮЮЮЮАААААББЦЦЦЦЦЦБЦДЕФЕДЦДЕФФФФГХГГГГГГГГХХХХГГХХХХХИИХХХХХИИЙЙЙЙИИИИИИИЙИИЙЙЙЙЙЙХИИЙЙЙИХЙЙКККЙККЛККЙЙККЛЙЙКККЙЙЙКККККККККККЛЛЛЛЛККККККККЛЛККККЛМЛЛЛЛМММММММЛЛЛЛЛЛЛЛЛЛЛЛЛММЛЛЛЛММЛЛЛММММММММММНННМММЛЛЛЛЛЛЛМННМНННММННННННООООООНОООООООППППППОООООООООООООООППППНОООНННОООООООООООННННООННННННННННННННООООООООООНННООООНННОООНННМММММММММММЛЛККККККККЙЙИКККККЙККККККККЛЛЙЙКККЙЙЙКЙИИЙЙЙИККЙЙЙЙККККККККККЙЙЙЙЙЙЙЙЙЙЙИИИИИКККЙЙЙЙЙИИИИИИИИИИХХХХХХХХХХХГГФЕЕЕЕФФЕДДДДЕЕЕЕФЕДЦББЦДЕЕДДДЕЕФФЕЕЕЕЕЕДДЕЕДДДДДДЕДЦЦЦЦБАЦБАЮЮЮЮААЮЮЮЮЮЮЮААААЮЮЮЮАЮЮЮЮЮЮЮъъчччъъъчччччччччччщщэшзззззыьвжжтутяясрстттсттууууттсссяяппяяяярряпппонооонмлккйййккиххигееффдцдфйккйхггххгедцдеггфффецц©╩╧╥╣╢╣╤╠╛╘╗╕╔╔╒║═÷÷·°⌡≥≥≤√∙■░█┬├┐│─~|zywusrnjfgda^[YUSSRPNLJHFFDCA?=;9753210-+,*'%"					
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+"%(*+,/13579:;=>ACEGHJLNPQTWXYZ\^`cegkostuy}─┌└┘┬▄▐▓■∙√≥≥⌡°·═║║ёё╓╕╖╗╚╝╢╣╤╤╤╤╤╥╦╧╩╫╫╫╫╪╬╧╦╨╩╨╫беефффгхихииийкклмкклллмоооооонммоппяяррррррстуттужжжжжжжьььььыыыыызззззшщщщччщщщээээщчъъчъъъъЮЮЮъЮЮъЮААЮААААААББББЦЦДДДДДДЕФФЕЕДЕФФФФФГХФФФГГГГГГГГГГГХХХХХХХХХХГХХИИЙЙИЙИИИИИИИИИИЙЙЙИИХХИИИИИИЙЙККЙЙККККККККККЙКЛЛККЙКККЛЛЛЛКККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККЛЛЛЛЛЛЛЛЛМММММЛЛЛЛЛЛЛЛЛЛЛЛЛЛМЛЛЛЛЛЛМЛЛЛМММММММММММННМММЛЛЛММЛЛМННННОНММНОННОППППОООООООООПППООПППОООООООООООООООООППННООНННОООООООООООООООООННННННННННННННООООООООООНННООООНННОООНННМММММММММММЛЛЛКККККККЙЙЙКККККЙЙЙККККККЛЛККККЛКККЛКЙЙЙКЙЙККЙЙЙЙККККККККККЙЙЙККЙЙЙЙЙЙЙЙИИИКЙЙЙЙЙЙЙИИИИИИИИИИИИИИИИХХХХХГФФЕЕЕЕФФФЕЕЦЦДЕДЕГЕЕДДДДЕЕЕЕЕДЕЕФФЕЕЕЕЕДДДЕЕДДДДДДФЕЦЦЦЦЦБББАЮЮЮАААЮЮЮЮЮЮЮЮЮЮЮАААААЮЮЮЮЮЮЮъъъччччччччччччщщщщээшшшшшззывжуутутяярясрррсттттттсссрряяяярряпрряпппоооонммлллкккииййихгфффедццехккйихгггфцбцдгххфффдцдю╪╧╦╤╤╥╣╟╙╗╗╕╔╔╒║║═÷²⌡ ≤≤≤√∙■░▄┴├┐│─~|zyvtrqnjffc`][XVTSQPNLJHFEDB@?=:965310.,++)'$"
+					
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		"$()*,/12368:<=?BCDFHIKLOPRUWWXZ]`cegjosuvy|─┌┘┐├▀▐▒⌠■∙≥≥ ⌡²÷║╒╓╓╔╖╖╗╙╜Ё╢╤╤╤╥╥╦╦╧╩╫╫╫╫╪©╨╦╨╩╨╪аеефффгхийиииийккмкклмллннноонмлляяяррряярррсуутсуужжввввььььььыызззшшшшшэщщщщщээээщччъъъъъъъъЮЮЮъЮЮъЮААЮБААААБЦЦББЦДДЕЕЕФФФФФФФФФФГГФФФГФФФФГГГГФФФФГГХХХХХХХХХХИИИИИИХХЙЙИИИИИИХХИИИИИИИИИИЙЙЙЙИЙККЙЙЙККККЛЛКККЙКЛЛЛКККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛЛКЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛМЛЛЛЛЛЛМЛЛЛМММММММММММНННММЛЛЛММЛЛМННННОНММНОННОЯЯППООООООООППППОООООООНООООООООПОООООООННООНННОНННННННННООППООНООООООООННННННООНННННННННННООООНННОООНННЛЛЛЛЛЛЛЛНМММЛЛККККККККЙЙКККККЙЙЙККККККЛЛККЛЛЛЛЛЛЛКЙЙКККЙККЙЙЙЙККККККККЙЙЙЙККККЙЙКЙЙЙЙЙЙЙИИИХХИИИИИИИИИИИИИИИИИИИХИИХХГФФЕЕЕЕФГФФЕЦЦДДДЕГЕЕФФФФЕЕФЕЕДДЕФФЕЕЕЕЕДДДЕЕЕДДДДДГЕЦБЦЦЦЦААЮЮЮААБАЮЮЮЮЮЮЮЮЮЮААААААЮЮЮЮЮЮЮЮЮъччщщэччччччщщчщщщщщщщшшззывжужужжсрсяряпястттррссрряяяяяяррпоряяпяяпооонмммммлмкххйлкихггфедцбдхккйииеффдббцеииигффдбдю╪╨╦╥╥╦╣╞╙╗╗╖╕╕ёё╒║═·⌡ ≤≤≈√∙⌠░▄┴┤└┌─~|zyvsqpnjgfd`][YWURQONLKHGEDB@><:854210/.-+)&$!	
+
+		
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!#&)+-/023579;=>@CFHHIKMMOQTVXZ[Z^cfgjmptvy|~─┌┐├┬▀█░▓⌠∙≤≥⌡°·÷║ё╒╒╓╔╗╘╚╛╡╣╤╣╢╣╥╦╤╧╩╩╪╫╫╪╫╨╦╧╩╪юцеееефгхийккклммкйкллмннноппоммнопярряярсррстжжуттуужжжжжвьььввьыыыызшшэщэщщщщщээчъъччччъъъччъъЮЮЮЮЮЮЮЮАААЮЮАБАБЦББЦЦДЕЕЕЕЕЕЕФФФФФФФФФГГГФГХГГХХФИХХГГХХИИХХХХХГГЙИГХЙКИХЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙККККККЛКЙЙКЛКККККККККККККЛЛЛЛЛЛЛЛМММЛЛМЛЛЛЛЛЛКЛЛЛЛЛЛММЛЛЛЛЛЛЛЛММММММЛЛЛЛММММЛЛЛЛЛЛЛЛЛЛМММЛЛЛЛЛММММММММЛЛММММММММННННННННОООООПООООООООООООООООПППООООООООООООНННООООООННННННННННННООООООППППООНООПООНННННННОООООООООООННННННННМНООНННООНМЛЛЛММКМММКККМЛЛКЙЙККЛЙЙКККЙЙИККККЛЛЛКЙКККЙЙКЛКККККККККЙЙИИИЙЙЙЙИЙКККЙИИЙЙКККЙЛКЙЙЙЙИИКЙИИЙКЙИХИИЙЙЙЙЙХХИИИИИХЙИИИХХФЕФФФЕЕФФЕЕЕДДДЕГГЕФФФГФФФФФФФФФФФЕФЕЦЦДДЦЦЦДДДДДДДДДДЦБАЮАБАЮЮААъчъъЮЮЮъъЮААААААААЮъъЮЮЮъАЮъчъъчщЮъчщщщчъчщщщччщщщэзыььььжжжутсррсссряясусряярррррряппппяряяяппооооооонмклкккккййгхггфедцдццгккифеффеддддхххххебюаю╪╧╥╥╦╧╣╜╗╖╗╖╕╖╕╓╒║═·°°≤≤≈≈∙▓▐█┼┬└┌│~{xvtrqpnkhgc_[ZYXVSQNMLKHFDCA@><:85420/-,**(&#!	
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$'*,-/0024679;=?BEGHIKLOPRTVX[]\_cfhjnqtvy|~─┌┐┘┤▀▌░▓■√≤≥⌡°²÷║╒ё╓╔╕╖╘╙╚╡╢╣╣╣╤╥╥╤╦╨╩╪╬╬╫╫╩╧╨╩╫юдфееефгхииккккллкккллммммноонммоппяссрярсссстууутужжвввввжвьыььыыыыззшшэщээщщщщээщчччщщчъъъччъъЮЮЮЮЮЮЮААААЮЮББББДББЦЦДДЕЕЕЕЕЕЕЕЕЕФФФФФФГГФГХГГХХГХХХХХХХХХХХХХХХХЙИХХИЙИХЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙИЙЙЙКЙКККККККККЙЙКККЙКККККККККККЛЛЛЛЛЛЛЛМЛЛЛКМЛЛЛЛЛЛКЛЛЛЛММММЛЛЛЛЛЛЛЛММММММЛЛЛЛММММЛЛЛЛЛЛЛЛЛЛММММЛЛЛЛНММММММНМММММНННММННННННООООООООООООООООООООООООППППОООООООООООООООООООНООООООООННООООППООППППООНОООООННННННООООННННННННННННННННМНООННННННМММММЛКМММКККМЛККЙЙЙККККККККЙЙККЙКЛЛЛКККККЙЙКЛКККККККККЙЙЙЙЙЙЙКЙЙЙККЙЙИИЙЙКККЙКЙЙЙККЙЙКЙИИЙЙЙЙИИЙЙЙИИИХХИИИИИИЙИХХХГФЕЕФЕДДЕЕДЕЕЕЕЕФГГЕЕЕФФФФФФФФФФФФФЕЕЕЦЦДЕЦДДДДДДЦЦЦДДДЦБАЮАААЮЮААъъъъЮЮЮЮЮЮААААААААЮЮЮААЮЮЮЮъъъъъчъъчщщщчччщщщччщщщэшыььььввввжуттррррстттутсррсрррряппппяяяяяяяппооооонлклкккккййххггфедддццгйкигфффедддехггффдбаба╬╨╥╥╦╧╢╜╗╗╗╕╕╕╔ё║═÷²⌡⌡≥≤≈√■▓▐█┬├┐│─~zwvtrqpnjhda][ZYWVRPNLKJHFCBA?><985420/-,**(%#!	
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+!#'*,./0013579;<?ACEHIKLOPQSUX\^^adfhjnqsux{}│┐┘┤┼▌░⌠∙√≤≥ °²·═║╓╔╔╕╖╗╘╘╠Ё╣╣╤╥╥╤╤╦╧╨╪╬╬╫╬╪╩╩╪╬адфффффгхихйлкййкклллллллкмнннммопоясссррстттууутсжжжввьььужьыыыыызззшшээщшэээщщщщщщщщщщчъъъъъъъЮЮАААААААААЮАБББЦДЦЦЦЦДДДДДДДДЕЕЕЕФФФФФФФФФГХГГХХГХХХХХХХХГГХХХХИИИИИИИИИИЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККККЙЙКККККККККККККККЛЛЛЛМЛЛЛЛЛЛККЛЛЛЛЛЛЛКЛЛМММММЛММММММММММММММЛЛЛЛММММЛЛММММММММММММЛЛЛЛНММММММНМММНННННММННННННОООООНННОООООООООООООООООООППППППОООООООПППППООНОООООООООООПППППООППППООООООООННННООООООННННННННННННННННННООННННЛМНННММЛЛЛММККЛЛЛККЙЙЙККККККККЙЙККЙККЛККККЙЙИЙКЛКККККККККЙЙЙЙЙКККЙЙЙЙКЙЙИЙЙЙЙККЙКЙЙЙККККЙЙЙЙИИЙКЙЙЙЙИХХХХХИИИИИИИХХГГГФЕДЕЕЦЦДЕДЕЕЕФФФГГДЕЕЕФФГГФФФФФФФФДЕЕДДЕЕДДДДДДЦЦБЦЦДЦЦБААЮЮЮъЮАЮъъъъЮАААААААААААААЮЮЮАААЮЮЮЮЮЮЮЮЮчччччччччщщщччщщщэшзыььььььввжжжррртжвжужуттссрррряпппяяяяяяяяяяпоонннлккккклккйихггфееедццфикйххфефецдгйигфееддбб©╨╥╥╦╦Ё╜╗╗╗╕╔╕╓╒═÷·°  ≥≤≈∙■▒▐█┬├└┐┌─|yutrqomjhda][ZXVUQOMKKIGEBA@>=;975420/.,+*(%# 	
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!#&)+-/0014679<=?@BEGJKKNOQSUX[]`bdfgjmprtx{}│┐┘┤┼█░▓■√≈≥ ⌡°·÷═╓╓╔╕╖╖╗╗╟╡╣╤╥╦╥╤╥╦╧╨╪╬╬╫╬╫╪╩╪╬адфффффгхихклйиикклллллллклмннммнпнпрссррртттуууттууужжвввжвьыыыыышшшшшэээшшээщщщщщчччччъЮъъъъъЮЮЮАААААААААЮАБББЦДЦЦДДДДДДДДДЕЕЕЕЕФФФФФФФФГГХХХХХГГХХИИХХГХХХХХХИИХИИИХХХИЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККЛККККЛККЛЛЛЛЛЛЛЛККЛЛЛЛММКЛЛЛЛЛЛКЛЛЛЛЛЛЛЛЛММННММЛММММММММММММММЛЛЛММММММЛМММММММММММММЛЛЛННММММННННМММНННММННННННОООООНННОООООООООООООООООООППППППООООООООООППОООООООООООООППППППОППППППОООООООННООООООООООООООООНННОООООННОНННННЛММННММЛЛЛМЛЛКЛЛЛКККККККККККККЙЙККЙЙКЛККККЙИИЙККЙККККККЙЙЙЙЙЙККККККЙЙЙЙЙЙЙЙЙЙЙЙЙКЙЙЙКЛККИЙКЙИИЙКЙЙЙИИХХХХХХИИИИИХГГФФФЕДДЕЕЦЦДДДДЕФФГГГФФЕЕЕФФГГФФФФФФФФДЕДДДЕЕДДДДДДЦЦБЦЦЦЦЦБААЮЮЮъъЮъчччъЮЮААБАААААААЮЮЮЮЮААААЮЮЮЮЮЮЮЮчъъъъччччщщщччщщщэшзыыььввввжжжжтстувьвввжутттсрсряяпяяяррряяяяяпонннмлкйййкллкйихгфффффдццехккийфефецеийихгфеддюа©╧╤╥╥╥╡╜╘╗╗╕╔╔╓╒══·°⌡⌡≥≤√∙⌠▒▌█┬├└┐┌─|yutrpomjgeb_\ZXUSQOMKJIGEB@?=<:875320/-,*)'%"								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%(*,./01367:<=?@BDGIKKMNQSVXZ[`bcefilnrtwz}│┐┘┤┼█▐▒⌠■≈≤ ⌡°²÷═ёё╓╕╖╖╗╗╞╡╣╤╦╦╦╤╦╧╨╨╪╬╫╪╫╫╪╩╪╬бдфффффгхииклкийкккклллллллмннммноноярсрррссттууууттуужжввььььыыыышшшшшэээшшээщщщчщчччччъЮъъъъЮЮЮЮЮЮЮААААААЮЮБББЦДДДДДДЕЕЕЕЕЕЕЕЕЕФФФФФФФФФГГГХХХХХГХХИИХХГИИИХХХХХХИЙИХХИЙЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККККККККККККККЛЛЛЛЛЛЛЛККЛЛЛЛММЙККЛЛЛЛЛЛЛЛЛЛЛЛЛМММННМММММММММММММММММЛЛЛММММММЛМММММММММММММММЛННММММННННМММММНМММННННОННООООООООООООООООООООООООППППППППООООППНННООООООООООООООООПППППППППППППОООООООНОООООООНООООООООННООООООООННННННММММММММЛЛМЛЛКЛЛЛЛЛКККККККЙЙЙЙЙЙККЙЙККККККЙИИЙККЙЙЙККЙЙЙИЙЙЙЙЙЙЙККККЙЙЙЙЙЙЙЙЙЙЙЙЛКЙККККЙИЙККЙИЙКЙИИИИИИИИИИИИИИИХГФФФФЕДДЕЕДЦДЕДДЕФФГГГФГГГГФГГГФФФФФФФФЕДДЕЕЕДЕЦЦЦДДЦЦЦЦЦЦБББААААЮъъъчщщччъЮЮААААББАААЮЮЮЮЮЮЮЮЮЮЮЮЮЮъъъъъЮЮЮъъччщщщччщщщщэшзыыьввжжжжжжуууутужьжуутуттссрряяяяяррряппоооонннмлкйййкллйиихгфффффддццгйкийфефецейгггфедбб©а©╨╤╥╥╥╟╜╘╗╗╖╔╓ё║═÷·°  ≥≤√■▓░▌▄┬┘┐│─~zvusqpoligda^[YWTRQOMKJIGEA@?=<:864310/-+*(&$!
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $')+-./02569;<?@BDFHJKMORTVXZ[_`bdfgjlqsvy|│┐┘┤┼▄▌░▓⌠≈≤ ⌡°·÷═╒ё╓╔╖╗╗╗╝╡╣╥╥╦╦╥╧╨╨╨╪╫╫╩╪╫╫╩╪╬бдеееффгхииклйийклйкклммммлмннммнооояррряяррсттуужууужжвььзыььыыыышшшшшэээээээщщччщчччщщчъчъъЮЮЮЮЮЮЮЮААААААЮЮБББЦДЕЕЕЕЕЕЕЕЕЕЕФФФФФГГГФФФФФГГГХХХГХХХХХХХХХИИИИХХХХХИЙЙИХИЙЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККККККЙЙККЙЙЙЙЛЛЛЛЛЛЛЛКЛЛЛЛМММКККЛЛММЛЛЛММЛЛММММММММММММММММММММММММЛЛММММММММММММММММММММММММНННММНННННМММММНММММННООННООООППООООООООППППППППППППППППППООООППМННОООООООООООООООООООООППППППППООООООООНОООООННННННННННННООППООООНННННННМММММММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККЙЙЙЙЙЙККЙЙЙККККЙЙЙЙККЙЙЙККККЙЙИЙЙЙЙЙЙЙККККЙЙЙКЙЙЙЙЙЙЙЙККЙЙККЙЙЙЙККЙЙЙЙЙИИИИИЙЙЙИИИХХХХГФЕЕЕЕЕДЕЕЕДДЕЕДДЕЕФФГФФГХХХГГФФГГГФФФФФЕДДЕЕДДЕБЦЦЦДДЦЦЦБББААЮЮААЮъъъчщщщщчъЮЮАБББББААЮЮЮЮЮъъъъЮЮААЮъъъЮЮЮЮЮЮъъчщщщччщщщщэшззыыььввввввужжтссувуутууутсссряяяяррряяпонноннмнмллййкллкйхххггффффдецбейкййгееддфйггхгфдбаюба╩╥╥╦╤╞╛╘╗╗╖╔╓╒═÷÷·°  ≤≈√■▓░█▀┬├┐│─~zwutqpnlhfa^[XWUTRQOMKJIGEBA?=<976320/.-+*'%# 
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&)+-../2468:<>@BDEGIKNOQSUWY[^_bcegijorux{~─┌└├┴▄▐▒⌠■≈≤ ⌡°·═║╒ё╓╕╖╗╗╘╛╠╣╤╤╤╦╦╧╧╧╨╪╬╫╩╪╬╫╪╪©цдеееефгииийкййклкккллммммлмннннопппяяррряярстттужууужввьыыььызззышшшшшэээщээщщщчччччччччъчъъЮЮЮЮЮъЮЮАБББББААБЦБЦДДДЕЕЕЕЕЕЕЕФФФФФФГГГГГГФФХГГИИХГХХХХХХХХХИИИИИХХХИИЙЙИИИЙЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККЙЙЙККЙЙЙКЛЛЛЛЛЛЛЛЛЛЛЛЛМММЛЛЛЛЛЛЛЛЛММММММНННМЛЛЛММММММММММММММММЛЛММММММММММММММММММММММММНННММНННОННМММНННМММННОООООООПППООООООООППППППППППППППППППОООППЯООООООООООООООООППООООООППППППППППООООООНОООООНМННННННННННОППППОПОНННННМММНННМЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛКККККЙЙЙЙЙЙКЙЙЙЙККККЙЙККККЙККККККККЙЙЙЙЙЙЙЙЙКККЙЙКККЙЙЙЙЙЙЙКЙЙЙКККЙЙЙЙКККЙЙЙЙЙИИЙЙЙЙЙИИХХХХГФЕЕЕЕЕДЕЕЕДДЕЕДДЕЕЕФФФФФГХХХГФФГГГФФФФФФДЕФФДДДЦЦЦЦЦЦЦЦБББАЮЮЮъЮЮЮъъЮъчщщщччъЮЮБББББААЮЮЮАЮъчъъъЮААЮъъъЮЮЮЮЮЮъъчщщщччщщчщщэшзыыыыььвввьжжжуууужжууууутсссряяяррряяппоооонмммммлййкллкихгггггфффеедбдикйхгфедегихиихфдцбюдб╩╤╥╥╣╜╚╘╗╗╖╕╓╒║÷÷·°  ≤≈√■⌠░█┼┴┤┐│─|yvtqonkge`]YWUUSRQOMKJIGECA?><975310.-,+)'%"
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ #&)+-..02468;<=@BCDEHKNOPQSUXZ]_aceghinqtx{}─│└├┴▄▐▓■∙√≤≥⌡°·═║ё╓╔╖╗╘╘╘╚╟╣╤╢╣╥╧╦╧╧╧╪╬╬╪╪╬╬╪╪©цедддефгийиййийллклллмммммклннннпяяяяяррррярсссстууууужвььввьзшшзызззшшэээщщщщщчччъъЮъъчъЮчъъЮЮЮЮЮъЮАББЦЦЦБААБЦЦЦЕДДДДЕЕЕЕЕЕЕФФФФФХГГГГГГГХГГИИГГИИХХГГХХИХХХХИИИИЙЙЙЙЙЙЙЙЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККЙЙЙКЛЛЛККЛЛЛЛЛЛЛЛЛЛЛЛЛЛМММММММЛЛККЛМННММНОННМЛЛЛММММММММММММММММЛЛММММММММММММММММММММММММННННННННООНММННННМММННООПППППОООООООООООППППППППЯПППППППППОООППЯППППООННООООООООППППППППППППППППППООООООННОООННМООООООООННОППППОПОНННННМЛМНООМЛКМЛЛЛЛЛЛКЛЛЛЛККККЛККЙЙЙКККЙИИЙККККЙЙКЛЛКИККЛЛЛЛККЙККККЙЙЙЙККККЙКЛКЙЙЙЙЙЙЙЙИИЙКККККЙЙЙКЛЙИККЙЙЙЙЙЙКЙИИХГГГГФЕЕЕЕЕДДЕЕЦЦДЕДДЕЕЕЕФФГЕФГХХХГФГГГГФФФФФЕЕФФДЦДДДДДЦЦББББААЮъъъъъъчъЮЮъчччччъЮЮБББББААЮЮААЮъччъчъААЮЮЮАЮЮЮъъъъъчщщщччщщчщщэшзыызыыььвьььвввььвувжжжжутсссрряярряяяпппооннмммнммййкллкигфгггггфеефдацикйгхфдцегххиигецббюдб╩╣╣╣Ё╛╚╘╗╗╖╕╔ё║═══²⌡⌡≈≈√∙⌠░▄┼┬┘┌─~|zvtqomjgdb^ZWUTSRQOLKJIFDCB@><97521/.-,*)&$!										
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+"&(*,../13479;?@ACDFHJLMOQSTVX\^bdccfjnqtw{|}┌└├┴▄▐▒⌠■≤≥ ⌡²·║╒╒ё╔╖╗╘╘╙╙╠╤╣╢╤╦╥╦╨╩╨╩╫©ю╫╬╬╫╫афхееегийихййийклкймммлкйкллккмпяяппяррряяяссттттуууужжвьььььыыыызшшшшшшшшшщщщчччъъщчъЮЮъччъъЮЮъЮАЦААЮЮААБЦДБАБЦДДДДДДДЕЕЕЕДЕЕЕЕЕЕЕГГХХГГФГГГГХХХХХХХГГХИХХГХХИИХХГЙИХХЙКЙХИИИИИИИИИИЙЙЙЙЙЙККККККККЙЙЙЙККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММММЛЛЛЛЛЛЛЛЛМННООННМММММММММНННОООННМММННМММННННММЛЛЛММНННММННННННННММННООООПООООООПППППППООППППЯЯЯЯООППППООППППООООООООППППОООООООООООППППЯЯЯЯЯЯЯПОЯППОООООПППОООООООООООООООООППППОООООННННННМММММЛЛЛЛЛККККЙЙККККЙЛККККККЛЙЙККККЙЙЛКЙЙККККККЛЛЛЛККККККЙЙЙЙККККЙЙЙЙЙЙЙЙККККЙЙЙЙЙЙЙЙККККККККЛКЙЙККЙИХИИЙИИХГГФЕДЦДДДДДДДДДЦЦДДЕФФФФЕФФГГХХХГГГГГГФФФФФЕЕЕЕЕЕЦЦЦЦЦЦЦЦДЦАЮЮЮъъчъЮЮчщщщчччччъЮАААААЮЮЮЮББААЮъччЮЮЮААЮъъАЮъччччъЮъччъчщшшщчэээшьыыыыыыззыззььыывыыьвжууууутсррррсрпоопоооннмннммлллмлйийхгффееффцддццдгихихедфхииххфедцццба╪╥╥╤╠╚╚╘╗╖╕╓ё╒║═÷·² ≥≤≈√∙⌠░█▀┴├┐─~|ywssrnkhfc_\YWURRSPOMKJHFDBA@=;86421/.-,*)&%!												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%(*,../12469;>?ACDFHJKLNPRTVX[^bdddhlorux||~┌┐┘┬▀█░▓⌠≈≤ ⌡°·═╒ё╓╔╖╗╗╘╘╙╠╣╣╢╤╦╥╦╨╩╩╩╫╬╬╫╬©╬©бфгеефгиийиййййкккклммлккклкййлоппопяррррррссстттттуужжвьььвьыыыыззшшшшшшшшщщщчччъъщчъъЮъччъЮЮЮЮЮЮАБАААББЦЦЦБББЦДДДДДДДЕЕЕЕЕЕФФФФФФГГХХГГГГГГГХХХХХИХХХИИИХХХХХХХХХЙИХИЙКЙИИИИИИИИИЙЙЙЙЙЙЙЙККККККККЙКККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММММММММММММММММННННММММММММММНННОООННМММННМММНННННМММММННННННННННННННННННООПППППООППППППППППОПППППЯЯЯПППППППППППППОООООООППППОООООООООООПППППРЯЯЯЯЯПОПППОООООПОООООООООООООООООООППППОООННННННННННМММММЛЛЛЛККЛККККККЙККККККЛЛЙККККККЙЛЛКККЛЛККККККККККККККЙЙЙККККЙЙЙЙЙЙЙЙЙКККЙЙЙЙЙЙЙЙККККККККЛКЙЙККЙИИИЙЙИИХХФФЕДДДДДДДДЦЦЦЦЦДДЕФФФЕЕФФГГХХХГГГГФФФФФФФФЕЕЕЕЕДДДЦЦЦЦЦДЦААЮЮЮъъъЮЮъччччъъъъъЮАБААЮЮЮЮЮББААЮЮъчЮЮЮЮЮЮЮЮЮЮъъъчччъчччччщээщчщээзьыыыыыззшышзыьыыьььввжжжжуутссссссяпоооооонннннммккклкихххггфффеецддццдгигхгеегийиихфедцббаа╫╦╥╤╠╚╙╘╗╗╖╔╓╒╒═÷·²⌡≥≤≈√■▓░█▄┴┤┐─~|yvssrnkifc_\YWTQPQPNLKIGEDBA@=:75421/.-+*)%$ 												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!$'*,-./02368:>?@BCEHIJKNPRTVXZ\adefilosux|}~┐┐┘┬▀▌░▓■≈≤≥⌡°·═║ё╓╔╖╗╗╗╗╙╟╢╣╣╤╥╦╦╨╩╩╩╫╫╫╫©©©юцефддеффгхииййкййккллллккллйййлнппппярсрррсссстттттжжжввьььвьыыыыызшшшшшэээщщщчччъъчъъъЮъъъЮАААЮЮЮЮААББЦЦББАБЦДДДДДДДДЕЕЕЕЕФФФГГГГФФГХХГГГХГГГХХХХХИХХХИИИИИИХХХИИИЙИИИЙКЙИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММННННММММММММММММННННММММММММММНННОООННММННННММННННННННММНННННННННННОООННОООПППППППППППППППППППППППППППППЯЯЯЯППППППППППОООООПППОООООООООООПППППРЯЯЯЯЯПОППОООООООООООООООООООООООООООПППОООНННМММНННННМММММЛЛЛЛЛМЛКККККККККККЛЛЛККККККККМЛКЛЛМЛЛЛККЙЙККЛКККККЙЙЙККККЙЙЙЙЙЙЙЙЙКККККККККККККККККККККЙЙККЙЙИЙЙЙЙИХХФФФЕЕЕДДДДЦЦЦЦЦЦДДЕЕФЕЕЕФФГГХХХХГГФФФФФФФФФФЕЕЕЕДДДДДЦЦЦДЦААААЮЮъЮААЮъъъъЮЮъъЮАБББАЮЮЮЮААААААЮъъЮЮъъъъЮАъъЮЮъъщщчщщщччщэщччщээшыззззззшшыззьжввввжжжжжжжууутттттряпоопооонннннммккклйхгхггггффеедддццдгйххгеехйкйихфецбаююа╬╧╦╤╟╚╙╘╘╗╗╕╔║║║÷²⌡  ≥≈∙⌠▓░█▄┴┤┐│~{xussqmjhec_\YVSPOPONLJHFDBBA?=:74310/-,+)($#												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&)+,-.013589<>?ABDGHIKMPRTWXY[`dffikorux||~┌┐┘┴▄▌▒⌠■√≤≥⌡°·═║ё╓╔╕╗╗╘╘╙╞Ё╣╤╤╥╦╦╧╨╩╪╫╫╫╫╬©юадедцдееефхйийккййклклллллллкккмнпяяпяррррсссттттууужжжвввььььыыыыззшшшэээщщщщщчччъъЮЮЮЮЮЮЮАЮААААЮЮЮЮАББББАААБДДДЦДДДДЕЕЕЕЕЕФФФГГГГГФГХХГГХХХХХГХХХХИХХИИИИИИИХХХИИЙЙИИИЙКЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККККККККЛЛЛЛЛЛЛЛЛЛЛЛМЛЛЛЛЛЛКММММММММЛЛЛЛЛЛЛЛМННННННМММММММММННННННННММММММММНННОООННМННННННМННННННННММННННННННННООООООООПППЯЯЯППППЯЯПППППППППППППППППЯЯЯЯЯЯПППППППППОООООПППООООООООООППППППЯЯЯЯЯЯЯППООООООООООООООООООООООООООООППППОООННММММННННМЛНМММЛЛЛЛНЛКЙККККККККККЛЛККККККККМЛЛЛЛМЛЛЛКЙЙЙЙКЛКККККККЙККККЙЙЙЙЙЙЙЙЙЙЙККККЙЙКККККККККККККККЙЙЙЙЙЙЙЙЙИХХФФФФФЕЕЕДДДДЦЦЦДДЕЕФФФЕЕФГГГГХХХГГГГФФФФФФФФЕЕЕЕДДДДДДДДЦБААЮЮААААААЮЮъъЮЮЮЮъЮАБЦБАЮъЮАААААЮЮЮЮъъъъъъЮЮЮъъЮЮъччщщщщщчччщщщщщщээшззззззззьыьжттужжжжжжжжжжжжуутсссрппппоооонннннмллллкихигггггфееедцббцфйиихффхиийихфецба©©а©╨╦╣╟╚╙╘╘╗╗╕╔═══·⌡≥≥≥≥≈∙⌠▒▐█▄┬├┐│~{xurqoligda^[YVSPOPONKIGECAA@><974310.-,*)'$"
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%)++-./12579;<>@ADFGIKMPRTWXZ[_dfgiknqtw{|}┌┌┘┬▀█░▓⌠√≤ ⌡²·═║╒ё╓╕╗╘╘╙╙╜╡╣╤╤╤╦╦╦╧╩╫╫╬╬╫╬©юбддцдефггхйлийккййклккклллллйклмноярпярррррсттттуууужжвввььььыызыззшшшээщщщчщщщчччъъЮЮъъъЮЮАЮЮААБААЮЮАБЦЦБАААБДЕДДДДЕЕЕЕЕЕЕЕЕЕФФГГГГГГХХГГХИХХХГХХХИХХХИХИИИИИИХХИЙЙЙИИИЙЙЙЙЙЙЙЙЙЙЙЙККЙЙЙЙЙЙКККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММММММММММММММННННННННММММММММННООООНННННННННННННОООННННННННННМНННННННММММММННННННОООООООПППЯЯППЯЯЯЯППЯППППППППППППППППППЯЯПППППППППППОООООПППОООООООООПППППППЯЯЯЯЯЯППОООООООООООООООООООООООООООООППППППООНННМНННННММННММЛЛЛЛМЛКЙЙКККЛЛЛЛККЙЙККККККККЛЛКЛЛЛЛКККЙИИЙККККККККККЙЙЙЙККККЙЙЙЙЙЙЙКККЙЙЙЙККККККККККККККЙЙЙЙЙЙЙЙИИХХГГГГФФФЕЕЕЕДДДЕЕЕФФФФФФФГГГГГГХХГГГГГГГГФФФФФЕЕЕЕДДДДДДДББААЮЮААББАААЮъъЮЮЮЮЮЮАБЦБАЮъЮААЮЮЮЮЮъъъчъЮААЮЮъАЮъъчччъчччччччъщщщщщщэщшшшзыыььввжутстжжжжуууттжжжжутсрсряяяппоонннннммлллмкихигггггфееецббаадхййхфгийийихфдцаа©©аю╩╦╢╞╛╚╙╘╗╖╕╓═══·⌡≥≥≥≥≈∙▓▒▐█▄┤┘┌─~{xvrqokigc`]ZXVTQPPOMKHFDBA?>=;965410.,+*('#!
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $(+*-./12478;<>@ACFGJKMPRTVX[\_cfgiklpsvz{|│┐┘┴▀▌░▓⌠√≤ ⌡²·═║║╒╓╕╗╘╙╙╙╛╠╣╤╣╤╦╦╦╦╩╫╫╬╬╪╫╬юцедбцдефгийкййккккклкккллмллйклллмояпярррррсттттуууужжжввььььыззззшшшшээщщщщщщщчччъъъъъъъъъъЮЮЮАБББААБЦЦЦЦББАБДДДДДДЕЕЕЕЕЕЕЕЕЕФФГГГГГХХХГГХИХХХГХХИИХХИИХХИИИИИИИИЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММММММММММММММННННННННММММММММНННННННННННННННННННОООНННННООНННННННННММММММММНННННННООООООПППЯЯЯЯЯЯЯЯЯЯЯЯЯПППППЯЯЯЯЯПППППППППППППППППППОООООООООООННОООППППППППЯПППЯЯППОООООООНООООООООООООООООООООООООПППОООННННННММММННМЛЛЛЛММЛКЙККККММЛЛКЙЙИККЙЙЙЙККЛКККЛЛККККЙЙЙЙККККККККККЙЙЙЙККККЙЙККККККККЙЙЙЙККККККККККЙКККЙЙЙКЙЙЙИИХХХГГГГГГФФФФЕЕЕЕЕФФФФФФФФФГГГГГГХХХХГГГГГГФФФФФФФЕДДДДДДДДЦЦБАЮЮААЦБААААЮъАААЮЮЮАБЦБАЮЮЮААЮЮЮъъъъъчъААБАЮъААЮъчъъъъъъъчччъщээщщээщшшзыьвжувууууттужжжуутссжжжжусрясряяяппоонммннмллкклйххигггггффеецббаюцгххгфгйккйихфдцааю©аю╩╥Ё╝╜╚╙╗╖╕╓ё║║═·°   ≤√■⌠▒▐█▀┤┘┌}{xvtrokigc`[YWVTQPQOMKHFDBA>=<:86430/-,+)'&# 
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#(+*-./12478;<>@BDFHJKMOQSUWZZ]aegikkoruzz|│└├┴▄▌░▓⌠√≈≥⌡²·÷═║╒╓╕╖╘╘╘╘╙╞╣╥╣╣╦╧╦╦╨╪╫╫╬╫╫╬юцфецццдфхиййкййккллклкклммлкйклллмояяррррррсссттттуужжжвььыыьызззззшшшшшэээщщщщчччъъчъъъъъъъААЮАББББББЦЦЦЦБББЦЦДЕЕДДЕЕЕЕЕЕЕЕЕЕФФГГГГХХХХГГХХИХХГХХИИХИИИИХИЙХХХИИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККККККККККККЛЛЛЛЛЛЛЛЛЛЛККЛЛЛЛМММММММММММММММММММННННННМММММММММНННННННННННННННННННОООННННООООННННООНННМММММММННННННННННОООПППЯЯЯЯЯРРЯЯЯЯЯЯПППППЯЯЯЯЯЯЯЯПППППППППППППОООООООООООООННННООППППППППППППЯЯПОНООООООНОООООООПООООООООООООООООПООООООНОНМММММННММЛЛЛЛМЛЛККЛЛККЛЛЛЛККЙЙЙЙЙЙЙЙЙЙККККЛЛККККККККККЛКККККККЙЙЙЙККККККККККККККЙЙЙЙККККККККККЙКККЙЙЙКЙЙЙИИХХГХХГГГГГГГФФЕЕЕФФФФФФФФФФГГГГГГХХГГГГГГГГФФФФФФФФДДДДДДДДЦДЦБАААБЦБААБББААББАААБЦББААЮЮАААЮЮъъъъъЮЮААААЮъААЮЮЮъъъЮЮЮъчччъчщэщэшшщззыьвжутусртуутуууууттссттууусряряппппонннмммммлкйккйххиххггфффффдццб©афххгфгйкйиихфдцаааюаа╩╤╡╜╛╚╘╖╕╔╓ё╒║÷²°⌡ ≥≈√■⌠▒▐▄┼┬┘│~|zxvtrnjhfb_ZXVUSQPPONKHFDCB>><:75320/-+*)'%"													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"(**-./12468<=?@BDGHJKMOQRTVXX[_cfhjknquyz|│┐┘┬▀█▐░▒∙≈≥⌡°·÷═╒ё╓╕╖╗╗╘╘╙╞╣╥╢╢╥╩╧╦╨╪╪╪╬╫╫╬юдгфцццдгиккйкйййлллклкклммлкклммлмояррссррссссссттттжжжвььыыьыыыыызшзззшшшээщщщчччъъъъЮЮАЮЮЮЦАЮЮАБББББББББББЦЦБЦЕЕЕДЕЕЕЕЕЕЕЕЕЕФФГГГГХИХХГГХХИХХГХХИИХИЙЙИИИЙГХХИИИИИЙЙЙЙЙЙККЙЙЙЙЙЙЙЙЙЙЙЙККККККККККККККККККЛЛЛЛЛЛЛЛЛЛКККЛЛМММЛЛЛЛЛЛЛЛММММММММММННННММННННННННММММММММНННННННННННОООННННООООННОООООННМННМММННОННННННННОООПППЯЯЯРРРРРРЯЯЯЯЯППППРРЯЯЯЯЯЯППППППППППППООООПОООООООООННННООПППППППППООППЯПОННОООООНОООООПППООООООООПОООООООООООООННОНМЛЛМНННМЛЛКЛЛЛЛЛКЛММЛККЛЛЛЛКЙЙЙЙЙИИЙЙЙЛККЛЛЛЛКККККККККЛЛККККККЙЙЙЙККККККККККККЛККЙЙККЛККККККККЙКККЙЙЙКЙЙИИХХГГИХГФФГХХГГФЕЕЕФФФФФФФФФФГГГГГГХХГГГГГГГФФФФФФФФФДДДДДДЦЦДДДЦААБЦББАБЦДЦЦББББААБЦББАААААЮААЮЮъъъъАААААЮЮЮАААААЮъчЮАЮъчщччъщэщэззэьььвжутттяпсуутсууууттссрстуутсряяпппооннмммммллккккйххиихгффффффдцдб©аеиигфгийииигфдцаабюаа╩╣╠╛╚╙╗╖╕╔╓ё╒═·°°⌡≥≤≈√∙⌠▒▐▄┼┴├┌~|zwvsqmifd`]ZXVURPOOPNKHFECB?><:74210/-+*('%"
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ "$(*,./01358:<?ACEFGJKLMNPRTXZ\]`eijmmptx{}─└┘┤▀█▌░⌠■√≈≥⌡²÷║║╒╓╔╕╖╘╙╘╚╞╢╤╤╥╧╦╧╨╨╩╪╫©╫╫©цффеецефххийййййййкккллллййкккклллмннррссттсрттссстуужттужвьшььыыыызшшзшщщэшэччччъъъъъъЮЮЮЮААЮАААААББЦЦЦБББББЦЦДДДДДДФГГФЕЕФГФФФГГГХХХХХХХГГГХХХИИИИИИИИИИИИИХХИИИИИИЙЙЙЙЙИИИИИИЙКЙКЛККККЙЙЙЙКККККККККЛЛЙЙКЛМММЛЛЛЛМММЛКЛМММЛЛЛЛЛЛЛЛЛММННННННННМММММММННННМНОООНМММММОННННННООНННОПОННННОООООННОООНННННННООООООННММННОНННПЯЯППЯЯРРРЯЯРЯЯЯЯЯЯРЯЯЯПППППЯЯЯЯЯЯЯЯООООООППОООООПППООООООООНОППООППППППЯЯППОООННННООООООООООООООППЯППППППППОООООНННННММММННММЛКККЛММННМЛКЛЛЛЛЛЛКЙЙИЙЙЙЙИЙКЛЙККЛЛКЙЙЙЙЙЙККККЛКЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККЙЙЙИИККЛЛКЙКЛККККККЙЙИИИИИИИИИИХХГГФФГГЕЕЕФГХГГФФФФГГИХХГГФГГГХГФФГФДЕФФГФФЕЕЕДДДДДДЕЕЕДЦБББЦЦБАБЦДДЦЦДДББЦБААБЦЦБАААЦББААЮЮЮБААБАъъЮЮЮЮЮъъччЮчщщщщщэщээшззыыыыыьжуттттсссррртсссрррррссяясссряяппппомннллммйллкйййййииихгггггецдцбабгхиийййхихгецаюююаба╫╤╟╜╚╚╘╖╕╕╓╒║═÷·°⌡≥≥√∙■⌠▒░█▄┬├│}{zywspnkfc`[YYWURPPPNKHGGFCAA?<:86312/-,+)%""													
+
+
+
+
+
+
+
+
+
+
+
+
+	
+!$'*,./01368:<>@BCEGIJLMOPRTVY[]`eikkloswy|~┌┐┤▀▌▐▓■√≈≥⌡°·÷║╒ё╔╕╕╖╗╘╘╚╝Ё╤╤╥╦╦╧╨╩╩╪╬©╫╫©цффффдегххийййййккккклллкййккккккллмнррстуутттттууууужуужввышььыыыызшшзшщщээщщщщчччччъъЮЮЮЮААЮАААААББЦЦЦЦЦЦЦЦДДДЕЕЕЕЕФФГФЕЕФГГГГГГГХХХХХХХХХХХХИИИИИИИИИИИИИИХИИИИИИИЙЙЙИИИИИЙИИККЙКЛКККККККЙКККЛЛККККЛЛЙЙКЛЛММЛЛЛЛМММЛЛЛМММЛМММММММММННННННННННМММММННООНННОООННННННОННННННООНННООООООООООООНННООНННННННННННОНННННННОНННОППППЯЯЯРЯЯЯЯЯЯЯЯЯЯЯЯЯПППЯЯЯЯЯЯЯЯЯЯЯППООООООООООППППООООООООООПППППЯЯПППЯЯПООООНННОООООООООООООООППППППППППППППППООНННММММНННММЛЛЛМММННМЛКЛЛЛЛЛЛККЙЙЙЙЙЙЙЙЙКЙЙКККЛЛЛЙЙККККККЛКЙЙЙЙЙИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККЛККККЛККККККЙЙЙЙИИИХХИХХХХХХГГХГФФФФГХГГФФФФГГГГГГГХИИХИХФГХГЕФФФГФФЕЕЕЕДДДДЕЕЕЕДЦББЦЦЦЦБЦЦДДДЦДДББЦЦБАБЦЦБААБББАААААБЦААББЮъъъъЮЮъчщщъчщээщээщщээшзыььыьвутттттсссссссссррррярссррсссряппппоомннмлмлкллкииииииххггггггецдцбаагхиийкйиихгецбаа©юаа╬╤╞╛╙╙╘╖╕╕╔ё║═÷·°⌡≥≥√∙■▓▒▌▄┼┤┘─|zywusolieb`\XXVTQOOONKHGGFCA?=;97420/-+++*&$!
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #&),./013589:<>@BDFHILNOQSTUXZ]`eilkknsvy{}│┐┤▀▌░▓■√≈ ⌡²·÷═╒╓╔╕╕╖╗╘╙╙╜╡╤╥╥╥╧╧╨╩╩╪╬©╫╫юдггггефгххиййййкккллллллкййкккккклммнпястууутууужжжуужуужввызььызззшшэшшщщээщщщщчччччъъЮЮЮЮААЮАААААБББЦЦЦЦДДДЕЕЕЕФЕЕЕФФФФЕЕФФГГГГХХХХХХХХХХХХХХХИИИЙЙИИИИИИИИИИЙЙЙИИИЙЙИИИИИИЙИЙККЙЙКККККККККККЛЛЛЛКККЛЛКЙЛЛЛМЛЛЛЛЛЛММММММММЛММММММММННННННННННННММММНОООНННОООНННННОООННННОООНННООООПППОООООНННООННННННММММЛНННННННОННННОППППЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯППППЯЯРРЯЯЯЯЯЯЯЯЯЯППООООПППППОООООООООООПППППППЯЯЯЯЯЯЯПОООООННОООООООООПППОООППППППЯЯПППППЯПППОООННММННОННННММММММММЛККЛЛЛЛКККЙЙИЙККЙЙЙКЙЙЙККЛЛМККККККККККЙКККЙИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИЙЙЙЙКККККККККККЙККККЙЙЙКЙЙИХХХХГХИИИИХХХХГГГГГГФФЕЕФФГГФФГГХИИЙИИХГГХГФФФГГФФЕЕЕЕЕДДЕЕЕЕЕДЦЦЦЦДЦДДДДДЕЕДДДЦЦЦЦББЦЦЦББББАААААБЦЦЦАААБАъъщчъъъчэшчщээээээщщщщэзьвьыьжтссуссряяррсрррррряяяррррттряпппяпононмнмллмллйихххиххггфффффдцццбааехййкккиихгедцба©©юб©╥╞╙╙╙╘╖╖╖╔╓║═÷·° ≥≥≈√■▓░█┼┬┤└─{yxvtrnkhca`\XWVSPONNMKHFFEB@>=;86410.,***)&$ 													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "&(+-/012579:;=?ADFGILNPQSTVXZ]`dilkloswy{}┌┐┤▄▌▐░▓■√≥⌡°²·÷╒ё╓╔╕╖╗╘╙╙╛╠╤╦╦╥╦╧╨╩╪╫╫╬╬╬аеггфгфггхххийййккклллккккйййкллллммнонпрсттууууууууужжужвьвьыьыззззшээээээщщчччччъъъъъъЮЮЮЮААЮААААААББББЦЦДДДЕЕЕФФФЕЕФФФФФФФФГГГГГГГГХХХХХХХХХХХХИИИИИИИИИИИИЙЙЙЙЙИИИЙЙЙЙИИИИКЙЙККЙЙККККККККЛЛЛЛЛЛЛЛЛКЛЛККЛЛЛЛЛЛЛЛЛЛЛНМММММММММММММММННННННННННННННННООООНННННННННОООООННННООООНОООООППООООООНННОООННММММММММНННННОООННННООООПППЯЯЯЯЯПЯЯРРЯЯПЯЯЯЯЯЯЯРЯЯЯЯЯЯЯЯЯЯЯППППОПППППОООООООООООППППООПЯРЯЯЯЯЯПОПООООООООООООПППППППППППЯЯЯЯЯЯЯЯППЯЯПППОООННННООННННННММНМММЛКККЛЛЛКККЙЙИЙКККЙЙЙЙЙЙЙЙКЛМКККККККЛККККЛКЙИККККККККЙЙЙЙЙЙЙЙЙЙЙЙККККККККККККЙЙЙЙЙЙЙЙЙЙИИХХХХХИЙЙЙИХГХХХХГГФФФЕЕЕЕФГГХХХХХХХХИИХХХХХГГГГГФФЕЕЕЕЕЕЕЕЕЕЕЕДДДДДДЦДЕДЦЦЕФДДДЦЦЦЦЦЦЦЦЦЦЦББААААББЦЦДАЮАБАъъчччччщээчщэээщщэщщщэшзыыыыывтстжттрряррсрррррряяпрррсттряяпяяпонпнмннллнмлйххххихгфффффеедццббаюцгйкклкйихфедцбаю©юб©╥╞╙╚╙╘╗╖╕╔╓║║÷·° ≥≤≈√■▓░█┼┬├└─|yxvsqljgca_[XXVSQOOOLJGFEDB@?=;96421.,+*)'$" 													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%(*+./02469:;=?ADEGILNPRSTWX[]_cgkllnrvx{~│┐┤▀▌▐░▓⌠∙≤⌡°·÷══║ё╔╕╖╗╘╙╙╛╟╤╧╧╥╦╦╧╨╩╪╫╫©©беффеффгггггхийййкккклккййййййллллмнноноярстужжуттттужжужвьввььыззззшшэээээщччччччъъъъъъЮЮЮЮААЮААААААБААБЦЦДДЕДЕЕЕЕЕЕЕФФФФФФФЕГГГГГГГГХХХХХХХХГХХХХХИИИИИИИИИИЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙКЙЙККЙЙККККККЛЛЛЛЛЛЛЛЛЛЛКЛЛККЛМЛЛЛЛЛЛЛЛЛММММММММММММММММННННННННННННННННОНННННННМНННННОООООННООООООООНООННООООООНННООНННМММММНННМНННООООННООООООПППППЯЯЯПЯЯЯЯЯЯПЯЯЯЯППЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯПППППППППОООООООООООППОООПЯРЯЯЯЯЯПОПОООООООООООПППППППППППППЯЯЯЯЯЯППППППППОООООООООММНННМММННММЛЛККЛЛЛКККККИЙКЛКККККЙЙЙЙЙКККККККККЛЛККЛЛЛКЙККККККККЙЙЙЙЙЙЙЙККККККККККККККККККЙЙЙЙЙЙЙИИИИИИИИИЙКЙИХГХХХХХГФЕЕЕЕЕЕФГГХХХХХГГГИХГХХХГГГГГГГФЕЕЕЕФФФФЕЕЕЕЕДДДЕЕЦДЕДЦЦДЕДЦЦЦЦЦЦЦДЦЦЦЦЦЦЦБББААБББЦАЮААЮъъъъчщщщщщчщэээщщщээшшззшшзззьжужввжутссстсссссрррярррсутряяяяяяонпнмннллнмлйихххихгфффффеедцбббаюаейккккйихфдццбабю©а©╥╞╚╛╚╘╗╖╔╓ё║║÷·° ≥≤√∙■▓░█▀┴├└─{yxuroljhda_ZXWVSPONOKJGEDCA@>><96421-,*)(&$!														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%')+-./1358:;=?ACEHILNPQSUXY[]_bgklkmptwz}│┘┼█▐▒■■√≤⌡°·═║÷║ё╓╔╕╗╘╙╚╛╟╣╧╨╦╦╦╦╨╩╪╫╫©юцффеефггггфгхйкккккккккйййййййкккллмннопярствьвжтсстужжужььвввьызшзззшшэщээщчщщщщчччччъъЮЮЮЮААААБААААБААББЦДДЕДДЕЕЕЕЕЕФФФФФФФЕГГГГГГГГГХХХХХИИХХХХХХХХИИИИИИИИЙЙЙЙИЙЙЙККЙЙЙЙЙЙКЙЙККЙЙККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛКЛЛКЛММКЛЛЛММЛЛЛМММММЛММННННННННННННННННННННННООНННННННММНННННННОООННОООООООНННОНННОООООННООНННМММММННННМННОООООННООООООПППППППЯПЯЯЯЯЯЯПРЯЯПППППЯЯЯЯЯЯЯЯЯЯЯЯЯЯППППППППППППППППППООООООПЯЯЯЯЯЯЯПОППООООООООООПППППППППППППЯЯЯЯЯЯППППППППОООООООООНННМММММОНМММЛККЛЛЛКККККЙКЛЛКККЛКККЙЙЙЙЙККККККККЛККЛЛЛККККККККККЙЙЙЙЙЙЙЙКККККЙЙЙККЙЙКККЙККЙЙЙЙЙЙИИИИИИИИЙЙЙЙЙИХГХХХХХГФЕФЕЕЕЕФФГГГХХХХХХИГГХХГГГХГГГГФФФФФФФФФФФЕЕДЕЕЕЕЕДДДДЦЦДДДЦЦДДЦЦДДЦЦЦЦЦЦЦБББАААААБАЮАЮъъЮЮъчщэщчччщэээщщээшззззшэшшзывввьжуутсссстууутссррсрртутрряяяяяпопнннмлмнмлкйииииигфффгфееедббба©©дйллкккйхедццаюбююб©╤╞╛╜╚╘╗╖╓ё╒╒║═·° ≥≤√∙■▓░▌▀┴└┌{ywtqokjhda^YXWURONNNKIGEDB@?==;85210,+*)(&$"
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $'(*-./13589<>?ACDHIKMNPSTXY[^_bgllklorvz}─└┴▄▐▒■∙√≤ ⌡²÷══║ё╓╔╕╖╗╘╙╛╞╢╧╨╦╦╦╦╨╪╫╫╪©ацфгффгггггфгийкккккккккйиийкййкккллмннопяяртвзвжуттужжжжвыыьввьызшззззшэщэщчщэщщщчччччъъЮЮЮЮААААБААААББББЦДДЕЕЦДДЕФФФФФФФФГГФЕГГГГГГХХГХХХХИИИИИИИИИХХИИИИИИИИЙЙИИИИЙЙЙЙЙЙЙЙЙЙКЙЙККЙЙКЛЛЛЛЛЛЛЛКЛЛЛЛЛЛКЛЛЛКЛММКЛЛММММЛЛЛМММЛЛММНННННННННННННННМННННОООООНМНООНННННООООНООООООООООООНННОООООООООООООННММММММММНННННОООООНОППОООППППОПППЯЯЯППППЯЯЯПППППППЯЯЯЯЯЯЯЯЯЯЯЯЯППОППППППППППППППППОООООПЯРЯПППЯЯПОППОООООООООПППППООППЯПППППЯЯЯЯППОПППППППООППППООООННННННООНМММЛКЛЛЛККККЛКЛЛЛККЛМКККККККЙЙЙККККККЛКЙККЛККЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККККККЙЙКЙЙЙКККЙКККЙЙЙЙКЙЙИИИИИИИЙЙЙИИХХХХХХХГГФФФЕЕЕФФГФФГХХХХХИГГХХГГГХГГГГГГФФФФФФФФФДДДЕЕЕЕЕЕДЦЦДДДДДЦЦДЕЦЦЕДЦББЦЦЦЦББААААААААААъщчЮЮъчщщщчччщээээээшшззззззшзыыыьвжттутттссжжжжутссттсртуусряпппппооонмлмммлккййиииихффггфеефецбба╬╫дкмлллккхедццбюа©ац©╣╝╛╛╙╗╗╖╓╒╒╒║═·° ≥≤≈∙■▓░▌▀┴┐┌~{ywtqokigb`^YXWURONNNJHFDCA@?<<;84200,+*)'%#!														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#&(*-/014579<>@ACDHIJLMPRTXX[^_bgmmllnrvz~─│└┬▀█░⌠∙√≈≥ °²÷║╒╓╔╔╕╖╗╗╙╛╞Ё╦╧╦╦╦╧╨╪╫╫╫©адггфгхгггггхиклллллккккйиийкййлллммноооппппржывввжжжжжжжвызьввьызшззыызэщэщчщшччччъъъъъъЮЮЮЮААААБАААААББЦЦДЕЕЕЦДДЕФФФГФФФФГГФЕГГГГХХХХГХХХХИИИЙЙЙИИИИИИИИИИИИИИИИИИИЙЙЙЙЙЙЙЙЙИКЙЙККККЛЛЛЛЛЛЛЛЛКЛЛЛЛЛЛКЛЛЛКЛММКЛЛММММЛЛКЛММЛЛММННННННННННННННММННННОООООНННОПОННОООООООООООООООНОПОНННОПППОООООООООННММНННМММММННООООООНОППОООПППОООППЯЯЯППППЯЯПОООПППЯЯЯЯЯЯЯЯЯРРРЯЯПОНПППППППЯППППППППОООООПРСППППЯЯППППООООООООППППППООППЯЯЯПППЯЯЯЯППППППППППППППППППППОННООППОНМММЛКЛЛЛКККЛЛЛЛЛЛКЛМНККЛЛЛЛККЙЙЙЙККККЛКЙЙЙКККЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККККККККЙЙЙКККЙЛККЙЙЙКККЙЙИХХХХИИИИИИИИИИИИХХГГГФФЕЕФФГФГГХХХГГИГГХИХГХГГГГГГГГФФФГГФФФДДДЕЕЕЕЕЕДЦЦДЕДЦЕДДЕЕДДЕДЦББЦЦЦБАААААААБЮАААчэчЮъъъччщщщчщэшшэшшшшшшззыышзыыыывуужввввжжввввжутсутсртжуссяпоооппноолкмнлккккйиихйхффгхгеефецббю╬╫дкнмллллифддцбю©╬адю╢╛╚╚╘╖╖╖╓ёё╒║═·° ≥≤≈√■▓░█┼┬└┌|zxurpkhfa_]ZYXUSPOOOJHFDCA@?=<;84200.-+)'$!														
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+"&(*,..03569<>?@BDEGJLMORUXY[^`bgkomlnqty}─┌└┬▀▌░▒⌠∙≈ °··÷╒╒ё╓╔╕╖╗╘╚╜╝╠╤╦╦╦╦╧╨╩╫╬╬╫юцфгггхииххиййийккииййийииииийккклммнннооопярстььвввжввжвььвввьшззыызшшшээщщщщщщщчъъъъъЮЮЮЮЮЮЮЮАББЦЦЦЦББДЕЕЕЕЕДЕЕЕЕЕФФФГГГХГГГФФФФГГХХХИИИХХХИИХИЙИИХХХИИИИИИИИЛЙИИЙККЙЙИХИКЛКЙЙЙЙЙЙЙЙЙЛЛЛКККККЛММККЛЛКККККЛЛММЛЛЛЛММММНММЛЛЛММММММНННННООООННМОНННООННОООООООООООООНННООООООООНОПООНОПООПОННННННННННННЛМННМММНООНННННОППППППООППППППППЯПППЯРРЯППППППППЯЯЯЯРРРРЯЯЯЯЯЯЯЯПППППППОППООООППЯПППЯЯЯЯОООПЯРЯПППОООООПОООООПППЯПППЯЯЯЯЯЯЯПППППППППППООПППЯЯППОНОПППОООППОНЛККЛНМЛЛЛЛМНЛЛЛЛЛЛЛЛЛЛЛККККЛКЙЙККККЙЛЛККККККККККЙЙЙЙЛЛЛЛККККККККККККККККККККККККЛЛЛКИИЙЙЙЙЙЙЙККЙИХИЙИХХХИХГФЕФГГЕЕЕЕФФГГХХИИХХХХХХХХГГГГФФФФГФФФФФФЕЕЕЕЕЕЕЕДДЕЕЕЕЕДДЦЦДДЕЕЕЕФЦААБЦЦБЦЦБААААББААЮъчччъччччччччщщэээээшшзыьььььыыыьвьывььыььввзыьвжутрсууттууттяппонмноооммонллккййиииххггфееедцбцдца©╬дймннмкйгдцццба©©ю©╪╣╞╛╗╘╗╗╖╔ё╒═÷·²° ≤√√∙▓▐▐▌┼┘┤┐~{zxurolheb`\ZWWURPPNLKIGEDC@><;:741/.-,*(&$!															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%(*,-.02469<>?@BDGHKLMORUWX[^_beimlknqtx|│└┬▀▌░░∙√≤ °²·÷ёё╓╔╕╖╗╘╘╚╛╝╠╤╧╧╦╦╧╨╩╪╫╬╬адггггхиихиийиийккййклкйииииййкллммннннооппярстжввььвввжвьььььыззззшшшшэээщщщщщччъъъъъъЮЮЮЮЮЮЮЮЮААБББББАЦЕДДЕЕЕЕЕЕФФФФФГГГГГГГФФФГГГХХХХХХХХХХИХИЙИИХХХИИИИИИИИЙЙЙЙИЙККЙИИЙКЛЛКККККККККЛЛККККККЛММЛЛМЛКНМММЛМММММММММММННММММММММММММНННОООООННОНННОООНООООООООООООООООООООООООНОПООНОПООООНМННОНННННННМННННННООООННОООПППППППОППППППППЯЯППЯЯЯЯППППППППЯЯЯЯЯРРРЯЯЯЯЯЯЯЯПППОООООППООООППППОПЯЯЯЯПООПЯЯЯППППОООООППППППППЯПППЯЯЯПЯЯЯЯППППППППООООПППППППОНОППОООООООНЛКЛЛММЛЛЛЛЛМЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККЛЛКЙККЛЛЛКККККККККККЛКККККККККККККККККККККККККККЛЛКЙИИЙЙЙЙЙЙИЙЙИХХХХИИХХИИХГФФГФЕЕЕЕФФФГГХХХХХХХХХХХГГГГГГФФФЕЕФГГГФФФФЕЕЕЕЕЕФФЕЕЕДДЦДДДЕДДДДЦББЦЦЦБЦББААААААААЮъъччъъччччщщщщщээээщззззззыыьыыыьььыььыыыыьвзыьвжутррттссуутсяпппннноооммннлкккййиихххггфееедцббцбю╬©дилннлйигдццбаю©©аа╫╣╝╚╘╘╘╗╕╓ё╒║═·²° ≤≈∙■▓░▐▌▀┤└│}{ywspmjgca_][WVURPPNLJIFEDC@?<;9741/.,+)'%" 															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $'),-./2379<>?ACDGIKMNPRTVWZ]_adgkjknqtw{~─└┬▀▌░▒√≈≤ ⌡²·÷╒ё╓╔╕╖╗╘╘╙╛╜╟╣╧╩╦╦╦╧╨╪╫╬╬аеххгггиххииииийккклммлиииииййклммноооопппяярссуувььььвжвьььььыыызшэшшзээщщщщщщъъъЮЮъъъЮЮЮЮЮЮЮАЮААББББББЦДДДЕФФЕФФФФГГГГГГГГГГФФГГГХХХХХХХХХХИИХИЙИИХХИИИИИИИИИИЙККИИЙЛЙЙИЙКЛЛККККККККККККККЛЛЛЛММЛЛММЛНМММММММММММММНННННМММННММММММММООООООООООООООООООООООООООООООООПООООООПООООООООНОООНММНООООНННННННННННООООООООПППППППППППППППППЯЯПППЯППППППППППЯЯЯЯЯЯЯЯРРЯЯЯЯЯЯПППППОООППООООППППОПЯРРРППОППЯЯЯПППОООООППППППППППОПЯЯЯПЯЯЯЯЯЯППППППОООООООООООПНООННННОООННМЛЛМММЛЛЛЛЛЛККЛЛЛЛЛЛЛЛЛМММЛЛЛКККЛЛККЙКЛЛМЛКЙЙЙККККЛЛКККККЙЙЙККККККККККККККККККЙКККЙИИЙЙЙЙЙЙЙЙИИИИИИХЙИИИИХХГГФФФФЕДДФФФФГГГГГГГХХХХХГГГГГГГГФФЕФГГГФФФФФЕЕЕЕФФФФЕЕДДДДДДДДДЦББЦЦЦЦЦБЦББАААЮЮААЮЮЮъъъъъъччщщщщщээщщщщшзззшшзыыыыыыьыыьызззыьвыьвжутсрярсрстутсяпяяоннппонннмккккйииихххггфееддцббба©╬юдгкмнлиигдцббаюююбб╫╣╝╙╙╙╘╖╕╓ё╒║═·²°⌡≥≤√■▓░▐▌▀┤└│~|{wsplieb`^][WVTRPOMKJHFEDCA?<;9741/-*)'&$!
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #'),-.02369;=?@BDGHJLNPRTUVY]_acfiiknqtwz}─└┬▄▌░▒∙√≤≥⌡°·═╒╒ё╔╕╖╗╗╙╙╚╛╞Ё╦╩╦╦╦╧╨╩╫╫╬бфххффгхххииииикклллмллииииийкклммноооопппяррсстужвььыывььыыьььыззшшэшшэээщщщщщччъъъъъъЮЮЮЮЮАААААББЦЦЦЦЦДЕЦЦЕФФЕФФФФГГГГГГГГГГФГГГГХХХХХХХИИИЙЙИИЙИИХИИЙЙЙЙЙЙЙЙИЙККЙЙЙККЙЙЙКЛЛКККККККККККККЛЛЛЛКЛМЛЛМНМЛЛЛЛЛММНММММММННННННННННММММННННННООООООООООООООННННННННООООООООППООООППООООООООНОООННННООООННННННННННННОООООООПППППППППППППППППЯЯПППППППППППППППЯЯЯЯЯЯЯРРРЯЯЯЯПЯЯЯЯЯЯПППППООППППООПЯРРРЯППППЯЯРПППППОООПППППППОППППЯЯЯПЯЯЯЯЯЯПППППООНННООНННООПООННММНОНННМММММММММЛЛКККККЛЛЛЛЛККЛМММЛЛЛКККЛЛККЙККЛЛЛККККККККЛЛККЙЙЙЙЙЙКККККККККККККККККЙЙЙККЙИЙЙЙЙЙЙЙЙКЙИЙККЙИЙЙИИИХГГХГФФФФЕЦФФФФФФГГГГГГГГГХГГГГГГГФГГГФФФФЕФФФЕЕЕЕЕФФФЕЕЕДДЕЕЕДДДЦЦАБЦЦЦЦЦЦЦЦББААЮЮЮЮЮЮЮЮъъЮъъчщщэээээээщщчщэззшшзыззззыыыыьызззыьвввжуутряяяярртттсяяяяпооппонннлккккййиииххгффееддцббааю╬бдфимолиихецббаюаааа╫╣╞╚╚╙╘╖╔╓ё╒═÷·²°⌡≥≤≈∙▓░▐▄┴├┘┌|zvrokhda_^\[WVTQPOMJIGEDDCA?<;9741.-*('%#!
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"')+-.02468;=>?BCEGILNPSTTUX]`adfiilortwz}└┬▄▌▒▓■∙≈≥ °·═╒╒╓╔╕╖╗╗╙╙╚╛╝╡╤╧╦╦╦╦╨╩╪╫╬бфхгфффххиииииикклллкййххииййккллмнооооппяярррстттужьызыызззыььзззззшэээээээщщщщщчъъЮЮЮЮЮЮЮААААААБББЦЦЦДЕЕДЦДЕЕЕЕЕФФФФГФФГГГГГФГГГГХХХХХХИИИЙЙЙИИИИИИИЙЙЙЙЙЙЙЙЙЙИИЙКККЙКЙЙЙКЛККЛЛЛЛЛЛЛЛКККЛЛЛЛМКЛЛЛЛМНМЛЛЛЛЛММНММММММММММММММММННННННООНННННОООООПООООПННННННННООООООООПООООООПООООООООООПООНОООООООНННННННННННООННОООППППППППППППППППППЯЯПППППППППППППППЯЯЯЯЯЯРРРЯЯЯЯЯЯЯЯЯЯЯЯЯПППООППППООПЯРРРПППППЯЯРППППППООППППППППЯПППЯЯЯЯЯЯЯЯЯЯПППППООНННОННННООПООНМЛМНОМММММММЛМММММЛЛККККЛЛЛЛЛЙКЛММЛЛКЛККККЛККККККККЛЛЛЛККККККККЙЙЙЙЙЙККККККККККККККККЙЙЙККЛКЙЙЙККЙЙЙИКЙЙКЛЛКЙИИЙИИХХГХГФГГГЕДФФФФФФФФГГГГГГГГГГГГГГФФГГГГФФЕЕФФЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕДДДЦББББББББДЕДЦЦББАААЮЮААЮЮъъЮъъчщщээшшшшээщщчэзыззшзшшшшшзззыыззыыьвьвжжуусряпяярстусяяяяпооппоонмлкллккййииххггфеееедцббаююццдглнлийхфдббаюбааю╪╣╟╜╚╙╘╖╔ё╒╒═÷²°⌡ ≥≤√■▓░▌▀┬┘┘┌~zwspnlida^][ZWVSPPOLIHGEDCB@?;;9631.-*)'%#!
+															
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"%(+-.02468:<=?ACDFHKNPRSUVX\`bdfijlprsvz|└┤▀▌▒⌠⌠■≈≥ °·═╒ё╔╕╖╗╗╘╙╙╚╜╝╠╣╧╦╦╦╦╧╩╪╫©бфгфефгхийййииикккллйхххххийкклклмнноооппярррссттттувызшшшшэшзышззызшэээээээщщщэщччъЮЮЮЮЮЮЮААААЮЮААББЦЦЕФФДЦДЕЕЕЕЕФФФФГФФГГГГГФГГГХХХХХХХХИИИИИИИИИИИИЙЙЙЙЙЙЙЙЙЙИХИКЛКЙЙЙЙЙККККЛЛЛЛЛЛЛЛКККЛЛЛММКЛЛЛЛМММННМММММММММММММММММНННММНННОООООННННННООООППОООПООООООООООООООООООООООООООООООООООПООООПООООООННПООООООНОНННОООПППППППЯЯППППППППППЯЯПППППППППППППЯЯРРРЯЯРРРРЯЯЯЯППППППППППППППППППОПЯРРРППЯЯПЯЯРПППППППОПППЯЯЯЯЯЯПППЯРЯЯЯЯЯРРЯЯПООООНННННННННОООООНМЛЛМНМММММММЛМММММЛЛЛККЛЛЛЛЛЛККЛЛЛЛЛКЛКЙККЛККЛКККККЛЛЛЛККККЙЙКККККЙЙЙККККККККККККККККЙЙЙКЛЛЛКККККЙЙИИИИЙЙККЙЙИЙЙЙИХХХИХХХХГФФГГГГФФФФФФФГГГГГГГГГГГГГФГГГФФГГФЕЕДДДЕЕДДДДДЕЕЕДДДДЦББАЦББАБЦДЕЦЦЦЦББААЮЮАААЮъъъъъчщщээээшшшэээээзззшэщээшшээшшззыыыьььыььвввутряярррсутряяяооопоооомлклллккййихххгффееедцббаааццдфкнмиихфдцбаабаю©╩╣╟╝╚╙╘╖╔╓╒╒═÷²°⌡ ≥≤∙⌠▒░▌▀┬┤┘┌~zvspnlida^\ZXWUSPOOLIHFDCCB@>;:8630.-+)'&#!																
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ $&*,./2368:<=?ACDFHKNPRSWWX\_acfijloqsvz|┐├┴▄░⌠⌠∙≤  °·÷╒ё╔╕╖╗╘╘╙╙╚╝╞╠╣╨╧╦╦╦╧╩╪╫юцггфефххийкйиийййкллигхгххийкклклмнноопппяррсссссттужььзззшээшзззззззшшэээээщщчщщчъъЮЮЮЮЮЮАААААЮЮАААБЦЦДЕФДДЕЕЕФФФФФГГГФФФГГГГГГХХХХХХХХХИИИИИХИИИИИИЙЙЙЙЙЙЙЙЙЙЙИИИЙККЛЙЙЙЙЙЙККЛЛЛЛЛЛЛЛККЛЛЛЛЛЛЛММЛЛМНМННМММММММММММНННММННННННННННОООООООНННООООПООООПППППППППООООООООООННННООПОНООПОНООООООООООООООООПООООПОНОООООППППППППЯЯЯППППППППППЯЯЯППЯПППППППППЯЯРРРЯЯРРРРЯЯЯЯППППППППППППППППППОПЯЯЯЯОПЯЯЯЯЯРПППППППОПППЯЯЯРРЯПППЯЯЯПЯЯРРРЯЯПООООНННННННООООООООНМММНММММММЛЛММЛЛЛЛММЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛКККЛЛКККККККККККККККККЛКККККККККККККККККККККККККККЛЛКЙКККККЙИИХИЙЙЙЙЙЙИЙККЙИЙЙИИЙИХХХХХГГГГГГГФФФФГГГГХХХХХХГГФГГГФФФГФФЕЕДЕЕФЕЕЕДДЕЕЕЦЦЦЦББААЦБАБЦДЦЦЦЦЦЦББААЮААААЮъъъъччщщээщэээшэээшэщэшшэщщщээщщээшшзыьыыыыыьььвжусрярсрсуурпппооопоноомллллккййиииххггфееддцбааббцццейммйхгфдбааабааю╩╣╞╜╙╙╘╗╕╓╒║║═·°⌡ ≥≤∙⌠▒░▌┼┬┤└┌{wtpnkhda^\ZXWURPOOLHHFDCBA?>;:8630.,+)'%# 																
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 "%)+-/1368:<=?BDEFHKNPQRXWY\_`bdijloqrvy|┌┘┬▀░⌠⌠√≥⌡⌡°²·╒ё╓╕╖╗╗╗╘╙╛╝╟╡╤╩╧╧╦╧╧╩╪╫юдггфегихиккйййййийллигхггхийкклклмнооппппярссссрстужжввььызээшзыззшшшззщщээщщччччъъЮЮЮЮЮЮААААААААААБЦДДЦЕЕЕДЕФЕФФФГГГГГФФФГГГГГХХХХХХХХИИЙЙЙИИИИИИИИИЙКЙЙЙЙЙЙЙЙИЙЙЙИИКМЙЙЙЙЙЙЙКЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММЛМННМЛЛЛЛММННММННННННМННОООННННННННООПОООННООНОПООНОПООООООООПППООООООННННННОПОНООПОННОООННООООООООООПОННООНМОООООППЯППППЯЯЯЯППППППППОПЯРЯЯЯЯПППППППППЯРРРРРЯРРРРРРРРЯЯЯЯППППППППППППЯПППЯЯЯЯОПЯРЯЯЯРПППЯПППООООППЯЯЯППППЯЯЯПЯЯРРРЯЯПООННННННМННОООООНООНМММНММММНМЛКМЛЛККЛММЛЛЛЛЛЛЛЛММЛЛЛЛЛЛМЛККЛЛЛЛККЛЛЛКЙЙЙЙЙЙККККЛЛЛЛККККККККККККККККККККЛКККККЙЙКККККЙИИГИККЙЙЙКИЙКККЙККИЙКЙИХХИХХХХГГГГФФФФГГГГИИИИХХХХХХХГФЕЕФГФЕЕЕЕФФФФЕЕЕЕЕЕЦЦЦЦБААЮЦБАБДДЦАБББЦББАААААААЮъъъъччщщээщщщэээээшщъъэшшэчщщщщчщээшзыьыызыььььвжутррссрстурппоннопннпомлллкккййииииххгффедццбаабцбццеиммкхгецбааабааю╪╢╝╚╘╘╘╗╕╓╒║╒═·²⌡ ≥≤≈■▓▒▌┼├├│─}zwsomigca_\YWWUROOOKHHFDCBA?=;:8630.,*)'%"
+																
+
+
+
+
+
+
+
+
+
+
+
+#%)+,.02469<=?BDFGHJMOQQUWY[]`cfhjlnpsuv}┐┬▀█▓▒■≤   ⌡²ёёёё╓╔╖╘╘╙╛╝╝╟╢╧╨╧╦╦╦╨╪╫юдгфеегхийкклкккййклйгфхххиийккклммнннннпярррртутсстуууужвызшшшэьызшшшззэщщщщщщччъъъъЮЮЮъъЮАБББААБББААБЦДДДЕЕФФФЕЕЕФФФФФФФГГХХХХХХХХХХХХХИЙЙИИИИХИЙЙИИИИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙККЛККККККККККЛЛЛЛЛЛЛЛЛММММММММЛЛЛЛЛЛЛЛНННННННОННННННННННММММННООООННННННОООООНОООООООООООООООНООООООООООООООООНОООООООООООООООПППОООООООООППЯРОПППППОООППЯЯППОПППЯЯЯЯРПППППППППППППППЯРЯЯЯЯРРРЯЯЯЯЯЯЯЯЯЯЯППОООППЯРРРЯПППППППЯЯЯПООПППОЯЯЯЯЯЯЯЯППППППППОПЯЯПОООННООНМНОООООООООООНННМММММННННМЛММЛКККЛЛММММММММЛЛЛЛЛЛЛЛЛЛККЛЛЛМЛЛЛЛКККККККККККЙЙЙККККЙЙКККККККЙКККККККККККЙЙЙЙЙЙЙЙЙЙЙИИЙЙЙЙЙЙЙЙЙЙККККЙЙИИИИИХХХИИХХХГФФГГГГГГГГХХХГГГГГГГГГГФЕЕФФФФФФФФФФЕЕЕЕДДДЦЦААЮъъАААААБЦЦЦЦЦБААЮЮАААЮЮЮЮЮЮъччщщччъччщщщщчээээээээщщэщщчщэчщщэшззыььвжжужжтрррсрртусяоооппноонмлллийккккййххггфффеедцбаацеедцдхлмкигедцбаабаюю╪╣╝╙╘╘╘╗╕╔╓ё╒÷²²° ≥≥√⌠░▌█▀┬├┌|ywtpmifc`^\YWUSRPPNLJHFDCCA?=;97531.,)(&$"
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!#')+,.0258;<?ADGHIKMOQRTWY\^aegfhjmoqtv}~┌┤┼▄░■√≤  ⌡²·║╒ё╓╔╖╘╚╘╙╛╜╝╞Ё╥╨╨╧╧╨╩╫╬юдхгефгхххиййййиййклйгфггггхиййкмннопппппярррстутттужжжжужьыззшэшшээщщэээщччщщчъъъъъъЮЮЮЮЮЮАААААЮАБББЦДЕДДЕЕЕФФФГГХХХХХХХХХГГГГГХХХХХХХХИЙЙЙЙИИЙИЙККЙЙЙЙЙЙЙЙККККККККККККККЛЛЛЛЛЛЛЛЛЛЛЛММММММММММННННННННМНННННННООООООООООООООООПППООППППППППОООООППППППЯЯЯЯЯЯЯЯЯЯППППППППППППППООООООООННННООООПППППППППППППОООООООППЯЯЯЯЯРРРЯЯППЯЯЯЯППППЯЯЯЯРРЯЯЯЯЯЯЯЯРРРРРРРСССРРРРРРСССРРРРРРРРРРРРРООПЯЯЯЯПЯЯЯЯЯЯРРСРЯЯЯРЯЯППППППППРРРРРРРРЯРССРЯЯЯОПЯППОППНННННННННННННМММННОООННМННММЛМММННННННННММММММММММММММММММММЛЛЛЛММЛЛЛЛЛЛККЛЛЛЛККМЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККККЛЛККККККЙЙККККККЙЙККККЙЙИИИИИИИИЙЙЙЙЙИИХГГГГГГГГЙЙИИИИИХХИИИИХХХХХХХХХХХФЕДДДДЦЦЦЦБААЮЮЮАААААБЦЦЦЦЦББАЮЮААААЮЮЮЮЮъъчччччъччччччччччччччччщщщччщщччщэшззыьвввжжжжтсрссссутрпоноооноонлкккииййййииххггфеееддцбаацеедццгклйигфддцббю╬╬╬╩╣╞╚╙╘╘╗╖╕╔╓╒÷²²⌡≥≤≤≈■▒▐▄┼┤└│|ywuqojhda_][ZVTRPOMJHIHFDCB?=;:742/,+*)&$!													
+
+
+
+
+
+	#&)+,.01369;=?BDFGJKLNPRSUXZ\_bdijlnpsvw{}~┌┴▄▐■■√≤≥ ⌡²÷÷═╒ё╓╕╗╘╘╘╚╛╛╜╠╣╨╨╨╨╨╩╪╫аеххггхххиййккккйкккиффгххиийкллллммноооопяяяррсссстужжутувьызшэшшшшшээээщщщщщччччъъъъЮЮАААААААААББЦЦДЕФЕЕЕЕЕЕФФЕЕЕЕФФФФХХХХХГГГХХХХИИИИГХИИХХХХХИЙИИХИИХИИИИИИИИИИИИИИИЙЙЙЙЙЙЙКЙЙЙЙККККККККККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛММММММММММММММММММОННННННОННННННННМНННННННООООООООННННННННННННННННППППППППОПППППППННННННННЯЯЯЯЯЯЯЯННННОПППОООПППППЯЯРРРРЯЯООППППППРРРРРРРРЯППППЯЯЯСРРЯЯПППЯЯППППППППППППППЯЯРРСТСРППОООПППЯПООПППОЯЯЯЯЯЯЯЯППППППППППЯЯПОООННОННННОООООООООПППОООООЛМММММЛЛМЛЛКККЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛКККККККККККККЙЙЙКККККЙЙЙИЙЙККЙЙИККККЙЙЙЙЙЙЙЙЙЙЙЙКЙЙЙЙЙЙЙЙЙЙЙЙЙИИИИИИИИЙЙХИИЙЙИИХХХХХГГГГХХХХХХГГИИИИИИИИГГГГФФФФФФФФГГФФЕФФФФЕЕДФФЕДДДЦБББААЮЮЮЮЮЮЮЮЮААААББББАЮъЮЮААЮЮъъчъъъчччщчччщщщччччччччччщщэщщщщэщээшзыьввжжжжжжжсрярррстжусряяяппппомлллйкккккййййиихггфедцббцдфедццфкллихфеддццдбаа╬╦╠╜╗╗╖╕╔╓ёё╒═··° ≤≈√■▒▌▀┴┘┐│{xurnlhea^\[ZXVURQOMJHGFDCB@><<:631/,+)'%" 		
+
+
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "%')*,-358:<=?AEGIKLNQSVXZ\^`bdghjlmortxz{─┤┼█▓⌠■≈≤ ⌡²÷║╒╓╔╕╖╗╘╙╚╛╝╞╟Ё╤╦╧╧╨╨╨╩╪юдхгффггхииййкккййкйгеефгххийкклмммнопппяярррсстссстужжжжвььызшэшшшшшээщщщщчччъъъъъЮЮЮЮАББАААББЦЦДДДДЕЕФЕЕЕЕЕЕФФГГГХХХХХГГХХИИИИИИИИИИИИЙККККЙЙКЛЛМЛЛЛЛЛЛЛЛЛЛЛЛЛККККККККММЛЛЛЛММЛЛММММММММММННННООООООООННННООООППППООООППППППППППППППППЯЯЯЯЯППППППЯЯЯЯЯПППППППППППППОООЯЯЯЯЯЯЯЯННННННННННООООООЯЯЯЯЯЯЯЯООООННННЯЯЯРРСССЯЯЯЯРРРРОППППППОРРРРРРССППППППППСРРРРСССТТТСССССРРРРРРРРРРРРРРРРПППЯРРЯЯРРРРРРСССРЯЯРРРЯППППППППРРРРРРРРЯРСРРЯЯЯППППППППННННННННННННННННОООПОООНОННМММННННННННННННННННННННММММММММММММЛЛМММММЛЛЛМММММММММММЛЛЛЛЛММММММММММММММММЛЛЛЛЛЛЛКЛЛЛЛЛЛЛМЛЛЛЛЛЛЛЛККККККЙЙЙЙККККЙЙЙЙЙЙЙЙЙЙИЙЙИИХХИХХХХХХХХГХХХХГФФХГФЕЕЕДЦЦББААЮЮЮъъъЮЮЮЮАААБЦБАЮъЮЮАААЮъъъъЮЮЮЮъчъъъъчъъъЮЮЮЮЮЮЮЮччщщщщщщщщэшзыьььььввжжжтсрстстуутсряяпоооонмлккййкккййййиихгффеддцббцдедцббейлмихфдццбаа©╬╬╩╣╞╚╛╙╘╖╕╔╔╓╒║÷·° ≤√∙■▒▐▄┴├└─}yvspljifa^][ZYVTRPONKIFDCBA@><:8520.,+)(&#!												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+ #&)+-/146:<=?ACCFHJKMPSTVY[]_acijlnpruvxz|┘┬┼▐░▓∙≤ ⌡°²·═╒ё╓╔╕╕╗╗╙╛╜╝╠╢╧╨╩╩╩╩╪╫бфихгхххииййкккклмлйхггхххиийкллммнноппяяяррсстттсстжввжвввввьыыэшшшшээщэээщщчччъъъъъЮЮЮЮЮъъЮААБББББЦЦДДДДДДДДДЕФФФГГГГГГГГХХХИИХХХХИИИИХИИИИХИИЙЙКЙЙЙЙКЙЙЙЙККККККККККККЛККЙЙЙКККККККККЛЛЛЛЛЛЛЛЛММММММММЛЛММММННООННННННННННННННООННННООПППОООООООООООППООООООООООННННННООООООООЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯППППППППЯЯЯЯЯЯЯЯНОООППППООППППЯЯРРССССРРППППППППРРРРРРРРЯЯЯЯЯЯРРЯЯППППЯЯЯЯЯЯЯЯЯЯЯЯЯЯППППРЯЯРСССРЯЯПППЯЯЯРЯПППЯППССССССССПППППППППЯЯЯПООООНННОООНППППППППЯЯЯЯППППНННННННМММЛЛКЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛЛККККККККККККККККЙЙЙЙККККККККЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙКККЙККККЙЙЙЙЙЙЙИКЙЙЙЙЙЙКЙЙККККЙЙЙЙЙЙИИИИИИЙЙЙЙЙЙГГГГГГГГХИИИХГХХХХХГГГГГФГГГГФЕЕГФЕДДДЦБЦБАЮъъъчщщччччъъъЮААААЮъъъЮЮЮъчщччъЮЮЮъчъъъъъъъъЮЮЮЮЮЮЮЮщщщщщэээщщщэшзыьыыьввжуутсрссссутсряяпонпоонмллккккккйййиихгфеееедцццдефддцбеймолйхфдцбаю╬╫╬╫╦╡╝╚╘╖╔╓ё╒║═÷²° ≤√■∙⌠▒▌▀┬┘┐│~zxuspngd`][YXVUSQONLIGGECBA@><<:631/-,('$"												
+
+
+
+		
+
+
+
+
+
+
+			
+$'*,/1258;=?ACCEGHJLOQSUX[]_bdfhknprtuwy{├┴▀░▒⌠√≥⌡°²²÷═╒╓╔╖╗╘╙╙╛╞╟╟╡╢╥╦╧╧╧╧╨╩бехгггхгййййкккккллигггхххиийкккллллмннояяяррсссттттжжвжвьььььььшшшшшээщщээщчъъъъъъЮЮЮЮЮААААБЦЦДЦББЦДФФФФФФФГГГГГГГГГГГГЙЙЙЙЙЙЙИЙЙЙЙККККИЙЙЙЙИИЙККККЙЙКККККККЛЛЛККККККККММЛЛЛЛЛЛЛЛЛММММММММММННННННННННННННННОООППППООООППППППППППППППППЯЯЯЯПППППППППЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯППППППППППППООООООООООООООННЯЯЯЯЯЯЯЯНОООООООППЯЯЯРРРЯЯЯЯРРРРППЯЯЯЯППРРРРРРРРППППППППСРРРРСССРРРРРССССССССРРРСССРРЯЯЯЯПППЯЯЯПРРЯЯЯРРРССРРРСРРЯЯЯЯЯЯЯЯРРРРРРРРРРРРЯЯЯЯЯППППЯППННННННННННННННММППППООООННМММММНМММММММММММММММММММММММЛММЛЛЛЛЛЛЛЛЛЛЛЛККККККККККЛККККККККККККККККККККККЛЛКККККККЛККЙЙЙКККККККККККККЙЙЙЙЙИЙЙЙЙЙЙЙЙЙЙЙЙЙЙЙИЙЙИХГХИИИХХГГГГГГГГГГФФХГФФФЕЕДЦБАЮъъччщщччччччъъЮАААЮЮъЮЮЮЮъчччъЮЮАЮЮъЮЮЮЮЮЮЮАЮЮЮЮЮЮЮЮччччщщщщээээшзыьььввжутттррррярсутсрряяппоннммллййййййииххггфееддцбббцддаббацгкмкйгедцааа©╫╬╪╥╠╜╛╙╗╖╕╔ё║══·°⌡ ≤√■⌠▒▌┼┤┐┌─}yuroljgd`]\ZXVVTQPNLIGGECA@>;9:852/,*)*(&# 													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!%(*,/147:=>@ACHHIKLNQRWY\^`adfjmpstvww|─┘▀▌░∙≤≥⌡·═║║╒╖╗╙╚╛╝╞╟╠╠Ё╣╤╤╥╧бцццббдфлнпоноппссссссссстспноппрррсссттвввввьыыэшшэщщщщччччЮЮЮЮАББЦББББДДДДДДЕЕФЕЕФГХХГГГХХХХИИЙЙККЛЛЛЛЛККЛМНООНННООООПЯЯЯЯРРРРРЯЯЯЯЯЯЯРРРРРРРРТУУУУТУУУЖЖУУУУЖЖЖЖЖЖЖЖЖУУУУУУУУВВВВВВЖЖВВВВВВВВВЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЬЫЫЫЫЫЫЫЫЫЫЗЫЫЫЫЫЫЫЫЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗЗШШШШШШШШШШШШШШЗЗЗЗЗЗЗЗЗЗЗЭЭЭЭЭЭЭЭЭШШШШШШШЗЗЗЗЗЗЗЗШШШЭЭЭЭЭЗШШЭЭЭЭЭШШШШШШШЭЩЩЩЩЩЩЩЩЭЭЭЭЭЭЭЭЩЩЩЩЩЩЩЩЭЭШШЭЭЭЭЩЩЩЭЭЭЩЩЭЭЭЭЭШШШЭЭЭЭШШШШЪЧЩЩЧЧЧЩШШШШШШЭЭЩЭШШЭЭЭШЩЩЩЩЩЩЩЩШШШШШШШШШЭЭШЗЗЗШЗЗЫЫЗЗЗЫШШШШШШШШЗЗЗЗЗЗЗЗЗЗЫЫЫЫЫЫЬЬВВВВВЬВВВВВВВВВВВВВВВВВВВВЬВВВВВВВВВВВВВВЖЖЖЖЖЖУУУУУУЖЖЖЖЖЖУУУУУУУУУУУУУУУУЖЖЖЖЖЖЖЖЖЖЖВЖУУУУУЖЖЖЖЖЖЖЖЖУУУУУУУУССТТТТССРРРРРРРРСТУТРЯРСССРРРРРРРРРРРЯЯЯПОННННМЛЙЙИХХГГГФФФГГГГФГГХХИИИХХХХХХГГГГГХХИИИИИИИИИИИЙХХХХХХХХГХХГФФФГДДЕДДЦБАЮЮЮЮЮъчччщэээшэщщшззззыывжуужуутссссрррряяяпоонннлккклллйккйкнрссронмлкйифеед©╦╢╡╟╝╝╜╛╙╗╔╔ё║══÷²≤≤√■▒▌▄┼┘┌~zwtqnheca_^\ZVUSRQOMKIHFEDC@>:96420.,'%#!
+									
+
+
+
+
+
+
+  !""""#%'()(*-../0213689999;<=?CDEHIIJKMNOOOPQQRSTUUUVWXWXY\]]\[\^`acdccdeeffffffffghgdbcddeefffgggggggghhihhghijjijjjjkllkjklmmlllmmnnnnnnnmmnppppoooppppppqqrrqqqsrqrsssrrrrsstttssssttttttttuuvvuuuuuvvvuuvvvuuvvvvuuuvvvvvvvvvvvvvvvvvvvvwwwvuuvvvvvwwwwwwwwwwxwwwwwwwwxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyxxxxyxxxxyyyyyyyyyyyyyyyyyxxyyyyyyyyxxxxxxxxyxxxxxxxyyyyyyyyxxxxxyyyxxyyyyyyyyyxxyyyyyyyyyyyyyyyyyxxyyyyyyyyyyyyyyzz{zzyyyyyyyyyyyyyyyyyyyzzzyyyyyxxzyyyyzzz{zyyzzzyyyyyyyyyyyyyyyyyyyyyxxxxxwwwxxxwxxxxxxxxwxxxxxxxyxxxxxxxxwvvvvvwvvvvvvvvwwwwwwwwvvvwwwwvvvvvvvvvvvvvvvvvvvvvvvvvvvuuuuuuvvvvvvvvvuuuuvvvvvvvvuuuwwvuuuvvvvvvvvvvvvuuuuuuuuuuuuttvvvvvvvvtvvvtstuutttttuuttttttttttssssrrqqppoooonnooooonnooopppqqqpppoppoopppqqqqqqqqqrrppppppppppqponoonoooonmlkkllllkkkjiiihhiljihhiihhhgggggffffeeeeeeeddcccbdcaabbbb`bb``cfggfdbba```^]_`]XUVUTTTSQOQQOMLMLJHIHGECBAA?<98764420/.-+))(''('&$#"!!! 
+
