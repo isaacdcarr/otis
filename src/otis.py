@@ -18,9 +18,8 @@ from keras.preprocessing    import image
 
 import matplotlib.pyplot as plt 
 import numpy as np 
-import os
-import json
-import csv
+import os, json, csv 
+import scipy.io as sio
 import datetime as dt
 
 from hyperparams import *
@@ -112,13 +111,18 @@ def preprocess(target_w, target_h):
     with open(second_dataset_csv, mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         num_rows = 0
+        num_fail = 0 
         for row in csv_reader:
-            img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
-            X_train.append(np.array(img))
-            y_train.append(int(row["target"]))
-            print("... ... Processed " + str(num_rows) + " images", end="\r")
-            num_rows += 1
+            try: 
+                img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
+                X_train.append(np.array(img))
+                y_train.append(int(row["target"]))
+                print("... ... Processed " + str(num_rows) + " images", end="\r")
+                num_rows += 1
+            except: 
+                num_fail += 1 
     print("... ... Processed " + str(num_rows) + " images")
+    print("... ... Could not load " + str(num_fail) + " images")
 
     X_train = np.array(X_train)
     y_train = np.array(y_train)
@@ -211,7 +215,9 @@ def main():
     # Evalute
     score = cnn.evaluate(X_test, y_test)
     print(score)
-    # epochs += 20
+    
+    # Save data 
+    sio.savemat('data/results/' + title + '.mat', history_cnn.history)
  
 if __name__ == '__main__':
     main()

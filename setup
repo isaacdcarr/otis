@@ -1,1 +1,1 @@
-pip3 install pillow matplotlib numpy tensorflow keras
+sudo pip3 install scipy pillow matplotlib numpy tensorflow keras
