@@ -1,0 +1,79 @@
+Mon Oct 28 22:46:22 UTC 2019
+Using TensorFlow backend.
+== Starting Otis ==
+2019-10-28 22:46:24.703920 3_newdataiter_4epochs_224size
+... hyperparams
+...    epochs:	4
+...    targ_w:	224
+...    targ_h:	224
+... obtaining normal train data
+... ... Processed 1342 images
+... obtaining pneumonia train data
+... ... Processed 3876 images
+... obtaining normal test data
+... ... Processed 234 images
+... obtaining pneumonia tests data
+... ... Processed 390 images
+... obtaining val train data
+... ... Processed 9 images
+... obtaining pneumonia val data
+... ... Processed 9 images
+... obtaining second dataset
+... ... Processed 30227 images failed:	0
+... ... Could not load 0 images
+... define model
+2019-10-28 22:47:30.773839: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-10-28 22:47:30.780412: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2200000000 Hz
+2019-10-28 22:47:30.781750: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x3768840 executing computations on platform Host. Devices:
+2019-10-28 22:47:30.781780: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+conv2d_1 (Conv2D)            (None, 224, 224, 32)      320
+_________________________________________________________________
+max_pooling2d_1 (MaxPooling2 (None, 112, 112, 32)      0
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 112, 112, 64)      18496
+_________________________________________________________________
+max_pooling2d_2 (MaxPooling2 (None, 56, 56, 64)        0
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 200704)            0
+_________________________________________________________________
+dense_1 (Dense)              (None, 1024)              205521920
+_________________________________________________________________
+dense_2 (Dense)              (None, 2)                 2050
+=================================================================
+Total params: 205,542,786
+Trainable params: 205,542,786
+Non-trainable params: 0
+_________________________________________________________________
+None
+>>> For epochs: 4
+... fit model
+Train on 35443 samples, validate on 624 samples
+Epoch 1/4
+35443/35443 [==============================] - 1838s 52ms/step - loss: 11.4379 - accuracy: 0.7379 - val_loss: 0.4082 - val_accuracy: 0.8117
+Epoch 2/4
+35443/35443 [==============================] - 1835s 52ms/step - loss: 0.4272 - accuracy: 0.8062 - val_loss: 0.3635 - val_accuracy: 0.8822
+Epoch 3/4
+35443/35443 [==============================] - 1829s 52ms/step - loss: 0.4317 - accuracy: 0.8105 - val_loss: 0.3585 - val_accuracy: 0.8814
+Epoch 4/4
+35443/35443 [==============================] - 1828s 52ms/step - loss: 0.3911 - accuracy: 0.8231 - val_loss: 0.8559 - val_accuracy: 0.7292
+Traceback (most recent call last):
+  File "src/otis.py", line 226, in <module>
+    main()
+  File "src/otis.py", line 186, in main
+    cnn.save_weights("model/weights/weights_" + title  +'.model')
+  File "/usr/local/lib/python3.6/dist-packages/keras/engine/saving.py", line 449, in save_wrapper
+    save_function(obj, filepath, overwrite, *args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/keras/engine/network.py", line 1183, in save_weights
+    with h5py.File(filepath, 'w') as f:
+  File "/usr/local/lib/python3.6/dist-packages/h5py/_hl/files.py", line 408, in __init__
+    swmr=swmr)
+  File "/usr/local/lib/python3.6/dist-packages/h5py/_hl/files.py", line 179, in make_fid
+    fid = h5f.create(name, h5f.ACC_TRUNC, fapl=fapl, fcpl=fcpl)
+  File "h5py/_objects.pyx", line 54, in h5py._objects.with_phil.wrapper
+  File "h5py/_objects.pyx", line 55, in h5py._objects.with_phil.wrapper
+  File "h5py/h5f.pyx", line 108, in h5py.h5f.create
+OSError: Unable to create file (unable to open file: name = 'model/weights/weights_2019-10-28 22:46:24.703920 3_newdataiter_4epochs_224size.model', errno = 2, error message = 'No such file or directory', flags = 13, o_flags = 242)
