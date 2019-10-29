@@ -36,63 +36,63 @@ def get_input():
     num_img = 0 
     for file in os.listdir(train_path_normal):
         num_img += 1
-        print("... ... Processed train norm" + str(num_img) + " images", end="\r")
+        print("... ... Processed train norm " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(train_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_train.append(np.array(img))
             y_train.append(0)
-    print("... ... Processed train norm" + str(num_img) + " images")        
+    print("... ... Processed train norm " + str(num_img) + " images")        
     
     num_img = 0 
     for file in os.listdir(train_path_pneumonia):
         num_img += 1
-        print("... ... Processed train pneumonia" + str(num_img) + " images", end="\r")
+        print("... ... Processed train pneu " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(train_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_train.append(np.array(img))
             y_train.append(1)
-    print("... ... Processed train pneumonia" + str(num_img) + " images")     
+    print("... ... Processed train pneu " + str(num_img) + " images")     
 
     num_img = 0 
     for file in os.listdir(test_path_normal):
         num_img += 1
-        print("... ... Processed test norm" + str(num_img) + " images", end="\r")
+        print("... ... Processed test norm " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(test_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(0)
-    print("... ... Processed test norm" + str(num_img) + " images")     
+    print("... ... Processed test norm " + str(num_img) + " images")     
     
     num_img = 0
     for file in os.listdir(test_path_pneumonia):
         num_img += 1
-        print("... ... Processed test pneumonia" + str(num_img) + " images", end="\r")
+        print("... ... Processed test pneu " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(test_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(1)
-    print("... ... Processed test pneumonia" + str(num_img) + " images")     
+    print("... ... Processed test pneu " + str(num_img) + " images")     
 
     num_img = 0 
     for file in os.listdir(val_path_normal):
         num_img += 1
-        print("... ... Processed val norm" + str(num_img) + " images", end="\r")
+        print("... ... Processed val norm " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(val_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(0)
-    print("... ... Processed val norm" + str(num_img) + " images")        
+    print("... ... Processed val norm " + str(num_img) + " images")        
     
     print("... obtaining pneumonia val data")
     num_img = 0 
     for file in os.listdir(val_path_pneumonia):
         num_img += 1
-        print("... ... Processed val pneumonia" + str(num_img) + " images", end="\r")
+        print("... ... Processed val pneu " + str(num_img) + " images", end="\r")
         if 'jpeg' in file:
             img = image.load_img(val_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
             X_test.append(np.array(img))
             y_test.append(1)
-    print("... ... Processed val pneumonia" + str(num_img) + " images")
+    print("... ... Processed val pneum " + str(num_img) + " images")
 
     print("... obtaining second dataset ")
     with open(second_dataset_csv, mode='r') as csv_file:
