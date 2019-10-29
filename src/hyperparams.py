@@ -9,6 +9,7 @@ neural network.
 
 import datetime as dt
 
+save_model  = False
 iter_num    = '3'
 iter_tag    = 'newdata'
 iteration   = iter_num + '_' + iter_tag
