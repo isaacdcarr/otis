@@ -15,4 +15,4 @@ iteration   = iter_num + '_' + iter_tag
 epochs      = 4
 target_w    = 224
 target_h    = target_w
-title       = 'lol' # str(dt.datetime.now()) + ' ' + iter_num + 'iter_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
+title       = str(dt.datetime.now()) + '_' + iteration + '_' + str(epochs) + 'epochs_' + str(target_w) + 'size'

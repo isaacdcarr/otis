@@ -1,4 +1,3 @@
-
 """
 Isaac Carr (i.carr@unsw.edu.au)
 Developed for MMAN4020, 19T3
@@ -16,9 +15,9 @@ from hyperparams    import title, target_h, target_w
 def get_model():
     cnn = Sequential()
     cnn.add(Conv2D(32, kernel_size=(3,3), input_shape=(target_w, target_h, 1), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
+    cnn.add(MaxPool2D(pool_size=(2,2)))
     cnn.add(Conv2D(64, kernel_size=(3,3), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
+    cnn.add(MaxPool2D(pool_size=(2,2)))
     cnn.add(Flatten())
     cnn.add(Dense(1024, activation='elu'))
     cnn.add(Dense(2,activation='sigmoid'))

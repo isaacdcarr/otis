@@ -30,7 +30,6 @@ from otis_results   import get_results
 def main(): 
     print("== Starting Otis ==")
     print(title)
-
     print("... hyperparams")
     print("...    epochs:\t" + str(epochs))
     print("...    targ_w:\t" + str(target_w))
@@ -58,9 +57,6 @@ def main():
 
     # Save results
     get_results(history_cnn)
-
-    
-    
  
 if __name__ == '__main__':
     main()
