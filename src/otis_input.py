@@ -121,4 +121,4 @@ def get_input():
     y_train = to_categorical(y_train, 2)
     y_test  = to_categorical(y_test, 2)
 
-    return (X_train, y_train, X_test, y_test, X_val, y_val)
+    return (X_train, y_train, X_test, y_test)
