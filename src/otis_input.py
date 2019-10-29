@@ -3,31 +3,19 @@ Isaac Carr (i.carr@unsw.edu.au)
 Developed for MMAN4020, 19T3
 Health Group 4
 ---
-This file aims to construct a complete convolutional neural network (CNN) from scratch.
-It aims to be a proof of concept to see if a CNN can accurately detect pneumonia from a
-chest x-ray.
+The file gathers the data 
 
 This file includes training, testing & validating.
 """
 
-# Imports
-from keras.models           import Sequential, model_from_json
-from keras.utils            import to_categorical 
-from keras.layers           import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU
-from keras.preprocessing    import image
-
-import matplotlib.pyplot as plt 
+import os
+import csv
 import numpy as np 
-import os, json, csv 
-import scipy.io as sio
-import datetime as dt
 
-from hyperparams import *
+from keras.preprocessing    import image
+from hyperparams import target_h, target_w
 
-title = str(dt.datetime.now()) + ' ' + iter_num + 'iter_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
-
-# Pre-processing
-def preprocess(target_w, target_h): 
+def get_input(): 
     X_train, y_train, X_test, y_test, X_val, y_val = [], [], [], [], [], []
 
     path                    = 'data/chest_xray/'
@@ -37,6 +25,7 @@ def preprocess(target_w, target_h):
     test_path_pneumonia     = path + 'test/PNEUMONIA/'
     val_path_normal         = path + 'val/NORMAL/'
     val_path_pneumonia      = path + 'val/PNEUMONIA/'
+
     second_root_path        = 'data/rsna-dataset/'
     second_dataset_csv      = second_root_path + 'stage_2_train_labels.csv'
     second_dataset_path     = second_root_path + 'train_img/'
@@ -147,80 +136,3 @@ def preprocess(target_w, target_h):
     # print("y_test:\t" + str(y_test.shape)) 
 
     return (X_train, y_train, X_test, y_test, X_val, y_val)
-
-def model(target_w, target_h):
-    cnn = Sequential()
-    cnn.add(Conv2D(32, kernel_size=(3,3), input_shape=(target_w, target_h, 1), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
-    cnn.add(Conv2D(64, kernel_size=(3,3), padding='same', activation='elu'))
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=2))
-    cnn.add(Flatten())
-    cnn.add(Dense(1024, activation='elu'))
-    cnn.add(Dense(2,activation='sigmoid'))
-    cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-    
-    print(cnn.summary())
-
-    with open("model/model_architecture" + title + ".json", "w") as json_file:
-        json_file.write(cnn.to_json())
-
-    return cnn
-
-def main(): 
-    print("== Starting Otis ==")
-    print(title)
-
-    print("... hyperparams")
-    print("...    epochs:\t" + str(epochs))
-    print("...    targ_w:\t" + str(target_w))
-    print("...    targ_h:\t" + str(target_h))
-
-    # Run model 
-    (X_train, y_train, X_test, y_test, X_val, y_val) = preprocess(target_w, target_h) 
-    print("... define model")
-    cnn = model(target_w, target_h) 
-
-    print(">>> For epochs: " + str(epochs))
-    print("... fit model")
-    history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, validation_data=(X_test, y_test))
-    cnn.save_weights("model/weights/weights_" + title  +'.model')
-    cnn.save("model/model/entire_model_" + title + '.hdf5')
-
-    # show gathered data
-    try:
-        json.dump(history_cnn.history, open('model/history/history_' + title, 'w'))
-    except:
-        json.dump(str(history_cnn.history), open('model/history/history_' + title, 'w'))
-        print("Saved history as str")
-        
-    # Plot accuracy
-    plt.plot(history_cnn.history['accuracy'])
-    plt.plot(history_cnn.history['val_accuracy'])
-    plt.title('Model accuracy')
-    plt.xlabel('epoch')   
-    plt.ylabel('accuracy')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.savefig('model/img/acc_' + title + '.png')
-    #plt.show()
-    plt.clf()
-
-    # Plot loss
-    plt.plot(history_cnn.history['loss'])
-    plt.plot(history_cnn.history['val_loss'])
-    plt.title('Model loss')
-    plt.xlabel('epoch')
-    plt.ylabel('loss')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.savefig('model/img/loss_' + title + '.png')
-    #plt.show()
-    plt.clf()
-
-    # Evalute
-    score = cnn.evaluate(X_test, y_test)
-    print(score)
-    
-    # Save data 
-    sio.savemat('data/results/' + title + '.mat', history_cnn.history)
- 
-if __name__ == '__main__':
-    main()

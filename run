@@ -7,4 +7,4 @@
 
 clear
 date
-python3 src/otis.py # | tee model/output/$(date '+%Y-%m-%d_%H-%M')_output.txt
+python3 src/otis_run.py # | tee model/output/$(date '+%Y-%m-%d_%H-%M')_output.txt

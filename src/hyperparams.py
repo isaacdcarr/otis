@@ -7,7 +7,12 @@ The file defines hyperparameters for the convolutional
 neural network.
 """
 
-iter_num    = '3_newdata'
+# import datetime as dt
+
+iter_num    = '3'
+iter_tag    = 'newdata'
+iteration   = iter_num + '_' + iter_tag
 epochs      = 4
 target_w    = 224
 target_h    = target_w
+title       = 'lol' # str(dt.datetime.now()) + ' ' + iter_num + 'iter_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
