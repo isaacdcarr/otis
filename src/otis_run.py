@@ -9,6 +9,7 @@ chest x-ray.
 
 This file includes training, testing & validating.
 """
+from keras.callbacks import CSVLogger
 
 from hyperparams    import *
 from otis_input     import get_input
@@ -29,8 +30,13 @@ def main():
     # Define model
     cnn = get_model() 
 
+    # Define logger callback
+    csv_path = 'results/history/csv/'
+    csv_logger = CSVLogger(csv_path + title + '.csv', append=False)
+
     # Train the model
-    history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, validation_data=(X_test, y_test))
+    history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
+        callbacks=[csv_logger], validation_data=(X_test, y_test))
     
     # Locally save the weights and entire model
     if save_model: 
