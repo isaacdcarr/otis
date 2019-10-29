@@ -12,10 +12,10 @@ import matplotlib.pyplot as plt
 import scipy.io as sio
 from hyperparams import title
 
-def get_results(history_cnn): 
+def get_results(history): 
     # Plot accuracy
-    plt.plot(history_cnn.history['accuracy'])
-    plt.plot(history_cnn.history['val_accuracy'])
+    plt.plot(history['accuracy'])
+    plt.plot(history['val_accuracy'])
     plt.title('Model accuracy')
     plt.xlabel('epoch')   
     plt.ylabel('accuracy')
@@ -24,8 +24,8 @@ def get_results(history_cnn):
     plt.clf()
 
     # Plot loss
-    plt.plot(history_cnn.history['loss'])
-    plt.plot(history_cnn.history['val_loss'])
+    plt.plot(history['loss'])
+    plt.plot(history['val_loss'])
     plt.title('Model loss')
     plt.xlabel('epoch')
     plt.ylabel('loss')
@@ -34,13 +34,13 @@ def get_results(history_cnn):
     plt.clf()
 
     # Save data as `.mat`
-    sio.savemat('results/history/mat/' + title + '.mat', history_cnn.history)
+    sio.savemat('results/history/mat/' + title + '.mat', history)
 
     # Save the data as json
     save_path = 'results/history/json/'
     try:
-        json.dump(history_cnn.history, open(save_path + title + '.json', 'w'))
+        json.dump(history, open(save_path + title + '.json', 'w'))
     except:
-        json.dump(str(history_cnn.history), open(save_path + 'str' + title + '.json', 'w'))
+        json.dump(str(history), open(save_path + 'str' + title + '.json', 'w'))
         
 

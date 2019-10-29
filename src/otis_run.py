@@ -15,6 +15,7 @@ from hyperparams    import *
 from otis_input     import get_input
 from otis_model     import get_model
 from otis_results   import get_results
+from save_callback  import SaveResultsCallback
 
 def main(): 
     print("== Starting Otis ==")
@@ -30,13 +31,14 @@ def main():
     # Define model
     cnn = get_model() 
 
-    # Define logger callback
+    # Define graphing callback & csvlogger callback
     csv_path = 'results/history/csv/'
-    csv_logger = CSVLogger(csv_path + title + '.csv', append=False)
+    csv_logger_cb = CSVLogger(csv_path + title + '.csv', append=False)
+    save_results_cb = SaveResultsCallback() 
 
     # Train the model
     history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
-        callbacks=[csv_logger], validation_data=(X_test, y_test))
+        callbacks=[csv_logger_cb, save_results_cb], validation_data=(X_test, y_test))
     
     # Locally save the weights and entire model
     if save_model: 
@@ -48,7 +50,7 @@ def main():
     print(score)
 
     # Save results
-    get_results(history_cnn)
+    get_results(history_cnn.history)
  
 if __name__ == '__main__':
     main()
