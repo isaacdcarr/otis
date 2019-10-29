@@ -32,9 +32,10 @@ def main():
     # Train the model
     history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, validation_data=(X_test, y_test))
     
-    # Locally save the weights and entire model 
-    cnn.save_weights("model/weights/weights_" + title  +'.model')
-    cnn.save("model/model/entire_model_" + title + '.hdf5')
+    # Locally save the weights and entire model
+    if save_model: 
+        cnn.save_weights("model/weights/weights_" + title  +'.model')
+        cnn.save("model/model/entire_model_" + title + '.hdf5')
     
     # Evalute
     score = cnn.evaluate(X_test, y_test)
