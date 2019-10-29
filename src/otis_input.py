@@ -13,6 +13,8 @@ import csv
 import numpy as np 
 
 from keras.preprocessing    import image
+from keras.utils            import to_categorical 
+
 from hyperparams import target_h, target_w
 
 def get_input(): 

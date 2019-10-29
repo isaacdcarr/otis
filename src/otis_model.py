@@ -9,7 +9,6 @@ This file constructs the CNN using keras.
 # import json
 from keras.models   import Sequential
 from keras.layers   import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU
-from keras.utils    import to_categorical 
 from hyperparams    import title, target_h, target_w
 
 def get_model():
