@@ -9,11 +9,12 @@ neural network.
 
 import datetime as dt
 
-save_model  = False
-iter_num    = '3'
-iter_tag    = 'newdata'
-iteration   = iter_num + '_' + iter_tag
-epochs      = 100
-target_w    = 224
-target_h    = target_w
-title       = dt.datetime.now().strftime("%Y-%m-%d_%H:%M") + '_' + iteration + '_' + str(epochs) + 'epochs_' + str(target_w) + 'size'
+save_model      = False
+single_input    = True
+iter_num        = '4'
+iter_tag        = 'data_split0.2'
+iteration       = iter_num + '_' + iter_tag
+epochs          = 100
+target_w        = 224
+target_h        = target_w
+title           = dt.datetime.now().strftime("%Y-%m-%d_%H:%M") + '_' + iteration + '_' + str(epochs) + 'epochs_' + str(target_w) + 'size'

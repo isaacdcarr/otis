@@ -12,7 +12,7 @@ This file includes training, testing & validating.
 from keras.callbacks import CSVLogger
 
 from hyperparams    import *
-from otis_input     import get_input
+from otis_input     import get_input_train_and_test, get_single_input
 from otis_model     import get_model
 from otis_results   import get_results
 from save_callback  import SaveResultsCallback
@@ -25,9 +25,6 @@ def main():
     print("...    targ_w:\t" + str(target_w))
     print("...    targ_h:\t" + str(target_h))
 
-    # Obtain input 
-    (X_train, y_train, X_test, y_test) = get_input()
-    
     # Define model
     cnn = get_model() 
 
@@ -36,9 +33,19 @@ def main():
     csv_logger_cb = CSVLogger(csv_path + title + '.csv', append=False)
     save_results_cb = SaveResultsCallback() 
 
+    # Obtain input 
+    if not single_input:
+        (X_train, y_train, X_test, y_test) = get_input_train_and_test()
+    else:
+        (X, Y) = get_single_input()
+
     # Train the model
-    history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
-        callbacks=[csv_logger_cb, save_results_cb], validation_data=(X_test, y_test))
+    if not single_input:
+        history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
+            callbacks=[csv_logger_cb, save_results_cb], validation_data=(X_test, y_test))
+    else:
+        history_cnn = cnn.fit(X, y, epochs=epochs, verbose=1, \
+            callbacks=[csv_logger_cb, save_results_cb], validation_split=0.2)
     
     # Locally save the weights and entire model
     if save_model: 

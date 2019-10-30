@@ -17,20 +17,20 @@ from keras.utils            import to_categorical
 
 from hyperparams import target_h, target_w
 
-def get_input(): 
+path                    = 'data/chest_xray/'
+train_path_normal       = path + 'train/NORMAL/'
+train_path_pneumonia    = path + 'train/PNEUMONIA/'
+test_path_normal        = path + 'test/NORMAL/'
+test_path_pneumonia     = path + 'test/PNEUMONIA/'
+val_path_normal         = path + 'val/NORMAL/'
+val_path_pneumonia      = path + 'val/PNEUMONIA/'
+
+second_root_path        = 'data/rsna-dataset/'
+second_dataset_csv      = second_root_path + 'stage_2_train_labels.csv'
+second_dataset_path     = second_root_path + 'train_img/'
+
+def get_input_train_and_test(): 
     X_train, y_train, X_test, y_test = [], [], [], []
-
-    path                    = 'data/chest_xray/'
-    train_path_normal       = path + 'train/NORMAL/'
-    train_path_pneumonia    = path + 'train/PNEUMONIA/'
-    test_path_normal        = path + 'test/NORMAL/'
-    test_path_pneumonia     = path + 'test/PNEUMONIA/'
-    val_path_normal         = path + 'val/NORMAL/'
-    val_path_pneumonia      = path + 'val/PNEUMONIA/'
-
-    second_root_path        = 'data/rsna-dataset/'
-    second_dataset_csv      = second_root_path + 'stage_2_train_labels.csv'
-    second_dataset_path     = second_root_path + 'train_img/'
 
     print("... obtaining first dataset ")
     num_img = 0 
@@ -122,3 +122,93 @@ def get_input():
     y_test  = to_categorical(y_test, 2)
 
     return (X_train, y_train, X_test, y_test)
+
+def get_single_input(): 
+    X, y = [], [] 
+
+    print("... obtaining first dataset ")
+    num_img = 0 
+    for file in os.listdir(train_path_normal):
+        num_img += 1
+        print("... ... Processed train norm " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(train_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(0)
+    print("... ... Processed train norm " + str(num_img) + " images")        
+    
+    num_img = 0 
+    for file in os.listdir(train_path_pneumonia):
+        num_img += 1
+        print("... ... Processed train pneu " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(train_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(1)
+    print("... ... Processed train pneu " + str(num_img) + " images")     
+
+    num_img = 0 
+    for file in os.listdir(test_path_normal):
+        num_img += 1
+        print("... ... Processed test norm " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(test_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(0)
+    print("... ... Processed test norm " + str(num_img) + " images")     
+    
+    num_img = 0
+    for file in os.listdir(test_path_pneumonia):
+        num_img += 1
+        print("... ... Processed test pneu " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(test_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(1)
+    print("... ... Processed test pneu " + str(num_img) + " images")     
+
+    num_img = 0 
+    for file in os.listdir(val_path_normal):
+        num_img += 1
+        print("... ... Processed val norm " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(val_path_normal + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(0)
+    print("... ... Processed val norm " + str(num_img) + " images")        
+    
+    print("... obtaining pneumonia val data")
+    num_img = 0 
+    for file in os.listdir(val_path_pneumonia):
+        num_img += 1
+        print("... ... Processed val pneu " + str(num_img) + " images", end="\r")
+        if 'jpeg' in file:
+            img = image.load_img(val_path_pneumonia + file, target_size=(target_w, target_h), color_mode="grayscale")
+            X.append(np.array(img))
+            y.append(1)
+    print("... ... Processed val pneum " + str(num_img) + " images")
+
+    print("... obtaining second dataset ")
+    with open(second_dataset_csv, mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        num_rows = 0
+        num_fail = 0 
+        for row in csv_reader:
+            try: 
+                img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
+                X.append(np.array(img))
+                y.append(int(row["Target"]))
+                num_rows += 1
+            except Exception as e: 
+                print(e)
+                num_fail += 1 
+            print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
+    print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail))
+
+    X = np.array(X)
+    y = np.array(y)
+
+    X = X.reshape(X.shape + (1,))
+    y = to_categorical(y, 2)
+
+    return (X, y)

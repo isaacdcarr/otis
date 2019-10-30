@@ -22,5 +22,5 @@ class SaveResultsCallback(keras.callbacks.Callback):
         for k, v in logs.items():
             self.history.setdefault(k, []).append(v)
 
-        if epoch % 5 == 0:
+        if len(self.epochs) % 5 == 0:
             get_results(self.history)
