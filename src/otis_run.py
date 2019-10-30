@@ -37,7 +37,7 @@ def main():
     if not single_input:
         (X_train, y_train, X_test, y_test) = get_input_train_and_test()
     else:
-        (X, Y) = get_single_input()
+        (X, y) = get_single_input()
 
     # Train the model
     if not single_input:
