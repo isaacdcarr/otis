@@ -1,5 +1,6 @@
-venv/
 model/weights/
 model/model/
-venv/
-src/__pycache__/
+venv
+__pycache__
+.DS_Store
+.vscode
