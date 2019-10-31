@@ -10,9 +10,9 @@ neural network.
 import datetime as dt
 
 save_model      = False
-single_input    = True
-iter_num        = '4'
-iter_tag        = 'data_split0.2'
+single_input    = False
+iter_num        = '5'
+iter_tag        = 'nosplit'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
 target_w        = 224
