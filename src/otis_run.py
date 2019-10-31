@@ -45,7 +45,7 @@ def main():
             callbacks=[csv_logger_cb, save_results_cb], validation_data=(X_test, y_test))
     else:
         history_cnn = cnn.fit(X, y, epochs=epochs, verbose=1, \
-            callbacks=[csv_logger_cb, save_results_cb], validation_split=0.2)
+            callbacks=[csv_logger_cb, save_results_cb], validation_split=val_split)
     
     # Locally save the weights and entire model
     if save_model: 
