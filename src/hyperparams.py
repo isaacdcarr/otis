@@ -10,13 +10,13 @@ neural network.
 import datetime as dt
 
 save_model      = False
-single_input    =False
-iter_num        = '7'
+single_input    = False
+iter_num        = '8'
 val_split       = 0.1
-iter_tag        = ''
+iter_tag        = '5000training'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
-target_w        = 500
+target_w        = 400
 target_h        = target_w
 title           = dt.datetime.now().strftime("%Y-%m-%d_%H:%M") + \
                     '_' + iteration + '_' + str(epochs) + \
