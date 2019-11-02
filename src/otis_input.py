@@ -94,22 +94,22 @@ def get_input_train_and_test():
             y_test.append(1)
     print("... ... Processed val pneum " + str(num_img) + " images")
 
-    # print("... obtaining second dataset ")
-    # with open(second_dataset_csv, mode='r') as csv_file:
-    #     csv_reader = csv.DictReader(csv_file)
-    #     num_rows = 0
-    #     num_fail = 0 
-    #     for row in csv_reader:
-    #         try: 
-    #             img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
-    #             X_train.append(np.array(img))
-    #             y_train.append(int(row["Target"]))
-    #             num_rows += 1
-    #         except Exception as e: 
-    #             print(e)
-    #             num_fail += 1 
-    #         print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
-    # print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail))
+    print("... obtaining second dataset ")
+    with open(second_dataset_csv, mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        num_rows = 0
+        num_fail = 0 
+        for row in csv_reader:
+            try: 
+                img = image.load_img(second_dataset_path + row["patientId"] + '.png', target_size=(target_w, target_h), color_mode="grayscale")
+                X_train.append(np.array(img))
+                y_train.append(int(row["Target"]))
+                num_rows += 1
+            except Exception as e: 
+                print(e)
+                num_fail += 1 
+            print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
+    print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail))
 
     X_train = np.array(X_train)
     y_train = np.array(y_train)
