@@ -52,12 +52,12 @@ def main():
         cnn.save_weights("model/weights/weights_" + title  +'.model')
         cnn.save("model/model/entire_model_" + title + '.hdf5')
     
+    # Save results
+    get_results(history_cnn.history)
+
     # Evalute
     score = cnn.evaluate(X_test, y_test)
     print(score)
-
-    # Save results
-    get_results(history_cnn.history)
  
 if __name__ == '__main__':
     main()
