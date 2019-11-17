@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = False
-iter_num        = '11'
+iter_num        = '12'
 val_split       = 0.1
-iter_tag        = 'extralayer512'
+iter_tag        = 'fin'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 250
 target_w        = 300
