@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = False
-iter_num        = '15'
+iter_num        = '16'
 val_split       = 0.1
-iter_tag        = 'alldatasingleout_specificvalidationset'
+iter_tag        = 'alldatasingleout_singledataset'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 250
 target_w        = 300
