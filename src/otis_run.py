@@ -42,7 +42,7 @@ def main():
     # Train the model
     if not single_input:
         history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
-            callbacks=[csv_logger_cb, save_results_cb], validation_data=(X_test, y_test))
+             validation_data=(X_test, y_test))
     else:
         history_cnn = cnn.fit(X, y, epochs=epochs, verbose=1, \
             callbacks=[csv_logger_cb, save_results_cb], validation_split=val_split)
