@@ -125,8 +125,8 @@ def get_input_train_and_test():
 
     X_train = X_train.reshape(X_train.shape + (1,))
     X_test  = X_test.reshape(X_test.shape + (1,))
-    y_train = to_categorical(y_train, 2)
-    y_test  = to_categorical(y_test, 2)
+    # y_train = to_categorical(y_train, 2)
+    # y_test  = to_categorical(y_test, 2)
 
     return (X_train, y_train, X_test, y_test)
 
