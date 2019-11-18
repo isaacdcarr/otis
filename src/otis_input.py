@@ -93,7 +93,7 @@ def get_input_train_and_test():
             X_test.append(np.array(img))
             y_test.append(1)
     print("... ... Processed val pneum " + str(num_img) + " images")
-
+    '''
     print("... obtaining second dataset ")
     with open(second_dataset_csv, mode='r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -117,7 +117,7 @@ def get_input_train_and_test():
             print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail), end="\r")
     print("... ... Processed:\t" + str(num_rows) + ", failed:\t" + str(num_fail))
     print("Num pos:\t", num_pos, "\tNum neg:\t", num_neg)
-
+    '''
     X_train = np.array(X_train)
     y_train = np.array(y_train)
     X_test  = np.array(X_test)

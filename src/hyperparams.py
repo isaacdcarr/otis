@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = False
-iter_num        = '12'
+iter_num        = '13'
 val_split       = 0.1
-iter_tag        = 'fin'
+iter_tag        = '1stdataset'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 250
 target_w        = 224
