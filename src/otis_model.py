@@ -19,7 +19,7 @@ def get_model():
     cnn.add(MaxPool2D(pool_size=(2,2)))
     cnn.add(Flatten())
     cnn.add(Dense(1024, activation='elu'))
-    cnn.add(Dense(2,activation='sigmoid'))
+    cnn.add(Dense(1,activation='sigmoid'))
     cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     
     print(cnn.summary())
