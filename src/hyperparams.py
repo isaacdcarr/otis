@@ -10,12 +10,12 @@ neural network.
 import datetime as dt
 
 save_model      = True
-single_input    = False
-iter_num        = '16'
+single_input    = True
+iter_num        = '17'
 val_split       = 0.1
-iter_tag        = 'alldatasingleout_singledataset'
+iter_tag        = 'alldatasingleout_split'
 iteration       = iter_num + '_' + iter_tag
-epochs          = 250
+epochs          = 100
 target_w        = 300
 target_h        = target_w
 title           = dt.datetime.now().strftime("%Y-%m-%d_%H:%M") + \
