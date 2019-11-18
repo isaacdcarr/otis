@@ -216,6 +216,6 @@ def get_single_input():
     y = np.array(y)
 
     X = X.reshape(X.shape + (1,))
-    y = to_categorical(y, 2)
+    # y = to_categorical(y, 2)
 
     return (X, y)
