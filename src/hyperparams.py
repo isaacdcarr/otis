@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = False
-iter_num        = '20'
+iter_num        = '21'
 val_split       = 0.1
-iter_tag        = 'newmodel'
+iter_tag        = 'newmodel_alldata'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
 target_w        = 400
