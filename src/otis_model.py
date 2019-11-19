@@ -24,7 +24,7 @@ def get_model():
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
 
-    cnn.add(MaxPool2D(pool_size=(2,2),stides=(2,2)))
+    cnn.add(MaxPool2D(pool_size=(2,2),strides=(2,2)))
     
     cnn.add(Flatten())
 
