@@ -10,10 +10,10 @@ neural network.
 import datetime as dt
 
 save_model      = True
-single_input    = False
-iter_num        = '21'
+single_input    = True
+iter_num        = '22'
 val_split       = 0.1
-iter_tag        = 'newmodel_alldata'
+iter_tag        = 'newmodel_alldata_split'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
 target_w        = 300
