@@ -30,7 +30,7 @@ def get_model():
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
 
-    cnn.add(Conv2D(64, kernel_size=(3,3), stides=(1,1), input_shape=(target_w, target_h, 1), kernel_initializer='glorot_uniform'))
+    cnn.add(Conv2D(64, kernel_size=(3,3), strides=(1,1), input_shape=(target_w, target_h, 1), kernel_initializer='glorot_uniform'))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
 
