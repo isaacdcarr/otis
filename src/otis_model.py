@@ -42,7 +42,7 @@ def get_model():
     
     print(cnn.summary())
 
-    with open("model/arch/" + title + ".json", "w") as json_file:
-        json_file.write(cnn.to_json())
+    # with open("model/arch/" + title + ".json", "w") as json_file:
+    #     json_file.write(cnn.to_json())
 
     return cnn
