@@ -32,11 +32,11 @@ def get_model():
     cnn.add(Dense(1024))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
-
+    cnn.add(Dropout(0.4))
     cnn.add(Dense(256))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
-
+    cnn.add(Dropout(0.4))
     cnn.add(Dense(1,activation='sigmoid'))
     cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     
