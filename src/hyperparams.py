@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = True
-iter_num        = '23'
+iter_num        = '24'
 val_split       = 0.1
-iter_tag        = 'newnew_alldata_split'
+iter_tag        = 'newnew_alldata_split_adddropout'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
 target_w        = 300

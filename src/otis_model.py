@@ -8,7 +8,7 @@ This file constructs the CNN using keras.
 
 # import json
 from keras.models   import Sequential
-from keras.layers   import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU
+from keras.layers   import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU,  Dropout
 from keras.layers.normalization import BatchNormalization
 from hyperparams    import title, target_h, target_w
 
@@ -18,11 +18,6 @@ def get_model():
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
 
-    cnn.add(MaxPool2D(pool_size=(2,2), strides=(2,2)))
-
-    cnn.add(Conv2D(32, kernel_size=(3,3), strides=(1,1), input_shape=(target_w, target_h, 1), kernel_initializer='glorot_uniform'))
-    cnn.add(LeakyReLU(alpha=0.1))
-    cnn.add(BatchNormalization())
 
     cnn.add(MaxPool2D(pool_size=(2,2),strides=(2,2)))
 
@@ -30,9 +25,6 @@ def get_model():
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
 
-    cnn.add(Conv2D(64, kernel_size=(3,3), strides=(1,1), input_shape=(target_w, target_h, 1), kernel_initializer='glorot_uniform'))
-    cnn.add(LeakyReLU(alpha=0.1))
-    cnn.add(BatchNormalization())
 
     cnn.add(MaxPool2D(pool_size=(2,2),strides=(2,2)))
     
@@ -41,14 +33,12 @@ def get_model():
     cnn.add(Dense(1024))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
+    cnn.add(Dropout(0.4))
 
     cnn.add(Dense(256))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
-
-    cnn.add(Dense(256))
-    cnn.add(LeakyReLU(alpha=0.1))
-    cnn.add(BatchNormalization())
+    cnn.add(Dropout(0.4))
 
     cnn.add(Dense(1,activation='sigmoid'))
     cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
