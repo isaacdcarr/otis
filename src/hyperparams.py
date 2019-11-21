@@ -16,7 +16,7 @@ val_split       = 0.1
 iter_tag        = 'newnew_alldata_split_adddropout'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
-target_w        = 512
+target_w        = 300
 target_h        = target_w
 title           = dt.datetime.now().strftime("%Y-%m-%d_%H:%M") + \
                     '_' + iteration + '_' + str(epochs) + \
