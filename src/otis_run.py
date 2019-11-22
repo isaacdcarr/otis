@@ -38,7 +38,6 @@ def main():
         (X_train, y_train, X_test, y_test) = get_input_train_and_test()
     else:
         (X, y) = get_single_input()
-    return 
     # Train the model
     if not single_input:
         history_cnn = cnn.fit(X_train, y_train, epochs=epochs, verbose=1, \
