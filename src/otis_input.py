@@ -216,6 +216,7 @@ def get_single_input():
     y = np.array(y)
 
     X = X.reshape(X.shape + (1,))
-    # y = to_categorical(y, 2)
+    X = X.astype('float32')
+    X /= 255.0
 
     return (X, y)
