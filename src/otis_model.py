@@ -12,6 +12,7 @@ from keras.layers   import Conv2D, MaxPool2D, Flatten, Dense, LeakyReLU,  Dropou
 from keras.layers.normalization import BatchNormalization
 from hyperparams    import title, target_h, target_w
 
+from otis_results import sensitivity, specificity
 def get_model():
     cnn = Sequential()
     cnn.add(Conv2D(32, kernel_size=(3,3), input_shape=(target_w, target_h, 1), kernel_initializer='glorot_uniform'))
@@ -37,7 +38,7 @@ def get_model():
     cnn.add(BatchNormalization())
 
     cnn.add(Dense(1,activation='sigmoid'))
-    cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy',sensitivity,specificity])
     
     print(cnn.summary())
 
