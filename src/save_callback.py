@@ -19,8 +19,6 @@ class SaveResultsCallback(keras.callbacks.Callback):
         self.spec = []
 
     def on_epoch_end(self, epoch, logs=None):
-        print("LOGS ===")
-        print(logs)
         logs = logs or {} 
         self.epochs.append(epoch)
         for k, v in logs.items():
