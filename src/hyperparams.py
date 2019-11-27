@@ -11,9 +11,9 @@ import datetime as dt
 
 save_model      = True
 single_input    = True
-iter_num        = '25'
+iter_num        = '26'
 val_split       = 0.1
-iter_tag        = 'normaliseimg'
+iter_tag        = 'best_model'
 iteration       = iter_num + '_' + iter_tag
 epochs          = 100
 target_w        = 300

@@ -20,7 +20,6 @@ def get_model():
 
     cnn.add(MaxPool2D(pool_size=(2,2),strides=(2,2)))
 
-
     cnn.add(Conv2D(64, strides=(1,1), kernel_size=(3,3)))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
@@ -32,17 +31,17 @@ def get_model():
     cnn.add(Dense(1024))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
-    cnn.add(Dropout(0.4))
+
     cnn.add(Dense(256))
     cnn.add(LeakyReLU(alpha=0.1))
     cnn.add(BatchNormalization())
-    cnn.add(Dropout(0.4))
+
     cnn.add(Dense(1,activation='sigmoid'))
     cnn.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     
     print(cnn.summary())
 
-    # with open("model/arch/" + title + ".json", "w") as json_file:
-    #     json_file.write(cnn.to_json())
+    with open("model/arch/" + title + ".json", "w") as json_file:
+        json_file.write(cnn.to_json())
 
     return cnn

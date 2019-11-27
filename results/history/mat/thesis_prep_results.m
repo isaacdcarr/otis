@@ -8,7 +8,7 @@ hold on;
 title("Otis model training and validation accuracy")
 xlabel("Epoch");
 ylabel("Accuracy");
-xlim([0 35]);
+xlim([0 100]);
 ylim([0.5 1]);
 plot(dat1.accuracy, 'linewidth',2);
 plot(dat1.val_accuracy, 'linewidth',2);
