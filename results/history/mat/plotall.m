@@ -1,4 +1,4 @@
-
+dr
 dat1= load('2019-10-30_10:07_3_newdata_100epochs_224size.mat');
 dat2 = load('2019-10-31_00:23_4_data_split0.2_100epochs_224size.mat') ;
 dat3 = load('2019-10-31_05:29_5_nosplit_100epochs_224size.mat');
